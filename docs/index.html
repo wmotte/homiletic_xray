@@ -1346,6 +1346,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             checkbox.id = `stat-${theologian}`;
             checkbox.value = theologian;
             checkbox.onchange = updateStatistics;
+            checkbox.checked = true; // Set to true to make it checked by default
 
             const label = document.createElement('label');
             label.htmlFor = `stat-${theologian}`;
