@@ -685,6 +685,20 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
     };
     let currentData = null;
 
+    // Display name mapping for theologians
+    const theologianDisplayNames = {
+        'augustine': 'Augustine of Hippo',
+        'brueggemann': 'Walter Brueggemann',
+        'keller': 'Timothy Keller',
+        'rutledge': 'Fleming Rutledge',
+        'solle': 'Dorothee Sölle',
+        'taylor': 'Gardner C. Taylor'
+    };
+
+    function getTheologianDisplayName(theologian) {
+        return theologianDisplayNames[theologian] || theologian.charAt(0).toUpperCase() + theologian.slice(1);
+    }
+
     // --- FILE DISCOVERY ---
     function showLoadingOverlay(show = true) {
         const overlay = document.getElementById('loading-overlay');
@@ -858,7 +872,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         Array.from(availableFiles.theologians).sort().forEach(theologian => {
             const option = document.createElement('option');
             option.value = theologian;
-            option.textContent = theologian.charAt(0).toUpperCase() + theologian.slice(1);
+            option.textContent = getTheologianDisplayName(theologian);
             select.appendChild(option);
         });
     }
@@ -1335,7 +1349,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
 
             const label = document.createElement('label');
             label.htmlFor = `stat-${theologian}`;
-            label.textContent = theologian.charAt(0).toUpperCase() + theologian.slice(1);
+            label.textContent = getTheologianDisplayName(theologian);
 
             div.appendChild(checkbox);
             div.appendChild(label);
@@ -1613,7 +1627,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         let html = `
             <div class="card" style="margin-bottom: 1.5rem;">
                 <div class="card-header">
-                    <span class="card-title">Comparative Analysis: ${theologians.map(t => t.charAt(0).toUpperCase() + t.slice(1)).join(', ')}</span>
+                    <span class="card-title">Comparative Analysis: ${theologians.map(t => getTheologianDisplayName(t)).join(', ')}</span>
                 </div>
                 <div class="text-content">
                     <p style="font-size: 0.85rem; color: var(--text-muted);">
