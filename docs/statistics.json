@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-14T10:26:26.217824",
+  "generated_at": "2026-01-14T11:33:21.750185",
   "theologians": [
     "augustine",
     "brueggemann",
@@ -8,6 +8,14 @@
     "solle",
     "taylor"
   ],
+  "sermon_counts": {
+    "augustine": 22,
+    "brueggemann": 181,
+    "keller": 46,
+    "rutledge": 365,
+    "solle": 28,
+    "taylor": 172
+  },
   "summary": {
     "aristoteles_Logos": {
       "augustine": {
@@ -26,9 +34,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.79,
-        "stdDev": 0.56,
-        "count": 125
+        "mean": 6.75,
+        "stdDev": 0.54,
+        "count": 168
       },
       "solle": {
         "mean": 5.71,
@@ -36,9 +44,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 5.6,
-        "stdDev": 0.57,
-        "count": 121
+        "mean": 5.58,
+        "stdDev": 0.56,
+        "count": 167
       }
     },
     "aristoteles_Pathos": {
@@ -58,9 +66,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.89,
-        "stdDev": 1.13,
-        "count": 125
+        "mean": 6.92,
+        "stdDev": 1.07,
+        "count": 168
       },
       "solle": {
         "mean": 7.39,
@@ -68,9 +76,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 7.66,
+        "mean": 7.64,
         "stdDev": 0.54,
-        "count": 121
+        "count": 167
       }
     },
     "aristoteles_Ethos": {
@@ -90,9 +98,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.06,
-        "stdDev": 0.91,
-        "count": 125
+        "mean": 6.99,
+        "stdDev": 0.88,
+        "count": 168
       },
       "solle": {
         "mean": 7.07,
@@ -101,8 +109,8 @@
       },
       "taylor": {
         "mean": 6.93,
-        "stdDev": 0.75,
-        "count": 121
+        "stdDev": 0.72,
+        "count": 167
       }
     },
     "aristoteles_Overall": {
@@ -122,9 +130,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.94,
-        "stdDev": 0.48,
-        "count": 125
+        "mean": 6.91,
+        "stdDev": 0.45,
+        "count": 168
       },
       "solle": {
         "mean": 6.69,
@@ -132,9 +140,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.74,
+        "mean": 6.73,
         "stdDev": 0.38,
-        "count": 121
+        "count": 167
       }
     },
     "dekker_#1 specific bible passage": {
@@ -154,9 +162,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 4.77,
+        "mean": 4.76,
         "stdDev": 0.99,
-        "count": 334
+        "count": 365
       },
       "solle": {
         "mean": 4.46,
@@ -187,8 +195,8 @@
       },
       "rutledge": {
         "mean": 4.68,
-        "stdDev": 1.19,
-        "count": 334
+        "stdDev": 1.2,
+        "count": 365
       },
       "solle": {
         "mean": 4.0,
@@ -218,9 +226,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.22,
-        "stdDev": 1.13,
-        "count": 334
+        "mean": 6.15,
+        "stdDev": 1.18,
+        "count": 365
       },
       "solle": {
         "mean": 6.36,
@@ -250,9 +258,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 5.12,
-        "stdDev": 0.96,
-        "count": 334
+        "mean": 5.1,
+        "stdDev": 0.94,
+        "count": 365
       },
       "solle": {
         "mean": 4.68,
@@ -283,8 +291,8 @@
       },
       "rutledge": {
         "mean": 6.44,
-        "stdDev": 0.83,
-        "count": 334
+        "stdDev": 0.81,
+        "count": 365
       },
       "solle": {
         "mean": 5.14,
@@ -314,9 +322,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 4.94,
-        "stdDev": 1.41,
-        "count": 334
+        "mean": 4.92,
+        "stdDev": 1.39,
+        "count": 365
       },
       "solle": {
         "mean": 5.14,
@@ -346,9 +354,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.46,
-        "stdDev": 1.04,
-        "count": 334
+        "mean": 6.51,
+        "stdDev": 1.02,
+        "count": 365
       },
       "solle": {
         "mean": 3.54,
@@ -379,8 +387,8 @@
       },
       "rutledge": {
         "mean": 4.48,
-        "stdDev": 1.34,
-        "count": 334
+        "stdDev": 1.37,
+        "count": 365
       },
       "solle": {
         "mean": 3.86,
@@ -410,9 +418,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.08,
-        "stdDev": 0.49,
-        "count": 122
+        "mean": 7.09,
+        "stdDev": 0.51,
+        "count": 159
       },
       "solle": {
         "mean": 7.19,
@@ -420,9 +428,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 7.27,
-        "stdDev": 0.6,
-        "count": 118
+        "mean": 7.24,
+        "stdDev": 0.57,
+        "count": 167
       }
     },
     "esthetiek_Dramaturgy": {
@@ -442,9 +450,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.11,
+        "mean": 7.1,
         "stdDev": 0.6,
-        "count": 122
+        "count": 159
       },
       "solle": {
         "mean": 6.99,
@@ -452,9 +460,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.35,
-        "stdDev": 0.69,
-        "count": 118
+        "mean": 6.32,
+        "stdDev": 0.67,
+        "count": 167
       }
     },
     "esthetiek_Overall": {
@@ -475,8 +483,8 @@
       },
       "rutledge": {
         "mean": 7.46,
-        "stdDev": 0.53,
-        "count": 122
+        "stdDev": 0.55,
+        "count": 159
       },
       "solle": {
         "mean": 7.37,
@@ -484,9 +492,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.91,
-        "stdDev": 0.66,
-        "count": 118
+        "mean": 6.88,
+        "stdDev": 0.64,
+        "count": 167
       }
     },
     "kolb_Concrete Experience": {
@@ -506,9 +514,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.84,
-        "stdDev": 1.08,
-        "count": 125
+        "mean": 6.85,
+        "stdDev": 1.0,
+        "count": 161
       },
       "solle": {
         "mean": 6.75,
@@ -516,9 +524,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.85,
-        "stdDev": 0.77,
-        "count": 121
+        "mean": 6.87,
+        "stdDev": 0.79,
+        "count": 167
       }
     },
     "kolb_Reflective Observation": {
@@ -538,9 +546,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.26,
-        "stdDev": 0.82,
-        "count": 125
+        "mean": 7.2,
+        "stdDev": 0.83,
+        "count": 161
       },
       "solle": {
         "mean": 7.21,
@@ -548,9 +556,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.64,
+        "mean": 6.53,
         "stdDev": 0.82,
-        "count": 121
+        "count": 167
       }
     },
     "kolb_Abstract Conceptualization": {
@@ -570,9 +578,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.3,
-        "stdDev": 0.65,
-        "count": 125
+        "mean": 7.31,
+        "stdDev": 0.66,
+        "count": 161
       },
       "solle": {
         "mean": 6.29,
@@ -580,9 +588,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.28,
-        "stdDev": 0.85,
-        "count": 121
+        "mean": 6.29,
+        "stdDev": 0.88,
+        "count": 167
       }
     },
     "kolb_Active Experimentation": {
@@ -602,9 +610,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 4.75,
-        "stdDev": 0.68,
-        "count": 125
+        "mean": 4.68,
+        "stdDev": 0.66,
+        "count": 161
       },
       "solle": {
         "mean": 4.93,
@@ -612,9 +620,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 4.54,
-        "stdDev": 0.66,
-        "count": 121
+        "mean": 4.55,
+        "stdDev": 0.7,
+        "count": 167
       }
     },
     "kolb_Overall": {
@@ -634,9 +642,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.5,
-        "stdDev": 0.43,
-        "count": 125
+        "mean": 6.49,
+        "stdDev": 0.39,
+        "count": 161
       },
       "solle": {
         "mean": 6.32,
@@ -646,7 +654,7 @@
       "taylor": {
         "mean": 6.28,
         "stdDev": 0.37,
-        "count": 121
+        "count": 167
       }
     },
     "schulz_von_thun_Factual Content": {
@@ -666,9 +674,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 7.07,
-        "stdDev": 0.51,
-        "count": 134
+        "mean": 7.04,
+        "stdDev": 0.48,
+        "count": 175
       },
       "solle": {
         "mean": 5.86,
@@ -677,8 +685,8 @@
       },
       "taylor": {
         "mean": 5.82,
-        "stdDev": 0.41,
-        "count": 125
+        "stdDev": 0.4,
+        "count": 167
       }
     },
     "schulz_von_thun_Self-Revelation": {
@@ -698,9 +706,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 6.57,
-        "stdDev": 0.92,
-        "count": 134
+        "mean": 6.5,
+        "stdDev": 0.86,
+        "count": 175
       },
       "solle": {
         "mean": 7.29,
@@ -708,9 +716,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.82,
-        "stdDev": 0.85,
-        "count": 125
+        "mean": 6.81,
+        "stdDev": 0.82,
+        "count": 167
       }
     },
     "schulz_von_thun_Relational Aspect": {
@@ -730,9 +738,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 5.6,
-        "stdDev": 0.77,
-        "count": 134
+        "mean": 5.59,
+        "stdDev": 0.74,
+        "count": 175
       },
       "solle": {
         "mean": 5.39,
@@ -740,9 +748,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 5.98,
-        "stdDev": 1.03,
-        "count": 125
+        "mean": 5.95,
+        "stdDev": 1.0,
+        "count": 167
       }
     },
     "schulz_von_thun_Appeal Aspect": {
@@ -762,9 +770,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 7.06,
-        "stdDev": 1.02,
-        "count": 134
+        "mean": 7.21,
+        "stdDev": 0.99,
+        "count": 175
       },
       "solle": {
         "mean": 4.89,
@@ -772,9 +780,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 5.73,
-        "stdDev": 1.2,
-        "count": 125
+        "mean": 5.74,
+        "stdDev": 1.18,
+        "count": 167
       }
     },
     "schulz_von_thun_Overall": {
@@ -794,9 +802,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 7.14,
-        "stdDev": 0.59,
-        "count": 134
+        "mean": 7.18,
+        "stdDev": 0.54,
+        "count": 175
       },
       "solle": {
         "mean": 6.24,
@@ -804,9 +812,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.52,
-        "stdDev": 0.59,
-        "count": 125
+        "mean": 6.5,
+        "stdDev": 0.6,
+        "count": 167
       }
     }
   },
@@ -828,9 +836,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.79,
-        "stdDev": 0.56,
-        "count": 125
+        "mean": 6.75,
+        "stdDev": 0.54,
+        "count": 168
       },
       "solle": {
         "mean": 5.71,
@@ -838,9 +846,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 5.6,
-        "stdDev": 0.57,
-        "count": 121
+        "mean": 5.58,
+        "stdDev": 0.56,
+        "count": 167
       }
     },
     "aristoteles_Pathos": {
@@ -860,9 +868,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.89,
-        "stdDev": 1.13,
-        "count": 125
+        "mean": 6.92,
+        "stdDev": 1.07,
+        "count": 168
       },
       "solle": {
         "mean": 7.39,
@@ -870,9 +878,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 7.66,
+        "mean": 7.64,
         "stdDev": 0.54,
-        "count": 121
+        "count": 167
       }
     },
     "aristoteles_Ethos": {
@@ -892,9 +900,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.06,
-        "stdDev": 0.91,
-        "count": 125
+        "mean": 6.99,
+        "stdDev": 0.88,
+        "count": 168
       },
       "solle": {
         "mean": 7.07,
@@ -903,8 +911,8 @@
       },
       "taylor": {
         "mean": 6.93,
-        "stdDev": 0.75,
-        "count": 121
+        "stdDev": 0.72,
+        "count": 167
       }
     },
     "aristoteles_Overall": {
@@ -924,9 +932,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.94,
-        "stdDev": 0.48,
-        "count": 125
+        "mean": 6.91,
+        "stdDev": 0.45,
+        "count": 168
       },
       "solle": {
         "mean": 6.69,
@@ -934,9 +942,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.74,
+        "mean": 6.73,
         "stdDev": 0.38,
-        "count": 121
+        "count": 167
       }
     },
     "aristoteles_Balance Score": {
@@ -956,9 +964,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.76,
-        "stdDev": 0.6,
-        "count": 125
+        "mean": 6.73,
+        "stdDev": 0.57,
+        "count": 168
       },
       "solle": {
         "mean": 6.25,
@@ -966,9 +974,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.39,
+        "mean": 6.36,
         "stdDev": 0.54,
-        "count": 121
+        "count": 167
       }
     },
     "dekker_#1 specific bible passage": {
@@ -988,9 +996,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 4.77,
+        "mean": 4.76,
         "stdDev": 0.99,
-        "count": 334
+        "count": 365
       },
       "solle": {
         "mean": 4.46,
@@ -1021,8 +1029,8 @@
       },
       "rutledge": {
         "mean": 4.68,
-        "stdDev": 1.19,
-        "count": 334
+        "stdDev": 1.2,
+        "count": 365
       },
       "solle": {
         "mean": 4.0,
@@ -1052,9 +1060,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.22,
-        "stdDev": 1.13,
-        "count": 334
+        "mean": 6.15,
+        "stdDev": 1.18,
+        "count": 365
       },
       "solle": {
         "mean": 6.36,
@@ -1084,9 +1092,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 5.12,
-        "stdDev": 0.96,
-        "count": 334
+        "mean": 5.1,
+        "stdDev": 0.94,
+        "count": 365
       },
       "solle": {
         "mean": 4.68,
@@ -1117,8 +1125,8 @@
       },
       "rutledge": {
         "mean": 6.44,
-        "stdDev": 0.83,
-        "count": 334
+        "stdDev": 0.81,
+        "count": 365
       },
       "solle": {
         "mean": 5.14,
@@ -1148,9 +1156,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 4.94,
-        "stdDev": 1.41,
-        "count": 334
+        "mean": 4.92,
+        "stdDev": 1.39,
+        "count": 365
       },
       "solle": {
         "mean": 5.14,
@@ -1180,9 +1188,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.46,
-        "stdDev": 1.04,
-        "count": 334
+        "mean": 6.51,
+        "stdDev": 1.02,
+        "count": 365
       },
       "solle": {
         "mean": 3.54,
@@ -1213,8 +1221,8 @@
       },
       "rutledge": {
         "mean": 4.48,
-        "stdDev": 1.34,
-        "count": 334
+        "stdDev": 1.37,
+        "count": 365
       },
       "solle": {
         "mean": 3.86,
@@ -1244,9 +1252,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.13,
-        "stdDev": 0.75,
-        "count": 122
+        "mean": 7.17,
+        "stdDev": 0.77,
+        "count": 159
       },
       "solle": {
         "mean": 7.21,
@@ -1254,9 +1262,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 7.21,
-        "stdDev": 0.69,
-        "count": 118
+        "mean": 7.2,
+        "stdDev": 0.68,
+        "count": 167
       }
     },
     "esthetiek_Carefulness And Precision": {
@@ -1276,9 +1284,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.61,
-        "stdDev": 0.54,
-        "count": 122
+        "mean": 7.55,
+        "stdDev": 0.57,
+        "count": 159
       },
       "solle": {
         "mean": 7.39,
@@ -1286,9 +1294,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.58,
-        "stdDev": 0.85,
-        "count": 118
+        "mean": 6.5,
+        "stdDev": 0.79,
+        "count": 167
       }
     },
     "esthetiek_Musicality And Rhythm": {
@@ -1308,9 +1316,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.52,
-        "stdDev": 0.81,
-        "count": 122
+        "mean": 6.57,
+        "stdDev": 0.82,
+        "count": 159
       },
       "solle": {
         "mean": 6.96,
@@ -1319,8 +1327,8 @@
       },
       "taylor": {
         "mean": 8.03,
-        "stdDev": 0.63,
-        "count": 118
+        "stdDev": 0.58,
+        "count": 167
       }
     },
     "esthetiek_Narrative Arc": {
@@ -1342,7 +1350,7 @@
       "rutledge": {
         "mean": 7.18,
         "stdDev": 0.9,
-        "count": 122
+        "count": 159
       },
       "solle": {
         "mean": 6.57,
@@ -1350,9 +1358,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.49,
-        "stdDev": 0.67,
-        "count": 118
+        "mean": 6.5,
+        "stdDev": 0.68,
+        "count": 167
       }
     },
     "esthetiek_Integration Text And Context": {
@@ -1372,9 +1380,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.98,
-        "stdDev": 0.74,
-        "count": 122
+        "mean": 7.96,
+        "stdDev": 0.7,
+        "count": 159
       },
       "solle": {
         "mean": 8.25,
@@ -1382,9 +1390,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 7.18,
-        "stdDev": 1.01,
-        "count": 118
+        "mean": 7.14,
+        "stdDev": 0.97,
+        "count": 167
       }
     },
     "esthetiek_Openness Vs Closedness": {
@@ -1405,8 +1413,8 @@
       },
       "rutledge": {
         "mean": 6.17,
-        "stdDev": 0.69,
-        "count": 122
+        "stdDev": 0.67,
+        "count": 159
       },
       "solle": {
         "mean": 6.14,
@@ -1414,9 +1422,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 5.39,
+        "mean": 5.34,
         "stdDev": 0.76,
-        "count": 118
+        "count": 167
       }
     },
     "esthetiek_Anti-Kitsch": {
@@ -1437,8 +1445,8 @@
       },
       "rutledge": {
         "mean": 8.67,
-        "stdDev": 0.5,
-        "count": 122
+        "stdDev": 0.53,
+        "count": 159
       },
       "solle": {
         "mean": 8.79,
@@ -1446,9 +1454,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.83,
-        "stdDev": 1.17,
-        "count": 118
+        "mean": 6.73,
+        "stdDev": 1.16,
+        "count": 167
       }
     },
     "esthetiek_Space for Grace": {
@@ -1468,9 +1476,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.56,
-        "stdDev": 0.64,
-        "count": 122
+        "mean": 7.58,
+        "stdDev": 0.67,
+        "count": 159
       },
       "solle": {
         "mean": 7.0,
@@ -1478,9 +1486,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.61,
-        "stdDev": 0.89,
-        "count": 118
+        "mean": 6.59,
+        "stdDev": 0.9,
+        "count": 167
       }
     },
     "esthetiek_Overall": {
@@ -1501,8 +1509,8 @@
       },
       "rutledge": {
         "mean": 7.46,
-        "stdDev": 0.53,
-        "count": 122
+        "stdDev": 0.55,
+        "count": 159
       },
       "solle": {
         "mean": 7.37,
@@ -1510,9 +1518,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.91,
-        "stdDev": 0.66,
-        "count": 118
+        "mean": 6.88,
+        "stdDev": 0.64,
+        "count": 167
       }
     },
     "kolb_Concrete Experience": {
@@ -1532,9 +1540,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.84,
-        "stdDev": 1.08,
-        "count": 125
+        "mean": 6.85,
+        "stdDev": 1.0,
+        "count": 161
       },
       "solle": {
         "mean": 6.75,
@@ -1542,9 +1550,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.85,
-        "stdDev": 0.77,
-        "count": 121
+        "mean": 6.87,
+        "stdDev": 0.79,
+        "count": 167
       }
     },
     "kolb_Reflective Observation": {
@@ -1564,9 +1572,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.26,
-        "stdDev": 0.82,
-        "count": 125
+        "mean": 7.2,
+        "stdDev": 0.83,
+        "count": 161
       },
       "solle": {
         "mean": 7.21,
@@ -1574,9 +1582,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.64,
+        "mean": 6.53,
         "stdDev": 0.82,
-        "count": 121
+        "count": 167
       }
     },
     "kolb_Abstract Conceptualization": {
@@ -1596,9 +1604,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.3,
-        "stdDev": 0.65,
-        "count": 125
+        "mean": 7.31,
+        "stdDev": 0.66,
+        "count": 161
       },
       "solle": {
         "mean": 6.29,
@@ -1606,9 +1614,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.28,
-        "stdDev": 0.85,
-        "count": 121
+        "mean": 6.29,
+        "stdDev": 0.88,
+        "count": 167
       }
     },
     "kolb_Active Experimentation": {
@@ -1628,9 +1636,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 4.75,
-        "stdDev": 0.68,
-        "count": 125
+        "mean": 4.68,
+        "stdDev": 0.66,
+        "count": 161
       },
       "solle": {
         "mean": 4.93,
@@ -1638,9 +1646,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 4.54,
-        "stdDev": 0.66,
-        "count": 121
+        "mean": 4.55,
+        "stdDev": 0.7,
+        "count": 167
       }
     },
     "kolb_Assimilating": {
@@ -1660,9 +1668,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.79,
-        "stdDev": 0.67,
-        "count": 125
+        "mean": 7.73,
+        "stdDev": 0.7,
+        "count": 161
       },
       "solle": {
         "mean": 6.79,
@@ -1670,9 +1678,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.61,
-        "stdDev": 1.05,
-        "count": 121
+        "mean": 6.58,
+        "stdDev": 1.07,
+        "count": 167
       }
     },
     "kolb_Converging": {
@@ -1692,9 +1700,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 4.42,
-        "stdDev": 0.95,
-        "count": 125
+        "mean": 4.34,
+        "stdDev": 0.89,
+        "count": 161
       },
       "solle": {
         "mean": 4.46,
@@ -1702,9 +1710,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 4.23,
-        "stdDev": 0.84,
-        "count": 121
+        "mean": 4.26,
+        "stdDev": 0.87,
+        "count": 167
       }
     },
     "kolb_Accommodating": {
@@ -1725,8 +1733,8 @@
       },
       "rutledge": {
         "mean": 5.96,
-        "stdDev": 1.18,
-        "count": 125
+        "stdDev": 1.09,
+        "count": 161
       },
       "solle": {
         "mean": 5.96,
@@ -1734,9 +1742,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.35,
-        "stdDev": 1.01,
-        "count": 121
+        "mean": 6.38,
+        "stdDev": 1.0,
+        "count": 167
       }
     },
     "kolb_Diverging": {
@@ -1756,9 +1764,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 7.36,
-        "stdDev": 0.74,
-        "count": 125
+        "mean": 7.41,
+        "stdDev": 0.73,
+        "count": 161
       },
       "solle": {
         "mean": 7.54,
@@ -1766,9 +1774,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 7.77,
-        "stdDev": 0.61,
-        "count": 121
+        "mean": 7.75,
+        "stdDev": 0.62,
+        "count": 167
       }
     },
     "kolb_Cycle Completeness": {
@@ -1788,9 +1796,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.2,
-        "stdDev": 0.58,
-        "count": 125
+        "mean": 6.16,
+        "stdDev": 0.53,
+        "count": 161
       },
       "solle": {
         "mean": 6.0,
@@ -1798,9 +1806,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.01,
-        "stdDev": 0.52,
-        "count": 121
+        "mean": 6.04,
+        "stdDev": 0.51,
+        "count": 167
       }
     },
     "kolb_Balance Between Phases": {
@@ -1820,9 +1828,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 5.86,
-        "stdDev": 0.67,
-        "count": 125
+        "mean": 5.84,
+        "stdDev": 0.63,
+        "count": 161
       },
       "solle": {
         "mean": 5.54,
@@ -1830,9 +1838,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 5.64,
-        "stdDev": 0.53,
-        "count": 121
+        "mean": 5.63,
+        "stdDev": 0.52,
+        "count": 167
       }
     },
     "kolb_Holistic Learning": {
@@ -1852,9 +1860,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.34,
-        "stdDev": 0.67,
-        "count": 125
+        "mean": 6.33,
+        "stdDev": 0.63,
+        "count": 161
       },
       "solle": {
         "mean": 6.36,
@@ -1862,9 +1870,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.27,
-        "stdDev": 0.56,
-        "count": 121
+        "mean": 6.29,
+        "stdDev": 0.54,
+        "count": 167
       }
     },
     "kolb_Overall": {
@@ -1884,9 +1892,9 @@
         "count": 46
       },
       "rutledge": {
-        "mean": 6.5,
-        "stdDev": 0.43,
-        "count": 125
+        "mean": 6.49,
+        "stdDev": 0.39,
+        "count": 161
       },
       "solle": {
         "mean": 6.32,
@@ -1896,7 +1904,7 @@
       "taylor": {
         "mean": 6.28,
         "stdDev": 0.37,
-        "count": 121
+        "count": 167
       }
     },
     "schulz_von_thun_Factual Content": {
@@ -1916,9 +1924,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 7.07,
-        "stdDev": 0.51,
-        "count": 134
+        "mean": 7.04,
+        "stdDev": 0.48,
+        "count": 175
       },
       "solle": {
         "mean": 5.86,
@@ -1927,8 +1935,8 @@
       },
       "taylor": {
         "mean": 5.82,
-        "stdDev": 0.41,
-        "count": 125
+        "stdDev": 0.4,
+        "count": 167
       }
     },
     "schulz_von_thun_Self-Revelation": {
@@ -1948,9 +1956,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 6.57,
-        "stdDev": 0.92,
-        "count": 134
+        "mean": 6.5,
+        "stdDev": 0.86,
+        "count": 175
       },
       "solle": {
         "mean": 7.29,
@@ -1958,9 +1966,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.82,
-        "stdDev": 0.85,
-        "count": 125
+        "mean": 6.81,
+        "stdDev": 0.82,
+        "count": 167
       }
     },
     "schulz_von_thun_Relational Aspect": {
@@ -1980,9 +1988,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 5.6,
-        "stdDev": 0.77,
-        "count": 134
+        "mean": 5.59,
+        "stdDev": 0.74,
+        "count": 175
       },
       "solle": {
         "mean": 5.39,
@@ -1990,9 +1998,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 5.98,
-        "stdDev": 1.03,
-        "count": 125
+        "mean": 5.95,
+        "stdDev": 1.0,
+        "count": 167
       }
     },
     "schulz_von_thun_Appeal Aspect": {
@@ -2012,9 +2020,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 7.06,
-        "stdDev": 1.02,
-        "count": 134
+        "mean": 7.21,
+        "stdDev": 0.99,
+        "count": 175
       },
       "solle": {
         "mean": 4.89,
@@ -2022,9 +2030,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 5.73,
-        "stdDev": 1.2,
-        "count": 125
+        "mean": 5.74,
+        "stdDev": 1.18,
+        "count": 167
       }
     },
     "schulz_von_thun_Overall": {
@@ -2044,9 +2052,9 @@
         "count": 45
       },
       "rutledge": {
-        "mean": 7.14,
-        "stdDev": 0.59,
-        "count": 134
+        "mean": 7.18,
+        "stdDev": 0.54,
+        "count": 175
       },
       "solle": {
         "mean": 6.24,
@@ -2054,9 +2062,9 @@
         "count": 28
       },
       "taylor": {
-        "mean": 6.52,
-        "stdDev": 0.59,
-        "count": 125
+        "mean": 6.5,
+        "stdDev": 0.6,
+        "count": 167
       }
     }
   }
