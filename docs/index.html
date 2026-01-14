@@ -1478,7 +1478,9 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             const criteria = data.analysis_per_criterion || {};
             for (const [key, value] of Object.entries(criteria)) {
                 if (value.score_1_to_10) {
-                    let name = key.replace('criterion_', '').replace(/_/g, ' ');
+                    // Normalize common typos in criterion names
+                    let normalizedKey = key.replace('concrete_concrete', 'concrete');
+                    let name = normalizedKey.replace('criterion_', '').replace(/_/g, ' ');
                     // Add # before the number at the start
                     name = name.replace(/^(\d+)/, '#$1');
                     addScore(name, value.score_1_to_10);
