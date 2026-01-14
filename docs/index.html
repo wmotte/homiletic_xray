@@ -581,7 +581,7 @@
                 </div>
                 <div style="padding: 1rem;">
                     <div class="checkbox-item" style="width: auto;">
-                        <input type="checkbox" id="detailed-scores-toggle" onchange="updateStatistics()">
+                        <input type="checkbox" id="detailed-scores-toggle" checked onchange="updateStatistics()">
                         <label for="detailed-scores-toggle">Show detailed scores (includes all individual criteria)</label>
                     </div>
                 </div>
@@ -644,11 +644,11 @@
 • AE (Active Experimentation) – doing (Decider, Doer)
 
 An integral sermon traverses this entire cycle to address every hearer and lead to spiritual growth.`,
-            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_kolb_cyclus.md'
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_kolb_cyclus.md'
         },
         'dekker': {
             text: "Willem Maarten Dekker's theses define a sermon as \"exposition and application of a specific Bible passage.\" The analysis evaluates the sermon according to the 3-2-1 rule: the three parts (misery, redemption, gratitude), the two ways (to destruction and to life), and the one Lord (Christ). It also checks for the inseparable link between exegesis and concrete application.",
-            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_sermon_dekker.md'
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_sermon_dekker.md'
         },
         'aristoteles': {
             text: `Classical rhetoric offers three fundamental modes of persuasion (The Rhetorical Triangle). This analysis diagnoses which element is out of balance:
@@ -658,15 +658,15 @@ An integral sermon traverses this entire cycle to address every hearer and lead 
 • Ethos (Credibility) – The authenticity and integrity of the messenger
 
 These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Ethos).`,
-            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_aristoteles.md'
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_aristoteles.md'
         },
         'schulz': {
             text: "Schulz von Thun's communication model analyzes the four messages sounding simultaneously in every sermon:\n\n• Factual Content (Blue) – Facts and truth\n• Self-revelation (Green) – Authenticity of the preacher\n• Relationship (Yellow) – How the preacher addresses the hearer\n• Appeal (Red) – The call to action (Law vs. Gospel)\n\nThis analysis checks for congruence and balance to avoid intellectualism, narcissism, paternalism, or moralism.",
-            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_schulz_von_thun.md'
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_schulz_von_thun.md'
         },
         'esthetiek': {
             text: "The aesthetic turn emphasizes that a sermon must be aesthetically persuasive. This analysis tests two domains:\n\n• Domain A: Poetics of Language (Micro-Aesthetics) – Imagery, precision, musicality\n• Domain B: Dramaturgy of Structure (Macro-Aesthetics) – Narrative arc, reframing, openness\n\nIt also checks for Anti-Kitsch (absence of clichés) and Space for Grace (room for mystery).",
-            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_esthetiek.md'
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_esthetiek.md'
         }
     };
 
@@ -1331,6 +1331,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             checkbox.type = 'checkbox';
             checkbox.id = `stat-${theologian}`;
             checkbox.value = theologian;
+            checkbox.checked = true;
             checkbox.onchange = updateStatistics;
 
             const label = document.createElement('label');
@@ -1807,6 +1808,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         await discoverJSONFiles();
         populateTheologianMenu();
         populateTheologianCheckboxes();
+        updateStatistics();
 
         // Set up event handlers for menu changes
         const theologianSelect = document.getElementById('theologian-select');
