@@ -1,0 +1,1829 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homiletic Analysis - Feedback</title>
+    <style>
+        :root {
+            --font-main: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            --font-mono: 'Consolas', monospace;
+            --font-serif: 'Georgia', serif;
+            --success-color: #558b2f;
+            --warning-color: #ffa000;
+            --danger-color: #b71c1c;
+            --shadow: 0 4px 6px -1px rgba(61, 48, 40, 0.1), 0 2px 4px -1px rgba(61, 48, 40, 0.06);
+        }
+
+        :root, :root[data-theme="light"] {
+            --primary-hue: 30;
+            --primary-color: hsl(var(--primary-hue), 60%, 40%);
+            --accent-color: hsl(var(--primary-hue), 70%, 50%);
+            --bg-body: #fdf8f4;
+            --bg-surface: #ffffff;
+            --bg-element: #fcf3eb;
+            --text-main: #3d3028;
+            --text-muted: #7a6a5e;
+            --text-inverse: #ffffff;
+            --border-color: #eaddd5;
+        }
+
+        :root[data-theme="dark"] {
+            --primary-color: hsl(30, 50%, 60%);
+            --accent-color: hsl(30, 60%, 70%);
+            --bg-body: #1f1b18;
+            --bg-surface: #2b2621;
+            --bg-element: #38302a;
+            --text-main: #f4ede6;
+            --text-muted: #b0a49a;
+            --text-inverse: #1f1b18;
+            --border-color: #4a4038;
+            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.4);
+            --success-color: #8bc34a;
+            --warning-color: #ffca28;
+            --danger-color: #ff7043;
+        }
+
+        * { box-sizing: border-box; transition: background-color 0.2s ease, color 0.2s ease; }
+
+        body {
+            font-family: var(--font-main);
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background-color: var(--bg-body);
+            color: var(--text-main);
+            overflow: hidden;
+        }
+
+        header {
+            background-color: var(--bg-surface);
+            padding: 0 2rem;
+            height: 70px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            z-index: 10;
+            flex-shrink: 0;
+        }
+
+        .header-left { display: flex; align-items: center; gap: 1rem; }
+        
+        h1 {
+            margin: 0;
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--text-main);
+            white-space: nowrap;
+        }
+
+        .info-link {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background-color: var(--primary-color);
+            color: var(--text-inverse);
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-decoration: none;
+        }
+
+        .example-selector {
+            background: var(--bg-element);
+            color: var(--text-main);
+            border: 1px solid var(--border-color);
+            padding: 0.4rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            cursor: pointer;
+        }
+
+        .tab-nav { display: flex; gap: 1rem; margin-left: 1rem; height: 70px; }
+
+        .tab-btn {
+            background: none;
+            border: none;
+            padding: 0 0.5rem;
+            cursor: pointer;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            border-bottom: 3px solid transparent;
+        }
+
+        .tab-btn.active {
+            color: var(--primary-color);
+            border-bottom-color: var(--primary-color);
+        }
+
+        .controls { display: flex; gap: 1rem; align-items: center; }
+
+        .btn {
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            cursor: pointer;
+            border: 1px solid var(--border-color);
+            background: var(--bg-element);
+            color: var(--text-main);
+        }
+
+        .theme-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 1.2rem;
+            padding: 0.5rem;
+        }
+
+        main { flex: 1; position: relative; overflow: hidden; }
+
+        .tab-content {
+            display: none;
+            height: 100%;
+            overflow-y: auto;
+            padding: 2rem;
+        }
+
+        .tab-content.active { display: block; }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1.5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        @media (max-width: 1200px) {
+            .dashboard-grid { grid-template-columns: 1fr; }
+        }
+
+        .card {
+            background: var(--bg-surface);
+            border-radius: 12px;
+            padding: 1.25rem;
+            border: 1px solid var(--border-color);
+            box-shadow: var(--shadow);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .full-width { grid-column: 1 / -1; }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .card-title { font-weight: 700; font-size: 1rem; }
+
+        .score-badge {
+            font-family: var(--font-mono);
+            font-weight: 700;
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            color: #fff;
+        }
+
+        .score-high { background-color: var(--success-color); }
+        .score-mid { background-color: var(--warning-color); }
+        .score-low { background-color: var(--danger-color); }
+
+        .text-content { line-height: 1.6; font-size: 0.9rem; }
+        .text-content p { margin: 0.75rem 0; }
+        
+        .quote-box {
+            background-color: var(--bg-element);
+            border-left: 3px solid var(--accent-color);
+            padding: 0.75rem;
+            margin: 1rem 0;
+            font-style: italic;
+            font-size: 0.85rem;
+        }
+
+        .quote-header {
+            display: block;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: var(--accent-color);
+            margin-bottom: 0.3rem;
+            font-style: normal;
+        }
+
+        .advice-box {
+            margin-top: auto;
+            padding-top: 0.8rem;
+            border-top: 1px dashed var(--border-color);
+            color: var(--danger-color);
+            font-weight: 600;
+            font-size: 0.85rem;
+        }
+
+        .summary-columns {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .summary-list { margin: 0; padding-left: 1.2rem; }
+        .summary-list li { margin-bottom: 0.4rem; color: var(--text-muted); font-size: 0.85rem; }
+
+        .stat-item {
+            background: var(--bg-element);
+            padding: 0.6rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .stat-val { display: block; font-weight: 700; color: var(--primary-color); }
+        .stat-lbl { font-size: 0.7rem; text-transform: uppercase; opacity: 0.7; }
+
+        #sermon-view {
+            max-width: 800px;
+            margin: 0 auto;
+            background: var(--bg-surface);
+            padding: 3rem;
+            border-radius: 4px;
+            box-shadow: var(--shadow);
+            margin-bottom: 2rem;
+        }
+
+        .sermon-text { font-family: var(--font-serif); line-height: 1.8; white-space: pre-wrap; font-size: 1.15rem; }
+
+        .info-block {
+            background: var(--bg-element);
+            border-left: 4px solid var(--primary-color);
+            padding: 1rem 1.5rem;
+            margin: 0 auto 2rem auto;
+            max-width: 1200px;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .info-block-title { font-weight: 700; margin-bottom: 0.5rem; color: var(--primary-color); display: flex; align-items: center; gap: 0.5rem; }
+        .info-block-text { font-size: 0.9rem; opacity: 0.8; margin: 0; line-height: 1.6; }
+
+        .section-info {
+            background: var(--bg-element);
+            border-left: 3px solid var(--accent-color);
+            padding: 0.6rem 1rem;
+            margin: 1rem 0;
+            border-radius: 0 6px 6px 0;
+            font-size: 0.8rem;
+            line-height: 1.5;
+            color: var(--text-muted);
+            font-style: italic;
+            grid-column: 1 / -1;
+        }
+
+        /* Statistics Tab Styles */
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 0.75rem;
+            background: var(--bg-element);
+            border-radius: 6px;
+            border: 2px solid transparent;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .checkbox-item:hover {
+            border-color: var(--primary-color);
+            background: var(--bg-surface);
+        }
+
+        .checkbox-item input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+            accent-color: var(--primary-color);
+        }
+
+        .checkbox-item label {
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 0.9rem;
+            user-select: none;
+        }
+
+        .stats-chart-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .chart-card {
+            background: var(--bg-surface);
+            border-radius: 8px;
+            padding: 1rem;
+            border: 1px solid var(--border-color);
+        }
+
+        .chart-title {
+            font-weight: 700;
+            font-size: 0.85rem;
+            margin-bottom: 0.75rem;
+            color: var(--text-main);
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .chart-svg {
+            width: 100%;
+            height: 200px;
+            display: block;
+        }
+
+        .bar-mean {
+            opacity: 0.9;
+        }
+
+        .bar-std {
+            opacity: 0.2;
+        }
+
+        .bar-score-high {
+            fill: var(--success-color);
+        }
+
+        .bar-score-mid {
+            fill: var(--warning-color);
+        }
+
+        .bar-score-low {
+            fill: var(--danger-color);
+        }
+
+        .chart-axis-line {
+            stroke: var(--border-color);
+            stroke-width: 1;
+        }
+
+        .chart-axis-label {
+            fill: var(--text-muted);
+            font-size: 10px;
+            font-family: var(--font-mono);
+        }
+
+        .chart-value-label {
+            fill: var(--text-main);
+            font-size: 11px;
+            font-weight: 600;
+            font-family: var(--font-mono);
+        }
+
+        /* Loading Modal */
+        .loading-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .loading-overlay.active {
+            display: flex;
+        }
+
+        .loading-modal {
+            background: var(--bg-surface);
+            border-radius: 12px;
+            padding: 2rem;
+            max-width: 400px;
+            text-align: center;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid var(--border-color);
+            border-top-color: var(--primary-color);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem auto;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .loading-text {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--text-main);
+        }
+
+        .loading-progress {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-family: var(--font-mono);
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="loading-overlay" id="loading-overlay">
+    <div class="loading-modal">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Discovering sermon files...</div>
+        <div class="loading-progress" id="loading-progress">Initializing...</div>
+    </div>
+</div>
+
+<header>
+    <div class="header-left">
+        <h1>Sermon Analysis <span style="opacity:0.5; font-weight:400;">// Feedback</span></h1>
+        
+        <select class="example-selector" id="theologian-select">
+            <option value="">Select Theologian...</option>
+        </select>
+
+        <select class="example-selector" id="sermon-select">
+            <option value="">Select Sermon...</option>
+        </select>
+
+        <select class="example-selector" id="analysis-type-select">
+            <option value="">Select Analysis...</option>
+        </select>
+
+        <nav class="tab-nav">
+            <button class="tab-btn active" id="btn-analysis" onclick="switchTab('analysis')">Dashboard</button>
+            <button class="tab-btn" id="btn-metadata" onclick="switchTab('metadata')">Metadata</button>
+            <button class="tab-btn" id="btn-statistics" onclick="switchTab('statistics')">Statistics</button>
+        </nav>
+    </div>
+
+    <div class="controls">
+        <div class="file-input-group">
+            <label class="btn">📊 JSON <input type="file" id="json-upload" accept=".json" style="display:none;"></label>
+        </div>
+        <button class="theme-toggle" onclick="toggleTheme()">🌗</button>
+    </div>
+</header>
+
+<main>
+    <div id="tab-analysis" class="tab-content active">
+        <div class="info-block">
+            <div class="info-block-title">
+                Model Description
+                <a href="#" id="info-block-link" target="_blank" class="info-link" title="Read more">i</a>
+            </div>
+            <p class="info-block-text" id="info-block-text">Please select a theologian, sermon, and analysis type from the dropdown menus above to view the analysis.</p>
+        </div>
+        <div class="dashboard-grid" id="dashboard-content">
+            <div class="card full-width"><em>Make your selection from the dropdown menus above for the data to appear...</em></div>
+        </div>
+    </div>
+
+    <div id="tab-metadata" class="tab-content">
+        <div id="metadata-view" style="max-width: 900px; margin: 0 auto;">
+            <div class="card">
+                <div class="card-header">
+                    <span class="card-title">Sermon Metadata</span>
+                </div>
+                <div id="metadata-content" class="text-content">
+                    <em>No metadata loaded. Please select a sermon.</em>
+                </div>
+            </div>
+
+            <div class="card" style="margin-top: 1.5rem;">
+                <div class="card-header">
+                    <span class="card-title">Bibliography / Sources</span>
+                </div>
+                <div class="text-content" style="font-size: 0.85rem; line-height: 1.8;">
+                    <p style="margin-bottom: 1rem; color: var(--text-muted); font-style: italic;">The sermons analyzed in this project are drawn from the following sources:</p>
+
+                    <p><strong>Augustine of Hippo.</strong> <a href="https://aquinas-in-english.neocities.org/augustinus" target="_blank" style="color: var(--primary-color);"><em>Selected Sermons of Saint Augustine</em></a>. Trans. various contributors. Aquinas in English, n.d.</p>
+
+                    <p><strong>Brueggemann, Walter.</strong> <a href="https://www.wjkbooks.com/Products/0664234453/the-collected-sermons-of-walter-brueggemann-volume-1.aspx" target="_blank" style="color: var(--primary-color);"><em>The Collected Sermons of Walter Brueggemann, Volume 1</em></a>. Louisville, KY: Westminster John Knox Press, 2011.</p>
+
+                    <p><strong>Brueggemann, Walter.</strong> <a href="https://www.wjkbooks.com/bookproduct/0664260411-the-collected-sermons-of-walter-brueggemann-volume-2/" target="_blank" style="color: var(--primary-color);"><em>The Collected Sermons of Walter Brueggemann, Volume 2</em></a>. Louisville, KY: Westminster John Knox Press, 2015.</p>
+
+                    <p><strong>Brueggemann, Walter.</strong> <a href="https://www.wjkbooks.com/bookproduct/0664265812-the-collected-sermons-of-walter-brueggemann-volume-3/" target="_blank" style="color: var(--primary-color);"><em>The Collected Sermons of Walter Brueggemann, Volume 3</em></a>. Louisville, KY: Westminster John Knox Press, 2020.</p>
+
+                    <p><strong>Keller, Timothy.</strong> <a href="https://verbum.com/product/207157/timothy-keller-sermon-archive-1989-2017" target="_blank" style="color: var(--primary-color);"><em>Timothy Keller Sermon Archive, 1989–2017</em></a>. Bellingham, WA: Redeemer Presbyterian Church / Verbum (Logos Bible Software), 2013–2019.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.amazon.nl/Advent-Future-Coming-Jesus-Christ/dp/0802876196" target="_blank" style="color: var(--primary-color);"><em>Advent: The Once and Future Coming of Jesus Christ</em></a>. Grand Rapids, MI: Wm. B. Eerdmans, 2018.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.amazon.nl/-/en/Fleming-Rutledge/dp/0802866069" target="_blank" style="color: var(--primary-color);"><em>And God Spoke to Abraham: Preaching from the Old Testament</em></a>. Grand Rapids, MI: Wm. B. Eerdmans, 2011.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.amazon.com/Epiphany-Season-Fullness-Journey-Through/dp/1514000385" target="_blank" style="color: var(--primary-color);"><em>Epiphany: The Season of Glory</em></a>. The Fullness of Time. Downers Grove, IL: InterVarsity Press, 2023.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.eerdmans.com/9780802877901/help-my-unbelief-20th-anniversary-edition/" target="_blank" style="color: var(--primary-color);"><em>Help My Unbelief</em></a>. 20th Anniversary Edition. Grand Rapids, MI: Wm. B. Eerdmans, 2020.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.eerdmans.com/9780802878700/means-of-grace/" target="_blank" style="color: var(--primary-color);"><em>Means of Grace: A Year of Weekly Devotions</em></a>. Ed. Laura Bardolph Hubers. Grand Rapids, MI: Wm. B. Eerdmans, 2021.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.eerdmans.com/9781467424332/not-ashamed-of-the-gospel/" target="_blank" style="color: var(--primary-color);"><em>Not Ashamed of the Gospel: Sermons from Paul's Letter to the Romans</em></a>. Grand Rapids, MI: Wm. B. Eerdmans, 2007.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.eerdmans.com/9780802847010/the-bible-and-the-new-york-times/" target="_blank" style="color: var(--primary-color);"><em>The Bible and The New York Times</em></a>. Grand Rapids, MI: Wm. B. Eerdmans, 1998.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.eerdmans.com/9780802827869/the-seven-last-words-from-the-cross/" target="_blank" style="color: var(--primary-color);"><em>The Seven Last Words From the Cross</em></a>. Grand Rapids, MI: Wm. B. Eerdmans, 2005.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.eerdmans.com/9780802830210/the-undoing-of-death/" target="_blank" style="color: var(--primary-color);"><em>The Undoing of Death</em></a>. Grand Rapids, MI: Wm. B. Eerdmans, 2002.</p>
+
+                    <p><strong>Rutledge, Fleming.</strong> <a href="https://www.eerdmans.com/9780802883223/three-hours/" target="_blank" style="color: var(--primary-color);"><em>Three Hours: Sermons for Good Friday</em></a>. Grand Rapids, MI: Wm. B. Eerdmans, 2019.</p>
+
+                    <p><strong>Sölle, Dorothee.</strong> <a href="https://www.herder.de/theologie-pastoral/shop/p2/82621-gesammelte-werke-band-11-loese-die-fesseln-des-unrechts-ebook-pdf/" target="_blank" style="color: var(--primary-color);"><em>Löse die Fesseln des Unrechts</em></a>. Gesammelte Werke, Band 11. Eds. Ursula Baltz-Otto and Fulbert Steffensky. Munich: Verlag Herder, 2023.</p>
+
+                    <p><strong>Taylor, Gardner C.</strong> <a href="https://www.judsonpress.com/Products/0406/the-words-of-gardner-taylor-vol-1.aspx" target="_blank" style="color: var(--primary-color);"><em>The Words of Gardner Taylor: NBC Radio Sermons, 1959–1970</em></a>. Vol. 1. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 1999.</p>
+
+                    <p><strong>Taylor, Gardner C.</strong> <a href="https://www.judsonpress.com/Products/3810/the-words-of-gardner-taylor-vol-2.aspx" target="_blank" style="color: var(--primary-color);"><em>The Words of Gardner Taylor: Sermons from Concord, 1970–1980</em></a>. Vol. 2. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 2000.</p>
+
+                    <p><strong>Taylor, Gardner C.</strong> <a href="https://www.amazon.com/dp/0817013474" target="_blank" style="color: var(--primary-color);"><em>The Words of Gardner Taylor: Quintessential Classics, 1980–Present</em></a>. Vol. 3. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 2000.</p>
+
+                    <p><strong>Taylor, Gardner C.</strong> <a href="https://www.judsonpress.com/Products/0425/the-words-of-gardner-taylor-vol-4.aspx" target="_blank" style="color: var(--primary-color);"><em>The Words of Gardner Taylor: Special Occasion and Expository Sermons</em></a>. Vol. 4. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 2001.</p>
+
+                    <p><strong>Taylor, Gardner C.</strong> <a href="https://www.judsonpress.com/Products/0470/the-words-of-gardner-taylor-vol-6.aspx" target="_blank" style="color: var(--primary-color);"><em>The Words of Gardner Taylor: 50 Years of Timeless Treasures</em></a>. Vol. 6. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 2002.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="tab-statistics" class="tab-content">
+        <div style="max-width: 1400px; margin: 0 auto;">
+            <div class="card" style="margin-bottom: 2rem;">
+                <div class="card-header">
+                    <span class="card-title">Theologian Selection</span>
+                </div>
+                <div id="theologian-checkboxes" style="padding: 1rem; display: flex; flex-wrap: wrap; gap: 1rem;">
+                    <em>Loading theologians...</em>
+                </div>
+            </div>
+            <div class="card" style="margin-bottom: 2rem;">
+                <div class="card-header">
+                    <span class="card-title">Display Options</span>
+                </div>
+                <div style="padding: 1rem;">
+                    <div class="checkbox-item" style="width: auto;">
+                        <input type="checkbox" id="detailed-scores-toggle" onchange="updateStatistics()">
+                        <label for="detailed-scores-toggle">Show detailed scores (includes all individual criteria)</label>
+                    </div>
+                </div>
+            </div>
+            <div id="statistics-content">
+                <div class="card">
+                    <div class="text-content">
+                        <em>Select theologians above to view aggregated statistics.</em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<script>
+    // --- UTILITIES ---
+    function toCurlyQuotes(text) {
+        if (!text) return "";
+        let t = String(text);
+        t = t.replace(/(^|[\[\(\{])"/g, '$1\u201c');
+        t = t.replace(/"/g, '\u201d');
+        t = t.replace(/(\w)'(\w)/g, '$1\u2019$2');
+        t = t.replace(/(^|[\[\(\{])'/g, '$1\u2018');
+        t = t.replace(/'/g, '\u2019');
+        return t;
+    }
+
+    function formatText(text) {
+        if (!text) return "";
+        let t = toCurlyQuotes(text);
+        t = t.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        t = t.replace(/\*(.*?)\*/g, '<em>$1</em>');
+        return t;
+    }
+
+    // --- THEME ---
+    function toggleTheme() {
+        const html = document.documentElement;
+        const next = (html.getAttribute('data-theme') === 'light') ? 'dark' : 'light';
+        html.setAttribute('data-theme', next);
+        try { localStorage.setItem('theme', next); } catch(e){}
+    }
+
+    function loadTheme() {
+        try {
+            const saved = localStorage.getItem('theme');
+            if(saved) document.documentElement.setAttribute('data-theme', saved);
+        } catch(e){}
+    }
+
+    // --- DATA DESCRIPTIONS ---
+    const analysisInfo = {
+        'kolb': {
+            text: `Based on Kolb's theory, this model analyzes the transformation of experience into spiritual knowledge through four phases:
+
+• CE (Concrete Experience) – feeling (Dreamer, Doer)
+• RO (Reflective Observation) – watching (Dreamer, Thinker)
+• AC (Abstract Conceptualization) – thinking (Thinker, Decider)
+• AE (Active Experimentation) – doing (Decider, Doer)
+
+An integral sermon traverses this entire cycle to address every hearer and lead to spiritual growth.`,
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_kolb_cyclus.md'
+        },
+        'dekker': {
+            text: "Willem Maarten Dekker's theses define a sermon as \"exposition and application of a specific Bible passage.\" The analysis evaluates the sermon according to the 3-2-1 rule: the three parts (misery, redemption, gratitude), the two ways (to destruction and to life), and the one Lord (Christ). It also checks for the inseparable link between exegesis and concrete application.",
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_sermon_dekker.md'
+        },
+        'aristoteles': {
+            text: `Classical rhetoric offers three fundamental modes of persuasion (The Rhetorical Triangle). This analysis diagnoses which element is out of balance:
+
+• Logos (Rational Architecture) – The logical structure and internal consistency
+• Pathos (Emotional Resonance) – The ability to touch emotions and desires
+• Ethos (Credibility) – The authenticity and integrity of the messenger
+
+These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Ethos).`,
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_aristoteles.md'
+        },
+        'schulz': {
+            text: "Schulz von Thun's communication model analyzes the four messages sounding simultaneously in every sermon:\n\n• Factual Content (Blue) – Facts and truth\n• Self-revelation (Green) – Authenticity of the preacher\n• Relationship (Yellow) – How the preacher addresses the hearer\n• Appeal (Red) – The call to action (Law vs. Gospel)\n\nThis analysis checks for congruence and balance to avoid intellectualism, narcissism, paternalism, or moralism.",
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_schulz_von_thun.md'
+        },
+        'esthetiek': {
+            text: "The aesthetic turn emphasizes that a sermon must be aesthetically persuasive. This analysis tests two domains:\n\n• Domain A: Poetics of Language (Micro-Aesthetics) – Imagery, precision, musicality\n• Domain B: Dramaturgy of Structure (Macro-Aesthetics) – Narrative arc, reframing, openness\n\nIt also checks for Anti-Kitsch (absence of clichés) and Space for Grace (room for mystery).",
+            link: 'https://github.com/wmotte/homiletic_xray/prompts/analyze_esthetiek.md'
+        }
+    };
+
+    function updateInfoBlock(type) {
+        const info = analysisInfo[type] || { text: "Description unavailable.", link: "#" };
+        const formattedText = formatText(info.text).replace(/\n/g, '<br>');
+        document.getElementById('info-block-text').innerHTML = formattedText;
+        document.getElementById('info-block-link').href = info.link;
+    }
+
+    // --- DATA STRUCTURES ---
+    let availableFiles = {
+        theologians: new Set(),
+        sermons: {},  // theologian -> Set of sermons
+        analyses: {}  // theologian_sermon -> Set of analyses
+    };
+    let currentData = null;
+
+    // --- FILE DISCOVERY ---
+    function showLoadingOverlay(show = true) {
+        const overlay = document.getElementById('loading-overlay');
+        if (overlay) {
+            overlay.classList.toggle('active', show);
+        }
+    }
+
+    function updateLoadingProgress(message) {
+        const progress = document.getElementById('loading-progress');
+        if (progress) {
+            progress.textContent = message;
+        }
+    }
+
+    async function discoverJSONFiles(forceRefresh = false) {
+        const CACHE_KEY = 'homiletic_files_cache';
+        const CACHE_TIMESTAMP_KEY = 'homiletic_files_cache_timestamp';
+        const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes
+
+        // Try to load from cache first (unless forcing refresh)
+        if (!forceRefresh) {
+            try {
+                const cachedFiles = localStorage.getItem(CACHE_KEY);
+                const cacheTimestamp = localStorage.getItem(CACHE_TIMESTAMP_KEY);
+                const now = Date.now();
+
+                if (cachedFiles && cacheTimestamp && (now - parseInt(cacheTimestamp)) < CACHE_DURATION) {
+                    const files = JSON.parse(cachedFiles);
+                    files.forEach(filename => parseFilename(filename));
+                    console.log(`Loaded ${files.length} files from cache`);
+                    return;
+                }
+            } catch (e) {
+                console.warn('Cache load failed:', e);
+            }
+        }
+
+        // Show loading overlay
+        showLoadingOverlay(true);
+        updateLoadingProgress('Loading file index...');
+
+        try {
+            // Try to load from file_index.json first (generated by batch script)
+            const response = await fetch('file_index.json');
+
+            if (response.ok) {
+                const files = await response.json();
+                updateLoadingProgress(`Found ${files.length} files in index`);
+
+                files.forEach(filename => parseFilename(filename));
+
+                // Save to cache
+                try {
+                    localStorage.setItem(CACHE_KEY, JSON.stringify(files));
+                    localStorage.setItem(CACHE_TIMESTAMP_KEY, String(Date.now()));
+                    console.log(`Loaded ${files.length} files from index`);
+                } catch (e) {
+                    console.warn('Cache save failed:', e);
+                }
+
+                // Hide loading overlay after a brief delay
+                await new Promise(resolve => setTimeout(resolve, 300));
+                showLoadingOverlay(false);
+                return files;
+            }
+        } catch (e) {
+            console.warn('Failed to load file_index.json, falling back to file scanning:', e);
+        }
+
+        // Fallback: scan for files (legacy method)
+        updateLoadingProgress('Index not found, scanning directory...');
+
+        const theologians = [
+            'augustine', 'keller', 'solle', 'brueggemann',
+            'chrysostom', 'aquinas', 'edwards', 'bunyan', 'wesley'
+        ];
+        const sermonNumbers = Array.from({ length: 100 }, (_, i) => String(i + 1).padStart(2, '0'));
+        const analyses = ['aristoteles', 'dekker', 'esthetiek', 'kolb', 'schulz_von_thun'];
+
+        const discoveredFiles = [];
+        const batchSize = 25;
+        const allPatterns = [];
+
+        for (const theologian of theologians) {
+            for (const sermon of sermonNumbers) {
+                for (const analysis of analyses) {
+                    allPatterns.push(`${theologian}_${sermon}_${analysis}.json`);
+                }
+            }
+        }
+
+        const totalPatterns = allPatterns.length;
+        updateLoadingProgress(`Scanning ${totalPatterns} possible file locations...`);
+
+        // Process in batches
+        for (let i = 0; i < allPatterns.length; i += batchSize) {
+            const batch = allPatterns.slice(i, i + batchSize);
+            const results = await Promise.all(
+                batch.map(async (filename) => {
+                    try {
+                        const response = await fetch(filename, { method: 'HEAD' });
+                        return response.ok ? filename : null;
+                    } catch (e) {
+                        return null;
+                    }
+                })
+            );
+
+            results.forEach(filename => {
+                if (filename) {
+                    discoveredFiles.push(filename);
+                    parseFilename(filename);
+                }
+            });
+
+            // Update progress
+            const progress = Math.min(i + batchSize, totalPatterns);
+            const percent = Math.round((progress / totalPatterns) * 100);
+            updateLoadingProgress(`Scanned ${progress}/${totalPatterns} (${percent}%) - Found ${discoveredFiles.length} files`);
+
+            // Small delay between batches to keep UI responsive
+            await new Promise(resolve => setTimeout(resolve, 5));
+        }
+
+        // Save to cache
+        try {
+            localStorage.setItem(CACHE_KEY, JSON.stringify(discoveredFiles));
+            localStorage.setItem(CACHE_TIMESTAMP_KEY, String(Date.now()));
+            console.log(`Discovered and cached ${discoveredFiles.length} files`);
+        } catch (e) {
+            console.warn('Cache save failed:', e);
+        }
+
+        updateLoadingProgress(`Complete! Found ${discoveredFiles.length} sermon files.`);
+
+        // Hide loading overlay after a brief delay
+        await new Promise(resolve => setTimeout(resolve, 500));
+        showLoadingOverlay(false);
+
+        return discoveredFiles;
+    }
+
+    function parseFilename(filename) {
+        const parts = filename.replace('.json', '').split('_');
+        if (parts.length >= 3) {
+            const theologian = parts[0];
+            const sermon = parts[1];
+            const analysis = parts.slice(2).join('_');
+
+            availableFiles.theologians.add(theologian);
+
+            if (!availableFiles.sermons[theologian]) {
+                availableFiles.sermons[theologian] = new Set();
+            }
+            availableFiles.sermons[theologian].add(sermon);
+
+            const key = `${theologian}_${sermon}`;
+            if (!availableFiles.analyses[key]) {
+                availableFiles.analyses[key] = new Set();
+            }
+            availableFiles.analyses[key].add(analysis);
+        }
+    }
+
+    // --- MENU POPULATION ---
+    function populateTheologianMenu() {
+        const select = document.getElementById('theologian-select');
+        select.innerHTML = '<option value="">Select Theologian...</option>';
+
+        Array.from(availableFiles.theologians).sort().forEach(theologian => {
+            const option = document.createElement('option');
+            option.value = theologian;
+            option.textContent = theologian.charAt(0).toUpperCase() + theologian.slice(1);
+            select.appendChild(option);
+        });
+    }
+
+    function populateSermonMenu(theologian) {
+        const select = document.getElementById('sermon-select');
+        select.innerHTML = '<option value="">Select Sermon...</option>';
+
+        if (theologian && availableFiles.sermons[theologian]) {
+            // Sort numerically instead of lexicographically
+            Array.from(availableFiles.sermons[theologian]).sort((a, b) => {
+                return parseInt(a, 10) - parseInt(b, 10);
+            }).forEach(sermon => {
+                const option = document.createElement('option');
+                option.value = sermon;
+                option.textContent = `Sermon ${sermon}`;
+                select.appendChild(option);
+            });
+        }
+
+        document.getElementById('analysis-type-select').innerHTML = '<option value="">Select Analysis...</option>';
+    }
+
+    function populateAnalysisMenu(theologian, sermon) {
+        const select = document.getElementById('analysis-type-select');
+        select.innerHTML = '<option value="">Select Analysis...</option>';
+
+        const key = `${theologian}_${sermon}`;
+        if (availableFiles.analyses[key]) {
+            const analysisLabels = {
+                'aristoteles': 'Aristotelian Modes',
+                'dekker': 'Dekker Analysis',
+                'esthetiek': 'Esthetics',
+                'kolb': 'Kolb Cycle',
+                'schulz_von_thun': 'Schulz von Thun'
+            };
+
+            Array.from(availableFiles.analyses[key]).sort().forEach(analysis => {
+                const option = document.createElement('option');
+                option.value = analysis;
+                option.textContent = analysisLabels[analysis] || analysis;
+                select.appendChild(option);
+            });
+        }
+    }
+
+    // --- DATA LOADING ---
+    async function loadAnalysis() {
+        const theologian = document.getElementById('theologian-select').value;
+        const sermon = document.getElementById('sermon-select').value;
+        const analysis = document.getElementById('analysis-type-select').value;
+
+        if (!theologian || !sermon || !analysis) return;
+
+        const container = document.getElementById('dashboard-content');
+        container.innerHTML = '<div class="card full-width"><em>Loading analysis...</em></div>';
+
+        try {
+            const filename = `${theologian}_${sermon}_${analysis}.json`;
+            const response = await fetch(filename);
+
+            if (!response.ok) throw new Error("Analysis file not found.");
+
+            const data = await response.json();
+            currentData = data;
+
+            renderAnalysis(data, analysis);
+            renderMetadata(data.metadata);
+        } catch (err) {
+            container.innerHTML = `<div class="card full-width"><div class="card-header"><span class="card-title">Load Error</span></div><div class="text-content"><p>${err.message}</p></div></div>`;
+        }
+    }
+
+    function renderMetadata(meta) {
+        const container = document.getElementById('metadata-content');
+
+        if (!meta) {
+            container.innerHTML = '<em>No metadata available.</em>';
+            return;
+        }
+
+        let html = '';
+
+        if (meta.sermon_title) {
+            html += `<p><strong>Title:</strong> ${formatText(meta.sermon_title)}</p>`;
+        }
+
+        if (meta.bible_text) {
+            html += `<p><strong>Bible Text:</strong> ${formatText(meta.bible_text)}</p>`;
+        }
+
+        if (meta.sermon_start_end) {
+            html += `<div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--border-color);">`;
+            html += `<p><strong>Sermon Excerpt:</strong></p>`;
+
+            // Format the excerpt with [...] on its own line with spacing
+            let excerpt = formatText(meta.sermon_start_end);
+            excerpt = excerpt.replace(/\s*\[\.{3}\]\s*/g, '<br><br style="line-height: 2.5;">[...]<br><br style="line-height: 2.5;">');
+
+            html += `<div class="quote-box" style="margin-top: 0.5rem;">${excerpt}</div>`;
+            html += `</div>`;
+        }
+
+        if (meta.notes) {
+            html += `<div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--border-color);">`;
+            html += `<p><strong>Notes:</strong></p>`;
+            html += `<p style="font-size: 0.9rem; color: var(--text-muted);">${formatText(meta.notes)}</p>`;
+            html += `</div>`;
+        }
+
+        if (meta.analysis_date) {
+            html += `<p style="margin-top: 1rem; font-size: 0.8rem; color: var(--text-muted);"><strong>Analysis Date:</strong> ${meta.analysis_date}</p>`;
+        }
+
+        container.innerHTML = html || '<em>No metadata available.</em>';
+    }
+
+    function renderAnalysis(data, type) {
+        const container = document.getElementById('dashboard-content');
+        container.innerHTML = '';
+        try {
+            if (type === 'dekker') renderDekker(data, container);
+            else if (type === 'kolb') renderKolb(data, container);
+            else if (type === 'aristoteles') renderAristoteles(data, container);
+            else if (type === 'schulz') renderSchulz(data, container);
+            else if (type === 'esthetiek') renderEsthetiek(data, container);
+        } catch (e) {
+            console.error(e);
+            container.innerHTML = '<div class="card full-width">Rendering error. Ensure the uploaded JSON matches the selected model.</div>';
+        }
+    }
+
+    // --- RENDERERS (FULL DEPTH) ---
+
+    function renderDekker(data, container) {
+        const overall = data.overall_assessment || {};
+        const criteria = data.analysis_per_criterion || {};
+
+        let html = `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Overall Assessment</span></div>
+            <div class="text-content">
+                <p><strong>Summary:</strong> ${formatText(overall.summary)}</p>
+                <p><strong>Final Judgment:</strong> ${formatText(overall.final_judgment_according_to_dekker)}</p>
+            </div>
+            <div class="summary-columns">
+                <div class="summary-col">
+                    <h3 style="color: var(--success-color)">Strengths</h3>
+                    <ul class="summary-list">${(overall.strengths || []).map(s => `<li>${formatText(s)}</li>`).join('')}</ul>
+                </div>
+                <div class="summary-col">
+                    <h3 style="color: var(--danger-color)">Weaknesses</h3>
+                    <ul class="summary-list">${(overall.weaknesses || []).map(w => `<li>${formatText(w)}</li>`).join('')}</ul>
+                </div>
+            </div>
+        </div>`;
+
+        for (const [key, value] of Object.entries(criteria)) {
+            const score = value.score_1_to_10 || 0;
+            const cls = score >= 8 ? 'score-high' : score >= 6 ? 'score-mid' : 'score-low';
+            const title = key.split('_').slice(1).join(' ').replace(/\b\w/g, c => c.toUpperCase());
+            
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">${title}</span><span class="score-badge ${cls}">${score}/10</span></div>
+                <div class="text-content">${formatText(value.findings)}</div>
+                ${value.quotes && value.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${value.quotes.map(q => `"${formatText(q)}"`).join('<br>')}</div>` : ''}
+                <div class="advice-box">👉 ${formatText(value.improvement_point)}</div>
+            </div>`;
+        }
+        container.innerHTML = html;
+    }
+
+    function renderKolb(data, container) {
+        const pic = data.overall_picture || {};
+        const phases = data.kolb_phases_analysis || {};
+        const styles = data.learning_styles_analysis || {};
+        const integ = data.integrality_and_cycle || {};
+
+        let html = `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Overall Picture – Kolb Cycle</span><span class="score-badge score-high">${pic.overall_kolb_score || 0}/10</span></div>
+            <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-bottom: 1rem;">
+                <div class="stat-item"><span class="stat-val">${formatText(pic.primary_homiletical_style)}</span><span class="stat-lbl">Primary Style</span></div>
+            </div>
+            <div class="summary-columns">
+                <div class="summary-col">
+                    <h3 style="color: var(--success-color)">Strengths</h3>
+                    <ul class="summary-list">${(pic.strengths_top_5 || []).map(s => `<li>${formatText(s)}</li>`).join('')}</ul>
+                </div>
+                <div class="summary-col">
+                    <h3 style="color: var(--danger-color)">Improvements</h3>
+                    <ul class="summary-list">${(pic.improvement_points_top_5 || []).map(w => `<li>${formatText(w)}</li>`).join('')}</ul>
+                </div>
+            </div>
+        </div>
+        <div class="section-info">💡 <strong>The Four Phases:</strong> These cards analyze how well the sermon traverses each step of the learning cycle.</div>`;
+
+        const phaseTitles = {
+            'phase_1_concrete_experience': 'Phase 1: Concrete Experience',
+            'phase_2_reflective_observation': 'Phase 2: Reflective Observation',
+            'phase_3_abstract_conceptualization': 'Phase 3: Abstract Conceptualization',
+            'phase_4_active_experimentation': 'Phase 4: Active Experimentation'
+        };
+
+        for (const [k, v] of Object.entries(phases)) {
+            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">${phaseTitles[k] || k}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
+                <div class="text-content">
+                    ${formatText(v.analysis)}
+                    ${v.homiletical_manifestations ? `<p style="font-size:0.8rem; margin-top:0.5rem;"><strong>Manifestations:</strong> ${formatText(v.homiletical_manifestations)}</p>` : ''}
+                </div>
+                ${v.quotes && v.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${v.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+
+        html += `<div class="section-info">💡 <strong>Learning Styles:</strong> Evaluates how well the sermon addresses different types of learners.</div>
+        <div class="card full-width">
+            <div class="card-header"><span class="card-title">Learning Styles Analysis</span></div>
+            <div class="summary-columns" style="display:grid; grid-template-columns: 1fr 1fr; gap:1.5rem;">
+                ${Object.entries(styles).map(([k, v]) => {
+                    const title = k.replace(/_/g, ' ').toUpperCase();
+                    return `<div style="background:var(--bg-element); padding:1rem; border-radius:8px;">
+                        <div style="display:flex; justify-content:space-between; margin-bottom:0.5rem;">
+                            <strong>${title}</strong><span class="score-badge ${v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low'}">${v.score}/10</span>
+                        </div>
+                        <p style="font-size:0.85rem;">${formatText(v.analysis)}</p>
+                    </div>`;
+                }).join('')}
+            </div>
+        </div>`;
+
+        if (integ.cycle_completeness) {
+            html += `<div class="section-info">💡 <strong>Integrality:</strong> Movement through the learning cycle.</div>
+            <div class="card full-width">
+                <div class="card-header"><span class="card-title">Integrality & Cycle</span></div>
+                <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap:1rem;">
+                    <div class="stat-item" style="flex:1;"><span class="stat-val">${integ.cycle_completeness.score}/10</span><span class="stat-lbl">Completeness</span><p style="font-size:0.8rem; margin-top:0.5rem;">${formatText(integ.cycle_completeness.analysis)}</p></div>
+                    <div class="stat-item" style="flex:1;"><span class="stat-val">${integ.balance_between_phases.score}/10</span><span class="stat-lbl">Balance</span><p style="font-size:0.8rem; margin-top:0.5rem;">${formatText(integ.balance_between_phases.analysis)}</p></div>
+                    <div class="stat-item" style="flex:1;"><span class="stat-val">${integ.holistic_learning.score}/10</span><span class="stat-lbl">Holistic</span><p style="font-size:0.8rem; margin-top:0.5rem;">${formatText(integ.holistic_learning.analysis)}</p></div>
+                </div>
+            </div>`;
+        }
+
+        container.innerHTML = html;
+    }
+
+    function renderAristoteles(data, container) {
+        const pic = data.overall_picture || {};
+        const modes = data.aristotelian_modes_analysis || {};
+        const bal = data.rhetorical_balance_analysis || {};
+        const ortho = data.orthodoxy_orthopathy_orthopraxy || {};
+
+        let html = `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Overall Picture – Aristotelian Modes</span><span class="score-badge score-high">${pic.overall_rhetorical_score || 0}/10</span></div>
+            <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-bottom: 1rem;">
+                <div class="stat-item"><span class="stat-val">${formatText(pic.primary_rhetorical_style)}</span><span class="stat-lbl">Primary Rhetorical Style</span></div>
+            </div>
+            <div class="text-content">
+                <p>${formatText(pic.summary)}</p>
+                ${pic.conclusion ? `<p><strong>Conclusion:</strong> ${formatText(pic.conclusion)}</p>` : ''}
+            </div>
+            <div class="summary-columns">
+                <div class="summary-col">
+                    <h3 style="color: var(--success-color)">Strengths</h3>
+                    <ul class="summary-list">${(pic.strengths_top_3 || []).map(s => `<li>${formatText(s)}</li>`).join('')}</ul>
+                </div>
+                <div class="summary-col">
+                    <h3 style="color: var(--danger-color)">Improvements</h3>
+                    <ul class="summary-list">${(pic.improvement_points_top_3 || []).map(w => `<li>${formatText(w)}</li>`).join('')}</ul>
+                </div>
+            </div>
+        </div>`;
+
+        const icons = { logos: '🧠', pathos: '❤️', ethos: '🤝' };
+        for (const [k, v] of Object.entries(modes)) {
+            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">${icons[k] || ''} ${k.toUpperCase()}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
+                <div class="text-content">
+                    ${formatText(v.analysis)}
+                    ${v.specific_diagnosis ? `<p style="font-size:0.8rem; margin-top:0.5rem; color:var(--text-muted);"><strong>Diagnosis:</strong> ${formatText(v.specific_diagnosis)}</p>` : ''}
+                </div>
+                ${v.quotes && v.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${v.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+
+        if (bal.dominant_mode) {
+            html += `<div class="section-info">💡 <strong>Rhetorical Balance:</strong> Relationship between logic, emotion, and credibility.</div>
+            <div class="card full-width">
+                <div class="card-header"><span class="card-title">Rhetorical Balance Analysis</span><span class="score-badge score-mid">${bal.balance_score}/10</span></div>
+                <div style="display:flex; gap:1rem; margin-bottom:1rem;">
+                    <div class="stat-item" style="flex:1;"><span class="stat-val">${bal.dominant_mode}</span><span class="stat-lbl">Dominant</span></div>
+                    <div class="stat-item" style="flex:1;"><span class="stat-val">${bal.suppressed_mode}</span><span class="stat-lbl">Suppressed</span></div>
+                </div>
+                <div class="text-content"><p>${formatText(bal.analysis)}</p></div>
+                <div class="advice-box">👉 ${formatText(bal.recommendation_for_balance)}</div>
+            </div>`;
+        }
+
+        if (ortho.orthodoxy_logos) {
+            html += `<div class="card full-width">
+                <div class="card-header"><span class="card-title">Orthodoxy, Orthopathy, Orthopraxy</span></div>
+                <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:1rem;">
+                    ${Object.entries(ortho).map(([k, v]) => `
+                        <div style="background:var(--bg-element); padding:1rem; border-radius:8px;">
+                            <strong>${k.split('_')[0].toUpperCase()}</strong>
+                            <p style="font-size:0.85rem;">${formatText(v.analysis)}</p>
+                        </div>
+                    `).join('')}
+                </div>
+            </div>`;
+        }
+
+        container.innerHTML = html;
+    }
+
+    function renderSchulz(data, container) {
+        const pic = data.overall_picture || {};
+        const analysis = data.schulz_von_thun_analysis || {};
+        const cong = data.congruence_and_disruptions || {};
+        const recept = data.reception_simulation || {};
+
+        let html = `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Overall Picture – Schulz von Thun</span><span class="score-badge score-high">${pic.overall_communication_score || 0}/10</span></div>
+            <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-bottom: 1rem;">
+                <div class="stat-item"><span class="stat-val">${formatText(cong.dominant_side || 'Mixed')}</span><span class="stat-lbl">Dominant Side</span></div>
+            </div>
+            <div class="text-content">
+                <p>${formatText(pic.summary)}</p>
+                ${pic.barthian_warning ? `<div style="background:var(--bg-element); border-left:3px solid var(--danger-color); padding:0.75rem; margin-top:1rem; font-size:0.85rem;"><strong>Barthian Warning:</strong> ${formatText(pic.barthian_warning)}</div>` : ''}
+            </div>
+        </div>`;
+
+        const labels = {
+            factual_content_blue: '🟦 Factual Content',
+            self_revelation_green: '🟩 Self-Revelation',
+            relational_aspect_yellow: '🟨 Relational Aspect',
+            appeal_aspect_red: '🟥 Appeal Aspect'
+        };
+
+        for (const [k, v] of Object.entries(analysis)) {
+            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">${labels[k] || k}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
+                <div class="text-content">
+                    ${formatText(v.analysis)}
+                    ${v.riemann_type_diagnosis ? `<p style="font-size:0.8rem; margin-top:0.5rem;"><strong>Type:</strong> ${v.riemann_type_diagnosis}</p>` : ''}
+                    ${v.attitude_indication ? `<p style="font-size:0.8rem; margin-top:0.5rem;"><strong>Attitude:</strong> ${v.attitude_indication}</p>` : ''}
+                </div>
+                ${v.quotes && v.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${v.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+
+        html += `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Congruence & Disruptions</span></div>
+            <div class="text-content">
+                <p><strong>Judgment:</strong> ${formatText(cong.congruence_judgment)}</p>
+                <div style="display:grid; grid-template-columns: 1fr 1fr; gap:1rem; margin-top:1rem;">
+                    <div style="background:var(--bg-element); padding:0.75rem; border-radius:6px;">
+                        <strong style="color:var(--danger-color); font-size:0.8rem;">Disruptions</strong>
+                        <p style="font-size:0.85rem;">${formatText(cong.disruptions)}</p>
+                    </div>
+                    <div style="background:var(--bg-element); padding:0.75rem; border-radius:6px;">
+                        <strong style="color:var(--success-color); font-size:0.8rem;">Healing Disruption</strong>
+                        <p style="font-size:0.85rem;">${formatText(cong.healing_disruption)}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card full-width">
+            <div class="card-header"><span class="card-title">🎧 The Four Ears Simulation</span></div>
+            <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:1rem;">
+                ${Object.entries(recept).map(([k, v]) => `
+                    <div class="stat-item" style="text-align:left;">
+                        <strong style="font-size:0.8rem; color:var(--primary-color);">👂 ${k.replace(/_/g, ' ').toUpperCase()}</strong>
+                        <p style="font-size:0.85rem; margin-top:0.3rem;">${formatText(v)}</p>
+                    </div>
+                `).join('')}
+            </div>
+        </div>`;
+
+        container.innerHTML = html;
+    }
+
+    function renderEsthetiek(data, container) {
+        const pic = data.overall_aesthetics || {};
+        const domA = data.domain_a_poetics_of_language || {};
+        const domB = data.domain_b_dramaturgy_of_structure || {};
+        const kitsch = data.kitsch_diagnosis || {};
+        const grace = data.space_for_grace_analysis || {};
+
+        let html = `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Overall Picture – Esthetic Analysis</span><span class="score-badge score-high">${pic.overall_aesthetic_score || 0}/10</span></div>
+            <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-bottom: 1rem;">
+                <div class="stat-item"><span class="stat-val">${formatText(pic.primary_aesthetic_style)}</span><span class="stat-lbl">Primary Aesthetic Style</span></div>
+            </div>
+            <div class="text-content"><p>${formatText(pic.summary)}</p></div>
+        </div>
+        <div class="card full-width">
+            <div class="card-header"><span class="card-title">📊 Domains Overview</span></div>
+            <div style="display:grid; grid-template-columns: repeat(4, 1fr); gap:1rem;">
+                <div class="stat-item"><span class="stat-val">${domA.average_score_language}/10</span><span class="stat-lbl">Poetics</span></div>
+                <div class="stat-item"><span class="stat-val">${domB.average_score_structure}/10</span><span class="stat-lbl">Dramaturgy</span></div>
+                <div class="stat-item"><span class="stat-val">${kitsch.anti_kitsch_score}/10</span><span class="stat-lbl">Anti-Kitsch</span></div>
+                <div class="stat-item"><span class="stat-val">${grace.space_score}/10</span><span class="stat-lbl">Grace</span></div>
+            </div>
+        </div>`;
+
+        html += `<div class="section-info">💡 <strong>Domain A: Poetics of Language (Micro-Esthetics):</strong> Vocabulary, imagery, and rhythm.</div>`;
+        for (const [k, v] of Object.entries(domA)) {
+            if (typeof v !== 'object') continue;
+            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">${k.replace(/criterion_a\d+_/g, '').replace(/_/g, ' ').toUpperCase()}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
+                <div class="text-content">${formatText(v.analysis)}</div>
+                ${v.quotes && v.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${v.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+
+        html += `<div class="section-info">💡 <strong>Domain B: Dramaturgy of Structure (Macro-Esthetics):</strong> Narrative arc and integration.</div>`;
+        for (const [k, v] of Object.entries(domB)) {
+            if (typeof v !== 'object') continue;
+            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">${k.replace(/criterion_b\d+_/g, '').replace(/_/g, ' ').toUpperCase()}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
+                <div class="text-content">${formatText(v.analysis)}</div>
+                ${v.quotes && v.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${v.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+
+        html += `<div class="card"><div class="card-header"><span class="card-title">Anti-Kitsch Diagnosis</span><span class="score-badge score-mid">${kitsch.anti_kitsch_score}/10</span></div><div class="text-content">${formatText(kitsch.analysis)}</div></div>`;
+        html += `<div class="card"><div class="card-header"><span class="card-title">Space for Grace</span><span class="score-badge score-mid">${grace.space_score}/10</span></div><div class="text-content">${formatText(grace.analysis)}</div></div>`;
+
+        container.innerHTML = html;
+    }
+
+    // --- STATISTICS TAB ---
+    let statisticsData = {};
+
+    function populateTheologianCheckboxes() {
+        const container = document.getElementById('theologian-checkboxes');
+        if (!container) return;
+
+        const theologians = Array.from(availableFiles.theologians).sort();
+
+        if (theologians.length === 0) {
+            container.innerHTML = '<em>No theologians found.</em>';
+            return;
+        }
+
+        container.innerHTML = '';
+        theologians.forEach(theologian => {
+            const div = document.createElement('div');
+            div.className = 'checkbox-item';
+
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.id = `stat-${theologian}`;
+            checkbox.value = theologian;
+            checkbox.onchange = updateStatistics;
+
+            const label = document.createElement('label');
+            label.htmlFor = `stat-${theologian}`;
+            label.textContent = theologian.charAt(0).toUpperCase() + theologian.slice(1);
+
+            div.appendChild(checkbox);
+            div.appendChild(label);
+            container.appendChild(div);
+        });
+    }
+
+    async function loadAllDataForTheologian(theologian) {
+        const sermons = availableFiles.sermons[theologian] || new Set();
+        const allData = [];
+
+        for (const sermon of sermons) {
+            const key = `${theologian}_${sermon}`;
+            const analyses = availableFiles.analyses[key] || new Set();
+
+            for (const analysis of analyses) {
+                try {
+                    const filename = `${theologian}_${sermon}_${analysis}.json`;
+                    const response = await fetch(filename);
+                    if (response.ok) {
+                        const data = await response.json();
+                        allData.push({ theologian, sermon, analysis, data });
+                    }
+                } catch (e) {
+                    console.warn(`Failed to load ${theologian}_${sermon}_${analysis}`, e);
+                }
+            }
+        }
+
+        return allData;
+    }
+
+    async function updateStatistics() {
+        const checkboxes = document.querySelectorAll('#theologian-checkboxes input[type="checkbox"]:checked');
+        const selectedTheologians = Array.from(checkboxes).map(cb => cb.value);
+        const detailedScores = document.getElementById('detailed-scores-toggle')?.checked || false;
+
+        if (selectedTheologians.length === 0) {
+            document.getElementById('statistics-content').innerHTML = `
+                <div class="card">
+                    <div class="text-content">
+                        <em>Select theologians above to view aggregated statistics.</em>
+                    </div>
+                </div>`;
+            return;
+        }
+
+        // Show loading
+        document.getElementById('statistics-content').innerHTML = `
+            <div class="card">
+                <div class="text-content">
+                    <em>Loading and aggregating data...</em>
+                </div>
+            </div>`;
+
+        // Load all data for each theologian separately
+        const theologianData = {};
+        for (const theologian of selectedTheologians) {
+            const data = await loadAllDataForTheologian(theologian);
+            theologianData[theologian] = data;
+        }
+
+        // Aggregate scores per theologian
+        const aggregatedScores = aggregateScoresPerTheologian(theologianData, detailedScores);
+
+        // Render visualizations
+        renderStatistics(aggregatedScores, selectedTheologians);
+    }
+
+    function aggregateScoresPerTheologian(theologianData, detailedScores = false) {
+        // Structure: { metric_name: { theologian: { mean, stdDev, count } } }
+        const scoresByMetric = {};
+
+        for (const [theologian, dataList] of Object.entries(theologianData)) {
+            const scores = {};
+
+            dataList.forEach(({ analysis, data }) => {
+                extractScores(data, analysis, scores, detailedScores);
+            });
+
+            // Calculate mean and standard deviation for each score type
+            for (const [key, values] of Object.entries(scores)) {
+                if (values.length > 0) {
+                    const mean = values.reduce((a, b) => a + b, 0) / values.length;
+                    const variance = values.reduce((sum, val) => sum + Math.pow(val - mean, 2), 0) / values.length;
+                    const stdDev = Math.sqrt(variance);
+
+                    if (!scoresByMetric[key]) {
+                        scoresByMetric[key] = {};
+                    }
+                    scoresByMetric[key][theologian] = { mean, stdDev, count: values.length };
+                }
+            }
+        }
+
+        return scoresByMetric;
+    }
+
+    function extractScores(data, analysisType, scores, detailedScores = false) {
+        // Helper to add score
+        const addScore = (category, value) => {
+            if (typeof value === 'number' && value >= 0 && value <= 10) {
+                const key = `${analysisType}_${category}`;
+                if (!scores[key]) scores[key] = [];
+                scores[key].push(value);
+            }
+        };
+
+        // Extract scores based on analysis type
+        if (analysisType === 'aristoteles') {
+            const modes = data.aristotelian_modes_analysis || {};
+            if (modes.logos?.score) addScore('Logos', modes.logos.score);
+            if (modes.pathos?.score) addScore('Pathos', modes.pathos.score);
+            if (modes.ethos?.score) addScore('Ethos', modes.ethos.score);
+            if (data.overall_picture?.overall_rhetorical_score) {
+                addScore('Overall', data.overall_picture.overall_rhetorical_score);
+            }
+            if (detailedScores && data.rhetorical_balance_analysis?.balance_score) {
+                addScore('Balance Score', data.rhetorical_balance_analysis.balance_score);
+            }
+        } else if (analysisType === 'dekker') {
+            const criteria = data.analysis_per_criterion || {};
+            for (const [key, value] of Object.entries(criteria)) {
+                if (value.score_1_to_10) {
+                    let name = key.replace('criterion_', '').replace(/_/g, ' ');
+                    // Add # before the number at the start
+                    name = name.replace(/^(\d+)/, '#$1');
+                    addScore(name, value.score_1_to_10);
+                }
+            }
+        } else if (analysisType === 'kolb') {
+            const phases = data.kolb_phases_analysis || {};
+            if (phases.phase_1_concrete_experience?.score) addScore('Concrete Experience', phases.phase_1_concrete_experience.score);
+            if (phases.phase_2_reflective_observation?.score) addScore('Reflective Observation', phases.phase_2_reflective_observation.score);
+            if (phases.phase_3_abstract_conceptualization?.score) addScore('Abstract Conceptualization', phases.phase_3_abstract_conceptualization.score);
+            if (phases.phase_4_active_experimentation?.score) addScore('Active Experimentation', phases.phase_4_active_experimentation.score);
+
+            if (detailedScores) {
+                // Learning styles
+                const styles = data.learning_styles_analysis || {};
+                if (styles.dreamer?.score) addScore('Dreamer', styles.dreamer.score);
+                if (styles.thinker?.score) addScore('Thinker', styles.thinker.score);
+                if (styles.doer?.score) addScore('Doer', styles.doer.score);
+                if (styles.decider?.score) addScore('Decider', styles.decider.score);
+
+                // Integrality metrics
+                const integ = data.integrality_and_cycle || {};
+                if (integ.cycle_completeness?.score) addScore('Cycle Completeness', integ.cycle_completeness.score);
+                if (integ.balance_between_phases?.score) addScore('Balance Between Phases', integ.balance_between_phases.score);
+                if (integ.holistic_learning?.score) addScore('Holistic Learning', integ.holistic_learning.score);
+            }
+
+            if (data.overall_picture?.overall_kolb_score) {
+                addScore('Overall', data.overall_picture.overall_kolb_score);
+            }
+        } else if (analysisType === 'schulz_von_thun') {
+            const analysis = data.schulz_von_thun_analysis || {};
+            if (analysis.factual_content_blue?.score) addScore('Factual Content', analysis.factual_content_blue.score);
+            if (analysis.self_revelation_green?.score) addScore('Self-Revelation', analysis.self_revelation_green.score);
+            if (analysis.relational_aspect_yellow?.score) addScore('Relational Aspect', analysis.relational_aspect_yellow.score);
+            if (analysis.appeal_aspect_red?.score) addScore('Appeal Aspect', analysis.appeal_aspect_red.score);
+            if (data.overall_picture?.overall_communication_score) {
+                addScore('Overall', data.overall_picture.overall_communication_score);
+            }
+        } else if (analysisType === 'esthetiek') {
+            if (detailedScores) {
+                // Domain A - Poetics of Language (all individual criteria)
+                const domA = data.domain_a_poetics_of_language || {};
+                for (const [key, value] of Object.entries(domA)) {
+                    if (typeof value === 'object' && value.score !== undefined) {
+                        let name = key.replace(/criterion_a\d+_/g, '').replace(/_/g, ' ');
+                        name = name.charAt(0).toUpperCase() + name.slice(1);
+                        addScore(name, value.score);
+                    }
+                }
+
+                // Domain B - Dramaturgy of Structure (all individual criteria)
+                const domB = data.domain_b_dramaturgy_of_structure || {};
+                for (const [key, value] of Object.entries(domB)) {
+                    if (typeof value === 'object' && value.score !== undefined) {
+                        let name = key.replace(/criterion_b\d+_/g, '').replace(/_/g, ' ');
+                        name = name.charAt(0).toUpperCase() + name.slice(1);
+                        addScore(name, value.score);
+                    }
+                }
+
+                // Anti-kitsch and Space for Grace
+                if (data.kitsch_diagnosis?.anti_kitsch_score) {
+                    addScore('Anti-Kitsch', data.kitsch_diagnosis.anti_kitsch_score);
+                }
+                if (data.space_for_grace_analysis?.space_score) {
+                    addScore('Space for Grace', data.space_for_grace_analysis.space_score);
+                }
+            } else {
+                // Summary scores only
+                if (data.domain_a_poetics_of_language?.average_score_language) {
+                    addScore('Poetics', data.domain_a_poetics_of_language.average_score_language);
+                }
+                if (data.domain_b_dramaturgy_of_structure?.average_score_structure) {
+                    addScore('Dramaturgy', data.domain_b_dramaturgy_of_structure.average_score_structure);
+                }
+            }
+
+            if (data.overall_aesthetics?.overall_aesthetic_score) {
+                addScore('Overall', data.overall_aesthetics.overall_aesthetic_score);
+            }
+        }
+    }
+
+    function renderStatistics(scoresByMetric, theologians) {
+        const container = document.getElementById('statistics-content');
+
+        // Sort by analysis type first, then within each type put OVERALL at the end
+        const sortedMetrics = Object.entries(scoresByMetric).sort((a, b) => {
+            const aParts = a[0].split('_');
+            const bParts = b[0].split('_');
+
+            // Get analysis type (handling schulz_von_thun specially)
+            let aAnalysis, bAnalysis;
+            if (aParts[0] === 'schulz' && aParts[1] === 'von' && aParts[2] === 'thun') {
+                aAnalysis = 'schulz_von_thun';
+            } else {
+                aAnalysis = aParts[0];
+            }
+            if (bParts[0] === 'schulz' && bParts[1] === 'von' && bParts[2] === 'thun') {
+                bAnalysis = 'schulz_von_thun';
+            } else {
+                bAnalysis = bParts[0];
+            }
+
+            // First sort by analysis type
+            if (aAnalysis !== bAnalysis) {
+                return aAnalysis.localeCompare(bAnalysis);
+            }
+
+            // Within same analysis type, put OVERALL at the end
+            const aIsOverall = a[0].toLowerCase().includes('overall');
+            const bIsOverall = b[0].toLowerCase().includes('overall');
+
+            if (aIsOverall && !bIsOverall) return 1;  // a goes after b
+            if (!aIsOverall && bIsOverall) return -1; // a goes before b
+            return a[0].localeCompare(b[0]); // alphabetical otherwise
+        });
+
+        if (sortedMetrics.length === 0) {
+            container.innerHTML = `
+                <div class="card">
+                    <div class="text-content">
+                        <em>No score data found for selected theologians.</em>
+                    </div>
+                </div>`;
+            return;
+        }
+
+        let html = `
+            <div class="card" style="margin-bottom: 1.5rem;">
+                <div class="card-header">
+                    <span class="card-title">Comparative Analysis: ${theologians.map(t => t.charAt(0).toUpperCase() + t.slice(1)).join(', ')}</span>
+                </div>
+                <div class="text-content">
+                    <p style="font-size: 0.85rem; color: var(--text-muted);">
+                        Comparing mean scores across theologians. Error bars show ±1 standard deviation.
+                        All scores are on a fixed 0-10 scale.
+                    </p>
+                </div>
+            </div>`;
+
+        // Group metrics by analysis type and render with section headers
+        const analysisLabels = {
+            'aristoteles': 'Aristotelian Modes',
+            'dekker': 'Dekker Analysis',
+            'esthetiek': 'Aesthetic Turn',
+            'kolb': 'Kolb Learning Cycle',
+            'schulz_von_thun': 'Schulz von Thun'
+        };
+
+        let currentAnalysis = null;
+        sortedMetrics.forEach(([metricKey, theologianStats]) => {
+            // Determine analysis type for this metric
+            const parts = metricKey.split('_');
+            let analysisType;
+            if (parts[0] === 'schulz' && parts[1] === 'von' && parts[2] === 'thun') {
+                analysisType = 'schulz_von_thun';
+            } else {
+                analysisType = parts[0];
+            }
+
+            // Insert section header when analysis type changes
+            if (analysisType !== currentAnalysis) {
+                if (currentAnalysis !== null) {
+                    html += `</div>`; // Close previous chart container
+                }
+                html += `
+                    <div style="margin-top: 2rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--primary-color);">
+                        <h3 style="margin: 0; font-size: 1.1rem; color: var(--primary-color); font-weight: 700;">${analysisLabels[analysisType] || analysisType.toUpperCase()}</h3>
+                    </div>
+                    <div class="stats-chart-container">`;
+                currentAnalysis = analysisType;
+            }
+
+            html += createChart(metricKey, theologianStats, theologians);
+        });
+
+        html += `</div>`; // Close final chart container
+        container.innerHTML = html;
+    }
+
+    function createChart(metricKey, theologianStats, selectedTheologians) {
+        // Format title as just the metric name (no analysis prefix)
+        const parts = metricKey.split('_');
+
+        // Special handling for "schulz_von_thun"
+        let metric;
+        if (parts[0] === 'schulz' && parts[1] === 'von' && parts[2] === 'thun') {
+            metric = parts.slice(3).join(' ').toUpperCase();
+        } else {
+            metric = parts.slice(1).join(' ').toUpperCase();
+        }
+
+        const title = metric;
+
+        // SVG dimensions
+        const width = 280;
+        const height = 200;
+        const padding = { top: 20, right: 20, bottom: 50, left: 40 };
+        const chartWidth = width - padding.left - padding.right;
+        const chartHeight = height - padding.top - padding.bottom;
+
+        // Scale (0-10 fixed)
+        const scale = chartHeight / 10;
+
+        // Calculate bar positions
+        const numTheologians = selectedTheologians.length;
+        const barWidth = Math.min(50, chartWidth / (numTheologians * 1.5));
+        const barGap = barWidth * 0.3;
+        const totalBarsWidth = (barWidth * numTheologians) + (barGap * (numTheologians - 1));
+        const startX = padding.left + (chartWidth - totalBarsWidth) / 2;
+
+        // Abbreviate theologian names
+        const abbreviate = (name) => {
+            if (name.length <= 4) return name.toUpperCase();
+            return name.substring(0, 4).toUpperCase();
+        };
+
+        // Generate bars for each theologian
+        let barsHTML = '';
+        selectedTheologians.forEach((theologian, index) => {
+            const stats = theologianStats[theologian];
+            if (!stats) return;
+
+            const { mean, stdDev, count } = stats;
+            const barX = startX + (index * (barWidth + barGap));
+            const meanHeight = mean * scale;
+            const meanY = padding.top + chartHeight - meanHeight;
+
+            // Determine color class based on score
+            let colorClass = 'bar-score-mid';
+            if (mean >= 7.5) {
+                colorClass = 'bar-score-high';
+            } else if (mean < 5.5) {
+                colorClass = 'bar-score-low';
+            }
+
+            // Error bar positions
+            const errorTop = Math.max(0, mean - stdDev);
+            const errorBottom = Math.min(10, mean + stdDev);
+            const errorTopY = padding.top + chartHeight - (errorBottom * scale);
+            const errorBottomY = padding.top + chartHeight - (errorTop * scale);
+            const barCenterX = barX + barWidth / 2;
+
+            barsHTML += `
+                <!-- Bar for ${theologian} -->
+                <rect class="bar-mean ${colorClass}"
+                      x="${barX}" y="${meanY}"
+                      width="${barWidth}" height="${meanHeight}"
+                      rx="3" />
+
+                <!-- Error bar (standard deviation) -->
+                <line stroke="var(--text-main)" stroke-width="2" stroke-opacity="0.6"
+                      x1="${barCenterX}" y1="${errorTopY}"
+                      x2="${barCenterX}" y2="${errorBottomY}" />
+                <line stroke="var(--text-main)" stroke-width="2" stroke-opacity="0.6"
+                      x1="${barCenterX - 5}" y1="${errorTopY}"
+                      x2="${barCenterX + 5}" y2="${errorTopY}" />
+                <line stroke="var(--text-main)" stroke-width="2" stroke-opacity="0.6"
+                      x1="${barCenterX - 5}" y1="${errorBottomY}"
+                      x2="${barCenterX + 5}" y2="${errorBottomY}" />
+
+                <!-- Mean value label (above error bar) -->
+                <text class="chart-value-label"
+                      x="${barCenterX}" y="${errorTopY - 8}"
+                      text-anchor="middle">${mean.toFixed(1)}</text>
+
+                <!-- Theologian label -->
+                <text class="chart-axis-label"
+                      x="${barCenterX}" y="${height - 30}"
+                      text-anchor="middle" font-weight="600">${abbreviate(theologian)}</text>
+
+                <!-- Count label -->
+                <text class="chart-axis-label"
+                      x="${barCenterX}" y="${height - 18}"
+                      text-anchor="middle" font-size="9px">n=${count}</text>
+            `;
+        });
+
+        return `
+            <div class="chart-card">
+                <div class="chart-title">${title}</div>
+                <svg class="chart-svg" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Y-axis -->
+                    <line class="chart-axis-line"
+                          x1="${padding.left}" y1="${padding.top}"
+                          x2="${padding.left}" y2="${padding.top + chartHeight}" />
+
+                    <!-- Y-axis labels -->
+                    ${[0, 2, 4, 6, 8, 10].map(val => {
+                        const y = padding.top + chartHeight - (val * scale);
+                        return `
+                            <line class="chart-axis-line"
+                                  x1="${padding.left - 5}" y1="${y}"
+                                  x2="${padding.left}" y2="${y}" />
+                            <text class="chart-axis-label"
+                                  x="${padding.left - 10}" y="${y + 3}"
+                                  text-anchor="end">${val}</text>
+                        `;
+                    }).join('')}
+
+                    ${barsHTML}
+                </svg>
+            </div>
+        `;
+    }
+
+    // --- TABS & EVENTS ---
+    function switchTab(id) {
+        document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+        document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+        document.getElementById('tab-' + id).classList.add('active');
+        document.getElementById('btn-' + id).classList.add('active');
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+        loadTheme();
+
+        // Discover available JSON files
+        await discoverJSONFiles();
+        populateTheologianMenu();
+        populateTheologianCheckboxes();
+
+        // Set up event handlers for menu changes
+        const theologianSelect = document.getElementById('theologian-select');
+        const sermonSelect = document.getElementById('sermon-select');
+        const analysisSelect = document.getElementById('analysis-type-select');
+
+        theologianSelect.onchange = () => {
+            const theologian = theologianSelect.value;
+            populateSermonMenu(theologian);
+            sermonSelect.value = '';
+            analysisSelect.innerHTML = '<option value="">Select Analysis...</option>';
+        };
+
+        sermonSelect.onchange = () => {
+            const theologian = theologianSelect.value;
+            const sermon = sermonSelect.value;
+            populateAnalysisMenu(theologian, sermon);
+            analysisSelect.value = '';
+        };
+
+        analysisSelect.onchange = () => {
+            const analysis = analysisSelect.value;
+            if (analysis) {
+                updateInfoBlock(analysis);
+                loadAnalysis();
+            }
+        };
+
+        // File upload handler for manual JSON uploads
+        document.getElementById('json-upload').onchange = (e) => {
+            const reader = new FileReader();
+            reader.onload = (ev) => {
+                try {
+                    const data = JSON.parse(ev.target.result);
+                    currentData = data;
+
+                    // Try to detect analysis type from the data structure
+                    let type = 'aristoteles';
+                    if (data.analysis_per_criterion) type = 'dekker';
+                    else if (data.kolb_phases_analysis) type = 'kolb';
+                    else if (data.schulz_von_thun_analysis) type = 'schulz_von_thun';
+                    else if (data.domain_a_poetics_of_language) type = 'esthetiek';
+
+                    renderAnalysis(data, type);
+                    renderMetadata(data.metadata);
+                    updateInfoBlock(type);
+                    switchTab('analysis');
+                } catch (err) {
+                    alert('Error parsing JSON file: ' + err.message);
+                }
+            };
+            reader.readAsText(e.target.files[0]);
+        };
+    });
+</script>
+</body>
+</html>
