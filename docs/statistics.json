@@ -1,0 +1,2087 @@
+{
+  "generated_at": "2026-01-14T09:33:48.415439",
+  "theologians": [
+    "augustine",
+    "brueggemann",
+    "keller",
+    "rutledge",
+    "solle",
+    "taylor"
+  ],
+  "summary": {
+    "aristoteles_Logos": {
+      "augustine": {
+        "mean": 6.55,
+        "stdDev": 0.89,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.86,
+        "stdDev": 0.54,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.78,
+        "stdDev": 0.41,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.8,
+        "stdDev": 0.56,
+        "count": 122
+      },
+      "solle": {
+        "mean": 5.71,
+        "stdDev": 0.59,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.59,
+        "stdDev": 0.57,
+        "count": 118
+      }
+    },
+    "aristoteles_Pathos": {
+      "augustine": {
+        "mean": 5.86,
+        "stdDev": 1.06,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.38,
+        "stdDev": 0.87,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.09,
+        "stdDev": 0.41,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.88,
+        "stdDev": 1.13,
+        "count": 122
+      },
+      "solle": {
+        "mean": 7.39,
+        "stdDev": 0.77,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 7.68,
+        "stdDev": 0.53,
+        "count": 118
+      }
+    },
+    "aristoteles_Ethos": {
+      "augustine": {
+        "mean": 5.82,
+        "stdDev": 1.07,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.28,
+        "stdDev": 0.89,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.8,
+        "stdDev": 0.49,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.07,
+        "stdDev": 0.91,
+        "count": 122
+      },
+      "solle": {
+        "mean": 7.07,
+        "stdDev": 0.88,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.9,
+        "stdDev": 0.74,
+        "count": 118
+      }
+    },
+    "aristoteles_Overall": {
+      "augustine": {
+        "mean": 6.13,
+        "stdDev": 0.55,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.55,
+        "stdDev": 0.43,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.92,
+        "stdDev": 0.3,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.94,
+        "stdDev": 0.49,
+        "count": 122
+      },
+      "solle": {
+        "mean": 6.69,
+        "stdDev": 0.55,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.74,
+        "stdDev": 0.38,
+        "count": 118
+      }
+    },
+    "dekker_#1 specific bible passage": {
+      "augustine": {
+        "mean": 3.5,
+        "stdDev": 1.27,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.63,
+        "stdDev": 1.05,
+        "count": 180
+      },
+      "keller": {
+        "mean": 5.65,
+        "stdDev": 0.81,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.69,
+        "stdDev": 1.0,
+        "count": 185
+      },
+      "solle": {
+        "mean": 4.46,
+        "stdDev": 1.02,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.05,
+        "stdDev": 0.88,
+        "count": 172
+      }
+    },
+    "dekker_#2 exegesis original context": {
+      "augustine": {
+        "mean": 3.0,
+        "stdDev": 1.09,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.64,
+        "stdDev": 1.01,
+        "count": 180
+      },
+      "keller": {
+        "mean": 5.35,
+        "stdDev": 0.94,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.71,
+        "stdDev": 1.11,
+        "count": 185
+      },
+      "solle": {
+        "mean": 4.0,
+        "stdDev": 1.6,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 3.51,
+        "stdDev": 1.31,
+        "count": 172
+      }
+    },
+    "dekker_#3 application concrete contemporary": {
+      "augustine": {
+        "mean": 3.91,
+        "stdDev": 1.08,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.72,
+        "stdDev": 1.05,
+        "count": 180
+      },
+      "keller": {
+        "mean": 6.41,
+        "stdDev": 0.92,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.15,
+        "stdDev": 1.14,
+        "count": 183
+      },
+      "solle": {
+        "mean": 6.36,
+        "stdDev": 0.85,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.36,
+        "stdDev": 1.05,
+        "count": 168
+      }
+    },
+    "dekker_#4 interwoveness exposition application": {
+      "augustine": {
+        "mean": 4.91,
+        "stdDev": 1.24,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.43,
+        "stdDev": 1.06,
+        "count": 180
+      },
+      "keller": {
+        "mean": 5.46,
+        "stdDev": 0.99,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 5.15,
+        "stdDev": 1.04,
+        "count": 185
+      },
+      "solle": {
+        "mean": 4.68,
+        "stdDev": 1.23,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.29,
+        "stdDev": 0.99,
+        "count": 172
+      }
+    },
+    "dekker_#5 three parts misery redemption gratitude": {
+      "augustine": {
+        "mean": 5.82,
+        "stdDev": 1.23,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.42,
+        "stdDev": 0.86,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.13,
+        "stdDev": 0.71,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.45,
+        "stdDev": 0.87,
+        "count": 185
+      },
+      "solle": {
+        "mean": 5.14,
+        "stdDev": 1.03,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.7,
+        "stdDev": 0.81,
+        "count": 172
+      }
+    },
+    "dekker_#6 two ways seriousness of choice": {
+      "augustine": {
+        "mean": 6.14,
+        "stdDev": 1.58,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.76,
+        "stdDev": 1.58,
+        "count": 180
+      },
+      "keller": {
+        "mean": 5.41,
+        "stdDev": 1.07,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 5.07,
+        "stdDev": 1.46,
+        "count": 185
+      },
+      "solle": {
+        "mean": 5.14,
+        "stdDev": 1.75,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.37,
+        "stdDev": 1.75,
+        "count": 172
+      }
+    },
+    "dekker_#7 christocentric grace": {
+      "augustine": {
+        "mean": 5.36,
+        "stdDev": 1.67,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.94,
+        "stdDev": 1.16,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.52,
+        "stdDev": 0.58,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.41,
+        "stdDev": 1.03,
+        "count": 185
+      },
+      "solle": {
+        "mean": 3.54,
+        "stdDev": 0.98,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.47,
+        "stdDev": 1.31,
+        "count": 172
+      }
+    },
+    "dekker_#8 depth and length": {
+      "augustine": {
+        "mean": 3.27,
+        "stdDev": 1.93,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 3.41,
+        "stdDev": 0.9,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.96,
+        "stdDev": 0.41,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.73,
+        "stdDev": 1.43,
+        "count": 185
+      },
+      "solle": {
+        "mean": 3.86,
+        "stdDev": 2.07,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.04,
+        "stdDev": 1.34,
+        "count": 172
+      }
+    },
+    "esthetiek_Poetics": {
+      "augustine": {
+        "mean": 7.03,
+        "stdDev": 0.59,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.28,
+        "stdDev": 0.41,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.64,
+        "stdDev": 0.32,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.19,
+        "stdDev": 0.4,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.19,
+        "stdDev": 0.48,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 7.15,
+        "stdDev": 0.59,
+        "count": 75
+      }
+    },
+    "esthetiek_Dramaturgy": {
+      "augustine": {
+        "mean": 5.61,
+        "stdDev": 0.95,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.96,
+        "stdDev": 0.41,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.92,
+        "stdDev": 0.29,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.26,
+        "stdDev": 0.43,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.99,
+        "stdDev": 0.54,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.23,
+        "stdDev": 0.65,
+        "count": 75
+      }
+    },
+    "esthetiek_Overall": {
+      "augustine": {
+        "mean": 6.41,
+        "stdDev": 0.81,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.35,
+        "stdDev": 0.36,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.14,
+        "stdDev": 0.23,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.6,
+        "stdDev": 0.38,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.37,
+        "stdDev": 0.48,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.77,
+        "stdDev": 0.63,
+        "count": 75
+      }
+    },
+    "kolb_Concrete Experience": {
+      "augustine": {
+        "mean": 5.0,
+        "stdDev": 0.95,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.97,
+        "stdDev": 0.79,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.02,
+        "stdDev": 0.57,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.04,
+        "stdDev": 0.78,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.75,
+        "stdDev": 1.09,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.85,
+        "stdDev": 0.7,
+        "count": 78
+      }
+    },
+    "kolb_Reflective Observation": {
+      "augustine": {
+        "mean": 6.09,
+        "stdDev": 1.28,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.36,
+        "stdDev": 0.66,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.78,
+        "stdDev": 0.41,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.32,
+        "stdDev": 0.78,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.21,
+        "stdDev": 0.67,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.56,
+        "stdDev": 0.73,
+        "count": 78
+      }
+    },
+    "kolb_Abstract Conceptualization": {
+      "augustine": {
+        "mean": 7.55,
+        "stdDev": 0.5,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.21,
+        "stdDev": 0.62,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.61,
+        "stdDev": 0.49,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.17,
+        "stdDev": 0.65,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.29,
+        "stdDev": 0.8,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.35,
+        "stdDev": 0.89,
+        "count": 78
+      }
+    },
+    "kolb_Active Experimentation": {
+      "augustine": {
+        "mean": 4.59,
+        "stdDev": 1.11,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.82,
+        "stdDev": 0.61,
+        "count": 181
+      },
+      "keller": {
+        "mean": 5.22,
+        "stdDev": 0.66,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.79,
+        "stdDev": 0.67,
+        "count": 78
+      },
+      "solle": {
+        "mean": 4.93,
+        "stdDev": 1.0,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.45,
+        "stdDev": 0.55,
+        "count": 78
+      }
+    },
+    "kolb_Overall": {
+      "augustine": {
+        "mean": 5.8,
+        "stdDev": 0.55,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.42,
+        "stdDev": 0.26,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.69,
+        "stdDev": 0.23,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.56,
+        "stdDev": 0.31,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.32,
+        "stdDev": 0.56,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.28,
+        "stdDev": 0.3,
+        "count": 78
+      }
+    },
+    "schulz_von_thun_Factual Content": {
+      "augustine": {
+        "mean": 6.55,
+        "stdDev": 0.78,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.57,
+        "stdDev": 0.53,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.22,
+        "stdDev": 0.47,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 7.07,
+        "stdDev": 0.51,
+        "count": 133
+      },
+      "solle": {
+        "mean": 5.86,
+        "stdDev": 0.52,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.82,
+        "stdDev": 0.41,
+        "count": 125
+      }
+    },
+    "schulz_von_thun_Self-Revelation": {
+      "augustine": {
+        "mean": 5.23,
+        "stdDev": 0.85,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.99,
+        "stdDev": 0.7,
+        "count": 180
+      },
+      "keller": {
+        "mean": 6.2,
+        "stdDev": 0.54,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 6.58,
+        "stdDev": 0.92,
+        "count": 133
+      },
+      "solle": {
+        "mean": 7.29,
+        "stdDev": 0.75,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.82,
+        "stdDev": 0.85,
+        "count": 125
+      }
+    },
+    "schulz_von_thun_Relational Aspect": {
+      "augustine": {
+        "mean": 4.91,
+        "stdDev": 0.85,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.45,
+        "stdDev": 0.72,
+        "count": 180
+      },
+      "keller": {
+        "mean": 6.11,
+        "stdDev": 0.57,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 5.61,
+        "stdDev": 0.77,
+        "count": 133
+      },
+      "solle": {
+        "mean": 5.39,
+        "stdDev": 0.72,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.98,
+        "stdDev": 1.03,
+        "count": 125
+      }
+    },
+    "schulz_von_thun_Appeal Aspect": {
+      "augustine": {
+        "mean": 5.68,
+        "stdDev": 1.49,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.99,
+        "stdDev": 1.13,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.76,
+        "stdDev": 0.56,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 7.05,
+        "stdDev": 1.02,
+        "count": 133
+      },
+      "solle": {
+        "mean": 4.89,
+        "stdDev": 1.14,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.73,
+        "stdDev": 1.2,
+        "count": 125
+      }
+    },
+    "schulz_von_thun_Overall": {
+      "augustine": {
+        "mean": 5.92,
+        "stdDev": 0.71,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.49,
+        "stdDev": 0.52,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.5,
+        "stdDev": 0.32,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 7.14,
+        "stdDev": 0.58,
+        "count": 133
+      },
+      "solle": {
+        "mean": 6.24,
+        "stdDev": 0.63,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.52,
+        "stdDev": 0.59,
+        "count": 125
+      }
+    },
+    "dekker_#3 application concrete concrete contemporary": {
+      "rutledge": {
+        "mean": 7.0,
+        "stdDev": 0.0,
+        "count": 2
+      },
+      "taylor": {
+        "mean": 4.25,
+        "stdDev": 1.09,
+        "count": 4
+      }
+    }
+  },
+  "detailed": {
+    "aristoteles_Logos": {
+      "augustine": {
+        "mean": 6.55,
+        "stdDev": 0.89,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.86,
+        "stdDev": 0.54,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.78,
+        "stdDev": 0.41,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.8,
+        "stdDev": 0.56,
+        "count": 122
+      },
+      "solle": {
+        "mean": 5.71,
+        "stdDev": 0.59,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.59,
+        "stdDev": 0.57,
+        "count": 118
+      }
+    },
+    "aristoteles_Pathos": {
+      "augustine": {
+        "mean": 5.86,
+        "stdDev": 1.06,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.38,
+        "stdDev": 0.87,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.09,
+        "stdDev": 0.41,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.88,
+        "stdDev": 1.13,
+        "count": 122
+      },
+      "solle": {
+        "mean": 7.39,
+        "stdDev": 0.77,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 7.68,
+        "stdDev": 0.53,
+        "count": 118
+      }
+    },
+    "aristoteles_Ethos": {
+      "augustine": {
+        "mean": 5.82,
+        "stdDev": 1.07,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.28,
+        "stdDev": 0.89,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.8,
+        "stdDev": 0.49,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.07,
+        "stdDev": 0.91,
+        "count": 122
+      },
+      "solle": {
+        "mean": 7.07,
+        "stdDev": 0.88,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.9,
+        "stdDev": 0.74,
+        "count": 118
+      }
+    },
+    "aristoteles_Overall": {
+      "augustine": {
+        "mean": 6.13,
+        "stdDev": 0.55,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.55,
+        "stdDev": 0.43,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.92,
+        "stdDev": 0.3,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.94,
+        "stdDev": 0.49,
+        "count": 122
+      },
+      "solle": {
+        "mean": 6.69,
+        "stdDev": 0.55,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.74,
+        "stdDev": 0.38,
+        "count": 118
+      }
+    },
+    "aristoteles_Balance Score": {
+      "augustine": {
+        "mean": 5.64,
+        "stdDev": 0.64,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.28,
+        "stdDev": 0.52,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.8,
+        "stdDev": 0.4,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.76,
+        "stdDev": 0.6,
+        "count": 122
+      },
+      "solle": {
+        "mean": 6.25,
+        "stdDev": 0.74,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.38,
+        "stdDev": 0.54,
+        "count": 118
+      }
+    },
+    "dekker_#1 specific bible passage": {
+      "augustine": {
+        "mean": 3.5,
+        "stdDev": 1.27,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.63,
+        "stdDev": 1.05,
+        "count": 180
+      },
+      "keller": {
+        "mean": 5.65,
+        "stdDev": 0.81,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.69,
+        "stdDev": 1.0,
+        "count": 185
+      },
+      "solle": {
+        "mean": 4.46,
+        "stdDev": 1.02,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.05,
+        "stdDev": 0.88,
+        "count": 172
+      }
+    },
+    "dekker_#2 exegesis original context": {
+      "augustine": {
+        "mean": 3.0,
+        "stdDev": 1.09,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.64,
+        "stdDev": 1.01,
+        "count": 180
+      },
+      "keller": {
+        "mean": 5.35,
+        "stdDev": 0.94,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.71,
+        "stdDev": 1.11,
+        "count": 185
+      },
+      "solle": {
+        "mean": 4.0,
+        "stdDev": 1.6,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 3.51,
+        "stdDev": 1.31,
+        "count": 172
+      }
+    },
+    "dekker_#3 application concrete contemporary": {
+      "augustine": {
+        "mean": 3.91,
+        "stdDev": 1.08,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.72,
+        "stdDev": 1.05,
+        "count": 180
+      },
+      "keller": {
+        "mean": 6.41,
+        "stdDev": 0.92,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.15,
+        "stdDev": 1.14,
+        "count": 183
+      },
+      "solle": {
+        "mean": 6.36,
+        "stdDev": 0.85,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.36,
+        "stdDev": 1.05,
+        "count": 168
+      }
+    },
+    "dekker_#4 interwoveness exposition application": {
+      "augustine": {
+        "mean": 4.91,
+        "stdDev": 1.24,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.43,
+        "stdDev": 1.06,
+        "count": 180
+      },
+      "keller": {
+        "mean": 5.46,
+        "stdDev": 0.99,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 5.15,
+        "stdDev": 1.04,
+        "count": 185
+      },
+      "solle": {
+        "mean": 4.68,
+        "stdDev": 1.23,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.29,
+        "stdDev": 0.99,
+        "count": 172
+      }
+    },
+    "dekker_#5 three parts misery redemption gratitude": {
+      "augustine": {
+        "mean": 5.82,
+        "stdDev": 1.23,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.42,
+        "stdDev": 0.86,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.13,
+        "stdDev": 0.71,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.45,
+        "stdDev": 0.87,
+        "count": 185
+      },
+      "solle": {
+        "mean": 5.14,
+        "stdDev": 1.03,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.7,
+        "stdDev": 0.81,
+        "count": 172
+      }
+    },
+    "dekker_#6 two ways seriousness of choice": {
+      "augustine": {
+        "mean": 6.14,
+        "stdDev": 1.58,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.76,
+        "stdDev": 1.58,
+        "count": 180
+      },
+      "keller": {
+        "mean": 5.41,
+        "stdDev": 1.07,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 5.07,
+        "stdDev": 1.46,
+        "count": 185
+      },
+      "solle": {
+        "mean": 5.14,
+        "stdDev": 1.75,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.37,
+        "stdDev": 1.75,
+        "count": 172
+      }
+    },
+    "dekker_#7 christocentric grace": {
+      "augustine": {
+        "mean": 5.36,
+        "stdDev": 1.67,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.94,
+        "stdDev": 1.16,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.52,
+        "stdDev": 0.58,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.41,
+        "stdDev": 1.03,
+        "count": 185
+      },
+      "solle": {
+        "mean": 3.54,
+        "stdDev": 0.98,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.47,
+        "stdDev": 1.31,
+        "count": 172
+      }
+    },
+    "dekker_#8 depth and length": {
+      "augustine": {
+        "mean": 3.27,
+        "stdDev": 1.93,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 3.41,
+        "stdDev": 0.9,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.96,
+        "stdDev": 0.41,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.73,
+        "stdDev": 1.43,
+        "count": 185
+      },
+      "solle": {
+        "mean": 3.86,
+        "stdDev": 2.07,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.04,
+        "stdDev": 1.34,
+        "count": 172
+      }
+    },
+    "esthetiek_Imagery": {
+      "augustine": {
+        "mean": 6.5,
+        "stdDev": 1.03,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.87,
+        "stdDev": 0.71,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.35,
+        "stdDev": 0.48,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.32,
+        "stdDev": 0.63,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.21,
+        "stdDev": 0.9,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 7.13,
+        "stdDev": 0.66,
+        "count": 75
+      }
+    },
+    "esthetiek_Carefulness And Precision": {
+      "augustine": {
+        "mean": 7.27,
+        "stdDev": 0.75,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.44,
+        "stdDev": 0.62,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.96,
+        "stdDev": 0.2,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.59,
+        "stdDev": 0.56,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.39,
+        "stdDev": 0.62,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.45,
+        "stdDev": 0.85,
+        "count": 75
+      }
+    },
+    "esthetiek_Musicality And Rhythm": {
+      "augustine": {
+        "mean": 7.32,
+        "stdDev": 0.7,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.51,
+        "stdDev": 0.64,
+        "count": 181
+      },
+      "keller": {
+        "mean": 5.63,
+        "stdDev": 0.53,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.67,
+        "stdDev": 0.73,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.96,
+        "stdDev": 0.87,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 7.88,
+        "stdDev": 0.61,
+        "count": 75
+      }
+    },
+    "esthetiek_Narrative Arc": {
+      "augustine": {
+        "mean": 5.95,
+        "stdDev": 1.02,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.71,
+        "stdDev": 0.76,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.98,
+        "stdDev": 0.53,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.32,
+        "stdDev": 0.71,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.57,
+        "stdDev": 0.78,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.45,
+        "stdDev": 0.68,
+        "count": 75
+      }
+    },
+    "esthetiek_Integration Text And Context": {
+      "augustine": {
+        "mean": 6.27,
+        "stdDev": 1.32,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 8.01,
+        "stdDev": 0.28,
+        "count": 181
+      },
+      "keller": {
+        "mean": 8.09,
+        "stdDev": 0.28,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 8.12,
+        "stdDev": 0.58,
+        "count": 78
+      },
+      "solle": {
+        "mean": 8.25,
+        "stdDev": 0.51,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 7.0,
+        "stdDev": 0.95,
+        "count": 75
+      }
+    },
+    "esthetiek_Openness Vs Closedness": {
+      "augustine": {
+        "mean": 4.59,
+        "stdDev": 0.94,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.15,
+        "stdDev": 0.69,
+        "count": 181
+      },
+      "keller": {
+        "mean": 5.7,
+        "stdDev": 0.51,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.35,
+        "stdDev": 0.62,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.14,
+        "stdDev": 1.06,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.25,
+        "stdDev": 0.71,
+        "count": 75
+      }
+    },
+    "esthetiek_Anti-Kitsch": {
+      "augustine": {
+        "mean": 7.95,
+        "stdDev": 0.88,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 8.4,
+        "stdDev": 0.58,
+        "count": 181
+      },
+      "keller": {
+        "mean": 8.2,
+        "stdDev": 0.45,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 8.71,
+        "stdDev": 0.48,
+        "count": 78
+      },
+      "solle": {
+        "mean": 8.79,
+        "stdDev": 0.49,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.65,
+        "stdDev": 1.11,
+        "count": 75
+      }
+    },
+    "esthetiek_Space for Grace": {
+      "augustine": {
+        "mean": 5.86,
+        "stdDev": 1.22,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.24,
+        "stdDev": 0.6,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.09,
+        "stdDev": 0.28,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.72,
+        "stdDev": 0.45,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.0,
+        "stdDev": 0.93,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.4,
+        "stdDev": 0.86,
+        "count": 75
+      }
+    },
+    "esthetiek_Overall": {
+      "augustine": {
+        "mean": 6.41,
+        "stdDev": 0.81,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.35,
+        "stdDev": 0.36,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.14,
+        "stdDev": 0.23,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.6,
+        "stdDev": 0.38,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.37,
+        "stdDev": 0.48,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.77,
+        "stdDev": 0.63,
+        "count": 75
+      }
+    },
+    "kolb_Concrete Experience": {
+      "augustine": {
+        "mean": 5.0,
+        "stdDev": 0.95,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.97,
+        "stdDev": 0.79,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.02,
+        "stdDev": 0.57,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.04,
+        "stdDev": 0.78,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.75,
+        "stdDev": 1.09,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.85,
+        "stdDev": 0.7,
+        "count": 78
+      }
+    },
+    "kolb_Reflective Observation": {
+      "augustine": {
+        "mean": 6.09,
+        "stdDev": 1.28,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.36,
+        "stdDev": 0.66,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.78,
+        "stdDev": 0.41,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.32,
+        "stdDev": 0.78,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.21,
+        "stdDev": 0.67,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.56,
+        "stdDev": 0.73,
+        "count": 78
+      }
+    },
+    "kolb_Abstract Conceptualization": {
+      "augustine": {
+        "mean": 7.55,
+        "stdDev": 0.5,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.21,
+        "stdDev": 0.62,
+        "count": 181
+      },
+      "keller": {
+        "mean": 7.61,
+        "stdDev": 0.49,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.17,
+        "stdDev": 0.65,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.29,
+        "stdDev": 0.8,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.35,
+        "stdDev": 0.89,
+        "count": 78
+      }
+    },
+    "kolb_Active Experimentation": {
+      "augustine": {
+        "mean": 4.59,
+        "stdDev": 1.11,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.82,
+        "stdDev": 0.61,
+        "count": 181
+      },
+      "keller": {
+        "mean": 5.22,
+        "stdDev": 0.66,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.79,
+        "stdDev": 0.67,
+        "count": 78
+      },
+      "solle": {
+        "mean": 4.93,
+        "stdDev": 1.0,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.45,
+        "stdDev": 0.55,
+        "count": 78
+      }
+    },
+    "kolb_Assimilating": {
+      "augustine": {
+        "mean": 7.73,
+        "stdDev": 0.62,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.64,
+        "stdDev": 0.71,
+        "count": 181
+      },
+      "keller": {
+        "mean": 8.48,
+        "stdDev": 0.5,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.71,
+        "stdDev": 0.66,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.79,
+        "stdDev": 1.11,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.71,
+        "stdDev": 0.98,
+        "count": 78
+      }
+    },
+    "kolb_Converging": {
+      "augustine": {
+        "mean": 4.68,
+        "stdDev": 1.33,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 4.61,
+        "stdDev": 0.97,
+        "count": 181
+      },
+      "keller": {
+        "mean": 5.96,
+        "stdDev": 0.98,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 4.45,
+        "stdDev": 1.0,
+        "count": 78
+      },
+      "solle": {
+        "mean": 4.46,
+        "stdDev": 1.3,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 4.18,
+        "stdDev": 0.57,
+        "count": 78
+      }
+    },
+    "kolb_Accommodating": {
+      "augustine": {
+        "mean": 4.18,
+        "stdDev": 0.78,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.27,
+        "stdDev": 0.9,
+        "count": 181
+      },
+      "keller": {
+        "mean": 4.78,
+        "stdDev": 0.72,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.19,
+        "stdDev": 0.86,
+        "count": 78
+      },
+      "solle": {
+        "mean": 5.96,
+        "stdDev": 1.35,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.31,
+        "stdDev": 0.95,
+        "count": 78
+      }
+    },
+    "kolb_Diverging": {
+      "augustine": {
+        "mean": 6.09,
+        "stdDev": 1.16,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 7.48,
+        "stdDev": 0.65,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.83,
+        "stdDev": 0.38,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 7.45,
+        "stdDev": 0.67,
+        "count": 78
+      },
+      "solle": {
+        "mean": 7.54,
+        "stdDev": 0.78,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 7.69,
+        "stdDev": 0.46,
+        "count": 78
+      }
+    },
+    "kolb_Cycle Completeness": {
+      "augustine": {
+        "mean": 5.59,
+        "stdDev": 0.49,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.12,
+        "stdDev": 0.35,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.48,
+        "stdDev": 0.5,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.27,
+        "stdDev": 0.5,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.0,
+        "stdDev": 0.76,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.0,
+        "stdDev": 0.45,
+        "count": 78
+      }
+    },
+    "kolb_Balance Between Phases": {
+      "augustine": {
+        "mean": 4.86,
+        "stdDev": 0.62,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.81,
+        "stdDev": 0.44,
+        "count": 181
+      },
+      "keller": {
+        "mean": 5.83,
+        "stdDev": 0.43,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 5.97,
+        "stdDev": 0.48,
+        "count": 78
+      },
+      "solle": {
+        "mean": 5.54,
+        "stdDev": 0.78,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.72,
+        "stdDev": 0.45,
+        "count": 78
+      }
+    },
+    "kolb_Holistic Learning": {
+      "augustine": {
+        "mean": 5.36,
+        "stdDev": 0.64,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.23,
+        "stdDev": 0.48,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.59,
+        "stdDev": 0.49,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.49,
+        "stdDev": 0.55,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.36,
+        "stdDev": 0.85,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.19,
+        "stdDev": 0.43,
+        "count": 78
+      }
+    },
+    "kolb_Overall": {
+      "augustine": {
+        "mean": 5.8,
+        "stdDev": 0.55,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.42,
+        "stdDev": 0.26,
+        "count": 181
+      },
+      "keller": {
+        "mean": 6.69,
+        "stdDev": 0.23,
+        "count": 46
+      },
+      "rutledge": {
+        "mean": 6.56,
+        "stdDev": 0.31,
+        "count": 78
+      },
+      "solle": {
+        "mean": 6.32,
+        "stdDev": 0.56,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.28,
+        "stdDev": 0.3,
+        "count": 78
+      }
+    },
+    "schulz_von_thun_Factual Content": {
+      "augustine": {
+        "mean": 6.55,
+        "stdDev": 0.78,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.57,
+        "stdDev": 0.53,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.22,
+        "stdDev": 0.47,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 7.07,
+        "stdDev": 0.51,
+        "count": 133
+      },
+      "solle": {
+        "mean": 5.86,
+        "stdDev": 0.52,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.82,
+        "stdDev": 0.41,
+        "count": 125
+      }
+    },
+    "schulz_von_thun_Self-Revelation": {
+      "augustine": {
+        "mean": 5.23,
+        "stdDev": 0.85,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.99,
+        "stdDev": 0.7,
+        "count": 180
+      },
+      "keller": {
+        "mean": 6.2,
+        "stdDev": 0.54,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 6.58,
+        "stdDev": 0.92,
+        "count": 133
+      },
+      "solle": {
+        "mean": 7.29,
+        "stdDev": 0.75,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.82,
+        "stdDev": 0.85,
+        "count": 125
+      }
+    },
+    "schulz_von_thun_Relational Aspect": {
+      "augustine": {
+        "mean": 4.91,
+        "stdDev": 0.85,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.45,
+        "stdDev": 0.72,
+        "count": 180
+      },
+      "keller": {
+        "mean": 6.11,
+        "stdDev": 0.57,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 5.61,
+        "stdDev": 0.77,
+        "count": 133
+      },
+      "solle": {
+        "mean": 5.39,
+        "stdDev": 0.72,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.98,
+        "stdDev": 1.03,
+        "count": 125
+      }
+    },
+    "schulz_von_thun_Appeal Aspect": {
+      "augustine": {
+        "mean": 5.68,
+        "stdDev": 1.49,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 5.99,
+        "stdDev": 1.13,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.76,
+        "stdDev": 0.56,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 7.05,
+        "stdDev": 1.02,
+        "count": 133
+      },
+      "solle": {
+        "mean": 4.89,
+        "stdDev": 1.14,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 5.73,
+        "stdDev": 1.2,
+        "count": 125
+      }
+    },
+    "schulz_von_thun_Overall": {
+      "augustine": {
+        "mean": 5.92,
+        "stdDev": 0.71,
+        "count": 22
+      },
+      "brueggemann": {
+        "mean": 6.49,
+        "stdDev": 0.52,
+        "count": 180
+      },
+      "keller": {
+        "mean": 7.5,
+        "stdDev": 0.32,
+        "count": 45
+      },
+      "rutledge": {
+        "mean": 7.14,
+        "stdDev": 0.58,
+        "count": 133
+      },
+      "solle": {
+        "mean": 6.24,
+        "stdDev": 0.63,
+        "count": 28
+      },
+      "taylor": {
+        "mean": 6.52,
+        "stdDev": 0.59,
+        "count": 125
+      }
+    },
+    "dekker_#3 application concrete concrete contemporary": {
+      "rutledge": {
+        "mean": 7.0,
+        "stdDev": 0.0,
+        "count": 2
+      },
+      "taylor": {
+        "mean": 4.25,
+        "stdDev": 1.09,
+        "count": 4
+      }
+    }
+  }
+}
