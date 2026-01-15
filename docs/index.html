@@ -660,7 +660,7 @@ An integral sermon traverses this entire cycle to address every hearer and lead 
 These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Ethos).`,
             link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_aristoteles.md'
         },
-        'schulz': {
+        'schulz_von_thun': {
             text: "Schulz von Thun's communication model analyzes the four messages sounding simultaneously in every sermon:\n\n• Factual Content (Blue) – Facts and truth\n• Self-revelation (Green) – Authenticity of the preacher\n• Relationship (Yellow) – How the preacher addresses the hearer\n• Appeal (Red) – The call to action (Law vs. Gospel)\n\nThis analysis checks for congruence and balance to avoid intellectualism, narcissism, paternalism, or moralism.",
             link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_schulz_von_thun.md'
         },
@@ -997,7 +997,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             if (type === 'dekker') renderDekker(data, container);
             else if (type === 'kolb') renderKolb(data, container);
             else if (type === 'aristoteles') renderAristoteles(data, container);
-            else if (type === 'schulz') renderSchulz(data, container);
+            else if (type === 'schulz_von_thun') renderSchulz(data, container);
             else if (type === 'esthetiek') renderEsthetiek(data, container);
         } catch (e) {
             console.error(e);
@@ -1715,9 +1715,16 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             return name.substring(0, 4).toUpperCase();
         };
 
+        // Sort theologians by count (n) from small to large
+        const sortedTheologians = [...selectedTheologians].sort((a, b) => {
+            const countA = theologianStats[a]?.count || 0;
+            const countB = theologianStats[b]?.count || 0;
+            return countA - countB;
+        });
+
         // Generate bars for each theologian
         let barsHTML = '';
-        selectedTheologians.forEach((theologian, index) => {
+        sortedTheologians.forEach((theologian, index) => {
             const stats = theologianStats[theologian];
             if (!stats) return;
 
