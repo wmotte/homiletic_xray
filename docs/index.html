@@ -390,6 +390,46 @@
             font-family: var(--font-mono);
         }
 
+        /* Violin Plot Styles */
+        .violin-path {
+            opacity: 0.7;
+            stroke: none;
+        }
+
+        .violin-score-high {
+            fill: var(--success-color);
+        }
+
+        .violin-score-mid {
+            fill: var(--warning-color);
+        }
+
+        .violin-score-low {
+            fill: var(--danger-color);
+        }
+
+        .violin-median-line {
+            stroke: var(--text-main);
+            stroke-width: 2;
+        }
+
+        .violin-quartile-box {
+            fill: var(--bg-element);
+            stroke: var(--text-muted);
+            stroke-width: 1;
+            opacity: 0.8;
+        }
+
+        .violin-whisker {
+            stroke: var(--text-muted);
+            stroke-width: 1;
+        }
+
+        .violin-point {
+            fill: var(--text-main);
+            opacity: 0.4;
+        }
+
         /* Loading Modal */
         .loading-overlay {
             display: none;
@@ -476,6 +516,7 @@
             <button class="tab-btn active" id="btn-analysis" onclick="switchTab('analysis')">Dashboard</button>
             <button class="tab-btn" id="btn-metadata" onclick="switchTab('metadata')">Metadata</button>
             <button class="tab-btn" id="btn-statistics" onclick="switchTab('statistics')">Statistics</button>
+            <button class="tab-btn" id="btn-statistics-violin" onclick="switchTab('statistics-violin')">Statistics (II)</button>
         </nav>
     </div>
 
@@ -590,6 +631,37 @@
                 <div class="card">
                     <div class="text-content">
                         <em>Select theologians above to view aggregated statistics.</em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="tab-statistics-violin" class="tab-content">
+        <div style="max-width: 1400px; margin: 0 auto;">
+            <div class="card" style="margin-bottom: 2rem;">
+                <div class="card-header">
+                    <span class="card-title">Theologian Selection</span>
+                </div>
+                <div id="violin-theologian-checkboxes" style="padding: 1rem; display: flex; flex-wrap: wrap; gap: 1rem;">
+                    <em>Loading theologians...</em>
+                </div>
+            </div>
+            <div class="card" style="margin-bottom: 2rem;">
+                <div class="card-header">
+                    <span class="card-title">Display Options</span>
+                </div>
+                <div style="padding: 1rem;">
+                    <div class="checkbox-item" style="width: auto;">
+                        <input type="checkbox" id="violin-detailed-toggle" onchange="updateViolinStatistics()">
+                        <label for="violin-detailed-toggle">Show detailed scores (includes all individual criteria)</label>
+                    </div>
+                </div>
+            </div>
+            <div id="violin-statistics-content">
+                <div class="card">
+                    <div class="text-content">
+                        <em>Select theologians above to view violin plot distributions.</em>
                     </div>
                 </div>
             </div>
@@ -1811,6 +1883,370 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         `;
     }
 
+    // --- STATISTICS (II) TAB - VIOLIN PLOTS ---
+    let violinData = null;  // Precomputed violin data from violin_data.json
+
+    async function loadViolinData() {
+        try {
+            const response = await fetch('violin_data.json');
+            if (response.ok) {
+                violinData = await response.json();
+                console.log('Loaded violin plot data:', violinData.theologians);
+                return true;
+            }
+        } catch (e) {
+            console.warn('Failed to load violin plot data:', e);
+        }
+        return false;
+    }
+
+    function populateViolinTheologianCheckboxes() {
+        const container = document.getElementById('violin-theologian-checkboxes');
+        if (!container) return;
+
+        const theologians = Array.from(availableFiles.theologians).sort();
+
+        if (theologians.length === 0) {
+            container.innerHTML = '<em>No theologians found.</em>';
+            return;
+        }
+
+        container.innerHTML = '';
+        theologians.forEach(theologian => {
+            const div = document.createElement('div');
+            div.className = 'checkbox-item';
+
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+            checkbox.id = `violin-stat-${theologian}`;
+            checkbox.value = theologian;
+            checkbox.onchange = updateViolinStatistics;
+            checkbox.checked = true;
+
+            const label = document.createElement('label');
+            label.htmlFor = `violin-stat-${theologian}`;
+            label.textContent = getTheologianDisplayName(theologian);
+
+            div.appendChild(checkbox);
+            div.appendChild(label);
+            container.appendChild(div);
+        });
+
+        // Trigger initial update
+        updateViolinStatistics();
+    }
+
+    async function updateViolinStatistics() {
+        const checkboxes = document.querySelectorAll('#violin-theologian-checkboxes input[type="checkbox"]:checked');
+        const selectedTheologians = Array.from(checkboxes).map(cb => cb.value);
+        const detailedScores = document.getElementById('violin-detailed-toggle')?.checked || false;
+
+        if (selectedTheologians.length === 0) {
+            document.getElementById('violin-statistics-content').innerHTML = `
+                <div class="card">
+                    <div class="text-content">
+                        <em>Select at least one theologian to view violin plot distributions.</em>
+                    </div>
+                </div>`;
+            return;
+        }
+
+        // Use precomputed violin data if available
+        if (violinData) {
+            const sourceData = detailedScores ? violinData.detailed : violinData.summary;
+
+            // Filter to only include selected theologians
+            const filteredData = {};
+            for (const [metricKey, theologianData] of Object.entries(sourceData)) {
+                filteredData[metricKey] = {};
+                for (const theologian of selectedTheologians) {
+                    if (theologianData[theologian]) {
+                        filteredData[metricKey][theologian] = theologianData[theologian];
+                    }
+                }
+                // Remove metric if no theologians have data
+                if (Object.keys(filteredData[metricKey]).length === 0) {
+                    delete filteredData[metricKey];
+                }
+            }
+
+            renderViolinStatistics(filteredData, selectedTheologians);
+            return;
+        }
+
+        // No precomputed data available
+        document.getElementById('violin-statistics-content').innerHTML = `
+            <div class="card">
+                <div class="text-content">
+                    <em>Violin plot data not available. Please run violin_data_precompute.py to generate the data.</em>
+                </div>
+            </div>`;
+    }
+
+    function renderViolinStatistics(scoresByMetric, theologians) {
+        const container = document.getElementById('violin-statistics-content');
+
+        // Sort by analysis type first, then within each type put OVERALL at the end
+        const sortedMetrics = Object.entries(scoresByMetric).sort((a, b) => {
+            const aParts = a[0].split('_');
+            const bParts = b[0].split('_');
+
+            let aAnalysis, bAnalysis;
+            if (aParts[0] === 'schulz' && aParts[1] === 'von' && aParts[2] === 'thun') {
+                aAnalysis = 'schulz_von_thun';
+            } else {
+                aAnalysis = aParts[0];
+            }
+            if (bParts[0] === 'schulz' && bParts[1] === 'von' && bParts[2] === 'thun') {
+                bAnalysis = 'schulz_von_thun';
+            } else {
+                bAnalysis = bParts[0];
+            }
+
+            if (aAnalysis !== bAnalysis) {
+                return aAnalysis.localeCompare(bAnalysis);
+            }
+
+            const aIsOverall = a[0].toLowerCase().includes('overall');
+            const bIsOverall = b[0].toLowerCase().includes('overall');
+
+            if (aIsOverall && !bIsOverall) return 1;
+            if (!aIsOverall && bIsOverall) return -1;
+            return a[0].localeCompare(b[0]);
+        });
+
+        if (sortedMetrics.length === 0) {
+            container.innerHTML = `
+                <div class="card">
+                    <div class="text-content">
+                        <em>No score data found for selected theologians.</em>
+                    </div>
+                </div>`;
+            return;
+        }
+
+        let html = `
+            <div class="card" style="margin-bottom: 1.5rem;">
+                <div class="card-header">
+                    <span class="card-title">Violin Plot Distributions: ${theologians.map(t => getTheologianDisplayName(t)).join(', ')}</span>
+                </div>
+                <div class="text-content">
+                    <p style="font-size: 0.85rem; color: var(--text-muted);">
+                        Violin plots showing the full distribution of scores. The width represents density,
+                        the box shows Q1-Q3 range, and the line indicates the median.
+                        All scores are on a fixed 0-10 scale.
+                    </p>
+                </div>
+            </div>`;
+
+        const analysisLabels = {
+            'aristoteles': 'Aristotelian Modes',
+            'dekker': 'Dekker Analysis',
+            'esthetiek': 'Aesthetic Turn',
+            'kolb': 'Kolb Learning Cycle',
+            'schulz_von_thun': 'Schulz von Thun'
+        };
+
+        let currentAnalysis = null;
+        sortedMetrics.forEach(([metricKey, theologianData]) => {
+            const parts = metricKey.split('_');
+            let analysisType;
+            if (parts[0] === 'schulz' && parts[1] === 'von' && parts[2] === 'thun') {
+                analysisType = 'schulz_von_thun';
+            } else {
+                analysisType = parts[0];
+            }
+
+            if (analysisType !== currentAnalysis) {
+                if (currentAnalysis !== null) {
+                    html += `</div>`;
+                }
+                html += `
+                    <div style="margin-top: 2rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--primary-color);">
+                        <h3 style="margin: 0; font-size: 1.1rem; color: var(--primary-color); font-weight: 700;">${analysisLabels[analysisType] || analysisType.toUpperCase()}</h3>
+                    </div>
+                    <div class="stats-chart-container">`;
+                currentAnalysis = analysisType;
+            }
+
+            html += createViolinChart(metricKey, theologianData, theologians);
+        });
+
+        html += `</div>`;
+        container.innerHTML = html;
+    }
+
+    // Kernel Density Estimation for violin plots
+    function kernelDensityEstimator(kernel, X) {
+        return function(V) {
+            return X.map(x => [x, V.length > 0 ? (1 / V.length) * V.reduce((sum, v) => sum + kernel(x - v), 0) : 0]);
+        };
+    }
+
+    function kernelEpanechnikov(bandwidth) {
+        return function(v) {
+            const u = v / bandwidth;
+            return Math.abs(u) <= 1 ? 0.75 * (1 - u * u) / bandwidth : 0;
+        };
+    }
+
+    function createViolinChart(metricKey, theologianData, selectedTheologians) {
+        const parts = metricKey.split('_');
+        let metric;
+        if (parts[0] === 'schulz' && parts[1] === 'von' && parts[2] === 'thun') {
+            metric = parts.slice(3).join(' ').toUpperCase();
+        } else {
+            metric = parts.slice(1).join(' ').toUpperCase();
+        }
+
+        const title = metric;
+
+        // SVG dimensions
+        const width = 280;
+        const height = 220;
+        const padding = { top: 20, right: 20, bottom: 50, left: 40 };
+        const chartWidth = width - padding.left - padding.right;
+        const chartHeight = height - padding.top - padding.bottom;
+
+        // Scale (0-10 fixed)
+        const scale = chartHeight / 10;
+
+        // Calculate violin positions
+        const numTheologians = selectedTheologians.length;
+        const violinWidth = Math.min(60, chartWidth / (numTheologians * 1.2));
+        const violinGap = violinWidth * 0.2;
+        const totalViolinsWidth = (violinWidth * numTheologians) + (violinGap * (numTheologians - 1));
+        const startX = padding.left + (chartWidth - totalViolinsWidth) / 2;
+
+        const abbreviate = (name) => {
+            if (name.length <= 4) return name.toUpperCase();
+            return name.substring(0, 4).toUpperCase();
+        };
+
+        // Sort theologians by count
+        const sortedTheologians = [...selectedTheologians].sort((a, b) => {
+            const countA = theologianData[a]?.count || 0;
+            const countB = theologianData[b]?.count || 0;
+            return countA - countB;
+        });
+
+        let violinsHTML = '';
+        sortedTheologians.forEach((theologian, index) => {
+            const data = theologianData[theologian];
+            if (!data || !data.values || data.values.length === 0) return;
+
+            const { values, summary, count } = data;
+            const violinCenterX = startX + (index * (violinWidth + violinGap)) + violinWidth / 2;
+
+            // Determine color based on median
+            let colorClass = 'violin-score-mid';
+            if (summary.median >= 7.5) {
+                colorClass = 'violin-score-high';
+            } else if (summary.median < 5.5) {
+                colorClass = 'violin-score-low';
+            }
+
+            // Compute KDE
+            const bandwidth = 0.8;
+            const kde = kernelDensityEstimator(kernelEpanechnikov(bandwidth),
+                Array.from({length: 41}, (_, i) => i * 0.25)); // 0 to 10 in 0.25 steps
+            const density = kde(values);
+
+            // Find max density for scaling
+            const maxDensity = Math.max(...density.map(d => d[1]));
+            const densityScale = maxDensity > 0 ? (violinWidth / 2 - 2) / maxDensity : 0;
+
+            // Build violin path
+            let pathData = '';
+            if (maxDensity > 0) {
+                // Right side (going down)
+                density.forEach((d, i) => {
+                    const y = padding.top + chartHeight - (d[0] * scale);
+                    const x = violinCenterX + d[1] * densityScale;
+                    if (i === 0) {
+                        pathData += `M ${x} ${y}`;
+                    } else {
+                        pathData += ` L ${x} ${y}`;
+                    }
+                });
+
+                // Left side (going back up)
+                for (let i = density.length - 1; i >= 0; i--) {
+                    const d = density[i];
+                    const y = padding.top + chartHeight - (d[0] * scale);
+                    const x = violinCenterX - d[1] * densityScale;
+                    pathData += ` L ${x} ${y}`;
+                }
+                pathData += ' Z';
+            }
+
+            // Quartile box positions
+            const q1Y = padding.top + chartHeight - (summary.q1 * scale);
+            const q3Y = padding.top + chartHeight - (summary.q3 * scale);
+            const medianY = padding.top + chartHeight - (summary.median * scale);
+            const minY = padding.top + chartHeight - (summary.min * scale);
+            const maxY = padding.top + chartHeight - (summary.max * scale);
+            const boxWidth = 8;
+
+            violinsHTML += `
+                <!-- Violin for ${theologian} -->
+                ${pathData ? `<path class="violin-path ${colorClass}" d="${pathData}" />` : ''}
+
+                <!-- Quartile box -->
+                <rect class="violin-quartile-box"
+                      x="${violinCenterX - boxWidth/2}" y="${q3Y}"
+                      width="${boxWidth}" height="${q1Y - q3Y}" />
+
+                <!-- Median line -->
+                <line class="violin-median-line"
+                      x1="${violinCenterX - boxWidth/2 - 2}" y1="${medianY}"
+                      x2="${violinCenterX + boxWidth/2 + 2}" y2="${medianY}" />
+
+                <!-- Median value label -->
+                <text class="chart-value-label"
+                      x="${violinCenterX}" y="${maxY - 16}"
+                      text-anchor="middle">${summary.median.toFixed(1)}</text>
+
+                <!-- Theologian label -->
+                <text class="chart-axis-label"
+                      x="${violinCenterX}" y="${height - 30}"
+                      text-anchor="middle" font-weight="600">${abbreviate(theologian)}</text>
+
+                <!-- Count label -->
+                <text class="chart-axis-label"
+                      x="${violinCenterX}" y="${height - 18}"
+                      text-anchor="middle" font-size="9px">n=${count}</text>
+            `;
+        });
+
+        return `
+            <div class="chart-card">
+                <div class="chart-title">${title}</div>
+                <svg class="chart-svg" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
+                    <!-- Y-axis -->
+                    <line class="chart-axis-line"
+                          x1="${padding.left}" y1="${padding.top}"
+                          x2="${padding.left}" y2="${padding.top + chartHeight}" />
+
+                    <!-- Y-axis labels -->
+                    ${[0, 2, 4, 6, 8, 10].map(val => {
+                        const y = padding.top + chartHeight - (val * scale);
+                        return `
+                            <line class="chart-axis-line"
+                                  x1="${padding.left - 5}" y1="${y}"
+                                  x2="${padding.left}" y2="${y}" />
+                            <text class="chart-axis-label"
+                                  x="${padding.left - 10}" y="${y + 3}"
+                                  text-anchor="end">${val}</text>
+                        `;
+                    }).join('')}
+
+                    ${violinsHTML}
+                </svg>
+            </div>
+        `;
+    }
+
     // --- TABS & EVENTS ---
     function switchTab(id) {
         document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
@@ -1825,10 +2261,14 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         // Load precomputed statistics (for fast Statistics tab)
         await loadPrecomputedStatistics();
 
+        // Load precomputed violin data (for Statistics II tab)
+        await loadViolinData();
+
         // Discover available JSON files
         await discoverJSONFiles();
         populateTheologianMenu();
         populateTheologianCheckboxes();
+        populateViolinTheologianCheckboxes();
 
         // Set up event handlers for menu changes
         const theologianSelect = document.getElementById('theologian-select');
