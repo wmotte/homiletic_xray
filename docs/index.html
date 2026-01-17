@@ -591,6 +591,8 @@
                 <div class="text-content" style="font-size: 0.85rem; line-height: 1.8;">
                     <p style="margin-bottom: 1rem; color: var(--text-muted); font-style: italic;">The sermons analyzed in this project are drawn from the following sources:</p>
 
+                    <p><strong>Anonymous (Hervormd).</strong> Sermons from Reformed congregations (<em>Hervormde Gemeenten</em>) in the Netherlands, delivered during morning services on January 11, 2026. These congregations are formally part of the Protestant Church in the Netherlands (PKN), but retain their traditional name and generally represent the more conservative wing of the denomination. The recordings were collected via <a href="https://www.kerkomroep.nl" target="_blank" style="color: var(--primary-color);">Kerkomroep</a> from multiple provinces across the Netherlands. A single date was chosen to ensure no overlap between preachers. Place names and church names have been anonymized. All sermons have been carefully reviewed for correct punctuation and speech errors, ensuring a fair comparison with printed sources.</p>
+
                     <p><strong>Augustine of Hippo.</strong> <a href="https://aquinas-in-english.neocities.org/augustinus" target="_blank" style="color: var(--primary-color);"><em>Selected Sermons of Saint Augustine</em></a>. Trans. various contributors. Aquinas in English, n.d.</p>
 
                     <p><strong>Brueggemann, Walter.</strong> <a href="https://www.wjkbooks.com/Products/0664234453/the-collected-sermons-of-walter-brueggemann-volume-1.aspx" target="_blank" style="color: var(--primary-color);"><em>The Collected Sermons of Walter Brueggemann, Volume 1</em></a>. Louisville, KY: Westminster John Knox Press, 2011.</p>
@@ -1886,6 +1888,10 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             return countA - countB;
         });
 
+        // Find hervormd reference value (if present)
+        const hervormdStats = theologianStats['hervormd'];
+        const hervormdMean = hervormdStats ? hervormdStats.mean : null;
+
         // Generate bars for each theologian
         let barsHTML = '';
         sortedTheologians.forEach((theologian, index) => {
@@ -1969,6 +1975,13 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
                                   text-anchor="end">${val}</text>
                         `;
                     }).join('')}
+
+                    <!-- Hervormd reference line -->
+                    ${hervormdMean !== null ? `
+                        <line stroke="#888" stroke-width="1.5" stroke-dasharray="6,4"
+                              x1="${padding.left}" y1="${padding.top + chartHeight - (hervormdMean * scale)}"
+                              x2="${width - padding.right}" y2="${padding.top + chartHeight - (hervormdMean * scale)}" />
+                    ` : ''}
 
                     ${barsHTML}
                 </svg>
@@ -2223,6 +2236,10 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             return countA - countB;
         });
 
+        // Find hervormd reference value (if present)
+        const hervormdData = theologianData['hervormd'];
+        const hervormdMedian = hervormdData?.summary?.median ?? null;
+
         let violinsHTML = '';
         sortedTheologians.forEach((theologian, index) => {
             const data = theologianData[theologian];
@@ -2334,6 +2351,13 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
                                   text-anchor="end">${val}</text>
                         `;
                     }).join('')}
+
+                    <!-- Hervormd reference line -->
+                    ${hervormdMedian !== null ? `
+                        <line stroke="#888" stroke-width="1.5" stroke-dasharray="6,4"
+                              x1="${padding.left}" y1="${padding.top + chartHeight - (hervormdMedian * scale)}"
+                              x2="${width - padding.right}" y2="${padding.top + chartHeight - (hervormdMedian * scale)}" />
+                    ` : ''}
 
                     ${violinsHTML}
                 </svg>
