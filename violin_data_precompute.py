@@ -24,10 +24,11 @@ OUTPUT_FILE = DOCS_DIR / "violin_data.json"
 def parse_filename(filename: str) -> tuple[str, str, str] | None:
     """
     Parse a filename like 'augustine_01_aristoteles.json' into components.
+    Also handles 'hervormd_11jan2026_01_aristoteles.json' format.
     Returns (theologian, sermon, analysis_type) or None if invalid.
     """
-    
-    if not filename.endswith('.json') or filename.endswith('.raw') or filename.startswith( 'file_index' ) or filename.startswith( 'statistics' ):
+
+    if not filename.endswith('.json') or filename.endswith('.raw') or filename.startswith( 'file_index' ) or filename.startswith( 'statistics' ) or filename.startswith( 'violin_data' ):
         return None
 
     base = filename.replace('.json', '')
@@ -37,9 +38,30 @@ def parse_filename(filename: str) -> tuple[str, str, str] | None:
         return None
 
     theologian = parts[0]
-    sermon = parts[1]
-    # Handle analysis types like 'schulz_von_thun' (multi-part)
-    analysis = '_'.join(parts[2:])
+
+    # Known analysis types (including multi-part ones)
+    KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek']
+
+    # Find where the analysis type starts by looking for known analysis types
+    analysis_start_idx = None
+    for i in range(1, len(parts)):
+        for analysis_type in KNOWN_ANALYSIS_TYPES:
+            analysis_parts = analysis_type.split('_')
+            candidate = '_'.join(parts[i:i + len(analysis_parts)])
+            if candidate == analysis_type:
+                analysis_start_idx = i
+                break
+        if analysis_start_idx is not None:
+            break
+
+    if analysis_start_idx is None or analysis_start_idx < 2:
+        # Fallback to old behavior if no known analysis type found
+        sermon = parts[1]
+        analysis = '_'.join(parts[2:])
+    else:
+        # Sermon is everything between theologian and analysis type
+        sermon = '_'.join(parts[1:analysis_start_idx])
+        analysis = '_'.join(parts[analysis_start_idx:])
 
     return theologian, sermon, analysis
 

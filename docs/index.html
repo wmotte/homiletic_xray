@@ -202,6 +202,11 @@
         .score-mid { background-color: var(--warning-color); }
         .score-low { background-color: var(--danger-color); }
 
+        /* Grayscale variants for hervormd */
+        .score-high-gray { background-color: #4a4a4a; }
+        .score-mid-gray { background-color: #7a7a7a; }
+        .score-low-gray { background-color: #a8a8a8; }
+
         .text-content { line-height: 1.6; font-size: 0.9rem; }
         .text-content p { margin: 0.75rem 0; }
         
@@ -372,6 +377,19 @@
             fill: var(--danger-color);
         }
 
+        /* Grayscale bar variants for hervormd */
+        .bar-score-high-gray {
+            fill: #4a4a4a;
+        }
+
+        .bar-score-mid-gray {
+            fill: #7a7a7a;
+        }
+
+        .bar-score-low-gray {
+            fill: #a8a8a8;
+        }
+
         .chart-axis-line {
             stroke: var(--border-color);
             stroke-width: 1;
@@ -406,6 +424,19 @@
 
         .violin-score-low {
             fill: var(--danger-color);
+        }
+
+        /* Grayscale violin variants for hervormd */
+        .violin-score-high-gray {
+            fill: #4a4a4a;
+        }
+
+        .violin-score-mid-gray {
+            fill: #7a7a7a;
+        }
+
+        .violin-score-low-gray {
+            fill: #a8a8a8;
         }
 
         .violin-median-line {
@@ -690,6 +721,17 @@
         return t;
     }
 
+    // Helper function to get score class
+    function getScoreClass(score) {
+        if (score >= 8) {
+            return 'score-high';
+        } else if (score >= 6) {
+            return 'score-mid';
+        } else {
+            return 'score-low';
+        }
+    }
+
     // --- THEME ---
     function toggleTheme() {
         const html = document.documentElement;
@@ -918,8 +960,34 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         const parts = filename.replace('.json', '').split('_');
         if (parts.length >= 3) {
             const theologian = parts[0];
-            const sermon = parts[1];
-            const analysis = parts.slice(2).join('_');
+
+            // Known analysis types (including multi-part ones)
+            const KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek'];
+
+            // Find where the analysis type starts by looking for known analysis types
+            let analysisStartIdx = null;
+            for (let i = 1; i < parts.length; i++) {
+                for (const analysisType of KNOWN_ANALYSIS_TYPES) {
+                    const analysisParts = analysisType.split('_');
+                    const candidate = parts.slice(i, i + analysisParts.length).join('_');
+                    if (candidate === analysisType) {
+                        analysisStartIdx = i;
+                        break;
+                    }
+                }
+                if (analysisStartIdx !== null) break;
+            }
+
+            let sermon, analysis;
+            if (analysisStartIdx === null || analysisStartIdx < 2) {
+                // Fallback to old behavior if no known analysis type found
+                sermon = parts[1];
+                analysis = parts.slice(2).join('_');
+            } else {
+                // Sermon is everything between theologian and analysis type
+                sermon = parts.slice(1, analysisStartIdx).join('_');
+                analysis = parts.slice(analysisStartIdx).join('_');
+            }
 
             availableFiles.theologians.add(theologian);
 
@@ -949,18 +1017,39 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         });
     }
 
+    // Format sermon display name (e.g., "11jan2026_44" -> "11 Jan 2026 (44)")
+    function formatSermonDisplayName(sermon) {
+        // Check for pattern like "11jan2026_44"
+        const match = sermon.match(/^(\d{1,2})([a-z]{3})(\d{4})_(\d+)$/i);
+        if (match) {
+            const day = match[1];
+            const monthAbbr = match[2].charAt(0).toUpperCase() + match[2].slice(1).toLowerCase();
+            const year = match[3];
+            const num = parseInt(match[4], 10);
+            return `${day} ${monthAbbr} ${year} (${num})`;
+        }
+        // Default format for regular sermons
+        return `Sermon ${sermon}`;
+    }
+
     function populateSermonMenu(theologian) {
         const select = document.getElementById('sermon-select');
         select.innerHTML = '<option value="">Select Sermon...</option>';
 
         if (theologian && availableFiles.sermons[theologian]) {
-            // Sort numerically instead of lexicographically
+            // Sort by extracting the last numeric part (handles both "01" and "11jan2026_01")
             Array.from(availableFiles.sermons[theologian]).sort((a, b) => {
-                return parseInt(a, 10) - parseInt(b, 10);
+                // Extract the last numeric sequence from each string
+                const numA = a.match(/(\d+)$/);
+                const numB = b.match(/(\d+)$/);
+                if (numA && numB) {
+                    return parseInt(numA[1], 10) - parseInt(numB[1], 10);
+                }
+                return a.localeCompare(b);
             }).forEach(sermon => {
                 const option = document.createElement('option');
                 option.value = sermon;
-                option.textContent = `Sermon ${sermon}`;
+                option.textContent = formatSermonDisplayName(sermon);
                 select.appendChild(option);
             });
         }
@@ -1103,7 +1192,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
 
         for (const [key, value] of Object.entries(criteria)) {
             const score = value.score_1_to_10 || 0;
-            const cls = score >= 8 ? 'score-high' : score >= 6 ? 'score-mid' : 'score-low';
+            const cls = getScoreClass(score);
             const title = key.split('_').slice(1).join(' ').replace(/\b\w/g, c => c.toUpperCase());
             
             html += `<div class="card">
@@ -1123,7 +1212,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         const integ = data.integrality_and_cycle || {};
 
         let html = `<div class="card full-width">
-            <div class="card-header"><span class="card-title">Overall Picture – Kolb Cycle</span><span class="score-badge score-high">${pic.overall_kolb_score || 0}/10</span></div>
+            <div class="card-header"><span class="card-title">Overall Picture – Kolb Cycle</span><span class="score-badge ${getScoreClass(pic.overall_kolb_score || 0)}">${pic.overall_kolb_score || 0}/10</span></div>
             <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-bottom: 1rem;">
                 <div class="stat-item"><span class="stat-val">${formatText(pic.primary_homiletical_style)}</span><span class="stat-lbl">Primary Style</span></div>
             </div>
@@ -1148,7 +1237,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         };
 
         for (const [k, v] of Object.entries(phases)) {
-            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            const cls = getScoreClass(v.score);
             html += `<div class="card">
                 <div class="card-header"><span class="card-title">${phaseTitles[k] || k}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
                 <div class="text-content">
@@ -1167,7 +1256,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
                     const title = k.replace(/_/g, ' ').toUpperCase();
                     return `<div style="background:var(--bg-element); padding:1rem; border-radius:8px;">
                         <div style="display:flex; justify-content:space-between; margin-bottom:0.5rem;">
-                            <strong>${title}</strong><span class="score-badge ${v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low'}">${v.score}/10</span>
+                            <strong>${title}</strong><span class="score-badge ${getScoreClass(v.score)}">${v.score}/10</span>
                         </div>
                         <p style="font-size:0.85rem;">${formatText(v.analysis)}</p>
                     </div>`;
@@ -1197,7 +1286,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         const ortho = data.orthodoxy_orthopathy_orthopraxy || {};
 
         let html = `<div class="card full-width">
-            <div class="card-header"><span class="card-title">Overall Picture – Aristotelian Modes</span><span class="score-badge score-high">${pic.overall_rhetorical_score || 0}/10</span></div>
+            <div class="card-header"><span class="card-title">Overall Picture – Aristotelian Modes</span><span class="score-badge ${getScoreClass(pic.overall_rhetorical_score || 0)}">${pic.overall_rhetorical_score || 0}/10</span></div>
             <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-bottom: 1rem;">
                 <div class="stat-item"><span class="stat-val">${formatText(pic.primary_rhetorical_style)}</span><span class="stat-lbl">Primary Rhetorical Style</span></div>
             </div>
@@ -1219,7 +1308,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
 
         const icons = { logos: '🧠', pathos: '❤️', ethos: '🤝' };
         for (const [k, v] of Object.entries(modes)) {
-            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            const cls = getScoreClass(v.score);
             html += `<div class="card">
                 <div class="card-header"><span class="card-title">${icons[k] || ''} ${k.toUpperCase()}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
                 <div class="text-content">
@@ -1233,7 +1322,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         if (bal.dominant_mode) {
             html += `<div class="section-info">💡 <strong>Rhetorical Balance:</strong> Relationship between logic, emotion, and credibility.</div>
             <div class="card full-width">
-                <div class="card-header"><span class="card-title">Rhetorical Balance Analysis</span><span class="score-badge score-mid">${bal.balance_score}/10</span></div>
+                <div class="card-header"><span class="card-title">Rhetorical Balance Analysis</span><span class="score-badge ${getScoreClass(bal.balance_score)}">${bal.balance_score}/10</span></div>
                 <div style="display:flex; gap:1rem; margin-bottom:1rem;">
                     <div class="stat-item" style="flex:1;"><span class="stat-val">${bal.dominant_mode}</span><span class="stat-lbl">Dominant</span></div>
                     <div class="stat-item" style="flex:1;"><span class="stat-val">${bal.suppressed_mode}</span><span class="stat-lbl">Suppressed</span></div>
@@ -1267,7 +1356,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         const recept = data.reception_simulation || {};
 
         let html = `<div class="card full-width">
-            <div class="card-header"><span class="card-title">Overall Picture – Schulz von Thun</span><span class="score-badge score-high">${pic.overall_communication_score || 0}/10</span></div>
+            <div class="card-header"><span class="card-title">Overall Picture – Schulz von Thun</span><span class="score-badge ${getScoreClass(pic.overall_communication_score || 0)}">${pic.overall_communication_score || 0}/10</span></div>
             <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-bottom: 1rem;">
                 <div class="stat-item"><span class="stat-val">${formatText(cong.dominant_side || 'Mixed')}</span><span class="stat-lbl">Dominant Side</span></div>
             </div>
@@ -1285,7 +1374,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         };
 
         for (const [k, v] of Object.entries(analysis)) {
-            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            const cls = getScoreClass(v.score);
             html += `<div class="card">
                 <div class="card-header"><span class="card-title">${labels[k] || k}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
                 <div class="text-content">
@@ -1336,7 +1425,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         const grace = data.space_for_grace_analysis || {};
 
         let html = `<div class="card full-width">
-            <div class="card-header"><span class="card-title">Overall Picture – Esthetic Analysis</span><span class="score-badge score-high">${pic.overall_aesthetic_score || 0}/10</span></div>
+            <div class="card-header"><span class="card-title">Overall Picture – Esthetic Analysis</span><span class="score-badge ${getScoreClass(pic.overall_aesthetic_score || 0)}">${pic.overall_aesthetic_score || 0}/10</span></div>
             <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-bottom: 1rem;">
                 <div class="stat-item"><span class="stat-val">${formatText(pic.primary_aesthetic_style)}</span><span class="stat-lbl">Primary Aesthetic Style</span></div>
             </div>
@@ -1355,7 +1444,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         html += `<div class="section-info">💡 <strong>Domain A: Poetics of Language (Micro-Esthetics):</strong> Vocabulary, imagery, and rhythm.</div>`;
         for (const [k, v] of Object.entries(domA)) {
             if (typeof v !== 'object') continue;
-            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            const cls = getScoreClass(v.score);
             html += `<div class="card">
                 <div class="card-header"><span class="card-title">${k.replace(/criterion_a\d+_/g, '').replace(/_/g, ' ').toUpperCase()}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
                 <div class="text-content">${formatText(v.analysis)}</div>
@@ -1366,7 +1455,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         html += `<div class="section-info">💡 <strong>Domain B: Dramaturgy of Structure (Macro-Esthetics):</strong> Narrative arc and integration.</div>`;
         for (const [k, v] of Object.entries(domB)) {
             if (typeof v !== 'object') continue;
-            const cls = v.score >= 8 ? 'score-high' : v.score >= 6 ? 'score-mid' : 'score-low';
+            const cls = getScoreClass(v.score);
             html += `<div class="card">
                 <div class="card-header"><span class="card-title">${k.replace(/criterion_b\d+_/g, '').replace(/_/g, ' ').toUpperCase()}</span><span class="score-badge ${cls}">${v.score}/10</span></div>
                 <div class="text-content">${formatText(v.analysis)}</div>
@@ -1374,8 +1463,8 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             </div>`;
         }
 
-        html += `<div class="card"><div class="card-header"><span class="card-title">Anti-Kitsch Diagnosis</span><span class="score-badge score-mid">${kitsch.anti_kitsch_score}/10</span></div><div class="text-content">${formatText(kitsch.analysis)}</div></div>`;
-        html += `<div class="card"><div class="card-header"><span class="card-title">Space for Grace</span><span class="score-badge score-mid">${grace.space_score}/10</span></div><div class="text-content">${formatText(grace.analysis)}</div></div>`;
+        html += `<div class="card"><div class="card-header"><span class="card-title">Anti-Kitsch Diagnosis</span><span class="score-badge ${getScoreClass(kitsch.anti_kitsch_score)}">${kitsch.anti_kitsch_score}/10</span></div><div class="text-content">${formatText(kitsch.analysis)}</div></div>`;
+        html += `<div class="card"><div class="card-header"><span class="card-title">Space for Grace</span><span class="score-badge ${getScoreClass(grace.space_score)}">${grace.space_score}/10</span></div><div class="text-content">${formatText(grace.analysis)}</div></div>`;
 
         container.innerHTML = html;
     }
@@ -1428,6 +1517,9 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             div.appendChild(label);
             container.appendChild(div);
         });
+
+        // Trigger initial update
+        updateStatistics();
     }
 
     async function loadAllDataForTheologian(theologian) {
@@ -1805,12 +1897,13 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             const meanHeight = mean * scale;
             const meanY = padding.top + chartHeight - meanHeight;
 
-            // Determine color class based on score
-            let colorClass = 'bar-score-mid';
+            // Determine color class based on score (grayscale for hervormd theologians)
+            const isGrayscale = theologian && theologian.startsWith('hervormd');
+            let colorClass = isGrayscale ? 'bar-score-mid-gray' : 'bar-score-mid';
             if (mean >= 7.5) {
-                colorClass = 'bar-score-high';
+                colorClass = isGrayscale ? 'bar-score-high-gray' : 'bar-score-high';
             } else if (mean < 5.5) {
-                colorClass = 'bar-score-low';
+                colorClass = isGrayscale ? 'bar-score-low-gray' : 'bar-score-low';
             }
 
             // Error bar positions
@@ -1851,7 +1944,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
                 <!-- Count label -->
                 <text class="chart-axis-label"
                       x="${barCenterX}" y="${height - 18}"
-                      text-anchor="middle" font-size="9px">n=${count}</text>
+                      text-anchor="middle" style="font-size: 7px">n=${count}</text>
             `;
         });
 
@@ -2138,12 +2231,13 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             const { values, summary, count } = data;
             const violinCenterX = startX + (index * (violinWidth + violinGap)) + violinWidth / 2;
 
-            // Determine color based on median
-            let colorClass = 'violin-score-mid';
+            // Determine color based on median (grayscale for hervormd theologians)
+            const isGrayscale = theologian && theologian.startsWith('hervormd');
+            let colorClass = isGrayscale ? 'violin-score-mid-gray' : 'violin-score-mid';
             if (summary.median >= 7.5) {
-                colorClass = 'violin-score-high';
+                colorClass = isGrayscale ? 'violin-score-high-gray' : 'violin-score-high';
             } else if (summary.median < 5.5) {
-                colorClass = 'violin-score-low';
+                colorClass = isGrayscale ? 'violin-score-low-gray' : 'violin-score-low';
             }
 
             // Compute KDE
@@ -2215,7 +2309,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
                 <!-- Count label -->
                 <text class="chart-axis-label"
                       x="${violinCenterX}" y="${height - 18}"
-                      text-anchor="middle" font-size="9px">n=${count}</text>
+                      text-anchor="middle" style="font-size: 7px">n=${count}</text>
             `;
         });
 
@@ -2294,6 +2388,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             if (analysis) {
                 updateInfoBlock(analysis);
                 loadAnalysis();
+                switchTab('analysis');
             }
         };
 
