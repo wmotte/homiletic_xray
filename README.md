@@ -106,6 +106,56 @@ All frameworks use **strict academic grading** (1-10 scale):
 
 ---
 
+## Data Sources
+
+The sermons analyzed in this project are drawn from the following sources:
+
+**Anonymous (Hervormd).** Sermons from Reformed congregations (*Hervormde Gemeenten*) in the Netherlands, delivered during morning services on January 11, 2026. These congregations are formally part of the Protestant Church in the Netherlands (PKN), but retain their traditional name and generally represent the more conservative wing of the denomination. The recordings were collected via [Kerkomroep](https://www.kerkomroep.nl) from multiple provinces across the Netherlands. A single date was chosen to ensure no overlap between preachers. Place names and church names have been anonymized. All sermons have been carefully reviewed for correct punctuation and speech errors, ensuring a fair comparison with printed sources.
+
+**Augustine of Hippo.** [*Selected Sermons of Saint Augustine*](https://aquinas-in-english.neocities.org/augustinus). Trans. various contributors. Aquinas in English, n.d.
+
+**Brueggemann, Walter.** [*The Collected Sermons of Walter Brueggemann, Volume 1*](https://www.wjkbooks.com/Products/0664234453/the-collected-sermons-of-walter-brueggemann-volume-1.aspx). Louisville, KY: Westminster John Knox Press, 2011.
+
+**Brueggemann, Walter.** [*The Collected Sermons of Walter Brueggemann, Volume 2*](https://www.wjkbooks.com/bookproduct/0664260411-the-collected-sermons-of-walter-brueggemann-volume-2/). Louisville, KY: Westminster John Knox Press, 2015.
+
+**Brueggemann, Walter.** [*The Collected Sermons of Walter Brueggemann, Volume 3*](https://www.wjkbooks.com/bookproduct/0664265812-the-collected-sermons-of-walter-brueggemann-volume-3/). Louisville, KY: Westminster John Knox Press, 2020.
+
+**Keller, Timothy.** [*Timothy Keller Sermon Archive, 1989–2017*](https://verbum.com/product/207157/timothy-keller-sermon-archive-1989-2017). Bellingham, WA: Redeemer Presbyterian Church / Verbum (Logos Bible Software), 2013–2019.
+
+**Rutledge, Fleming.** [*Advent: The Once and Future Coming of Jesus Christ*](https://www.amazon.nl/Advent-Future-Coming-Jesus-Christ/dp/0802876196). Grand Rapids, MI: Wm. B. Eerdmans, 2018.
+
+**Rutledge, Fleming.** [*And God Spoke to Abraham: Preaching from the Old Testament*](https://www.amazon.nl/-/en/Fleming-Rutledge/dp/0802866069). Grand Rapids, MI: Wm. B. Eerdmans, 2011.
+
+**Rutledge, Fleming.** [*Epiphany: The Season of Glory*](https://www.amazon.com/Epiphany-Season-Fullness-Journey-Through/dp/1514000385). The Fullness of Time. Downers Grove, IL: InterVarsity Press, 2023.
+
+**Rutledge, Fleming.** [*Help My Unbelief*](https://www.eerdmans.com/9780802877901/help-my-unbelief-20th-anniversary-edition/). 20th Anniversary Edition. Grand Rapids, MI: Wm. B. Eerdmans, 2020.
+
+**Rutledge, Fleming.** [*Means of Grace: A Year of Weekly Devotions*](https://www.eerdmans.com/9780802878700/means-of-grace/). Ed. Laura Bardolph Hubers. Grand Rapids, MI: Wm. B. Eerdmans, 2021.
+
+**Rutledge, Fleming.** [*Not Ashamed of the Gospel: Sermons from Paul's Letter to the Romans*](https://www.eerdmans.com/9781467424332/not-ashamed-of-the-gospel/). Grand Rapids, MI: Wm. B. Eerdmans, 2007.
+
+**Rutledge, Fleming.** [*The Bible and The New York Times*](https://www.eerdmans.com/9780802847010/the-bible-and-the-new-york-times/). Grand Rapids, MI: Wm. B. Eerdmans, 1998.
+
+**Rutledge, Fleming.** [*The Seven Last Words From the Cross*](https://www.eerdmans.com/9780802827869/the-seven-last-words-from-the-cross/). Grand Rapids, MI: Wm. B. Eerdmans, 2005.
+
+**Rutledge, Fleming.** [*The Undoing of Death*](https://www.eerdmans.com/9780802830210/the-undoing-of-death/). Grand Rapids, MI: Wm. B. Eerdmans, 2002.
+
+**Rutledge, Fleming.** [*Three Hours: Sermons for Good Friday*](https://www.eerdmans.com/9780802883223/three-hours/). Grand Rapids, MI: Wm. B. Eerdmans, 2019.
+
+**Sölle, Dorothee.** [*Löse die Fesseln des Unrechts*](https://www.herder.de/theologie-pastoral/shop/p2/82621-gesammelte-werke-band-11-loese-die-fesseln-des-unrechts-ebook-pdf/). Gesammelte Werke, Band 11. Eds. Ursula Baltz-Otto and Fulbert Steffensky. Munich: Verlag Herder, 2023.
+
+**Taylor, Gardner C.** [*The Words of Gardner Taylor: NBC Radio Sermons, 1959–1970*](https://www.judsonpress.com/Products/0406/the-words-of-gardner-taylor-vol-1.aspx). Vol. 1. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 1999.
+
+**Taylor, Gardner C.** [*The Words of Gardner Taylor: Sermons from Concord, 1970–1980*](https://www.judsonpress.com/Products/3810/the-words-of-gardner-taylor-vol-2.aspx). Vol. 2. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 2000.
+
+**Taylor, Gardner C.** [*The Words of Gardner Taylor: Quintessential Classics, 1980–Present*](https://www.amazon.com/dp/0817013474). Vol. 3. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 2000.
+
+**Taylor, Gardner C.** [*The Words of Gardner Taylor: Special Occasion and Expository Sermons*](https://www.judsonpress.com/Products/0425/the-words-of-gardner-taylor-vol-4.aspx). Vol. 4. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 2001.
+
+**Taylor, Gardner C.** [*The Words of Gardner Taylor: 50 Years of Timeless Treasures*](https://www.judsonpress.com/Products/0470/the-words-of-gardner-taylor-vol-6.aspx). Vol. 6. Comp. Edward L. Taylor. Valley Forge, PA: Judson Press, 2002.
+
+---
+
 ## Acknowledgments
 
 Theoretical frameworks based on:
