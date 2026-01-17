@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-01-15T07:34:36.474030",
+  "generated_at": "2026-01-17T09:41:42.796687",
   "theologians": [
     "augustine",
     "brueggemann",
+    "hervormd",
     "keller",
     "rutledge",
     "solle",
@@ -11,6 +12,7 @@
   "sermon_counts": {
     "augustine": 22,
     "brueggemann": 181,
+    "hervormd": 47,
     "keller": 46,
     "rutledge": 366,
     "solle": 28,
@@ -27,6 +29,11 @@
         "mean": 6.86,
         "stdDev": 0.54,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.51,
+        "stdDev": 0.54,
+        "count": 47
       },
       "keller": {
         "mean": 7.78,
@@ -60,6 +67,11 @@
         "stdDev": 0.87,
         "count": 181
       },
+      "hervormd": {
+        "mean": 6.02,
+        "stdDev": 0.93,
+        "count": 47
+      },
       "keller": {
         "mean": 6.09,
         "stdDev": 0.41,
@@ -91,6 +103,11 @@
         "mean": 6.28,
         "stdDev": 0.89,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.4,
+        "stdDev": 0.57,
+        "count": 47
       },
       "keller": {
         "mean": 6.8,
@@ -124,6 +141,11 @@
         "stdDev": 0.43,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.99,
+        "stdDev": 0.38,
+        "count": 47
+      },
       "keller": {
         "mean": 6.92,
         "stdDev": 0.3,
@@ -145,7 +167,7 @@
         "count": 167
       }
     },
-    "dekker_#1 specific bible passage": {
+    "dekker_#1 Bible Passage": {
       "augustine": {
         "mean": 3.5,
         "stdDev": 1.27,
@@ -155,6 +177,11 @@
         "mean": 4.63,
         "stdDev": 1.05,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.09,
+        "stdDev": 0.74,
+        "count": 47
       },
       "keller": {
         "mean": 5.65,
@@ -177,7 +204,7 @@
         "count": 172
       }
     },
-    "dekker_#2 exegesis original context": {
+    "dekker_#2 Exegesis": {
       "augustine": {
         "mean": 3.0,
         "stdDev": 1.09,
@@ -187,6 +214,11 @@
         "mean": 4.64,
         "stdDev": 1.01,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.0,
+        "stdDev": 1.03,
+        "count": 47
       },
       "keller": {
         "mean": 5.35,
@@ -209,7 +241,7 @@
         "count": 172
       }
     },
-    "dekker_#3 application concrete contemporary": {
+    "dekker_#3 Application": {
       "augustine": {
         "mean": 3.91,
         "stdDev": 1.08,
@@ -219,6 +251,11 @@
         "mean": 5.72,
         "stdDev": 1.05,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 4.64,
+        "stdDev": 1.04,
+        "count": 47
       },
       "keller": {
         "mean": 6.41,
@@ -241,7 +278,7 @@
         "count": 172
       }
     },
-    "dekker_#4 interwoveness exposition application": {
+    "dekker_#4 Interwoveness": {
       "augustine": {
         "mean": 4.91,
         "stdDev": 1.24,
@@ -251,6 +288,11 @@
         "mean": 5.43,
         "stdDev": 1.06,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.4,
+        "stdDev": 0.84,
+        "count": 47
       },
       "keller": {
         "mean": 5.46,
@@ -273,7 +315,7 @@
         "count": 172
       }
     },
-    "dekker_#5 three parts misery redemption gratitude": {
+    "dekker_#5 Three Parts": {
       "augustine": {
         "mean": 5.82,
         "stdDev": 1.23,
@@ -283,6 +325,11 @@
         "mean": 5.41,
         "stdDev": 0.86,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.96,
+        "stdDev": 0.77,
+        "count": 47
       },
       "keller": {
         "mean": 7.13,
@@ -305,7 +352,7 @@
         "count": 172
       }
     },
-    "dekker_#6 two ways seriousness of choice": {
+    "dekker_#6 Two Ways": {
       "augustine": {
         "mean": 6.14,
         "stdDev": 1.58,
@@ -315,6 +362,11 @@
         "mean": 4.75,
         "stdDev": 1.59,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 4.45,
+        "stdDev": 1.53,
+        "count": 47
       },
       "keller": {
         "mean": 5.41,
@@ -337,7 +389,7 @@
         "count": 172
       }
     },
-    "dekker_#7 christocentric grace": {
+    "dekker_#7 One Lord": {
       "augustine": {
         "mean": 5.36,
         "stdDev": 1.67,
@@ -347,6 +399,11 @@
         "mean": 4.94,
         "stdDev": 1.16,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.49,
+        "stdDev": 0.68,
+        "count": 47
       },
       "keller": {
         "mean": 7.52,
@@ -369,7 +426,7 @@
         "count": 172
       }
     },
-    "dekker_#8 depth and length": {
+    "dekker_#8 Depth & Length": {
       "augustine": {
         "mean": 3.27,
         "stdDev": 1.93,
@@ -379,6 +436,11 @@
         "mean": 3.4,
         "stdDev": 0.9,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.04,
+        "stdDev": 1.75,
+        "count": 47
       },
       "keller": {
         "mean": 7.96,
@@ -412,6 +474,11 @@
         "stdDev": 0.41,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.31,
+        "stdDev": 0.54,
+        "count": 47
+      },
       "keller": {
         "mean": 6.64,
         "stdDev": 0.32,
@@ -443,6 +510,11 @@
         "mean": 6.96,
         "stdDev": 0.41,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.6,
+        "stdDev": 0.6,
+        "count": 47
       },
       "keller": {
         "mean": 6.92,
@@ -476,6 +548,11 @@
         "stdDev": 0.36,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.65,
+        "stdDev": 0.59,
+        "count": 47
+      },
       "keller": {
         "mean": 7.14,
         "stdDev": 0.23,
@@ -507,6 +584,11 @@
         "mean": 5.97,
         "stdDev": 0.79,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.06,
+        "stdDev": 0.81,
+        "count": 47
       },
       "keller": {
         "mean": 6.02,
@@ -540,6 +622,11 @@
         "stdDev": 0.66,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.96,
+        "stdDev": 0.8,
+        "count": 47
+      },
       "keller": {
         "mean": 7.78,
         "stdDev": 0.41,
@@ -571,6 +658,11 @@
         "mean": 7.21,
         "stdDev": 0.62,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.7,
+        "stdDev": 0.65,
+        "count": 47
       },
       "keller": {
         "mean": 7.61,
@@ -604,6 +696,11 @@
         "stdDev": 0.61,
         "count": 181
       },
+      "hervormd": {
+        "mean": 4.91,
+        "stdDev": 0.9,
+        "count": 47
+      },
       "keller": {
         "mean": 5.22,
         "stdDev": 0.66,
@@ -635,6 +732,11 @@
         "mean": 6.42,
         "stdDev": 0.26,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.1,
+        "stdDev": 0.28,
+        "count": 47
       },
       "keller": {
         "mean": 6.69,
@@ -668,6 +770,11 @@
         "stdDev": 0.53,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.89,
+        "stdDev": 0.31,
+        "count": 47
+      },
       "keller": {
         "mean": 7.22,
         "stdDev": 0.47,
@@ -699,6 +806,11 @@
         "mean": 5.99,
         "stdDev": 0.7,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.47,
+        "stdDev": 0.79,
+        "count": 47
       },
       "keller": {
         "mean": 6.2,
@@ -732,6 +844,11 @@
         "stdDev": 0.72,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.81,
+        "stdDev": 0.7,
+        "count": 47
+      },
       "keller": {
         "mean": 6.11,
         "stdDev": 0.57,
@@ -764,6 +881,11 @@
         "stdDev": 1.12,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.74,
+        "stdDev": 1.08,
+        "count": 47
+      },
       "keller": {
         "mean": 7.76,
         "stdDev": 0.56,
@@ -795,6 +917,11 @@
         "mean": 6.49,
         "stdDev": 0.52,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.11,
+        "stdDev": 0.45,
+        "count": 47
       },
       "keller": {
         "mean": 7.5,
@@ -830,6 +957,11 @@
         "stdDev": 0.54,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.51,
+        "stdDev": 0.54,
+        "count": 47
+      },
       "keller": {
         "mean": 7.78,
         "stdDev": 0.41,
@@ -861,6 +993,11 @@
         "mean": 6.38,
         "stdDev": 0.87,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.02,
+        "stdDev": 0.93,
+        "count": 47
       },
       "keller": {
         "mean": 6.09,
@@ -894,6 +1031,11 @@
         "stdDev": 0.89,
         "count": 181
       },
+      "hervormd": {
+        "mean": 6.4,
+        "stdDev": 0.57,
+        "count": 47
+      },
       "keller": {
         "mean": 6.8,
         "stdDev": 0.49,
@@ -925,6 +1067,11 @@
         "mean": 6.55,
         "stdDev": 0.43,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.99,
+        "stdDev": 0.38,
+        "count": 47
       },
       "keller": {
         "mean": 6.92,
@@ -958,6 +1105,11 @@
         "stdDev": 0.52,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.68,
+        "stdDev": 0.51,
+        "count": 47
+      },
       "keller": {
         "mean": 6.8,
         "stdDev": 0.4,
@@ -979,7 +1131,7 @@
         "count": 167
       }
     },
-    "dekker_#1 specific bible passage": {
+    "dekker_#1 Bible Passage": {
       "augustine": {
         "mean": 3.5,
         "stdDev": 1.27,
@@ -989,6 +1141,11 @@
         "mean": 4.63,
         "stdDev": 1.05,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.09,
+        "stdDev": 0.74,
+        "count": 47
       },
       "keller": {
         "mean": 5.65,
@@ -1011,7 +1168,7 @@
         "count": 172
       }
     },
-    "dekker_#2 exegesis original context": {
+    "dekker_#2 Exegesis": {
       "augustine": {
         "mean": 3.0,
         "stdDev": 1.09,
@@ -1021,6 +1178,11 @@
         "mean": 4.64,
         "stdDev": 1.01,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.0,
+        "stdDev": 1.03,
+        "count": 47
       },
       "keller": {
         "mean": 5.35,
@@ -1043,7 +1205,7 @@
         "count": 172
       }
     },
-    "dekker_#3 application concrete contemporary": {
+    "dekker_#3 Application": {
       "augustine": {
         "mean": 3.91,
         "stdDev": 1.08,
@@ -1053,6 +1215,11 @@
         "mean": 5.72,
         "stdDev": 1.05,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 4.64,
+        "stdDev": 1.04,
+        "count": 47
       },
       "keller": {
         "mean": 6.41,
@@ -1075,7 +1242,7 @@
         "count": 172
       }
     },
-    "dekker_#4 interwoveness exposition application": {
+    "dekker_#4 Interwoveness": {
       "augustine": {
         "mean": 4.91,
         "stdDev": 1.24,
@@ -1085,6 +1252,11 @@
         "mean": 5.43,
         "stdDev": 1.06,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.4,
+        "stdDev": 0.84,
+        "count": 47
       },
       "keller": {
         "mean": 5.46,
@@ -1107,7 +1279,7 @@
         "count": 172
       }
     },
-    "dekker_#5 three parts misery redemption gratitude": {
+    "dekker_#5 Three Parts": {
       "augustine": {
         "mean": 5.82,
         "stdDev": 1.23,
@@ -1117,6 +1289,11 @@
         "mean": 5.41,
         "stdDev": 0.86,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.96,
+        "stdDev": 0.77,
+        "count": 47
       },
       "keller": {
         "mean": 7.13,
@@ -1139,7 +1316,7 @@
         "count": 172
       }
     },
-    "dekker_#6 two ways seriousness of choice": {
+    "dekker_#6 Two Ways": {
       "augustine": {
         "mean": 6.14,
         "stdDev": 1.58,
@@ -1149,6 +1326,11 @@
         "mean": 4.75,
         "stdDev": 1.59,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 4.45,
+        "stdDev": 1.53,
+        "count": 47
       },
       "keller": {
         "mean": 5.41,
@@ -1171,7 +1353,7 @@
         "count": 172
       }
     },
-    "dekker_#7 christocentric grace": {
+    "dekker_#7 One Lord": {
       "augustine": {
         "mean": 5.36,
         "stdDev": 1.67,
@@ -1181,6 +1363,11 @@
         "mean": 4.94,
         "stdDev": 1.16,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.49,
+        "stdDev": 0.68,
+        "count": 47
       },
       "keller": {
         "mean": 7.52,
@@ -1203,7 +1390,7 @@
         "count": 172
       }
     },
-    "dekker_#8 depth and length": {
+    "dekker_#8 Depth & Length": {
       "augustine": {
         "mean": 3.27,
         "stdDev": 1.93,
@@ -1213,6 +1400,11 @@
         "mean": 3.4,
         "stdDev": 0.9,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.04,
+        "stdDev": 1.75,
+        "count": 47
       },
       "keller": {
         "mean": 7.96,
@@ -1246,6 +1438,11 @@
         "stdDev": 0.71,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.49,
+        "stdDev": 0.68,
+        "count": 47
+      },
       "keller": {
         "mean": 6.35,
         "stdDev": 0.48,
@@ -1277,6 +1474,11 @@
         "mean": 7.44,
         "stdDev": 0.62,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.32,
+        "stdDev": 0.83,
+        "count": 47
       },
       "keller": {
         "mean": 7.96,
@@ -1310,6 +1512,11 @@
         "stdDev": 0.64,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.13,
+        "stdDev": 0.87,
+        "count": 47
+      },
       "keller": {
         "mean": 5.63,
         "stdDev": 0.53,
@@ -1341,6 +1548,11 @@
         "mean": 6.71,
         "stdDev": 0.76,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.66,
+        "stdDev": 0.81,
+        "count": 47
       },
       "keller": {
         "mean": 6.98,
@@ -1374,6 +1586,11 @@
         "stdDev": 0.28,
         "count": 181
       },
+      "hervormd": {
+        "mean": 6.49,
+        "stdDev": 0.68,
+        "count": 47
+      },
       "keller": {
         "mean": 8.09,
         "stdDev": 0.28,
@@ -1405,6 +1622,11 @@
         "mean": 6.15,
         "stdDev": 0.69,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 4.66,
+        "stdDev": 0.83,
+        "count": 47
       },
       "keller": {
         "mean": 5.7,
@@ -1438,6 +1660,11 @@
         "stdDev": 0.58,
         "count": 181
       },
+      "hervormd": {
+        "mean": 6.17,
+        "stdDev": 0.86,
+        "count": 47
+      },
       "keller": {
         "mean": 8.2,
         "stdDev": 0.45,
@@ -1469,6 +1696,11 @@
         "mean": 7.24,
         "stdDev": 0.6,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.77,
+        "stdDev": 0.9,
+        "count": 47
       },
       "keller": {
         "mean": 7.09,
@@ -1502,6 +1734,11 @@
         "stdDev": 0.36,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.65,
+        "stdDev": 0.59,
+        "count": 47
+      },
       "keller": {
         "mean": 7.14,
         "stdDev": 0.23,
@@ -1533,6 +1770,11 @@
         "mean": 5.97,
         "stdDev": 0.79,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.06,
+        "stdDev": 0.81,
+        "count": 47
       },
       "keller": {
         "mean": 6.02,
@@ -1566,6 +1808,11 @@
         "stdDev": 0.66,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.96,
+        "stdDev": 0.8,
+        "count": 47
+      },
       "keller": {
         "mean": 7.78,
         "stdDev": 0.41,
@@ -1597,6 +1844,11 @@
         "mean": 7.21,
         "stdDev": 0.62,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.7,
+        "stdDev": 0.65,
+        "count": 47
       },
       "keller": {
         "mean": 7.61,
@@ -1630,6 +1882,11 @@
         "stdDev": 0.61,
         "count": 181
       },
+      "hervormd": {
+        "mean": 4.91,
+        "stdDev": 0.9,
+        "count": 47
+      },
       "keller": {
         "mean": 5.22,
         "stdDev": 0.66,
@@ -1661,6 +1918,11 @@
         "mean": 7.64,
         "stdDev": 0.71,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 7.09,
+        "stdDev": 0.96,
+        "count": 47
       },
       "keller": {
         "mean": 8.48,
@@ -1694,6 +1956,11 @@
         "stdDev": 0.97,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.38,
+        "stdDev": 1.04,
+        "count": 47
+      },
       "keller": {
         "mean": 5.96,
         "stdDev": 0.98,
@@ -1725,6 +1992,11 @@
         "mean": 5.27,
         "stdDev": 0.9,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.28,
+        "stdDev": 1.05,
+        "count": 47
       },
       "keller": {
         "mean": 4.78,
@@ -1758,6 +2030,11 @@
         "stdDev": 0.65,
         "count": 181
       },
+      "hervormd": {
+        "mean": 6.09,
+        "stdDev": 0.9,
+        "count": 47
+      },
       "keller": {
         "mean": 6.83,
         "stdDev": 0.38,
@@ -1789,6 +2066,11 @@
         "mean": 6.12,
         "stdDev": 0.35,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.98,
+        "stdDev": 0.33,
+        "count": 47
       },
       "keller": {
         "mean": 6.48,
@@ -1822,6 +2104,11 @@
         "stdDev": 0.44,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.57,
+        "stdDev": 0.49,
+        "count": 47
+      },
       "keller": {
         "mean": 5.83,
         "stdDev": 0.43,
@@ -1853,6 +2140,11 @@
         "mean": 6.23,
         "stdDev": 0.48,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.0,
+        "stdDev": 0.36,
+        "count": 47
       },
       "keller": {
         "mean": 6.59,
@@ -1886,6 +2178,11 @@
         "stdDev": 0.26,
         "count": 181
       },
+      "hervormd": {
+        "mean": 6.1,
+        "stdDev": 0.28,
+        "count": 47
+      },
       "keller": {
         "mean": 6.69,
         "stdDev": 0.23,
@@ -1917,6 +2214,11 @@
         "mean": 6.57,
         "stdDev": 0.53,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.89,
+        "stdDev": 0.31,
+        "count": 47
       },
       "keller": {
         "mean": 7.22,
@@ -1950,6 +2252,11 @@
         "stdDev": 0.7,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.47,
+        "stdDev": 0.79,
+        "count": 47
+      },
       "keller": {
         "mean": 6.2,
         "stdDev": 0.54,
@@ -1981,6 +2288,11 @@
         "mean": 5.45,
         "stdDev": 0.72,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 5.81,
+        "stdDev": 0.7,
+        "count": 47
       },
       "keller": {
         "mean": 6.11,
@@ -2014,6 +2326,11 @@
         "stdDev": 1.12,
         "count": 181
       },
+      "hervormd": {
+        "mean": 5.74,
+        "stdDev": 1.08,
+        "count": 47
+      },
       "keller": {
         "mean": 7.76,
         "stdDev": 0.56,
@@ -2045,6 +2362,11 @@
         "mean": 6.49,
         "stdDev": 0.52,
         "count": 181
+      },
+      "hervormd": {
+        "mean": 6.11,
+        "stdDev": 0.45,
+        "count": 47
       },
       "keller": {
         "mean": 7.5,
