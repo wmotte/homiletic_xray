@@ -1,27 +1,55 @@
 # Homiletic Feedback Toolkit
 
-A comprehensive analysis of sermons using five homiletical frameworks.
+A comprehensive analysis of sermons using six homiletical frameworks.
 
 ## Overview
 
-This toolkit analyzes sermons through five complementary lenses:
+This toolkit analyzes sermons through six complementary lenses:
 
 1. **Dekker's Theses** - "What is a Sermon?" (Dr. W.M. Dekker's 8 theological criteria)
 2. **Aristotelian Modes** - Classical rhetoric (Logos, Pathos, Ethos)
 3. **Schulz von Thun** - Four-Sides-Model communication analysis
 4. **Kolb's Learning Cycle** - Experiential learning in preaching
 5. **Aesthetic Turn** - Contemporary homiletical aesthetics
+6. **Transactional Analysis** - Psychological dynamics and manipulation detection (Eric Berne)
+
+## The Six Methods: Complementary Perspectives
+
+The six analytical methods each offer a unique perspective on preaching practice:
+
+**Dekker's Theses** evaluate theological content: Is the sermon scriptural, Christocentric, and existential?
+
+**Kolb's Learning Cycle** assesses pedagogical effectiveness: Are all learning styles addressed and is the listener guided through a complete cycle?
+
+**Aristotelian Modes** diagnose rhetorical power: Is the sermon logically coherent (Logos), emotionally resonant (Pathos), and authentically delivered (Ethos)?
+
+**Schulz von Thun** examines communicative integrity: Is the message congruent and does it land purely on the listener's four ears?
+
+**Aesthetic Turn** judges artistic form: Is the truth carried by narrative and literary craft?
+
+**Transactional Analysis** tests psychological health: Is the communication free from manipulation and does it promote autonomy?
+
+Together, these methods form a holistic evaluation:
+
+- **Dekker asks:** "Is it true?"
+- **Kolb asks:** "Is it learned?"
+- **Aristotle asks:** "Is it persuasive?"
+- **Schulz von Thun asks:** "Is it congruent?"
+- **Aesthetic Turn asks:** "Is it beautiful?"
+- **TA asks:** "Is it healthy?"
+
+A sermon can be theologically sound (Dekker: high) yet fail to reach different learning styles (Kolb: low), lack emotional impact (Aristotle: low Pathos), be aesthetically flat (Aesthetics: low), or be psychologically manipulative (TA: low). By using all methods, the preacher gains a complete picture of strengths and weaknesses.
 
 ## Features
 
-- ✅ **5 Analytical Frameworks** - Comprehensive multi-perspective sermon evaluation
+- ✅ **6 Analytical Frameworks** - Comprehensive multi-perspective sermon evaluation
 - ✅ **English Prompts** - Professional, theologically rigorous analysis prompts
 - ✅ **Batch Processing** - Analyze multiple sermons automatically
 - ✅ **JSON Output** - Structured, parseable results for further analysis
 - ✅ **Strict Grading** - Academic rigor with 1-10 scoring (7+ is exceptional)
 - ✅ **Detailed Feedback** - Quotes, strengths, improvement points, and overall assessment
 
-## The Five Analytical Frameworks
+## The Six Analytical Frameworks
 
 ### 1. Dekker's Theses (Theological)
 Analyzes sermons against Dr. W.M. Dekker's 8 criteria for "What is a Sermon?":
@@ -86,8 +114,37 @@ Contemporary homiletical aesthetics with three integrated domains:
 
 **Best for:** Artistic quality, performative power, authenticity, avoiding religious kitsch
 
+**NB:** Aesthetic ratings related to EMBODIMENT are ignored. Future research may use data from video recordings - if available - to incorporate physical parameters such as body movement.
 
-NB: Aesthetic ratings related to EMBODIMENT are ignored. Future research may use data from video recordings - if available - to incorporate physical parameters such as body movement.
+### 6. Transactional Analysis (Psychological)
+Based on Eric Berne's Transactional Analysis, this framework exposes psychological dynamics and potential manipulation ("games") in preaching:
+
+**Ego State Analysis:**
+- **Parent Ego State** - Critical Parent (CP) vs. Nurturing Parent (NP)
+  - Freedom from coercive judgment and "must" language
+  - Healthy, non-smothering care and support
+- **Adult Ego State** - Rational, here-and-now communication
+  - Invitation to critical thinking and autonomous faith
+- **Child Ego State** - Adapted Child (AC) vs. Free Child (FC)
+  - Freedom from fear-based compliance
+  - Authentic joy, wonder, and spontaneity
+
+**Transaction Analysis:**
+- Primary transaction style (Parent-Child, Adult-Adult, etc.)
+- Communicative purity vs. ulterior motives
+- Detection of crossed or hidden transactions
+
+**Games Analysis:**
+- Detection of psychological "games" (NIGYSOB, Blemish, etc.)
+- Formula G analysis: Con → Gimmick → Switch → Payoff
+- Absence of manipulative patterns
+
+**Drama Triangle:**
+- Preacher roles: Rescuer, Persecutor, Victim
+- Congregation positioning
+- Escape possibilities toward autonomy
+
+**Best for:** Psychological health, detecting manipulation, promoting Adult-Adult communication, avoiding guilt-driven rhetoric
 
 --
 
@@ -170,6 +227,7 @@ Theoretical frameworks based on:
   - Prof. Albrecht Grözinger - practical theology and aesthetics
   - Paul Scott Wilson, Thomas Long - New Homiletic, imagery, narrative
   - Marilyn Chandler McEntyre - stewardship of language, word care
+- **Transactional Analysis:** Dr. Eric Berne - Transactional Analysis, psychological games, ego states
 
 ## Contact
 
