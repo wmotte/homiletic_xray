@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Prayer of Confession",
+    "bible_text": "Psalm 32",
+    "notes": "Delivered in New York City, 2015. Focuses on the psychological weight of guilt in a secular context."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 7,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher avoids the 'shaming' CP. Instead of 'You must,' he uses 'Let's look at' or 'We feel.' He externalizes the CP voice as a psychological phenomenon (the 'voice' of the imposter) rather than adopting it himself.",
+        "quotes": [
+          "I’m not laying a guilt trip on you.",
+          "We’ve had our guilt explained away... and yet we know there’s something wrong."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 8,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The care is supportive and aims for the listener's 'liberation.' It promotes autonomy by offering a 'treatment' for internal distress.",
+        "quotes": [
+          "It relieves your conscience... it takes that weight off.",
+          "He’s the real true love, because he can always get the stain out."
+        ]
+      }
+    },
+    "adult": {
+      "score": 9,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "High",
+      "analysis": "The sermon is highly analytical. It uses literature (Sartre, Kafka), linguistics (Hebrew word studies), and sociological observation to process reality. It invites the listener to 'see whether that’s true' and 'take a look.'",
+      "quotes": [
+        "Let’s see whether that’s true. Come with me.",
+        "Don’t go to public opinion. You’ll never be able to judge your heart."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 8,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher does not speak from a place of fear or a need to please. He acknowledges cultural pushback ('people get very nervous') but remains grounded.",
+        "quotes": [
+          "The word sin hits modern people’s ears... It either makes us laugh or it makes us shudder."
+        ]
+      },
+      "free_child_FC": {
+        "score": 6,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "Authentic joy appears in the 'Payoff' of the gospel and the use of the fairy tale, though the tone remains largely intellectual/Adult.",
+        "quotes": [
+          "You’d say, 'Hallelujah!' even if you’re an atheist.",
+          "There’s an old fairy tale..."
+        ]
+      }
+    },
+    "dominant_ego_position": "Adult"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult",
+    "analysis": "The preacher primarily engages the listener's intellect to analyze their own psychological state. Even when discussing 'sin,' he frames it as a 'design flaw' or 'poisonous reality' to be understood rather than a crime to be punished by the preacher.",
+    "ulterior_motives": "The social level is Adult-Adult (theology/sociology). The psychological level is Nurturing Parent-Free Child (offering safety and 'covering').",
+    "communicative_purity_score": 9,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The only risk is the 'Bait and Switch' inherent in religious discourse: using secular philosophy (Sartre/Kafka) to lead to a dogmatic conclusion (Jesus). However, the preacher is transparent about this 'antidote' from the start."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "None",
+        "probability": "Low",
+        "formula_g_analysis": {
+          "con": "N/A",
+          "gimmick": "N/A",
+          "switch": "N/A",
+          "payoff": "N/A"
+        },
+        "evidence_quotes": [
+          "I’m just saying you know there’s something wrong with you."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The preacher actively deconstructs potential games. He exposes 'Self-Flagellation' (a form of 'Kick Me' or 'I'm Only Trying to Help You' where the person plays Victim) and 'Self-Pity' as dysfunctional maneuvers, steering the listener toward an Adult 'straightedge' (The Bible)."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Low. He points to a Rescuer (Jesus) rather than positioning himself as the one with the answers.",
+      "persecutor": "Very Low. He explicitly rejects 'laying guilt trips.'",
+      "victim": "None."
+    },
+    "congregation_position": "The congregation is initially identified as the 'Victim' of their own 'voices' and 'stains,' but is invited into an Adult position of 'taking full responsibility.'",
+    "escape_possibilities": "The sermon offers an escape through 'autonomy'—specifically, the 'liberation of confession' which moves the person out of the Victim role."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 9,
+    "summary": "This sermon is psychologically sophisticated and remarkably 'game-free.' It utilizes an Adult-Adult transaction to bypass the typical Critical Parent/Adapted Child dynamic found in many religious 'sin' discourses. By using secular thinkers like Sartre and Kafka, the preacher validates the listener's 'Adult' reality before introducing the 'Nurturing Parent' solution of the Gospel. It promotes autonomy by demanding 'full responsibility' (Adult) while offering 'free forgiveness' (Nurturing Parent), effectively silencing the internal 'Persecutor' voice.",
+    "strengths": [
+      "Deconstructs 'Self-Flagellation' and 'Self-Pity' as manipulative psychological cul-de-sacs.",
+      "Maintains an Adult-Adult dialogue even when discussing highly emotional topics like guilt.",
+      "Uses external literature to build a bridge of 'shared reality' with the listener."
+    ],
+    "areas_for_improvement": [
+      "The transition to the 'Antidote' relies on a sudden shift to dogmatic authority ('The only way... is to believe the Bible'), which may briefly cross the Adult transaction.",
+      "The fairy tale ending is a bit 'Parental' in its simplicity compared to the earlier Adult analysis."
+    ],
+    "advice_for_game_free_communication": "Continue to externalize the 'Critical Parent' as a 'voice' the listener hears, rather than becoming that voice. This maintains the listener's Adult ego state and prevents the 'Adapted Child' response of rebellion or false compliance."
+  }
+}

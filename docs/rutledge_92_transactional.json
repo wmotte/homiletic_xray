@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "The God of Small Things: St. Bede and the Evangelical Faith",
+    "bible_text": "Zechariah 4:1-10",
+    "notes": "Preached for the institution of a new rector at Grace Church, Camden, SC."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 8,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher avoids 'must' or 'should' language directed at the congregation. The CP is directed outward toward media/culture rather than downward at the listeners.",
+        "quotes": [
+          "The media and the culture in general have made it a rule...",
+          "you could feel the disdain oozing out of her voice."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 9,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The preacher uses NP to validate the congregation's identity and history, offering comfort regarding their 'mainline' status.",
+        "quotes": [
+          "The God of small things will build great things, not because Christians are great but because God is great."
+        ]
+      }
+    },
+    "adult": {
+      "score": 8,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "High",
+      "analysis": "The sermon is highly intellectual, providing historical context, etymology, and objective data about St. Bede and the Reformation. It treats the listener as a thinking subject capable of historical reflection.",
+      "quotes": [
+        "It all depends on how you define evangelical, of course.",
+        "He worked like a modern historian by collecting materials from reliable sources..."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 9,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher does not use fear to motivate. Instead, he explicitly tells the congregation to hear the scripture not as a 'command' (which would trigger AC) but as a 'promise'.",
+        "quotes": [
+          "hear it not as a command, but as a promise."
+        ]
+      },
+      "free_child_FC": {
+        "score": 7,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a sense of wonder and historical imagination, though it is tempered by the intellectual Adult tone.",
+        "quotes": [
+          "the very name of the Venerable Bede made me giggle.",
+          "Who... could have imagined such a thing?"
+        ]
+      }
+    },
+    "dominant_ego_position": "Adult"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult",
+    "analysis": "The preacher engages in an educational and reflective dialogue, inviting the congregation to reconsider their identity through historical and biblical data.",
+    "ulterior_motives": "There is a subtle psychological invitation for the congregation to feel superior to the 'disdainful' media, but the social message remains primarily Adult-Adult.",
+    "communicative_purity_score": 9,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The only risk is a mild 'Us vs. Them' dynamic regarding the New York media, which could foster a 'Victim' stance in the congregation."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Ain't It Awful",
+        "probability": "Low",
+        "formula_g_analysis": {
+          "con": "Mentioning the New York Times/NPR disdain.",
+          "gimmick": "The congregation's feeling of being misunderstood or marginalized.",
+          "switch": "None—the preacher doesn't dwell here; he moves quickly to a positive Adult solution.",
+          "payoff": "A brief moment of collective validation against 'the culture'."
+        },
+        "evidence_quotes": [
+          "you could feel the disdain oozing out of her voice."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon is remarkably game-free. It avoids the 'Bait & Switch' by explicitly rejecting the use of Law/Command in favor of Promise/Grace. It avoids ITHY by not offering simplistic fixes for the church's 'smallness'."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Low; he points to God as the actor rather than himself or the new rector as a 'fixer'.",
+      "persecutor": "None; he explicitly avoids judging the congregation's merits.",
+      "victim": "Low; he mentions the 'hits' the church has taken but rejects an attitude of acquiescence."
+    },
+    "congregation_position": "Invited into the role of 'Co-Builder' or 'Witness' rather than Victim.",
+    "escape_possibilities": "The sermon offers autonomy by grounding the church's future in the 'Spirit' rather than human 'might' or 'power', which relieves the congregation of the pressure to 'perform' for a Rescuer."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 9,
+    "summary": "This sermon is psychologically robust and promotes autonomy. By utilizing a strong Adult ego state to provide historical and theological context, the preacher bypasses the typical Parent-Child dynamics found in many sermons. He successfully reframes the congregation's potential 'Victim' status (as a 'small' or 'declining' mainline church) into a 'Free Child' state of hope and a 'Nurturing Parent' state of self-acceptance through the concept of 'The God of Small Things.'",
+    "strengths": [
+      "Explicit rejection of coercive 'command' language.",
+      "Strong use of Adult-Adult historical reflection.",
+      "Reframing of 'smallness' as a site of divine activity rather than a failure."
+    ],
+    "areas_for_improvement": [
+      "The brief 'Ain't It Awful' opening regarding the media could be seen as a minor 'Con' to build rapport through shared grievance."
+    ],
+    "advice_for_game_free_communication": "Continue to emphasize the 'Promise vs. Command' distinction, as this is the most effective way to prevent the congregation from slipping into the Adapted Child position."
+  }
+}

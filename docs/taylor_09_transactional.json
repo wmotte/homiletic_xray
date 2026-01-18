@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Like As A Father",
+    "bible_text": "Psalm 103:13",
+    "notes": "A classic homiletic style utilizing personal anecdote and archetypal imagery of fatherhood."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 7,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher avoids 'shaming' the congregation directly. However, there is a subtle CP presence regarding gender roles and 'flabby convictions.'",
+        "quotes": [
+          "Flabby convictions, lack of integrity, and cravenness are often the results of weak father symbols."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 8,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is the dominant tone, providing comfort through the image of a 'pitying' father, though it leans slightly toward dependency by emphasizing the 'falling eaglet' needing rescue.",
+        "quotes": [
+          "Like as a father pitieth his children, so the LORD pitieth them that fear him."
+        ]
+      }
+    },
+    "adult": {
+      "score": 6,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher uses historical context (Abraham/Isaac) and psychological observation (emotional balance) to ground the sermon, but moves quickly into poetic/mystical language rather than Adult-to-Adult dialogue.",
+      "quotes": [
+        "God in his wisdom has given us mothers and fathers that our emotional balance might be properly established."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 5,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Medium",
+        "analysis": "The sermon reinforces the 'fear of God' as a prerequisite for pity, and the preacher's own story of 'trembling' before a check suggests an AC response to providence.",
+        "quotes": [
+          "Almost stunned and trembling, I picked up the sheet of paper...",
+          "...so the LORD pitieth them that fear him."
+        ]
+      },
+      "free_child_FC": {
+        "score": 7,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a sense of wonder and 'high religion set to music.' The FC is present in the awe of the 'bright, bold dream' and the imagery of flying.",
+        "quotes": [
+          "We are born to fly on wings of prayer and faith."
+        ]
+      }
+    },
+    "dominant_ego_position": "Nurturing Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher assumes a wise, paternal role (NP) addressing the congregation as children in need of pity and guidance. This creates a stable, comforting, but hierarchical dynamic.",
+    "ulterior_motives": "The social message is 'God loves you like a father,' but the psychological message is 'You are small and fragile, and your suffering is a gift you must accept without question.'",
+    "communicative_purity_score": 7,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' lies in the transition from God as a comforter to God as the one who 'sends us into things that seem too ugly.' This risks a 'Bait & Switch' from NP to CP."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "I'm Only Trying To Help You (ITHY)",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "God is a loving father who pitieth his children.",
+          "gimmick": "The listener's need for security and fear of suffering.",
+          "switch": "God is the one who sends the 'death angel' and 'suffering' to make you better.",
+          "payoff": "The listener must accept pain as a 'gift,' leading to a stoic, suppressed emotional state."
+        },
+        "evidence_quotes": [
+          "But the same God gives us the death angel, that the memory of graves might make us see life as a high and swift and solemn transaction."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon is largely sincere; however, the 'ITHY' dynamic is inherent in theodicy that justifies pain as 'parental discipline.'"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. The preacher offers the 'psalm' as the solution to the 'fire' and 'despair' of the congregation.",
+      "persecutor": "Low. Only appears subtly when discussing 'weak father symbols' or 'feet of clay' in men.",
+      "victim": "Medium. The preacher shares his own story of being 'on the edge of failure' to build rapport."
+    },
+    "congregation_position": "Victim. The congregation is viewed as 'eaglets' falling or children needing 'pity.'",
+    "escape_possibilities": "The call to 'self-reliance' and 'conquering' through prayer offers a path toward Adult autonomy, though it is still framed within a Parent-Child relationship with God."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 6,
+    "summary": "The sermon is psychologically supportive in its Nurturing Parent stance, offering comfort in times of crisis. However, it reinforces a dependency model where the listener is a perpetual child. The justification of suffering (the 'death angel' as a gift) can be psychologically burdensome, as it requires the 'Adapted Child' to suppress natural grief in favor of 'gratitude' for the trial.",
+    "strengths": [
+      "Strong use of Nurturing Parent to provide emotional stability.",
+      "Authentic vulnerability in the preacher's personal anecdote."
+    ],
+    "areas_for_improvement": [
+      "Over-reliance on the 'Father' archetype may alienate those with father-wounds.",
+      "The switch to justifying death and suffering as 'gifts' can feel like a psychological 'trap' (ITHY)."
+    ],
+    "advice_for_game_free_communication": "Incorporate more Adult-to-Adult transactions by asking the congregation how they personally experience the tension between 'security and risk' rather than defining it for them. Allow the 'Free Child' to grieve the 'death angel' without immediately forcing a 'solemn transaction' interpretation."
+  }
+}

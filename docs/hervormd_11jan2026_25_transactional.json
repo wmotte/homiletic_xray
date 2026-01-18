@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Op weg als getuige",
+    "bible_text": "Johannes 4:29",
+    "notes": "Delivered in the Oude Kerk, Katwijk. Focuses on the Samaritan woman as a model for witnessing."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 7,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher avoids harsh 'must' language and condemnation. Instead of commanding, he uses rhetorical questions and shared vulnerability to encourage. However, there is a subtle CP presence in the 'standard' set for what happens when one meets Jesus.",
+        "quotes": [
+          "Het is goed om erover na te denken hoe je overkomt.",
+          "Wij mensen kunnen soms hele vrome praatjes hebben en intussen de zonde aan de hand houden."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 8,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "Strong Nurturing Parent presence. The preacher uses nostalgic anecdotes (traveling with his father) and offers comfort regarding the difficulty of speaking about faith.",
+        "quotes": [
+          "Toen ik klein was, ging ik vaak met mijn vader mee uit preken. Het was mooi, zo met je vader mee."
+        ]
+      }
+    },
+    "adult": {
+      "score": 6,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher addresses the congregation as thinking subjects, acknowledging the social complexities of the workplace and family. However, the 'Adult' logic is often bypassed by 'Child' emotional appeals.",
+      "quotes": [
+        "Wanneer doe je dat nou goed? Wat zeg je dan precies? Hoe pak je dat nou op een goede manier aan?"
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 8,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The sermon does not rely on fear-based compliance. It encourages moving away from 'people-pleasing' (Adapted Child) toward a focus on God.",
+        "quotes": [
+          "Dan ben je niet meer afhankelijk van de reactie van een ander."
+        ]
+      },
+      "free_child_FC": {
+        "score": 7,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a sense of wonder and 'adventure' in the storytelling, reflecting the preacher's own Free Child memories and the 'surprising' nature of the Gospel.",
+        "quotes": [
+          "Het was ook wel een beetje avontuurlijk... Je kwam nog eens ergens."
+        ]
+      }
+    },
+    "dominant_ego_position": "Nurturing Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher primarily adopts a gentle, guiding Parent role, inviting the congregation into a Child role (either the curious Free Child or the comforted Adapted Child).",
+    "ulterior_motives": "Social: A->A (Let's look at this text). Psychological: P->C (I will show you how to feel safe enough to speak).",
+    "communicative_purity_score": 8,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The primary risk is the 'I'm Only Trying To Help You' dynamic where the preacher's vulnerability is used to make the listener feel they *should* be equally vulnerable."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "ITHY (I'm Only Trying To Help You)",
+        "probability": "Low",
+        "formula_g_analysis": {
+          "con": "Preacher shares personal struggles with witnessing.",
+          "gimmick": "Listener's guilt about not speaking of Jesus.",
+          "switch": "The shift from 'it's hard' to 'if you've met Him, it just comes out'.",
+          "payoff": "The listener feels inadequate if they don't have that 'spontaneous' flow."
+        },
+        "evidence_quotes": [
+          "Als je bij de Heer Jezus geweest bent, dan komt het eruit, linksom of rechtsom."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon is remarkably low on games. It avoids 'NIGYSOB' by including the preacher in the circle of sinners and avoids 'Ain't It Awful' by maintaining a hopeful tone about the world/Katwijk."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. The preacher offers the 'formula' (Kom en Zie) to solve the listener's social anxiety.",
+      "persecutor": "Very Low. He avoids blaming the congregation for the empty pews.",
+      "victim": "Low. Briefly touches on the 'empty church' but quickly moves to hope."
+    },
+    "congregation_position": "Pushed toward Victim (helpless in witnessing) to be Rescued by the Preacher's insights.",
+    "escape_possibilities": "Yes. By emphasizing 'Betrekkelijkheid' (Relativity), he points the listener away from himself toward an autonomous relationship with the Divine."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 8,
+    "summary": "This sermon is psychologically healthy, characterized by a warm, Nurturing Parent ego state that seeks to empower the listener's Free Child. It avoids the common homiletical trap of 'shaming' the congregation for lack of zeal. Instead, it uses self-disclosure to level the playing field. The primary psychological movement is from anxiety (Adapted Child) to freedom (Free Child) through the 'Adult' realization that the witness's role is only relative.",
+    "strengths": [
+      "High level of empathy and emotional resonance.",
+      "Avoidance of 'NIGYSOB' and 'Ain't It Awful' games.",
+      "Strong emphasis on the listener's autonomy ('relativity of the witness')."
+    ],
+    "areas_for_improvement": [
+      "Slight tendency toward 'ITHY' by over-simplifying the 'spontaneous' nature of faith sharing.",
+      "The 'Adult' ego state could be strengthened with more concrete, reality-based examples of modern dialogue."
+    ],
+    "advice_for_game_free_communication": "Continue using 'we' instead of 'you' to avoid the Persecutor role. To further strengthen the Adult-Adult transaction, invite the congregation to share their own 'Adult' hurdles in witnessing rather than providing all the answers from the Parent position."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "The Burden of This People",
+    "bible_text": "Numbers 11",
+    "notes": "Preached on the occasion of a new rector's institution; 1979 context."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 8,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher uses the 'we' pronoun to include herself in the critique of human weakness, softening the CP voice. However, there is a subtle CP warning about future 'murmuring' and 'bad behavior' that serves as a preemptive boundary.",
+        "quotes": [
+          "We see ingratitude, selfishness, and stupidity.",
+          "Our worst qualities will eventually see the light of day."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 7,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The preacher offers comfort by validating the difficulty of community life, but avoids 'smothering' by placing the responsibility for spiritual health back on the congregation's relationship with God.",
+        "quotes": [
+          "The Lord of the church arranges things in wonderful ways.",
+          "Today is a day to rejoice... with music and dancing."
+        ]
+      }
+    },
+    "adult": {
+      "score": 9,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "High",
+      "analysis": "The preacher operates heavily from the Adult position by analyzing the biblical text as a 'detailed picture of human weakness' and applying it logically to the current institutional transition. She invites the congregation to reflect on the reality of parish life rather than just emoting.",
+      "quotes": [
+        "So let’s take a few minutes this morning to explore what the Word of God might be for all of you.",
+        "In this description... Numbers gives us a detailed picture of human weakness."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 7,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher does not use fear to demand compliance, but she does project an 'Adapted Child' role onto the biblical Israelites to serve as a cautionary tale for the congregation.",
+        "quotes": [
+          "They complained about everything, but especially about the food."
+        ]
+      },
+      "free_child_FC": {
+        "score": 6,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a spark of Free Child in the imaginative retelling of Moses' day and the celebration of the 'Red Sea' moment, though it is tempered by the solemnity of the occasion.",
+        "quotes": [
+          "Miriam with her tambourine sang...",
+          "Moses has been up since dawn... meeting with the altar guild... searching for concealed golden calves."
+        ]
+      }
+    },
+    "dominant_ego_position": "Adult"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult",
+    "analysis": "The preacher primarily addresses the congregation as thinking partners, using historical-critical and psychological insights to explain the text. She invites them into a shared reality check about the 'honeymoon phase' of a new rector.",
+    "ulterior_motives": "Social: A->A (Let's study this text). Psychological: P->C (Be careful not to be the 'bad children' who make the new rector's life miserable).",
+    "communicative_purity_score": 8,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The risk is a 'Bait and Switch' where the celebration of the new rector is used as a platform to warn the congregation against future dissent."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "ITHY (I'm Only Trying To Help You)",
+        "probability": "Low",
+        "formula_g_analysis": {
+          "con": "The preacher offers a 'realistic' view of the future to help the parish avoid conflict.",
+          "gimmick": "The congregation's desire to be 'good' and 'spiritual' during a transition.",
+          "switch": "The preacher shifts from celebrating with them to warning them about their 'uglier side'.",
+          "payoff": "The preacher maintains the position of the 'wise observer' while the congregation feels a slight weight of future guilt."
+        },
+        "evidence_quotes": [
+          "Inevitably... there will come a time when there will be complaining, and division, and tension."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon is remarkably low on games because the preacher openly acknowledges the 'Switch' (from joy to complaining) as a natural human cycle rather than using it to trap the listeners."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Low; she points to God as the only one who can 'carry the burden'.",
+      "persecutor": "Very Low; she critiques the Israelites but includes herself in the 'we' of the church.",
+      "victim": "Low; she empathizes with Moses' victimhood but uses it to illustrate a need for boundaries."
+    },
+    "congregation_position": "The congregation is warned not to become the 'Persecutor' of the new rector (the 'Victim/Moses' figure).",
+    "escape_possibilities": "The sermon offers an escape by moving toward the 'Spirit'—promoting autonomy and shared responsibility ('seventy elders') rather than a Parent-Child dependency on the rector."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 8,
+    "summary": "This sermon is psychologically robust and largely avoids the manipulative traps common in pastoral transitions. By utilizing a strong Adult ego position, the preacher deconstructs the 'Hero-Rector' myth and the 'Dependent-Congregation' dynamic. She uses the text to set realistic expectations, acknowledging that conflict is inevitable without shaming the listeners for it. The primary psychological movement is from a potential Parent-Child dependency toward an Adult-Adult shared vocation.",
+    "strengths": [
+      "Use of humor to engage the Free Child.",
+      "Adult-level reality testing regarding parish life.",
+      "Avoidance of the 'NIGYSOB' game despite the text's focus on complaining."
+    ],
+    "areas_for_improvement": [
+      "The preemptive warning about 'murmuring' could be perceived as a Critical Parent 'finger-wag' during a moment of genuine joy.",
+      "Slightly more Free Child/Spontaneity could balance the heavy emphasis on 'burden' and 'weariness'."
+    ],
+    "advice_for_game_free_communication": "Continue to use 'we' to maintain Adult-Adult equality. When warning about future conflict, frame it as a natural systemic process rather than a moral failure to avoid triggering the Adapted Child's guilt."
+  }
+}

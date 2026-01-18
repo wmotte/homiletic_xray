@@ -783,6 +783,16 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         'esthetiek': {
             text: "The aesthetic turn emphasizes that a sermon must be aesthetically persuasive. This analysis tests two domains:\n\n• Domain A: Poetics of Language (Micro-Aesthetics) – Imagery, precision, musicality\n• Domain B: Dramaturgy of Structure (Macro-Aesthetics) – Narrative arc, reframing, openness\n\nIt also checks for Anti-Kitsch (absence of clichés) and Space for Grace (room for mystery).",
             link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_esthetiek.md'
+        },
+        'transactional': {
+            text: `Based on Eric Berne's Transactional Analysis, this framework exposes psychological dynamics and potential manipulation ('games') in preaching:
+
+• **Parent Ego State** – Critical Parent (CP) vs. Nurturing Parent (NP)
+• **Adult Ego State** – Rational, here-and-now communication
+• **Child Ego State** – Adapted Child (AC) vs. Free Child (FC)
+
+It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemish, etc.), and maps the Drama Triangle (Rescuer, Persecutor, Victim). The goal: game-free, Adult-Adult communication.`,
+            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_transactional.md'
         }
     };
 
@@ -893,7 +903,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             'chrysostom', 'aquinas', 'edwards', 'bunyan', 'wesley'
         ];
         const sermonNumbers = Array.from({ length: 100 }, (_, i) => String(i + 1).padStart(2, '0'));
-        const analyses = ['aristoteles', 'dekker', 'esthetiek', 'kolb', 'schulz_von_thun'];
+        const analyses = ['aristoteles', 'dekker', 'esthetiek', 'kolb', 'schulz_von_thun', 'transactional'];
 
         const discoveredFiles = [];
         const batchSize = 25;
@@ -964,7 +974,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             const theologian = parts[0];
 
             // Known analysis types (including multi-part ones)
-            const KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek'];
+            const KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek', 'transactional'];
 
             // Find where the analysis type starts by looking for known analysis types
             let analysisStartIdx = null;
@@ -1070,7 +1080,8 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
                 'dekker': 'Dekker Analysis',
                 'esthetiek': 'Esthetics',
                 'kolb': 'Kolb Cycle',
-                'schulz_von_thun': 'Schulz von Thun'
+                'schulz_von_thun': 'Schulz von Thun',
+                'transactional': 'Transactional Analysis'
             };
 
             Array.from(availableFiles.analyses[key]).sort().forEach(analysis => {
@@ -1162,6 +1173,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             else if (type === 'aristoteles') renderAristoteles(data, container);
             else if (type === 'schulz_von_thun') renderSchulz(data, container);
             else if (type === 'esthetiek') renderEsthetiek(data, container);
+            else if (type === 'transactional') renderTransactional(data, container);
         } catch (e) {
             console.error(e);
             container.innerHTML = '<div class="card full-width">Rendering error. Ensure the uploaded JSON matches the selected model.</div>';
@@ -1471,6 +1483,156 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         container.innerHTML = html;
     }
 
+    function renderTransactional(data, container) {
+        const conclusion = data.conclusion_and_recommendation || {};
+        const egoScan = data.ego_positions_scan || {};
+        const transactionAnalysis = data.transaction_analysis || {};
+        const gamesAnalysis = data.games_analysis || {};
+        const dramaTriangle = data.drama_triangle_analysis || {};
+        const metadata = data.metadata || {};
+
+        // Overall conclusion
+        let html = `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Overall Assessment – Transactional Analysis</span><span class="score-badge ${getScoreClass(conclusion.psychological_health_score || 0)}">${conclusion.psychological_health_score || 0}/10</span></div>
+            <div class="text-content">
+                <p>${formatText(conclusion.summary)}</p>
+            </div>
+            <div class="summary-columns">
+                <div class="summary-col">
+                    <h3 style="color: var(--success-color)">Strengths</h3>
+                    <ul class="summary-list">${(conclusion.strengths || []).map(s => `<li>${formatText(s)}</li>`).join('')}</ul>
+                </div>
+                <div class="summary-col">
+                    <h3 style="color: var(--warning-color)">Areas for Improvement</h3>
+                    <ul class="summary-list">${(conclusion.areas_for_improvement || []).map(w => `<li>${formatText(w)}</li>`).join('')}</ul>
+                </div>
+            </div>
+            ${conclusion.advice_for_game_free_communication ? `<div style="background:var(--bg-element); border-left:3px solid var(--primary-color); padding:0.75rem; margin-top:1rem; font-size:0.85rem;"><strong>💡 Advice:</strong> ${formatText(conclusion.advice_for_game_free_communication)}</div>` : ''}
+        </div>`;
+
+        // Ego positions overview
+        const parent = egoScan.parent || {};
+        const adult = egoScan.adult || {};
+        const child = egoScan.child || {};
+
+        html += `<div class="card full-width">
+            <div class="card-header"><span class="card-title">📊 Ego Positions Overview</span></div>
+            <div style="display:grid; grid-template-columns: repeat(3, 1fr); gap:1rem; margin-bottom:1rem;">
+                <div class="stat-item"><span class="stat-val">${formatText(egoScan.dominant_ego_position || 'Mixed')}</span><span class="stat-lbl">Dominant Position</span></div>
+                <div class="stat-item"><span class="stat-val">${adult.score || 0}/10</span><span class="stat-lbl">Adult (Healthy)</span></div>
+                <div class="stat-item"><span class="stat-val">${transactionAnalysis.communicative_purity_score || 0}/10</span><span class="stat-lbl">Purity</span></div>
+            </div>
+        </div>`;
+
+        // Parent ego position
+        html += `<div class="section-info">🧑‍🦳 <strong>Parent Ego Position:</strong> Authority, care, and judgment</div>`;
+        if (parent.freedom_from_critical_parent_CP) {
+            const cp = parent.freedom_from_critical_parent_CP;
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Freedom from Critical Parent</span><span class="score-badge ${getScoreClass(cp.score || 0)}">${cp.score || 0}/10</span></div>
+                <div class="text-content">
+                    <p><strong>Presence of Coercion:</strong> ${formatText(cp.aanwezigheid_van_dwang || cp.presence_of_coercion || 'N/A')}</p>
+                    <p>${formatText(cp.analyse || cp.analysis)}</p>
+                </div>
+                ${cp.quotes && cp.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${cp.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+        if (parent.healthy_care_NP) {
+            const np = parent.healthy_care_NP;
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Healthy Care (Nurturing Parent)</span><span class="score-badge ${getScoreClass(np.score || 0)}">${np.score || 0}/10</span></div>
+                <div class="text-content">
+                    <p><strong>Presence:</strong> ${formatText(np.aanwezigheid || np.presence || 'N/A')}</p>
+                    <p>${formatText(np.analyse || np.analysis)}</p>
+                </div>
+                ${np.quotes && np.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${np.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+
+        // Adult ego position
+        html += `<div class="section-info">👔 <strong>Adult Ego Position:</strong> Rationality and here-and-now</div>`;
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Adult Presence</span><span class="score-badge ${getScoreClass(adult.score || 0)}">${adult.score || 0}/10</span></div>
+            <div class="text-content">
+                <p><strong>Presence:</strong> ${formatText(adult.aanwezigheid || adult.presence || 'N/A')}</p>
+                <p>${formatText(adult.analyse || adult.analysis)}</p>
+            </div>
+            ${adult.quotes && adult.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${adult.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+        </div>`;
+
+        // Child ego position
+        html += `<div class="section-info">👶 <strong>Child Ego Position:</strong> Emotions, creativity, and adaptation</div>`;
+        if (child.freedom_from_adapted_child_AC) {
+            const ac = child.freedom_from_adapted_child_AC;
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Freedom from Adapted Child</span><span class="score-badge ${getScoreClass(ac.score || 0)}">${ac.score || 0}/10</span></div>
+                <div class="text-content">
+                    <p><strong>Presence of Adaptation:</strong> ${formatText(ac.aanwezigheid_van_aanpassing || ac.presence_of_adaptation || 'N/A')}</p>
+                    <p>${formatText(ac.analyse || ac.analysis)}</p>
+                </div>
+                ${ac.quotes && ac.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${ac.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+        if (child.free_child_FC) {
+            const fc = child.free_child_FC;
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Free Child</span><span class="score-badge ${getScoreClass(fc.score || 0)}">${fc.score || 0}/10</span></div>
+                <div class="text-content">
+                    <p><strong>Presence:</strong> ${formatText(fc.aanwezigheid || fc.presence || 'N/A')}</p>
+                    <p>${formatText(fc.analyse || fc.analysis)}</p>
+                </div>
+                ${fc.quotes && fc.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${fc.quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+            </div>`;
+        }
+
+        // Transaction analysis
+        html += `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Transaction Analysis</span><span class="score-badge ${getScoreClass(transactionAnalysis.communicative_purity_score || 0)}">${transactionAnalysis.communicative_purity_score || 0}/10</span></div>
+            <div class="text-content">
+                <p><strong>Primary Transaction Style:</strong> ${formatText(transactionAnalysis.primary_transaction_style)}</p>
+                <p>${formatText(transactionAnalysis.analysis)}</p>
+                ${transactionAnalysis.ulterior_motives ? `<p style="margin-top:0.5rem;"><strong>Ulterior Motives:</strong> ${formatText(transactionAnalysis.ulterior_motives)}</p>` : ''}
+                ${transactionAnalysis.risk_explanation ? `<div style="background:var(--bg-element); border-left:3px solid var(--danger-color); padding:0.75rem; margin-top:1rem; font-size:0.85rem;"><strong>⚠️ Risk:</strong> ${formatText(transactionAnalysis.risk_explanation)}</div>` : ''}
+            </div>
+        </div>`;
+
+        // Games analysis - only show if games are detected (filter out placeholder "None" entries)
+        const games = (gamesAnalysis.detected_games || []).filter(game =>
+            game.name && game.name !== 'None' && game.name.toLowerCase() !== 'none'
+        );
+        if (games.length > 0) {
+            html += `<div class="section-info">🎭 <strong>Detected Games:</strong> Manipulative patterns in communication</div>`;
+            games.forEach(game => {
+                const formula = game.formula_g_analysis || {};
+                html += `<div class="card">
+                    <div class="card-header"><span class="card-title">${formatText(game.name)}</span><span class="score-badge ${game.probability === 'High' ? 'score-low' : game.probability === 'Medium' ? 'score-mid' : 'score-high'}">${game.probability || 'Unknown'}</span></div>
+                    <div class="text-content">
+                        ${formula.con ? `<p><strong>Con (Bait):</strong> ${formatText(formula.con)}</p>` : ''}
+                        ${formula.gimmick ? `<p><strong>Gimmick (Hook):</strong> ${formatText(formula.gimmick)}</p>` : ''}
+                        ${formula.switch ? `<p><strong>Switch:</strong> ${formatText(formula.switch)}</p>` : ''}
+                        ${formula.payoff ? `<p><strong>Payoff:</strong> ${formatText(formula.payoff)}</p>` : ''}
+                    </div>
+                    ${game.evidence_quotes && game.evidence_quotes.length ? `<div class="quote-box"><span class="quote-header">Evidence</span>${game.evidence_quotes.map(q => formatText(q)).join('<br><br>')}</div>` : ''}
+                </div>`;
+            });
+        }
+
+        // Drama triangle
+        const roles = dramaTriangle.preacher_roles || {};
+        html += `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Drama Triangle Analysis</span></div>
+            <div class="text-content">
+                ${roles.rescuer ? `<p><strong>🦸 Rescuer Role:</strong> ${formatText(roles.rescuer)}</p>` : ''}
+                ${roles.persecutor ? `<p><strong>⚔️ Persecutor Role:</strong> ${formatText(roles.persecutor)}</p>` : ''}
+                ${roles.victim ? `<p><strong>😢 Victim Role:</strong> ${formatText(roles.victim)}</p>` : ''}
+                ${dramaTriangle.congregation_position ? `<p style="margin-top:1rem;"><strong>Congregation Position:</strong> ${formatText(dramaTriangle.congregation_position)}</p>` : ''}
+                ${dramaTriangle.escape_possibilities ? `<div style="background:var(--bg-element); border-left:3px solid var(--success-color); padding:0.75rem; margin-top:1rem; font-size:0.85rem;"><strong>🚪 Escape Possibilities:</strong> ${formatText(dramaTriangle.escape_possibilities)}</div>` : ''}
+            </div>
+        </div>`;
+
+        container.innerHTML = html;
+    }
+
     // --- STATISTICS TAB ---
     let statisticsData = null;  // Precomputed statistics from statistics.json
 
@@ -1743,6 +1905,40 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             if (data.overall_aesthetics?.overall_aesthetic_score) {
                 addScore('Overall', data.overall_aesthetics.overall_aesthetic_score);
             }
+        } else if (analysisType === 'transactional') {
+            // Ego positions scan
+            const egoScan = data.ego_positions_scan || {};
+            const parent = egoScan.parent || {};
+            const child = egoScan.child || {};
+            const adult = egoScan.adult || {};
+
+            if (parent.freedom_from_critical_parent_CP?.score) {
+                addScore('Freedom from Critical Parent', parent.freedom_from_critical_parent_CP.score);
+            }
+            if (parent.healthy_care_NP?.score) {
+                addScore('Nurturing Parent', parent.healthy_care_NP.score);
+            }
+            if (adult.score) {
+                addScore('Adult Presence', adult.score);
+            }
+            if (child.freedom_from_adapted_child_AC?.score) {
+                addScore('Freedom from Adapted Child', child.freedom_from_adapted_child_AC.score);
+            }
+            if (child.free_child_FC?.score) {
+                addScore('Free Child', child.free_child_FC.score);
+            }
+
+            // Transaction analysis
+            const trans = data.transaction_analysis || {};
+            if (trans.communicative_purity_score) {
+                addScore('Communicative Purity', trans.communicative_purity_score);
+            }
+
+            // Overall psychological health score
+            const conclusion = data.conclusion_and_recommendation || {};
+            if (conclusion.psychological_health_score) {
+                addScore('Overall', conclusion.psychological_health_score);
+            }
         }
     }
 
@@ -1810,7 +2006,8 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             'dekker': 'Dekker Analysis',
             'esthetiek': 'Aesthetic Turn',
             'kolb': 'Kolb Learning Cycle',
-            'schulz_von_thun': 'Schulz von Thun'
+            'schulz_von_thun': 'Schulz von Thun',
+            'transactional': 'Transactional Analysis'
         };
 
         let currentAnalysis = null;
@@ -1865,8 +2062,8 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         const chartWidth = width - padding.left - padding.right;
         const chartHeight = height - padding.top - padding.bottom;
 
-        // Scale (0-10 fixed)
-        const scale = chartHeight / 10;
+        // Scale (0-10 fixed, but use 11 for headroom to prevent label clipping)
+        const scale = chartHeight / 11;
 
         // Calculate bar positions
         const numTheologians = selectedTheologians.length;
@@ -2150,7 +2347,8 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
             'dekker': 'Dekker Analysis',
             'esthetiek': 'Aesthetic Turn',
             'kolb': 'Kolb Learning Cycle',
-            'schulz_von_thun': 'Schulz von Thun'
+            'schulz_von_thun': 'Schulz von Thun',
+            'transactional': 'Transactional Analysis'
         };
 
         let currentAnalysis = null;
@@ -2214,8 +2412,8 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
         const chartWidth = width - padding.left - padding.right;
         const chartHeight = height - padding.top - padding.bottom;
 
-        // Scale (0-10 fixed)
-        const scale = chartHeight / 10;
+        // Scale (0-10 fixed, but use 11 for headroom to prevent label clipping)
+        const scale = chartHeight / 11;
 
         // Calculate violin positions
         const numTheologians = selectedTheologians.length;
@@ -2430,6 +2628,7 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
                     else if (data.kolb_phases_analysis) type = 'kolb';
                     else if (data.schulz_von_thun_analysis) type = 'schulz_von_thun';
                     else if (data.domain_a_poetics_of_language) type = 'esthetiek';
+                    else if (data.ego_positions_scan) type = 'transactional';
 
                     renderAnalysis(data, type);
                     renderMetadata(data.metadata);

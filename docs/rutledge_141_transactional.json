@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "First and Second Sundays of Advent",
+    "bible_text": "Mark 13:33–37; Matthew 3:1, 7–10",
+    "notes": "The text focuses on apocalyptic urgency, the 'Advent clock,' and the figure of John the Baptist."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 3,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "High",
+        "analysis": "The preacher utilizes a strong Critical Parent voice to emphasize judgment and the 'axe at the root.' The language of 'must not find us asleep' and 'vipers' creates a coercive atmosphere of urgency.",
+        "quotes": [
+          "If he comes suddenly, he must not find us asleep.",
+          "You brood of vipers!",
+          "Every tree that does not bear good fruit is cut down and thrown into the fire."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 4,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "There is a shift in the second sermon toward a Nurturing Parent who recognizes human inability, but it borders on creating dependency by suggesting the listener has 'no capacity' to save themselves.",
+        "quotes": [
+          "People who have no capacity of ourselves to save ourselves.",
+          "We can receive mercy only from the hand of God."
+        ]
+      }
+    },
+    "adult": {
+      "score": 5,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher provides historical context (1st century church) and linguistic definitions (metanoia), addressing the listener's intellect. However, this is often bypassed by the emotional weight of the 'Crisis.'",
+      "quotes": [
+        "The Greek word metanoia means to turn around, to reorient oneself.",
+        "Come back with me into the very first century AD when the Gospel of Mark was being put together."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 2,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon heavily invites the listener into the Adapted Child position—specifically the 'Fearful Child'—by emphasizing the darkness, the ticking clock, and the threat of the Judge at the door.",
+        "quotes": [
+          "It is dark and lonely and cold.",
+          "Behold, the Judge is standing at the doors.",
+          "If you find this tension almost unbearable at times, then you understand the Christian life."
+        ]
+      },
+      "free_child_FC": {
+        "score": 1,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "There is almost no Free Child presence. Joy is mentioned as a future possibility, but the present experience is defined by 'tension,' 'beating,' and 'shadows.'",
+        "quotes": [
+          "The church is located precisely where the battle line is drawn."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher speaks as an authoritative figure (Parent) to a congregation that is characterized as failing, sleeping, or incapable (Child). The transaction is stable but maintains a hierarchy of spiritual anxiety.",
+    "ulterior_motives": "Socially, it is an exhortation to watchfulness (A->A). Psychologically, it is a message of 'You are not okay' (P->C).",
+    "communicative_purity_score": 4,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'Bait and Switch' is the primary risk: promising the 'joy' of Christmas but delivering the 'axe' of judgment."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "NIGYSOB (Now I've Got You, You Son of a Bitch)",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "The call to 'watch' for the Lord.",
+          "gimmick": "The listener's inherent guilt about being 'distracted' by the world (shopping, Gucci luggage).",
+          "switch": "The Lord is not just coming to save, but as a 'Judge' to catch you sleeping.",
+          "payoff": "The listener feels caught and unworthy; the preacher reinforces the 'darkness' of the human heart.",
+          "evidence_quotes": [
+            "If he comes suddenly, he must not find us asleep.",
+            "The church looks straight down into its own heart and finds there … the absence of God."
+          ]
+        }
+      },
+      {
+        "name": "Ain't It Awful",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "Identifying with the church's struggle.",
+          "gimmick": "Disdain for 'contemporary culture' and 'cheapness.'",
+          "switch": "Moving from shared observation to a state of 'unbearable tension.'",
+          "payoff": "A collective sense of lonely superiority and shared misery against the 'world.'",
+          "evidence_quotes": [
+            "There is a cheapness at the core.",
+            "The church is not part of contemporary culture, and never should have been.",
+            "It is dark and lonely and cold."
+          ]
+        }
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High: Offers the 'power from outside' as the only solution to the listener's total incapacity.",
+      "persecutor": "Medium: Uses the 'axe' and 'vipers' imagery to threaten those who do not bear fruit.",
+      "victim": "Low: Briefly identifies with the church 'taking a beating.'"
+    },
+    "congregation_position": "Victim: The congregation is portrayed as helpless, sleeping, and incapable of even repenting without external force.",
+    "escape_possibilities": "Low. The sermon suggests that autonomy is the problem ('human claims') and that the only solution is total relinquishment to an external power."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 3,
+    "summary": "The sermon is psychologically heavy, relying on the 'Crisis' model of TA. It predominantly occupies the Critical Parent position, using fear and the 'Advent clock' to induce an Adapted Child response in the listener. While theologically orthodox in its emphasis on grace, the psychological delivery creates a 'Double Bind' where the listener is told they must repent but are simultaneously told they have no power to do so. This reinforces dependency on the 'Rescuer' (the preacher/the Word) and maintains a high-anxiety environment (Ain't It Awful).",
+    "strengths": [
+      "Strong use of Adult ego for historical context.",
+      "Clear identification of the 'Gimmick' (materialism) to engage the listener."
+    ],
+    "areas_for_improvement": [
+      "Over-reliance on the 'Persecutor' role (Judgment/Axe).",
+      "Lack of Free Child expression (Joy/Spontaneity) which is essential for authentic faith."
+    ],
+    "advice_for_game_free_communication": "Try moving from Parent-Child to Adult-Adult transactions. Instead of telling the congregation they are 'vipers' or 'incapable,' present the reality of Advent as a choice for a thinking subject. Reduce the 'Ain't It Awful' rhetoric regarding the world to avoid creating a 'fortress' mentality."
+  }
+}

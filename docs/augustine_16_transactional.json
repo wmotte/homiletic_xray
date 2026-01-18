@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Sermon 46: Zacchaeus",
+    "bible_text": "Luke 19:1–10; 1 Corinthians 1:25; John 8:56",
+    "notes": "A classic homiletic structure moving from narrative exposition to moral application."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 4,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The sermon shifts in §4 to a demanding tone. It uses rhetorical questions to challenge the listener's identity and 'musts' regarding imitation.",
+        "quotes": [
+          "How can you assume a name which neither your works nor your nature authenticates?",
+          "How can you flatter yourself with the title of 'son' when you don’t prove sonship...?"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 6,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The preacher provides comfort by lowering the bar for entry at the end, ensuring the 'child' feels the task is achievable.",
+        "quotes": [
+          "Reject such empty pretexts, for a small donation will earn you a magnificent reward."
+        ]
+      }
+    },
+    "adult": {
+      "score": 5,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The first half is an objective analysis of the text. However, the 'Adult' is sidelined in the application phase in favor of a Parent-Child dynamic.",
+      "quotes": [
+        "He divided his entire fortune into two parts: one to perform works of mercy, the other to right all the wrongs..."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 3,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The listener is pressured to 'prove' their sonship through works, triggering the Adapted Child's fear of not belonging or being a 'fraud'.",
+        "quotes": [
+          "If you want to belong to your Father, do like Zacchaeus...",
+          "two persons wouldn’t bear the same name if their deeds were diametrically opposite."
+        ]
+      },
+      "free_child_FC": {
+        "score": 4,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "There is a brief moment of 'joy' mentioned, but it is a prescribed joy ('quake with joy') rather than spontaneous.",
+        "quotes": [
+          "Praise God and quake with joy, Zacchaeus..."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent (in application phase)"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher acts as the authoritative interpreter and moral judge, placing the congregation in the position of the student/child who must prove their worth.",
+    "ulterior_motives": "Social: 'Let us look at Zacchaeus.' Psychological: 'You are not living up to the name of Christian unless you give money.'",
+    "communicative_purity_score": 5,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'Bait and Switch' from the grace shown to Zacchaeus to the demands placed on the listener creates a double bottom where 'salvation' is actually 'earned'."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Bait & Switch",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The promise of 'boundless generosity' and 'divine blessing' seen in Zacchaeus.",
+          "gimmick": "The listener's desire to be a 'son of God' and fear of being a 'fraud'.",
+          "switch": "The shift from Jesus seeking Zacchaeus to the listener having to 'prove sonship' by works.",
+          "payoff": "The listener feels the weight of obligation; the preacher maintains moral authority."
+        },
+        "evidence_quotes": [
+          "Zacchaeus deserved the name... because his will was conformed to God’s.",
+          "How can you flatter yourself with the title of 'son' when you don’t prove sonship...?"
+        ]
+      }
+    ],
+    "absence_of_games_analysis": null
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. Offers the 'small donation' as the easy way to 'merit' the reward.",
+      "persecutor": "Medium. Questions the authenticity of the listener's faith and nature.",
+      "victim": "None detected."
+    },
+    "congregation_position": "Victim (inadequate/short) who needs to be Rescued by following the preacher's instructions.",
+    "escape_possibilities": "Minimal. The sermon concludes with a command rather than an invitation to Adult reflection."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 4,
+    "summary": "The sermon begins with a beautiful narrative (Adult/Free Child) but devolves into a Critical Parent/Adapted Child dynamic. It creates a psychological 'bind' where the listener's identity as a child of God is contingent upon performance. While it offers a 'low bar' for entry (a cup of water), the underlying logic is one of merit and proof rather than unconditional grace, potentially fostering a 'guilt-compliance' cycle in the listener.",
+    "strengths": [
+      "Vivid narrative description of the biblical scene.",
+      "Encourages practical altruism (giving to the poor)."
+    ],
+    "areas_for_improvement": [
+      "The shift from 'grace' to 'merit' is psychologically jarring.",
+      "The use of shaming rhetorical questions ('How can you flatter yourself...')."
+    ],
+    "advice_for_game_free_communication": "Try moving to an Adult-Adult transaction. Instead of asking 'How can you call yourself a son?', ask 'In what ways does Zacchaeus's joy spark a desire for generosity in your own life today?' This invites reflection rather than defensive adaptation."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Orphans Come Home",
+    "bible_text": "Isaiah 49:8–16a; Psalm 131; Matthew 6:33",
+    "notes": "The sermon employs parental imagery (Mother/Father God) to address social anxiety and political responsibility."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 7,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The preacher avoids direct shaming but uses CP to diagnose societal ills ('scavengers and cheats'). The coercion is subtle, framed as a 'mandate' following a 'gift'.",
+        "quotes": [
+          "we readily become scavengers and cheats and corner cutters",
+          "doing damage to the body politic because we think only of ourselves"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 4,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is the dominant voice. However, it risks being 'smothering' by infantilizing the listener as a 'weaned child' or 'chick', potentially creating a dependency on the preacher's 'reminding' role.",
+        "quotes": [
+          "I am the one who gets to remind you of your real family",
+          "This is a mother who gathers all the children like a hen gathers the chicks"
+        ]
+      }
+    },
+    "adult": {
+      "score": 6,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher uses Adult logic to connect theological concepts to social realities (redistribution, prison reform). However, the 'Adult' is often bypassed by the emotional appeal of the 'Parent' imagery.",
+      "quotes": [
+        "it is the poor who fill the prisons, who have no other chance for rehabilitation",
+        "redistribute the resources so that all may live"
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 5,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Medium",
+        "analysis": "The sermon identifies the 'Anxious Child' (AC) in the congregation but attempts to move them toward a 'Covenant' role. Yet, the 'mandate' requires a new form of adaptation to the preacher's social vision.",
+        "quotes": [
+          "they cower in despair at being abandoned",
+          "we can quit acting like motherless, fatherless people"
+        ]
+      },
+      "free_child_FC": {
+        "score": 6,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a sense of poetic wonder and joy in the imagery of God's 'nursing' and 'writing names', which appeals to the Free Child's capacity for awe.",
+        "quotes": [
+          "God, even before Sarah Palin did it, wrote the important stuff",
+          "energy and freedom and courage for the family"
+        ]
+      }
+    },
+    "dominant_ego_position": "Nurturing Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher assumes a high-status NP position ('I am the one who gets to remind you') and addresses the congregation as children (orphans). This creates a stable, comforting, but hierarchical transaction.",
+    "ulterior_motives": "Social: A->A (Let's look at the text). Psychological: NP->AC (I will comfort you if you agree to my social mandate).",
+    "communicative_purity_score": 6,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'Bait' is the comfort of the Mother/Father God; the 'Switch' is the immediate transition into a heavy social/political mandate (redistribution, prison work)."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "ITHY (I'm Only Trying To Help You)",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "God is your perfect mother/father who provides everything.",
+          "gimmick": "The listener's fear of abandonment and financial anxiety.",
+          "switch": "Since you are 'resourced,' you must now solve systemic social issues.",
+          "payoff": "The listener feels inadequate to 'establish the land,' returning to the preacher for more 'reminding'."
+        },
+        "evidence_quotes": [
+          "I am the one who gets to remind you...",
+          "The mandate of being a covenant goes like this... to redistribute the resources"
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon avoids 'NIGYSOB' by being inclusive, but it flirts with 'Ain't It Awful' regarding the state of society to build the need for the 'Parental' solution."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. The preacher 'reminds' the 'orphans' of their status to save them from anxiety.",
+      "persecutor": "Low. Only appears when describing 'scavengers and cheats' in society.",
+      "victim": "Low. The preacher remains in a position of strength."
+    },
+    "congregation_position": "Pushed into the 'Victim' role (orphans, anxious, cowering) to be 'Rescued' by the message.",
+    "escape_possibilities": "The move toward 'Covenant' is an attempt at Adult autonomy, but it is framed as a 'summons' from the Parent, which may keep the listener in the triangle."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 5,
+    "summary": "The sermon is a classic example of Nurturing Parent homiletics. While it offers profound emotional comfort and addresses real-world issues, it relies heavily on infantilizing the congregation ('orphans', 'chicks', 'children') to establish authority. The transition from the 'comfort' of the Gospel to the 'mandate' of social justice is a psychological 'Bait and Switch'—using the security of the Child to demand the labor of the Adult without fully engaging the listener's own Adult reasoning process.",
+    "strengths": [
+      "High emotional resonance and use of poetic imagery.",
+      "Successfully connects ancient texts to contemporary social anxieties."
+    ],
+    "areas_for_improvement": [
+      "The 'I am the one who gets to remind you' opening is a high-Parent stance that inhibits Adult-Adult dialogue.",
+      "The leap from 'nursing child' to 'redistributing resources' is psychologically jarring."
+    ],
+    "advice_for_game_free_communication": "Try speaking from the Adult position: 'Let us examine how these texts might change our view of security,' rather than 'I am here to remind you who your parents are.' This invites the listener to process data rather than just react to parental care/demands."
+  }
+}

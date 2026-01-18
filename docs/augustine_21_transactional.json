@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-23",
+    "sermon_title": "Sermon 67: On Fasting",
+    "bible_text": "Isaiah 1:13, Isaiah 58:5–9",
+    "notes": "A classic penitential sermon focusing on the internal disposition versus external ritual."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 2,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "High",
+        "analysis": "The preacher adopts a stern, judgmental tone, speaking on behalf of a 'disgusted' God. The language is imperative and shaming, focusing on the listener's 'obstinate' imperfections.",
+        "quotes": [
+          "you will positively fill him with disgust",
+          "Why torture your body by fasting if you shamefully cater to it by sinning?",
+          "it’d all be in vain"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 3,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Low",
+        "analysis": "Care is highly conditional. The 'Nurturing' aspect only appears as a reward for total compliance, functioning more as a bribe than unconditional support.",
+        "quotes": [
+          "your light shall break forth like the dawn",
+          "God may receive you into his kingdom"
+        ]
+      }
+    },
+    "adult": {
+      "score": 4,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "There is a logical structure (if X, then Y), but the 'data' is theological dogma rather than reality-testing. The listener is treated as a subject who must calculate their 'title to God’s favor.'",
+      "quotes": [
+        "As you can see, this kind of fasting is motivated, not by... but, rather, by a true understanding"
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 2,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon explicitly invites the Adapted Child (AC) position through fear of God's disgust and the demand for 'humiliating your soul.' It reinforces a compliance-based relationship with the divine.",
+        "quotes": [
+          "humiliating your soul",
+          "Force your heart to abstain"
+        ]
+      },
+      "free_child_FC": {
+        "score": 1,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "Spontaneity and joy are absent. Even the 'blessed fruits' feel like calculated outcomes of a rigid process rather than Free Child vitality.",
+        "quotes": []
+      }
+    },
+    "dominant_ego_position": "Critical Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher speaks from a position of moral superiority (CP) to a listener presumed to be failing or hypocritical (AC). This creates a stable but dependency-heavy transaction.",
+    "ulterior_motives": "Socially, the sermon is about 'virtue.' Psychologically, it is a 'Bait & Switch' where the promise of God's presence is used to enforce strict behavioral control.",
+    "communicative_purity_score": 3,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' lies in the definition of charity; it is presented as a gift, but used as a tool to avoid 'divine disgust,' making the charity a self-serving act of fear."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "NIGYSOB (Now I've Got You, You Son of a Bitch)",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The call to religious devotion (fasting).",
+          "gimmick": "The listener's guilt over their secret 'vices' or 'passions'.",
+          "switch": "The preacher points out that even with fasting, the listener is still 'shamefully catering' to sin.",
+          "payoff": "The listener feels worthless/disgusting; the preacher feels righteous/justified in their rebuke."
+        },
+        "evidence_quotes": [
+          "Why torture your body by fasting if you shamefully cater to it by sinning?"
+        ]
+      },
+      {
+        "name": "Bait & Switch",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "The promise of 'God’s favor' and 'unfailing holiness'.",
+          "gimmick": "The desire for spiritual security.",
+          "switch": "The sudden imposition of an impossible standard of 'cleansing the conscience' before the fast is valid.",
+          "payoff": "The listener remains in a state of perpetual 'trying' and 'failing,' ensuring the preacher's role remains necessary."
+        },
+        "evidence_quotes": [
+          "Divine benevolence couldn’t lean down toward you, because you’d have violated the duty of charity."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Offers the 'true fasting' as a way to save the soul from God's disgust.",
+      "persecutor": "Accuses the listener of hypocrisy, 'obstinacy,' and 'shameful' behavior.",
+      "victim": "Implicitly: The Holy Spirit/God is the victim of the listener's 'disgusting' behavior."
+    },
+    "congregation_position": "The congregation is pushed into the Victim role—helplessly trapped between their 'passions' and a 'disgusted' God, needing the preacher to dictate the terms of escape.",
+    "escape_possibilities": "Minimal. The sermon suggests that only through more 'works' can one escape, which merely moves the listener to a different corner of the triangle (Rescuer of the poor) rather than toward Adult autonomy."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 2,
+    "summary": "This sermon is psychologically heavy and coercive. It utilizes a dominant Critical Parent ego position to induce guilt and shame in the listener (Adapted Child). While the theological intent is to promote social justice (charity over ritual), the psychological delivery relies on the threat of divine rejection and the 'NIGYSOB' game. This creates a 'transactional' faith where God's love is a commodity bought with 'good works,' potentially leading to religious scrupulosity and a lack of authentic, Free Child joy.",
+    "strengths": [
+      "Strong call to social responsibility and ethical living.",
+      "Clear rejection of empty, hypocritical ritualism."
+    ],
+    "areas_for_improvement": [
+      "Heavy reliance on shame-based motivation.",
+      "Conditional presentation of Divine Grace.",
+      "Lack of Adult-to-Adult invitation for the listener to reflect on their own motivations."
+    ],
+    "advice_for_game_free_communication": "Shift from 'You must/God is disgusted' (CP) to 'Let us observe the effects of our actions' (Adult). Instead of threatening the listener with God's withdrawal, explore the inherent beauty of charity from a Free Child perspective—focusing on the joy of the 'other' rather than the 'cleansing' of the self."
+  }
+}

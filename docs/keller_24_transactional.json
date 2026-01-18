@@ -1,0 +1,108 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Prayer for the World",
+    "bible_text": "Psalm 98",
+    "notes": "The sermon addresses the tension between divine judgment and joy, utilizing cultural references (Tolkien, Spielberg) to bridge the gap."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 8,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher avoids 'shaming' the listener into obedience. Instead of using 'must' as a threat, he frames the law as a 'conundrum' to be solved. The CP is present only in the description of the 'conservative spirit' or 'abused child' which he then deconstructs.",
+        "quotes": [
+          "God will judge you on your own moral standards, and nobody will live up to their own moral standards."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 7,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The preacher uses NP to offer comfort regarding death and injustice, but maintains enough distance to avoid 'smothering' the listener's autonomy.",
+        "quotes": [
+          "You're not an orphan. There's a God right by your side."
+        ]
+      }
+    },
+    "adult": {
+      "score": 9,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "High",
+      "analysis": "The sermon is highly analytical. It uses a 'conundrum' (logical puzzle) to engage the listener's Adult. It processes sociological data (postmodernism) and literary themes objectively.",
+      "quotes": [
+        "Let me give you the essence of this conundrum.",
+        "I think there are two good answers, and they’re both right. One is a more sociological answer."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 9,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher explicitly tries to move the listener out of the AC position ('Transforms a slave into a child') by removing the threat of the 'Persecutor' God.",
+        "quotes": [
+          "Transforms a slave into a child and duty into choice."
+        ]
+      },
+      "free_child_FC": {
+        "score": 7,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "The use of fairy tales, Peter Pan, and Tolkien appeals to the Free Child's sense of wonder and 'memory traces' of joy.",
+        "quotes": [
+          "The stories are true.",
+          "We’ll start to blossom in places we didn’t even know we had buds."
+        ]
+      }
+    },
+    "dominant_ego_position": "Adult"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult",
+    "analysis": "The preacher primarily engages the listener's intellect to solve a theological puzzle. He treats the listener as a peer capable of following a complex argument about postmodernism and covenant law.",
+    "ulterior_motives": "The psychological 'bottom' is an invitation for the Child to feel safe (NP -> FC), but it is done through an Adult explanation of the Cross.",
+    "communicative_purity_score": 9,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "Low risk. The preacher is transparent about his goal: to resolve the tension between law and love."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "None",
+        "probability": "Low",
+        "formula_g_analysis": {
+          "con": "N/A",
+          "gimmick": "N/A",
+          "switch": "N/A",
+          "payoff": "N/A"
+        },
+        "evidence_quotes": []
+      }
+    ],
+    "absence_of_games_analysis": "The preacher avoids ITHY (I'm Only Trying To Help You) by not offering a 'simple' fix that leads to failure. Instead, he points to a historical/theological event (the Cross) as the solution, rather than the listener's own effort. He avoids NIGYSOB by admitting that everyone (including himself) fails their own standards."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Low. He points to Jesus as the Rescuer rather than his own advice.",
+      "persecutor": "None. He explicitly argues against a persecutory view of God.",
+      "victim": "Low. Mentions jury duty as a shared human experience, not to garner pity."
+    },
+    "congregation_position": "The congregation is invited out of the 'Victim' role (helplessness under judgment) into 'Autonomy' (choice).",
+    "escape_possibilities": "The sermon offers an escape by redefining the 'Judge' as the one who pays the fine, thus dissolving the Drama Triangle."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 9,
+    "summary": "This sermon is psychologically robust and remarkably 'game-free.' By utilizing a strong Adult ego position to address the Critical Parent/Adapted Child dynamic (the 'abused child' vs 'neglected child' metaphor), the preacher promotes autonomy and emotional security. The use of Free Child imagery (fairy tales) provides a healthy emotional payoff without the need for manipulative 'switches.'",
+    "strengths": [
+      "High Adult engagement through logical problem-solving.",
+      "Effective deconstruction of the Drama Triangle.",
+      "Promotion of 'Duty into Choice' (Autonomy)."
+    ],
+    "areas_for_improvement": [
+      "The 'conundrum' structure is very intellectual; more Free Child 'spontaneity' could balance the heavy Adult processing."
+    ],
+    "advice_for_game_free_communication": "Continue to use the 'Adult' to explain the 'Parental' aspects of theology. This prevents the listener from slipping into a fearful 'Adapted Child' state."
+  }
+}

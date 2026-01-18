@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "analysis_date": "2023-10-27",
+    "sermon_title": "We Will Be There",
+    "bible_text": "Matthew 25:31–46; Philippians 2:10–11; Romans 14:10",
+    "notes": "Delivered on Stewardship Sunday / Christ the King Sunday."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 3,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "High",
+        "analysis": "The preacher utilizes a 'Double-Bind' CP. He quotes an article to induce guilt, then uses the CP voice to tell the audience they shouldn't feel guilty while simultaneously proving why they are inadequate.",
+        "quotes": [
+          "Prepare to feel a little guilty.",
+          "If even that Berkshire Eagle reporter knows that our good-deeds checklist is going to come up short, Jesus is certainly going to know it.",
+          "He who thinks himself safe is in the greatest danger."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 4,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "Nurturing Parent appears at the end to 'rescue' the listener from the Critical Parent's judgment, but it functions more as a relief from the pressure the preacher himself created.",
+        "quotes": [
+          "He cares so much for the least, the last, and the lost that he is willing to die even for such poor specimens as you and me."
+        ]
+      }
+    },
+    "adult": {
+      "score": 5,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "There is Adult processing regarding the historical context of Jesus and the logistics of church budgeting, but it is frequently hijacked by Parent-Child dynamics regarding 'guilt' and 'judgment'.",
+      "quotes": [
+        "If we get our finances on a solid footing, we can begin to move out in mission and service."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 2,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon heavily invites the Adapted Child (AC) through fear of judgment and the shame of 'coming up short.' The preacher even models his own AC by confessing his 'weak moment' at Tanglewood.",
+        "quotes": [
+          "The man who trembles to think of himself before the judgment seat is closer to the kingdom of heaven.",
+          "It should make our brains crunch just to think about it."
+        ]
+      },
+      "free_child_FC": {
+        "score": 4,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "FC is mostly suppressed by the 'overwhelming gravity' of the subject, though a small amount of authentic vulnerability appears in the preacher's personal anecdotes.",
+        "quotes": [
+          "I love to see my name among the patrons. It makes me feel like a big shot."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent (masked as Nurturing Parent)"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher establishes a hierarchy where he (as the voice of the Gospel/Law) evaluates the listener's 'checklist.' Even when he includes himself ('we'), the structural transaction remains P->C.",
+    "ulterior_motives": "Social: 'Let's reflect on Christ's kingship.' Psychological: 'You are not doing enough; give more money to resolve the resulting anxiety.'",
+    "communicative_purity_score": 4,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'Bait and Switch' regarding guilt is a significant double bottom. He says 'don't give if you feel manipulated,' yet the entire preceding 15 minutes is a masterclass in psychological leverage."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Bait & Switch / Redemption",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The promise of 'Christ the King' and 'Grace'.",
+          "gimmick": "The listener's fear of the 'Final Judgment' and social inadequacy (the Moritz example).",
+          "switch": "Moving from the 'Good News' to the 'Short Checklist' and the need for pledges.",
+          "payoff": "The listener feels 'saved' only by complying with the stewardship drive."
+        },
+        "evidence_quotes": [
+          "If this stewardship message makes you feel guilty... I suggest you not give a single cent. [Following a detailed explanation of why they should feel guilty]."
+        ]
+      },
+      {
+        "name": "NIGYSOB (Now I've Got You, You Son of a Bitch)",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "Comparing the listener to extreme saints (the Moritzes).",
+          "gimmick": "The listener's comfort/wealth.",
+          "switch": "Pointing out that even the newspaper knows they are failing.",
+          "payoff": "Moral superiority of the preacher's 'honest' assessment of the congregation's failure."
+        },
+        "evidence_quotes": [
+          "If even that Berkshire Eagle reporter knows that our good-deeds checklist is going to come up short, Jesus is certainly going to know it."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. He offers the 'pledge' and 'mercy' as the way out of the judgment he just described.",
+      "persecutor": "Medium. He uses the 'Goats' and the 'Short Checklist' to pressure the congregation.",
+      "victim": "Low. Briefly appears when mentioning the church's financial needs ('If we do not...')."
+    },
+    "congregation_position": "Victim (of their own 'short checklists' and the 'eternal fire').",
+    "escape_possibilities": "The sermon offers a theological escape (Grace), but psychologically ties it to a specific action (Pledging), which maintains the triangle."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 4,
+    "summary": "The sermon is a sophisticated example of using 'Religious Parent' ego states to drive 'Adapted Child' behavior. While theologically orthodox, the psychological movement relies on creating a deficit (guilt/short checklists) and then offering a specific institutional solution (stewardship). The preacher's self-deprecation acts as a 'Con' to make the Critical Parent position more palatable.",
+    "strengths": [
+      "High level of self-awareness regarding personal motives (Tanglewood anecdote).",
+      "Strong Adult processing of the biblical text's 'crunchy' reality."
+    ],
+    "areas_for_improvement": [
+      "Heavy reliance on shame-based motivation ('short checklists').",
+      "The 'Don't give if you feel manipulated' line is a classic double-bind that actually increases pressure."
+    ],
+    "advice_for_game_free_communication": "Shift from 'Parent-Child' (Judgment/Compliance) to 'Adult-Adult' (Shared Responsibility). Instead of using the Moritzes as a 'Critical Parent' stick to beat the congregation, use them as a 'Free Child' inspiration for what is possible when one is free from the love of money."
+  }
+}

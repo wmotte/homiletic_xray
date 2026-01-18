@@ -40,7 +40,7 @@ def parse_filename(filename: str) -> tuple[str, str, str] | None:
     theologian = parts[0]
 
     # Known analysis types (including multi-part ones)
-    KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek']
+    KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek', 'transactional']
 
     # Find where the analysis type starts by looking for known analysis types
     analysis_start_idx = None
@@ -204,6 +204,34 @@ def extract_scores(data: dict, analysis_type: str, detailed: bool = False) -> di
 
         if data.get('overall_aesthetics', {}).get('overall_aesthetic_score'):
             add_score('Overall', data['overall_aesthetics']['overall_aesthetic_score'])
+
+    elif analysis_type == 'transactional':
+        # Ego positions scan
+        ego_scan = data.get('ego_positions_scan', {})
+        parent = ego_scan.get('parent', {})
+        child = ego_scan.get('child', {})
+        adult = ego_scan.get('adult', {})
+
+        if parent.get('freedom_from_critical_parent_CP', {}).get('score'):
+            add_score('Freedom from Critical Parent', parent['freedom_from_critical_parent_CP']['score'])
+        if parent.get('healthy_care_NP', {}).get('score'):
+            add_score('Nurturing Parent', parent['healthy_care_NP']['score'])
+        if adult.get('score'):
+            add_score('Adult Presence', adult['score'])
+        if child.get('freedom_from_adapted_child_AC', {}).get('score'):
+            add_score('Freedom from Adapted Child', child['freedom_from_adapted_child_AC']['score'])
+        if child.get('free_child_FC', {}).get('score'):
+            add_score('Free Child', child['free_child_FC']['score'])
+
+        # Transaction analysis
+        trans = data.get('transaction_analysis', {})
+        if trans.get('communicative_purity_score'):
+            add_score('Communicative Purity', trans['communicative_purity_score'])
+
+        # Overall psychological health score
+        conclusion = data.get('conclusion_and_recommendation', {})
+        if conclusion.get('psychological_health_score'):
+            add_score('Overall', conclusion['psychological_health_score'])
 
     return scores
 

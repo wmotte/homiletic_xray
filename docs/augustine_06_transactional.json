@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Sermon 20: On Confessing Our Sins",
+    "bible_text": "Psalm 51, Psalm 41, Psalm 141, Ezekiel 18, Sirach 5",
+    "notes": "Classic patristic/homiletic style utilizing rhetorical dialogue (diatribe) to address the listener's conscience."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 2,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "High",
+        "analysis": "The preacher heavily utilizes the Critical Parent to shame the listener. The language is prescriptive and judicial, focusing on punishment and the 'tribunal of conscience.'",
+        "quotes": [
+          "Punish it yourself so as not to be punished for it.",
+          "Mount the tribunal of your conscience, and stand there before yourself.",
+          "You no longer have any excuse, do you?"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 4,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "There is a 'doctor' metaphor, but it is quickly overshadowed by the judge metaphor. The care is conditional upon the listener's submission to the preacher's logic.",
+        "quotes": [
+          "The Son of Man has come to seek and save what was lost.",
+          "I’ll share with you some insights the Lord has granted me."
+        ]
+      }
+    },
+    "adult": {
+      "score": 5,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher uses logic and reality-testing (e.g., the value of a long life vs. a good life), but it is a 'Parental Adult'—using logic to corner the listener rather than to foster independent choice.",
+      "quotes": [
+        "If you can show me in the Holy Bible where God has promised you a tomorrow... I’ll agree with you.",
+        "Why not, instead, seek long-lasting goodness?"
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 1,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon explicitly invites the listener into the Adapted Child position through fear of 'sudden wrath' and 'vengeance.' It demands compliance to avoid punishment.",
+        "quotes": [
+          "Lest you damn yourself through despair.",
+          "On the day of vengeance you will be destroyed."
+        ]
+      },
+      "free_child_FC": {
+        "score": 2,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "The 'Free Child' is only present in the rhetorical wit and the 'gladiator' imagery, but it is not used to promote joy, only to sharpen the sting of the argument.",
+        "quotes": [
+          "Why not today? Why not now while I’m talking and you’re listening?"
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher establishes a hierarchy where he is the 'steward of the word' (Parent) and the listener is the 'poor wretch' or 'sinful soul' (Child). The dialogue is a series of traps designed to force the Child into submission.",
+    "ulterior_motives": "Socially, it is an invitation to grace (A->A); Psychologically, it is a threat of destruction (P->C).",
+    "communicative_purity_score": 3,
+    "purity_explanation": "10 = Completely transparent. 0 = Highly manipulative.",
+    "risk_explanation": "The 'double bottom' is the promise of mercy that is only accessible through self-punishment and psychological self-flagellation."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "NIGYSOB (Now I've Got You, You Son of a Bitch)",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The promise of a 'pure heart' and 'divine grace.'",
+          "gimmick": "The listener's fear of death and desire for a 'good life.'",
+          "switch": "The move from 'God is a doctor' to 'You must be your own judge and executioner.'",
+          "payoff": "The listener feels trapped and guilty; the preacher feels righteous and in control."
+        },
+        "evidence_quotes": [
+          "See? You no longer have any excuse, do you?",
+          "Now go and confess your sins, lest you be condemned."
+        ]
+      },
+      {
+        "name": "Bait & Switch",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "God's mercy and the 'glory of divine grace.'",
+          "gimmick": "The sinner's need for healing.",
+          "switch": "The shift to 'God's wrath will flame forth suddenly.'",
+          "payoff": "The listener is left in a state of 'salutary fear' rather than peace."
+        },
+        "evidence_quotes": [
+          "I’ll share with you some insights... into our text [Grace]... For suddenly his wrath will flame forth [Law]."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High: Offers the 'remedy of confession' to save the soul from the devil.",
+      "persecutor": "High: Becomes the voice of the 'tribunal,' telling the listener they have no excuse.",
+      "victim": "Low: Only present in the 'poor wretch' description of the sinner (preacher identifying with the state, but speaking from above it)."
+    },
+    "congregation_position": "The congregation is pushed into the Victim role (helpless sinner) and then pressured to become their own Persecutor ('punish it yourself').",
+    "escape_possibilities": "The sermon offers no escape to autonomy; the only 'way out' is total submission to the Parent's demands."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 2,
+    "summary": "This sermon is a masterclass in psychological coercion. While theologically grounded in the necessity of repentance, its delivery is dominated by the Critical Parent. It utilizes 'Formula G' by baiting the listener with the promise of a 'pure heart' and then switching to a judicial trap where the listener is forced to 'punish' themselves to avoid God's punishment. The use of the Drama Triangle is pervasive, as the preacher rotates between a Rescuer (offering the cure) and a Persecutor (demanding self-judgment). The psychological impact is likely to produce 'Adapted Child' compliance based on fear rather than 'Free Child' transformation based on love.",
+    "strengths": [
+      "Strong rhetorical logic and use of analogy.",
+      "High engagement with the listener's internal monologue."
+    ],
+    "areas_for_improvement": [
+      "Over-reliance on fear and the 'Critical Parent' ego state.",
+      "Lack of 'Adult-to-Adult' invitation for the listener to choose goodness for its own sake rather than out of terror."
+    ],
+    "advice_for_game_free_communication": "Shift from the 'Tribunal' metaphor to a 'Partnership' metaphor. Instead of cornering the listener with 'You have no excuse,' try asking Adult questions that allow the listener to discover their own need for change without the threat of 'sudden wrath' as the primary motivator."
+  }
+}

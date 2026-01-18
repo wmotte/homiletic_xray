@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Frodo and Free Will",
+    "bible_text": "Romans 7:15–20; 8:2",
+    "notes": "Preached to Episcopal/Presbyterian audiences; utilizes pop-culture (Tolkien) to address Reformed theology."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 8,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher avoids 'shaming' the listener into behavior. Instead, he uses the CP to critique the 'American Gospel of Free Will.' The judgment is directed at a theological concept rather than the congregation's character.",
+        "quotes": [
+          "This is the gospel that many like to inflict on others.",
+          "American Christians don’t like this train of thought."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 9,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is strong, offering 'sweet, pleasant and unspeakable comfort.' It promotes autonomy by suggesting that being 'chosen' provides the security needed to act bravely.",
+        "quotes": [
+          "It did indeed seem like 'sweet, pleasant and unspeakable comfort' to me—and it does still.",
+          "I pray this evening that many of you, right now, will see yourselves in the midst of this story."
+        ]
+      }
+    },
+    "adult": {
+      "score": 8,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "High",
+      "analysis": "The preacher engages the listener as a thinking subject, citing literature (Faulkner), psychology (Freud), and history. He acknowledges the difficulty of the paradox without demanding blind submission.",
+      "quotes": [
+        "As I grew older and studied theology more seriously, I began to hear more about people’s horror of 'predestination.'",
+        "Ransom could not, for the life of him, see any difference between these two statements."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 9,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher explicitly rejects the 'robot/puppet' role often associated with predestination, inviting the listener out of the fear of losing control.",
+        "quotes": [
+          "If we have no capacity to choose the right thing, doesn’t that make us robots, mere puppets?"
+        ]
+      },
+      "free_child_FC": {
+        "score": 7,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a playful use of cultural references (mustard, Bob Dole, Lord of the Rings) that engages the Free Child's imagination and curiosity.",
+        "quotes": [
+          "I used to sneak a look at the Thirty-Nine Articles when I got bored with the sermon.",
+          "Should I learn more about mustard?"
+        ]
+      }
+    },
+    "dominant_ego_position": "Adult-supported Nurturing Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult (with NP warmth)",
+    "analysis": "The preacher primarily uses an Adult-to-Adult transaction to deconstruct a psychological/theological problem. He invites the listener to observe their own internal 'bondage' (mustard, diets) as data.",
+    "ulterior_motives": "The preacher uses a 'Social: Adult-Adult' discussion about literature to deliver a 'Psychological: Parent-Child' message of safety and being 'chosen.'",
+    "communicative_purity_score": 8,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'Bait and Switch' risk is present (using Frodo to sell Predestination), but it is handled with transparency rather than coercion."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Bait & Switch (Subverted)",
+        "probability": "Low",
+        "formula_g_analysis": {
+          "con": "Talk about a popular movie (Frodo).",
+          "gimmick": "The listener's desire for entertainment/relevance.",
+          "switch": "Moving from the movie to the 'bondage of the will.'",
+          "payoff": "Instead of a negative payoff (guilt), the preacher offers 'comfort.'"
+        },
+        "evidence_quotes": [
+          "Now we have arrived at Frodo and The Lord of the Rings."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon avoids NIGYSOB by identifying with the listener's struggle ('we are all our own worst enemies') rather than standing above them."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Low. He points to 'Another Point of Power' rather than himself as the solution.",
+      "persecutor": "Low. He critiques the 'Free Will' doctrine but not the people holding it.",
+      "victim": "Low. He shares personal boredom/struggles as an equal."
+    },
+    "congregation_position": "The congregation is invited to move from 'Victim of Sin' to 'Empowered Agent' through the paradox of grace.",
+    "escape_possibilities": "The sermon offers a clear exit from the triangle by defining 'perfect freedom' as service to a higher will, bypassing the need for Rescuer/Victim dynamics."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 9,
+    "summary": "This sermon is psychologically robust. It utilizes Transactional Analysis principles by addressing the listener's Adult ego to process the reality of internal conflict (Romans 7) while using the Nurturing Parent to provide the security (Predestination) necessary for the Free Child to act. It avoids the common 'Religious Game' of making the listener feel like a 'bad child' for failing to have a 'stronger will.' Instead, it validates the experience of the 'bound will' as a universal human condition, thereby reducing shame and promoting authentic action.",
+    "strengths": [
+      "High Adult-to-Adult engagement through relatable examples.",
+      "Deconstruction of the 'Critical Parent' voice in religion (the 'musts' of self-help).",
+      "Use of the Free Child's imagination (Tolkien) to explain complex dogma."
+    ],
+    "areas_for_improvement": [
+      "The 'mustard' analogy, while funny, could be seen as trivializing the deeper 'bondage' for those with severe addictions.",
+      "Slight risk of 'Smothering Parent' by presenting predestination as only 'sweet' without addressing the Adult's logical 'Why?' regarding those not chosen."
+    ],
+    "advice_for_game_free_communication": "Continue to use self-disclosure of your own 'Adult' processing (e.g., being bored with sermons) to maintain a level playing field with the congregation."
+  }
+}
