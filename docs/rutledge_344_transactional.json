@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "analysis_date": "2023-10-27",
+    "sermon_title": "The Hour of Glory",
+    "bible_text": "Gospel of John (Various)",
+    "notes": "Good Friday evening service; focuses on the substitutionary atonement and the victory of Christ."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 4,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The CP is present in the theological insistence on total human depravity and the 'prison house of sin.' It uses the 'must' of dogma to override individual agency.",
+        "quotes": [
+          "We cannot take away our own sin because we are slaves to it",
+          "For our sins this is thy pain.... For they are ours, Lord, our deeds, our deeds."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 6,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The preacher offers comfort through the 'Nurturing Parent' role, but it is a care that requires the listener to first accept a state of total helplessness (Victim).",
+        "quotes": [
+          "It is the highest privilege of the year for me to be here with you.",
+          "Dearly beloved in Christ: Believe tonight. Take him into your heart."
+        ]
+      }
+    },
+    "adult": {
+      "score": 5,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "There is a clear Adult effort to process historical and linguistic data (the term 'the Jews', translation of 'tetelestai'). However, the Adult is eventually dismissed in favor of 'belief' over 'scholarship.'",
+      "quotes": [
+        "John sometimes seems to use the term 'the Jews' to mean, more or less, 'the religious authorities.'",
+        "A better translation would be 'It is accomplished.'"
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 3,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon heavily invites the Adapted Child (AC) to feel guilt ('I crucified thee') and compliance. The preacher also displays AC by defending the text against 'scholars' (rebellion against authority figures).",
+        "quotes": [
+          "In this hymn we sing, ''Twas I, Lord Jesus, I it was denied thee: I crucified thee.'",
+          "We will not conceal from you tonight that there are numerous Biblical scholars today who seem to enjoy announcing..."
+        ]
+      },
+      "free_child_FC": {
+        "score": 2,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "Authentic joy is suppressed by the somber Good Friday context and the weight of sin. Spontaneity is replaced by liturgical ritual.",
+        "quotes": []
+      }
+    },
+    "dominant_ego_position": "Critical Parent (masked as Nurturing Parent)"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher establishes a 'Parent' authority who holds the 'key' to interpreting the listeners' internal misery, inviting the listeners into a 'Child' state of dependency and confession.",
+    "ulterior_motives": "The social message is 'We are studying John,' but the psychological message is 'You are guilty and helpless, and only this ritual can fix you.'",
+    "communicative_purity_score": 4,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' lies in the invitation to 'freedom' which is actually an invitation to further dependency on the religious institution's interpretation of reality."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "ITHY (I'm Only Trying To Help You)",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The promise of 'deliverance from the prison' of habits and flaws.",
+          "gimmick": "The listener's secret guilt and 'festering resentments.'",
+          "switch": "The preacher shifts from offering comfort to reminding the listener that they are the ones who 'crucified him.'",
+          "payoff": "The listener feels a mix of relief and crushing debt/guilt."
+        },
+        "evidence_quotes": [
+          "Think of all the things that you would like to do and be but have not been able to because of ingrained habits..."
+        ]
+      },
+      {
+        "name": "Bait & Switch",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "Praising the audience as the 'heart's core' and 'highest privilege.'",
+          "gimmick": "The need for belonging and validation.",
+          "switch": "Immediately pivoting to 'I crucified thee' and the 'intolerable burden.'",
+          "payoff": "The listener is 'hooked' by the initial praise and thus accepts the subsequent shaming."
+        },
+        "evidence_quotes": [
+          "You are the heart's core of the church tonight... In this hymn we sing, ''Twas I, Lord Jesus, I it was denied thee: I crucified thee.'"
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. The preacher presents the 'key' to the prison and the 'bond of trust' that scholars lack.",
+      "persecutor": "Medium. Manifests through the 'Critical Parent' voice that assigns the blame for the crucifixion to the listener.",
+      "victim": "Low. Slight hint of victimhood when discussing the 'media' and 'scholars' who attack the faith."
+    },
+    "congregation_position": "The congregation is pushed into the Victim role ('slaves to sin', 'no one could stand') to necessitate the Rescuer (Christ/Preacher).",
+    "escape_possibilities": "Minimal. The 'freedom' offered is conditional upon remaining within the 'bond of trust' defined by the preacher."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 3,
+    "summary": "While theologically rich in the tradition of substitutionary atonement, the sermon is psychologically regressive. it relies heavily on inducing a 'Child' state of guilt and helplessness to make the 'Parental' solution attractive. By using 'we' and 'us' language, the preacher attempts to soften the blow, but the underlying dynamic is one of NIGYSOB ('Now I've Got You...')—identifying the listener as the crucifier to justify the need for the sermon's specific brand of rescue.",
+    "strengths": [
+      "Strong Adult use of linguistic analysis to debunk anti-Semitic interpretations.",
+      "Effective use of Nurturing Parent language to create a sense of community."
+    ],
+    "areas_for_improvement": [
+      "Over-reliance on the 'Slave/Prison' metaphor which strips the listener of Adult agency.",
+      "The 'Us vs. Them' (Church vs. Scholars/Media) creates a defensive Adapted Child atmosphere."
+    ],
+    "advice_for_game_free_communication": "Try addressing the congregation as 'Adults' who can choose to follow Christ out of inspiration (Free Child) rather than just out of a need to escape a 'prison' of their own making. Reduce the use of 'must' and 'intolerable burden' to allow for a more authentic, less coerced response."
+  }
+}
