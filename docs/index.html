@@ -1150,15 +1150,12 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
             html += `</div>`;
         }
 
-        if (meta.notes) {
+        const theologian = document.getElementById('theologian-select').value;
+        if (meta.notes && !theologian.startsWith('hervormd')) {
             html += `<div style="margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid var(--border-color);">`;
             html += `<p><strong>Notes:</strong></p>`;
             html += `<p style="font-size: 0.9rem; color: var(--text-muted);">${formatText(meta.notes)}</p>`;
             html += `</div>`;
-        }
-
-        if (meta.analysis_date) {
-            html += `<p style="margin-top: 1rem; font-size: 0.8rem; color: var(--text-muted);"><strong>Analysis Date:</strong> ${meta.analysis_date}</p>`;
         }
 
         container.innerHTML = html || '<em>No metadata available.</em>';
