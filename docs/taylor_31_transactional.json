@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "A Strange Question In A Cemetery",
+    "bible_text": "John 20:15",
+    "notes": "An Easter sermon focusing on the transition from grief to hope through the resurrection narrative."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 8,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher avoids moralistic 'musts' or shaming. The judgment is directed toward the 'powers of darkness' and 'sin' rather than the congregation's failures.",
+        "quotes": [
+          "I do not say now what I am going to say in any flippant or critical sense but in admiration..."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 7,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is dominant, offering comfort for grief. It borders on 'smothering' by leaning heavily into sentimental pathos to create an emotional bond.",
+        "quotes": [
+          "The dark forebodings lift. The dark depths of the grave bear a beam of light."
+        ]
+      }
+    },
+    "adult": {
+      "score": 4,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The Adult is used primarily to observe human behavior (the 'stubbornness of love') and to process the logic of the cemetery setting, but it is often bypassed in favor of emotional appeal.",
+      "quotes": [
+        "I asked the man finally, 'How long have you two been married?'",
+        "Why ask anybody, 'Why do you cry' when that person is in a cemetery?"
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 7,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "There is little demand for compliance or fear-based obedience. However, the preacher uses the 'Victim' stance of the Child to build empathy.",
+        "quotes": [
+          "Is this our fate, to know nothing better than a grim and losing battle...?"
+        ]
+      },
+      "free_child_FC": {
+        "score": 6,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "The Free Child emerges in the 'glad anthems' and the poetic descriptions of the resurrection, though it is a structured joy rather than spontaneous play.",
+        "quotes": [
+          "The perennial faith blossoms again.",
+          "Then let the glad anthems of Easter ring!"
+        ]
+      }
+    },
+    "dominant_ego_position": "Nurturing Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher speaks as a comforting Parent to a grieving, vulnerable Child (the congregation). It is a stable, supportive transaction intended to provide emotional relief.",
+    "ulterior_motives": "The social message is 'Christ is risen' (A->A), but the psychological message is 'You are small and sad, and I will provide the hope you cannot find alone' (NP->AC).",
+    "communicative_purity_score": 6,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The risk is the 'Bait & Switch' of emotionalism—using intense descriptions of death to make the listener feel helpless so the 'Easter hope' feels like a necessary rescue."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Ain't It Awful",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "Inviting the listener to focus on the tragedy of death and the 'snarling society'.",
+          "gimmick": "The universal fear of death and loss of loved ones.",
+          "switch": "Moving from the shared misery of the cemetery to the sudden 'strange question'.",
+          "payoff": "A collective sigh of relief that avoids dealing with the 'here-and-now' reality of mortality through sentimentalism."
+        },
+        "evidence_quotes": [
+          "Is that what life is all about? Is it a bright day doomed to an everlasting night...?",
+          "We see it in our nation... a snarling, screaming, screeching society of suspicion and conflict."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": null
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High; the preacher presents the Easter message as the only solution to the 'miserable' state of humanity.",
+      "persecutor": "Low; very little blame is assigned to the listeners.",
+      "victim": "Medium; the preacher identifies with the 'sob in the soul' and the 'losing battle' to build rapport."
+    },
+    "congregation_position": "Victim (of death, sin, and time).",
+    "escape_possibilities": "The sermon offers an escape through 'Faith', but it is a passive escape (receiving the news) rather than an autonomous Adult decision-making process."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 6,
+    "summary": "The sermon is psychologically supportive but leans heavily on the Nurturing Parent ego state. It utilizes the 'Ain't It Awful' game to build a sense of shared tragedy before introducing the 'Rescuer' (Jesus/The Gospel). While it avoids the toxicity of the Critical Parent, it risks creating a dependency on emotional highs and sentimental imagery rather than fostering an Adult-level faith that can process grief realistically.",
+    "strengths": [
+      "High empathy and validation of human suffering.",
+      "Avoidance of shaming or coercive 'NIGYSOB' dynamics.",
+      "Strong use of Free Child imagery to inspire hope."
+    ],
+    "areas_for_improvement": [
+      "Over-reliance on pathos (Victim role) to set up the message.",
+      "Lack of Adult-to-Adult engagement regarding how to live 'here-and-now'.",
+      "Tendency toward 'Ain't It Awful' regarding the state of society."
+    ],
+    "advice_for_game_free_communication": "Incorporate more Adult ego state by asking the congregation to reflect on how the resurrection changes their current ethical choices, rather than just their emotional state. Reduce the 'con' of hyper-descriptive tragedy to allow the hope to stand on its own merit."
+  }
+}

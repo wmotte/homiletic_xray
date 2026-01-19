@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Goals Of Social Change",
+    "bible_text": "Luke 4:18, Luke 19:9, Acts 17:26",
+    "notes": "A civil rights era discourse focusing on the psychological and spiritual impact of systemic oppression on both the victim and the offender."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 8,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "While the preacher uses strong moral language ('blaspheme', 'outrages'), it is directed at systems and dehumanizing behaviors rather than shaming the listener's personhood. It functions as a protective boundary for human dignity.",
+        "quotes": [
+          "Institutions of religion... blaspheme their faith and rebuke God",
+          "The supporter of doctrines of racial superiority builds a fool's paradise founded upon a lie"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 9,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is evident in the concern for the 'brokenhearted' and the 'maimed' personality. It promotes autonomy by seeking to 'rehumanize' and lift the 'weight' from shoulders.",
+        "quotes": [
+          "rehumanization of human beings is the goal",
+          "cleansing of the mind and sense a far healthier climate of life"
+        ]
+      }
+    },
+    "adult": {
+      "score": 9,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "High",
+      "analysis": "The sermon is highly analytical, processing the sociological and psychological 'data' of how oppression works (labeling, conscience-numbing). It invites the listener to observe these mechanisms objectively.",
+      "quotes": [
+        "Such a person must rob the oppressed of human status by labels and name calling, in order to make the act of oppression tolerable",
+        "Indeed, one may raise the question as to who is more benefited... the oppressed or the oppressor."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 9,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher explicitly rejects the Adapted Child position (the 'slave' mentality) and encourages the listener to do the same through the 'militant old sorrow song'.",
+        "quotes": [
+          "refused to bow their heads or to lower their self-assessment",
+          "And before I'll be a slave I'll be buried in my grave"
+        ]
+      },
+      "free_child_FC": {
+        "score": 7,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "The Free Child is present in the 'singular power and beauty' of the spirituals and the vision of a 'good' creation, though tempered by the gravity of the subject matter.",
+        "quotes": [
+          "epic of singular power and beauty",
+          "see again what God first saw at his creation — that it was and is good."
+        ]
+      }
+    },
+    "dominant_ego_position": "Adult with strong Nurturing Parent support"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult",
+    "analysis": "The preacher primarily uses an Adult-to-Adult vector, explaining the mechanics of social change and psychological health. He treats the congregation as partners in an intellectual and spiritual inquiry.",
+    "ulterior_motives": "None detected. The social and psychological messages are aligned.",
+    "communicative_purity_score": 9,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "There is a slight risk of a 'Parent' tone when describing the 'diseased minds' of oppressors, but this is framed as a diagnostic reality rather than a manipulative 'Con'."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "None",
+        "probability": "Low",
+        "formula_g_analysis": {
+          "con": "N/A",
+          "gimmick": "N/A",
+          "switch": "N/A",
+          "payoff": "N/A"
+        },
+        "evidence_quotes": []
+      }
+    ],
+    "absence_of_games_analysis": "The sermon avoids games like ITHY (I'm Only Trying To Help You) by emphasizing the autonomy and 'infinite worth' of the individuals. It avoids 'Ain't It Awful' by moving quickly from the description of the problem to a constructive goal of 'rehumanization' and 'salvation'."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Low. The preacher points to 'social change' and 'faith' as the agents of liberation, not himself.",
+      "persecutor": "Low. Only appears in the description of those who 'blaspheme' by oppressing, but the goal is their 'salvation'.",
+      "victim": "Low. The preacher identifies with a lineage of overcomers, not helpless victims."
+    },
+    "congregation_position": "The congregation is invited into the role of 'Adult' observers and 'Free Child' heirs of a high destiny.",
+    "escape_possibilities": "The sermon is an 'escape manual' from the triangle, showing how the Victim can regain personhood and the Persecutor can regain their 'whole personhood'."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 9,
+    "summary": "This sermon is psychologically robust and health-promoting. It utilizes the Adult ego state to deconstruct the mechanics of dehumanization, thereby stripping the 'Persecutor' of their power and the 'Victim' of their shame. By addressing the 'Oppressor' as someone who is also 'maimed' and in need of 'salvation,' the preacher avoids the trap of binary moralizing (NIGYSOB) and instead promotes a universal humanism. The appeal to the 'Free Child' through the imagery of the 'sorrow songs' provides an emotional anchor for the Adult's logical conclusions.",
+    "strengths": [
+      "High Adult presence promotes critical thinking.",
+      "Avoids the Drama Triangle by offering 'salvation' to the offender.",
+      "Empowers the listener's sense of 'I'm OK, You're OK' through the 'child of God' framework."
+    ],
+    "areas_for_improvement": [
+      "The language of 'diseased minds' could potentially trigger a Critical Parent response in listeners who identify with the described group, closing off their Adult processing."
+    ],
+    "advice_for_game_free_communication": "Continue to frame systemic critique through the lens of 'rehumanization' for all parties. This keeps the transaction Adult-Adult and prevents the listener from retreating into an Adapted Child (defensive) or Persecutor (angry) role."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Soul For Sale",
+    "bible_text": "Matthew 16:26",
+    "notes": "A classic mid-20th-century homiletic style focusing on existential worth and eschatological fear."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 3,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "High",
+        "analysis": "The preacher uses heavy moral imperatives and shaming language regarding how people 'sell' themselves. The tone shifts into a 'scolding' mode regarding worldly values.",
+        "quotes": [
+          "some of us are selling our souls too cheaply",
+          "There are men and women who place no higher value upon their souls than a few dollars",
+          "I must be honest... if morbid in order to be honest then make the most of it"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 5,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "There is a protective intent, but it is framed through a 'Rescuer' lens that emphasizes the listener's fragility and the world's danger.",
+        "quotes": [
+          "He is the only hiding place from the tempest, the only shadow of a great rock in a weary land."
+        ]
+      }
+    },
+    "adult": {
+      "score": 4,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher uses historical data (Charlemagne) and logical analogies (slavery, commodities) to build a case, but quickly abandons logic for emotional appeals and existential dread.",
+      "quotes": [
+        "The man who doubts the integrity of all other men is likely to say that every man has his price",
+        "In order to find out whether they are bringing a fair price we ought to examine the commodity."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 2,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon heavily leverages the Adapted Child's fear of death and judgment. It pushes the listener into a state of 'fearful compliance' before the 'ugly doomed world.'",
+        "quotes": [
+          "The whole world is a vast nervous disorder, apparently headed for flames and destruction.",
+          "Now we stand with the possibility of nuclear fate too horrible to imagine."
+        ]
+      },
+      "free_child_FC": {
+        "score": 4,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "There is a brief moment of Free Child wonder regarding the uniqueness of the individual, though it is quickly re-harnessed for a moralistic point.",
+        "quotes": [
+          "I take it that what we call the most ordinary person is an amazing and fantastic wonder.",
+          "Never your identical likeness in the long sweep of history."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent (CP) shifting to Nurturing Parent (NP) as Rescuer."
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher establishes a position of superior moral clarity (Parent) and addresses the congregation as lost or foolish children (Child) who are making bad 'bargains' with their lives.",
+    "ulterior_motives": "Socially, it is a theological inquiry (A->A). Psychologically, it is a warning of impending doom to induce dependency on the preacher's solution (P->C).",
+    "communicative_purity_score": 3,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' lies in the praise of human worth. While telling the listener they are 'infinite,' the psychological message is that they are currently 'cheap' and 'negotiable' unless they comply with the preacher's path."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Ain't It Awful",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "Let's discuss the value of the soul.",
+          "gimmick": "The listener's fear of death and nuclear war.",
+          "switch": "The world is an 'ugly doomed' place with no hope in science or humanity.",
+          "payoff": "Collective helplessness and a desperate need for a 'hiding place'."
+        },
+        "evidence_quotes": [
+          "The whole world is a vast nervous disorder... headed for flames and destruction.",
+          "Modern science and human sinfulness have combined to pull the mask of splendor off this ugly doomed world."
+        ]
+      },
+      {
+        "name": "Bait & Switch",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "You are a unique, amazing wonder made in God's image.",
+          "gimmick": "The desire for self-worth.",
+          "switch": "But you are selling yourself for 'baubles' and 'rot'.",
+          "payoff": "Guilt for not living up to the 'infinite' value described."
+        },
+        "evidence_quotes": [
+          "God has fixed you so that there never has been another you... [Switch] ...too many of us sell our souls too cheaply."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. Positions Jesus (and by extension, the message) as the 'only hiding place' from a 'tempest'.",
+      "persecutor": "Medium. Accuses the congregation of being 'negotiable' and 'selling out' for 'shiny cars'.",
+      "victim": "Low. The preacher briefly adopts a 'morbid' persona, as if forced by truth to be the bearer of bad news."
+    },
+    "congregation_position": "Victim. They are portrayed as being in the 'cruel clutches' of a doomed world, unable to save themselves.",
+    "escape_possibilities": "Minimal. The 'escape' offered is dependency on the 'hiding place' rather than Adult-level autonomy or responsibility."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 3,
+    "summary": "The sermon is psychologically regressive. While it begins with an Adult-level exploration of human value, it quickly descends into a Parent-Child dynamic fueled by 'Ain't It Awful' and existential terror. By painting the world as an 'ugly doomed' disorder, it strips the listener of Adult agency, pushing them into an Adapted Child state of fear. The 'Rescuer' payoff provides temporary relief but reinforces a dependency on external religious safety rather than internal spiritual growth.",
+    "strengths": [
+      "Strong use of imagery to affirm inherent human dignity.",
+      "Effective use of historical narrative (Charlemagne) to engage the Adult ego initially."
+    ],
+    "areas_for_improvement": [
+      "Over-reliance on 'Scare Tactics' (nuclear war, flames) to bypass Adult reasoning.",
+      "Reduction of the world to a 'nervous disorder,' which discourages healthy Adult engagement with reality."
+    ],
+    "advice_for_game_free_communication": "Shift from 'Ain't It Awful' to an Adult-Adult dialogue. Instead of telling the congregation they are 'selling out' (Persecutor), ask them to reflect on how they choose to invest their 'infinite value' in the here-and-now. Replace the 'hiding place' (Rescuer) imagery with 'empowerment' imagery that encourages the Free Child's creativity and the Adult's responsibility."
+  }
+}

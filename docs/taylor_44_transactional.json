@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "A Christian Word For Tough Times",
+    "bible_text": "2 Timothy 2:3",
+    "notes": "The sermon employs a martial metaphor (soldier) to address human suffering and spiritual apathy."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 4,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The preacher shifts into a Critical Parent role when addressing the congregation's lack of enthusiasm, using shaming language to demand emotional displays.",
+        "quotes": [
+          "How can a preacher not grow tired of preaching to tightlipped, dull-eyed, cold-spirited, eyebrow-raising people who call themselves Christians?",
+          "God's chosen people ought not to be God's frozen people."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 6,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The Nurturing Parent is present in the empathetic cataloging of human suffering (divorce, aging, grief), though it quickly pivots to a 'Rescuer' stance.",
+        "quotes": [
+          "The senior citizen who can barely manage to get around the house now... is having a tough time."
+        ]
+      }
+    },
+    "adult": {
+      "score": 3,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Low",
+      "analysis": "There is little Adult-to-Adult dialogue. The preacher does not invite the listener to process their own reality but rather imposes a binary of 'Good Soldier' vs. 'Frozen Christian.'",
+      "quotes": [
+        "A 'good soldier' is doubtless one who is truly committed..."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 3,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The preacher demands an 'Adapted Child' response—specifically, the congregation is told how to feel and how to physically manifest that feeling (nodding, waving).",
+        "quotes": [
+          "There ought to be some signal — a spoken word, or a teardrop, or a smile..."
+        ]
+      },
+      "free_child_FC": {
+        "score": 5,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "The preacher references the Free Child (joy, enthusiasm), but it feels more like a 'prescribed' joy rather than a spontaneous one.",
+        "quotes": [
+          "Enthusiasm about the goodness of God and the saving work of Jesus Christ."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent (disguised as Nurturing Parent)"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher assumes a position of authority (Parent) and addresses the congregation as either suffering children in need of rescue or disobedient children in need of correction.",
+    "ulterior_motives": "Social: 'I am encouraging you in hard times.' Psychological: 'I am frustrated by your lack of response; you must perform joy to validate my preaching.'",
+    "communicative_purity_score": 4,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' occurs when the preacher moves from empathizing with 'tough times' to criticizing the listener's emotional response to those times."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "ITHY (I'm Only Trying To Help You)",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "I understand your pain (the catalog of tough times).",
+          "gimmick": "The listener's need for comfort and meaning.",
+          "switch": "The preacher shifts from empathy to criticizing the listener's 'coldness.'",
+          "payoff": "The preacher feels superior/righteous; the listener feels guilty for being 'frozen.'"
+        },
+        "evidence_quotes": [
+          "How can a preacher not grow tired of preaching to tightlipped... people"
+        ]
+      },
+      {
+        "name": "NIGYSOB",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "We are all soldiers together.",
+          "gimmick": "The listener's desire to be a 'good' Christian.",
+          "switch": "Calling out the 'eyebrow-raising' critics in the pews.",
+          "payoff": "Justification of the preacher's frustration with the audience."
+        },
+        "evidence_quotes": [
+          "God's chosen people ought not to be God's frozen people."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. The preacher offers the 'Commander' as the solution to all earthly problems.",
+      "persecutor": "Medium. Shames the 'dull-eyed' congregation for their lack of enthusiasm.",
+      "victim": "Low. Hinted at when the preacher expresses 'growing tired' of the audience's response."
+    },
+    "congregation_position": "Victim. They are portrayed as helpless against 'spiritual wickedness' and 'missiles of disease,' requiring the preacher/Commander to save them.",
+    "escape_possibilities": "Minimal. The sermon encourages dependency on the 'Commander' rather than developing Adult agency or resilience."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 4,
+    "summary": "The sermon begins with a high degree of empathy (Nurturing Parent), acknowledging the genuine hardships of the human condition. However, it quickly devolves into a Parent-Child dynamic where the preacher shames the congregation for their lack of emotional 'performance.' By framing the Christian life as a military hierarchy, the preacher reinforces dependency and suppresses the Adult ego. The shift from 'I feel for you' to 'You are boring me with your coldness' is a classic psychological switch that leaves the listener in a state of 'Adapted Child' guilt.",
+    "strengths": [
+      "Strong use of imagery and metaphor to create emotional resonance.",
+      "Effective identification of universal human struggles (the 'tough times')."
+    ],
+    "areas_for_improvement": [
+      "High level of shaming/coercion regarding emotional expression.",
+      "Lack of Adult-to-Adult engagement; the listener is a passive recipient of commands."
+    ],
+    "advice_for_game_free_communication": "Try moving from the 'Commander/Soldier' (P-C) model to a 'Wayfarer/Companion' (A-A) model. Instead of demanding enthusiasm, ask the congregation to reflect on what prevents them from feeling joy. Replace 'must' and 'ought' with observations and invitations."
+  }
+}

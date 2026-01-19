@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "His Own Clothes",
+    "bible_text": "Mark 15:20",
+    "notes": "The sermon uses the imagery of Christ's garments to contrast human hypocrisy with divine authenticity, moving from historical narrative to contemporary social critique."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 3,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "High",
+        "analysis": "The preacher frequently uses the Critical Parent to shame the congregation and society. He uses harsh comparisons (comparing non-churchgoers to dogs) and apocalyptic warnings to enforce compliance.",
+        "quotes": [
+          "I will spew thee out of my mouth",
+          "My dog did not go to church either... Now, what is your reason?",
+          "Godlessness is what is wrong with America."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 4,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "Nurturing Parent appears primarily at the end, offering comfort through the 'once for all' sacrifice, but it is conditional on the listener first accepting the CP's rebuke.",
+        "quotes": [
+          "It is all right now. The crooked way has been made straight."
+        ]
+      }
+    },
+    "adult": {
+      "score": 4,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The Adult is used to provide historical context and social commentary (gun lobbies, minstrel shows). However, it is quickly bypassed for emotional appeals and moralizing judgments rather than fostering independent reflection.",
+      "quotes": [
+        "The Roman ritual of condemnation and execution was fixed.",
+        "One of the most painful and sinister weapons used historically against black people in this country was mockery."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 2,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon heavily leverages the Adapted Child's fear of rejection and guilt. The 'Did I do my best?' section pushes the listener into a state of perpetual inadequacy and compliance-seeking.",
+        "quotes": [
+          "In the presence of Christ we ask, 'Lord, did I do my best?'",
+          "Officer, choir member, usher, did you do your best?"
+        ]
+      },
+      "free_child_FC": {
+        "score": 5,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a burst of Free Child energy in the final vision of the King of Kings, though it feels more like a scripted 'pious joy' than spontaneous playfulness.",
+        "quotes": [
+          "Shall we not shout his name who has lifted us to heights sublime?"
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher establishes a superior moral position (Parent) and addresses the congregation as failing or potentially hypocritical children. This creates a stable but dependency-heavy interaction.",
+    "ulterior_motives": "Socially, the preacher is explaining a text (A->A). Psychologically, he is shaming the listener for not being 'good enough' (P->C).",
+    "communicative_purity_score": 3,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'dog' anecdote is a classic double-bottom: it appears as a witty story but carries a psychological payload of dehumanization for those who disagree with the preacher's lifestyle."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "NIGYSOB (Now I've Got You, You Son of a Bitch)",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "Inviting the listener to admire Jesus' dignity.",
+          "gimmick": "The listener's desire to be a 'good person' or 'respectful'.",
+          "switch": "The preacher reveals that 'respect' is actually 'mockery' and 'sham religion'.",
+          "payoff": "The listener feels guilty/small; the preacher feels morally superior."
+        },
+        "evidence_quotes": [
+          "There are still many who put cloaks of imitation honor... such do not mean their patronizing words."
+        ]
+      },
+      {
+        "name": "Ain't It Awful",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "Discussing national problems.",
+          "gimmick": "Shared frustration with politics and crime.",
+          "switch": "Moving from specific issues to a blanket condemnation of 'godlessness'.",
+          "payoff": "A collective sense of despair and moral outrage that avoids personal Adult action."
+        },
+        "evidence_quotes": [
+          "What is wrong with us as a nation? One word is the answer: godlessness."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High: Offers the 'once for all' sacrifice as the only way to escape the 'godlessness'.",
+      "persecutor": "High: Uses the 'dog' comparison and the 'spew you out' scripture to attack the 'lukewarm'.",
+      "victim": "Low: Briefly touches on the 'unpleasant assignment' of the soldiers, but mostly stays in Parent roles."
+    },
+    "congregation_position": "The congregation is pushed into the Victim role—helplessly 'godless' and 'shameful' until rescued by the preacher's message.",
+    "escape_possibilities": "Minimal. The sermon demands 'doing one's best' (Adapted Child) rather than offering Adult autonomy or grace-based security."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 3,
+    "summary": "While homiletically powerful and rhetorically skilled, the sermon is psychologically coercive. It relies heavily on the Critical Parent to induce guilt and shame. By comparing non-believers to dogs and questioning the sincerity of any 'respect' for Jesus that doesn't manifest as church-loyalty, the preacher creates a 'closed loop' where the listener cannot win. The final move to 'grace' is a 'Bait and Switch' because it follows a heavy dose of performance-based pressure ('Did I do my best?').",
+    "strengths": [
+      "Strong use of historical imagery to engage the Adult ego briefly.",
+      "Effective use of narrative to build emotional resonance."
+    ],
+    "areas_for_improvement": [
+      "High level of shaming and dehumanizing metaphors.",
+      "Reliance on 'Formula G' games to create conviction.",
+      "Lack of Adult-to-Adult invitation for the listener to decide for themselves."
+    ],
+    "advice_for_game_free_communication": "Try to address the congregation as Adult subjects capable of reflection rather than children needing a scolding. Replace shaming anecdotes (the dog story) with honest Adult observations about the difficulty of faith. Shift from 'Did I do my best?' (AC) to 'How shall we live in response to this?' (Adult)."
+  }
+}

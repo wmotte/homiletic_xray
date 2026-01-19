@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "A New Title",
+    "bible_text": "John 15:15",
+    "notes": "Pastoral Anniversary sermon for Edward L. Taylor at New Horizon Baptist Church."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 8,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher largely avoids 'must' or shaming language. The only instance of CP is directed toward political apathy and the city's leadership rather than the congregation's spiritual state.",
+        "quotes": [
+          "It's a lie, and we ought to... meet this because there's a cancer in that city.",
+          "How sad it would be for those of you... to fall down and fail."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 9,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is strong, providing historical context and emotional validation for the congregation's heritage without creating dependency.",
+        "quotes": [
+          "God bless you and God strengthen you as you go forward.",
+          "We shall thank him for every tear and every fear."
+        ]
+      }
+    },
+    "adult": {
+      "score": 7,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium/High",
+      "analysis": "The preacher engages in objective linguistic analysis (doulos/slave) and historical reality-testing. He treats the listener as a subject capable of understanding complex social dynamics.",
+      "quotes": [
+        "That word in the original sentence, doulos, stands for the word slave.",
+        "I call you not slaves because slaves do not know what the master is doing."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 9,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher explicitly rejects the 'Slave' (Adapted Child) position, calling the congregation into 'Friendship' (Adult/Free Child).",
+        "quotes": [
+          "Henceforth I call you not slaves.",
+          "A people who made it anyhow in the face of all odds... made it anyhow."
+        ]
+      },
+      "free_child_FC": {
+        "score": 8,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "High",
+        "analysis": "The preacher shows authentic humor, spontaneity regarding food, and a sense of wonder about his own life journey.",
+        "quotes": [
+          "Your pastor has thrown me off because he has talked about food... it makes me want to go to where it is.",
+          "I never dreamt... that the Lord would open before me so many opportunities."
+        ]
+      }
+    },
+    "dominant_ego_position": "Nurturing Parent / Adult"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult (with NP support)",
+    "analysis": "The preacher moves from a warm NP opening to an Adult-centered biblical and historical analysis, eventually inviting the congregation's FC into a shared vision of the future.",
+    "ulterior_motives": "None detected. The preacher is transparent about his affection for the pastor and his political frustrations.",
+    "communicative_purity_score": 9,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The only minor risk is the 'Prophecy' section, which could be seen as NP 'smothering' by over-promising success, but it is framed as encouragement rather than a contract."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "None",
+        "probability": "Low",
+        "formula_g_analysis": {
+          "con": "N/A",
+          "gimmick": "N/A",
+          "switch": "N/A",
+          "payoff": "N/A"
+        },
+        "evidence_quotes": []
+      }
+    ],
+    "absence_of_games_analysis": "The sermon avoids games like ITHY by not offering simplistic solutions to the 'why' of suffering. Instead, the preacher admits to the Adult limitation of not knowing all the answers ('We do not understand it')."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Low; he points to God as the liberator rather than himself.",
+      "persecutor": "Low; only appears briefly when discussing political apathy/voting.",
+      "victim": "Low; he mentions his age and humble beginnings but from a position of strength and gratitude."
+    },
+    "congregation_position": "The preacher actively works to pull the congregation OUT of the 'Victim' role (slave) into the 'Friend' (Adult) role.",
+    "escape_possibilities": "Yes, through the 'Emancipation Proclamation' of the text, moving from 'Slave' (Victim) to 'Friend' (Autonomous Agent)."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 9,
+    "summary": "This sermon is psychologically robust and health-promoting. It utilizes a strong Adult ego state to deconstruct the 'Slave' identity (Adapted Child) and replaces it with 'Friendship' (Adult-Adult transaction with the Divine). The preacher avoids the trap of 'Ain't It Awful' despite discussing slavery and political filth, instead using those points to catalyze Adult responsibility (voting). The use of the Free Child in the introduction creates an immediate, authentic bond with the audience, minimizing the distance usually found in Parent-Child preaching dynamics.",
+    "strengths": [
+      "High level of Adult-to-Adult transparency.",
+      "Effective deconstruction of the 'Slave' script.",
+      "Authentic use of humor and personal narrative."
+    ],
+    "areas_for_improvement": [
+      "The 'Prophecy' section borders on Nurturing Parent grandiosity.",
+      "The transition to the political 'vote' section is a sharp shift into Critical Parent territory that could feel jarring."
+    ],
+    "advice_for_game_free_communication": "Continue to admit limitations of knowledge ('I don't know why'), as this reinforces the Adult-Adult contract and prevents the 'I'm Only Trying To Help You' game."
+  }
+}

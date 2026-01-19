@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Good Days in the Neighborhood (Wedding)",
+    "bible_text": "Matthew 22:37-39 (The Great Commandment)",
+    "notes": "A wedding homily focusing on the expansion of 'neighbor' from spouse to community to God."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 7,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The preacher uses the CP to define the 'demanding' nature of faith and issues a sharp judgment on society, though it is framed as a shared reality rather than a personal attack on the couple.",
+        "quotes": [
+          "Living a Christian life is not complicated, only demanding",
+          "our society is going to hell in a hand basket"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 8,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is present in the realistic acknowledgment of 'unpleasantness' and the provision of God as a source of forgiveness.",
+        "quotes": [
+          "the life of this neighbor may be more deeply joyous and more fully safe",
+          "God, who is our best and final neighbor"
+        ]
+      }
+    },
+    "adult": {
+      "score": 9,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "High",
+      "analysis": "The sermon is highly Adult-oriented. It deconstructs 'romantic utopia' (Child fantasy) with reality-testing about financial failure, sickness, and in-laws. It treats the listeners as capable of handling the 'difficult' truth.",
+      "quotes": [
+        "It was a favorite question among reflective rabbis, sort of a game",
+        "The great threat to marriage in a therapeutic, consumer society... is that one imagines one has only this one neighbor"
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 8,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher does not seem to be performing for approval, nor does he demand fearful compliance from the couple, though he uses 'duty' as a framework.",
+        "quotes": []
+      },
+      "free_child_FC": {
+        "score": 5,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a dry, intellectual wit (the 'comma' joke, the 'Recent Unpleasantness' reference), but the tone remains mostly serious and grounded.",
+        "quotes": [
+          "They asked for only one and they got two",
+          "not even for a comma"
+        ]
+      }
+    },
+    "dominant_ego_position": "Adult"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult",
+    "analysis": "The preacher addresses the couple and congregation as peers entering a serious contract. He provides data about the challenges of marriage and the theological structure of 'neighborliness'.",
+    "ulterior_motives": "There is a slight ulterior move from CP to AC when discussing society 'going to hell,' inviting the listeners to join in a collective 'Ain't It Awful' sentiment.",
+    "communicative_purity_score": 9,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The sermon is remarkably transparent. The only risk is the 'Bait and Switch' of a wedding (joy) being turned into a lecture on social justice (the poor), but it is done overtly rather than through psychological manipulation."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Ain't It Awful",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "Agreement on the importance of marriage.",
+          "gimmick": "Shared frustration with modern society.",
+          "switch": "Moving from the couple's happiness to the world's failure.",
+          "payoff": "A sense of moral superiority over the 'therapeutic society'."
+        },
+        "evidence_quotes": [
+          "our society is going to hell in a hand basket, because there are not enough neighbors who care"
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon largely avoids games by being brutally honest about the 'unpleasantness' of life, refusing to offer the 'simple solution' bait common in religious manipulation."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "Low; he points to God as the 'Holy Neighbor' rather than himself as the source of wisdom.",
+      "persecutor": "Low; briefly appears when critiquing 'therapeutic society'.",
+      "victim": "None."
+    },
+    "congregation_position": "The congregation is invited into the role of 'Responsible Adult' rather than Victim.",
+    "escape_possibilities": "The sermon promotes autonomy by insisting that the couple must look beyond themselves to find sustainability."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 8,
+    "summary": "This sermon is psychologically robust and largely game-free. It avoids the common 'Nurturing Parent' trap of wedding homilies that smother the couple in sentimentality. Instead, it uses the Adult ego state to provide a realistic map of marriage. While it utilizes a brief 'Critical Parent' stance to critique society, it primarily seeks to empower the couple's autonomy by linking their private relationship to a larger social and divine context. It avoids the 'I'm Only Trying To Help You' game by admitting that even the spouse will 'lack sufficiency,' thus preventing the setup of impossible expectations.",
+    "strengths": [
+      "Strong reality-testing (Adult ego state).",
+      "Avoidance of 'Rescue' fantasies regarding romantic love.",
+      "Clear distinction between social expectations and psychological reality."
+    ],
+    "areas_for_improvement": [
+      "The 'hell in a hand basket' comment is a CP cliché that briefly breaks the Adult-Adult contract.",
+      "Could incorporate more 'Free Child' joy to balance the 'demanding' Parent tone."
+    ],
+    "advice_for_game_free_communication": "Continue to use the 'Holy Neighbor' as a way to deflect the Rescuer role from the preacher or the spouse, as this maintains healthy boundaries and encourages personal responsibility."
+  }
+}

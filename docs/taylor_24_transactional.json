@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "A Completed Task",
+    "bible_text": "John 17:4",
+    "notes": "The sermon transitions from a philosophical reflection on human finitude to a sharp social critique of racism and sin."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 4,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The CP emerges strongly in the second half, using aggressive imagery to describe sin and societal failure. It demands the listener 'unmask' evil and uses shaming language regarding 'ugly racism' and 'sick suspicion'.",
+        "quotes": [
+          "Jesus snatched the mask from the monster and showed the world that it is hideous and terrible, a crawling, loathsome thing.",
+          "The mask must come off."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 6,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The NP is present in the opening anecdote about the artist and the empathy for the 'unfinished business' of life, though it shifts toward a more demanding tone later.",
+        "quotes": [
+          "We hardly learn to love those whom God has given us before the day is over and we must part."
+        ]
+      }
+    },
+    "adult": {
+      "score": 5,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The Adult is used to process the historical and social reality of the time (racism, the courts, the schools), but it is often bypassed by the emotional intensity of the Child and the moralizing of the Parent.",
+      "quotes": [
+        "A good deal of the anger and bitterness abroad in America is due to the resentment so many feel because events have forced us to show an ugly racism."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 5,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Medium",
+        "analysis": "The preacher uses the 'Scared Child' to describe the feeling of sin and the 'terror' of the Mardi Gras masks, projecting this fear onto the congregation to motivate compliance.",
+        "quotes": [
+          "Many a child used to feel an awful terror at seeing the horrible faces of the masks."
+        ]
+      },
+      "free_child_FC": {
+        "score": 4,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "Authentic Free Child energy is present in the appreciation of the Australian landscape, but it is quickly suppressed by the 'queer little sadness' and the gravity of the cross.",
+        "quotes": [
+          "The painting was done by Australia's outstanding landscape artist... breathtaking paintings."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher establishes a position of moral authority (Parent) addressing the listener's sense of inadequacy and fear (Child). The transition from the beauty of art to the 'loathsome' nature of sin is a classic P->C move.",
+    "ulterior_motives": "The social level is a reflection on Christ's finished work (A->A), but the psychological level is a demand for the listener to feel shame for societal and personal 'masks' (P->C).",
+    "communicative_purity_score": 4,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' lies in the transition from the 'unfinished task' (sympathy) to the 'unmasking of the monster' (judgment). The listener is lured with empathy and then confronted with a 'hideous' reality."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Bait & Switch",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The beauty of the Heysen painting and the shared sadness of unfinished life.",
+          "gimmick": "The listener's desire for fulfillment and fear of death.",
+          "switch": "The shift from the 'fragrant flower' of Jesus' life to the 'crawling, loathsome' monster of the listener's sin/society.",
+          "payoff": "The listener feels exposed and guilty (Child), while the preacher feels the righteousness of the truth-teller (Parent)."
+        },
+        "evidence_quotes": [
+          "It was an unfinished task... Most people are fated to look at the end of their days and see what seems to be an unfinished business.",
+          "Jesus snatched the mask from the monster and showed the world that it is hideous and terrible."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. Offers Jesus as the one who 'unmasks' the confusion for us.",
+      "persecutor": "Medium. Harshly labels the 'ugly racism' and 'sick suspicion' of the people.",
+      "victim": "Low. Briefly identifies with the 'unfinished' nature of life."
+    },
+    "congregation_position": "Victim (of sin/deception) and then Persecutor (of the truth/Jesus).",
+    "escape_possibilities": "The sermon offers a way out through 'walking in the light,' but it is framed as a summons (Parental demand) rather than an Adult choice."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 4,
+    "summary": "The sermon is a powerful rhetorical piece that moves from Nurturing Parent empathy to Critical Parent judgment. While it addresses vital social issues (racism), it does so by inducing a 'Scared Child' state in the listener through vivid, monstrous imagery. The psychological impact is one of exposure and shame rather than empowered Adult reflection.",
+    "strengths": [
+      "Strong use of narrative and imagery to engage the Child ego.",
+      "Courageous Adult-level naming of systemic racism and social hypocrisy."
+    ],
+    "areas_for_improvement": [
+      "The shift from the 'unfinished painting' to 'loathsome monsters' is a jarring psychological escalation.",
+      "Heavy reliance on shaming language ('hideous', 'crawling', 'sick') to motivate change."
+    ],
+    "advice_for_game_free_communication": "Try to maintain the Adult-to-Adult transaction when discussing social issues. Instead of using 'monster' imagery to provoke fear, provide data and invite the listener to evaluate their own 'masks' through objective self-reflection."
+  }
+}

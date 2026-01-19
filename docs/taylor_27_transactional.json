@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Three Crosses On A Hill",
+    "bible_text": "Luke 23:32-33",
+    "notes": "Classic homiletical structure focusing on the three crosses of Calvary as archetypes of human response to the divine."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 4,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The preacher utilizes a moralistic CP to interpret the thieves' suffering as a just 'payoff' for their sins. The language of 'chickens coming home to roost' is a classic CP judgment.",
+        "quotes": [
+          "They got what was coming to them.",
+          "No man can run counter to God's will... without running out."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 6,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The NP emerges in the description of Jesus as a 'savior carrying in his strong arms the helpless.' It provides comfort but leans toward creating a dependency-based 'Victim' role for the listener.",
+        "quotes": [
+          "Jesus snatched him out of the abyss and void, put his arm around him, and carried him on home to God."
+        ]
+      }
+    },
+    "adult": {
+      "score": 5,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher uses Adult logic to analyze the geometry of the cross and historical examples (Lincoln, Socrates). However, the Adult is often bypassed for emotional appeal.",
+      "quotes": [
+        "One has only to consider the history of our country to see that what is wrong may persist, but it cannot win."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 5,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Medium",
+        "analysis": "The sermon demands a specific 'hushed' and 'humbled' response, which is an invitation to the Adapted Child (compliance).",
+        "quotes": [
+          "When a soul faces the holy, it ought to be hushed and humbled.",
+          "There are some places where the voice ought to be hushed and where we ought to tiptoe."
+        ]
+      },
+      "free_child_FC": {
+        "score": 4,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "The FC is largely suppressed by the solemnity of the subject matter, though there is a hint of FC in the poetic descriptions of nature (rainbows, flowers).",
+        "quotes": [
+          "The rainbow arcs only after a stormy sky."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent (interpreting Law) transitioning to Nurturing Parent (offering Grace)."
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher speaks as an authoritative Parent (interpreting the 'law' of the crosses) to a Child-positioned congregation (sinners in need of rescue or judgment).",
+    "ulterior_motives": "The social message is 'Let us reflect on the Gospel,' but the psychological message is 'You are the thief; choose to be the submissive one.'",
+    "communicative_purity_score": 6,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' lies in the aesthetic beauty of the language masking a very rigid 'cause-and-effect' moralism."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Bait & Switch (Redemption)",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The beauty of the cross and the 'strategy' of God's care.",
+          "gimmick": "The listener's guilt ('lost sinners') and fear of just punishment.",
+          "switch": "Moving from the 'ugly, rude' cross of judgment to the 'regal' cross of rescue.",
+          "payoff": "The listener feels relief through submission (Adapted Child)."
+        },
+        "evidence_quotes": [
+          "They got what was coming to them... Jesus snatched him out of the abyss."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. The preacher presents the 'solution' to the 'abyss' via the middle cross.",
+      "persecutor": "Medium. Manifests when describing the 'hardhearted man' and the 'wages of sin'.",
+      "victim": "Low. The preacher does not position himself as a victim, but positions the 'righteous' as victims of the world."
+    },
+    "congregation_position": "The congregation is pushed into the 'Victim' role (helpless beneficiaries) or the 'Potential Persecutor' (the thief on the left).",
+    "escape_possibilities": "Limited. The sermon suggests that the only way out is through total dependency on the Rescuer (Jesus), rather than Adult autonomy."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 5,
+    "summary": "The sermon is a classic example of Parent-Child communication. It effectively uses the 'Critical Parent' to establish a sense of guilt and 'natural law' (punishment for sin) before switching to a 'Nurturing Parent' who offers rescue. While theologically sound in many traditions, it risks fostering a 'helpless victim' identity in the listener rather than an 'Adult' responsibility. The use of 'Ain't it Awful' logic regarding the 'hardhearted' world reinforces an us-vs-them mentality.",
+    "strengths": [
+      "Strong use of metaphor to engage the Child ego.",
+      "Clear, predictable structure that provides psychological safety."
+    ],
+    "areas_for_improvement": [
+      "High reliance on 'must' and 'ought' language (CP).",
+      "Simplistic cause-and-effect moralism (chickens coming home to roost)."
+    ],
+    "advice_for_game_free_communication": "Try addressing the congregation from the Adult ego position: instead of saying what they 'ought' to feel, ask how they process the reality of suffering and justice in their own lives. Move from 'Rescuer' to 'Facilitator' of their own spiritual reflection."
+  }
+}
