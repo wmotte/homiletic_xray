@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "A Terrible Warning",
+    "bible_text": "Luke 17:32 (Remember Lot's wife)",
+    "notes": "The sermon utilizes Cold War era nuclear anxiety as a bridge to biblical judgment."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 2,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "High",
+        "analysis": "The sermon is heavily anchored in the Critical Parent position. It uses 'must' and 'ought' frequently, and frames the listener's choices through the lens of shame and impending doom. The preacher adopts a stance of moral superiority, judging 'loose living' and 'unbridled pleasure.'",
+        "quotes": [
+          "I say that you are a fool.",
+          "Get out! Does that word speak to someone here who is in some evil condition? Get out!",
+          "Ye workers of iniquity."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 3,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The care presented is conditional and protective in a way that creates dependency. The preacher offers a 'shelter' (NP) only after inducing extreme terror (CP). It is a 'Rescuer' care rather than an empowering care.",
+        "quotes": [
+          "We have a shelter and a hiding place and a way through the fiery trial."
+        ]
+      }
+    },
+    "adult": {
+      "score": 3,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Low",
+      "analysis": "While the preacher uses historical/current data (Hiroshima), it is used to bypass the Adult and trigger the Child's fear. There is little room for the listener to process the information objectively; the conclusions are forced.",
+      "quotes": [
+        "Maybe you ought to read your daily newspaper."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 1,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon explicitly aims to evoke the Adapted Child through fear ('makes us shiver'). It demands total compliance ('about face') and threatens petrification or destruction for those who hesitate.",
+        "quotes": [
+          "Language which makes us shiver.",
+          "Lot's wife died leaving Sodom."
+        ]
+      },
+      "free_child_FC": {
+        "score": 2,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "Authentic joy is deferred to a distant future ('On ahead'). The present experience of the Child is restricted to fear and repentance, not spontaneity.",
+        "quotes": [
+          "On ahead, the angels are singing."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher speaks as an authoritative, warning figure (Parent) to a frightened, potentially wayward listener (Child). The transaction is designed to be stable through submission.",
+    "ulterior_motives": "Socially, the preacher is 'explaining scripture' (A->A). Psychologically, the message is 'I am safe and you are in danger unless you obey me' (P->C).",
+    "communicative_purity_score": 3,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' lies in the claim of 'not trying to frighten,' while using the most frightening imagery possible (Nuclear war/Hell) to force a decision."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Bait & Switch",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The promise of Jesus' 'depth of care' and 'sweet words'.",
+          "gimmick": "The listener's fear of death and nuclear annihilation.",
+          "switch": "The shift from 'Jesus wept' to 'Ye whited sepulchres' and 'Get out!'",
+          "payoff": "The listener feels small and terrified (Victim), and the preacher feels the relief of having 'warned' them (Persecutor/Rescuer)."
+        },
+        "evidence_quotes": [
+          "Who on earth ever spoke more endearingly... but who on earth ever spoke more witheringly?"
+        ]
+      },
+      {
+        "name": "NIGYSOB",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "Observation of human behavior and 'modern knowledge'.",
+          "gimmick": "The listener's secret 'backward glances' or 'fleshiness'.",
+          "switch": "Labeling the listener a 'fool' if they don't seek the specific shelter offered.",
+          "payoff": "Justified moral indignation in the pulpit."
+        },
+        "evidence_quotes": [
+          "If you say to me that you want no shelter... I say that you are a fool."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High: Offers the 'shelter' and 'hiding place' from the very fire he described.",
+      "persecutor": "High: Uses labels like 'fool,' 'workers of iniquity,' and 'whited sepulchres' to attack the listener's current state.",
+      "victim": "Low: Briefly mentions 'we poor humans,' but mostly remains in the upper roles."
+    },
+    "congregation_position": "The congregation is pushed into the Victim role—helpless against nuclear fire and divine judgment, needing the preacher's direction to 'Get out!'",
+    "escape_possibilities": "Minimal. Autonomy is discouraged; the only 'way out' is total compliance with the Parent's command."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 2,
+    "summary": "The sermon is a classic example of 'Fear-Based Homiletics.' It operates almost entirely from a Critical Parent ego state, utilizing the 'Bait & Switch' game to move from a premise of love to a conclusion of terror. By linking biblical judgment with nuclear holocaust, it bypasses the listener's Adult ego (rationality) and targets the Adapted Child's survival instinct. While theologically urgent, it is psychologically coercive, fostering dependency on the 'Rescuer' rather than promoting spiritual autonomy or Adult-level reflection.",
+    "strengths": [
+      "Strong use of imagery to capture attention.",
+      "Clear, unambiguous calls to action."
+    ],
+    "areas_for_improvement": [
+      "Over-reliance on the Critical Parent position creates a culture of fear.",
+      "The use of the 'Drama Triangle' traps the listener in a state of helplessness.",
+      "Lack of Adult-to-Adult engagement prevents genuine, internalized change."
+    ],
+    "advice_for_game_free_communication": "Try speaking from the Adult ego state: present the reality of judgment as a factual consequence of the 'here-and-now' rather than a threat from a Persecutor. Invite the listener's Free Child to experience the joy of the 'bright side' now, rather than using it as a distant bribe for compliance."
+  }
+}

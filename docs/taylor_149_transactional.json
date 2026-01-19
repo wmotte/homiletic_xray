@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "The Great 'if' In Our Lives",
+    "bible_text": "Revelation 3:20",
+    "notes": "The sermon utilizes high-pathos imagery and hymnody to address the concept of human volition in the divine-human relationship."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 4,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "Coercion is masked as 'spiritual urgency.' The preacher uses shame regarding 'half-attention' and 'smart-aleck remarks' to drive compliance.",
+        "quotes": [
+          "half-attention which we give too often to things that are absolutely matters of life and death",
+          "ought to make you tremble in those pews",
+          "Don't snicker... Don't turn up your nose"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 6,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is strong but leans toward 'smothering' by providing all the answers and emotional resolutions for the listener.",
+        "quotes": [
+          "the lovelight of Calvary in his eyes",
+          "I am that balm in Gilead to cure a sinsick soul"
+        ]
+      }
+    },
+    "adult": {
+      "score": 3,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Low",
+      "analysis": "While the preacher mentions 'minds,' the sermon bypasses Adult logic in favor of emotional archetypes and poetic repetition. The 'Adult' is mostly a social mask for a Parent-Child transaction.",
+      "quotes": [
+        "preacher has no desire to speak to either of these worthies without the other",
+        "I cannot detail or catalogue the forms"
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 3,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The congregation is explicitly told they 'ought to tremble,' a direct invitation into the fearful Adapted Child role.",
+        "quotes": [
+          "ought to make you tremble in those pews",
+          "How sad if we let anything or anybody shut out the sound"
+        ]
+      },
+      "free_child_FC": {
+        "score": 5,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "There is a sense of aesthetic joy and 'Free Child' wonder in the descriptions of art and hymns, though it is quickly harnessed for moral instruction.",
+        "quotes": [
+          "winds of all eternity blow through this text",
+          "shake with deep and hearty laughter"
+        ]
+      }
+    },
+    "dominant_ego_position": "Nurturing Parent (with Critical Parent undertones)"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher occupies a high-authority position, alternating between the 'Tender Rescuer' (NP) and the 'Stern Judge' (CP), keeping the listener in a state of dependent need.",
+    "ulterior_motives": "Socially, the message is an invitation to grace (A->A). Psychologically, it is a demand for emotional submission (P->C).",
+    "communicative_purity_score": 4,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'Bait and Switch' risk: The 'if' is presented as freedom (Adult), but is used to induce anxiety about missing the 'signal' (Child)."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "ITHY (I'm Only Trying To Help You)",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The promise of 'daily communion' and 'rest' for the weary.",
+          "gimmick": "The listener's exhaustion and guilt over 'selfish striving.'",
+          "switch": "The preacher moves from offering help to criticizing the listener's 'half-attention' and 'snickering.'",
+          "payoff": "The listener feels inadequate; the preacher feels like the indispensable guide to the 'voice.'"
+        },
+        "evidence_quotes": [
+          "I will take what you have, and I will give you what I have.",
+          "Don't dismiss with some smart-aleck remark..."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. The preacher presents Christ (and by extension the sermon) as the only solution to 'nameless grief.'",
+      "persecutor": "Medium. Shaming the congregation for their 'dull' familiarity and potential neglect of the poor.",
+      "victim": "Low. Minimal presence, though the preacher identifies with the 'weary' to build rapport."
+    },
+    "congregation_position": "Victim. The congregation is framed as 'weary,' 'sad,' and 'sinful,' unable to open the door without the preacher's prompting.",
+    "escape_possibilities": "Limited. The 'handle is on the inside,' which suggests autonomy, but the preacher immediately fills that autonomous space with 'musts' and 'oughts.'"
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 5,
+    "summary": "The sermon is a classic example of Nurturing Parent preaching. While it offers comfort, it reinforces a dependency model where the listener is a 'Victim' needing a 'Rescuer.' The use of 'trembling' and 'shame' regarding social programs (nursing homes, etc.) shifts the tone into Critical Parent territory. It successfully engages the 'Child' ego through beauty and song but fails to empower the 'Adult' ego to make a reasoned, autonomous decision without emotional coercion.",
+    "strengths": [
+      "High aesthetic value and use of Free Child creativity.",
+      "Strong emotional resonance and empathy for human suffering."
+    ],
+    "areas_for_improvement": [
+      "Heavy reliance on 'ought' and 'should' (Critical Parent).",
+      "Infantilization of the listener by providing a scripted dialogue for their inner life."
+    ],
+    "advice_for_game_free_communication": "Try asking the congregation more open-ended questions that require Adult processing rather than providing the 'script' of what they should say to God. Reduce the use of shame-based imperatives."
+  }
+}

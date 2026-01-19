@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "God As A Troublemaker",
+    "bible_text": "Luke 19:10; Psalm 95:6-8; Acts 1:47 (referenced)",
+    "notes": "The sermon employs a rhetorical strategy of 'troubling' the listener to induce a state of spiritual crisis."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 4,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The preacher uses the CP to dismantle the listener's self-concept, labeling 'respectable people' as 'lost' and dismissing their reality (address, stability) as 'tripe'.",
+        "quotes": [
+          "Don't hand me all of that tripe about being lost.",
+          "He claims, you see, to be divine, and therefore on a religious basis he ought to die."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 6,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "Nurturing Parent appears in the descriptions of the church as a refuge for 'Old Joe' and 'Old Rosa', though it is conditional on total submission.",
+        "quotes": [
+          "Nothing but a redeemed soul called out of darkness into the marvelous light."
+        ]
+      }
+    },
+    "adult": {
+      "score": 5,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher uses Adult logic to analyze historical/legal charges against Jesus, but then uses that logic to trap the listener into a Child position.",
+      "quotes": [
+        "The charge against Jesus changed according to where the charges were being made and before whom they were being made."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 3,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The sermon explicitly demands the Adapted Child response: 'humble ourselves', 'repent', and 'kneel'. It uses existential fear (death, loss of home) to force adaptation.",
+        "quotes": [
+          "Suppose you can't live there anymore. Where will you live then?",
+          "He says we must repent, become sorry, humble ourselves."
+        ]
+      },
+      "free_child_FC": {
+        "score": 4,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "Free Child is present in the poetic descriptions of 'enchanted ground' and the 'shivers through the soul,' but it is quickly harnessed for religious duty.",
+        "quotes": [
+          "That name almost sends shivers through the soul, all mingled with sorrow and joy."
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent (masked as Nurturing Parent)"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher establishes a hierarchy where he (as the voice of God/Parent) knows the listener's true state (Lost/Child) better than the listener does.",
+    "ulterior_motives": "The social transaction is an Adult discussion of history/theology; the psychological transaction is a Parent shaming a Child for their 'pride' and 'respectability'.",
+    "communicative_purity_score": 4,
+    "purity_explanation": "10 = Completely transparent. 0 = Highly manipulative.",
+    "risk_explanation": "The 'double bottom' lies in the definition of 'trouble'. It is presented as a divine gift, but functions as a psychological tool to break down the listener's Adult ego defenses."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Bait & Switch",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The beauty and mystery of 'Calvary' and 'enchanted ground'.",
+          "gimmick": "The listener's secret feelings of loneliness or fear of death.",
+          "switch": "The shift from 'God's love' to 'You are lost... peddle your wares elsewhere'.",
+          "payoff": "The listener feels small and 'wrong', while the preacher feels the 'princely pulpit gift' of authority."
+        },
+        "evidence_quotes": [
+          "Calvary! That name almost sends shivers through the soul... The fact remains that nobody is ready to do business with the Lord until that person recognizes that he or she is lost."
+        ]
+      },
+      {
+        "name": "ITHY (I'm Only Trying To Help You)",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "God is a 'troublemaker' for your own good.",
+          "gimmick": "The listener's desire for fulfillment.",
+          "switch": "Labeling the listener's life/home as 'tripe' and 'nonsense'.",
+          "payoff": "The listener's dependency on the church/preacher for 'salvation each day'."
+        },
+        "evidence_quotes": [
+          "If the question the Lord puts to us troubles us... then the cure he offers us troubles us also."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. Offers the 'cure' of the church and the 'Comforter'.",
+      "persecutor": "Medium. Attacks the listener's 'pride', 'high-mindedness', and 'respectability'.",
+      "victim": "Low. Briefly identifies with the 'imperfect' church to gain rapport."
+    },
+    "congregation_position": "The congregation is pushed into the Victim role—helplessly 'lost', 'lonely', and 'out of touch' until they accept the Rescuer's terms.",
+    "escape_possibilities": "Minimal. The sermon suggests that 'every enemy must stack arms', implying that autonomy is equivalent to rebellion."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 4,
+    "summary": "The sermon is rhetorically powerful but psychologically coercive. It operates primarily from a Critical Parent position that seeks to dismantle the listener's Adult ego (their sense of reality, location, and self-adjustment) to induce a state of 'Adapted Child' submission. While it uses beautiful imagery (Free Child), this serves as a 'Con' to lead the listener into a 'Bait & Switch' game where grace is replaced by the demand for total self-negation ('I am wrong').",
+    "strengths": [
+      "High aesthetic and poetic quality (Free Child appeal).",
+      "Effective use of historical narrative to engage the Adult ego initially."
+    ],
+    "areas_for_improvement": [
+      "Heavy reliance on shaming 'respectability' and 'intelligence'.",
+      "Creation of a dependency loop where the listener must be 'saved each day'."
+    ],
+    "advice_for_game_free_communication": "Try addressing the listener's Adult ego as a partner in the faith journey rather than an opponent to be 'troubled'. Instead of telling them they are lonely, ask them to reflect on their own experience of God. Move from 'You must humble yourself' (CP) to 'How do we respond to this mystery?' (A)."
+  }
+}

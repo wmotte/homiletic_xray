@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Why Murder In Church",
+    "bible_text": "The Parable of the Tenants (implied Matthew 21 / Mark 12)",
+    "notes": "Delivered shortly after the assassination of Alberta Williams King (Mrs. Martin Luther King Sr.) in 1974."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 4,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The preacher employs a collective 'we' to soften the blow, but the CP is active in shaming the congregation for gun laws, lack of voting, and 'self-contempt' toward the church.",
+        "quotes": [
+          "Have you? Have I?",
+          "We have paraded conspicuous display of prosperity before people trapped in the prison house of poverty",
+          "We have welcomed and laughed at every crude joke"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 7,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "The NP is strong in the narrative sections, providing a protective and honoring space for the memory of the victim and the resilience of the survivors.",
+        "quotes": [
+          "A gentle lady, a lover of the Lord's music",
+          "They won't be able to kill us off."
+        ]
+      }
+    },
+    "adult": {
+      "score": 6,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Medium",
+      "analysis": "The preacher attempts a sociological and political analysis of violence (gun control, poverty, rhetoric), inviting the listener to think about systemic causes before moving into theological metaphor.",
+      "quotes": [
+        "What lies behind insanity taking this particular direction?",
+        "It is composed of poverty, anger, drugs, bitter talk..."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 5,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Medium",
+        "analysis": "The preacher admits his own fear ('I shudder at the thought') and acknowledges the 'shock' of the congregation, but also uses guilt to drive the congregation toward a more 'serious' Christian identity.",
+        "quotes": [
+          "God must be asked to forgive us this morning.",
+          "We have not laughed the tender laugh of love... but the laugh of self-contempt."
+        ]
+      },
+      "free_child_FC": {
+        "score": 3,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "Authentic emotion is present, but it is primarily grief and defiance rather than the spontaneous joy or playfulness of the Free Child.",
+        "quotes": [
+          "He bit his lips and said...",
+          "They won't be able to kill us off."
+        ]
+      }
+    },
+    "dominant_ego_position": "Nurturing Parent shifting into Critical Parent (The 'We're all guilty' maneuver)."
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher primarily addresses the congregation from a position of moral authority (Parent), inviting them into a state of shared confession (Adapted Child).",
+    "ulterior_motives": "Socially, it is an Adult-Adult analysis of a tragedy. Psychologically, it is a Parent-Child message: 'You are responsible for this climate of violence because of your indifference.'",
+    "communicative_purity_score": 6,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'we' inclusive language is a rhetorical device that masks a Critical Parent judgment. By including himself, the preacher makes the 'shaming' more palatable."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Ain't It Awful",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "Let us discuss this tragic murder together.",
+          "gimmick": "The listener's genuine grief and shock.",
+          "switch": "Moving from mourning the victim to blaming the community's 'poisoned atmosphere'.",
+          "payoff": "A shared sense of heavy guilt and the 'bad feeling' that we are all complicit."
+        },
+        "evidence_quotes": [
+          "A part of the answer is in the greed of our country, in us all.",
+          "We who are the children of the church are guilty of helping create a climate of contempt."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon avoids 'ITHY' (I'm Only Trying To Help You) by not offering a cheap, easy fix, instead leaning into the reality of a 'powerful kingdom of evil'."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High: Positions the 'timeless gospel' as the only delivery from the 'poisoned atmosphere'.",
+      "persecutor": "Medium: Blames the congregation for gun control failures and 'self-contempt' through laughter.",
+      "victim": "Low: Briefly mentions the preacher's own need to be 'delivered' of the burden of the text."
+    },
+    "congregation_position": "Pushed into the Victim role (victims of the 'poison') and then Persecutor (guilty of the climate that allowed the murder).",
+    "escape_possibilities": "The escape is offered through the 'Adult' realization of God's sovereignty ('He will have other servants'), moving from the triangle to a position of resilient autonomy."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 6,
+    "summary": "The sermon is a powerful example of 'Prophetic Parent' rhetoric. It successfully processes a collective trauma (Adult) but quickly shifts into a guilt-inducing Critical Parent mode to drive social change. While it honors the victim, it risks overwhelming the listener with a sense of total complicity in a murder they did not commit. However, the final move toward the 'Free Child' resilience of the Ebenezer choir provides a healthy, autonomy-promoting conclusion.",
+    "strengths": [
+      "Strong Adult processing of the 'Why' question.",
+      "Authentic Nurturing Parent care for the grieving community.",
+      "Refusal to offer simplistic 'Rescuer' solutions to the problem of evil."
+    ],
+    "areas_for_improvement": [
+      "Heavy use of collective guilt (CP) may lead to AC rebellion or paralysis.",
+      "The 'We' inclusive language can feel like a rhetorical trap (Ulterior transaction)."
+    ],
+    "advice_for_game_free_communication": "Try to separate the sociological Adult analysis of gun laws from the moral Parent judgment of the listeners' hearts. Allow the congregation to grieve as 'Adults' before demanding 'Adapted Child' repentance."
+  }
+}

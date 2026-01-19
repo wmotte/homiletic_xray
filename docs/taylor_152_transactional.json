@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "The Sinner's Friend",
+    "bible_text": "Luke 7:34 (referenced), Matthew 11:19, John 15:13-15",
+    "notes": "The sermon utilizes a classic 'Bait & Switch' structure, moving from social morality to theological grace, while employing heavy emotional pressure."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 3,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "High",
+        "analysis": "The sermon begins with a heavy CP voice regarding 'wrong crowds' and 'bad apples.' It later uses CP to shame the listener for not being sufficiently emotional ('What hardness of spirit some of us must have').",
+        "quotes": [
+          "Flee people who have no aim as a plague!",
+          "I cannot understand how anybody... can remain cold of heart and unmoved."
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 4,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "Medium",
+        "analysis": "The Nurturing Parent appears in the description of Jesus as a friend, but it is often 'smothering'—it demands a specific emotional response (tears) to be valid.",
+        "quotes": [
+          "He knows our every weakness, and we may take it to our friend in prayer."
+        ]
+      }
+    },
+    "adult": {
+      "score": 2,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "Low",
+      "analysis": "The Adult is briefly used to provide logical counter-examples (the doctor, the lawyer), but it is quickly discarded for emotional appeals and dogmatic assertions. The listener is not invited to think, but to feel and comply.",
+      "quotes": [
+        "A doctor is likely to spend most of his time among the ill, but this does not mean that he is ill."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 2,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "High",
+        "analysis": "The preacher models the 'Good Adapted Child' (bathed in thankful tears) and demands the congregation follow suit. Failure to do so is labeled as a 'twisted brain' or 'wicked heart'.",
+        "quotes": [
+          "What hardness of spirit some of us must have that we do not break down in tears."
+        ]
+      },
+      "free_child_FC": {
+        "score": 3,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Low",
+        "analysis": "There is a mention of 'bright and friendly' ways, but the joy feels scripted and subservient to the 'payoff' of the sermon rather than authentic spontaneity.",
+        "quotes": [
+          "Rejoice, my sinful soul"
+        ]
+      }
+    },
+    "dominant_ego_position": "Critical Parent (disguised as Nurturing Parent)"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher speaks as an authoritative Parent to a 'sinful' Child. Even when the preacher includes himself ('we'), he is acting as the 'Model Child' showing the 'Bad Children' how to behave.",
+    "ulterior_motives": "Social: 'I am telling you about Jesus.' Psychological: 'I am judging your emotional response to my preaching.'",
+    "communicative_purity_score": 3,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'double bottom' is the demand for a specific emotional catharsis (tears/repentance) under the guise of 'free grace'."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Bait & Switch / Redemption",
+        "probability": "High",
+        "formula_g_analysis": {
+          "con": "The promise of a 'Friend' who accepts all 'no matter what.'",
+          "gimmick": "The listener's guilt and need for acceptance ('sinners such as we').",
+          "switch": "The shift from 'Jesus loves you' to 'Why aren't you crying? You must be hard-hearted.'",
+          "payoff": "The preacher feels superior in his 'thankful tears'; the listener feels guilty for their 'cold heart'."
+        },
+        "evidence_quotes": [
+          "He bids us come to him, never mind our condition.",
+          "I cannot understand how anybody... can remain cold of heart and unmoved."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "N/A"
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. Offers the 'Friend' as the only solution to the 'plague' of bad company.",
+      "persecutor": "Medium. Attacks those who don't react emotionally ('twisted brain', 'wicked heart').",
+      "victim": "Low. Briefly mentions being 'limited in thought' to deflect criticism of his performance."
+    },
+    "congregation_position": "Victim. Pushed into the role of the 'helpless sinner' or the 'hard-hearted' reject.",
+    "escape_possibilities": "Minimal. The only 'out' offered is to move from 'Bad Child' to 'Adapted Child' (repentance/tears)."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 3,
+    "summary": "The sermon is psychologically coercive. While it preaches a message of 'grace' and 'friendship,' it does so through a dominant Critical Parent ego state. It creates a 'double bind' where the listener is told they are accepted 'no matter what,' yet is simultaneously judged for not having a specific emotional reaction (tears). This reinforces dependency and shame rather than Adult autonomy.",
+    "strengths": [
+      "Strong use of metaphor and storytelling.",
+      "Clear identification with the 'outcast' (at a social level)."
+    ],
+    "areas_for_improvement": [
+      "High level of emotional manipulation.",
+      "Heavy use of 'must' and shaming language.",
+      "Lack of Adult-to-Adult engagement; the listener is treated as a child to be corrected."
+    ],
+    "advice_for_game_free_communication": "Shift to an Adult ego position by presenting the gospel as a reality to be considered rather than a tool for emotional leverage. Stop 'policing' the listener's internal response (tears/coldness) and allow them the autonomy to respond in their own 'Free Child' or 'Adult' way."
+  }
+}
