@@ -339,6 +339,14 @@ def load_all_data() -> list[dict]:
             with open(filepath, 'r', encoding='utf-8') as f:
                 data = json.load(f)
 
+            # Handle array JSON files (some files are wrapped in arrays)
+            if isinstance(data, list):
+                if len(data) > 0 and isinstance(data[0], dict):
+                    data = data[0]  # Take first element
+                else:
+                    print(f"Warning: Skipping {filepath} - array with no valid object")
+                    continue
+
             # Skip if data is not a dict (malformed structure)
             if not isinstance(data, dict):
                 print(f"Warning: Skipping {filepath} - not a valid object")
