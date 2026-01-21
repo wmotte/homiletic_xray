@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "titel_preek": "Little Resurrections After the Big One",
+    "bijbeltekst": "Acts 3-4 (referenced as Psalm 23 in title, but text is Acts)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A narrative retelling of Peter and John before the Sanhedrin, focusing on the healing of the lame beggar and the subsequent confrontation with imperial power.",
+      "exegetische_kwaliteit": "Strong socio-political reading of the text, emphasizing the conflict between 'unauthorized' divine power and 'imperial' control.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting historical/narrative facts and interpreting them through a political lens, with a late shift toward invitation.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "The apostles have performed a mini-resurrection.",
+        "This is the one whom God raised from the dead.",
+        "I invite you to think about this."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To inspire a sense of social agency and awareness of divine power outside of state structures.",
+      "pneumatologisch_bewustzijn": "Mentioned as a historical fact regarding Peter, but not explicitly invoked for the current event of the sermon.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "imagine",
+        "defy",
+        "realize"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "42",
+      "procent": "75%",
+      "voorbeelden": [
+        "The managers of the Roman Empire were made nervous.",
+        "This is the local power structure.",
+        "Easter resurrection is an act that defies control."
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "were",
+        "told",
+        "is",
+        "meant"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "5%",
+      "voorbeelden": [
+        "Imagine that it is also a venue for resurrection.",
+        "Think about this."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "think",
+        "defy"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "3",
+      "procent": "3%",
+      "voorbeelden": [
+        "It will not surprise you.",
+        "Talk about health care!"
+      ],
+      "dominante_werkwoorden": [
+        "surprise",
+        "talk"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "1",
+      "procent": "2%",
+      "voorbeelden": [
+        "I invite you to think about this."
+      ],
+      "dominante_werkwoorden": [
+        "invite"
+      ],
+      "kwaliteit": "Weak; the preacher commits to an invitation to 'think' rather than God committing to an action."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "5%",
+      "voorbeelden": [
+        "You also are a child of the big wonder of Easter.",
+        "You also are authorized."
+      ],
+      "dominante_werkwoorden": [
+        "are"
+      ],
+      "autoriteit": "Moderate; uses the 'indicative of grace' but lacks the explicit 'I declare to you' formula."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive retelling of Acts 3-4 in the third person.",
+        "Theological abstraction ('The big resurrection is the basic truth').",
+        "Focus on 'what they did' rather than 'what is happening now'."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical/political drama rather than a participant in a current divine act."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise (Toezegging)",
+        "Sacramental Pronouncement"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Generic and descriptive rather than personal and binding.",
+      "voorbeelden": [
+        "You also are a child of the big wonder of Easter."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "5",
+        "gebruik": "Preacher as narrator/inviter ('I invite you')."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Direct address only appears in the final section.",
+        "performatieve_context": "Used to assign identity ('You are a child')."
+      },
+      "derde_persoon": {
+        "frequentie": "50+",
+        "gebruik": "Dominates the narrative about Peter, John, and the Empire.",
+        "distantie_effect": "High; creates a 'lecture' feel for 80% of the duration."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "70%",
+        "gebruik": "Historical narrative of Acts."
+      },
+      "tijdloos_present": {
+        "frequentie": "20%",
+        "gebruik": "Theological principles about power and resurrection."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The table and the current invitation."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History) -> Directive (Think/Imagine).",
+      "voorbeelden": [
+        "This is an ancient story... I invite you to think about this."
+      ],
+      "probleem": "The move to action (Directive) is based on information (Assertive) rather than a new reality (Declarative)."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Brief shift at the end: Assertive (Easter) -> Declarative (You are a child) -> Directive (Defy status quo).",
+      "voorbeelden": [
+        "You also are a child... You also are authorized... You also are invited to defy."
+      ],
+      "kwaliteit": "The Declarative is present but buried under the weight of the preceding Assertives."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because this power for life surges among us... you are invited to defy."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "The apostles performed a mini-resurrection... (no immediate link to the hearer's power until the end)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions primarily as a socio-political commentary on a biblical text. It 'talks about' resurrection as a category of power rather than 'performing' resurrection through the word.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "Exegesis",
+        "tekstueel_bewijs": "Analysis of the 'unauthorized movement' vs 'imperial surveillance'.",
+        "effect": "Provides a fresh, challenging perspective on the text's context."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Sections I, II, and III are almost entirely 3rd person past tense.",
+        "probleem": "The hearer is an observer of Peter's boldness, not a recipient of Christ's power.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "The 'event' is delayed until the very end. Most of the sermon is a report on a past event.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'Creative Word' (Declarative) that brings what it says into being until the final sentences."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, God is the source of the 'juices of life,' but the preacher speaks more as a social analyst.",
+      "prediker_als_mandataris": "Weak; the preacher acts more as a 'witness to a witness' (Peter).",
+      "tekstueel_bewijs": [
+        "I invite you to think about this."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Historical recognition only.",
+      "perlocutie_theologie": "Not explicitly addressed.",
+      "tekstueel_bewijs": [
+        "He was 'filled with the Holy Spirit'."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Low; the sermon is a preparation for the 'table of life' rather than being a meal in itself.",
+      "epifanisch_taalgebruik": "Limited to the final paragraph.",
+      "tekstueel_bewijs": [
+        "As we come to this table of life..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'They did/He was' to 'Christ does/You are'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The apostles have performed a mini-resurrection.",
+          "voorgestelde_revisie": "In the name of the risen Christ, I declare that a mini-resurrection is happening in your life today.",
+          "verschil": "Shifts from historical report to present-tense sacramental event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is conditional on 'imagining'.",
+      "suggestie": "Use the Commissive 'God promises'.",
+      "voorbeeldzinnen": [
+        "God promises you today that the same Spirit that filled Peter is being poured into you now."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'They' (Apostles/Authorities).",
+      "suggestie": "Interweave the 'You' throughout the narrative.",
+      "voorbeeldzinnen": [
+        "When the authorities look at your life, do they see an unauthorized power?"
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'defy' lacks a strong present-tense indicative foundation.",
+      "suggestie": "Ground the 'defy' in the 'I authorize you' declarative."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has brilliant locutionary insight; by shifting the illocutionary force from 'talking about' Peter to 'addressing' the congregation with the same authority Peter used, this could become a truly sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'; SAT reveals the sermon is failing not psychologically, but ontologically as a Declarative act.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'Empire' metaphor; SAT critiques the lack of illocutionary 'binding' of God to the hearer.",
+    "unieke_inzichten_SAT": "SAT identifies that the sermon's power is 'trapped' in the 3rd person, preventing the 'event' from occurring until the final 10%."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "were",
+        "talking",
+        "walking",
+        "drawing",
+        "surprised",
+        "joined",
+        "took",
+        "owed",
+        "asked",
+        "threaten",
+        "wanted",
+        "performed",
+        "rehabilitated",
+        "imagined",
+        "claimed",
+        "was",
+        "answered",
+        "permeated",
+        "addressed",
+        "mocks",
+        "executed",
+        "raised",
+        "unleashed",
+        "transforms",
+        "accomplished",
+        "stunned",
+        "fit",
+        "turns out"
+      ],
+      "directief": [
+        "think",
+        "imagine",
+        "defy",
+        "stand up",
+        "walk"
+      ],
+      "expressief": [
+        "surprise",
+        "leapt",
+        "stunned"
+      ],
+      "commissief": [
+        "invite",
+        "will do"
+      ],
+      "declaratief": [
+        "are",
+        "authorized"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The apostles have performed a mini-resurrection.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a past miracle.",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "You also are a child of the big wonder of Easter.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Bestowing identity.",
+        "effectiviteit": "Strong, but late in the sermon."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'indicative of the past' rather than the 'indicative of the present grace'."
+  }
+}

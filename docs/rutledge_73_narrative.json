@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "A New Thing",
+    "bijbeltekst": "Isaiah 40–55",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God interrupts human hopelessness and the cycle of sin/idolatry by invading history to create a 'new thing' (resurrection and redemption) out of nothing.",
+      "subject": {
+        "identificatie": "God (Yahweh/Jesus)",
+        "tekstueel_bewijs": [
+          "I am doing a new thing!",
+          "God has become man.",
+          "He just gives the gift.",
+          "He puts redemption into our blanket."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "New Life / Redemption / The New Creation",
+        "tekstueel_bewijs": [
+          "the rectification of all things",
+          "the total obliteration of evil",
+          "water where there was no water"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God's own nature / The Future of God",
+        "tekstueel_bewijs": [
+          "for my own sake I will remember your former condition no more",
+          "dependent not upon our merits but upon his own nature"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Exiles / The Hearer / The Hopeless",
+        "tekstueel_bewijs": [
+          "O Israel, you will not be forgotten by me",
+          "Jesus stoops down to us in our miserable condition"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Suffering Servant / Jesus Christ",
+        "tekstueel_bewijs": [
+          "the Lord has laid on him the iniquity of us all",
+          "paying in his own body the price of sin"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (God invading from the future)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, Idolatry, and the 'Normal Progression of Things'",
+        "tekstueel_bewijs": [
+          "sin, idolatry, addiction, greed, pride",
+          "the sinful and corrupting past",
+          "idols that cannot save"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is described as a sphere of power (the past/death) that only a divine invasion can overcome."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Human attempts to 'turn themselves around' or balance moral ledgers.",
+      "subject": "The Hearer / The Addict / The Legalist",
+      "object": "Self-improvement / Moral security",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The secondary program is exposed as a failure (idolatry/hopelessness) which is superseded by the primary program of Grace."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Nature → New Life → The Hopeless",
+      "helper_subject_tegenstander": "The Cross → God ← Sin/Death",
+      "subject_naar_object": "God → Redemption"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "15",
+      "ratio": "2.8",
+      "voorbeelden_god_subject": [
+        "God delivered messages to him.",
+        "God will interrupt the normal progression.",
+        "He just gives the gift.",
+        "He puts redemption into our blanket."
+      ],
+      "voorbeelden_mens_subject": [
+        "We chase after this new thing.",
+        "She had been taught to add up her faults.",
+        "We can begin to imagine."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "she didn’t have to do it anymore"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we respond to this",
+          "we hope for from the future"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "hidden things which you have not known"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "God’s power to call a new creation into being",
+          "sphere of power capable of calling into existence the things that do not exist"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses entirely on God's 'Ability' (Pouvoir) in the face of human 'Inability'. It is a theology of divine capacity."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "New Life (Grace)",
+      "s2": "No New Life (Death/Exile)",
+      "niet_s1": "Moral Ledger (Legalism)",
+      "niet_s2": "Idolatry (False Hope)"
+    },
+    "beweging_in_preek": "Starts at S2 (No New Life), moves to ~S1 (the failure of moral ledgers), and is resolved by S1 (God's invasion).",
+    "theologische_resolutie": "The tension is resolved by the 'New Thing' which is the Cross—God taking S2 upon Himself.",
+    "ernst_van_s2": "High; the sermon emphasizes the total loss of home, nation, and identity in exile."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently positions God as the active Subject and the human as the passive Receiver of a gift that cannot be self-generated.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional logic (None found)",
+        "tekstueel_bewijs": "N/A",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as active Subject of verbs",
+        "tekstueel_bewijs": "God has become man... He just gives the gift.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Unconditional Gift",
+        "tekstueel_bewijs": "He does not ask us what we are doing to make ourselves better; he just gives the gift.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are not used as models for behavior but as recipients of God's action.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sermon treats Israel's exile as a state of death requiring resurrection, not a moral example to follow."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope; removal of the burden of self-justification.",
+      "theologische_implicatie": "Monergistic salvation; God is the sole author of the 'New Thing'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the Old Testament promise to the New Testament fulfillment in Christ is structurally seamless.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "paying in his own body the price of sin",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on the Christological endowment of new life rather than the indwelling Spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; sin is a 'corrupting past' and 'idolatry' that renders humans 'less than nothing'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of theocentric narrative structure where God is the Subject and the human is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "Maintain current structure.",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "The hearer is correctly positioned as the 'exile' or 'addict' receiving a gift.",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy emphasis on Pouvoir (God's power).",
+      "voorgestelde_balans": "Could slightly increase Vouloir (the hearer's response of 'Singing a new song').",
+      "concrete_suggestie": "Expand on what 'Singing to the Lord a new song' looks like as a response to the gift."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as death and hopelessness.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's act) correctly precedes and grounds the response."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon masterfully avoids the trap of moralism by making God the sole agent of the 'New Thing'. The use of the Port Authority illustration perfectly mirrors the actantial role of the Receiver."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'New!' advertising hook, Greimas reveals that 'New' functions as the Object of Value that only the Divine Subject can provide.",
+    "verschil_met_exegese": "Exegesis explains the Babylonian context; Greimas shows how that context creates a 'lack' (S2) that necessitates a specific actantial movement.",
+    "unieke_inzichten_greimas": "Greimas highlights that the 'idols' are failed Subjects/Helpers, emphasizing that the conflict is not just between people, but between competing 'powers' of creation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (delivered, will interrupt, is doing, blots out, remembers, comes, stoops, gives, puts)",
+      "Israel (suffered, had forsaken, will not be forgotten)",
+      "Idols (cannot save, have nothing to say)"
+    ],
+    "volledige_object_lijst": [
+      "New things",
+      "Redemption",
+      "Comfort",
+      "Water in the desert",
+      "The price of sin"
+    ],
+    "werkwoord_frequentie": {
+      "give": {
+        "count": "6",
+        "primair_subject": "God"
+      },
+      "create": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "turn around": {
+        "count": "3",
+        "primair_subject": "Man (as failure)"
+      }
+    },
+    "notities": "The sermon uses the 'No New Life' calendar typo as a brilliant semiotic marker for the state of S2 (Contrary of Grace)."
+  }
+}

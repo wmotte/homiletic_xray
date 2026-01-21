@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "The Lamb of God",
+    "bijbeltekst": "John 1:29; Genesis 22:8; Hebrews 9:22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God provides a definitive sacrifice (the Lamb) to extricate humanity from the cosmic powers of Sin and Death, which humanity is incapable of overcoming alone.",
+      "subject": {
+        "identificatie": "God / Jesus Christ",
+        "tekstueel_bewijs": [
+          "God himself will provide the lamb",
+          "In Jesus Christ, God has provided his own sacrifice",
+          "He stepped into the place prepared for him",
+          "God is acting, both to take sin upon himself and to take it away"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Deliverance/Atonement (The 'Great Exchange')",
+        "tekstueel_bewijs": [
+          "takes away the sin of the world",
+          "deliverance 'out of bondage into freedom'",
+          "new life and new righteousness"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Eternal Decree",
+        "tekstueel_bewijs": [
+          "God himself will provide",
+          "the contract that had passed between his Father and him"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Hearer ('You')",
+        "tekstueel_bewijs": [
+          "the sin of the world",
+          "spared our houses",
+          "It is you who are 'washed in the blood of the Lamb'"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Word / Biblical Revelation",
+        "tekstueel_bewijs": [
+          "It is the Word of God reaching out for you",
+          "the book of Revelation gives us a number of clues"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Revelatory)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and the Devil (The Destroyer)",
+        "tekstueel_bewijs": [
+          "the angel of death",
+          "bottomless depths of wickedness",
+          "the specter of Death",
+          "the curse of sin"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a downward spiral of self-destruction and a cosmic power that humanity cannot extricate itself from."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's response of 'beholding' and 'believing' the work of the Lamb.",
+      "subject": "The Hearer",
+      "object": "Faith/Beholding",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program is a response to the completed action of the primary Subject (God)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God the Father → Salvation/Forgiveness → The World/Hearer",
+      "helper_subject_tegenstander": "The Word/Scripture → Jesus Christ ← Sin/Death/Satan",
+      "subject_naar_object": "God in Christ → The Taking Away of Sin"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 18,
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God himself will provide the lamb",
+        "He comes into a world full of religion",
+        "He stepped into the place prepared for him",
+        "God has made the Great Exchange"
+      ],
+      "voorbeelden_mens_subject": [
+        "We cannot produce our own salvation",
+        "Many of us have heard and said",
+        "you shall keep this service"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "none of you shall go out of the door",
+          "you shall keep this service"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "beseech you to behold",
+          "preacher may crave [compliments]"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "Here's what the people of John's time knew",
+          "very few know what the Lamb of God image signifies"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "incapacity of human beings to extricate ourselves",
+          "Only the intervention of God can do it",
+          "it is impossible that the blood of bulls and goats should take away sins"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon centers on human 'non-pouvoir' (inability) vs. God's 'pouvoir' (sovereign power to save)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace (The Lamb's Sacrifice)",
+      "s2": "Judgment (The Destroyer/Death)",
+      "niet_s1": "Religion/Ritual (Inefficacious sacrifice)",
+      "niet_s2": "Deliverance (The Passover)"
+    },
+    "beweging_in_preek": "Moves from the failure of S1-negated (Religion/Bulls/Goats) to the threat of S2 (Death), resolved by S1 (The Lamb) providing Not-S2 (Deliverance).",
+    "theologische_resolutie": "The tension is resolved through the 'Great Exchange' where the Subject takes S2 to grant S1.",
+    "ernst_van_s2": "High; Death and Sin are treated as ontological realities, not just mistakes."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is rigorously theocentric. God is the primary actor; humans are the passive beneficiaries of a cosmic rescue operation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in 'Beholding'",
+        "tekstueel_bewijs": "beseech you to behold for yourselves",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Salvation",
+        "tekstueel_bewijs": "God will provide himself the lamb",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Human Inability",
+        "tekstueel_bewijs": "We cannot produce our own salvation.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (Abraham, Isaac, John) are used as types or witnesses, not as moral examples to emulate.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: Isaac is the one 'snatched back' by God's provision."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe; shift from self-reliance to trust.",
+      "theologische_implicatie": "Monergistic view of salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The narrative programs are perfectly ordered: God acts, the hearer receives and beholds.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "provided his own Lamb as a substitute... the Great Exchange",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on the Christological work; the Spirit's role is implied in the 'beholding'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total depravity/incapacity ('bottomless depths of wickedness')."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon maintains a consistent 'God-as-Subject' structure, avoiding the trap of turning the Gospel into a 'how-to' guide.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; it serves the Maundy Thursday context.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined (Sin/Death).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology remains primary."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of a theocentric sermon that uses the actantial role of God to provide true comfort."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'Behold' imagery, semiotics reveals that the 'engine' of the sermon is God's agency vs. human inability.",
+    "verschil_met_exegese": "Exegesis explains the 'Lamb' history; semiotics shows how that history functions as a 'Sender' of value to the modern 'Receiver'.",
+    "unieke_inzichten_greimas": "Greimas' model exposes that even when the preacher asks the congregation to 'do' something (behold), the modal competence (Pouvoir) remains entirely with God."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (provides)",
+      "Jesus (takes away)",
+      "The Lamb (vanquishes)",
+      "Humanity (cannot produce)",
+      "The Word (reaches out)"
+    ],
+    "volledige_object_lijst": [
+      "Sin of the world",
+      "Deliverance",
+      "New life",
+      "The Great Exchange"
+    ],
+    "werkwoord_frequentie": {
+      "provide": {
+        "count": 5,
+        "primair_subject": "God"
+      },
+      "take away": {
+        "count": 8,
+        "primair_subject": "God/Lamb"
+      },
+      "behold": {
+        "count": 6,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon successfully avoids 'exemplarism' by framing Abraham/Isaac not as a model for our sacrifice, but as a pointer to God's sacrifice."
+  }
+}

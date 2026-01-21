@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "titel_preek": "Prayer: A Two-Sided Deal",
+    "bijbeltekst": "Luke 11:1-13",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "950"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon provides an exegetical overview of Luke's version of the Lord's Prayer and the parables of the persistent friend and the father's gifts. It focuses on the 'impudence' of prayer and God's responsiveness.",
+      "exegetische_kwaliteit": "High. The preacher correctly identifies the grammatical imperatives in the Greek text and contextualizes 'anaideia' (persistence/shamelessness).",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is describing the nature of prayer and the character of God. It functions as a lecture on how prayer works rather than an act of prayer or a direct promise of God's presence.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Jesus instructs his followers to pray such imperatives.",
+        "The prayer acknowledges the limit of our capacity.",
+        "This text is about prayer."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To encourage the hearer to be more persistent and 'impudent' in their prayer life.",
+      "pneumatologisch_bewustzijn": "Theologically present (the Spirit is mentioned as the gift), but homiletically absent (the Spirit is not invoked to act now).",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "reflect",
+        "persist",
+        "acknowledge"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 42,
+      "procent": "75%",
+      "voorbeelden": [
+        "This text is about prayer.",
+        "God is the one who will be moved to act.",
+        "It turns out that human persons are agents of need."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "tells",
+        "exposits",
+        "means",
+        "points"
+      ]
+    },
+    "directieven": {
+      "frequentie": 8,
+      "procent": "15%",
+      "voorbeelden": [
+        "Jesus summons us to be like eight-year-old Aamira.",
+        "Jesus invites us to assertiveness."
+      ],
+      "dominante_werkwoorden": [
+        "summons",
+        "invites",
+        "must"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 3,
+      "procent": "5%",
+      "voorbeelden": [
+        "Did you also notice, as I did this time...",
+        "Deep breath..."
+      ],
+      "dominante_werkwoorden": [
+        "notice",
+        "know"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 2,
+      "procent": "3%",
+      "voorbeelden": [
+        "God will give the Holy Spirit... to those who ask him."
+      ],
+      "dominante_werkwoorden": [
+        "will give"
+      ],
+      "kwaliteit": "Weak. The promise is framed as a future possibility or a biblical fact rather than a present-tense 'I promise you on behalf of God'."
+    },
+    "declaratieven": {
+      "frequentie": 1,
+      "procent": "2%",
+      "voorbeelden": [
+        "Finally we arrive... at deep amazement."
+      ],
+      "dominante_werkwoorden": [
+        "arrive"
+      ],
+      "autoriteit": "Low. The preacher describes an arrival rather than declaring a state of grace."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'This text is about...'",
+        "Third-person descriptions of Jesus and God.",
+        "The use of an 8-year-old as a 'model' (moralism) rather than Christ as the 'gift'."
+      ],
+      "effect_op_hoorder": "The hearer learns about prayer but does not necessarily experience being heard by God."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Benediction as event"
+      ],
+      "effect_op_hoorder": "Information overload; the 'event' is replaced by an 'explanation'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes the mechanism of toezegging (God gives) but does not perform the toezegging (I give you God's word).",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 12,
+        "gebruik": "Mostly 'we' (inclusive group) or 'I' (preacher's observation)."
+      },
+      "tweede_persoon": {
+        "frequentie": 5,
+        "gebruik": "Limited to 'Some of you' or general 'you' in parables.",
+        "performatieve_context": "Low."
+      },
+      "derde_persoon": {
+        "frequentie": 45,
+        "gebruik": "Dominant. Talking about Jesus, God, Aamira, and 'human persons'.",
+        "distantie_effect": "High. It creates a lecture-hall atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical narrative and the Nashville example."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions of God and prayer."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Concluding summons."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Explanation of prayer) -> Directive (Be like Aamira).",
+      "voorbeelden": [
+        "Jesus summons us to be like eight-year-old Aamira."
+      ],
+      "probleem": "The imperative is not grounded in a present-tense declarative of grace, but in a moral example."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the 'Promise' link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Because we are dependent (Indicative), Jesus summons us to be shameless (Imperative)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is an excellent lecture on the theology of prayer but fails to be an act of prayer or a sacramental event. It talks 'about' the imperatives of the Lord's Prayer without uttering a performative imperative to the congregation.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The analysis of 'anaideia' as impudence.",
+        "effect": "Intellectual clarity."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "This text is about prayer.",
+        "probleem": "Objectifies the encounter.",
+        "ernst": "High"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "The sermon remains in the realm of ideas. It describes a 'strange transaction' but does not facilitate it.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that binds God to the hearer in the 'now'."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the preacher's description.",
+      "prediker_als_mandataris": "Weak. The preacher acts as a commentator, not a herald.",
+      "tekstueel_bewijs": [
+        "Jesus tells another story...",
+        "This text also re-characterizes God..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as a topic.",
+      "perlocutie_theologie": "No. The preacher tries to 'summon' the effect himself.",
+      "tekstueel_bewijs": [
+        "How much more will the heavenly father give the Holy Spirit."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is treated as an 'exposition'.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "It exposits the strange transaction..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 3rd person singular verbs (is, tells, says). Needs 2nd person performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God is the one who will be moved to act.",
+          "voorgestelde_revisie": "God is here now, and He is moved by your cry.",
+          "verschil": "Shifts from a general truth to a present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise of the Holy Spirit is quoted but not applied.",
+      "suggestie": "Directly promise the Spirit to the specific needs of the congregation.",
+      "voorbeeldzinnen": [
+        "To you who are exhausted tonight, God promises His Holy Spirit."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'human persons'.",
+      "suggestie": "Use 'You'.",
+      "voorbeeldzinnen": [
+        "You must knock on His door."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to be 'impudent' feels like a new law.",
+      "suggestie": "Ground the impudence in the fact that God has already opened the door."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The exegesis is brilliant, but don't just teach us about the door—knock on it with us!"
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'. SAT reveals that the preacher is failing to use the 'Declarative' key to unlock the sacramental event.",
+    "verschil_met_retoriek": "Rhetorically, the Aamira story is a great 'pathos' element. In SAT, it is merely an 'Assertive' example that lacks 'Commissary' force.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'urgent' topic, the linguistic structure is static and detached."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "tells",
+        "exposits",
+        "recognizes",
+        "acknowledges",
+        "points",
+        "means"
+      ],
+      "directief": [
+        "summons",
+        "invites",
+        "ask",
+        "knock",
+        "seek"
+      ],
+      "expressief": [
+        "notice",
+        "know",
+        "breath"
+      ],
+      "commissief": [
+        "will give"
+      ],
+      "declaratief": [
+        "arrive"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "This text is about prayer.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Constative",
+        "effectiviteit": "Low - creates distance."
+      }
+    ],
+    "notities": "The sermon is homiletically 'safe' but sacramentally 'silent'."
+  }
+}

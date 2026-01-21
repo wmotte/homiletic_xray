@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "titel_preek": "First Sermon: The Justification of the Ungodly",
+    "bijbeltekst": "Luke 23:32–34; Romans 4:5, 5:6-8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the limits of forgiveness through the lens of Christ's prayer on the cross, contrasting the 'unwitting' sins of Leviticus with 'high-handed' iniquity. It moves into Paul's theology of justification as the divine solution for the ungodly.",
+      "exegetische_kwaliteit": "Strong. Effectively bridges the gap between the Lukan narrative and Pauline theology, using the Old Testament sacrificial system as a foil.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the nature of God's righteousness, with a significant shift toward promising (commissive) and declaring (declarative) in the final third.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "God is the one who justifies the ungodly.",
+        "The Son of God... has stepped out in front to protect us.",
+        "I forgive you (implied through the lens of Christ's act)."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should move from a sense of moral distance to a realization of their own 'ungodliness' and subsequent relief through Christ's intervention.",
+      "pneumatologisch_bewustzijn": "Implicit. The sermon relies on the 'event' of the Word and the hymn to effect change, though the Spirit is not explicitly named as the agent.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "trust",
+        "rejoice",
+        "recognize",
+        "adore"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "82",
+      "procent": "70",
+      "voorbeelden": [
+        "Jesus Christ was being nailed to the cross.",
+        "Paul’s favorite word justification means the same thing as righteousness.",
+        "Human justice is exceedingly imperfect."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "says",
+        "noted"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "3",
+      "voorbeelden": [
+        "Never mind Osama bin Laden.",
+        "Think on thy pity (hymn quote)."
+      ],
+      "dominante_werkwoorden": [
+        "mind",
+        "think",
+        "pray"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "10",
+      "voorbeelden": [
+        "I was struck by an article.",
+        "How I look forward to that day!",
+        "Alas, my treason... hath undone thee."
+      ],
+      "dominante_werkwoorden": [
+        "struck",
+        "look forward",
+        "adore"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "10",
+      "procent": "12",
+      "voorbeelden": [
+        "God is able to do mighty works of making right what has been wrong.",
+        "He will incorporate us into himself.",
+        "The Father... awaits us with arms flung wide."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "is going to",
+        "awaits"
+      ],
+      "kwaliteit": "High. The promises are grounded in the 'extra nos' of Christ's death."
+    },
+    "declaratieven": {
+      "frequentie": "6",
+      "procent": "5",
+      "voorbeelden": [
+        "This is the gospel.",
+        "You are already being remade by the sacrifice of Christ.",
+        "We are the ungodly for whom Christ died."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "remade"
+      ],
+      "autoriteit": "Strong. The preacher speaks as a mandatory of the Pauline gospel."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "PERFORMATIVE_ADEQUATE",
+    "constatief_percentage": "70",
+    "performatief_percentage": "30",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Lengthy anecdotal section on the NYT article and the legal case.",
+        "Historical explanation of Levitical law."
+      ],
+      "effect_op_hoorder": "Intellectual engagement and ethical reflection, but delays the 'encounter'."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": false,
+      "ernst": "LOW",
+      "missende_elementen": [
+        "Direct second-person absolution ('I declare you righteous')."
+      ],
+      "effect_op_hoorder": "The hearer is addressed as 'the ungodly' which is performative, but the specific 'I-Thou' moment is concentrated at the end."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "5",
+      "kwaliteit_toezeggen": "Very high; uses the 'while we were yet sinners' logic to bind God to the hearer.",
+      "voorbeelden": [
+        "God is going to make right what is wrong with me.",
+        "The Son of God... has stepped out in front to protect us."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "28",
+        "gebruik": "Personal anecdotes and inclusive 'we' in the theological application."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Directly identifying the hearer as the 'ungodly' and the 'defenseless'.",
+        "performatieve_context": "Used to apply the justification of Christ directly to the listener's status."
+      },
+      "derde_persoon": {
+        "frequentie": "55",
+        "gebruik": "Discussing Jesus, Paul, the lawyer, and terrorists.",
+        "distantie_effect": "Creates a narrative distance that is only collapsed in the final paragraphs."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40",
+        "gebruik": "Passion narrative and legal anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "30",
+        "gebruik": "Theological definitions of justification and righteousness."
+      },
+      "actueel_present": {
+        "frequentie": "30",
+        "gebruik": "The 'now' of the gospel proclamation and the singing of the hymn."
+      }
+    },
+    "adressering_effectiviteit": "8"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Avoids the 'Jesus died, so you must try harder' trap.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (The problem of sin/law) -> Declarative (Christ died for the ungodly) -> Commissive (He will remake you).",
+      "voorbeelden": [
+        "We are guilty as hell... but the Son of God... has stepped out in front to protect us."
+      ],
+      "kwaliteit": "Excellent. The imperative is almost entirely absent, replaced by the 'event' of being remade."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "If you understand this, you are already being remade."
+      ],
+      "slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "SACRAMENTAL_CREATIVE",
+    "diagnose_toelichting": "The sermon functions as a sacramental event because it doesn't just talk about justification; it attempts to 'justify' the hearer by identifying them as the ungodly for whom the work is finished.",
+    "sterke_punten": [
+      {
+        "aspect": "Identification",
+        "categorie": "Declarative",
+        "tekstueel_bewijs": "The ungodly people are you and me.",
+        "effect": "Collapses the distance between the biblical text and the hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Anecdotal Surplus",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The lengthy description of Alaric Piette.",
+        "probleem": "The 'talking about' (constative) dominates the first half, risking a lecture-like feel.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": "8",
+    "gebeuren_toelichting": "The sermon becomes an event in the final third where the 'legal train' of the hearer is stopped by the 'protective act' of Christ.",
+    "sacramentele_kracht": "9",
+    "sacramentele_toelichting": "The use of the hymn as a concluding performative act where the congregation 'recognizes' their status is a masterstroke of sacramental homiletics."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, through the 'Toezegging' of the Pauline text.",
+      "prediker_als_mandataris": "Yes, especially in the 'This is the gospel' declaration.",
+      "tekstueel_bewijs": [
+        "The Son of God... has stepped out in front to protect us."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Implicitly, through the 'remaking' of the hearer.",
+      "perlocutie_theologie": "Yes, the preacher trusts the Word to 'remake' the hearer.",
+      "tekstueel_bewijs": [
+        "If you understand this, you are already being remade."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Clearly viewed as a means of grace that does what it says.",
+      "epifanisch_taalgebruik": "Yes, the imagery of the 'legal train' and the 'arms flung wide'.",
+      "tekstueel_bewijs": [
+        "God is the one who justifies the ungodly."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on past-tense assertives initially but successfully pivots to present-tense performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Paul says in Romans 4 that we are justified by the blood of Jesus.",
+          "voorgestelde_revisie": "Today, through this Word, the blood of Jesus justifies you.",
+          "verschil": "Moves from a report about Paul to a present-tense sacramental act."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": false,
+      "probleem": "None",
+      "suggestie": "Maintain the current trajectory.",
+      "voorbeeldzinnen": [
+        "Christ died for you, the ungodly."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The first half is very 'third person'.",
+      "suggestie": "Interject the 'you' earlier in the legal anecdote.",
+      "voorbeeldzinnen": [
+        "Like that defendant, you too stand before a system that condemns."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is excellent.",
+      "suggestie": "Keep the focus on the indicative as the creative force."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A profound example of how to move from 'talking about' grace to 'performing' grace through the identification of the hearer with the text."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' regarding the NYT article; SAT focuses on the 'Declarative' power of the Gospel to change the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'courage' of the lawyer; SAT focuses on the 'Illocution' of the promise that Christ protects the ungodly.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power isn't in the story of the lawyer, but in the shift from the 'Constative' history of Leviticus to the 'Performative' justification of the present congregation."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "said",
+        "is",
+        "means",
+        "explains",
+        "noted",
+        "prescribes",
+        "represents"
+      ],
+      "directief": [
+        "mind",
+        "think",
+        "pray"
+      ],
+      "expressief": [
+        "struck",
+        "look forward",
+        "adore",
+        "agree"
+      ],
+      "commissief": [
+        "will",
+        "awaits",
+        "promises",
+        "protect"
+      ],
+      "declaratief": [
+        "is",
+        "are",
+        "remade",
+        "justifies"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "We are guilty as hell... but the Son of God... has stepped out in front to protect us.",
+        "categorie": "Declarative/Commissive",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Theological climax that performs the 'event' of the sermon."
+      }
+    ],
+    "notities": "The inclusion of the hymn 'Ah, Holy Jesus' functions as a collective performative response, sealing the illocutionary act of the preacher."
+  }
+}

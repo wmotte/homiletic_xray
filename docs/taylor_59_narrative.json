@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "The Answer To A Riddle",
+    "bijbeltekst": "John 14:12-13",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The transition of Christ from physical limitation to universal spiritual power through the Ascension, enabling His followers to perform 'greater works' through His intercession.",
+      "subject": {
+        "identificatie": "Jesus Christ (The Risen/Ascended Lord)",
+        "tekstueel_bewijs": [
+          "that will I do",
+          "he offered himself a ransom",
+          "he now is everywhere",
+          "he ever makes intercession"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "The 'Greater Works' (Universal witness, healing, and spiritual presence)",
+        "tekstueel_bewijs": [
+          "greater works than these shall he do",
+          "new powers would be turned loose"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Father",
+        "tekstueel_bewijs": [
+          "because I go unto my Father",
+          "that the Father may be glorified in the Son"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Believer / The Church",
+        "tekstueel_bewijs": [
+          "He that believeth on me",
+          "Christ's people"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Ascension / The Death and Resurrection",
+        "tekstueel_bewijs": [
+          "because I go unto my Father",
+          "power in the blood"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (implied through the 'going away')"
+      },
+      "tegenstander": {
+        "identificatie": "Physical Limitation / Localization",
+        "tekstueel_bewijs": [
+          "He could not be both here and there",
+          "limited himself to being in only one place"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The limitation is ontological—the constraint of the Incarnation itself must be overcome by the Ascension to reach the world."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer performing works and praying in Jesus' name.",
+      "subject": "The Believer",
+      "object": "Service, preaching, and prayer",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The believer's 'doing' is entirely contingent upon Christ's 'going' to the Father."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Father → Greater Works → The Believer",
+      "helper_subject_tegenstander": "Ascension → Christ ← Physical Limitation",
+      "subject_naar_object": "Christ → Universal Power/Intercession"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 18,
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "He exposed the heart of God",
+        "He radically and gloriously altered [lives]",
+        "Christ... would be giving his people an even greater good",
+        "He ever makes intercession"
+      ],
+      "voorbeelden_mens_subject": [
+        "We may take them to Calvary",
+        "We have but to ask him",
+        "the works that I do shall he do also"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "the mind is called on to give the answer"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "every Christian would want to see Jesus"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "The simplest mind can understand what it says",
+          "I did not have the answer"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "new powers would be turned loose",
+          "He can do: he sits at the right hand of God"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Ability' (Pouvoir) of Christ which is then shared with the believer. It is a theology of empowerment through union with the Ascended Lord."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Universal Presence (Ascension)",
+      "s2": "Localized Absence (Death/Limitation)",
+      "niet_s1": "Physical Proximity (Incarnation limitation)",
+      "niet_s2": "Spiritual Intercession"
+    },
+    "beweging_in_preek": "From the 'Riddle' of S2 (limitation) to the 'Answer' of S1 (universal power via the Father).",
+    "theologische_resolutie": "The tension is resolved by the 'going to the Father' which transforms a loss (physical absence) into a gain (spiritual ubiquity).",
+    "ernst_van_s2": "High; the preacher emphasizes that without the Ascension, the Gospel would be a localized, inaccessible phenomenon."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. While it speaks of the believer 'doing' works, the 'engine' of the action is Christ's status at the right hand of God. The believer is the beneficiary of Christ's movement.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism",
+        "tekstueel_bewijs": "the works that I do shall he do also",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Primary Subject",
+        "tekstueel_bewijs": "Whatsoever ye shall ask in my name, that will I do",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "innocent for the guilty, the good for the bad",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are used as evidence of Christ's power, not as models for human imitation.",
+      "bijbelse_figuren_als_model": [
+        "Simon",
+        "Mary Magdalene",
+        "Zacchaeus"
+      ],
+      "alternatieve_lezing": "These are 'made-whole' and 'second-chance' people—objects of Christ's action."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope; the burden of 'greater works' is shifted to Christ's intercessory power.",
+      "theologische_implicatie": "Soteriology precedes and empowers ethics."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The 'riddle' structure perfectly integrates the biblical text with the theological conclusion.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "the innocent for the guilty, the good for the bad, how he offered himself a ransom for many",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon attributes the 'Pouvoir' to the Ascended Christ directly rather than explicitly naming the Holy Spirit, though the function is pneumatological."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "High; requires a 'ransom' and 'shedding of blood'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God/Christ as the Subject of the primary narrative. The 'greater works' of the believer are correctly framed as the fruit of Christ's heavenly session.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain as is; this is a strong grace-orientation.",
+      "concrete_suggestie": "The preacher could slightly increase the role of the Holy Spirit as the 'Helper' actant to clarify *how* the power is transmitted."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The 'Opponent' of physical limitation is well-developed.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ's work) → Ethics (Believer's works)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterpiece of theocentric preaching that resolves a difficult text by shifting the actantial focus from human effort to Christ's post-Ascension agency."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'riddle' metaphor; Greimas shows that the riddle is actually a structural shift in the Subject's location.",
+    "verschil_met_exegese": "Exegesis explains the Greek; semiotics explains why the 'greater works' don't turn into a 'to-do list' for the congregation.",
+    "unieke_inzichten_greimas": "Reveals that the 'greater works' are only possible because the Subject (Christ) changed His modal competence from 'Localized' to 'Universal'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (exposed)",
+      "Jesus (split the centuries)",
+      "Devils (ran)",
+      "Christ (is gone)",
+      "He (makes intercession)"
+    ],
+    "volledige_object_lijst": [
+      "the heart of God",
+      "the old dispensation",
+      "greater works",
+      "remission"
+    ],
+    "werkwoord_frequentie": {
+      "do": {
+        "count": 12,
+        "primair_subject": "God/Man"
+      },
+      "go": {
+        "count": 8,
+        "primair_subject": "God"
+      },
+      "help": {
+        "count": 4,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon avoids the trap of 'moral exemplarism' by framing the 'greater works' as a result of Christ's status, not the believer's virtue."
+  }
+}

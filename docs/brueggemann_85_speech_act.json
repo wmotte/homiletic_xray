@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "titel_preek": "Seeing Clearly, Loving Dearly, Following Nearly",
+    "bijbeltekst": "John 9",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A narrative retelling of the healing of the man born blind, focusing on the conflict between the man's testimony and the authorities' rigid categories.",
+      "exegetische_kwaliteit": "Strong narrative flow; focuses on the sociopolitical and religious tension of the text rather than grammatical exegesis.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily describes the biblical scene and analyzes the modern condition, acting as a commentator on the text.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "The man born blind is a witness.",
+        "The confrontation... is a dramatic one.",
+        "This text strikes me as especially pertinent to us now."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the hearer realize their own 'blindness' or 'sight' and choose to side with the 'new possibility' of Jesus.",
+      "pneumatologisch_bewustzijn": "Low; the focus is on the human decision and the 'invitation' rather than the Spirit's agency.",
+      "perlocutionaire_werkwoorden": [
+        "decide",
+        "notice",
+        "see",
+        "worship",
+        "follow"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "It is all about seeing or not seeing.",
+        "The parents never mention the name of Jesus.",
+        "Jesus is an invitation and a chance."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "testifies",
+        "moves",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Imagine us as participants.",
+        "Get this.",
+        "Ask him."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "decide",
+        "ask"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "This text strikes me as especially pertinent.",
+        "He mocks them."
+      ],
+      "dominante_werkwoorden": [
+        "strikes",
+        "mocks",
+        "care"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "Jesus is an invitation and a chance."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "kwaliteit": "Weak; the promise is described as an abstract 'possibility' rather than a direct 'I promise you' from God."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent; the preacher does not speak in the name of God to change the hearer's status."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive retelling of the story in the 3rd person.",
+        "Analysis of 'old managed truth' as a concept.",
+        "The use of 'It is all about...' (descriptive definition)."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a drama or a student of a lecture rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the 'you'",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "The hearer is left with the burden of 'deciding' (Directive) without the empowerment of the 'Promise' (Commissive)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent; grace is discussed as a 'possibility' but not 'toezegging' (bestowed).",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Mostly 'we' (inclusive) or 'I' (preacher's perspective)."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Used to describe the hearer's situation ('given you by your mother'), but rarely as the object of a divine act."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant; talking about 'the man', 'the authorities', 'Jesus', and 'the world'.",
+        "distantie_effect": "High; creates a narrative distance where the gospel is a story to be analyzed."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Historical narrative of John 9."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "General truths about 'managed truth' and 'ideology'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the congregation's decision."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Explanation of the story) -> Directive (We must decide).",
+      "voorbeelden": [
+        "Jesus is an invitation... And we are always deciding."
+      ],
+      "probleem": "It skips the performative middle (the gift) and moves straight to the human requirement (decision)."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We do not need to decide everything. What we need to decide concerns Jesus."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a narrative commentary. It explains the dynamics of the text brilliantly but fails to perform the text's grace upon the listener.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Analysis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The contrast between 'managed truth' and 'inexplicable possibility'.",
+        "effect": "Intellectual clarity."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Performative Force",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "It is all about noticing or not noticing.",
+        "probleem": "Reduces the Gospel to a cognitive or volitional 'noticing' rather than a divine 'doing'.",
+        "ernst": "High"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a 'talk about' an event, not the event itself. The preacher describes Jesus' power but does not exercise it.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "No 'Toezegging' (Promise) or 'Vrijspraak' (Absolution) is enacted."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; the preacher speaks about God.",
+      "prediker_als_mandataris": "Weak; the preacher acts more as a social critic/commentator.",
+      "tekstueel_bewijs": [
+        "This text strikes me as..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is attributed to human 'decision' rather than the Spirit.",
+      "tekstueel_bewijs": [
+        "And we are the ones who decide."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; sermon as an 'invitation' to decide.",
+      "epifanisch_taalgebruik": "Low",
+      "tekstueel_bewijs": [
+        "Jesus is an invitation and a chance."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Overwhelming reliance on 'to be' (is/was) and 'to decide'. Needs a shift to 'to give', 'to promise', 'to forgive'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus is an invitation and a chance.",
+          "voorgestelde_revisie": "Today, Jesus gives you sight and sets you free from your old paralysis.",
+          "verschil": "Moves from a description of Jesus to an act of Jesus through the preacher."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The sermon ends on human effort (following, loving, seeing).",
+      "suggestie": "Insert a Commissive: 'God promises that His light will outshine your darkness.'",
+      "voorbeeldzinnen": [
+        "I announce to you: Christ has opened your eyes."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'the man'.",
+      "suggestie": "Use 'You'.",
+      "voorbeeldzinnen": [
+        "You, who are trapped in old mantras, are now released."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'decide' is not grounded in a performative indicative.",
+      "suggestie": "Declare the work of Christ as a finished reality for the hearer before asking for a response."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The analysis is brilliant, but the proclamation is missing. Shift from being a witness of the text to being a messenger of the King."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' (Directive) and 'self-revelation' (Expressive). SAT reveals that the 'Declarative' (the actual event) is missing.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (alliteration, structure). Illocutionarily, it is 'hollow' because it doesn't perform what it describes.",
+    "unieke_inzichten_SAT": "SAT exposes that 'talking about' a miracle is not the same as the miracle happening in the room through the Word."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "testifies",
+        "moves",
+        "introduced",
+        "wanted",
+        "fit",
+        "explain",
+        "quizzed",
+        "focus",
+        "neglected",
+        "follows",
+        "mention",
+        "strikes",
+        "watch"
+      ],
+      "directief": [
+        "imagine",
+        "get this",
+        "decide",
+        "ask",
+        "follow"
+      ],
+      "expressief": [
+        "strikes me",
+        "mocks",
+        "taunts"
+      ],
+      "commissief": [
+        "invitation (noun used as force)",
+        "chance"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "It is all about seeing or not seeing.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Defining",
+        "effectiviteit": "Informative but distancing."
+      },
+      {
+        "zin": "I was blind and now I see.",
+        "categorie": "ASSERTIVE/EXPRESSIVE",
+        "illocutionaire_kracht": "Testifying",
+        "effectiviteit": "Strong as a quote, but remains in the 1st person of the character/preacher."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus'. It is homiletically beautiful but sacramentally thin."
+  }
+}

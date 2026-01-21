@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "titel_preek": "Advent: The Absence of God and the Coming of the Light",
+    "bijbeltekst": "Mark 13:33–37; Matthew 3:1, 7–10",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God (the Master) returns to a household (the Church) currently experiencing His absence and the world's darkness, to judge and establish a new creation.",
+      "subject": {
+        "identificatie": "God / The Master / Jesus Christ",
+        "tekstueel_bewijs": [
+          "It is he who put the whole operation in motion",
+          "He will come in the future... as the King in his glory",
+          "A power from outside is coming... able to make a new creation"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation / New Creation / The Kingdom of Heaven",
+        "tekstueel_bewijs": [
+          "to make a new creation out of people like us",
+          "the kingdom of heaven is at hand"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The 'Advent Clock' (Divine Necessity)",
+        "tekstueel_bewijs": [
+          "The witness is from God; the light is from God"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Church / Humanity / 'People like us'",
+        "tekstueel_bewijs": [
+          "people who have no capacity of ourselves to save ourselves"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "John the Baptist / The Holy Spirit / Grace",
+        "tekstueel_bewijs": [
+          "John himself is the spotlight",
+          "It is God’s power that gives good deeds"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "The Powers of Darkness / Sin / Human Inability / The World's Calendar",
+        "tekstueel_bewijs": [
+          "the powers of darkness",
+          "the world’s resistance to God",
+          "no capacity of ourselves to save ourselves"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but 'the whole frame of this world' and 'the absence of God'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer, having received power, bears fruit and reorients their life.",
+      "subject": "The Believer / The Church",
+      "object": "Fruit of Repentance / Solidarity with others",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly stated as a result of the primary program (God's power)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → New Creation → The Church",
+      "helper_subject_tegenstander": "John the Baptist → God → Powers of Darkness",
+      "subject_naar_object": "God → Salvation of Man"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "He will come in the future",
+        "God’s power gives good deeds",
+        "He gathered its members"
+      ],
+      "voorbeelden_mens_subject": [
+        "we must cast away the works of darkness",
+        "we will become less interested in receiving personal blessings"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Keep awake",
+          "he must not find us asleep"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we will become more and more thankful"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "the Advent clock tells the church what time it is"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "I need power from outside myself to make me different",
+          "The power that is coming is not our power"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon acknowledges the 'Devoir' (Must) but identifies human 'Inpouvoir' (Inability), locating the solution in the 'Pouvoir' (Power) of God."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace / Presence of God",
+      "s2": "Judgment / Absence of God",
+      "niet_s1": "Works of Darkness / Self-righteousness",
+      "niet_s2": "Repentance / Mercy"
+    },
+    "beweging_in_preek": "Moves from S2 (Absence/Darkness) through ~S1 (Self-righteousness) to S1 (Grace/Power).",
+    "theologische_resolutie": "The tension is resolved by the 'One Who Comes' who bridges the gap between judgment and life.",
+    "ernst_van_s2": "High; the 'axe at the root' and 'darkness' are presented as real threats."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly rejects human capacity and locates the agency of change in an external divine power.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Imperative focus",
+        "tekstueel_bewijs": "Keep awake, then … if he comes suddenly, he must not find you asleep.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "External Agency",
+        "tekstueel_bewijs": "I need power from outside myself to make me different.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Soteriological Priority",
+        "tekstueel_bewijs": "It is God’s power that gives good deeds... We are able to repent and bear fruit because he is coming.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "John the Baptist is explicitly de-emphasized as an example and re-cast as a 'witness' or 'spotlight' pointing to Christ.",
+      "bijbelse_figuren_als_model": [
+        "John the Baptist (rejected as primary focus)"
+      ],
+      "alternatieve_lezing": "John is a signpost for God's action, not a model for human effort."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of self-transformation; vigilance based on hope rather than fear.",
+      "theologische_implicatie": "Monergistic sanctification (God as the primary mover in the believer's life)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'Master's absence' to 'God's power' is seamless and logically consistent.",
+      "spanning_punten": [
+        "The tension between 'Stay awake' (Command) and 'No capacity' (Inability)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "the kingdom of God is in head-on collision with the powers of darkness",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of 'Pouvoir-faire' (Power to do)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total inability; sin is a darkness and a collision of powers."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in theocentric narrative structure. God is the Subject of all transformative verbs.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Devoir (Must) in the first half.",
+      "voorgestelde_balans": "The second half corrects this by grounding Devoir in Pouvoir.",
+      "concrete_suggestie": "Ensure the 'Keep awake' command is always heard as a response to the 'Master's coming' rather than a condition for it."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as cosmic darkness.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Already correctly ordered)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon avoids the trap of moralism by explicitly stating that even the 'will' and 'ability' to repent are gifts from the coming God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'darkness' imagery; Greimas shows that the darkness is an actantial Opponent that only God can defeat.",
+    "verschil_met_exegese": "Exegesis explains Matthew 3; Greimas shows how the preacher reassigns the 'Subject' role from John/Hearer to God.",
+    "unieke_inzichten_greimas": "Reveals that the 'spotlight' metaphor for John the Baptist is a semiotic move to prevent the hearer from making John the Subject/Hero."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (established, gathered, assigned, put in motion, gave shape, returns, judges, gives power)",
+      "The Church (watches, waits, takes a beating, repents [by power], bears fruit [by power])"
+    ],
+    "volledige_object_lijst": [
+      "New Creation",
+      "The Kingdom",
+      "Fruit of Repentance"
+    ],
+    "werkwoord_frequentie": {
+      "come": {
+        "count": 14,
+        "primair_subject": "God"
+      },
+      "repent": {
+        "count": 6,
+        "primair_subject": "Man (enabled by God)"
+      },
+      "judge": {
+        "count": 4,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon follows Fleming Rutledge's grammar of grace perfectly."
+  }
+}

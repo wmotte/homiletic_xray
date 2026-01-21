@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "The Man with No Trousers",
+    "bijbeltekst": "Isaiah 53:6; Romans 3:22-23; Luke 18:13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1200"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God initiates a movement of grace toward humanity, who are lost sheep unable to find their way back, culminating in Christ taking on human iniquity and nakedness on the Cross.",
+      "subject": {
+        "identificatie": "God / The LORD / Jesus Christ",
+        "tekstueel_bewijs": [
+          "The LORD has laid on him the iniquity of us all",
+          "God looks at us and sees otherwise",
+          "The Son of God gave up all his divine prerogatives and came into the world"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Salvation / Reconciliation / The 'fellow-creature' in need",
+        "tekstueel_bewijs": [
+          "the salvation of the whole world",
+          "declared that we were not enemies but friends"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father (The source of goodness/mercy)",
+        "tekstueel_bewijs": [
+          "the Christian gospel does not start with us... but with God and his goodness"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity / The Hearer ('The man with no trousers')",
+        "tekstueel_bewijs": [
+          "he does it for love of us"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ (as the one who takes the iniquity)",
+        "tekstueel_bewijs": [
+          "The LORD has laid on him the iniquity of us all"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Self-will / Death / The 'Heart of Darkness'",
+        "tekstueel_bewijs": [
+          "We are driven by self-will",
+          "iniquity of us all",
+          "heart of darkness"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a 'heart of darkness' and 'iniquity' that renders humans 'lost' and 'enemies of God'—a state requiring divine intervention."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human attempt to cover nakedness/sin through 'potential' or 'righteous deeds'.",
+      "subject": "The Hearer / Humanity",
+      "object": "Self-justification / Covering nakedness",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program is exposed as a failure (filthy rags) to clear the way for the primary program (Grace)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation → Humanity",
+      "helper_subject_tegenstander": "Christ → God ← Sin/Self-will",
+      "subject_naar_object": "God → Reconciliation of the Enemy"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "The LORD is gracious",
+        "God looks at us",
+        "The Son of God gave up all his divine prerogatives"
+      ],
+      "voorbeelden_mens_subject": [
+        "We have drifted a long way",
+        "each of us has turned aside",
+        "we are seeking a payoff"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "Ten Commandments were not the Ten Suggestions"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Each of us wants to pursue his own course"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "we are losing the knowledge of God"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "found it impossible, humanly speaking, to avoid this",
+          "cannot find their way back"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on human INABILITY (non-pouvoir-faire) which necessitates God's POUVOIR (Grace)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Mercy",
+      "s2": "Judgment/Iniquity",
+      "niet_s1": "Self-Potential/Moralism",
+      "niet_s2": "Fellow-creature/Vulnerability"
+    },
+    "beweging_in_preek": "From S1 (God is gracious) to ~S1 (Human potential) to S2 (Iniquity/Sin) and finally to ~S2 (The vulnerable man with no trousers) where S1 meets him.",
+    "theologische_resolutie": "Christ occupies the position of the 'man with no trousers' (S2/nakedness) to bestow S1 (Grace).",
+    "ernst_van_s2": "High; sin is described as 'filthy rags' and 'heart of darkness'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly rejects human potential as a means of salvation and positions God as the primary actor who moves toward the helpless.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Initial appeal to commitment",
+        "tekstueel_bewijs": "By your presence here today, you demonstrate your commitment",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of the Gospel",
+        "tekstueel_bewijs": "the Christian gospel does not start with us... but with God",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Total Human Inability",
+        "tekstueel_bewijs": "lost their bearings altogether... cannot find their way back",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are used to illustrate the human condition (sin) rather than as models for behavior.",
+      "bijbelse_figuren_als_model": [
+        "The Tax Collector (as a model of prayer, not performance)"
+      ],
+      "alternatieve_lezing": "Theocentric: God justifies the ungodly."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and humility; realization of shared vulnerability.",
+      "theologische_implicatie": "Justification by grace alone through the substitutionary work of Christ."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The metaphor of the 'man with no trousers' perfectly bridges the gap between the human condition and the Cross.",
+      "spanning_punten": [
+        "The tension between the 'chosen few' in the audience and the 'millions' outside."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "The LORD has laid on him the iniquity of us all",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on the work of the Son; the Spirit's role in applying this is not explicit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; sin is an estrangement that humans cannot fix."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is powered by God's mercy toward a helpless Subject (Humanity).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on non-pouvoir (inability).",
+      "voorgestelde_balans": "Maintain current balance for a Good Friday context.",
+      "concrete_suggestie": "The sermon successfully moves from Devoir (Law) to Pouvoir (Grace)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as 'heart of darkness'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology is primary."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in theocentric preaching that uses a vivid secular metaphor to illuminate the deep structure of the substitutionary atonement."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the Orwell anecdote; semiotics shows how that anecdote functions as an actantial shift from Enemy to Fellow-creature.",
+    "verschil_met_exegese": "Exegesis would focus on the Hebrew of Isaiah 53; semiotics focuses on how the 'Sheep' actant is defined by its lack of direction.",
+    "unieke_inzichten_greimas": "Reveals that the 'Man with no trousers' is the 'Object' of God's 'Desire' precisely because of his lack of 'Competence'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (is gracious)",
+      "The LORD (has laid)",
+      "Jesus (did not teach)",
+      "We (have drifted)",
+      "Orwell (refrained)"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "Iniquity",
+      "Trousers (dignity)",
+      "Fellowship"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "2",
+        "primair_subject": "God"
+      },
+      "sin": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "look": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of Fleming Rutledge's 'Grammar of Grace'."
+  }
+}

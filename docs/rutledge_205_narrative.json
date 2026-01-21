@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Not Ashamed of Jesus",
+    "bijbeltekst": "Romans 1:16; Mark 8:38",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God acts through the Cross to save the ungodly and sustain them against cosmic powers, while the Church is called to confess this truth against the temptation of shame.",
+      "subject": {
+        "identificatie": "God/Jesus Christ",
+        "tekstueel_bewijs": [
+          "He who did not spare his own Son but gave him up for us all",
+          "Christ Jesus, who died, yes, who was raised from the dead",
+          "who indeed intercedes for us"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Salvation/Union with God's Love",
+        "tekstueel_bewijs": [
+          "nothing shall separate us from the love of God",
+          "died to save the ungodly"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "He who did not spare his own Son"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Ungodly / The Hearer",
+        "tekstueel_bewijs": [
+          "Christ died for the ungodly",
+          "gave him up for us all"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit",
+        "tekstueel_bewijs": [
+          "no one can say 'Jesus is Lord' except by the Holy Spirit"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Shame / The Powers / The Jesus Seminar",
+        "tekstueel_bewijs": [
+          "adulterous and sinful generation",
+          "death, nor life, nor angels, nor principalities",
+          "insidious developments... within the Church"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just intellectual doubt but 'Satanic' rejection of the Cross and cosmic 'powers' that seek to separate the believer from God."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer's confession and endurance of shame in the world.",
+      "subject": "The Hearer/Believer",
+      "object": "Confessing 'Jesus is Lord' and 'Taking up the cross'",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ability to confess (Secondary) is entirely dependent on the reality of Christ's intercession and the Spirit's power (Primary)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God the Father → Salvation/Love → The Ungodly",
+      "helper_subject_tegenstander": "Holy Spirit → Jesus Christ ← Death/Shame/Powers",
+      "subject_naar_object": "Jesus Christ → Intercession/Presence"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "35",
+      "ratio": "1.2",
+      "voorbeelden_god_subject": [
+        "He who did not spare his own Son",
+        "Christ Jesus... who indeed intercedes for us",
+        "The Son of man also be ashamed"
+      ],
+      "voorbeelden_mens_subject": [
+        "Whoever is ashamed of me",
+        "we are beginning to see significant erosion",
+        "Peter took him, and began to rebuke him"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "let him deny himself and take up his cross"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "If any one would come after me"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "I decided to know nothing among you except Jesus Christ"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "no one can say 'Jesus is Lord' except by the Holy Spirit",
+          "will be able to separate us from the love of God"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes the 'Pouvoir' (Power) of God that overcomes human 'Incapacité' (Inability). Human confession is only possible through the Spirit's endowment."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The Living Lord (Presence)",
+      "s2": "Shame/Death (Absence)",
+      "niet_s1": "Literary Presence (Abstraction)",
+      "niet_s2": "Religious Optimism (Impunity)"
+    },
+    "beweging_in_preek": "Moves from ~S1 (Jesus as mere literary figure) to S2 (The shame/death of the cross) to S1 (The interceding, living Lord).",
+    "theologische_resolutie": "Resolution is found in the 'Right hand of God'—the objective reality of the Resurrection.",
+    "ernst_van_s2": "Very high; the 'ungodly' nature of the cross is emphasized as a scandal."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It identifies the human condition as 'ungodly' and 'unspiritual,' making God the sole initiator of salvation and the Spirit the sole enabler of faith.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential for works-righteousness in 'taking up the cross'",
+        "tekstueel_bewijs": "let him deny himself",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of salvation",
+        "tekstueel_bewijs": "He who did not spare his own Son but gave him up for us all",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Total human inability",
+        "tekstueel_bewijs": "no one can say 'Jesus is Lord' except by the Holy Spirit",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The sermon explicitly attacks exemplarism, calling the shift to 'Jesus the spiritual exemplar' an 'insidious development.'",
+      "bijbelse_figuren_als_model": [
+        "Paul (as one not ashamed)",
+        "Peter (as a negative example of rebuking the cross)"
+      ],
+      "alternatieve_lezing": "Paul is not a hero of will, but one 'bearing the marks of Jesus' by the Spirit."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and ontological security in the face of suffering (suicide example).",
+      "theologische_implicatie": "Soteriology precedes and enables existence."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the intellectual crisis of the Church to the personal crisis of the grieving parents is perfectly bridged by the actant of the 'Interceding Christ.'",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "He died an ungodly death for ungodly people.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment: The Spirit gives the 'Pouvoir-dire' (Power to say) Lord."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical: Sin is seen as a power that causes shame and separation."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the primary Subject. It avoids the 'Helper-God' trap by making Christ the one who intercedes and the Spirit the one who enables confession.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is a classic grace structure.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Opponent is already cosmic (Death, Powers, Satan).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ's death) → Ethics (Bearing the cross)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in Rutledge's 'Grammar of Grace.' It refuses to let the hearer become the hero of their own faith."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis might focus on the 'Jesus Seminar' polemic, Greimas shows that the polemic serves to protect the 'Subject' status of the Living Christ.",
+    "verschil_met_exegese": "Exegesis explains Romans 8; actantial analysis shows how Romans 8 functions as the 'engine' of hope for the suicidal son's parents.",
+    "unieke_inzichten_greimas": "Reveals that 'shame' is an Opponent that attempts to strip the Subject (Christ) of His 'Object' (the believer)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (did not spare)",
+      "Christ (died, was raised, intercedes)",
+      "Spirit (enables speech)",
+      "Scholars (build case)",
+      "Paul (is not ashamed)"
+    ],
+    "volledige_object_lijst": [
+      "The Gospel",
+      "The Love of God",
+      "The Ungodly",
+      "The confession 'Jesus is Lord'"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": 3,
+        "primair_subject": "God"
+      },
+      "intercede": {
+        "count": 2,
+        "primair_subject": "God"
+      },
+      "ashamed": {
+        "count": 12,
+        "primair_subject": "Man/God"
+      }
+    },
+    "notities": "The sermon uses the 'Heavy Opponent' (Death/Powers) to necessitate a 'Divine Subject,' effectively avoiding moralism."
+  }
+}

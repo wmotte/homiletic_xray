@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "Beauty Which Fadeth Not Away",
+    "bijbeltekst": "Psalm 90:17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The pursuit of a non-fading, divine beauty through the cultivation of godly purpose and the practice of prayer to counteract the inevitable decay of physical existence.",
+      "subject": {
+        "identificatie": "The Human Soul (specifically Mothers/Hearers)",
+        "tekstueel_bewijs": [
+          "we try to act as if everything will remain the same",
+          "we put much store by these most temporary and unreliable accidents",
+          "To have purpose... and to pursue it passionately is a God-given charge."
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "The Beauty of the Lord (defined as purpose, excellence, and serenity)",
+        "tekstueel_bewijs": [
+          "that something of what is attractive and delightful in God himself be upon us"
+        ],
+        "aard_van_object": "ETHICAL/THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Bible/Divine Wisdom",
+        "tekstueel_bewijs": [
+          "The Bible with its sound and tested wisdom speaks of this"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer/Children of the Hearer",
+        "tekstueel_bewijs": [
+          "inculcate in their children a love of excellence"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Prayer and Examples of Mothers",
+        "tekstueel_bewijs": [
+          "Prayer puts beauty on our faces",
+          "beholding the example of [Christian mothers]"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Time, Physical Decay, and Purposelessness",
+        "tekstueel_bewijs": [
+          "the ravages and attacks which the years make",
+          "the pull of purposelessness is ever downward"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "While time is cosmic, the sermon treats it as a mirror-based anxiety that can be overcome by human 'serenity' and 'purpose'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The 'Hair Test' narrative regarding racial identity and social acceptance.",
+      "subject": "Black people on these shores",
+      "object": "Social acceptance/White-standard beauty",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "Used as an illustration of 'temporary beauty' but distracts from the soteriological core by focusing on social satire."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Bible → Beauty of the Lord → The Faithful",
+      "helper_subject_tegenstander": "Prayer → The Hearer ← Time/Decay",
+      "subject_naar_object": "The Hearer → Purposeful Living"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 45,
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God planning, God intending, and God working",
+        "Thou makest his beauty to consume away"
+      ],
+      "voorbeelden_mens_subject": [
+        "we ought to value all of our notions",
+        "we must strive to be perfect",
+        "Work as if all depends on you"
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "we must strive to be perfect",
+          "sacred obligation to inculcate in their children a love of excellence"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "One thing have I desired of the LORD",
+          "pursue it passionately"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "The Bible with its sound and tested wisdom"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "We are equipped to pray"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is driven by obligation (Devoir) and the human will (Vouloir). It assumes that if the hearer knows the 'wisdom' (Savoir), they have the inherent power (Pouvoir) to execute it."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Divine Purpose (Beauty)",
+      "s2": "Physical Decay (Vanity)",
+      "niet_s1": "Purposelessness (Drifting)",
+      "niet_s2": "Cosmetic Deception"
+    },
+    "beweging_in_preek": "Moves from S2 (Decay) to ~S2 (Cosmetic failure) to ~S1 (Drifting) and finally to S1 (Human effort in purpose).",
+    "theologische_resolutie": "The tension is resolved through human discipline: working hard and praying hard to maintain a 'glow'.",
+    "ernst_van_s2": "Moderate; decay is seen as a 'cruel trick' rather than a result of the Fall requiring a Savior."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon positions the human as the primary Subject who must 'pursue purpose' and 'work' to obtain the 'Beauty of the Lord.' God is reduced to a Helper or a model of excellence.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Synergistic Performance",
+        "tekstueel_bewijs": "Work as if all depends on you, pray as if all depends on God.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Imperative-driven Sanctification",
+        "tekstueel_bewijs": "we must strive to be perfect as our heavenly Father is perfect.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Recognition of Helplessness",
+        "tekstueel_bewijs": "essentially we are helpless creatures... where the big matters are at stake.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Mothers and biblical figures are used as models of successful prayer and purpose to be emulated.",
+      "bijbelse_figuren_als_model": [
+        "Abraham",
+        "Moses",
+        "Hannah",
+        "Paul and Silas"
+      ],
+      "alternatieve_lezing": "God heard the cry of the helpless (Hannah/Moses) not because of their 'prevailing prayer' but because of His covenant faithfulness."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; anxiety regarding whether one's 'purpose' is 'noble' enough.",
+      "theologische_implicatie": "Justification by works of piety and excellence."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 6,
+      "coherentie_beschrijving": "The transition from the 'vanity of life' to 'excellence in work' is logically thin, bridged only by the word 'beauty'.",
+      "spanning_punten": [
+        "The claim of being 'helpless creatures' contradicts the command to 'work as if all depends on you'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "On such a person who... still trusts God above all else, 'the beauty of the Lord' rests.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not mentioned as the source of Pouvoir-faire; prayer is treated as a human tool."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as 'sloppy performance' or 'purposelessness' rather than ontological enmity with God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (seizing the prize)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a recruitment for 'noble purpose' where the hearer is the Subject and God is the Object/Helper.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one 'establishing the work' and 'putting beauty on the face'.",
+      "voorgestelde_herpositionering": "God as the Subject who clothes the shameful/ugly in Christ's beauty.",
+      "voorbeeld_revisie": "Instead of 'Prayer puts beauty on our faces,' use 'In prayer, God bestows the beauty of Christ upon our weary souls.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Hero' who prays until doors open.",
+      "voorgestelde_identificatie": "Hearer as the 'Receiver' who is helpless in the jail cell.",
+      "strategie": "Focus on the 'indignity' of the hospital bed as the primary human location where God acts."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominant Devoir (Must/Obligation).",
+      "voorgestelde_balans": "Increase Pouvoir (God's power given to the weak).",
+      "concrete_suggestie": "Emphasize that the 'Beauty of the Lord' is a gift (Grace) not a wage for 'excellence'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Time/Wrinkles.",
+      "voorgestelde_intensivering": "Sin and the 'rebuke for iniquity' mentioned in Psalm 39.",
+      "theologische_rationale": "If the opponent is just 'gray hair,' the solution is just 'serenity.' If the opponent is 'iniquity,' the solution must be Christ."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (excellence) is fused with Soteriology (the beauty of God).",
+      "voorgestelde_structuur": "1. God gives His beauty to the ugly (Gospel). 2. We reflect that beauty in our tasks (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has beautiful rhetoric but requires a structural shift to ensure God is the primary actor of the verbs of transformation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is poetic and moving; actantially, it is a heavy burden of human performance.",
+    "verschil_met_exegese": "Exegesis of Psalm 90:17 usually emphasizes God's favor, but the sermon turns 'favor' into 'human excellence'.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'spiritual' tone, the 'engine' of the sermon is the human will, not divine grace."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (try to act)",
+      "We (beat back time)",
+      "We (ought to value)",
+      "Mothers (inculcate)",
+      "You (work)",
+      "You (pray)"
+    ],
+    "volledige_object_lijst": [
+      "Beauty",
+      "Excellence",
+      "Purpose",
+      "Serenity"
+    ],
+    "werkwoord_frequentie": {
+      "work": {
+        "count": 8,
+        "primair_subject": "Man"
+      },
+      "pray": {
+        "count": 14,
+        "primair_subject": "Man"
+      },
+      "strive": {
+        "count": 2,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon utilizes the 'Rutledge Error' by making the hearer the subject of 'prevailing' in prayer."
+  }
+}

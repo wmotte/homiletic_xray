@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "titel_preek": "A Full-grown Christian Faith",
+    "bijbeltekst": "Philippians 4:11-13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explains the historical context of 'catechumens', Paul's maturity in prison, and the contrast between Stoic resignation and Christian contentment.",
+      "exegetische_kwaliteit": "Strong historical and linguistic explanation of 1st-century church structures and Greek philosophical contrasts.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting facts about Christian history and Paul's state of mind, with a late shift toward expressive longing and a concluding series of commissives.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Early Christians recognized that there are stages...",
+        "The catechumen in the first-century church was...",
+        "I want that, do you not?"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the hearer desire spiritual maturity and recognize their own immaturity.",
+      "pneumatologisch_bewustzijn": "Explicitly mentioned as the 'instructor' in the school of Christ.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "aspire",
+        "depend",
+        "endure"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "high",
+      "procent": "70%",
+      "voorbeelden": [
+        "Early Christians recognized that there are stages.",
+        "Paul recognizes such immaturity.",
+        "Success has destroyed more human beings than failure has."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "recognized",
+        "means",
+        "says"
+      ]
+    },
+    "directieven": {
+      "frequentie": "low",
+      "procent": "5%",
+      "voorbeelden": [
+        "Take note, if you will.",
+        "Listen to these words."
+      ],
+      "dominante_werkwoorden": [
+        "take note",
+        "listen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "moderate",
+      "procent": "15%",
+      "voorbeelden": [
+        "I want that, I pray for that.",
+        "God knows I have not [reached it].",
+        "I long to reach that place."
+      ],
+      "dominante_werkwoorden": [
+        "want",
+        "long",
+        "pray",
+        "believe"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "low",
+      "procent": "8%",
+      "voorbeelden": [
+        "Christ will bring me forward.",
+        "Christ will bind up the wounds.",
+        "Christ will steady me."
+      ],
+      "dominante_werkwoorden": [
+        "will bring",
+        "will bind",
+        "will steady"
+      ],
+      "kwaliteit": "Strong at the very end, but phrased as general certainties rather than a direct 'I promise you in His name'."
+    },
+    "declaratieven": {
+      "frequentie": "very low",
+      "procent": "2%",
+      "voorbeelden": [
+        "In Christ, we may hope for this."
+      ],
+      "dominante_werkwoorden": [
+        "may hope"
+      ],
+      "autoriteit": "The preacher speaks more as a fellow-learner than a mandatory of God."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical lecture on catechumens.",
+        "Describing Paul's feelings rather than mediating Paul's authority.",
+        "Third-person descriptions of 'some people' and 'others'."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of Paul's maturity rather than a participant in God's grace."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'want' (expressive) but no 'have' (declarative)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "7",
+      "kwaliteit_toezeggen": "High poetic quality but late arrival.",
+      "voorbeelden": [
+        "If trouble shakes me, Christ will steady me."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "high",
+        "gebruik": "Used to build solidarity in weakness ('I have not reached it')."
+      },
+      "tweede_persoon": {
+        "frequentie": "moderate",
+        "gebruik": "Used for rhetorical questions ('How grown are you?').",
+        "performatieve_context": "Rarely used for direct grace-giving."
+      },
+      "derde_persoon": {
+        "frequentie": "very high",
+        "gebruik": "Describing 'The Christian', 'Paul', 'The Catechumen', 'Some people'.",
+        "distantie_effect": "Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "History of the church and Paul's biography."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "General principles of success and failure."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The concluding promises."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History/Exegesis) -> Expressive (I want this) -> Directive (Implicit: Try harder/Look to Christ).",
+      "voorbeelden": [
+        "I want that, do you not? ... We cannot reach unto this by our discipline. Christ can give it to us."
+      ],
+      "probleem": "The sermon describes the 'what' and the 'longing' but delays the 'event' of the gift until the final sentences."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The declarative 'I give you this strength' is missing.",
+      "voorbeelden": [],
+      "kwaliteit": "Weak"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "In Christ, we may hope for this."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "How grown are you in Christ? (Directive question without immediate indicative foundation)"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions primarily as a spiritual biography and a lecture on maturity, only breaking into performative language in the final peroration.",
+    "sterke_punten": [
+      {
+        "aspect": "Poetic Commissives",
+        "categorie": "COMMISSIVE",
+        "tekstueel_bewijs": "If the world puts me down, Christ will pick me up.",
+        "effect": "Provides emotional comfort and hope."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The catechumen in the first-century church was...",
+        "probleem": "Too much time spent on 'talking about' history rather than 'doing' the word.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is more of a 'lesson' than an 'event' until the very end.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher speaks about grace but rarely speaks grace into the hearer."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the talk, but rarely the speaker through the preacher.",
+      "prediker_als_mandataris": "Preacher acts as a witness/fellow-seeker rather than an ambassador.",
+      "tekstueel_bewijs": [
+        "I want that, do you not?"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as an instructor.",
+      "perlocutie_theologie": "Implicitly left to the Spirit to bridge the gap between Paul's example and the hearer's life.",
+      "tekstueel_bewijs": [
+        "where the Holy Spirit is instructor"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon describes the means of grace (Baptism/Supper) but doesn't fully function as one.",
+      "epifanisch_taalgebruik": "Only in the final 'Christ will...' sequence.",
+      "tekstueel_bewijs": [
+        "Christ will bind up the wounds."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'Paul was' to 'Christ is for you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Paul recognizes such immaturity.",
+          "voorgestelde_revisie": "Christ sees your immaturity today, and He does not cast you out.",
+          "verschil": "Moves from historical observation to present-tense address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promises are general truths rather than specific addresses.",
+      "suggestie": "Use the second person 'you' in the promises.",
+      "voorbeeldzinnen": [
+        "To you who are weary, Christ promises His strength."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they'.",
+      "suggestie": "Directly address the 'catechumen' in the pew.",
+      "voorbeeldzinnen": [
+        "You may feel like an apprentice, but Christ calls you His own."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'test' of maturity is presented before the 'gift' of strength.",
+      "suggestie": "Start with the gift of Christ's presence as the ground for growth."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A beautiful literary piece that needs more 'illocutionary edge' to become a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the preacher isn't just 'sending a message' about contentment, but failing to 'perform' the act of strengthening.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (parallelism, metaphors); SAT shows it is illocutionarily weak in its declarative force.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'I want' (Expressive) dominates the 'I give' (Declarative), leaving the hearer in a state of longing rather than reception."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "recognized",
+        "was",
+        "is",
+        "means",
+        "recognize",
+        "remained",
+        "tells",
+        "says",
+        "know",
+        "learned"
+      ],
+      "directief": [
+        "take note",
+        "listen",
+        "do you wish"
+      ],
+      "expressief": [
+        "want",
+        "long",
+        "pray",
+        "believe",
+        "admire"
+      ],
+      "commissief": [
+        "will bring",
+        "will speak",
+        "will bind",
+        "will steady",
+        "will pick",
+        "will praise",
+        "will smile"
+      ],
+      "declaratief": [
+        "may hope"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I can do all things through Christ which strengthened me.",
+        "categorie": "ASSERTIVE/COMMISSIVE",
+        "illocutionaire_kracht": "Quoted Assertive",
+        "effectiviteit": "High as a goal, low as a present gift."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' an event (Paul's contentment) rather than 'being' the event."
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "Caught in the Middle",
+    "bijbeltekst": "Luke 16:1-13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The manager (and by extension the hearer) must navigate the tension between a 'bottom-line' world and a 'generous' world by choosing to prioritize human relationships over capital to secure a future welcome.",
+      "subject": {
+        "identificatie": "The Manager / The Hearer (Disciples)",
+        "tekstueel_bewijs": [
+          "The manager says nothing to defend himself, but he thinks carefully about what to do now.",
+          "He decides what to do...",
+          "We, as disciples of Christ, are caught in the middle... We might too [decide]!"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Survival/Welcome (Social and Eternal)",
+        "tekstueel_bewijs": [
+          "people may welcome me into their homes",
+          "welcome you into the eternal homes"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Jesus (as Teacher of Wisdom/Alternative Logic)",
+        "tekstueel_bewijs": [
+          "Jesus instructs his disciples away from the usual calculations",
+          "Jesus commends fallback resources"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Manager / The Hearer",
+        "tekstueel_bewijs": [
+          "welcome you into the eternal homes"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Shrewdness / Dishonest Wealth / Generosity",
+        "tekstueel_bewijs": [
+          "make friends for yourself by means of dishonest wealth",
+          "be shrewd, make friends"
+        ],
+        "rol_van_god": "Absent (God is the goal/Object of service, not the active Subject/Helper)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Mammon / Bottom-line thinking / The 'Children of Light' (Legalists)",
+        "tekstueel_bewijs": [
+          "tight-fisted owner",
+          "market absolutism and commodity transactions",
+          "good Presbyterians... children of light"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is a mindset or a system of 'commodity thinking' rather than an ontological power like Sin or Death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The transformation of the Owner from a tight-fisted judge to one who commends shrewdness.",
+      "subject": "The Owner",
+      "object": "Recognition of human value over bottom-line",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The Owner's change is a result of the Manager's primary action; the human action 'teaches' the divine-figure."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Jesus → Eternal Welcome → The Hearer",
+      "helper_subject_tegenstander": "Shrewdness → The Hearer ← Mammon/Rules",
+      "subject_naar_object": "The Hearer → Making Friends/Generosity"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 4,
+      "mens_als_subject_count": 42,
+      "ratio": "0.09",
+      "voorbeelden_god_subject": [
+        "God speaks of 'my poor people'",
+        "Jesus instructs his disciples",
+        "Jesus commends fallback resources"
+      ],
+      "voorbeelden_mens_subject": [
+        "He [the manager] had to manage it",
+        "He [the manager] has to find an alternative way",
+        "We must make up our minds afresh",
+        "The manager decided for the alternative. We might too!"
+      ],
+      "rutledge_score": 2
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "He had to manage it",
+          "You have to choose",
+          "we must make up our minds"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "he has to find an alternative way to survive",
+          "we will want to have fallback resources"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "knowing that relationships of generosity are more durable",
+          "willing to think outside the box"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "he is not strong enough to do manual labor",
+          "be shrewd, make friends"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "The sermon is a 'Wisdom' discourse. It assumes that if the hearer 'knows' (Savoir) the world is ending, they 'must' (Devoir) act shrewdly. It is a recruitment of the will through insight."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Generosity/Relationships",
+      "s2": "Bottom-line/Commodity",
+      "niet_s1": "Legalism/Rules",
+      "niet_s2": "Shrewdness/Dishonesty"
+    },
+    "beweging_in_preek": "From S2 (The Owner's initial state) through ~S2 (The Manager's 'dishonesty') to S1 (The new community of friends).",
+    "theologische_resolutie": "The tension is resolved by the human subject choosing the 'alternative' logic of the Kingdom.",
+    "ernst_van_s2": "Moderate. S2 is seen as a 'dead end' but not as a crushing spiritual bondage requiring a Savior."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses the language of 'grace' and 'alternative worlds,' the actantial subject is consistently the human being. Grace is treated as a 'strategy' or a 'logic' that the human must adopt to secure a future, rather than a divine act that rescues a helpless subject.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Welcome",
+        "tekstueel_bewijs": "If we have not made friends in this age... then a welcome in the eternal home is not as forthcoming.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Human as Primary Actor",
+        "tekstueel_bewijs": "The manager in the story decided for the alternative. We might too!",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Critique of Meritocracy",
+        "tekstueel_bewijs": "The 'children of light' are the good folks who play by the rules... nothing of slack or grace.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The manager is presented as a model of 'shrewdness' that the congregation should emulate to survive the coming collapse of 'commodity' trust.",
+      "bijbelse_figuren_als_model": [
+        "The Manager"
+      ],
+      "alternatieve_lezing": "The manager as a figure of Christ who, though accused, 'cancels debts' at his own expense to create a new community of the forgiven."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to be 'shrewd' and 'generous' enough to ensure eternal welcome.",
+      "theologische_implicatie": "Synergism/Pelagianism: Eternal life is the 'payoff' for social generosity."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "The sermon is highly coherent as a social-ethical manifesto, but the narrative hierarchy is inverted: the secondary program (ethics) has replaced the primary program (soteriology).",
+      "spanning_punten": [
+        "The claim that 'eternal welcome' depends on 'making friends' contradicts the traditional Protestant 'Sola Gratia' implied by the word 'Presbyterian'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Jesus instructs his disciples away from the usual calculations... to think and reason differently.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is expected to find their own 'shrewdness' (Pouvoir) through the preacher's 'instruction' (Savoir)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'bottom-line thinking' or 'commodity transactions'—a systemic/intellectual error rather than a condition of the soul."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (by making friends who will welcome him)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by the human subject's need to survive a coming crisis by adopting a new social strategy. God is the 'Sender' of the advice and the 'Receiver' of the service, but not the 'Subject' of the action.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one who must 'cook the books' to get into heaven.",
+      "voorgestelde_herpositionering": "God/Christ as the Shrewd Manager who cancels our debt against the 'Owner's' (Law's) strict justice.",
+      "voorbeeld_revisie": "Instead of 'We must decide for the alternative,' use 'Christ has already decided for the alternative, cancelling your debt at his own cost.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the Manager (Hero).",
+      "voorgestelde_identificatie": "Hearer as the Debtor (Receiver).",
+      "strategie": "Focus on the relief of the person whose debt is cut from 100 to 50."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy on Devoir (Must) and Savoir (Know).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as the power to actually love the neighbor).",
+      "concrete_suggestie": "Proclaim that the Spirit gives the heart of flesh that *can* value people over money."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Opponent is 'commodity thinking'.",
+      "voorgestelde_intensivering": "The Opponent is the 'Death' that makes all money useless.",
+      "theologische_rationale": "If the opponent is just a 'bad mindset,' we don't need a Savior, just a better teacher."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (making friends) is the condition for Soteriology (eternal home).",
+      "voorgestelde_structuur": "Soteriology (God welcomes us) → Ethics (Therefore, we can be generous with our money)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically brilliant and socially insightful, but structurally it places the burden of 'eternal welcome' back on the hearer's performance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the 'balm in Gilead' imagery; Greimas reveals that imagery serves a 'works-based' survival narrative.",
+    "verschil_met_exegese": "Exegesis might focus on the historical 'manager'; semiotics shows how the preacher maps that manager onto the hearer's ego.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'God' is grammatically passive in this sermon, functioning only as a judge of the hearer's 'shrewdness'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "The manager (thinks, decides, calls, reduces)",
+      "The owner (calls, fires, commends)",
+      "Jesus (tells, instructs, commends)",
+      "We (must make up our minds, are caught, might decide)"
+    ],
+    "volledige_object_lijst": [
+      "Survival",
+      "Welcome",
+      "Friendship",
+      "Eternal homes"
+    ],
+    "werkwoord_frequentie": {
+      "decide": {
+        "count": 4,
+        "primair_subject": "Man"
+      },
+      "welcome": {
+        "count": 6,
+        "primair_subject": "Other (Friends/God)"
+      },
+      "make": {
+        "count": 8,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon effectively deconstructs 'commodity culture' but fails to reconstruct a 'grace culture' that isn't just a different form of human calculation."
+  }
+}

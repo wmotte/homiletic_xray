@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Don’t Bet against the Neighborhood",
+    "bijbeltekst": "Jeremiah 32:1-15 (and Luke 16:19-31)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The prophet Jeremiah must perform a concrete act of investment (buying land) to manifest a future hope that God promises despite national collapse.",
+      "subject": {
+        "identificatie": "Jeremiah (and by extension, the Hearer)",
+        "tekstueel_bewijs": [
+          "He obeyed in detail.",
+          "He paid seventeen shekels of silver.",
+          "He was very careful to complete the full process."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Hope/Future Well-being (Shalom) through specific investment",
+        "tekstueel_bewijs": [
+          "Houses and fields and vineyards shall again be bought.",
+          "A new world of well-being."
+        ],
+        "aard_van_object": "ETHICAL/ESCHATOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Word of the Lord / God",
+        "tekstueel_bewijs": [
+          "He is instructed by the word of the Lord.",
+          "God commanded him to deal, in hope."
+        ],
+        "rol_interpretatie": "LAWGIVER/COMMANDER"
+      },
+      "ontvanger": {
+        "identificatie": "The Land/The Neighborhood/The Hearer",
+        "tekstueel_bewijs": [
+          "The land will have a flourishing future.",
+          "The neighborhood as a place of newness."
+        ],
+        "positie_hoorder": "The hearer is urged to identify with the Subject (Jeremiah) as an investor."
+      },
+      "helper": {
+        "identificatie": "The Word/The Promise",
+        "tekstueel_bewijs": [
+          "The promise is against present circumstance.",
+          "The bread that feeds the world."
+        ],
+        "rol_van_god": "God is primarily the Sender (giving the command) and the Helper (providing the promise), but the human is the active Subject.",
+        "rol_van_geest": "Absent; replaced by 'the word' as an external mandate."
+      },
+      "tegenstander": {
+        "identificatie": "Economic collapse, cynicism, and social 'losers'",
+        "tekstueel_bewijs": [
+          "The economy had tanked.",
+          "The armies marched and the bombs exploded.",
+          "The poor who embarrass and inconvenience us."
+        ],
+        "ernst_tegenstander": "SOCIAL/PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is framed as the 'data' or 'circumstances' that make hope seem irrational."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God raising the body of Jesus (The Resurrection).",
+      "subject": "God",
+      "object": "New Life",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The resurrection of Jesus is used as a 'proof' or 'template' to justify the human Subject's investment in the neighborhood."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Future Shalom → The Neighborhood",
+      "helper_subject_tegenstander": "The Promise → Jeremiah/Hearer ← Economic Collapse",
+      "subject_naar_object": "Jeremiah/Hearer → Investment/Betting"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "28",
+      "ratio": "0.42",
+      "voorbeelden_god_subject": [
+        "God will see to it that the whole land will prosper.",
+        "God took his body and raised him up."
+      ],
+      "voorbeelden_mens_subject": [
+        "He paid seventeen shekels of silver.",
+        "We bet on the neighborhood.",
+        "You have to say something new."
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "He was commanded to pay for it.",
+          "He had to keep the family farm.",
+          "Somebody had to do it."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "I would rather bet against the poor.",
+          "We would rather live in a safe, guarded place."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "He knew it was the word of the Lord.",
+          "I know you do not care about this ancient property."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Investment would open new futures."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily driven by obligation (Devoir). The hearer is told what they must do (bet/invest) to unlock the future."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Hope/Investment",
+      "s2": "Despair/Collapse",
+      "niet_s1": "Cynicism/Betting against",
+      "niet_s2": "Survival/Status Quo"
+    },
+    "beweging_in_preek": "From S2 (Jerusalem's collapse) to ~S1 (Cynicism) to S1 (The act of buying/betting).",
+    "theologische_resolutie": "The tension is resolved by human action (the purchase) authorized by a divine promise.",
+    "ernst_van_s2": "Moderate; while collapse is mentioned, it is treated as a backdrop for the human 'bet'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'God's future,' the engine of the sermon is human agency. The 'bet' is something the hearer must do to participate in the future.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Hope",
+        "tekstueel_bewijs": "But he had to invest!",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Human as Primary Subject",
+        "tekstueel_bewijs": "When you bet on the neighborhood... the words keep sounding.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Theocentric Promise",
+        "tekstueel_bewijs": "God will see to it that the whole land will prosper.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jeremiah is presented as the model investor whose 'careful process' we must replicate in our social context.",
+      "bijbelse_figuren_als_model": [
+        "Jeremiah"
+      ],
+      "alternatieve_lezing": "God is the one who buys back the 'worthless' field of humanity at the cost of His Son."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to 'bet' correctly or feel guilty for 'betting against' the neighborhood.",
+      "theologische_implicatie": "Synergism: God provides the future, but human investment is the 'wedge' that opens it."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The transition from Jeremiah to Jesus to the neighborhood is rhetorically smooth but actantially inconsistent.",
+      "spanning_punten": [
+        "The sermon claims God raised Jesus (God as Subject), but then tells the hearer to 'bet on the body' (Man as Subject)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The little land purchase becomes a wedge for a new world.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is expected to have the 'Vouloir' (will) based on the sermon's exhortation."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is being 'out of sync' or 'betting against' the right things."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "God (guarantor) and Man (investor)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'call to action' where the hearer is the Subject and God is the Sender of a difficult mandate.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one who must 'bet' to make the future happen.",
+      "voorgestelde_herpositionering": "God is the Great Investor who 'bets' on us when we are worthless.",
+      "voorbeeld_revisie": "Instead of 'You must bet on the farm,' use 'God has already bought the farm of our broken lives.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as Jeremiah (The Hero).",
+      "voorgestelde_identificatie": "Hearer as the 'worthless farm' or 'Lazarus'.",
+      "strategie": "Emphasize that we are the ones being 'bought' and 'redeemed' by God's investment."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Obligation)",
+      "voorgestelde_balans": "POUVOIR (Empowerment through Grace)",
+      "concrete_suggestie": "Focus on how the Resurrection gives us the power to love the neighborhood, rather than just the duty to do so."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Economic/Social data.",
+      "voorgestelde_intensivering": "The impossibility of human hope in the face of death.",
+      "theologische_rationale": "Only a 'Heavy Opponent' makes the 'Subject-switch' to Christ necessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (betting) is preceding/conditioning Soteriology (the flourishing).",
+      "voorgestelde_structuur": "God has bought the world (Soteriology) -> Therefore we live in that reality (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong social conscience, but it risks turning the Gospel into a high-stakes gamble for the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'betting' metaphor is engaging; actantially, it places the burden of the future on the hearer.",
+    "verschil_met_exegese": "Exegesis focuses on Jeremiah's context; semiotics reveals that the preacher has made the hearer the 'new Jeremiah'.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'God' is a Sender who remains on the sidelines while the 'Hearer-Subject' does the heavy lifting."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Prophets (warned)",
+      "Jeremiah (bought, waited, obeyed)",
+      "God (commanded, raised Jesus)",
+      "We (bet, come to the table)"
+    ],
+    "volledige_object_lijst": [
+      "The farm",
+      "The neighborhood",
+      "The future",
+      "The body of Jesus"
+    ],
+    "werkwoord_frequentie": {
+      "bet": {
+        "count": "14",
+        "primair_subject": "Man"
+      },
+      "commanded": {
+        "count": "3",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses 'grace-adjacent' language (Resurrection, Table) but maintains a legalistic actantial structure."
+  }
+}

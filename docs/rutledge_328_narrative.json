@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Night of Shame, Night of Glory",
+    "bijbeltekst": "Luke 22:39-44",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The Son of God enters the agony of Gethsemane and the shame of the Cross to take upon himself the divine judgment against sin, thereby ransoming and liberating humanity.",
+      "subject": {
+        "identificatie": "Jesus Christ (The Son of God)",
+        "tekstueel_bewijs": [
+          "the Son of God declares himself ready to lay down his life",
+          "he is preparing... to give us all the vitamins tomorrow",
+          "Jesus... was preparing to be separated from the Father",
+          "he takes that condemnation away from us"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Ransom/Freedom from Condemnation",
+        "tekstueel_bewijs": [
+          "to give his life as a ransom for many",
+          "there is therefore now no condemnation"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Holiness of God",
+        "tekstueel_bewijs": [
+          "in the mystery of his will and purpose he has chosen you",
+          "God, sending his own Son... condemned sin in the flesh"
+        ],
+        "rol_interpretatie": "JUDGE/LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'Inner Circle' / The Hearers / 'The Many'",
+        "tekstueel_bewijs": [
+          "he has chosen you to be here",
+          "those saved by his blood will be many... we ourselves"
+        ],
+        "positie_hoorder": "The hearer identifies strictly as the Receiver of a finished work."
+      },
+      "helper": {
+        "identificatie": "The Angel / The Holy Spirit (implied in 'state of grace')",
+        "tekstueel_bewijs": [
+          "there appeared to him an angel from heaven, strengthening him"
+        ],
+        "rol_van_god": "God is the Subject (Son) and the Sender (Father); the Helper is a subordinate celestial agent.",
+        "rol_van_geest": "The Spirit is the medium of the 'state of grace' that allows the hearer to recognize sin."
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and the 'Ugliness' of Human Cruelty",
+        "tekstueel_bewijs": [
+          "preparing to meet Sin and Death disarmed",
+          "the ultimate cruelty that lurks in the human heart"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not a bad habit but an ontological power requiring the 'total obliteration' and 'separation' of the Son from the Father."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The response of the redeemed community: loving one another and giving oneself back to Christ in gratitude.",
+      "subject": "The Believer / The Church",
+      "object": "Mutual love and self-offering",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical response (Program 2) is explicitly fueled by the 'motive power' of the soteriological work (Program 1)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Father → Ransom/Freedom → The Many (Hearers)",
+      "helper_subject_tegenstander": "Angel → Jesus ← Sin/Death/Judgment",
+      "subject_naar_object": "Jesus → Sacrifice/Atonement"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "Jesus draws us very close to himself.",
+        "God has condemned sin in the flesh of Jesus.",
+        "He takes that condemnation away from us."
+      ],
+      "voorbeelden_mens_subject": [
+        "We love, because he first loved us.",
+        "We cannot achieve freedom... through our own spiritual striving."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "We are not commanded to love one another in order to win our way."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Our overwhelming response... is gratitude."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "To know sin is to be already in a state of grace."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "We cannot achieve freedom... through our own spiritual striving.",
+          "The victory is given to us as a present."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes the human 'non-pouvoir' (inability) which is met by the divine 'pouvoir' (victory as a gift)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Life (The Ransom)",
+      "s2": "Judgment/Death (The Cup/Separation)",
+      "niet_s1": "Sin/Shame (The Human Condition)",
+      "niet_s2": "Freedom/No Condemnation (The Result)"
+    },
+    "beweging_in_preek": "The sermon moves from the 'Night of Shame' (niet-S1) to the 'Agony' (S2) where Christ absorbs S2 to move the hearer to 'Glory' (niet-S2/S1).",
+    "theologische_resolutie": "Substitutionary: Christ occupies S2 so the Receiver can occupy S1.",
+    "ernst_van_s2": "Extremely high; S2 is described as 'horror-stricken,' 'excrement,' and 'separation from the Father.'"
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is rigorously theocentric. God/Christ is the primary actor of all salvific verbs, while the human role is defined by reception and subsequent gratitude.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential for Exemplarism in the mother's vitamin story",
+        "tekstueel_bewijs": "The mother doled out the pills... how much more does our Father",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Anti-conditional logic",
+        "tekstueel_bewijs": "We are not commanded to love one another in order to win our way into God's favor; we are already in his favor.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Subject-Switch (Christ as the one who does what we cannot)",
+        "tekstueel_bewijs": "We cannot achieve freedom... the victory is given to us as a present.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (David, the Disciples) are used as examples of people who *receive* or *confess*, not as heroes to emulate in power.",
+      "bijbelse_figuren_als_model": [
+        "David (as a confessor of sin)"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading of David."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and gratitude; removal of the burden of self-salvation.",
+      "theologische_implicatie": "Monergistic sanctification (gratitude as the only engine for ethics)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'Fundamental Program' (Salvation) to the 'Secondary Program' (Ethics) is perfectly handled via the bridge of gratitude.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "He takes that condemnation away from us... in so doing, he takes that condemnation away from us.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on the work of the Son, with the Spirit's role being implicit in the 'state of grace' and 'new community'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Critical; sin is defined as something so ugly it requires the 'blood and excrement' of the cross to solve."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is powered by Christ's agency. The hearer is positioned as a beneficiary of a cosmic transaction.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Divine Ability).",
+      "voorgestelde_balans": "Maintain current balance for a Maundy Thursday context.",
+      "concrete_suggestie": "The sermon successfully avoids the 'Devoir' trap."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (Sin/Death) is already sufficiently 'heavy'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Gratitude → Ethics (Already present)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in grace-oriented homiletics. It uses high-stakes narrative tension to highlight human inability and divine sufficiency."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'family' metaphor, Greimasian analysis reveals that the 'family' is a result of a specific actantial shift (Christ as Subject).",
+    "verschil_met_exegese": "Exegesis explains the Greek for 'agony'; semiotics explains *why* that agony is the necessary 'performance' phase for the Subject to achieve the Object.",
+    "unieke_inzichten_greimas": "Greimas reveals that the sermon's power comes from the 'Subject-Switch'—the hearer is explicitly told they *cannot* be the Subject of their own freedom."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (Subject) sits (Verb)",
+      "Son of God (Subject) declares (Verb)",
+      "Jesus (Subject) draws (Verb)",
+      "God (Subject) brings (Verb)",
+      "Jesus (Subject) agonizes (Verb)",
+      "God (Subject) condemned (Verb)"
+    ],
+    "volledige_object_lijst": [
+      "Ransom",
+      "New Covenant",
+      "Freedom from condemnation",
+      "Vitamins (metaphor for grace)"
+    ],
+    "werkwoord_frequentie": {
+      "save/ransom": {
+        "count": 5,
+        "primair_subject": "God"
+      },
+      "love": {
+        "count": 12,
+        "primair_subject": "God (as source)"
+      },
+      "give": {
+        "count": 8,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon by Fleming Rutledge perfectly exemplifies her own 'Grammar of Grace' rules."
+  }
+}

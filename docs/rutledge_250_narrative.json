@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "Written Out, Written In",
+    "bijbeltekst": "Romans 14:5–12",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in a condemned world by placing Christ under judgment to 'write in' the ungodly, thereby creating a new reality where condemnation is replaced by reconciliation.",
+      "subject": {
+        "identificatie": "God / Jesus Christ",
+        "tekstueel_bewijs": [
+          "Jesus took judgment upon himself.",
+          "God has listened to you... He has acted.",
+          "God made him to be sin who knew no sin."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Reconciliation / The 'Writing In' of the ungodly",
+        "tekstueel_bewijs": [
+          "reconciled us to himself",
+          "written in the book of life",
+          "the righteousness of God"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Divine Will",
+        "tekstueel_bewijs": [
+          "it is God’s plan",
+          "All this is from God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Ungodly / The Hearer / New York City",
+        "tekstueel_bewijs": [
+          "Christ died for the ungodly",
+          "reconciled us to himself"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Gospel / The Cross",
+        "tekstueel_bewijs": [
+          "the name and the person of our Lord Jesus Christ",
+          "the cross of Jesus"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help through the Word"
+      },
+      "tegenstander": {
+        "identificatie": "Judgment / Sin / Death / Social Fragmentation",
+        "tekstueel_bewijs": [
+          "the burden of judgment",
+          "the rotting of the Big Apple",
+          "mutually hostile groups"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad behavior but a 'ghastly, humiliating, vile, and godforsaken' state of condemnation that requires a divine sacrifice."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Church, having been reconciled, acts as ambassadors to bear the burdens/judgments of the city.",
+      "subject": "The Christian Community",
+      "object": "The Ministry of Reconciliation / Social Justice",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical action (bearing burdens) is explicitly grounded in the prior soteriological action (Christ bearing judgment)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Reconciliation → The Ungodly",
+      "helper_subject_tegenstander": "The Cross → Christ ← Judgment/Sin",
+      "subject_naar_object": "God → New Creation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "38",
+      "ratio": "1.1",
+      "voorbeelden_god_subject": [
+        "God has listened to you.",
+        "He has radically changed the situation.",
+        "Christ became a curse for us."
+      ],
+      "voorbeelden_mens_subject": [
+        "We need to reflect upon our mission.",
+        "Christians need to demonstrate...",
+        "We practice listening."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Christians need to demonstrate...",
+          "Let us no more pass judgment."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Do we want other people to become Christians?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "We know from everything our Lord said..."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "He has radically changed the situation.",
+          "We are free therefore for service."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes the 'New Situation' (Pouvoir) created by God which enables the 'Devoir' of the believer."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Written In (Grace)",
+      "s2": "Written Out (Judgment/Condemnation)",
+      "niet_s1": "Self-Righteousness (Legalism)",
+      "niet_s2": "Tolerance (Impunity/Andy Warhol Ethic)"
+    },
+    "beweging_in_preek": "From S2 (NYC is doomed/condemned) to ~S2 (rejection of easy tolerance) to S1 (Christ takes S2 to give us S1).",
+    "theologische_resolutie": "Substitutionary Atonement: Christ occupies the S2 position so the Receiver can occupy S1.",
+    "ernst_van_s2": "Very high; judgment is described as 'ghastly' and 'vile'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. While it has strong ethical calls, they are strictly derivative of God's prior action in Christ.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional mission language",
+        "tekstueel_bewijs": "If people... want other people to be drawn... then there is one thing necessary.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "He has radically changed the situation. We are not condemned.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Substitutionary Logic",
+        "tekstueel_bewijs": "He was written off in order that all of us ungodly sinners might be written in.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (Paul) are used as witnesses to the Gospel, not as moral templates for the Subject's own power.",
+      "bijbelse_figuren_als_model": [
+        "Paul (as witness)",
+        "Jesus (as the unique Subject of Atonement)"
+      ],
+      "alternatieve_lezing": "N/A"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and empowerment; moving from the 'doomed' city to the 'new creation'.",
+      "theologische_implicatie": "Justification by grace through faith leads to the fruit of the Spirit."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'Primary Program' (Soteriology) to the 'Secondary Program' (Ethics) is seamless and theologically grounded.",
+      "spanning_punten": [
+        "The tension between the 'doomed' city and the 'new creation' reality."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "For our sake God made him to be sin who knew no sin.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on Christological endowment rather than explicit Pneumatology."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Critical; sin leads to being 'written off' and 'godforsaken'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by God's action in Christ. The human subject only acts because the divine Subject has already achieved the Object (Reconciliation).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly low on Pneumatology (Savoir-faire of the Spirit).",
+      "voorgestelde_balans": "Increase focus on the Spirit's role in the 'Secondary Program'.",
+      "concrete_suggestie": "Mention how the Spirit provides the 'Pouvoir' to bear burdens."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as 'Godforsakenness'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The opponent is already sufficiently cosmic."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Maintained)"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in maintaining God as the Subject of the Gospel while addressing urgent social realities."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the NYC anecdotes, Greimas reveals these are merely 'helpers' or 'opponents' to the deep structure of Substitution.",
+    "verschil_met_exegese": "Exegesis explains Romans 14; Greimas shows how the sermon *functions* as a new narrative act of reconciliation.",
+    "unieke_inzichten_greimas": "Greimas exposes that the 'New York' stories are not the main plot, but the 'Receiver's' context being invaded by the 'Subject' (God)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (took judgment)",
+      "God (listened)",
+      "God (acted)",
+      "Christ (became a curse)",
+      "We (are ambassadors)"
+    ],
+    "volledige_object_lijst": [
+      "Reconciliation",
+      "New Creation",
+      "Righteousness",
+      "The ungodly"
+    ],
+    "werkwoord_frequentie": {
+      "reconcile": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "judge": {
+        "count": "7",
+        "primair_subject": "Man/God"
+      },
+      "bear": {
+        "count": "5",
+        "primair_subject": "Man/Christ"
+      }
+    },
+    "notities": "The sermon successfully avoids the 'Exemplarism' trap by making Christ's burden-bearing a unique soteriological act that creates the possibility for human imitation, rather than just a moral example."
+  }
+}

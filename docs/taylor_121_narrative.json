@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Thyatira, Part I: The Church That Harbored A False Prophetess",
+    "bijbeltekst": "Revelation 2:18-29",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The preservation of a faithful remnant within a compromised church through the act of 'holding fast' until the return of Christ.",
+      "subject": {
+        "identificatie": "The Faithful Remnant (Hearers)",
+        "tekstueel_bewijs": [
+          "Hold fast till I come.",
+          "Stand the storms.",
+          "Don't you rest until you find it."
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Spiritual Integrity/Endurance",
+        "tekstueel_bewijs": [
+          "Hold fast.",
+          "Whatever your lot, the Lord is coming."
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Son of God (Judge)",
+        "tekstueel_bewijs": [
+          "These things, saith the Son of God... who hath his eyes like unto a flame of fire."
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Faithful Few",
+        "tekstueel_bewijs": [
+          "But unto you I say, and unto the rest in Thyatira..."
+        ],
+        "positie_hoorder": "The hearer identifies with the Subject (the one who must hold fast)."
+      },
+      "helper": {
+        "identificatie": "The Promise of the Second Coming",
+        "tekstueel_bewijs": [
+          "The Lord is coming to set wrong things right."
+        ],
+        "rol_van_god": "God is the future rewarder/intervener, but not the current empowerer of the 'holding'.",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Internal Compromise (Jezebel/Guilds/Social Prestige)",
+        "tekstueel_bewijs": [
+          "That woman Jezebel... to seduce my servants.",
+          "The guilds enjoyed great influence... you suffered economically."
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The threat is primarily social exclusion and loss of prestige rather than cosmic sin."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Socio-Political Identity Program: Black Americans must create their own heroes to achieve greatness.",
+      "subject": "Black America / Young People",
+      "object": "Self-development and Greatness",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The preacher uses the Thyatira guild problem as a springboard for a lecture on racial self-reliance, making the church's 'salvation' social and economic."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Son of God → Endurance → The Faithful Remnant",
+      "helper_subject_tegenstander": "Hope of Return → The Hearer ← Social Compromise",
+      "subject_naar_object": "The Hearer → Holding Fast"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 45,
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "The Lord is coming.",
+        "I will cast her into a bed."
+      ],
+      "voorbeelden_mens_subject": [
+        "You do not make your own heroes.",
+        "You must hold fast.",
+        "You can get so far from the Spirit of God that he has nothing to do with this church."
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "Hold fast till I come.",
+          "You will never be a great people until you make your own heroes."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "I hope, young black women, that you will forever remember that."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "What I'm trying to get at this morning is how carefully must we use gifts."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "The church does not have such a warranty against internal opposition."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir). It assumes the hearer has the inherent power to 'hold fast' if they are sufficiently warned or motivated."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Faithfulness (Holding Fast)",
+      "s2": "Judgment (Killing children/Tribulation)",
+      "niet_s1": "Compromise (Eating idol meat/Guilds)",
+      "niet_s2": "Impunity (False sense of security)"
+    },
+    "beweging_in_preek": "Moves from the threat of S2 (Judgment) to the demand for S1 (Faithfulness) by rejecting ~S1 (Compromise).",
+    "theologische_resolutie": "Resolution is deferred to the Eschaton (The Lord is coming), leaving the present as a space of pure human endurance.",
+    "ernst_van_s2": "S2 is used as a threat to enforce Devoir-faire."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses biblical imagery, the 'engine' is human performance. The primary command is 'Hold Fast,' and the primary critique is a lack of social/racial self-respect. God is the Judge who watches or the King who returns, but not the Savior who acts upon the Subject's inability.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Spirit",
+        "tekstueel_bewijs": "You will never be a great people until you make your own heroes.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "The church of black America has been the salvation, socially, economically, politically...",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Eschatological Hope",
+        "tekstueel_bewijs": "The Lord is coming to set wrong things right.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The preacher uses historical figures (George Liele, Richard Allen) and biblical figures (Elijah, Pilate's Wife) as models of dignity and sensitivity to be emulated.",
+      "bijbelse_figuren_als_model": [
+        "Elijah",
+        "Pilate's Wife",
+        "Lydia"
+      ],
+      "alternatieve_lezing": "A theocentric reading would focus on God's faithfulness to Thyatira despite their adultery, or Christ as the true Prophet who withstands Jezebel on behalf of the weak."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of performance; fear of losing the 'candlestick'.",
+      "theologische_implicatie": "Soteriology is contingent upon the 'invisible church' maintaining its own purity."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 5,
+      "coherentie_beschrijving": "The sermon jumps between a historical-critical look at Thyatira and a socio-political critique of modern church culture, struggling to find a unified theological center.",
+      "spanning_punten": [
+        "The shift from 'Jezebel' to 'Black History Month' creates a narrative whiplash where the 'Object' changes from spiritual purity to social prestige."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Hold fast till I come.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is mentioned as a speaker of 'dictums' but not as a source of 'Pouvoir-faire' (power to do)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'social compromise' or 'disgusting behavior' (slobbering in the street)."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Recruitment' narrative, urging the Subject (Hearer) to achieve the Object (Endurance/Dignity) to avoid the Opponent (Social Compromise/Judgment).",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'holding fast'.",
+      "voorgestelde_herpositionering": "Christ as the Subject who 'holds' the church.",
+      "voorbeeld_revisie": "Instead of 'You must hold fast,' use 'Christ holds you fast with hands of fine brass that cannot be moved.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero who makes their own heroes.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the one 'seduced' and 'weak' who receives Christ's strength."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as power).",
+      "concrete_suggestie": "Focus on how the 'eyes of fire' provide the light needed to see through deception, rather than just judging it."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Opponent is social embarrassment or bad habits.",
+      "voorgestelde_intensivering": "Sin as a power that makes 'holding fast' impossible without divine intervention.",
+      "theologische_rationale": "If the opponent is just a 'bad guild,' human effort suffices. If the opponent is 'The Depths of Satan,' only God can be the Subject."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (making heroes) is preceding Soteriology.",
+      "voorgestelde_structuur": "1. God's preservation of the church (Soteriology). 2. Our response of dignity (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has strong rhetorical energy and social passion, but it risks leaving the congregation under a 'burden' (the very thing the text says Christ will not do) by making their endurance the primary engine of the story."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a powerful call to dignity; semiotically, it is a law-heavy mandate.",
+    "verschil_met_exegese": "Exegesis explains the guilds; semiotics reveals that the guilds have replaced Sin as the primary Opponent.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'The Lord is coming' is used as a 'Helper' to motivate human 'Devoir' rather than a 'Subject' performing the salvation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "You (Hearers) - hold fast",
+      "You (Hearers) - make your own heroes",
+      "The Lord - is coming",
+      "Jezebel - seduces",
+      "I (Preacher) - say to you"
+    ],
+    "volledige_object_lijst": [
+      "Endurance",
+      "Social Greatness",
+      "Dignity",
+      "Repentance"
+    ],
+    "werkwoord_frequentie": {
+      "hold": {
+        "count": 10,
+        "primair_subject": "Man"
+      },
+      "come": {
+        "count": 8,
+        "primair_subject": "God"
+      },
+      "make": {
+        "count": 4,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon's shift into racial identity politics, while culturally significant, structurally reinforces the anthropocentric focus of the message."
+  }
+}

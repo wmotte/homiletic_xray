@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "titel_preek": "True Worship",
+    "bijbeltekst": "Psalm 95:6-7",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher defines true vs. false worship, using examples of racism, idolatry, and historical biblical narratives (Amaziah), concluding with the majesty of God as Creator.",
+      "exegetische_kwaliteit": "Strong historical and contextual explanation of Psalm 95 and 2 Chronicles 25, though primarily descriptive.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is asserting the nature of God and the history of worship, with a secondary force of inviting (Directive) the congregation into a state of awe.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I know of no way to account for this world...",
+        "True worship means adoration of and submission to the God who has made us."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel a sense of awe, recognize the vanity of idols, and feel motivated to worship with 'expectancy'.",
+      "pneumatologisch_bewustzijn": "Low; the sermon focuses on the human act of 'coming' and 'singing' rather than the Spirit's enabling act.",
+      "perlocutionaire_werkwoorden": [
+        "Awe",
+        "Repentance",
+        "Adoration",
+        "Recognition"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "False worship is a detestable and horrible thing.",
+        "The banner of the Creator flies over the whole earth.",
+        "God owns all that is."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "shows",
+        "means",
+        "has"
+      ]
+    },
+    "directieven": {
+      "frequentie": "28",
+      "procent": "15%",
+      "voorbeelden": [
+        "You must make your own list.",
+        "O come, let us worship and bow down.",
+        "Let all the earth keep silence before him."
+      ],
+      "dominante_werkwoorden": [
+        "come",
+        "let",
+        "must",
+        "kneel"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "It is almost to sicken one at the stomach.",
+        "I adore thee and worship thee."
+      ],
+      "dominante_werkwoorden": [
+        "sicken",
+        "adore",
+        "pray"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "Since thou willest, I will arise and worship thee."
+      ],
+      "dominante_werkwoorden": [
+        "will"
+      ],
+      "kwaliteit": "Weak; the commissives are mostly human-to-God (vows) rather than God-to-human (promises)."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "This is none other but the house of God."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Moderate; the preacher uses the text to declare the status of the space, but rarely declares the status of the hearer (e.g., 'You are forgiven')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive descriptions of racism on TV",
+        "Detailed historical retelling of Amaziah",
+        "Scientific theories of evolution discussion"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a lecture on worship rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Gospel Promise (Toezegging)",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "The hearer is told *to* worship but is not given the performative word of grace that *enables* worship."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent; the sermon describes God's ownership but does not 'hand over' God's grace to the specific hearer.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Mostly 'I' (preacher's opinions/prayers) and 'We' (general human condition)."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Used to challenge the hearer to 'make a list' or imagine sitting in the pew.",
+        "performatieve_context": "Low; used for directives rather than promises."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant; talking about 'the Edomites', 'the students', 'the world', 'God'.",
+        "distantie_effect": "High; creates a 'lecture hall' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical examples (Amaziah, Columbus, Pusey)."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about God's nature and the definition of worship."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate moment of 'O come'."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (What worship is) -> Directive (You must worship/make a list).",
+      "voorbeelden": [
+        "True worship means adoration... O come, let us worship."
+      ],
+      "probleem": "It lacks the middle step of the 'Toezegging' (Promise) or Declaration of Grace that empowers the Directive."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "If we come... with no eagerness... nothing will happen. (Conditional legalism)"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-quality lecture on the theology of worship and the sovereignty of God, but fails to perform the 'event' of grace.",
+    "sterke_punten": [
+      {
+        "aspect": "Ethical Sharpness",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The critique of racism as 'false worship'.",
+        "effect": "Strongly defines the boundaries of holiness."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Gospel Promise",
+        "categorie": "Commissive",
+        "tekstueel_bewijs": "The sermon ends with a quote from Pusey rather than a promise from God.",
+        "probleem": "The hearer is left with a duty to worship rather than a gift of grace.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a 'talking about' worship rather than an 'act' of God meeting the sinner.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher remains a commentator on the text rather than a mandatory of the Living Word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the object of the sermon, not the subject speaking through it.",
+      "prediker_als_mandataris": "The preacher acts as a teacher/guide, not an ambassador of a present King.",
+      "tekstueel_bewijs": [
+        "I know of no way to account for this world..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is attributed to the hearer's 'spiritual preparation' rather than the Spirit's work.",
+      "tekstueel_bewijs": [
+        "If we come... with no spiritual preparation... nothing will happen."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the sermon is a preparation for worship, not the means of grace itself.",
+      "epifanisch_taalgebruik": "Low; the language is descriptive/analytical.",
+      "tekstueel_bewijs": [
+        "True worship involves adoration and praise..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person 'is/was' to 2nd person 'gives/promises/forgives'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The banner of the Creator flies over the whole earth.",
+          "voorgestelde_revisie": "Today, God claims you as His own; He plants His banner over your life.",
+          "verschil": "Moves from a general fact to a personal encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The sermon demands worship without offering the Christ who makes worship possible for sinners.",
+      "suggestie": "Insert a clear Commissive act of God's promise.",
+      "voorbeeldzinnen": [
+        "Because Christ has died for you, God promises to receive your imperfect worship as holy."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Directly address the hearer's heart with the indicative of grace.",
+      "voorbeeldzinnen": [
+        "You, who feel your worship is dull, hear this: God is seeking you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'O come' (Imperative) is not preceded by 'You are forgiven' (Indicative).",
+      "suggestie": "Ground the call to worship in the finished work of Christ."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually and ethically powerful, but homiletically 'stuck' in the constative. By shifting to the performative, it could move from a lecture on worship to a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about racism; SAT reveals the preacher's failure to use the 'Keys of the Kingdom' (Declaratives).",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (vivid imagery); performatively, it is weak (lacks illocutionary force).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'holy' topic, the sermon remains a human monologue about God rather than a divine dialogue with the hearer."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "suggests",
+        "witness",
+        "showed",
+        "appeared",
+        "wanted",
+        "is",
+        "defined",
+        "must",
+        "substitutes",
+        "found",
+        "is",
+        "can",
+        "made",
+        "declares",
+        "was",
+        "carried",
+        "stood",
+        "told",
+        "know",
+        "care",
+        "hold",
+        "owns",
+        "flies"
+      ],
+      "directief": [
+        "observe",
+        "do not make",
+        "must make",
+        "come",
+        "let us sing",
+        "let us make",
+        "let us worship",
+        "bow down",
+        "kneel",
+        "let us not harden",
+        "keep silence"
+      ],
+      "expressief": [
+        "sicken",
+        "rejoice",
+        "pray",
+        "adore",
+        "bless",
+        "praise",
+        "glorify"
+      ],
+      "commissief": [
+        "will not worship",
+        "will arise",
+        "would bless"
+      ],
+      "declaratief": [
+        "This is none other but the house of God"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "True worship means adoration of and submission to the God who has made us.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Defining",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "O come, let us worship and bow down.",
+        "categorie": "Directive",
+        "illocutionaire_kracht": "Inviting",
+        "effectiviteit": "Strong, but lacks the 'why' of grace."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'majesty of creation' to motivate worship, which is a 'Natural Theology' approach. It lacks a 'Christological' performative which is usually the source of the 'Toezegging' in sacramental preaching."
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "titel_preek": "They Shall Ask The Way",
+    "bijbeltekst": "Jeremiah 50:5; John 14:6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher describes the existential crisis of a post-war generation, the failure of humanism/technology, and the biblical promise of a 'Way' found in Christ's brotherhood and sacrifice.",
+      "exegetische_kwaliteit": "Theological and thematic rather than technical. Uses Jeremiah and John as archetypal symbols of human longing and divine response.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the state of the world and the nature of Christ, with a shift toward declaring the validity of the 'Way' through the Cross.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I am the way (Quoted as Christ's speech act)",
+        "We who name the name of Jesus as Lord proclaim...",
+        "God has set authentic evidence..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from existential despair and racial prejudice toward a committed, unified 'oneness' in Christ.",
+      "pneumatologisch_bewustzijn": "Implicit; mentions the 'fresh breezes of his spirit' but focuses more on the 'Way' as a structural reality.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "unite",
+        "hope",
+        "commit",
+        "recognize"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "There is a question on the lips of our times.",
+        "Utopia was in our hands.",
+        "Our gadgets have turned now into threats."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "were",
+        "knew",
+        "confessed"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "This do, and thou shalt live.",
+        "Never mind who he is.",
+        "Come, ye blessed of my Father."
+      ],
+      "dominante_werkwoorden": [
+        "do",
+        "come",
+        "inherit",
+        "ask"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "9%",
+      "voorbeelden": [
+        "I blush still at memory of the words...",
+        "Thank God for courageous voices.",
+        "Alas! the crimson harvest..."
+      ],
+      "dominante_werkwoorden": [
+        "blush",
+        "thank",
+        "yearn",
+        "shrug"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "He will at all hazards stand fast by our way.",
+        "He will not forsake our way.",
+        "He will not abandon it."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "guarantees",
+        "stand fast"
+      ],
+      "kwaliteit": "Strong theological grounding but often framed as 'God will' (3rd person) rather than 'I promise you' (2nd person)."
+    },
+    "declaratieven": {
+      "frequentie": "22",
+      "procent": "11%",
+      "voorbeelden": [
+        "I am the way.",
+        "Inasmuch as ye have done it... inherit the kingdom.",
+        "Jesus shall reign."
+      ],
+      "dominante_werkwoorden": [
+        "am",
+        "reign",
+        "proclaim",
+        "declare"
+      ],
+      "autoriteit": "High; the preacher leans on the authority of Christ's own 'I am' statements to perform the reality of the sermon."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical analysis of Nazi horror and social conditions.",
+        "Long descriptions of the early church's social dynamics.",
+        "Talking 'about' the question on the lips of the generation."
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and intellectually convinced but remains an observer of a historical/social narrative."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise to the specific 'you' in the pew",
+        "Sacramental 'I' (preacher as mandatory)"
+      ],
+      "effect_op_hoorder": "The 'event' is deferred to the Cross or the Early Church rather than happening 'now' in the hearing."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "Theologically rich but structurally distant (3rd person).",
+      "voorbeelden": [
+        "God has set authentic evidence for the validity of our way."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "35",
+        "gebruik": "Mostly collective 'we' (preacher + congregation) or 'I' as personal anecdote."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Very low. Used mostly in biblical quotes ('ye', 'thou').",
+        "performatieve_context": "Minimal direct address to the listener's soul."
+      },
+      "derde_persoon": {
+        "frequentie": "150+",
+        "gebruik": "Dominant. Talking about 'our generation', 'the world', 'men', 'they'.",
+        "distantie_effect": "High. Creates a sociological lecture feel."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "45%",
+        "gebruik": "Historical analysis of WWII and Babylon."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "General truths about race and Christ."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The final appeal to the Cross."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Lengthy Assertives about social failure leading directly to Directives about racial oneness.",
+      "voorbeelden": [
+        "We shall be Christian at the point of race or be forced to confess we are not Christian at all."
+      ],
+      "probleem": "Moralistic pressure without the preceding performative grace."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The move from the 'Way' (Assertive) to the Cross (Declarative/Commissive).",
+      "voorbeelden": [
+        "At the place of a skull he left the signature of his power... into thy hands I commend my spirit."
+      ],
+      "kwaliteit": "Strongest at the very end, where the Cross validates the sermon's claims."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [
+        "Inasmuch as ye have done it... inherit the kingdom."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "We cannot be strong on faith and weak on work without being contradictory."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant sociological and theological commentary on the mid-20th century, but it 'talks about' the Way more than it 'opens' the Way performatively for the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The description of the 'chromium-plated, push-button conveniences'.",
+        "effect": "Creates a powerful sense of 'need' and cultural resonance."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Direct Address",
+        "categorie": "PERFORMATIVE_DEFICIT",
+        "tekstueel_bewijs": "The constant use of 'our generation' instead of 'you'.",
+        "probleem": "The hearer is hidden in a collective noun.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is an 'event' of intellectual awakening, but less so of sacramental encounter.",
+    "sacramentele_kracht": 4,
+    "sacramentele_toelichting": "The preacher acts as a commentator on God's acts rather than a mandatory through whom God acts 'now'."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the speaker of the 'I am' in the text, but the preacher describes this speaking rather than mediating it.",
+      "prediker_als_mandataris": "Low; the preacher is a witness/proclaimer of a historical truth.",
+      "tekstueel_bewijs": [
+        "We who name the name of Jesus as Lord proclaim..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as a 'fresh breeze' in the early church.",
+      "perlocutie_theologie": "Implicitly left to the 'saving leaven' of the committed.",
+      "tekstueel_bewijs": [
+        "feeling the fresh breezes of his spirit"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a 'call to oneness' rather than a 'means of grace' that confers what it speaks.",
+      "epifanisch_taalgebruik": "High in the final paragraph (The Cross).",
+      "tekstueel_bewijs": [
+        "God has set authentic evidence... in history."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense and third-person verbs. Needs a shift to present-tense second-person performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "They shall ask the way to Zion.",
+          "voorgestelde_revisie": "You are asking the way to Zion, and here, in this Word, God meets you.",
+          "verschil": "Shifts from a prophecy about 'them' to an event for 'you'."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is a historical fact rather than a current gift.",
+      "suggestie": "Use the 'I' of the preacher to deliver the 'I' of Christ.",
+      "voorbeeldzinnen": [
+        "I declare to you today: Christ is your way."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Over-reliance on 'our generation'.",
+      "suggestie": "Break the 'we' and speak to the 'thou'.",
+      "voorbeeldzinnen": [
+        "Do you find your gadgets have become threats?"
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to end racism feels like a moral demand (Directive) rather than a fruit of the Promise (Commissive).",
+      "suggestie": "Ground the 'oneness' in the Declarative of the Cross first."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A rhetorically magnificent sermon that captures the 'locutionary' spirit of an age, but requires more 'illocutionary' courage to move from talking about the Way to being the voice of the Way."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (blushing at racism); SAT focuses on the 'Declarative' power of the Cross to change the hearer's status.",
+    "verschil_met_retoriek": "Rhetoric admires the 'chromium-plated' metaphors; SAT asks if the preacher actually 'promises' anything on God's behalf.",
+    "unieke_inzichten_SAT": "SAT reveals that despite the beautiful language, the sermon remains largely 'Assertive' (constative), keeping the hearer in the role of a spectator of history."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "were",
+        "knew",
+        "confessed",
+        "dismissed",
+        "agreed",
+        "lacked",
+        "divided",
+        "scorns"
+      ],
+      "directief": [
+        "do",
+        "ask",
+        "inquire",
+        "come",
+        "inherit",
+        "visit"
+      ],
+      "expressief": [
+        "blush",
+        "thank",
+        "yearn",
+        "shudder",
+        "mourning"
+      ],
+      "commissief": [
+        "will",
+        "guarantees",
+        "stand fast",
+        "not forsake"
+      ],
+      "declaratief": [
+        "am",
+        "proclaim",
+        "declare",
+        "reign",
+        "salute"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I am the way.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Supreme",
+        "effectiviteit": "High, but functions as a quote rather than a direct address."
+      },
+      {
+        "zin": "Our gadgets have turned now into threats.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Diagnostic",
+        "effectiviteit": "Excellent for locutionary resonance."
+      }
+    ],
+    "notities": "The sermon is a masterpiece of 'Assertive' preaching, but struggles to cross the threshold into 'Commissives' where God binds Himself to the specific listener."
+  }
+}

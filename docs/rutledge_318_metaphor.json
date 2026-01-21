@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "titel_preek": "It is finished",
+    "bijbeltekst": "John 19:29-30; Hebrews 10:1-4; John 1:29",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Earn this",
+          "earn the sacrifice",
+          "earn its benefits",
+          "earn God's gifts",
+          "beyond our capacity to earn"
+        ],
+        "conceptuele_metafoor": "SALVATION IS AN EARNED WAGE"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "take away the sin",
+          "make atonement",
+          "forgiveness for unintentional sins",
+          "cleansed",
+          "consciousness of sin"
+        ],
+        "conceptuele_metafoor": "SIN IS A LEGAL DEBT/STAIN"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "out of bondage into freedom",
+          "out of sin into righteousness",
+          "out of death into life",
+          "pilgrimage to the grave"
+        ],
+        "conceptuele_metafoor": "SALVATION IS A TRANSITION BETWEEN SPACES"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Behold, the Lamb of God, who takes away the sin of the world!",
+        "brondomein": {
+          "naam": "Sacrificial Animal",
+          "concrete_elementen": [
+            "lamb",
+            "blood",
+            "physical removal/carrying"
+          ],
+          "belichaamde_basis": "force/removal"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement",
+          "doctrinale_traditie": "Substitutionary Atonement"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Lamb",
+            "doel_element": "Jesus"
+          },
+          {
+            "bron_element": "Taking away",
+            "doel_element": "Forgiveness/Removal of guilt"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Sin is a heavy object that can be lifted and moved."
+          ],
+          "theologische_implicaties": [
+            "The death of an innocent is required for the purification of the guilty."
+          ],
+          "ethische_implicaties": [
+            "The believer is relieved of the weight of past actions."
+          ],
+          "onbedoelde_consequenties": [
+            "God might be seen as requiring blood to be appeased (divine child abuse critique)."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "While biblical, 'Lamb of God' is often a dead metaphor in modern ears; the preacher attempts to revitalize it by contrasting it with the 'ugliness' of the cross."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully links the 'Economic' domain (earning/debt) with the 'Juridical/Sacrificial' domain (Levitical law) to argue against human effort in salvation.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Paragraph 4",
+          "metafoor_a": "Jesus as the Vine (Source of life)",
+          "metafoor_b": "Jesus as the Lamb (Sacrificial death)",
+          "conflict_beschrijving": "The transition from Jesus as the provider of nutrients/water to Jesus as the victim of slaughter is abrupt.",
+          "entailment_conflict": "A vine grows and sustains; a lamb is killed and consumed.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Economic Transaction",
+            "Spatial Journey"
+          ],
+          "blending_strategie": "The 'payment' of the cross is the 'doorway' out of bondage."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Uses the 'Saving Private Ryan' narrative to revitalize the dead metaphor of 'earning' grace.",
+        "voorbeeld": "Ryan collapses in tears, tormented by the idea that he has not earned the sacrifice."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The focus on Levitical blood might lead to a literalistic view of God's need for violence.",
+        "voorbeeld": "The priest shall take some of the blood... and make atonement.",
+        "potentiele_impact": "Congregants may view God as primarily a blood-demanding deity.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The foot of the Cross at Golgotha.",
+      "sub_worlds": [
+        "The battlefield of Iraq (Abrams tank)",
+        "The cemetery in Saving Private Ryan",
+        "The Temple in Jerusalem (Levitical sacrifices)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 7",
+          "van_wereld": "Biblical Exegesis",
+          "naar_wereld": "Modern Cinema (Saving Private Ryan)",
+          "effectiviteit": "Highly effective for emotional resonance."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Provider",
+          "hoe_versterkt": "Reiterating the 'I am' statements (Bread, Water, Vine)."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Salvation as Meritocracy",
+          "verstoring_strategie": "Using the 'Saving Private Ryan' example to show the crushing weight of trying to 'earn' a gift.",
+          "vervangend_schema": "Salvation as Finished Work/Gift"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits perfectly with Good Friday or Lenten liturgy."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the tension between the Economic domain (Earning/Debt) and the Sacrificial domain (Blood/Atonement). It uses modern secular 'debt' narratives (war guilt) to bridge the gap to ancient sacrificial logic.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Christus Victor",
+        "huidige_status": "Mentioned but not fully mapped.",
+        "suggestie": "Deepen the military source domain to explain how 'completion' is a 'conquest'.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Jesus isn't just finishing a task; he is planting a flag in the heart of death's territory."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'Food/Vine' to 'Lamb/Sacrifice'.",
+        "resolutie_strategie": "Connect the two through the Eucharist (The Lamb who is also the Bread)."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SIN IS A CURSE",
+        "problematisch_entailment": "Suggests an almost magical or impersonal force rather than relational breach.",
+        "aanbeveling": "Balance with the Relational domain (Father/Son) to ensure sin is seen as a broken relationship, not just a 'spell' to be lifted."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To explain 'It is finished' as the 'Captsone' or 'Foundation' being laid.",
+        "doel_concept": "The completion of the New Creation."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of cognitive mapping to address the deep-seated human schema of 'earning' through the lens of modern trauma and ancient ritual."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'Consummatum est' phrasing; CMT reveals how this phrase functions as a 'completion' schema for the hearer's anxiety.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning, CMT focuses on the pre-reflective metaphors (Debt/Weight) that make the experience of 'guilt' possible.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using 'Debt' metaphors to deconstruct 'Debt' theology, creating a 'Grace' schema through the negation of 'Earning'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "It is finished",
+      "Word made flesh",
+      "I am the vine",
+      "Bread of life",
+      "Citadel of death",
+      "Lamb of God",
+      "Shadow of things to come",
+      "Curse of sin",
+      "Out of bondage into freedom"
+    ],
+    "woord_frequentie_analyse": {
+      "finished": "8",
+      "earn": "6",
+      "sin": "12",
+      "sacrifice": "7",
+      "completed": "4"
+    },
+    "notities": "The use of the Iraq war corporal provides a powerful 'Source Domain' for the 'Target Domain' of Unintentional Sin."
+  }
+}

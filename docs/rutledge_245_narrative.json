@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "titel_preek": "The Content of Our Character",
+    "bijbeltekst": "Romans 12:1–3",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God is actively transforming the believer into the image of Christ through the 'makeover' of the Holy Spirit, moving the believer from conformity to the world to a cruciform character.",
+      "subject": {
+        "identificatie": "God / The Living Lord Jesus",
+        "tekstueel_bewijs": [
+          "that is precisely what God is up to in each one of us",
+          "the character of the living Lord Jesus is being formed in the Christian community",
+          "the Lord Jesus Christ himself... is the content of our character"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Transformation / Cruciform Character",
+        "tekstueel_bewijs": [
+          "be transformed by the renewal of your mind",
+          "conformed to the image of his Son"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Mercies of God",
+        "tekstueel_bewijs": [
+          "I appeal to you therefore... by the mercies of God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Christian Community / The Hearer",
+        "tekstueel_bewijs": [
+          "God is up to in each one of us",
+          "we are all doing better than we deserve"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Cross",
+        "tekstueel_bewijs": [
+          "present in the power of the Holy Spirit",
+          "motive power to live sacrificially derives from the Cross"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "The Power of Sin / The World",
+        "tekstueel_bewijs": [
+          "all human beings ... are under the power of sin",
+          "conformed to this world"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a 'power' that holds all humans, requiring a divine 'makeover' rather than simple effort."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer presenting their body as a living sacrifice in response to mercy.",
+      "subject": "The Believer",
+      "object": "Living Sacrifice / Ethical Action",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly fueled by the primary program (God's mercy/action)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Mercies of God → Transformation → The Church",
+      "helper_subject_tegenstander": "Holy Spirit → God/Christ ← Power of Sin",
+      "subject_naar_object": "God → Christ-like Character in us"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "12",
+      "ratio": "1.16",
+      "voorbeelden_god_subject": [
+        "God has consigned all men to disobedience",
+        "the Lord will be waiting for me",
+        "God is up to in each one of us"
+      ],
+      "voorbeelden_mens_subject": [
+        "we must struggle for years to develop",
+        "we present our bodies"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "not to think of himself more highly than he ought"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "If any man would come after me"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "In faith I know the Lord will be waiting"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "capacity for perseverance",
+          "motive power... derives from the Cross",
+          "power of the Spirit"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'power' (Pouvoir) given by God to the incompetent human subject."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Mercy",
+      "s2": "Deserved Judgment",
+      "niet_s1": "Self-Improvement/Makeover",
+      "niet_s2": "Doing better than we deserve"
+    },
+    "beweging_in_preek": "Moves from the secular 'character' (Not-S1) to the reality of Sin (S2), then to the 'better than we deserve' (Not-S2), ending in the source of Grace (S1).",
+    "theologische_resolutie": "Resolution is found in Christ being the 'content' of character, replacing human effort.",
+    "ernst_van_s2": "High; mentions Rwanda, My Lai, and slavery to show universal disobedience."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While it uses ethical examples, it consistently identifies God/Christ as the active Subject and source of power.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus on struggle for virtue",
+        "tekstueel_bewijs": "patience is a strong and mature characteristic that many of us must struggle for years to develop",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as active Subject of transformation",
+        "tekstueel_bewijs": "that is precisely what God is up to in each one of us",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Rejection of Exemplarism",
+        "tekstueel_bewijs": "he is not talking about emulating Jesus... He says we are in Christ.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Explicitly rejects emulation in favor of participation (In Christ).",
+      "bijbelse_figuren_als_model": [
+        "None (Jesus is Lord, not just model)"
+      ],
+      "alternatieve_lezing": "Theocentric: Christ's character is formed in us by the Spirit."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and empowerment through dependence.",
+      "theologische_implicatie": "Soteriology precedes and enables ethics."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "Strong integration of political/secular character into the theological framework of grace.",
+      "spanning_punten": [
+        "The tension between 'struggling for years' and 'it is given by grace'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "we are assimilated to him in a way that no one and nothing can defeat",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of 'Pouvoir-faire' (Power to do)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total depravity ('no immunity anywhere')."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative program.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Savoir (Knowing) in the middle section.",
+      "voorgestelde_balans": "Maintain the current focus on Pouvoir (Power).",
+      "concrete_suggestie": "Ensure the 'struggle for patience' is also framed as a gift of the Spirit."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Sin as power).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Already present)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in avoiding moralism while addressing character. The transition from secular 'makeover' to divine 'transformation' is structurally perfect."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the Clinton/Dole anecdotes; Greimas shows these are just 'actors' for the actant 'Humanity under Sin'.",
+    "verschil_met_exegese": "Exegesis explains the Greek 'hupomone'; Greimas shows how 'hupomone' functions as a modal competence (Pouvoir) given by the Sender.",
+    "unieke_inzichten_greimas": "Reveals that despite the 'political' talk, the engine of the sermon is entirely theocentric because God remains the Subject of the transformation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (transforms)",
+      "Christ (is formed)",
+      "Spirit (empowers)",
+      "We (present/sacrifice)"
+    ],
+    "volledige_object_lijst": [
+      "Character",
+      "Transformation",
+      "Mercy"
+    ],
+    "werkwoord_frequentie": {
+      "transform": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "deserve": {
+        "count": "5",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic example of Fleming Rutledge's own homiletical theory in practice."
+  }
+}

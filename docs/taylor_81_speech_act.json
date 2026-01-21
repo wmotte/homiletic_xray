@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "titel_preek": "A Kind Answer And A Sad Question",
+    "bijbeltekst": "Luke 17:12-17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the healing of the ten lepers, focusing on the historical context of leprosy, the character of Jesus (joy vs. sadness), and the failure of the nine to return.",
+      "exegetische_kwaliteit": "Strong historical-critical and social-cultural explanation of Levitical law and Samaritan-Jewish relations.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily describing the biblical narrative and the character of Jesus, shifting toward the end to questioning and praising.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "The kind answer and the sad question... came from the lips of Jesus.",
+        "Luke is careful to point that out.",
+        "Where are the nine?"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To induce a sense of gratitude and conviction in the hearer regarding their own ingratitude.",
+      "pneumatologisch_bewustzijn": "Low; the focus is on the human response of gratitude rather than the Spirit's enabling.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "remember",
+        "thank",
+        "glorify"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "70%",
+      "voorbeelden": [
+        "Jesus was an inveterate party goer.",
+        "The disease was not necessarily associated with sin.",
+        "Misfortune does make strange comrades."
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "is",
+        "tells",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "6%",
+      "voorbeelden": [
+        "Look at the record.",
+        "Behold the furnishings.",
+        "Praise God for Jesus!"
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "behold",
+        "praise"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 18,
+      "procent": "9%",
+      "voorbeelden": [
+        "I once knew a man...",
+        "It is a terrible thing to see such a failure."
+      ],
+      "dominante_werkwoorden": [
+        "knew",
+        "wish",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "2%",
+      "voorbeelden": [
+        "It was the promise of Jesus that a miracle would happen."
+      ],
+      "dominante_werkwoorden": [
+        "promise"
+      ],
+      "kwaliteit": "The promises are mostly reported in the past tense (talking about a promise) rather than being enacted in the present."
+    },
+    "declaratieven": {
+      "frequentie": 3,
+      "procent": "1%",
+      "voorbeelden": [
+        "Your faith has made you whole (quoted/paraphrased)."
+      ],
+      "dominante_werkwoorden": [
+        "made",
+        "saves"
+      ],
+      "autoriteit": "The preacher quotes Jesus' authority but rarely speaks with delegated authority to the congregation."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive description of Jesus' personality.",
+        "Detailed explanation of Levitical quarantine laws.",
+        "General observations about American history."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical event or a student of a lecture rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Present-tense promise of grace",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "The hearer feels the weight of the 'sad question' but lacks the 'kind answer' applied directly to them."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes Jesus' promises to the lepers but does not issue a direct promise to the current congregation.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 24,
+        "gebruik": "Personal anecdotes and inclusive 'we' regarding national sin."
+      },
+      "tweede_persoon": {
+        "frequentie": 15,
+        "gebruik": "Used primarily in the 'Where are the nine?' section to challenge/accuse.",
+        "performatieve_context": "Used for law/conviction rather than gospel/promise."
+      },
+      "derde_persoon": {
+        "frequentie": 85,
+        "gebruik": "Describing Jesus, the lepers, and the Jews.",
+        "distantie_effect": "High; creates a historical distance between the text and the listener."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Narrating the miracle and Jesus' life."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about miracles and human nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final doxological list."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Jesus healed lepers) -> Directive (You should be more grateful).",
+      "voorbeelden": [
+        "They took the gift; they forgot the Giver... Where are the nine?"
+      ],
+      "probleem": "It moves from information to moral obligation without a present-tense declarative of grace to empower the response."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the 'Toezegging' (Promise) as the bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "He answered your prayer and you got up, but you walked away... Where are the nine?"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While the tone is kind, the illocutionary force is primarily one of 'talking about' Jesus and then 'questioning' the hearer's performance. It lacks the creative word that actually 'cleanses' the hearer in the moment.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The explanation of Leviticus 13 and the social stigma of leprosy.",
+        "effect": "Provides a vivid understanding of the biblical world."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The sermon says 'He is a Sun ever shining' but never says 'He shines on you now.'",
+        "probleem": "Lack of direct address/promise.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "The sermon remains a lecture about a past event and a moral appeal for future gratitude, rather than a present-tense event of grace.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not act as a 'mandataris' (mandatory) of God to declare the hearer clean."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the past-tense story, but not the active speaker in the sermon.",
+      "prediker_als_mandataris": "The preacher acts more as a biographer of Jesus than a herald of the King.",
+      "tekstueel_bewijs": [
+        "The kind answer... came from the lips of Jesus."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is sought through psychological appeal (guilt/gratitude) rather than the Spirit's work through the Word.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a reminder of grace rather than a means of grace.",
+      "epifanisch_taalgebruik": "Low; the language is descriptive (constative) rather than epiphanic.",
+      "tekstueel_bewijs": [
+        "Look at the record."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'was' and 'is' (assertives). Need for 'I declare' or 'He promises' (performatives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "It was the promise of Jesus that a miracle would happen.",
+          "voorgestelde_revisie": "Today, Jesus promises you: though your sins be as scarlet, you are made clean.",
+          "verschil": "Shifts from a historical report to a present-tense encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'Kind Answer' is kept in the past.",
+      "suggestie": "Apply the 'Kind Answer' to the congregation's specific 'leprosies' (shame/guilt) directly.",
+      "voorbeeldzinnen": [
+        "To you who feel excluded, Christ says: 'Be clean!'"
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Second person is used mostly for accusation.",
+      "suggestie": "Use 'you' in the context of the indicative/promise.",
+      "voorbeeldzinnen": [
+        "He has found you in your lostness."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative (praise God) is not fueled by a present-tense indicative (you are forgiven).",
+      "suggestie": "Declare the hearer's wholeness in Christ before asking for their 'Hallelujah'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is homiletically beautiful and exegetically sound, but it requires a shift from 'talking about' Jesus to 'speaking for' Jesus to become a truly sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' of the nine lepers; SAT reveals the preacher's failure to use 'Declarative' force to change the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (pathos/ethos), but SAT shows it lacks the 'Commissives' that constitute a divine promise.",
+    "unieke_inzichten_SAT": "SAT exposes that even a sermon about 'Joy' and 'Mercy' can be 'Constative' (information-only) if the illocutionary force is merely assertive."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "is",
+        "entered",
+        "met",
+        "stood",
+        "said",
+        "tells",
+        "means",
+        "included",
+        "identified"
+      ],
+      "directief": [
+        "look",
+        "behold",
+        "watch",
+        "gaze",
+        "praise"
+      ],
+      "expressief": [
+        "knew",
+        "wish",
+        "thank",
+        "glorify"
+      ],
+      "commissief": [
+        "promise",
+        "confirms"
+      ],
+      "declaratief": [
+        "saves",
+        "heals",
+        "delivers"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Were there not ten cleansed? but where are the nine?",
+        "categorie": "ASSERTIVE/INTERROGATIVE",
+        "illocutionaire_kracht": "Questioning",
+        "effectiviteit": "Strong for conviction, weak for grace."
+      },
+      {
+        "zin": "Praise God for Jesus!",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Commanding",
+        "effectiviteit": "A bit abrupt given the previous weight of the 'sad question'."
+      }
+    ],
+    "notities": "The sermon has a beautiful doxological ending, but it functions more as a poetic summary than a performative declaration of the Gospel to the specific hearer."
+  }
+}

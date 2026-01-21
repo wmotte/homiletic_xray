@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "The Glory of Lebanon",
+    "bijbeltekst": "Isaiah 35:1–10; Matthew 11:2–6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God inaugurates His kingdom through the ministry of Jesus and the hidden signs of the church, moving from a state of ruin/despair to a state of eschatological joy.",
+      "subject": {
+        "identificatie": "God / Jesus Christ",
+        "tekstueel_bewijs": [
+          "He will come and save you.",
+          "The glory of Lebanon shall be given to it.",
+          "Jesus refers John the Baptist to the great eighth-century prophet... the decisive event of salvation history is being described."
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Salvation / The Kingdom of God (The 'Glory of Lebanon')",
+        "tekstueel_bewijs": [
+          "The time of God’s liberation is here.",
+          "The signs of the in-breaking kingdom of God are occurring."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Father/The Lord)",
+        "tekstueel_bewijs": [
+          "That is the way that God planned it.",
+          "Behold, your God will come."
+        ],
+        "rol_interpretatie": "SOVEREIGN_PROMISER"
+      },
+      "ontvanger": {
+        "identificatie": "The Church / The Poor / The Exiles",
+        "tekstueel_bewijs": [
+          "The redeemed of the Lord shall return.",
+          "The poor have good news preached to them."
+        ],
+        "positie_hoorder": "The hearer identifies as the Receiver (the 'ragged exiles' or the 'doubting John')."
+      },
+      "helper": {
+        "identificatie": "The Church / ESA Volunteers / Parishioners",
+        "tekstueel_bewijs": [
+          "The tiny signs enacted by the Christian community, are the pointers to the glory."
+        ],
+        "rol_van_god": "God is the Subject; the Church acts as the instrumental Helper.",
+        "rol_van_geest": "Implicit indwelling power enabling 'small deeds'."
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, Ruin, and Human Offense/Doubt",
+        "tekstueel_bewijs": [
+          "The death knell of the old aeon has sounded.",
+          "Blessed is he who takes no offense at me."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is the 'old aeon' and the 'vast, miserable condition of the world,' requiring a divine Subject to overcome."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The church performing deeds of mercy (ESA food distribution) as a sign of the primary program.",
+      "subject": "The Church / ESA Volunteers",
+      "object": "Tangible signs of the Kingdom (feeding the hungry)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly framed as a 'pointer' or 'sign' of the primary program (God's salvation)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation → The Redeemed",
+      "helper_subject_tegenstander": "The Church → God/Jesus ← The Old Aeon/Doubt",
+      "subject_naar_object": "God → Restoration of Lebanon"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 28,
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "He will come and save you.",
+        "God is doing it all.",
+        "The glory of Lebanon shall be given to it."
+      ],
+      "voorbeelden_mens_subject": [
+        "We expected power.",
+        "The parishioners prayed.",
+        "The ESA group takes the food."
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "I believe it must be said over and over."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "We did not want or expect that kind of a Messiah."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "John would instantly understand what he was saying."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "Where does the strength... come from? It comes from God.",
+          "The Lord takes his power to himself."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God's ability (Pouvoir) to save and the human inability to see or achieve this without divine revelation."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Glory/Life (New Aeon)",
+      "s2": "Ruin/Death (Old Aeon)",
+      "niet_s1": "Hiddenness/Obscurity",
+      "niet_s2": "Ambiguous Signs"
+    },
+    "beweging_in_preek": "From S2 (Lebanon ruined) to ~S1 (Hidden signs in Rye/Danbury) to S1 (Eschatological Glory).",
+    "theologische_resolutie": "The tension is resolved by God's future 'crescendo' which is already 'secreted' in the present.",
+    "ernst_van_s2": "High; the ruin of Lebanon and the hunger in the Lower East Side are treated as real, heavy opposition."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It explicitly states 'God is doing it all' and frames human action only as a 'sign' of divine action.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in ESA",
+        "tekstueel_bewijs": "The ESA group takes the food... it is a sign.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch to God",
+        "tekstueel_bewijs": "In the Isaiah passage, it is God who is doing it all.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "The death knell of the old aeon has sounded.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures like John are used as mirrors for the hearer's doubt, not as moral models to emulate.",
+      "bijbelse_figuren_als_model": [
+        "John the Baptist"
+      ],
+      "alternatieve_lezing": "John is the 'sentinel' who receives the news, not the hero who achieves it."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope amidst despair.",
+      "theologische_implicatie": "Monergistic salvation; God provides the 'Pouvoir' (strength) for the 'feeble knees'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The sermon perfectly integrates the historical reality of Lebanon, the biblical text, and the contemporary church through the lens of 'hidden signs'.",
+      "spanning_punten": [
+        "The tension between the 'vast misery' and the 'tiny signs'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "The death knell of the old aeon has sounded.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of strength to 'weak hands'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Severe; described as 'ruin' and 'death'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by God as the primary Subject. Human actors are correctly positioned as Receivers or Helpers (sign-bearers).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain this balance; it is the essence of a grace-oriented sermon.",
+      "concrete_suggestie": "Continue to emphasize that the 'strength' is given, not generated."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (ruin/despair) is already sufficiently heavy.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God saves) → Ethics (Church provides signs)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in theocentric narrative. It avoids the trap of turning the 'signs' into a new law, keeping the focus on God's agency."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Lebanon' metaphor, Greimas reveals that the 'engine' of the sermon is the Subject-switch from the parishioners' despair to God's action.",
+    "verschil_met_exegese": "Exegesis explains Isaiah 35; Greimas shows how the preacher 'casts' the modern congregation into the role of the 'ragged exiles'.",
+    "unieke_inzichten_greimas": "Greimas highlights that the 'hiddenness' of the signs is a modal 'Savoir' (knowledge) issue—the signs are ambiguous to the world but clear to the 'Receiver' with eyes to see."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (will come)",
+      "Jesus (heals)",
+      "John (doubts)",
+      "ESA (distributes)",
+      "The Lord (takes power)"
+    ],
+    "volledige_object_lijst": [
+      "Peace",
+      "Sight",
+      "Food",
+      "Glory",
+      "Salvation"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": 3,
+        "primair_subject": "God"
+      },
+      "give": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "do": {
+        "count": 6,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon follows Fleming Rutledge's 'Grammar of Grace' almost perfectly."
+  }
+}

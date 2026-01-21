@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "titel_preek": "The Promise In The Manger",
+    "bijbeltekst": "Luke 2:11-12; 1 Timothy 1:15; Hebrews 10:5-7",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the contrast between the 'threat' of birth (historical evil) and the 'promise' of the manger (Christ's incarnation). It moves from historical examples to the necessity of a Savior.",
+      "exegetische_kwaliteit": "The exegesis is narrative and typological, focusing on the movement from heaven to earth (kenosis) rather than technical word studies.",
+      "omvang_procent": "65%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher moves from describing historical hazards to proclaiming the arrival of a Savior who acts upon the hearer.",
+      "primaire_kracht": "COMMISSIVE",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I bring you good tidings",
+        "The Savior has come",
+        "He passes to us our royal birthright"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Comfort, assurance of salvation, and a shift from fear of history to hope in God's act.",
+      "pneumatologisch_bewustzijn": "Implicit; the sermon speaks of the 'new spirit put in us' but does not explicitly invoke the Spirit's current work in the preaching act.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "rejoice",
+        "receive",
+        "trust"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "Christmas is the story of a manger",
+        "Louis Pasteur was a baby in a cradle",
+        "The future of humankind is determined by mangers"
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "were",
+        "represents"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "Think of the Caesars",
+        "Remember the various white Southern sheriffs",
+        "Look at the picture"
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "remember",
+        "look",
+        "hear"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "I marvel that we know of no time",
+        "I wonder sometimes",
+        "How hard it is to think"
+      ],
+      "dominante_werkwoorden": [
+        "marvel",
+        "wonder",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "18",
+      "procent": "12%",
+      "voorbeelden": [
+        "He promises to snatch us from the burning fire",
+        "He gives to us authority",
+        "He appoints unto us a kingdom"
+      ],
+      "dominante_werkwoorden": [
+        "gives",
+        "passes",
+        "appoints",
+        "promises"
+      ],
+      "kwaliteit": "High; the preacher uses the third person to describe God's binding actions but applies them directly to the 'us'."
+    },
+    "declaratieven": {
+      "frequentie": "10",
+      "procent": "8%",
+      "voorbeelden": [
+        "The Savior has come",
+        "He writes God's holy name on our foreheads",
+        "We are bought with a great price"
+      ],
+      "dominante_werkwoorden": [
+        "has come",
+        "writes",
+        "are bought"
+      ],
+      "autoriteit": "Strong; the preacher speaks as a herald of a completed reality."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "PERFORMATIVE_ADEQUATE",
+    "constatief_percentage": "70%",
+    "performatief_percentage": "30%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Long historical lists of babies (Pasteur, Nightingale)",
+        "Extended descriptions of lynchings and historical horrors"
+      ],
+      "effect_op_hoorder": "Intellectual engagement and emotional preparation, but delays the 'event' of the Word."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": false,
+      "ernst": "LOW",
+      "missende_elementen": [
+        "Direct first-person absolution ('I forgive you')"
+      ],
+      "effect_op_hoorder": "The hearer is addressed as part of a group ('us') rather than an individual 'you' in the final declaration."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "5",
+      "kwaliteit_toezeggen": "Powerful and evocative, linking the manger to the cross.",
+      "voorbeelden": [
+        "He passes to us our royal birthright",
+        "He puts in our grasp papers of citizenship"
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Homiletical 'I' (wondering, marveling) and inclusive 'we' (our need)."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Direct address to the listener ('Ah man, woman, hear my voice').",
+        "performatieve_context": "Used to bridge the historical 'then' to the 'now'."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Describing the 'babe', historical figures, and the nature of salvation.",
+        "distantie_effect": "Creates a narrative distance that is only closed in the final third of the sermon."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "History of evil and the biblical narrative."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about human need and the nature of a Savior."
+      },
+      "actueel_present": {
+        "frequentie": "30%",
+        "gebruik": "The 'this day' of the proclamation."
+      }
+    },
+    "adressering_effectiviteit": "7"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from the Assertive (The problem of birth/sin) to the Commissive (What Christ does for us) to the Directive (Hear my voice).",
+      "voorbeelden": [
+        "We need a Savior (Assertive) -> The Savior has come (Declarative) -> He passes to us our birthright (Commissive)"
+      ],
+      "kwaliteit": "Excellent transition from the 'lostness' of the human journey to the 'foundness' in Christ."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "The Savior has come... hear my voice."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "SACRAMENTAL_CREATIVE",
+    "diagnose_toelichting": "The sermon successfully moves beyond 'talking about' the manger to making the manger a present reality that 'passes' rights to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Commissives",
+        "categorie": "Performative",
+        "tekstueel_bewijs": "He passes to us our royal birthright",
+        "effect": "Creates a legal/spiritual reality for the hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The list of historical figures (Pasteur, Nightingale, etc.)",
+        "probleem": "The sermon spends significant time in 'lecture mode' before reaching the proclamation.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": "8",
+    "gebeuren_toelichting": "The final section is a high-intensity performative event where the preacher acts as a mandatory of the King.",
+    "sacramentele_kracht": "8",
+    "sacramentele_toelichting": "The language of 'writing names on foreheads' and 'passing birthrights' functions sacramentally."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, via the angelic message and the preacher's 'voice'.",
+      "prediker_als_mandataris": "Strongly evident in the 'Ah man, woman, hear my voice' section.",
+      "tekstueel_bewijs": [
+        "The Savior has come... he passes to us our royal birthright"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Moderate; mentioned as the 'new spirit put in us'.",
+      "perlocutie_theologie": "The preacher trusts the 'saving word' to do the work.",
+      "tekstueel_bewijs": [
+        "a new spirit put in us"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the sermon is treated as the delivery of the 'papers of citizenship'.",
+      "epifanisch_taalgebruik": "High; uses 'light', 'stars', and 'glory' to describe the event.",
+      "tekstueel_bewijs": [
+        "puts in our grasp papers of citizenship"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on past-tense assertives initially but finishes with a surge of present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Savior of the world was a baby in a manger.",
+          "voorgestelde_revisie": "Today, this Savior comes to you from that manger.",
+          "verschil": "Shifts from historical fact to present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": false,
+      "probleem": "None",
+      "suggestie": "Maintain the current strength of the conclusion.",
+      "voorbeeldzinnen": [
+        "He gives you authority over all devils."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'you' (singular) is often lost in the 'us' (collective).",
+      "suggestie": "Use more direct 'you' address in the middle section.",
+      "voorbeeldzinnen": [
+        "This Savior is for you, in your specific fear."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "suggestie": "The balance is well-handled."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of how to turn a historical narrative into a performative event of grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "Unlike SvT, which would focus on the preacher's 'self-revelation' or 'appeal', SAT shows the preacher actually 'handing over' a new status to the hearer.",
+    "verschil_met_retoriek": "It goes beyond persuasion to 'declaration'—changing the hearer's status from 'sinner' to 'citizen'.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power is in the 'Commissives' (the promises) which function as the 'Toezegging' of the Gospel."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "represents",
+        "wonder",
+        "think",
+        "mention",
+        "determined"
+      ],
+      "directief": [
+        "look",
+        "remember",
+        "hear",
+        "contemplate",
+        "reflect"
+      ],
+      "expressief": [
+        "marvel",
+        "praise",
+        "feel"
+      ],
+      "commissief": [
+        "passes",
+        "gives",
+        "appoints",
+        "promises"
+      ],
+      "declaratief": [
+        "has come",
+        "writes",
+        "are bought"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He passes to us our royal birthright.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Sacramental event"
+      }
+    ],
+    "notities": "The sermon effectively uses the 'indicative' of Christ's birth to ground the 'imperative' of faith."
+  }
+}

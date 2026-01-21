@@ -1,0 +1,265 @@
+[
+  {
+    "metadata": {
+      "titel_preek": "The Old, Old Story",
+      "bijbeltekst": "Romans 5:12–21",
+      "analyse_datum": "2024-05-22",
+      "geschat_aantal_woorden": "1850"
+    },
+    "actantiele_analyse": {
+      "primair_narratief_programma": {
+        "beschrijving": "God intervenes in a world occupied by the reigning monarchs of Sin and Death to liberate humanity through the 'second man', Jesus Christ.",
+        "subject": {
+          "identificatie": "God (specifically through the person of Jesus Christ)",
+          "tekstueel_bewijs": [
+            "God has done to deliver us from a future of our own making",
+            "He [Christ] was driving the demons out",
+            "He is the new man who is able to create a new humanity"
+          ],
+          "frequentie_score": "9"
+        },
+        "object": {
+          "identificatie": "Justification/Rectification and Life (The remade future)",
+          "tekstueel_bewijs": [
+            "the free gift following many trespasses brings justification",
+            "acquittal and life for all men",
+            "promise of a completely remade future"
+          ],
+          "aard_van_object": "SOTERIOLOGICAL"
+        },
+        "zender": {
+          "identificatie": "God the Father / The 'Old Story' of Scripture",
+          "tekstueel_bewijs": [
+            "the gift of God",
+            "One generation shall praise thy works to another"
+          ],
+          "rol_interpretatie": "LOVING_FATHER"
+        },
+        "ontvanger": {
+          "identificatie": "Humanity ('The many', 'The elders and the children')",
+          "tekstueel_bewijs": [
+            "acquittal and life for all men",
+            "I am among you as a fellow prisoner who brings news of impending release"
+          ],
+          "positie_hoorder": "RECEIVER_SAVED"
+        },
+        "helper": {
+          "identificatie": "The Cross / The Elders (as storytellers)",
+          "tekstueel_bewijs": [
+            "The only way of victory is through the Cross",
+            "This is our responsibility... to tell them this old story"
+          ],
+          "rol_van_god": "SUBJECT",
+          "rol_van_geest": "UNCLEAR"
+        },
+        "tegenstander": {
+          "identificatie": "Sin and Death (as personified cosmic tyrants)",
+          "tekstueel_bewijs": [
+            "Sin as a reigning monarch, in league with its fellow tyrant Death",
+            "God has a very real personal Enemy who is bent on victory"
+          ],
+          "ernst_tegenstander": "COSMIC",
+          "toelichting_ernst": "Sin is not described as a mistake but as an 'annihilating army' and 'iron rule' that removes human choice."
+        }
+      },
+      "secundair_narratief_programma": {
+        "aanwezig": "true",
+        "beschrijving": "The elders passing the 'Old Story' to the next generation as a counter-narrative to modern technological/cultural optimism.",
+        "subject": "The Elders/The Church",
+        "object": "Faithful transmission of the Gospel",
+        "verhouding_tot_primair": "SEQUENTIAL",
+        "toelichting_verhouding": "The secondary program (witness) is the response to the primary program (God's act in Christ)."
+      },
+      "actantieel_schema_visualisatie": {
+        "zender_naar_ontvanger": "God → Life/Justification → Humanity",
+        "helper_subject_tegenstander": "The Cross → Jesus Christ ← Sin/Death",
+        "subject_naar_object": "Jesus Christ → New Humanity"
+      }
+    },
+    "grammaticale_analyse": {
+      "subject_check": {
+        "god_als_subject_count": "42",
+        "mens_als_subject_count": "15",
+        "ratio": "2.8",
+        "voorbeelden_god_subject": [
+          "God has done to deliver us",
+          "Christ is confronted by Satan",
+          "Grace also might reign"
+        ],
+        "voorbeelden_mens_subject": [
+          "Adam made a different choice",
+          "We have left undone those things",
+          "The young can say..."
+        ],
+        "rutledge_score": "9"
+      },
+      "modale_analyse": {
+        "devoir_faire": {
+          "prominentie": "3",
+          "voorbeelden": [
+            "This is our responsibility and our calling"
+          ]
+        },
+        "vouloir_faire": {
+          "prominentie": "4",
+          "voorbeelden": [
+            "We too wanted to be part of writing a new story"
+          ]
+        },
+        "savoir_faire": {
+          "prominentie": "5",
+          "voorbeelden": [
+            "The elders used to be able to say... I know"
+          ]
+        },
+        "pouvoir_faire": {
+          "prominentie": "9",
+          "voorbeelden": [
+            "no one has been able to choose to step outside the iron rule",
+            "The human being does not have the capacity",
+            "He is the new man who is able"
+          ]
+        },
+        "dominante_modaliteit": "POUVOIR",
+        "modale_interpretatie": "The sermon focuses on the total loss of human 'Pouvoir' (power) due to Sin, and the restoration of 'Pouvoir' through Christ's victory."
+      }
+    },
+    "semiotisch_vierkant_analyse": {
+      "primaire_tegenstelling": {
+        "s1": "Grace/Life (Christ)",
+        "s2": "Sin/Death (Adam)",
+        "niet_s1": "Moralism/Technology (Human effort)",
+        "niet_s2": "False Freedom (Naivety/Mead)"
+      },
+      "beweging_in_preek": "Starts at ~S2 (Mead's false freedom), moves to S2 (The reality of Sin/Death), and resolves in S1 (Grace abounding).",
+      "theologische_resolutie": "The tension is resolved by the 'Much More' of Christ, which overpowers the 'One Man' of Adam.",
+      "ernst_van_s2": "Extremely high; Sin is treated as a cosmic occupation."
+    },
+    "diagnostische_evaluatie": {
+      "primaire_classificatie": "GRACE",
+      "classificatie_toelichting": "The sermon is profoundly theocentric. It explicitly rejects human capacity to solve the human predicament and places all agency for salvation on Christ.",
+      "indicatoren_moralisme": [
+        {
+          "indicator": "Potential Exemplarism in 'behaving his way'",
+          "tekstueel_bewijs": "We can only do it by doing it his way.",
+          "ernst": "LOW"
+        }
+      ],
+      "indicatoren_genade": [
+        {
+          "indicator": "God as Subject of active verbs",
+          "tekstueel_bewijs": "God has done to deliver us from a future of our own making.",
+          "sterkte": "VERY_STRONG"
+        },
+        {
+          "indicator": "Heavy Opponent",
+          "tekstueel_bewijs": "Sin as a reigning monarch... an annihilating army.",
+          "sterkte": "VERY_STRONG"
+        }
+      ],
+      "exemplarisme_check": {
+        "aanwezig": "false",
+        "beschrijving": "Christ is not an example to follow but a Victor who creates a new reality.",
+        "bijbelse_figuren_als_model": [
+          "Adam (as a negative type of our condition, not an example)"
+        ],
+        "alternatieve_lezing": "Theocentric: Christ does what we cannot."
+      },
+      "identificatie_patroon": {
+        "hoorder_identificeert_met": "RECEIVER_SAVED",
+        "effect_op_hoorder": "Relief and surrender; moving from the burden of 'creating a future' to receiving a gift.",
+        "theologische_implicatie": "Monergistic salvation."
+      },
+      "narratieve_coherentie": {
+        "coherentie_score": "10",
+        "coherentie_beschrijving": "The sermon perfectly integrates the human cultural failure with the biblical narrative of the Fall and Redemption.",
+        "spanning_punten": [
+          "The tension between human 'responsibility' to tell the story and the 'total inability' of humans to save themselves."
+        ]
+      }
+    },
+    "theologische_diepte_analyse": {
+      "soteriologie": {
+        "primaire_model": "CHRISTUS_VICTOR",
+        "tekstueel_bewijs": "Christ's victory over the demonic Powers... driving the demons out.",
+        "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+      },
+      "pneumatologie": {
+        "rol_heilige_geest": "ABSENT",
+        "competentie_schenking": "The sermon focuses on Christological endowment rather than Pneumatological indwelling."
+      },
+      "hamartologie": {
+        "aard_van_zonde": "COSMIC_POWER",
+        "ernst_diagnose": "Absolute; Sin is an 'iron rule' that negates human choice."
+      },
+      "eschatologie": {
+        "hoop_structuur": "ALREADY_COMPLETED",
+        "actant_van_voltooiing": "God"
+      }
+    },
+    "aanbevelingen": {
+      "actantiele_audit_samenvatting": "The sermon is a masterclass in maintaining God as the Subject. It avoids the 'Moralistic Gap' by refusing to give the hearer a 'to-do' list to achieve salvation.",
+      "subject_herpositionering": {
+        "nodig": "false",
+        "huidige_probleem": "None",
+        "voorgestelde_herpositionering": "N/A",
+        "voorbeeld_revisie": "N/A"
+      },
+      "identificatie_herstel": {
+        "nodig": "false",
+        "problematische_identificatie": "None",
+        "voorgestelde_identificatie": "N/A",
+        "strategie": "N/A"
+      },
+      "modale_balans": {
+        "huidige_onbalans": "Strongly weighted toward Pouvoir (Inability vs. God's Ability).",
+        "voorgestelde_balans": "Maintain as is; this is appropriate for a Lent/Romans 5 sermon.",
+        "concrete_suggestie": "Could slightly increase the 'Vouloir' (desire) for the new life."
+      },
+      "tegenstander_intensivering": {
+        "nodig": "false",
+        "huidige_status": "Maximized",
+        "voorgestelde_intensivering": "N/A",
+        "theologische_rationale": "The opponent is already cosmic."
+      },
+      "narratieve_hierarchie_herstel": {
+        "nodig": "false",
+        "probleem": "None",
+        "voorgestelde_structuur": "Soteriology (God saves) → Ethics (We tell/behave)."
+      },
+      "overall_beoordeling": "EXCELLENT",
+      "slotopmerking": "A profound example of Rutledge's own 'Grammar of Grace'. The sermon dismantles human optimism to make room for divine hope."
+    },
+    "comparatieve_analyse": {
+      "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the Margaret Mead anecdote; semiotics shows the anecdote serves to establish the 'Opponent' (Sin/Death) as insurmountable by human progress.",
+      "verschil_met_exegese": "Exegesis explains Romans 5; semiotics shows how the sermon functions as a 'delivery system' for the same actantial roles Paul uses.",
+      "unieke_inzichten_greimas": "Reveals that the 'Elders' are not the Subject of the primary narrative, but merely Helpers/Messengers, preventing the sermon from becoming a lecture on parenting."
+    },
+    "appendices": {
+      "volledige_subject_lijst": [
+        "God (delivered)",
+        "Christ (confronted Satan)",
+        "Sin (reigned)",
+        "Death (spread)",
+        "Grace (abounded)"
+      ],
+      "volledige_object_lijst": [
+        "Justification",
+        "Life",
+        "New Humanity",
+        "Release"
+      ],
+      "werkwoord_frequentie": {
+        "reign": {
+          "count": "8",
+          "primair_subject": "Sin/Grace"
+        },
+        "deliver": {
+          "count": "3",
+          "primair_subject": "God"
+        }
+      },
+      "notities": "The sermon uses the 'Much More' logic of Paul to shift the actantial power from the Opponent to the Subject."
+    }
+  }
+]

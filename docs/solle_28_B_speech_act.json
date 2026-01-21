@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "titel_preek": "Bibelarbeit zu Psalm 118",
+    "bijbeltekst": "Psalm 118",
+    "analyse_datum": "2024-05-23",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A theological and socio-political meditation on Psalm 118, contrasting the 'globalization from above' with the biblical 'wide space'.",
+      "exegetische_kwaliteit": "High on historical-critical and socio-economic context; lower on grammatical-syntactic exegesis.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting truths about the world and the text, with occasional invitations to join a movement.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "6",
+      "voorbeelden": [
+        "Ich liebe die Texte...",
+        "Die Globalisierung von oben bedeutet...",
+        "Gott ist meine Stärke..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Political awakening, solidarity with the poor, and a 'nevertheless' hope.",
+      "pneumatologisch_bewustzijn": "Low; the focus is on human 'inszenierung' (staging) and 'mitarbeiten' (co-working).",
+      "perlocutionaire_werkwoorden": [
+        "resist",
+        "awaken",
+        "participate",
+        "hope"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70",
+      "voorbeelden": [
+        "Psalmen sind auch die Grundgebete der christlichen Kirchen.",
+        "Wir leben in einer Welt wachsender Barbarei.",
+        "Das hebräische Wort für danken ist vielschichtig."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "heißt",
+        "bedeutet"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10",
+      "voorbeelden": [
+        "Wir sollten Globalisierung endlich von unten wagen.",
+        "Öffne mir das Tor der Gerechtigkeit!",
+        "Dankt Ihm!"
+      ],
+      "dominante_werkwoorden": [
+        "sollten",
+        "wagen",
+        "müssen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "25",
+      "procent": "12",
+      "voorbeelden": [
+        "Ich liebe die Texte...",
+        "Ich habe Schwierigkeiten mit...",
+        "Lachen werd ich gegen ihn."
+      ],
+      "dominante_werkwoorden": [
+        "liebe",
+        "hoffe",
+        "fühle"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2",
+      "voorbeelden": [
+        "Ich werde es der Welt verkünden.",
+        "Ich werde leben."
+      ],
+      "dominante_werkwoorden": [
+        "werde"
+      ],
+      "kwaliteit": "Weak; mostly human-centered commitments rather than divine promises delivered to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1",
+      "voorbeelden": [
+        "Und wir segnen euch, von Seinem Haus her."
+      ],
+      "dominante_werkwoorden": [
+        "segnen"
+      ],
+      "autoriteit": "Moderate; the blessing is quoted from the text rather than enacted as a direct apostolic authority."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85",
+    "performatief_percentage": "15",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive socio-political analysis of neoliberalism.",
+        "Talking about the history of the Psalm.",
+        "Talking about the author's own feelings (Expressive surplus)."
+      ],
+      "effect_op_hoorder": "Information and political alignment, but not necessarily a sacramental encounter with God."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct divine promise (Toezegging)",
+        "Present-tense address of God's action now."
+      ],
+      "effect_op_hoorder": "The hearer remains an observer of the preacher's thoughts."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The sermon describes the Psalm's promises but does not perform them toward the congregation.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Autobiographical 'I' and collective 'We' (political/ecclesial)."
+      },
+      "tweede_persoon": {
+        "frequentie": "Low",
+        "gebruik": "Mostly rhetorical questions or quoting the text.",
+        "performatieve_context": "Rarely used to deliver grace."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Describing 'the world', 'the enemies', 'the Psalm'.",
+        "distantie_effect": "Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30",
+        "gebruik": "Biblical history and personal anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "50",
+        "gebruik": "General truths about globalization and theology."
+      },
+      "actueel_present": {
+        "frequentie": "20",
+        "gebruik": "Calls to action and the current church context."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of neoliberalism) -> Directive (We should resist).",
+      "voorbeelden": [
+        "Die Globalisierung... ist das Ziel. Wir sollten Globalisierung von unten wagen."
+      ],
+      "probleem": "The 'Ought' (Directive) is not grounded in a 'Done' (Declarative/Commissive)."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of the Promise.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The imperative to 'build the house' is based on political observation, not the declarative act of God's grace."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While politically progressive, the illocutionary structure is legalistic: it describes a dire situation and demands a human response (resistance) without the performative delivery of divine power.",
+    "sterke_punten": [
+      {
+        "aspect": "Contextualization",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Analysis of the 'TINA-Syndrom'.",
+        "effect": "Makes the text relevant to modern life."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "N/A",
+        "probleem": "God is talked about as a concept, not as a promiser.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "3",
+    "gebeuren_toelichting": "It is a 'Bibelarbeit' (Bible study) rather than a 'Predigt' (Sermon). It informs but does not transform via the Word.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "The language remains descriptive and horizontal."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; God is the object of the Psalm, not the subject of the sermon.",
+      "prediker_als_mandataris": "Weak; the preacher speaks as a political commentator/witness.",
+      "tekstueel_bewijs": [
+        "Ich liebe die Texte...",
+        "Seit 50 Jahren versuche ich..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is sought through political persuasion rather than the Spirit.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the sermon is a medium of information and motivation.",
+      "epifanisch_taalgebruik": "Low",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/are' and 'should' to 'I promise you' and 'God declares'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Gottes Freundschaft bleibt.",
+          "voorgestelde_revisie": "Gott verspricht dir heute: Meine Freundschaft mit dir bleibt unerschütterlich.",
+          "verschil": "Shifts from a fact about God to a promise from God."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace of the Psalm is described as a historical or general reality.",
+      "suggestie": "Use the 'Toezegging' (Promise) to bridge the gap between the text and the hearer's pain.",
+      "voorbeeldzinnen": [
+        "In deiner Enge befreit Er dich jetzt."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'They' (enemies).",
+      "suggestie": "Increase 'You' (congregation) in the context of grace.",
+      "voorbeeldzinnen": [
+        "Ihr seid nicht allein in der Enge."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to resist is too heavy because the indicative of God's victory is only 'talked about'.",
+      "suggestie": "Declare God's victory over the 'lords of this world' as a present reality for the hearer."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and ethically passionate, but it lacks the performative 'event' character that turns a lecture into a sacrament."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (which is high here); SAT reveals that despite high self-revelation, the 'creative word' (Declarative) is missing.",
+    "verschil_met_retoriek": "Rhetorically strong in metaphors, but illocutionarily weak in divine agency.",
+    "unieke_inzichten_SAT": "SAT exposes that the preacher is doing all the work, while God is the silent object of discussion."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "nennen",
+        "stammen",
+        "gibt",
+        "ist",
+        "sind",
+        "klagt",
+        "zeigt",
+        "heißt"
+      ],
+      "directief": [
+        "dankt",
+        "nachsprechen",
+        "wagen",
+        "öffne",
+        "müssen"
+      ],
+      "expressief": [
+        "liebe",
+        "hoffe",
+        "weine",
+        "fluche",
+        "wünsche"
+      ],
+      "commissief": [
+        "werde",
+        "widerstehen",
+        "verkünden"
+      ],
+      "declaratief": [
+        "segnen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Danket dem Herrn, denn er ist freundlich.",
+        "categorie": "DIRECTIVE/ASSERTIVE",
+        "illocutionaire_kracht": "Commanding a response based on a fact.",
+        "effectiviteit": "Moderate"
+      }
+    ],
+    "notities": "The text functions more as a 'Bibelarbeit' (teaching) than a liturgical proclamation."
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Voices against Monologue",
+    "bijbeltekst": "Psalm 4",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human self (a collage of voices) breaks the silence of monologue to achieve freedom and health through dialogue with God.",
+      "subject": {
+        "identificatie": "The Human Self / The Hearer",
+        "tekstueel_bewijs": [
+          "The speaker knows more is needed from God than he can muster for himself.",
+          "He decided... not to spend the night in anxiety.",
+          "He decides how to handle this distress."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Freedom, health, and 'being heard' (Authentic Speech)",
+        "tekstueel_bewijs": [
+          "telling the secrets of our lives that must be told if we are to be free in the gospel.",
+          "a map and a generator for health and healing."
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Value of Authenticity / The Gospel of Dialogue",
+        "tekstueel_bewijs": [
+          "silence kills.",
+          "this God allows, attends to, and honors all the voices of our life."
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The Individual Self",
+        "tekstueel_bewijs": [
+          "This is good news for us in a world filled with risk."
+        ],
+        "positie_hoorder": "The hearer identifies strongly with the Subject (the one who must speak)."
+      },
+      "helper": {
+        "identificatie": "The Psalms / God (as Listener)",
+        "tekstueel_bewijs": [
+          "the book of Psalms is a script of many voices coming to speech.",
+          "this God who knows and hears all of our secrets."
+        ],
+        "rol_van_god": "God is primarily the Helper (Listener) who facilitates the Subject's process.",
+        "rol_van_geest": "Absent/Unclear"
+      },
+      "tegenstander": {
+        "identificatie": "Monologue / Coercion / Internal Silence",
+        "tekstueel_bewijs": [
+          "Monologue can be a temptation or a seduction.",
+          "There is great pressure among us to silence voices."
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as a sociological or psychological pressure to conform, rather than an ontological or cosmic power like Sin or Death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The social/political liberation of marginalized voices.",
+      "subject": "African Americans, Women, Gays/Lesbians, Arab Youth",
+      "object": "Rights of citizenship, breaking patterns of power",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "The preacher uses social movements as an analogical mirror for the individual's psychological/spiritual journey."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Authenticity → Freedom/Healing → The Self",
+      "helper_subject_tegenstander": "The Psalms → The Hearer ← Monologue/Silence",
+      "subject_naar_object": "The Hearer → Telling Secrets"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God has set me apart.",
+        "God pays attention.",
+        "God allows, attends to, and honors all the voices."
+      ],
+      "voorbeelden_mens_subject": [
+        "He decided... not to spend the night in anxiety.",
+        "He decides how to handle this distress.",
+        "We are deciding, yet again, which voices are to be allowed."
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "secrets... that must be told.",
+          "all must be heard."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "voices... refused to stay in the kitchen.",
+          "The Psalmist is not that greedy or grasping."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "The Psalms... are a map.",
+          "The Psalmist exhibits his own depth."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "the speaker knows more is needed from God than he can muster."
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the 'will' and 'desire' of the human subject to break silence. It is a recruitment of the will to engage in the 'work' of dialogue."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Dialogue (Life/Health)",
+      "s2": "Monologue (Death/Coercion)",
+      "niet_s1": "Silence (Suppression)",
+      "niet_s2": "Cacophony (Risk/Possibility)"
+    },
+    "beweging_in_preek": "From S2 (Monologue) through Not-S1 (Silence) toward S1 (Dialogue/Health).",
+    "theologische_resolutie": "Resolution is found in the 'honoring' of the collage by God, which validates the human act of speaking.",
+    "ernst_van_s2": "S2 is treated as a social/psychological ill, not a state of spiritual total depravity."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the word 'Gospel,' the sermon's engine is anthropocentric. The human is the Subject who decides, speaks, and offers. God is the 'Audience' or 'Helper' who validates the human performance of authenticity.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Human as Subject of Decision",
+        "tekstueel_bewijs": "He decided, right in the middle of the night, not to spend the night in anxiety.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "The Psalms take God very seriously... as a map and a generator for health and healing.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God's Attentiveness",
+        "tekstueel_bewijs": "God has marked me as a special object of love and care.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Psalmist is presented as a model for how we should handle our internal complexity and anxiety.",
+      "bijbelse_figuren_als_model": [
+        "The Psalmist"
+      ],
+      "alternatieve_lezing": "A theocentric reading would focus on God as the one who breaks the silence of our death by His Word, rather than us breaking our silence to Him."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Empowerment to speak; pressure to be 'authentic' to achieve healing.",
+      "theologische_implicatie": "Salvation is equated with psychological wholeness through self-expression."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is coherent as a therapeutic/social manifesto, but the 'Gospel' is a secondary layer added to a primary program of self-actualization.",
+      "spanning_punten": [
+        "The tension between 'God as the one from whom no secrets are hid' (Sovereignty) and 'telling secrets so we can be free' (Human agency)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The Psalms... are a map and a generator for health and healing.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer already has the 'Pouvoir' (power) to speak if they only 'Vouloir' (will) it."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'silence' or 'anxiety'—things the subject can decide to overcome."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "Man (through the act of speaking)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a call to human action (speaking) with God as the supportive background. The 'engine' is the human will.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The human is the subject of 'deciding' and 'offering'.",
+      "voorgestelde_herpositionering": "Make God the Subject who speaks into our silence.",
+      "voorbeeld_revisie": "Instead of 'He decided not to spend the night in anxiety,' use 'God's promise of safety reached into his night and stilled his heart.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero of their own healing.",
+      "voorgestelde_identificatie": "Hearer as the Receiver of God's speech.",
+      "strategie": "Emphasize that we only speak because God has first spoken to us."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Vouloir (Willing) and Devoir (Must).",
+      "voorgestelde_balans": "Pouvoir (God's power to enable us).",
+      "concrete_suggestie": "Focus on how the Spirit gives us the words we cannot find ourselves."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Social/Psychological silence.",
+      "voorgestelde_intensivering": "The 'Silence of the Grave' or the 'Bondage of the Will'.",
+      "theologische_rationale": "If the opponent is just a 'bad habit' of silence, we don't need a Savior, just a therapist."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (speaking/dialogue) is the primary program.",
+      "voorgestelde_structuur": "Soteriology (God speaks) → Ethics (We respond)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically brilliant and socially evocative, but it risks leaving the hearer with a new 'law' of authenticity rather than the 'gift' of Christ."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of inclusion; semiotically, it is a monologue of the human will.",
+    "verschil_met_exegese": "Exegesis might focus on the Hebrew structure; Greimas reveals that the 'God' of this sermon is a functional Adjuvant to the Human Subject.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'Faith' is defined here as a human 'voice' (action) rather than a reception of a divine act."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We are watching",
+      "Women have found voice",
+      "He decided",
+      "He decides",
+      "The Psalmist exhibits",
+      "We live"
+    ],
+    "volledige_object_lijst": [
+      "gladness",
+      "rest",
+      "freedom",
+      "health",
+      "healing"
+    ],
+    "werkwoord_frequentie": {
+      "decide": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "speak/voice": {
+        "count": "15",
+        "primair_subject": "Man"
+      },
+      "hear/attend": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon reflects a 'Turn to the Subject' typical of mid-20th-century liberal homiletics."
+  }
+}

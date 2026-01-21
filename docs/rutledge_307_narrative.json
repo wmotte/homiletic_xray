@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Saved!",
+    "bijbeltekst": "Ephesians 2:8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in a world defined by cosmic dislocation and death to make the dead alive through Christ, purely by grace.",
+      "subject": {
+        "identificatie": "God (the Father)",
+        "tekstueel_bewijs": [
+          "God... made us alive together with Christ",
+          "God, who is rich in mercy... loved us",
+          "God has saved us in spite of ourselves"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation/Life (The rescue of the whole created order)",
+        "tekstueel_bewijs": [
+          "set free from its bondage to decay",
+          "made us alive together with Christ",
+          "God’s great plan of liberation"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God's Mercy/Love",
+        "tekstueel_bewijs": [
+          "out of the great love with which he loved us",
+          "rich in mercy"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The whole human race / The Hearer",
+        "tekstueel_bewijs": [
+          "we were by nature children of wrath",
+          "the whole created order"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ",
+        "tekstueel_bewijs": [
+          "made us alive together with Christ",
+          "saving us in spite of ourselves"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Spirit calls the church into being)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and the Prince of Darkness",
+        "tekstueel_bewijs": [
+          "dead through trespasses",
+          "hostile powers",
+          "Prince of Darkness"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but 'bondage to decay' and 'deadness'—a state humans cannot fix."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Church (commandos) holds the territory of grace through small acts of resistance/love.",
+      "subject": "The Church/Believers",
+      "object": "Enacting victorious grace/protecting the defenseless",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program is a response to being 'saved' in the primary program. Ethics flows from the new situation created by grace."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Mercy → Salvation → The Fallen World",
+      "helper_subject_tegenstander": "Christ → God → Sin/Death",
+      "subject_naar_object": "God → Making the dead alive"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "6",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God... made us alive together with Christ",
+        "God... loved us",
+        "God's grace is mediated"
+      ],
+      "voorbeelden_mens_subject": [
+        "we live in the passions of our flesh",
+        "we stand our ground",
+        "we truly experience the mercy of God"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "what we are called to do"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "I like to escape just as much as the next person"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "The Bible teaches us that the world is full of evil"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "by grace you have been saved",
+          "made us alive"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God's 'ability' to save those who are 'unable' (dead). Grace is presented as the endowment of a new state of being."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Life",
+      "s2": "Wrath/Death",
+      "niet_s1": "Self-effort/Merit",
+      "niet_s2": "Pardoned Offenses"
+    },
+    "beweging_in_preek": "Moves from S2 (Death/Wrath) through the failure of ~S1 (Anne Frank's optimism/Human goodness) to S1 (God's Grace).",
+    "theologische_resolutie": "Resolution is found in God's unilateral action: 'Just saved.'",
+    "ernst_van_s2": "Extremely high; the preacher uses visceral examples of child murder and cosmic decay to establish the reality of S2."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently maintains God as the Subject of salvation. It explicitly rejects human merit and defines the human condition as 'dead,' necessitating an external rescue.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in the 'Elaine' story",
+        "tekstueel_bewijs": "The daughter related that story as a turning point in her life.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Rejection of conditional salvation",
+        "tekstueel_bewijs": "Not 'saved if you are good'... Just saved.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "God as the active Subject of the verb 'save'",
+        "tekstueel_bewijs": "God... made us alive together with Christ.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are not used as moral models; rather, the preacher uses contemporary stories to illustrate how grace (God's act) is mediated.",
+      "bijbelse_figuren_als_model": [
+        "None"
+      ],
+      "alternatieve_lezing": "The Prodigal Son is mentioned not as a model for the son, but to highlight the Father's welcome."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and gratitude; shift from 'sweating self' to 'saved by grace'.",
+      "theologische_implicatie": "Monergistic salvation; God acts, man receives."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'Fundamental Program' (Salvation) to the 'Secondary Program' (Ethics) is clearly marked as a response to grace.",
+      "spanning_punten": [
+        "The call to 'stand our ground' could be heard as a new 'devoir' (duty), but it is framed as 'holding the space of grace'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "There but for the grace of God goes John Bradford... saving us in spite of ourselves.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit calls the church into being to 'enact' grace."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total; humans are 'dead' and 'children of wrath' by nature."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in theocentric narrative. God is the Subject, the world is the Receiver, and Sin/Death is a Heavy Opponent.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for a sermon on Ephesians 2.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Already very intense (child murder, cosmic decay).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "High stakes justify the 'unconditional' nature of the grace offered."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "N/A"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon avoids the trap of 'exemplarism' by making even the human stories (Elaine, the airport) illustrations of *mediated grace* rather than *human effort*."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the shock value of the opening anecdotes, Greimasian analysis shows these anecdotes serve to establish the 'Heavy Opponent' necessary for a high-stakes Soteriological Program.",
+    "verschil_met_exegese": "Exegesis would focus on the Greek of Ephesians; this analysis reveals that the preacher's 'engine' matches Paul's 'engine' (God as the active Subject).",
+    "unieke_inzichten_greimas": "Reveals that the 'commandos' metaphor for the church does not turn the sermon moralistic because the 'Subject' of the victory remains the 'victorious grace of God' which the church merely 'enacts'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (made alive)",
+      "God (loved)",
+      "God (saved)",
+      "The world (is not a good place)",
+      "We (were dead)",
+      "The Church (stands ground)"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "Life",
+      "The defenseless children",
+      "The territory of humanity"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "8",
+        "primair_subject": "God"
+      },
+      "love": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "die/dead": {
+        "count": "6",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The preacher (Fleming Rutledge) explicitly follows the 'God as Subject' rule, making this a quintessential grace-oriented sermon."
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "titel_preek": "Wide Visions From A Narrow Window",
+    "bijbeltekst": "Job 19:25–27",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement of the suffering soul from the 'narrow window' of affliction and divine opposition to the 'wide vision' of eschatological vindication through a living Redeemer.",
+      "subject": {
+        "identificatie": "The Suffering Human (Job/The Preacher/The Hearer)",
+        "tekstueel_bewijs": [
+          "How will Job answer?",
+          "How do you answer when the tide goes against you?",
+          "This man takes the pus-filled sores... gets up to look out."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Vindication and the Vision of God (Redemption)",
+        "tekstueel_bewijs": [
+          "yet in my flesh shall I see God",
+          "I know that my redeemer liveth"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Eternal God (as the source of both the 'solemn appointments' of suffering and the promise of the 'shall')",
+        "tekstueel_bewijs": [
+          "the solemn appointments of God",
+          "the great 'shall' and 'will be' of God"
+        ],
+        "rol_interpretatie": "JUDGE/SOVEREIGN"
+      },
+      "ontvanger": {
+        "identificatie": "The Suffering Believer / The 'Young men who preach'",
+        "tekstueel_bewijs": [
+          "These words have lighted the darkness for twenty-five centuries",
+          "unto him shall the gathering of the people be"
+        ],
+        "positie_hoorder": "The hearer identifies with the Subject (Job) in the struggle to 'answer' correctly."
+      },
+      "helper": {
+        "identificatie": "The Redeemer (Go'el) and the 'Eschatological Hope'",
+        "tekstueel_bewijs": [
+          "I know that my redeemer liveth",
+          "the morning is sure to come"
+        ],
+        "rol_van_god": "God is both the Opponent (in the experience of suffering) and the Helper (as Redeemer).",
+        "rol_van_geest": "Absent as a named actant; help is external/historical-future."
+      },
+      "tegenstander": {
+        "identificatie": "Suffering, False Friends, and the 'Apparent' Enmity of God",
+        "tekstueel_bewijs": [
+          "God seems to be his enemy",
+          "They have driven cold steel into his already bleeding spirit"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad luck, but the perceived wrath and abandonment of God Himself."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Preacher's acquisition of homiletical power through suffering.",
+      "subject": "The Preacher",
+      "object": "Power to move heartstrings",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The preacher's suffering is a prerequisite (competence) to mediate the primary narrative to the congregation."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Vindication → The Suffering Church",
+      "helper_subject_tegenstander": "The Redeemer → Job/Hearer ← Divine Silence/Affliction",
+      "subject_naar_object": "The Sufferer → The Vision of God"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "22",
+      "mens_als_subject_count": "45",
+      "ratio": "0.48",
+      "voorbeelden_god_subject": [
+        "God hath stripped me",
+        "God hath kindled his wrath",
+        "The glory of the Lord shall be revealed"
+      ],
+      "voorbeelden_mens_subject": [
+        "I want to try to deal tonight",
+        "How do you answer?",
+        "This man takes the pus-filled sores"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "How will Job answer?",
+          "we must conclude that there is, indeed, a God somewhere"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "you say that you want great power"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "I know that my redeemer liveth",
+          "Do your research"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "somebody who is able to open the seals",
+          "you will never preach to their hearts until..."
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Knowing' (Faith as certainty) that enables the 'Doing' (Answering/Enduring)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Vision (Eschatological Sight)",
+      "s2": "Darkness (The Narrow Window)",
+      "niet_s1": "Blindness/Despair",
+      "niet_s2": "Secular Optimism (Past-oriented)"
+    },
+    "beweging_in_preek": "S2 (Affliction) → ~S2 (Refusal of secular despair) → S1 (The 'I Know' of the Redeemer).",
+    "theologische_resolutie": "The tension is resolved by the 'Redeemer' who stands on the earth at the 'latter day'.",
+    "ernst_van_s2": "Extremely high; S2 is described as God-inflicted."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While theologically theocentric in its eschatology, the narrative engine is anthropocentric: it focuses on the human 'answer' and the human 'knowing' as the pivot of the story.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Subject-Switch to Human Response",
+        "tekstueel_bewijs": "How will Job answer? That is the pivotal question of life.",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Instrumentalization of Suffering",
+        "tekstueel_bewijs": "You cannot have [power] without great sorrow.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christus Victor / Worthy Lamb",
+        "tekstueel_bewijs": "Thou art worthy for thou wast slain.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Unconditional Future Promise",
+        "tekstueel_bewijs": "the morning is sure to come.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Job, Spurgeon, and Robertson are used as models of how the 'Subject' must endure and 'know' to achieve power.",
+      "bijbelse_figuren_als_model": [
+        "Job",
+        "The Lamb (as model for authority through suffering)"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who answers for Job when Job cannot answer."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to 'answer' correctly in the midst of pain.",
+      "theologische_implicatie": "Faith is framed as a human performance of 'knowing' and 'looking out'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "Strong thematic coherence, but a tension exists between God as the one who 'overthrows' and God as the 'Redeemer'.",
+      "spanning_punten": [
+        "God as Opponent vs. God as Helper."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "The blood marks in the hand are the seal of authority.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon implies competence comes through the experience of suffering rather than a gift of the Spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Moderate; the focus is more on 'calamity' than 'sin'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a powerful narrative of endurance where the human Subject is called to a 'Wide Vision'. However, the 'Redeemer' often functions as an Object of human knowledge rather than the active Subject of the rescue.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The 'pivotal question' is the human answer.",
+      "voorgestelde_herpositionering": "Make the Redeemer's standing on the earth the 'pivotal action'.",
+      "voorbeeld_revisie": "Instead of 'How will you answer?', use 'How has the Redeemer already answered for you?'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero of their own suffering.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize Job's helplessness and God's unmerited intervention."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Savoir (Knowing) and Devoir (Having to answer).",
+      "voorgestelde_balans": "Pouvoir (The Spirit's power given to the weak).",
+      "concrete_suggestie": "Focus on the 'Redeemer' as the one who gives the power to see."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "High",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon already treats the 'Opponent' (suffering/God's silence) with great seriousness."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The Secondary Program (Preacher's power) almost overshadows the Primary Program (God's salvation).",
+      "voorgestelde_structuur": "Ensure the 'Redeemer's' action is the ground for the preacher's authority, not the preacher's own tears."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A rhetorically magnificent sermon that captures the 'pathos' of the human condition, but requires a slight actantial shift to ensure the 'Redeemer' is the primary actor rather than the object of Job's confident knowledge."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of 'Black Homiletic' pathos; semiotically, it reveals a heavy burden on the human subject to 'answer' correctly.",
+    "verschil_met_exegese": "Exegesis might focus on the Hebrew 'Go'el'; Greimas shows how the 'Go'el' functions as a Helper to the human Subject.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'I know' (Savoir) is the modal engine here, making faith a form of cognitive competence."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "I want to try",
+      "words have lighted",
+      "Job confronts",
+      "God has overthrown",
+      "Redeemer liveth"
+    ],
+    "volledige_object_lijst": [
+      "wide vision",
+      "darkness",
+      "pus-filled sores",
+      "God",
+      "the morning"
+    ],
+    "werkwoord_frequentie": {
+      "know": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "answer": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "shall": {
+        "count": "15",
+        "primair_subject": "God"
+      }
+    },
+    "notnotes": "The sermon transitions from a moralistic 'answer' in the first half to a grace-oriented 'eschatological shall' in the second half."
+  }
+}

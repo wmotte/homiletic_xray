@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "titel_preek": "The Strange Ways Of God",
+    "bijbeltekst": "Luke 3:1-2",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "2100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher parallels the historical context of John the Baptist with the 1960s American civil rights movement, specifically the life and martyrdom of Martin Luther King Jr. It focuses on God's 'strange' choice of messengers from the margins.",
+      "exegetische_kwaliteit": "Strong typological exegesis. The preacher uses the Lucan list of rulers to establish a 'theology of the margin' where the Word of God bypasses centers of power.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is ASSERTING (historical/theological description) and EXPRESSING (pathos and memory). There is a secondary force of COMMANDING (moral urgency).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "God comes at us in strange ways.",
+        "The Word of God came to Martin King in the wilderness of America.",
+        "This was the word he spoke."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To evoke a sense of solemnity, historical continuity, and moral conviction in the hearers.",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is seen as the 'purpose marching through history,' but not explicitly invoked as the agent of the sermon's current reception.",
+      "perlocutionaire_werkwoorden": [
+        "remember",
+        "behold",
+        "mourn",
+        "recognize",
+        "hope"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "How strange it is that a shiver would pass through the land.",
+        "He did not fit the bill of somebody as a deliverer.",
+        "Martin King saw it with a startling clarity."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "came",
+        "saw",
+        "spoke"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Let me cite another example.",
+        "We can make straight in the desert a highway.",
+        "Don't you rest until you find it."
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "make",
+        "renounce",
+        "give up"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "How strange!",
+        "What an awesome experience!",
+        "There was an unspeakable pathos."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "wonder",
+        "stand"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "We shall get to the Promised Land.",
+        "There's a great camp meeting in the Promised Land."
+      ],
+      "dominante_werkwoorden": [
+        "shall",
+        "will"
+      ],
+      "kwaliteit": "The promises are largely quoted from King or spirituals rather than being directly uttered by the preacher to the congregation in the present tense."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "Glory, hallelujah!"
+      ],
+      "dominante_werkwoorden": [
+        "praise"
+      ],
+      "autoriteit": "Low. The preacher acts as a witness/narrator rather than a sacramental agent of change."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Heavy use of 3rd person past tense ('He spoke', 'He saw').",
+        "Extensive historical scene-setting.",
+        "The sermon describes a past event (King's life) rather than enacting a present encounter."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of history rather than a participant in a divine event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise to the 'you' in the pews",
+        "Present-tense divine address"
+      ],
+      "effect_op_hoorder": "Inspiration without immediate sacramental transformation."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Indirect. The promises are historical quotes.",
+      "voorbeelden": [
+        "We shall get to the Promised Land."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "22",
+        "gebruik": "Preacher as witness ('I heard him', 'I stood there')."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Mostly in quotes from spirituals or hypothetical address to the nation."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant. Talking about King, John, Tiberius, and 'the nation'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "70%",
+        "gebruik": "Narrating the lives of John the Baptist and MLK."
+      },
+      "tijdloos_present": {
+        "frequentie": "20%",
+        "gebruik": "General theological truths about God's ways."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'shiver' passing through the land tonight."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon moves from Assertive (History of King) to Directive (We must make straight the highway) without a clear present-tense Declarative/Commissive link from God to the hearer.",
+      "voorbeelden": [
+        "Martin King said... We in this land... cannot save the land, but we can make straight..."
+      ],
+      "probleem": "It creates a moral burden (Directive) based on a historical example (Assertive) rather than a present gift of grace."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Weak"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We cannot bring the purposes of God to pass, but we can renounce our meanness."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a powerful eulogy and historical-theological lecture. It informs the hearer about God's past actions through King but fails to perform a new action of God in the present moment.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "Exegesis",
+        "tekstueel_bewijs": "The list of Roman rulers vs. John.",
+        "effect": "Creates a profound sense of the 'strange' logic of the Gospel."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Performative",
+        "tekstueel_bewijs": "Again and again... he said it.",
+        "probleem": "The preacher reports what King said rather than saying it himself with delegated authority.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is an 'event' in terms of rhetorical power and emotional resonance, but not in the SAT sense of a sacramental 'happening' between God and the hearer.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The language remains descriptive (constative) of a past sacrament (King's life) rather than being a means of grace in itself."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is described as having spoken in the past.",
+      "prediker_als_mandataris": "The preacher acts more as a 'witness' or 'reporter' than a 'mandatary'.",
+      "tekstueel_bewijs": [
+        "The word of God came to Martin King."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is left to the 'shiver' of memory.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, the sermon is a tribute.",
+      "epifanisch_taalgebruik": "Yes, in the description of King's 'apocalypse'.",
+      "tekstueel_bewijs": [
+        "Martin King saw a strange apocalypse."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is drowning in 3rd person past tense verbs. It needs a 'You' and a 'Now'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Martin King spoke of such grandeur in black people.",
+          "voorgestelde_revisie": "Tonight, God declares your grandeur; He sees in you a splendor that oppression cannot touch.",
+          "verschil": "Moves from reporting a past opinion to a present divine declaration."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is a quote from a dead man.",
+      "suggestie": "The preacher must take the promise on his own lips as God's representative.",
+      "voorbeeldzinnen": [
+        "I promise you, in the name of the God of history, that your labor is not in vain."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'nation' is addressed more than the 'congregation'.",
+      "suggestie": "Use 'You' to involve the immediate hearers in the 'wilderness'.",
+      "voorbeeldzinnen": [
+        "The Word of God comes to YOU tonight in this wilderness."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'we can' (Directive) is not preceded by 'God has' (Declarative).",
+      "suggestie": "Base the call to action on the present gift of the Spirit."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A rhetorically magnificent tribute that risks remaining a 'monument' rather than a 'movement' of the Word."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of his grief; SAT reveals the lack of a 'Declarative' act that changes the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, this is a 10/10. In SAT terms, it is a 4/10 because it describes power rather than exercising it.",
+    "unieke_inzichten_SAT": "SAT exposes that 'talking about' a prophet is not the same as 'prophesying'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "came",
+        "saw",
+        "spoke",
+        "heard",
+        "loomed",
+        "affected",
+        "said"
+      ],
+      "directief": [
+        "let",
+        "make",
+        "renounce",
+        "give up",
+        "arise",
+        "shine"
+      ],
+      "expressief": [
+        "wonder",
+        "shiver",
+        "feel",
+        "stand"
+      ],
+      "commissief": [
+        "shall",
+        "will"
+      ],
+      "declaratief": [
+        "hallelujah"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The Word of God came to Martin King.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Reporting a past event.",
+        "effectiviteit": "Informative but distant."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'aura' of MLK to provide the performative force, rather than the language of the preacher himself."
+  }
+}

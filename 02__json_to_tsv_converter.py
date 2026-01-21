@@ -4,8 +4,10 @@ Convert homiletic feedback JSON files to a single TSV file for analysis in R.
 
 This script reads all JSON analysis files from the docs directory,
 groups them by sermon (theologian + sermon_id), and creates one row per sermon
-with all information from the 6 analysis domains (aristoteles, dekker, kolb,
-schulz_von_thun, esthetiek, transactional).
+with all information from the 9 analysis domains (aristoteles, dekker, kolb,
+schulz_von_thun, esthetiek, transactional, metaphor, speech_act, narrative).
+
+Note: Sölle B files (second run on same sermons) are excluded from the analysis.
 
 W.M. Otte (w.m.otte@umcutrecht.nl)
 
@@ -28,7 +30,7 @@ DOCS_DIR = Path("docs")
 OUTPUT_FILE = Path("data/homiletic_feedback_data.tsv")
 
 # Known analysis types
-ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek', 'transactional']
+ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek', 'transactional', 'metaphor', 'speech_act', 'narrative']
 
 
 def parse_filename(filename: str) -> tuple[str, str, str] | None:
@@ -39,9 +41,13 @@ def parse_filename(filename: str) -> tuple[str, str, str] | None:
     if not filename.endswith('.json'):
         return None
 
-    # Skip special files
+    # Skip special files and Sölle B (second run) files
     skip_patterns = ['statistics', 'violin_data', 'file_index', '.raw']
     if any(pattern in filename for pattern in skip_patterns):
+        return None
+
+    # Skip Sölle B files (second run on same sermons)
+    if '_B_' in filename:
         return None
 
     base = filename.replace('.json', '')
@@ -177,18 +183,30 @@ def extract_analysis_data(data: dict, analysis_type: str) -> dict:
     elif analysis_type == 'dekker':
         # Analysis per criterion
         criteria = data.get('analysis_per_criterion', {})
+        criterion_scores = []
         for criterion_key, criterion_data in criteria.items():
             if isinstance(criterion_data, dict):
                 # Normalize criterion name
                 normalized_key = criterion_key.replace('criterion_', '').replace('concrete_concrete', 'concrete')
-                result[f'dekker.{normalized_key}.score'] = criterion_data.get('score_1_to_10', '')
+                score = criterion_data.get('score_1_to_10', '')
+                result[f'dekker.{normalized_key}.score'] = score
                 result[f'dekker.{normalized_key}.findings'] = serialize_value(criterion_data.get('findings', ''))
                 result[f'dekker.{normalized_key}.quotes'] = serialize_value(criterion_data.get('quotes', []))
                 result[f'dekker.{normalized_key}.improvement_point'] = serialize_value(criterion_data.get('improvement_point', ''))
+                # Collect scores for average calculation
+                if score != '' and score is not None:
+                    try:
+                        criterion_scores.append(float(score))
+                    except (ValueError, TypeError):
+                        pass
 
         # Overall dekker analysis
         overall = data.get('overall_dekker_analysis', {})
-        result['dekker.overall.average_score'] = overall.get('average_score', '')
+        # Compute average from sub-scores if not provided in JSON
+        avg_score = overall.get('average_score', '')
+        if (avg_score == '' or avg_score is None) and criterion_scores:
+            avg_score = sum(criterion_scores) / len(criterion_scores)
+        result['dekker.overall.average_score'] = avg_score
         result['dekker.overall.strengths'] = serialize_value(overall.get('strengths', []))
         result['dekker.overall.weaknesses'] = serialize_value(overall.get('weaknesses', []))
         result['dekker.overall.general_recommendation'] = serialize_value(overall.get('general_recommendation', ''))
@@ -369,6 +387,262 @@ def extract_analysis_data(data: dict, analysis_type: str) -> dict:
         result['transactional.overall.strengths_top_3'] = serialize_value(conclusion.get('strengths_top_3', []))
         result['transactional.overall.improvement_points_top_3'] = serialize_value(conclusion.get('improvement_points_top_3', []))
 
+    elif analysis_type == 'metaphor':
+        # Primary analysis - dominant domains
+        primaire = data.get('primaire_analyse', {})
+        result['metaphor.dominante_domeinen'] = serialize_value(primaire.get('dominante_domeinen', []))
+        result['metaphor.metafoor_inventaris'] = serialize_value(primaire.get('metafoor_inventaris', []))
+
+        # Diagnostic evaluation
+        diag = data.get('diagnostische_evaluatie', {})
+        coherentie = diag.get('coherentie_analyse', {})
+        result['metaphor.coherentie.overall'] = serialize_value(coherentie.get('overall_coherentie', ''))
+        # Convert categorical coherence to numeric score
+        coherentie_mapping = {
+            'HIGHLY_COHERENT': 10,
+            'MOSTLY_COHERENT': 7,
+            'MIXED': 4,
+            'INCOHERENT': 1
+        }
+        overall_coherentie = coherentie.get('overall_coherentie', '')
+        result['metaphor.coherentie.score'] = coherentie_mapping.get(overall_coherentie, '')
+        result['metaphor.coherentie.verklaring'] = serialize_value(coherentie.get('coherentie_verklaring', ''))
+        result['metaphor.coherentie.incoherentie_punten'] = serialize_value(coherentie.get('incoherentie_punten', []))
+        result['metaphor.coherentie.succesvolle_blending'] = serialize_value(coherentie.get('succesvolle_blending', []))
+        result['metaphor.sterktes'] = serialize_value(diag.get('sterktes', []))
+        result['metaphor.risicos'] = serialize_value(diag.get('risicos', []))
+
+        # Text world analysis
+        text_world = diag.get('text_world_analyse', {})
+        result['metaphor.text_world.primaire_wereld'] = serialize_value(text_world.get('primaire_wereld', ''))
+        result['metaphor.text_world.sub_worlds'] = serialize_value(text_world.get('sub_worlds', []))
+        result['metaphor.text_world.effectiviteit'] = serialize_value(text_world.get('world_building_effectiviteit', ''))
+        result['metaphor.text_world.deictic_shifts'] = serialize_value(text_world.get('deictic_shifts', []))
+
+        # Schema analysis
+        schema = diag.get('schema_analyse', {})
+        result['metaphor.schema.versterkte_schemas'] = serialize_value(schema.get('versterkte_schemas', []))
+        result['metaphor.schema.verstoorde_schemas'] = serialize_value(schema.get('verstoorde_schemas', []))
+        result['metaphor.schema.liturgische_aansluiting'] = serialize_value(schema.get('liturgische_schema_aansluiting', ''))
+
+        # Recommendations
+        aanbev = data.get('aanbevelingen', {})
+        result['metaphor.audit_samenvatting'] = serialize_value(aanbev.get('metafoor_audit_samenvatting', ''))
+        result['metaphor.revitalisatie_suggesties'] = serialize_value(aanbev.get('revitalisatie_suggesties', []))
+        result['metaphor.coherentie_verbeteringen'] = serialize_value(aanbev.get('coherentie_verbeteringen', []))
+        result['metaphor.entailment_checks'] = serialize_value(aanbev.get('entailment_checks', []))
+        result['metaphor.alternatieve_domeinen'] = serialize_value(aanbev.get('alternatieve_domeinen', []))
+        result['metaphor.overall.beoordeling'] = serialize_value(aanbev.get('overall_beoordeling', ''))
+        result['metaphor.overall.slotopmerking'] = serialize_value(aanbev.get('slotopmerking', ''))
+
+        # Comparative analysis
+        comp = data.get('comparatieve_analyse', {})
+        result['metaphor.vergelijk.esthetiek'] = serialize_value(comp.get('verschil_met_esthetiek', ''))
+        result['metaphor.vergelijk.kolb'] = serialize_value(comp.get('verschil_met_kolb', ''))
+        result['metaphor.vergelijk.unieke_inzichten'] = serialize_value(comp.get('unieke_inzichten_CMT', ''))
+
+        # Appendices
+        appendices = data.get('appendices', {})
+        result['metaphor.volledige_metafoor_lijst'] = serialize_value(appendices.get('volledige_metafoor_lijst', []))
+        result['metaphor.woord_frequentie'] = serialize_value(appendices.get('woord_frequentie_analyse', {}))
+        result['metaphor.notities'] = serialize_value(appendices.get('notities', ''))
+
+    elif analysis_type == 'speech_act':
+        # Threefold structure analysis
+        drievoudig = data.get('drievoudige_structuur_analyse', {})
+        locutie = drievoudig.get('locutie', {})
+        result['speech_act.locutie.beschrijving'] = serialize_value(locutie.get('beschrijving', ''))
+        result['speech_act.locutie.exegetische_kwaliteit'] = serialize_value(locutie.get('exegetische_kwaliteit', ''))
+        result['speech_act.locutie.omvang_procent'] = locutie.get('omvang_procent', '')
+
+        illocutie = drievoudig.get('illocutie', {})
+        result['speech_act.illocutie.beschrijving'] = serialize_value(illocutie.get('beschrijving', ''))
+        result['speech_act.illocutie.primaire_kracht'] = serialize_value(illocutie.get('primaire_kracht', ''))
+        result['speech_act.illocutie.helderheid_score'] = illocutie.get('helderheid_score', '')
+        result['speech_act.illocutie.voorbeelden'] = serialize_value(illocutie.get('voorbeelden', []))
+
+        perlocutie = drievoudig.get('perlocutie', {})
+        result['speech_act.perlocutie.beoogd_effect'] = serialize_value(perlocutie.get('beoogd_effect', ''))
+        result['speech_act.perlocutie.pneumatologisch_bewustzijn'] = serialize_value(perlocutie.get('pneumatologisch_bewustzijn', ''))
+        result['speech_act.perlocutie.werkwoorden'] = serialize_value(perlocutie.get('perlocutionaire_werkwoorden', []))
+
+        # Verb analysis
+        werkwoord = data.get('werkwoord_analyse', {})
+        for category in ['assertieven', 'directieven', 'expressieven', 'commissieven', 'declaratieven']:
+            cat_data = werkwoord.get(category, {})
+            result[f'speech_act.werkwoord.{category}.frequentie'] = cat_data.get('frequentie', '')
+            result[f'speech_act.werkwoord.{category}.procent'] = cat_data.get('procent', '')
+            result[f'speech_act.werkwoord.{category}.voorbeelden'] = serialize_value(cat_data.get('voorbeelden', []))
+            result[f'speech_act.werkwoord.{category}.dominante_werkwoorden'] = serialize_value(cat_data.get('dominante_werkwoorden', []))
+
+        # Constative/Performative diagnosis
+        const_perf = data.get('constatief_performatief_diagnose', {})
+        result['speech_act.const_perf.classificatie'] = serialize_value(const_perf.get('primaire_classificatie', ''))
+        result['speech_act.const_perf.constatief_percentage'] = const_perf.get('constatief_percentage', '')
+        result['speech_act.const_perf.performatief_percentage'] = const_perf.get('performatief_percentage', '')
+
+        surplus = const_perf.get('constatief_surplus_analyse', {})
+        result['speech_act.const_perf.surplus_aanwezig'] = serialize_value(surplus.get('aanwezig', ''))
+        result['speech_act.const_perf.surplus_ernst'] = serialize_value(surplus.get('ernst', ''))
+
+        deficit = const_perf.get('performatief_deficit_analyse', {})
+        result['speech_act.const_perf.deficit_aanwezig'] = serialize_value(deficit.get('aanwezig', ''))
+        result['speech_act.const_perf.deficit_ernst'] = serialize_value(deficit.get('ernst', ''))
+
+        toezegging = const_perf.get('toezegging_check', {})
+        result['speech_act.toezegging.aanwezig'] = serialize_value(toezegging.get('toezegging_aanwezig', ''))
+        result['speech_act.toezegging.aantal'] = toezegging.get('aantal_toezeggen', '')
+        result['speech_act.toezegging.kwaliteit'] = serialize_value(toezegging.get('kwaliteit_toezeggen', ''))
+
+        # Addressing analysis
+        adres = data.get('adressering_analyse', {})
+        result['speech_act.adressering.effectiviteit'] = adres.get('adressering_effectiviteit', '')
+        persoon = adres.get('persoonsvorm_distributie', {})
+        for p in ['eerste_persoon', 'tweede_persoon', 'derde_persoon']:
+            p_data = persoon.get(p, {})
+            result[f'speech_act.adressering.{p}.frequentie'] = p_data.get('frequentie', '')
+
+        # Sacramental pattern analysis
+        sacr = data.get('sacramenteel_patroon_analyse', {})
+        result['speech_act.sacramenteel.patroon'] = serialize_value(sacr.get('patroon_identificatie', ''))
+        fout = sacr.get('foutief_patroon', {})
+        result['speech_act.sacramenteel.foutief_aanwezig'] = serialize_value(fout.get('aanwezig', ''))
+        sacr_patr = sacr.get('sacramenteel_patroon', {})
+        result['speech_act.sacramenteel.sacramenteel_aanwezig'] = serialize_value(sacr_patr.get('aanwezig', ''))
+        result['speech_act.sacramenteel.sacramenteel_kwaliteit'] = serialize_value(sacr_patr.get('kwaliteit', ''))
+
+        # Diagnostic evaluation
+        diag = data.get('diagnostische_evaluatie', {})
+        result['speech_act.diagnose.primaire'] = serialize_value(diag.get('primaire_diagnose', ''))
+        result['speech_act.diagnose.toelichting'] = serialize_value(diag.get('diagnose_toelichting', ''))
+        result['speech_act.diagnose.sterke_punten'] = serialize_value(diag.get('sterke_punten', []))
+        result['speech_act.diagnose.zwakke_punten'] = serialize_value(diag.get('zwakke_punten', []))
+        result['speech_act.diagnose.gebeuren_score'] = diag.get('gebeuren_score', '')
+        result['speech_act.diagnose.sacramentele_kracht'] = diag.get('sacramentele_kracht', '')
+
+        # Theological depth analysis
+        theol = data.get('theologische_diepte_analyse', {})
+        openb = theol.get('openbaringsleer', {})
+        result['speech_act.theologie.god_als_spreker'] = serialize_value(openb.get('god_als_spreker', ''))
+        result['speech_act.theologie.prediker_mandataris'] = serialize_value(openb.get('prediker_als_mandataris', ''))
+        pneum = theol.get('pneumatologie', {})
+        result['speech_act.theologie.geest_rol'] = serialize_value(pneum.get('geest_rol_erkend', ''))
+        sacr_theol = theol.get('sacramentstheologie', {})
+        result['speech_act.theologie.preek_als_genademiddel'] = serialize_value(sacr_theol.get('preek_als_genademiddel', ''))
+
+        # Recommendations
+        aanbev = data.get('aanbevelingen', {})
+        result['speech_act.aanbeveling.audit_samenvatting'] = serialize_value(aanbev.get('werkwoord_audit_samenvatting', ''))
+        perf_int = aanbev.get('performatieve_intensivering', {})
+        result['speech_act.aanbeveling.perf_intensivering_nodig'] = serialize_value(perf_int.get('nodig', ''))
+        result['speech_act.aanbeveling.overall_beoordeling'] = serialize_value(aanbev.get('overall_beoordeling', ''))
+        result['speech_act.aanbeveling.slotopmerking'] = serialize_value(aanbev.get('slotopmerking', ''))
+
+    elif analysis_type == 'narrative':
+        # Actantial analysis
+        actant = data.get('actantiele_analyse', {})
+        primair = actant.get('primair_narratief_programma', {})
+        result['narrative.primair.beschrijving'] = serialize_value(primair.get('beschrijving', ''))
+
+        # Subject
+        subject = primair.get('subject', {})
+        result['narrative.subject.identificatie'] = serialize_value(subject.get('identificatie', ''))
+        result['narrative.subject.frequentie_score'] = subject.get('frequentie_score', '')
+
+        # Object
+        obj = primair.get('object', {})
+        result['narrative.object.identificatie'] = serialize_value(obj.get('identificatie', ''))
+        result['narrative.object.aard'] = serialize_value(obj.get('aard_van_object', ''))
+
+        # Sender
+        zender = primair.get('zender', {})
+        result['narrative.zender.identificatie'] = serialize_value(zender.get('identificatie', ''))
+        result['narrative.zender.rol'] = serialize_value(zender.get('rol_interpretatie', ''))
+
+        # Receiver
+        ontvanger = primair.get('ontvanger', {})
+        result['narrative.ontvanger.identificatie'] = serialize_value(ontvanger.get('identificatie', ''))
+        result['narrative.ontvanger.positie_hoorder'] = serialize_value(ontvanger.get('positie_hoorder', ''))
+
+        # Helper
+        helper = primair.get('helper', {})
+        result['narrative.helper.identificatie'] = serialize_value(helper.get('identificatie', ''))
+        result['narrative.helper.rol_god'] = serialize_value(helper.get('rol_van_god', ''))
+        result['narrative.helper.rol_geest'] = serialize_value(helper.get('rol_van_geest', ''))
+
+        # Opponent
+        tegenst = primair.get('tegenstander', {})
+        result['narrative.tegenstander.identificatie'] = serialize_value(tegenst.get('identificatie', ''))
+        result['narrative.tegenstander.ernst'] = serialize_value(tegenst.get('ernst_tegenstander', ''))
+
+        # Secondary narrative program
+        secundair = actant.get('secundair_narratief_programma', {})
+        result['narrative.secundair.aanwezig'] = serialize_value(secundair.get('aanwezig', ''))
+        result['narrative.secundair.beschrijving'] = serialize_value(secundair.get('beschrijving', ''))
+        result['narrative.secundair.verhouding'] = serialize_value(secundair.get('verhouding_tot_primair', ''))
+
+        # Grammatical analysis
+        gram = data.get('grammaticale_analyse', {})
+        subject_check = gram.get('subject_check', {})
+        result['narrative.grammaticaal.god_subject_count'] = subject_check.get('god_als_subject_count', '')
+        result['narrative.grammaticaal.mens_subject_count'] = subject_check.get('mens_als_subject_count', '')
+        result['narrative.grammaticaal.ratio'] = serialize_value(subject_check.get('ratio', ''))
+        result['narrative.grammaticaal.rutledge_score'] = subject_check.get('rutledge_score', '')
+
+        # Modal analysis
+        modal = gram.get('modale_analyse', {})
+        result['narrative.modal.dominante_modaliteit'] = serialize_value(modal.get('dominante_modaliteit', ''))
+        result['narrative.modal.interpretatie'] = serialize_value(modal.get('modale_interpretatie', ''))
+
+        # Semiotic square
+        semiot = data.get('semiotisch_vierkant_analyse', {})
+        prim_teg = semiot.get('primaire_tegenstelling', {})
+        result['narrative.semiotisch.s1'] = serialize_value(prim_teg.get('s1', ''))
+        result['narrative.semiotisch.s2'] = serialize_value(prim_teg.get('s2', ''))
+        result['narrative.semiotisch.beweging'] = serialize_value(semiot.get('beweging_in_preek', ''))
+        result['narrative.semiotisch.resolutie'] = serialize_value(semiot.get('theologische_resolutie', ''))
+
+        # Diagnostic evaluation
+        diag = data.get('diagnostische_evaluatie', {})
+        result['narrative.diagnose.classificatie'] = serialize_value(diag.get('primaire_classificatie', ''))
+        result['narrative.diagnose.toelichting'] = serialize_value(diag.get('classificatie_toelichting', ''))
+        result['narrative.diagnose.indicatoren_moralisme'] = serialize_value(diag.get('indicatoren_moralisme', []))
+        result['narrative.diagnose.indicatoren_genade'] = serialize_value(diag.get('indicatoren_genade', []))
+
+        exemplarisme = diag.get('exemplarisme_check', {})
+        result['narrative.exemplarisme.aanwezig'] = serialize_value(exemplarisme.get('aanwezig', ''))
+        result['narrative.exemplarisme.figuren'] = serialize_value(exemplarisme.get('bijbelse_figuren_als_model', []))
+
+        identificatie = diag.get('identificatie_patroon', {})
+        result['narrative.identificatie.met'] = serialize_value(identificatie.get('hoorder_identificeert_met', ''))
+        result['narrative.identificatie.effect'] = serialize_value(identificatie.get('effect_op_hoorder', ''))
+
+        coherentie = diag.get('narratieve_coherentie', {})
+        result['narrative.coherentie.score'] = coherentie.get('coherentie_score', '')
+
+        # Theological depth
+        theol = data.get('theologische_diepte_analyse', {})
+        soter = theol.get('soteriologie', {})
+        result['narrative.theologie.soteriologie_model'] = serialize_value(soter.get('primaire_model', ''))
+        result['narrative.theologie.menselijke_rol'] = serialize_value(soter.get('menselijke_rol_in_redding', ''))
+
+        pneum = theol.get('pneumatologie', {})
+        result['narrative.theologie.geest_rol'] = serialize_value(pneum.get('rol_heilige_geest', ''))
+
+        hamart = theol.get('hamartologie', {})
+        result['narrative.theologie.zonde_aard'] = serialize_value(hamart.get('aard_van_zonde', ''))
+
+        eschat = theol.get('eschatologie', {})
+        result['narrative.theologie.hoop_structuur'] = serialize_value(eschat.get('hoop_structuur', ''))
+
+        # Recommendations
+        aanbev = data.get('aanbevelingen', {})
+        result['narrative.aanbeveling.audit_samenvatting'] = serialize_value(aanbev.get('actantiele_audit_samenvatting', ''))
+        subj_herp = aanbev.get('subject_herpositionering', {})
+        result['narrative.aanbeveling.herpositionering_nodig'] = serialize_value(subj_herp.get('nodig', ''))
+        result['narrative.aanbeveling.overall_beoordeling'] = serialize_value(aanbev.get('overall_beoordeling', ''))
+        result['narrative.aanbeveling.slotopmerking'] = serialize_value(aanbev.get('slotopmerking', ''))
+
     return result
 
 
@@ -514,13 +788,13 @@ def print_summary(sermons: dict):
     complete = 0
     incomplete = []
     for sermon_key, analyses in sermons.items():
-        if len(analyses) == 6:
+        if len(analyses) == 9:
             complete += 1
         else:
             missing = set(ANALYSIS_TYPES) - set(analyses.keys())
             incomplete.append((sermon_key, missing))
 
-    print(f"  - Complete sermons (all 6 analyses): {complete}")
+    print(f"  - Complete sermons (all 9 analyses): {complete}")
     print(f"  - Incomplete sermons: {len(incomplete)}")
 
     if incomplete and len(incomplete) <= 10:

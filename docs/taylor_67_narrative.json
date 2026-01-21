@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Bright Songs In Dark Nights",
+    "bijbeltekst": "Job 35:10",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God provides spiritual strength and 'songs' to believers enduring the inevitable 'night' of human suffering and testing.",
+      "subject": {
+        "identificatie": "God (The Maker)",
+        "tekstueel_bewijs": [
+          "God my maker, who giveth songs in the night",
+          "He makes the wounds, and he maketh whole",
+          "God can give you bright songs"
+        ],
+        "frequentie_score": "7"
+      },
+      "object": {
+        "identificatie": "Spiritual resilience/Songs in the night",
+        "tekstueel_bewijs": [
+          "bright songs in dark nights",
+          "strength that is in it",
+          "new light came in his eyes"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God / The Bible",
+        "tekstueel_bewijs": [
+          "the Author, whose messenger you merely are",
+          "the source from which good gifts come"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Sufferer / The Hearer",
+        "tekstueel_bewijs": [
+          "we learn fellow feeling",
+          "you and I need that"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Scripture / Examples of Faith (Job, Paul, Silas)",
+        "tekstueel_bewijs": [
+          "As long as you come at them out of Scripture",
+          "Paul and Silas prayed... and then sang"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "UNCLEAR"
+      },
+      "tegenstander": {
+        "identificatie": "Suffering, Night, False Comforters",
+        "tekstueel_bewijs": [
+          "festering sores",
+          "three friends like that, you would hardly need any enemies",
+          "night is looked upon as a time of terror"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Suffering is presented as an inescapable rhythm of the human condition that requires divine intervention to transcend."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer must endure and pray through the night to reach spiritual maturity.",
+      "subject": "The Believer",
+      "object": "Spiritual Maturity / Obedience",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The believer's endurance (Secondary) is the context in which God gives the song (Primary)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Grace/Songs → The Sufferer",
+      "helper_subject_tegenstander": "Scripture → God ← Suffering/Sin",
+      "subject_naar_object": "God → Spiritual Strength"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "58",
+      "ratio": "0.72",
+      "voorbeelden_god_subject": [
+        "God... giveth songs in the night",
+        "He makes the wounds",
+        "the power of the Lord came down"
+      ],
+      "voorbeelden_mens_subject": [
+        "we ought really learn how to see the sick",
+        "you and I will never grow up",
+        "Paul and Silas prayed"
+      ],
+      "rutledge_score": "7"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "we ought really learn how to see the sick",
+          "these things must come"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "more of us will seek to find the strength"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "we learn how to sympathize",
+          "you'll learn then how to call his name"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "God can give you bright songs",
+          "the Lord could do if he chose what they wanted"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes God's power (Pouvoir) to transform the human condition of suffering, rather than just human obligation."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Songs",
+      "s2": "Night/Suffering",
+      "niet_s1": "Fake/Counterfeit Laughter",
+      "niet_s2": "Morning/Joy"
+    },
+    "beweging_in_preek": "Moves from S2 (Night) to ~S1 (Fake avoidance) to ~S2 (Endurance) and finally to S1 (God's gift of songs).",
+    "theologische_resolutie": "Suffering is not removed but transfigured by the divine gift of 'songs'.",
+    "ernst_van_s2": "High; suffering is described as 'festering sores' and 'racked by pain'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While there is a strong call to human endurance, the 'engine' of the sermon is God as the giver of the song. The human is the receiver of a divine endowment.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (Roosevelt/Perkins)",
+        "tekstueel_bewijs": "If you want to be real... you have to learn to accept these experiences",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject of the 'Song'",
+        "tekstueel_bewijs": "God my maker, who giveth songs in the night",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Paul and Silas are used as models of prayer/song, but the climax is the 'power of the Lord' coming down.",
+      "bijbelse_figuren_als_model": [
+        "Job",
+        "Paul",
+        "Silas"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who loosed the chains of Paul and Silas rather than their singing as the cause."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Comfort and empowerment through divine presence.",
+      "theologische_implicatie": "Sanctification is a process of divine pruning (chastening) and endowment."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from Job's suffering to the believer's night to the apostolic victory is seamless.",
+      "spanning_punten": [
+        "The tension between 'we must endure' and 'God gives' is held in a healthy paradox."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "fellow feeling with the Savior",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of 'Pouvoir' (Power) to sing in the dark."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Moderate; focus is more on the 'night' of suffering than the 'night' of guilt."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary transformative action (giving songs).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as 'Hero' of endurance.",
+      "voorgestelde_identificatie": "Hearer as 'Empty Vessel' for the song.",
+      "strategie": "Emphasize that the song is a 'gift' (donum) rather than a 'skill' (ars)."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Devoir (Must endure).",
+      "voorgestelde_balans": "Increase focus on the Spirit's work in the 'Pouvoir'.",
+      "concrete_suggestie": "Explicitly mention the Holy Spirit as the one who sings within us."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The 'night' is already sufficiently daunting."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God gives) → Ethics (We sympathize)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of theocentric preaching that uses human experience to point toward divine agency."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'night' metaphor; Greimas reveals God as the functional engine of the 'song'.",
+    "verschil_met_exegese": "Exegesis would focus on Elihu's role in Job; Greimas focuses on the actantial role of the 'Maker'.",
+    "unieke_inzichten_greimas": "Reveals that the 'song' is not a human performance but a divine object transmitted to the receiver."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (gives)",
+      "Bible (criticizes)",
+      "Job (contemplates)",
+      "Paul/Silas (sang)"
+    ],
+    "volledige_object_lijst": [
+      "Songs",
+      "Strength",
+      "Maturity",
+      "Fellow feeling"
+    ],
+    "werkwoord_frequentie": {
+      "give": {
+        "count": "8",
+        "primair_subject": "God"
+      },
+      "learn": {
+        "count": "12",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon balances the 'Devoir' of endurance with the 'Pouvoir' of grace."
+  }
+}

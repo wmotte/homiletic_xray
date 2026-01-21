@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "titel_preek": "The Bisecting Messenger",
+    "bijbeltekst": "2 Samuel 7:4, 11, 16; Luke 1:26-33",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God interrupts the 'vicious circle' of human impotence and death by taking the initiative to establish an eternal kingdom through Christ.",
+      "subject": {
+        "identificatie": "God / The Lord",
+        "tekstueel_bewijs": [
+          "God has moved.",
+          "The Lord himself will build a house for you.",
+          "God has made a decision to be merciful."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Eternal Kingdom / The 'House' / Salvation",
+        "tekstueel_bewijs": [
+          "His kingdom will have no end.",
+          "Jesus is the house."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Father)",
+        "tekstueel_bewijs": [
+          "The message was said to be, not from man, but from God."
+        ],
+        "rol_interpretatie": "SOVEREIGN_INITIATOR"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity (The ignorant, the dying, the impotent)",
+        "tekstueel_bewijs": [
+          "God has moved, not we to him in our impotence, but he to us.",
+          "Rejoice! Emmanuel shall come to thee, O Israel!"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Angel Gabriel / Jesus Christ (as the 'House')",
+        "tekstueel_bewijs": [
+          "The angel Gabriel has bisected the ghastly yellow clouds.",
+          "The promised Son of David... his arm is faithful."
+        ],
+        "rol_van_god": "God is both Subject and the source of the Helper.",
+        "rol_van_geest": "Implicit as the power of the Virgin Birth."
+      },
+      "tegenstander": {
+        "identificatie": "Death, Impotence, Sin, and the 'Vicious Circle' of History",
+        "tekstueel_bewijs": [
+          "The precariousness of being alive and human.",
+          "The arm of flesh will fail you.",
+          "The hellish underside of some other realm."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not a moral lapse but the ontological reality of death and the failure of all human systems (statecraft, family, health)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": false,
+      "beschrijving": "There is no secondary ethical program explicitly developed; the sermon remains focused on the primary soteriological event.",
+      "subject": null,
+      "object": null,
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher focuses entirely on the Annunciation as an act of God, leaving the 'response' as simply 'Rejoice'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Eternal Kingdom → The Dying/Impotent",
+      "helper_subject_tegenstander": "Gabriel/Christ → God ← Death/Human Impotence",
+      "subject_naar_object": "God → Building the House (Christ)"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "28",
+      "mens_als_subject_count": "12",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has moved.",
+        "The Lord himself will build a house for you.",
+        "God stated that he was not in the least dependent on rickety human arrangements."
+      ],
+      "voorbeelden_mens_subject": [
+        "David made plans to build a great temple.",
+        "We are invited to live with our deeper, less comfortable selves."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "We are invited to live with our deeper selves."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "The kind of humiliating decline that we all pray to escape."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "At three o’clock in the morning I know that I am ignorant."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "The arm of flesh will fail you.",
+          "By the only power in heaven and earth that is able to do such a thing."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon is a 'Pouvoir-faire' (Power) analysis. It diagnoses human 'Non-Pouvoir' (impotence) and proclaims God's 'Pouvoir' (sovereignty)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace (God's Initiative)",
+      "s2": "Death/Impotence (The Vicious Circle)",
+      "niet_s1": "Human Effort (David's Temple)",
+      "niet_s2": "Rickety Arrangements (False Security)"
+    },
+    "beweging_in_preek": "From S2 (David's death/Updike's dread) to ~S1 (David's failed plan) to S1 (The Annunciation).",
+    "theologische_resolutie": "God 'bisects' the square, moving from S1 directly into the realm of S2 to rescue the Receiver.",
+    "ernst_van_s2": "Extremely high; death and dread are described with visceral realism."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is a textbook example of theocentric preaching. It explicitly rejects human agency as the source of salvation and places God as the sole Subject of the saving action.",
+    "indicatoren_moralisme": [],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch",
+        "tekstueel_bewijs": "You aren’t going to build a house for me, I’m going to build a house for you.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "I was fifty-five, ignorant, dying, and filling this bit of Finland with the smell of my stale sweat.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "David is introduced as a hero but immediately deconstructed into a pathetic, shivering, impotent man to prove that even the 'best' human is not the Subject of the story.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sermon already provides the theocentric reading: David is the recipient of a promise he cannot fulfill."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe; the burden of 'building the house' is removed.",
+      "theologische_implicatie": "Monergistic salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The movement from David to Updike to the Hearer to Mary is perfectly integrated by the theme of 'impotence vs. divine initiative'.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "The vicious circle of our existence has been bisected by the Son of the Most High.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Spirit is the implied agent of the 'Word made flesh'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Critical; sin is seen as the 'precariousness of being human' and the 'arm of flesh' failing."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject. It uses human 'Non-Pouvoir' as the foil for God's 'Pouvoir'.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is for an Advent sermon.",
+      "concrete_suggestie": "The sermon is perfectly balanced for its purpose."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (death/impotence) is already highly intensified.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology is primary."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of Rutledge's 'Grammar of Grace'. The sermon refuses to give the hearer a 'to-do' list, offering instead a 'done' proclamation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the Updike anecdote; Greimas shows that Updike and David function as the same actant (the failing Subject).",
+    "verschil_met_exegese": "Exegesis explains Nathan's prophecy; semiotics shows how the prophecy functions to switch the Subject from David to God.",
+    "unieke_inzichten_greimas": "Reveals that the 'Virgin Birth' is not just a biological claim but a semiotic necessity to show God as the sole Actor."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God sent",
+      "The Lord declares",
+      "The Lord will build",
+      "God has moved",
+      "The Word was made flesh"
+    ],
+    "volledige_object_lijst": [
+      "A house",
+      "The throne of David",
+      "An everlasting kingdom"
+    ],
+    "werkwoord_frequentie": {
+      "build": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "move": {
+        "count": "5",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the '3:00 AM' motif to strip the hearer of all 'Pouvoir-faire', preparing them to be the 'Destinataire' (Receiver) of the 'Objet' (Grace)."
+  }
+}

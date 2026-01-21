@@ -1,0 +1,340 @@
+{
+  "metadata": {
+    "titel_preek": "Epiphany and the Baptism of the Lord",
+    "bijbeltekst": "Judges 6:1–23; Luke 5:1–11; Isaiah 42; Isaiah 53",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher provides a historical-narrative overview of Gideon's call, Peter's miraculous catch, and the Babylonian exile context of Second Isaiah. The content focuses on the 'fear of the Lord' and the 'new things' God creates.",
+      "exegetische_kwaliteit": "High. The preacher accurately identifies the equivalence of the Angel of the Lord with YHWH and the apocalyptic nature of Second Isaiah.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is explaining biblical themes (Asserting), with a significant shift toward the end of each section to address the congregation's state and God's promise (Promising/Declaring).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The fear of the Lord is the beginning of wisdom.",
+        "Jesus stoops down to us in our miserable condition.",
+        "I bring you good tidings of great joy."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from a state of self-deceit and hopelessness to a state of 'holy dread' and subsequent comfort in Christ's unmerited grace.",
+      "pneumatologisch_bewustzijn": "Moderate. Mentioned in the formal prayers, but the sermon text itself focuses more on the Christological event than the Spirit's current internal work.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "revere",
+        "receive",
+        "hope",
+        "trust"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Gideon is not in the least a mighty man of valor.",
+        "The Babylonians were a great and powerful culture.",
+        "Grace is terrifying."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "says",
+        "means",
+        "appears"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "Count yourself blessed.",
+        "Notice the most radical announcement here."
+      ],
+      "dominante_werkwoorden": [
+        "count",
+        "notice",
+        "listen"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "I think this is supposed to be funny.",
+        "We can understand and even admire the hope."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "admire",
+        "remember"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "10",
+      "procent": "6%",
+      "voorbeelden": [
+        "I will be with you.",
+        "Fear not: for, behold, I bring you good tidings.",
+        "He puts redemption into our blanket."
+      ],
+      "dominante_werkwoorden": [
+        "will be",
+        "bring",
+        "gives"
+      ],
+      "kwaliteit": "Strong but often framed as 'God does this' (3rd person) rather than 'God does this for you now' (2nd person)."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "4%",
+      "voorbeelden": [
+        "Your iniquity is pardoned.",
+        "Peace be to you."
+      ],
+      "dominante_werkwoorden": [
+        "is pardoned",
+        "be"
+      ],
+      "autoriteit": "High when quoting scripture, but the preacher rarely uses their own voice to declare absolution directly."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive retelling of the Gideon narrative.",
+        "Historical description of the Babylonian exile.",
+        "Analysis of the word 'fear' in English."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of biblical history rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Personalized commissives",
+        "Present-tense sacramental address"
+      ],
+      "effect_op_hoorder": "The hearer understands the theory of grace but may not feel the 'event' of being forgiven."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "The promises are beautiful but often mediated through the third person ('He puts redemption into our blanket').",
+      "voorbeelden": [
+        "The God who terrifies is also the one who loves us for all eternity."
+      ],
+      "moment_in_preek": "End of each section"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Used for homiletical 'we' and personal anecdotes (NY Times story)."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Direct address to the congregation regarding their sin and the 'fear not' promise.",
+        "performatieve_context": "Used effectively in the 'You and I are deep in sin' section."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominates the narrative retelling of Gideon, Peter, and Israel.",
+        "distantie_effect": "Creates a 'lecture' feel for the first 60% of each section."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical history and narrative."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological truths about God's nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the sermon event."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids pure moralism.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from Assertive (Exegesis) to Commissive (The Promise).",
+      "voorbeelden": [
+        "You and I are deep in sin... yet... there may suddenly come an irruption of grace."
+      ],
+      "kwaliteit": "The link is present but buried under significant constative weight."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "If you come to know the fear of the Lord, count yourself blessed."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is deeply rooted in the Gospel of unmerited grace, but it functions more as a 'testimony about grace' than a 'sacramental delivery of grace.'",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Depth",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The awareness of sin comes only to those who are already standing on the firm ground of their salvation.",
+        "effect": "Provides a profound intellectual foundation for the Gospel."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Narrative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The detailed retelling of Gideon's meal preparation.",
+        "probleem": "Takes up space that could be used for direct address.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It becomes an event in the final paragraphs of each section, but the long historical preambles delay the 'encounter'.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The preacher speaks *about* the sacrament of the Word rather than *performing* it with apostolic authority."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, emphasized in the Isaiah section.",
+      "prediker_als_mandataris": "Implicit, but the preacher acts more as an 'explainer' than a 'herald'.",
+      "tekstueel_bewijs": [
+        "God delivered messages to him."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Only in the liturgical prayers.",
+      "perlocutie_theologie": "The preacher trusts the 'irruption of grace' (Perlocution) but doesn't explicitly link it to the Spirit's work in the moment of hearing.",
+      "tekstueel_bewijs": [
+        "One God, now and for ever. Amen."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon describes grace as a gift put in a blanket, which is a sacramental image.",
+      "epifanisch_taalgebruik": "Strong. Uses words like 'irruption', 'fire', and 'glory'.",
+      "tekstueel_bewijs": [
+        "There may suddenly come an irruption of grace."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense descriptive verbs; needs more present-tense performative verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus stoops down to us in our miserable condition.",
+          "voorgestelde_revisie": "Right now, Jesus stoops down to you in your condition.",
+          "verschil": "Shifts from a general truth to a specific encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Promises are often general or third-person.",
+      "suggestie": "Use the 'I-Thou' relationship more boldly.",
+      "voorbeeldzinnen": [
+        "On behalf of Christ, I tell you: Fear not."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'we' is too safe.",
+      "suggestie": "Address the 'You' of the listener directly.",
+      "voorbeeldzinnen": [
+        "You are the one threshing wheat in fear; to you, God says: I am with you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually quite good.",
+      "suggestie": "Maintain the indicative priority."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is theologically rich and beautifully written. By reducing the 'talking about' (constative) and increasing the 'doing to' (performative), it will move from a lecture to a life-changing event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT identifies that the preacher isn't just sending a 'message' about grace, but that the words themselves are intended to be the 'irruption' of grace.",
+    "verschil_met_retoriek": "The focus is not on the preacher's eloquence in describing the fire, but on the illocutionary force of the 'Fear not' command.",
+    "unieke_inzichten_SAT": "SAT reveals that the 'constative surplus' in the Gideon narrative actually delays the sacramental 'event' of the sermon."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "appeared",
+        "said",
+        "recognized",
+        "waited",
+        "perceived",
+        "is",
+        "tells",
+        "is",
+        "suffered",
+        "was"
+      ],
+      "directief": [
+        "notice",
+        "listen",
+        "count",
+        "behold"
+      ],
+      "expressieven": [
+        "think",
+        "admire",
+        "remember",
+        "hope"
+      ],
+      "commissief": [
+        "will be",
+        "bring",
+        "gives",
+        "puts"
+      ],
+      "declaratief": [
+        "is pardoned",
+        "be",
+        "are no more"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Your iniquity is pardoned.",
+        "categorie": "Declarative",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Excellent, though quoted from Isaiah rather than spoken directly by the preacher."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'Epiphany' theme to create a sense of 'event', but the linguistic structure remains largely descriptive."
+  }
+}

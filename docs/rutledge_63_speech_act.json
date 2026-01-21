@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "titel_preek": "Adding Up—Psalm 130",
+    "bijbeltekst": "Psalm 130",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A theological exploration of sin as a 'primordial catastrophe' rather than a ledger of naughty/nice acts, using Psalm 130 and literary references (Albee, O'Connor, Auden).",
+      "exegetische_kwaliteit": "High. The preacher engages with Hebrew translations and the liturgical history of the Psalm, though it leans heavily on literary-cultural exegesis.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the nature of sin and the necessity of mercy, with a late shift toward promising and declaring.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I find that I spend major amounts of time going back over it.",
+        "The idea that we can add up our virtues... is decisively repudiated.",
+        "With the Lord there is mercy."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should abandon self-justification (the ledger) and find relief in the 'depths' of God's mercy.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event'.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "abandon",
+        "trust",
+        "receive",
+        "cease"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Sin is a deep interior dislocation.",
+        "This understanding of sin is almost unknown.",
+        "The Psalm begins at rock bottom."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "writes",
+        "means",
+        "notes"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "Reflect on the fact...",
+        "Notice the surprising order...",
+        "May God grant..."
+      ],
+      "dominante_werkwoorden": [
+        "reflect",
+        "notice",
+        "grant"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "I was amazed to read...",
+        "I have been struck by...",
+        "I believe that we are blessed."
+      ],
+      "dominante_werkwoorden": [
+        "amazed",
+        "struck",
+        "believe",
+        "perplexed"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "10",
+      "procent": "5%",
+      "voorbeelden": [
+        "He shall redeem Israel from all his iniquities.",
+        "With him there is plenteous redemption."
+      ],
+      "dominante_werkwoorden": [
+        "shall redeem",
+        "is (as promise)"
+      ],
+      "kwaliteit": "Strong scriptural promises, but often framed as 'The Psalm says' (Assertive) rather than 'God says to you' (Commissive)."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "This Psalm speaks tonight to you, too.",
+        "You are forgiven for sins from the beginning of time (quoted)."
+      ],
+      "dominante_werkwoorden": [
+        "speaks",
+        "forgiven"
+      ],
+      "autoriteit": "The preacher uses literary quotes to mediate authority rather than direct first-person declarative speech."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of literary quotes to describe sin.",
+        "Talking about the history of the Prayer Book.",
+        "Explaining what the Psalm 'means' rather than letting the Psalm 'do'."
+      ],
+      "effect_op_hoorder": "Intellectual agreement on the nature of sin, but potentially delayed encounter with the Savior."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the Gospel promise in the 2nd person present."
+      ],
+      "effect_op_hoorder": "The hearer remains an observer of a 'great truth' rather than a participant in a 'saving event'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "The promise is present but often mediated through the text of the Psalm or a story.",
+      "voorbeelden": [
+        "He shall redeem Israel from all his iniquities."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Preacher as teacher/observer ('I find', 'I have been struck')."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Direct address appears late, specifically targeting the 'competent' person in the pews.",
+        "performatieve_context": "Used to diagnose the hearer's condition more than to deliver the promise."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Discussing 'the Psalmist', 'the woman', 'the liturgical commission'.",
+        "distantie_effect": "Creates a lecture-like atmosphere for the first 70% of the text."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Liturgical history and literary citations."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "Definitions of sin and theological truths."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The 'now' of the congregation's life."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "It avoids moralism (Assertive -> Directive).",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from the reality of sin (Assertive) to the promise of the Psalm (Commissive).",
+      "voorbeelden": [
+        "Confession... is an entrance into a larger life."
+      ],
+      "kwaliteit": "Theologically sound but rhetorically descriptive."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Since God loved... he felt ready to enter Paradise."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a masterclass in 'talking about' the Gospel. It is deeply comforting because it deconstructs moralism, but it functions more as a lecture on grace than a sacramental distribution of it.",
+    "sterke_punten": [
+      {
+        "aspect": "Deconstruction of Moralism",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "We spend the rest of our lives uneasily trying to reassure ourselves... that we have more credits than debits.",
+        "effect": "Breaks down the hearer's false defenses."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Brendan Gill reviewed a revival... In the National Geographic, an article...",
+        "probleem": "Too much time spent on secular illustrations before the Word acts.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": "6",
+    "gebeuren_toelichting": "The 'event' happens in the final third when the preacher addresses the 'competent' person directly. Before that, it is a high-level lecture.",
+    "sacramentele_kracht": "5",
+    "sacramentele_toelichting": "The preacher describes the sacrament of the Word but rarely 'administers' it through direct declarative 'I forgive you' or 'God promises you' language."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicit. God speaks through the Psalm.",
+      "prediker_als_mandataris": "The preacher acts as a 'Bible teacher' (self-identified).",
+      "tekstueel_bewijs": [
+        "As a Bible teacher, I find..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to the 'elevating effect' of the truth.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the sermon aims to be 'liberating'.",
+      "epifanisch_taalgebruik": "Moderate. The use of 'De Profundis' creates a sense of depth.",
+      "tekstueel_bewijs": [
+        "This confession to be the path of life."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on 'is' and 'says'. It needs more 'gives' and 'forgives'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "There is forgiveness with you.",
+          "voorgestelde_revisie": "Because of Christ, God forgives you right now.",
+          "verschil": "Shifts from a general truth to a personal event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often a quote from a book.",
+      "suggestie": "Turn the quote into a direct address.",
+      "voorbeeldzinnen": [
+        "Tonight, the Lord redeems you from all your iniquities."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they'.",
+      "suggestie": "Use 'you' more frequently in the middle section.",
+      "voorbeeldzinnen": [
+        "You don't have to add up your columns anymore."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "suggestie": "Maintain the current flow but strengthen the indicative."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically brilliant and culturally engaging. To move from 'teaching' to 'event', reduce the literary distance and speak the promise directly to the 'miserable offender' sitting in the pew."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' as a teacher; SAT reveals the sermon's failure to use Declarative force to change the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, the literary quotes are excellent ethos-builders; homiletically (SAT), they function as constative buffers that delay the illocutionary impact.",
+    "unieke_inzichten_SAT": "SAT reveals that while the preacher *talks* about the end of 'record-keeping', the sermon's structure remains a 'record' of what others have said about the topic."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "states",
+        "writes",
+        "notes",
+        "describes",
+        "means",
+        "believes"
+      ],
+      "directief": [
+        "reflect",
+        "notice",
+        "grant",
+        "come"
+      ],
+      "expressief": [
+        "amazed",
+        "struck",
+        "perplexed",
+        "blessed"
+      ],
+      "commissief": [
+        "shall redeem",
+        "promises"
+      ],
+      "declaratief": [
+        "speaks",
+        "forgiven"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "If you, O Lord, kept a record of sins, Lord, who could stand?",
+        "categorie": "Assertive/Interrogative",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "High - establishes the 'depths'."
+      }
+    ],
+    "notities": "The sermon is a transition piece from the 1928 Prayer Book culture to a more performative grace-based homiletic, but it still carries the weight of the 'teaching' office."
+  }
+}

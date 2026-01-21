@@ -114,8 +114,8 @@ cat("\n=========================================================================
 cat("STEP 3: DETERMINING OPTIMAL K\n")
 cat("==============================================================================\n")
 
-# Test k from 5 to 20
-k_range <- 5:20
+# Test k from 7 to 20
+k_range <- 7:20
 
 cat("Testing k from", min(k_range), "to", max(k_range), "\n")
 cat("This may take a few minutes...\n\n")

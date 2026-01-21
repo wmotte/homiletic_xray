@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "titel_preek": "Father, forgive them, for they know not what they do",
+    "bijbeltekst": "Luke 23:32-34",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A meditation on the first word from the cross, focusing on the historical horror of crucifixion and the nature of human evil.",
+      "exegetische_kwaliteit": "Strong historical-critical and cultural-anthropological focus (Roman vs. Near Eastern honor/shame cultures).",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting historical and theological facts about the cross, with a late shift toward promising mercy.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Crucifixion was not against the law.",
+        "The Cross is in no way religious.",
+        "Jesus does not pray for the good and the innocent."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel the weight of their own 'shame' and the surprising reach of God's mercy.",
+      "pneumatologisch_bewustzijn": "Minimal until the very end where the 'living Spirit' is mentioned.",
+      "perlocutionaire_werkwoorden": [
+        "meditate",
+        "reflect",
+        "understand",
+        "acknowledge",
+        "receive"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "80%",
+      "voorbeelden": [
+        "It was an exceptionally gruesome method.",
+        "The four New Testament Gospels record seven words.",
+        "Crucifixion was purposefully designed to display and humiliate."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "shows",
+        "noted"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "7%",
+      "voorbeelden": [
+        "We need to reflect on what is being forgiven.",
+        "We need to make a conscious effort to understand.",
+        "Let go of pretense."
+      ],
+      "dominante_werkwoorden": [
+        "need",
+        "reflect",
+        "let",
+        "acknowledge"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 8,
+      "procent": "5%",
+      "voorbeelden": [
+        "We are shocked and horrified.",
+        "We can scarcely imagine these things."
+      ],
+      "dominante_werkwoorden": [
+        "shocked",
+        "horrified",
+        "imagine"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 5,
+      "procent": "3%",
+      "voorbeelden": [
+        "Nothing at all [would put us beyond the reach of Jesus' prayers]."
+      ],
+      "dominante_werkwoorden": [
+        "reach",
+        "pray"
+      ],
+      "kwaliteit": "The promise is indirect (talking about the reach of prayer) rather than a direct 'I promise you'."
+    },
+    "declaratieven": {
+      "frequentie": 3,
+      "procent": "2%",
+      "voorbeelden": [
+        "Father, forgive them, for they know not what they do (quoted as being spoken now)."
+      ],
+      "dominante_werkwoorden": [
+        "forgive",
+        "spoken"
+      ],
+      "autoriteit": "The preacher defers authority to the 'living Spirit' at the very end."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical description of Roman law.",
+        "Analysis of Mel Gibson's film.",
+        "Theological definitions of 'crucial'."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of history or a student of culture rather than a participant in grace."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise to the specific congregation"
+      ],
+      "effect_op_hoorder": "Delayed encounter; the 'event' only happens in the final paragraph."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 2,
+      "kwaliteit_toezeggen": "Strong in content but late in delivery.",
+      "voorbeelden": [
+        "Nothing at all would put us beyond the reach of Jesus' prayers."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 28,
+        "gebruik": "Mostly 'we' (inclusive/homiletic we) to describe shared human condition."
+      },
+      "tweede_persoon": {
+        "frequentie": 8,
+        "gebruik": "Direct address used only in the final application phase.",
+        "performatieve_context": "Used to apply the reach of the prayer to the individual 'you'."
+      },
+      "derde_persoon": {
+        "frequentie": 85,
+        "gebruik": "Dominant mode: talking about 'the Romans', 'the crowds', 'Jesus', 'the historians'.",
+        "distantie_effect": "Creates a lecture-like atmosphere for the first 80% of the text."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical narrative of the crucifixion."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological definitions and general truths about human nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final 'as though they were being spoken at this very moment'."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Long Assertive (History/Anthropology) -> Directive (Let go of pride).",
+      "voorbeelden": [
+        "History of crucifixion -> We need to make a conscious effort to understand."
+      ],
+      "probleem": "The imperative to 'understand' or 'let go of pride' precedes the actual declaration of grace."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The very end attempts a shift: Assertive (Jesus prays) -> Commissive (Nothing puts you beyond reach).",
+      "voorbeelden": [
+        "He prays for people doing terrible things... Nothing at all could ever do... put us beyond reach."
+      ],
+      "kwaliteit": "Effective but brief."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because he prays for the worst, you can let your pride go."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "The need to 'understand' the horror as a prerequisite for the sermon's efficacy."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions largely as a historical and psychological lecture on the 'shame' of the cross, only becoming a 'word of God' in the final sentences.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "Analysis of 'honor lodged in the body'.",
+        "effect": "Provides a visceral understanding of the biblical context."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The discussion of Webster's dictionary and Mel Gibson.",
+        "probleem": "Delays the illocutionary encounter with the living Word.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It remains a 'talk about' the cross for too long; the 'event' is compressed into the conclusion.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The sacramental 'Toezegging' (Promise) is present but lacks the performative 'I' of the mandatory."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the object of study for most of the sermon, only becoming the 'Speaker' via the Spirit at the end.",
+      "prediker_als_mandataris": "The preacher acts more as a historian/teacher than a mandatory.",
+      "tekstueel_bewijs": [
+        "It is our role... to try to understand."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, in the final paragraph.",
+      "perlocutie_theologie": "The preacher assumes the role of creating 'understanding' (locutionary) rather than relying on the Spirit for the 'event' throughout.",
+      "tekstueel_bewijs": [
+        "spoken at this very moment by the living Spirit"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon treats the text as a historical record to be meditated upon rather than a means of grace being administered.",
+      "epifanisch_taalgebruik": "Low, until the final 'From that sphere of divine power'.",
+      "tekstueel_bewijs": [
+        "We need to reflect on what is being forgiven."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense descriptives; needs more present-tense performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus does not pray for the good and the innocent. He prays for people doing terrible things.",
+          "voorgestelde_revisie": "Today, from this cross, Jesus is praying for you—not because you are good, but precisely where you are most ashamed.",
+          "verschil": "Moves from a general truth (Assertive) to a direct address (Commissive/Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in a 'meditation' framework.",
+      "suggestie": "Use the authority of the office to declare the forgiveness mentioned in the text.",
+      "voorbeeldzinnen": [
+        "On behalf of Christ, I declare to you: your shame is taken, and you are forgiven."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Over-reliance on 'we' and 'they'.",
+      "suggestie": "Shift to 'you' (singular/plural) to create an encounter.",
+      "voorbeeldzinnen": [
+        "You have seen your own enemies in the heart; hear now Christ's word for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'let go of pride' feels like a psychological task.",
+      "suggestie": "Make the 'letting go' a result of the 'forgiveness' already declared."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually and historically profound, but it risks keeping the hearer at a distance. By moving the 'event' of the Spirit from the last paragraph to the center of the sermon, the historical 'then' can become a sacramental 'now'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or the 'appeal' to the listener; SAT reveals that the preacher is failing to use the 'Declarative' power of the Word.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (vivid imagery); homiletically (SAT), it is weak in illocutionary force.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'Constative Surplus' (the history lesson) actually prevents the 'Perlocutionary' effect of faith by delaying the 'Commissives'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "comes",
+        "proclaimed",
+        "record",
+        "was",
+        "noted",
+        "suggests"
+      ],
+      "directief": [
+        "meditate",
+        "reflect",
+        "understand",
+        "let",
+        "acknowledge"
+      ],
+      "expressief": [
+        "shocked",
+        "horrified",
+        "imagine"
+      ],
+      "commissief": [
+        "reaches",
+        "prays",
+        "offers"
+      ],
+      "declaratief": [
+        "forgive",
+        "spoken"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Crucifixion was an enactment of the worst that we are.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong descriptive",
+        "effectiviteit": "High for conviction, but remains constative."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'preaching about the gospel' rather than 'preaching the gospel' until the final 100 words."
+  }
+}

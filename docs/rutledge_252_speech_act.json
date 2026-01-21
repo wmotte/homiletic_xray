@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "titel_preek": "The New Form of Speech",
+    "bijbeltekst": "Romans 10:17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A theological exploration of the nature of preaching as a 'speech-event'. The preacher uses historical anecdotes (Churchill, MLK) and biblical theology (John 1, Romans 10) to define the Word of God.",
+      "exegetische_kwaliteit": "High. Correctly identifies the 'acoustical' nature of biblical revelation and the Christological center of the Word.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting a theology of preaching. The preacher is 'talking about' the power of the Word rather than 'performing' the Word to the congregation.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 9,
+      "voorbeelden": [
+        "God’s Word makes things happen.",
+        "Christian preaching is different from any other kind of public address.",
+        "Preaching is a human activity, but it is derived from God."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To convince the hearer of the importance of preaching and to instill a sense of awe for the 'speech-event'.",
+      "pneumatologisch_bewustzijn": "Explicitly mentioned via 1 Cor 2:1-5, but the sermon itself relies more on theological explanation than on invoking the Spirit's present action.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "grasp",
+        "realize",
+        "appreciate",
+        "trust"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "God does not exist in unbroken silence.",
+        "The agent of the creation itself is the Word of God.",
+        "This is poorly understood in the mainline churches today."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "has",
+        "means",
+        "says"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "May we open our lives to the Word of life.",
+        "Write the vision."
+      ],
+      "dominante_werkwoorden": [
+        "open",
+        "write",
+        "let"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "I am amused to remember his own arrogance.",
+        "I was duly dashed for a while."
+      ],
+      "dominante_werkwoorden": [
+        "remember",
+        "amused",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "1.5%",
+      "voorbeelden": [
+        "Jesus Christ has promised to be present in power."
+      ],
+      "dominante_werkwoorden": [
+        "promised"
+      ],
+      "kwaliteit": "Weak. The preacher reports that God has promised (Assertive about a Commissive) rather than speaking the promise directly to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "0.5%",
+      "voorbeelden": [
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "Low. The preacher avoids the 'I forgive you' or 'I declare to you' stance in favor of a 'We are all in this together' stance."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 3rd person descriptions of God.",
+        "Historical anecdotes used as illustrations of a principle rather than acts.",
+        "Theology of the 'Word' remains an object of study."
+      ],
+      "effect_op_hoorder": "The hearer learns a lot about the Word of God but may not experience being addressed by God."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise ('God says to you today...')",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon talks about the concept of 'Toezegging' but does not execute one.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Personal anecdotes and 'we' as a collective of believers."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Mostly hypothetical or general ('You may be shocked').",
+        "performatieve_context": "Low. Not used for direct blessing or promise."
+      },
+      "derde_persoon": {
+        "frequentie": "180",
+        "gebruik": "Dominant. Talking about God, the Word, Churchill, and the Church.",
+        "distantie_effect": "High. It treats the Gospel as a topic of discussion."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Churchill, MLK, personal history, biblical history."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions of how preaching works."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Closing appeal."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon is almost entirely Assertive (explanation of the Word) ending in a vague Directive/Wish (May we open our lives).",
+      "voorbeelden": [
+        "Explanation of John 1 -> 'May we open our lives'."
+      ],
+      "probleem": "It lacks the middle step: the actual Declaration of grace to the hearer."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Commissive/Declarative link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The indicative is a lecture on theology, the imperative is a soft wish."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a 'meta-sermon'. It is a sermon about preaching, but it fails to be the very thing it describes. It provides excellent information about the 'speech-event' without becoming one.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Accuracy",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "God’s self-expression, is Jesus himself.",
+        "effect": "Provides a solid intellectual foundation for faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Performative",
+        "tekstueel_bewijs": "Jesus Christ has promised to be present in power.",
+        "probleem": "Reporting a promise is not the same as making a promise.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It remains a lecture on the theology of the Word. The 'event' is described but not enacted.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher acts as a professor of homiletics rather than a mandatory of God."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Theologically affirmed, but rhetorically absent.",
+      "prediker_als_mandataris": "The preacher describes himself as a 'channel', but speaks mostly in his own voice.",
+      "tekstueel_bewijs": [
+        "God has turned his message over to us."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, via Paul's quote.",
+      "perlocutie_theologie": "Yes, acknowledges that only God makes it happen.",
+      "tekstueel_bewijs": [
+        "demonstration of the Spirit and of power"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Affirmed in theory, but the sermon functions as a lecture.",
+      "epifanisch_taalgebruik": "No. The language is descriptive/analytical.",
+      "tekstueel_bewijs": [
+        "When the Word of God is read and expounded... it has the character of an event."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'was' verbs. Needs more 'I' (as God's mouthpiece) and 'You' (as recipient).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus Christ has promised to be present in power.",
+          "voorgestelde_revisie": "Jesus Christ is here now, and He promises you His power.",
+          "verschil": "Shifts from a report to a present-tense promise."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace of God is treated as a historical fact rather than a present gift.",
+      "suggestie": "Insert a direct address of comfort.",
+      "voorbeeldzinnen": [
+        "Because Christ is the Word, I declare to you that your sins are gone."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' (inclusive) and 'it' (the Word).",
+      "suggestie": "Use 'You' to create an encounter.",
+      "voorbeeldzinnen": [
+        "God is speaking to YOU in this moment."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative is disconnected from the indicative.",
+      "suggestie": "Base the 'opening of lives' on the 'finished work' just declared."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is a brilliant essay on homiletics, but it must move from 'talking about' the Word to 'being' the Word for the congregation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (the anecdotes). SAT reveals that the preacher's self-revelation is actually a distraction from the 'Declarative' act of God.",
+    "verschil_met_retoriek": "Rhetorically, the Churchill/MLK examples are great. From SAT, they are merely 'Assertives' that don't perform a divine act.",
+    "unieke_inzichten_SAT": "SAT exposes that a sermon can be 100% orthodox and 0% performative."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "means",
+        "says",
+        "wrote",
+        "communicated",
+        "understood",
+        "gives"
+      ],
+      "directief": [
+        "write",
+        "let",
+        "open",
+        "receive"
+      ],
+      "expressief": [
+        "remember",
+        "amused",
+        "shocked",
+        "feel"
+      ],
+      "commissief": [
+        "promised"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "God’s Word makes things happen.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a power.",
+        "effectiviteit": "Informative but not creative."
+      }
+    ],
+    "notities": "The preacher is trapped in the 'meta-level'. He is so fascinated by the theory of the Word that he forgets to speak the Word."
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "titel_preek": "The Key To It All",
+    "bijbeltekst": "John 21:15—17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explores the restoration of Peter by Jesus, focusing on the question 'Lovest thou me?'. He connects this to the love of mothers and his own mother's faith during the Depression.",
+      "exegetische_kwaliteit": "Moderate. The preacher engages with Maclaren's commentary but prioritizes character-based hermeneutics over technical exegesis.",
+      "omvang_procent": "65%"
+    },
+    "illocutie": {
+      "beschrijving": "The sermon primarily asserts the necessity of love and testifies to God's faithfulness, moving toward a commissive climax.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Jesus put the question three times to Simon",
+        "The Lord will make a way",
+        "I know who can pick you up"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To comfort the hearer and shift their focus from 'how' (circumstances) to 'who' (Christ).",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the word's effect.",
+      "perlocutionaire_werkwoorden": [
+        "trust",
+        "love",
+        "persevere",
+        "rely"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70",
+      "voorbeelden": [
+        "Jesus saith to Simon Peter...",
+        "Life is like that.",
+        "The world looks for what's wrong in us."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "said",
+        "was",
+        "think"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "9",
+      "voorbeelden": [
+        "Tell the truth about it.",
+        "You watch out.",
+        "Never mind about how."
+      ],
+      "dominante_werkwoorden": [
+        "tell",
+        "watch",
+        "forgive"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "22",
+      "procent": "11",
+      "voorbeelden": [
+        "I thank God for these various projects.",
+        "I was a boy not yet thirteen... my world collapsed."
+      ],
+      "dominante_werkwoorden": [
+        "thank",
+        "feel",
+        "grieved"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "15",
+      "procent": "7",
+      "voorbeelden": [
+        "The Lord will make a way.",
+        "He'll give you what to say.",
+        "He will get you safely through."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "make",
+        "give"
+      ],
+      "kwaliteit": "Strongly evocative but often framed as a testimony of a third party (the mother) rather than a direct 'I promise you' from the pulpit."
+    },
+    "declaratieven": {
+      "frequentie": "6",
+      "procent": "3",
+      "voorbeelden": [
+        "I leave this with you this morning.",
+        "You've got it if you love the Lord."
+      ],
+      "dominante_werkwoorden": [
+        "leave",
+        "have"
+      ],
+      "autoriteit": "The authority is derived from personal narrative and the mother's faith rather than an explicit ministerial 'I declare to you'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75",
+    "performatief_percentage": "25",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive storytelling about the jar of keys",
+        "Lengthy explanation of why comparisons are odious",
+        "Detailed historical account of the 1931 burial"
+      ],
+      "effect_op_hoorder": "The hearer is a spectator of a moving story rather than a participant in a current event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct sacramental address",
+        "Present-tense 'I' to 'You' promises"
+      ],
+      "effect_op_hoorder": "Inspiration through example rather than transformation through address."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "5",
+      "kwaliteit_toezeggen": "High emotional resonance, but mediated through the mother's voice.",
+      "voorbeelden": [
+        "The Lord will make a way somehow; yes, he will."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "48",
+        "gebruik": "Personal anecdote and homiletical 'I think'."
+      },
+      "tweede_persoon": {
+        "frequentie": "24",
+        "gebruik": "Direct application and rhetorical questions.",
+        "performatieve_context": "Used mostly in the final appeal."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Describing Jesus, Peter, and the preacher's mother.",
+        "distantie_effect": "Creates a narrative distance that requires a 'bridge' to the present."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50",
+        "gebruik": "Biblical narrative and 1931 autobiography."
+      },
+      "tijdloos_present": {
+        "frequentie": "30",
+        "gebruik": "General truths about love and mothers."
+      },
+      "actueel_present": {
+        "frequentie": "20",
+        "gebruik": "The climactic 'I know who'."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Love is the key) -> Directive (Tell the truth/Love more).",
+      "voorbeelden": [
+        "Tell the truth about it, for love is the crucial answer!"
+      ],
+      "probleem": "Moralizes the emotion of love before grounding it in the promise."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (The story of the mother) -> Commissive (The Lord will make a way).",
+      "voorbeelden": [
+        "I don't know how... but I know who... The Lord will make a way."
+      ],
+      "kwaliteit": "The sermon redeems its constative surplus in the final three minutes through powerful commissive force."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [
+        "He'll give you what to say... so feed my sheep."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "You ought to stop saying that you felt so hurt... your love has chilled."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon relies heavily on narrative testimony to generate hope, moving from a lecture on love to a powerful promise of God's presence.",
+    "sterke_punten": [
+      {
+        "aspect": "Commissive Climax",
+        "categorie": "COMMISSIVE",
+        "tekstueel_bewijs": "I know who can pick you up when you fall down.",
+        "effect": "Creates a sense of security in the hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "I have at my house a jar full of keys.",
+        "probleem": "The opening illustration is overly long and purely descriptive.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 7,
+    "gebeuren_toelichting": "The sermon becomes an 'event' only in the final section where the preacher's testimony functions as a vehicle for the Promise.",
+    "sacramentele_kracht": 6,
+    "sacramentele_toelichting": "The sermon 'talks about' grace for 80% of the time, only 'distributing' it at the very end."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Indirectly. God speaks through the mother's voice and the preacher's 'I know'.",
+      "prediker_als_mandataris": "The preacher acts more as a witness than a herald with a mandate.",
+      "tekstueel_bewijs": [
+        "I leave this with you this morning."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to the hearer's response to the story.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Partially. The 'Toezegging' (Promise) at the end functions as a means of grace.",
+      "epifanisch_taalgebruik": "The 'I know who' sequence is epiphanic.",
+      "tekstueel_bewijs": [
+        "I know who will dry the tears in your eyes."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense assertives. Needs more present-tense declaratives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus does not go into why back there Peter had denied him.",
+          "voorgestelde_revisie": "Jesus does not ask you for your excuses today; He simply offers you His heart.",
+          "verschil": "Shifts from historical description to present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is framed as a memory of the mother.",
+      "suggestie": "Frame the promise as the Word of God to the congregation now.",
+      "voorbeeldzinnen": [
+        "To you who are in the storm: The Lord is making a way for you right now."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'He' (Peter/Jesus) and 'I' (Preacher).",
+      "suggestie": "Increase 'You' (Hearer) in the middle section.",
+      "voorbeeldzinnen": [
+        "You are the sheep He is feeding this morning."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'Feed my sheep' command is given before the hearer is fully 'fed' by the promise.",
+      "suggestie": "Ensure the 'I know who' (Indicative) precedes the 'Go and love' (Imperative)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A deeply moving narrative sermon that finds its performative power in the final moments. To reach sacramental excellence, the preacher should move from 'talking about' the mother's faith to 'performing' the Lord's promise directly to the hearer earlier in the text."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (the mother story); SAT focuses on whether that story successfully 'performs' a divine promise.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'I know who' repetition as a stylistic device; SAT sees it as a Commissive act that binds God to the hearer.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power isn't in the 'key' metaphor (Assertive), but in the 'The Lord will make a way' (Commissive)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "said",
+        "thought",
+        "reminded",
+        "know",
+        "fit"
+      ],
+      "directief": [
+        "tell",
+        "watch",
+        "forgive",
+        "feed",
+        "lend"
+      ],
+      "expressief": [
+        "thank",
+        "disgusted",
+        "grieved",
+        "scared"
+      ],
+      "commissief": [
+        "will make",
+        "will get",
+        "will be",
+        "will dry"
+      ],
+      "declaratief": [
+        "leave",
+        "have",
+        "forgive (as act)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The Lord will make a way.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Excellent"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Testimonial Preaching' where the performative force is borrowed from the preacher's biography."
+  }
+}

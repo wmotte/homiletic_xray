@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "titel_preek": "The Strange World of Abraham",
+    "bijbeltekst": "Genesis 22:8",
+    "analyse_datum": "2024-05-23",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher describes the narrative of Abraham and Isaac as a 'strange country,' contextualizing it within Abraham's life of faith and linking it to the sacrifice of Christ and the experience of modern loss.",
+      "exegetische_kwaliteit": "High. The preacher correctly identifies the structural parallels between Genesis 12 and 22 and uses Paul's interpretation in Romans 4 to frame the theology of the text.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is Assertive (explaining the 'strange world') with a late shift toward Commissive (pointing to the promise).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I invite you to undertake this daring activity.",
+        "The story is about radical trust in the future of God.",
+        "He became the substitute for us."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To evoke awe, to encourage trust during 'Godforsakenness,' and to bring the hearer to the 'threshold of faith.'",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is not explicitly mentioned, though the 'threshold of faith' implies a work beyond the preacher.",
+      "perlocutionaire_werkwoorden": [
+        "trust",
+        "believe",
+        "undertake",
+        "discern",
+        "honor"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The story of Abraham begins in Genesis 12.",
+        "Abraham is called the father of believers.",
+        "The mind reels."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "begins",
+        "means",
+        "tells"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Let’s think for a few moments.",
+        "I invite you to undertake this daring activity.",
+        "But now listen."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "invite",
+        "listen",
+        "see"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "I am in awe of her capacity.",
+        "I am not ashamed to say.",
+        "I honor him today."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "wonder",
+        "admire",
+        "honor"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "4%",
+      "voorbeelden": [
+        "The telling of the story... brings you, too, this very day, to the threshold of faith."
+      ],
+      "dominante_werkwoorden": [
+        "brings",
+        "promises"
+      ],
+      "kwaliteit": "The promises are largely described in the third person rather than directly 'bestowed' upon the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "3%",
+      "voorbeelden": [
+        "I honor him today as one of Abraham’s most valiant offspring.",
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "honor",
+        "amen"
+      ],
+      "autoriteit": "The preacher speaks with personal conviction but rarely uses the 'I declare to you' apostolic authority."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive travel metaphors (Tibet, Nepal).",
+        "Long historical recap of Abraham's life.",
+        "Personal anecdote about grandchildren and the Lehmann family."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a 'strange world' rather than a participant in a current event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the specific hearer",
+        "Present-tense declarative of God's action now"
+      ],
+      "effect_op_hoorder": "The hearer is 'brought to the threshold' but not necessarily 'pushed through the door' by the word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "The promise is framed as a result of 'the telling of the story' rather than a direct address from God.",
+      "voorbeelden": [
+        "The telling of the story... brings you, too, this very day, to the threshold of faith."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "28",
+        "gebruik": "Personal anecdotes and preacher's own journey of discovery."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Inviting the audience to think or see the story.",
+        "performatieve_context": "Used at the very end to apply the story to the hearer's 'threshold'."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing Abraham, Isaac, God, and the Biblical world.",
+        "distantie_effect": "Reinforces the 'strange country' metaphor, keeping the text at a distance for much of the sermon."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Narrating Genesis and historical examples."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General theological truths about faith and God."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the preaching moment at the conclusion."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids moralistic 'Assertive -> Directive' traps.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Story) -> Commissive (Christ as substitute) -> Directive (Implicit: Trust).",
+      "voorbeelden": [
+        "He became the substitute for us... brings you to the threshold of faith."
+      ],
+      "kwaliteit": "The transition to the 'us' and 'you' is late but theologically sound."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "He became the substitute for us. [Indicative] ... I invite you to undertake this daring activity [Imperative/Invitation]."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions primarily as a high-level theological lecture that 'invites' the hearer into a world, rather than a sacramental event that 'creates' a new reality through declaration.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Integrity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Abraham believed in the God 'who gives life to the dead'.",
+        "effect": "Provides a solid foundation for faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The whole first half is travel metaphors and historical recap.",
+        "probleem": "Delays the 'event' of the word.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It is a profound reflection, but the 'event' (the encounter) is described more than it is enacted.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The preacher remains a 'guide' to a strange country rather than a 'herald' of a present King."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the story, but the preacher does not explicitly speak 'for' God in the first person.",
+      "prediker_als_mandataris": "The preacher acts as a 'guide' (mentor) rather than a mandatory.",
+      "tekstueel_bewijs": [
+        "I invite you to undertake this daring activity."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to the 'telling of the story'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Partially. The preacher believes the story 'brings' the hearer to faith.",
+      "epifanisch_taalgebruik": "Moderate. The use of 'strange world' creates a sense of the holy.",
+      "tekstueel_bewijs": [
+        "The alien world of the Bible is the sphere where human beings are truly understood."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on 'is/was' and 'think/see'. It needs more 'give/forgive/promise'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "He became the substitute for us.",
+          "voorgestelde_revisie": "Today, Christ stands as your substitute; He takes your place in the dark.",
+          "verschil": "Shifts from a historical fact to a present-tense declarative event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is at the very end and is described as a possibility.",
+      "suggestie": "Move the promise of the 'substitute' into the center of the sermon and address it to the hearer's specific 'Godforsakenness'.",
+      "voorbeeldzinnen": [
+        "God promises you today that your future is not lost in the abyss."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'He' (Abraham).",
+      "suggestie": "Increase 'You' (Hearer) and 'We' (Church).",
+      "voorbeeldzinnen": [
+        "You are standing on Mount Moriah today."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually good, just too constative.",
+      "suggestie": "N/A"
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A deeply thoughtful and orthodox sermon that would gain immense sacramental power by shifting from 'explaining the strange world' to 'bestowing the promises of that world' directly upon the congregation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about his grandchildren; SAT focuses on whether the 'substitute' is actually delivered to the hearer.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'strange country' metaphor; SAT asks if that metaphor creates distance that prevents the illocutionary force of the Gospel.",
+    "unieke_inzichten_SAT": "SAT reveals that the preacher is 'talking about' faith (Assertive) rather than 'giving' the object of faith (Commissive)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "know",
+        "feel",
+        "return",
+        "begins",
+        "parallels",
+        "designed",
+        "means"
+      ],
+      "directief": [
+        "think",
+        "invite",
+        "undertake",
+        "set aside",
+        "see",
+        "probe",
+        "listen"
+      ],
+      "expressieven": [
+        "admire",
+        "wonder",
+        "awe",
+        "not ashamed",
+        "want",
+        "honor"
+      ],
+      "commissief": [
+        "brings",
+        "promises",
+        "provide"
+      ],
+      "declaratief": [
+        "honor",
+        "amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He became the substitute for us.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Weak (descriptive)",
+        "effectiviteit": "Theologically central but performatively muted."
+      }
+    ],
+    "notities": "The sermon is a beautiful example of 'Theological Interpretation of Scripture' but stays in the 'Locutionary' realm for too long before attempting an 'Illocutionary' strike."
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "titel_preek": "Authorized for Risk",
+    "bijbeltekst": "Psalm 150; John 20:19-23; Acts 5:25-32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The Living One (Christ) enters a space of fear and death (Empire) to breathe new life into his followers, transforming them from fearful subjects into a movement of civil disobedience and reconciliation.",
+      "subject": {
+        "identificatie": "Jesus / The Living One",
+        "tekstueel_bewijs": [
+          "He came. He stood there.",
+          "He breathed on them.",
+          "He gave them the surging gift of surprising life."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Easter Life / Peace / Power to Forgive",
+        "tekstueel_bewijs": [
+          "God’s power for life that is loosed in the world",
+          "the surging gift of surprising life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The God who raised Jesus)",
+        "tekstueel_bewijs": [
+          "the God who gives the spirit of life to the world"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Church / The Hearers",
+        "tekstueel_bewijs": [
+          "We are on the receiving end from him of his offer of life"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit (Breath of Jesus)",
+        "tekstueel_bewijs": [
+          "He gave them spirit. He performed artificial respiration."
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "The Empire / The Power of Death",
+        "tekstueel_bewijs": [
+          "the empire of death",
+          "the lifeless charade of the empire",
+          "the old weary forms of death"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The Empire is not just a political entity here but a semiotic stand-in for the 'power of death' that seeks to fix reality and stifle life."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Breathed-on Church (Subject) engages in acts of civil disobedience and reconciliation (Object) against the Empire.",
+      "subject": "The Church / The Apostles",
+      "object": "Forgiveness / Healing / Witness",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (Ethics/Mission) is explicitly fueled by the primary program (Soteriology/Resurrection). The church acts because it was 'breathed on'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Easter Life → The Church",
+      "helper_subject_tegenstander": "Holy Spirit → Jesus → The Empire",
+      "subject_naar_object": "Jesus → Peace/Forgiveness"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "He breathed on them.",
+        "He gave them the surging gift.",
+        "God raised Jesus from the dead."
+      ],
+      "voorbeelden_mens_subject": [
+        "We must obey God.",
+        "The apostles were resilient.",
+        "We are always deciding."
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "We must obey God rather than any human authority."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "The church is restless for God’s call to life."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "They recognized him when they saw the scars."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "He gave them the power to forgive sin.",
+          "touched with the power for life."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the endowment of power (Pouvoir) rather than mere obligation (Devoir). The 'must' of obedience is presented as a consequence of the 'can' given by the Spirit."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Easter Life",
+      "s2": "Empire Death",
+      "niet_s1": "Fear/Locked Doors",
+      "niet_s2": "Civil Disobedience/Doxology"
+    },
+    "beweging_in_preek": "From S2 (Empire) and ~S1 (Fear) to S1 (Peace/Breath) and finally to ~S2 (Defiance/Doxology).",
+    "theologische_resolutie": "The tension is resolved by the physical presence of the Risen Christ who 'breaks' the closed system of the Empire.",
+    "ernst_van_s2": "High; the Empire is described as a violent, all-encompassing reality."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon maintains God/Christ as the primary initiator. Human action is framed as a 'witness' or 'response' to a prior act of 'artificial respiration' by Christ.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Decision-centric language",
+        "tekstueel_bewijs": "We are always deciding whether we shall be in denial...",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Passive reception of competence",
+        "tekstueel_bewijs": "We are on the receiving end from him of his offer of life.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Peter and Thomas are used not as moral templates to emulate, but as representative types of the 'breathed-on' community.",
+      "bijbelse_figuren_als_model": [
+        "Peter",
+        "Thomas"
+      ],
+      "alternatieve_lezing": "Theocentric: God uses even the skeptical and the overeager."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and empowerment; shifting from fear to 'exuberance'.",
+      "theologische_implicatie": "Soteriology precedes and enables Ecclesiology."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "Strong integration of the 'Breath' (Soteriology) and the 'Obedience' (Ethics).",
+      "spanning_punten": [
+        "The shift from 'receiving peace' to 'civil disobedience' requires a strong modal bridge which the sermon provides via the concept of 'Spirit'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "The contradiction between the empire of death and the Living One whom the empire could not keep dead.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of Pouvoir-faire (Power to do)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is identified with the 'Empire'—a systemic, death-dealing force."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully positions Christ as the Subject of the primary narrative, with the church as the Receiver who then becomes a secondary Subject.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on the 'decision' (Vouloir) in section III.",
+      "voorgestelde_balans": "Ensure the 'deciding' is seen as a fruit of the 'breathing'.",
+      "concrete_suggestie": "Link the 'deciding' sentences more closely to the 'Spirit' given in Section I."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Empire/Death).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "voorgestelde_structuur": "Maintain the current flow: Christ Acts -> Church Receives -> Church Acts."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of grace-oriented homiletics that uses political imagery to ground cosmic victory in the life of the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Empire' metaphor, Greimas shows that the 'Empire' functions structurally as the Opponent that validates the Subject's power.",
+    "verschil_met_exegese": "Exegesis might focus on the Greek word 'pneuma'; Greimas focuses on how that 'pneuma' functions as a modal competence (Pouvoir).",
+    "unieke_inzichten_greimas": "Reveals that the 'civil disobedience' is not a new law (Devoir) but a narrative performance enabled by the Sender's gift."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (came, stood, said, breathed, gave, charged)",
+      "The Empire (executed, could not keep dead, fears, resists, vetoes)",
+      "The Church/Apostles (recognized, knew, cured, cleansed, teach, obey, witness)"
+    ],
+    "volledige_object_lijst": [
+      "Peace",
+      "Spirit/Breath",
+      "Forgiveness",
+      "New Life",
+      "Doxology"
+    ],
+    "werkwoord_frequentie": {
+      "breathed": {
+        "count": "3",
+        "primair_subject": "God/Jesus"
+      },
+      "obey": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "gave": {
+        "count": "6",
+        "primair_subject": "God/Jesus"
+      }
+    },
+    "notities": "The sermon avoids the 'Exemplarism' trap by framing the apostles' courage as a result of 'artificial respiration' rather than inherent grit."
+  }
+}

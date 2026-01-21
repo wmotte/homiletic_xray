@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "titel_preek": "Easter Season Cycle: The Night, The Wound, and The Whirlwind",
+    "bijbeltekst": "John 20:1–18; John 20:19–31; Job 38, 42:1–6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher provides a narrative-theological exposition of the darkness in John's Gospel, the skepticism of Thomas, and the silence of Job before the whirlwind.",
+      "exegetische_kwaliteit": "High. Strong focus on Johannine symbolism (night/light) and the literary structure of Job.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the reality of the resurrection and the nature of God, with late-sermon shifts to promising and declaring.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The rising sun revealed the victory already accomplished.",
+        "We proclaim to you today not our own voice but the living Word of God.",
+        "I am the resurrection and the life."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from doubt/grief to a state of 'blessed' belief and comfort in their 'dust-ness'.",
+      "pneumatologisch_bewustzijn": "Explicitly stated in the Job section: 'Through the Word of God the Holy Spirit creates such faith'.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "receive",
+        "repent",
+        "be comforted",
+        "hush up"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The symbolism of night and darkness pervades the Gospel of John.",
+        "Jesus has entered the realm of Death.",
+        "The book of Job gives no answer at all to the problem of suffering."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "means",
+        "tells",
+        "was"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "Remember this.",
+        "Let our answer be hers.",
+        "Look at it!"
+      ],
+      "dominante_werkwoorden": [
+        "remember",
+        "let",
+        "look"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "It is a very comforting thing to me.",
+        "I remember reading about it.",
+        "I believe we can hold on to the promise."
+      ],
+      "dominante_werkwoorden": [
+        "comfort",
+        "remember",
+        "believe"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "5",
+      "procent": "3%",
+      "voorbeelden": [
+        "God has entered our pain and been wounded by it.",
+        "He has power to grant his divine life to all who come to him."
+      ],
+      "dominante_werkwoorden": [
+        "has entered",
+        "grant"
+      ],
+      "kwaliteit": "Theological but often phrased as general truths rather than direct address promises."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "Alleluia! Christ is risen!",
+        "We proclaim to you today... the living Word of God."
+      ],
+      "dominante_werkwoorden": [
+        "proclaim",
+        "is risen"
+      ],
+      "autoriteit": "Moderate; relies heavily on liturgical formulas for declarative force."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive retelling of the biblical narrative.",
+        "Long explanations of what 'interpreters agree' on.",
+        "Third-person descriptions of Mary, Thomas, and Job."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of the biblical characters' encounters rather than a participant in their own."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct individual promise ('To you')",
+        "Present-tense creative speech"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without the 'jolt' of a sacramental encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "Strong when present, but often mediated through the characters (e.g., 'Jesus says to Martha').",
+      "voorbeelden": [
+        "Receive the gift of eternal light and life in his name.",
+        "We proclaim to you today... the living Word."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Preacher's personal reflection and 'we' inclusive language."
+      },
+      "tweede_persoon": {
+        "frequentie": "22",
+        "gebruik": "Direct address regarding suffering ('You will know it') and the final call to belief.",
+        "performatieve_context": "Used effectively in the 'Second Sunday' section to bridge the gap between Thomas and the congregation."
+      },
+      "derde_persoon": {
+        "frequentie": "110+",
+        "gebruik": "Describing Mary, Thomas, Job, and 'the world'.",
+        "distantie_effect": "Creates a narrative distance where God is the object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical history and narrative."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological truths ('Death rules there')."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Liturgical 'Alleluia' and 'We proclaim'."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Job's story) -> Directive (Be quiet/humble).",
+      "voorbeelden": [
+        "Job simply sets aside all his great sufferings... Therefore I will be quiet."
+      ],
+      "probleem": "Moralizes the silence of Job as a requirement rather than a gift."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Jesus' wounds) -> Commissive (God has entered our pain) -> Directive (Believe).",
+      "voorbeelden": [
+        "God has entered our pain... we proclaim to you... believe."
+      ],
+      "kwaliteit": "Theologically sound but linguistically 'talky'."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "In believing [Indicative/Promise], receive the gift [Imperative]."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "Let our answer be hers [Directive without immediate preceding Declarative]."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon excels at providing a theological framework for suffering and doubt, but remains largely in the realm of 'talking about' the event of resurrection rather than 'performing' it.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The symbolism of night and darkness pervades the Gospel of John.",
+        "effect": "Provides a rich, non-superficial context for faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertives",
+        "tekstueel_bewijs": "Virtually all interpreters agree that...",
+        "probleem": "Academic distance weakens the illocutionary force.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "The sermon is a profound lecture that occasionally breaks into a 'happening' during the liturgical responses and the direct address on pain.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The preacher acts more as a witness to a past event than a mandatory through whom the event recurs."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Acknowledged as the 'living voice', but often quoted from the past.",
+      "prediker_als_mandataris": "Explicitly claimed: 'We proclaim to you today not our own voice but the living Word'.",
+      "tekstueel_bewijs": [
+        "The living Word of God, which is unique and trustworthy."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, in the Job section and the prayers.",
+      "perlocutie_theologie": "Yes: 'The Holy Spirit creates such faith in those who gladly hear'.",
+      "tekstueel_bewijs": [
+        "raised from the death of sin by thy life-giving Spirit"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Implicitly held, but the language is more 'testimony' than 'sacrament'.",
+      "epifanisch_taalgebruik": "Strongest in the 'Night' section.",
+      "tekstueel_bewijs": [
+        "The rising sun revealed the victory already accomplished."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/was' (Assertive) to 'gives/forgives/promises' (Commissive/Declarative).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus has entered the realm of Death.",
+          "voorgestelde_revisie": "Today, Christ enters your death and your darkness.",
+          "verschil": "Moves from a historical fact to a present-tense encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Promises are often nested in stories about others (Mary/Thomas).",
+      "suggestie": "Use the 'I-You' address more frequently.",
+      "voorbeeldzinnen": [
+        "Because He is risen, I declare to you: your sins are gone."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much time spent on 'interpreters' and 'the evangelist'.",
+      "suggestie": "Speak as the mandatory of the Risen Lord directly to the 'dust' of the congregation.",
+      "voorbeeldzinnen": [
+        "You, who are dust, hear this: God is comforted by you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "Generally well-balanced, though the indicative is heavy.",
+      "suggestie": "Ensure the imperative 'Believe' is always a response to a specific, uttered promise."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A theologically masterful set of reflections that would gain immense sacramental power by reducing the 'talking about' and increasing the 'proclaiming to'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the preacher isn't just 'sending a message' about hope, but attempting to 'enact' hope through the Word.",
+    "verschil_met_retoriek": "The focus is not on the preacher's eloquence in describing the 'night', but on the illocutionary authority to speak for God.",
+    "unieke_inzichten_SAT": "SAT highlights that the 'Constative Surplus' (theology as information) is the primary barrier to the sermon becoming an 'Easter event'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "pervades",
+        "comes",
+        "teaches",
+        "brings",
+        "tells",
+        "dips",
+        "gives",
+        "reign",
+        "obliterated",
+        "appears",
+        "lay",
+        "entered",
+        "rules",
+        "means",
+        "agree",
+        "refused"
+      ],
+      "directief": [
+        "remember",
+        "let",
+        "look",
+        "put",
+        "see",
+        "place",
+        "be",
+        "receive"
+      ],
+      "expressief": [
+        "comforting",
+        "struggle",
+        "remember",
+        "believe",
+        "hope",
+        "despise",
+        "repent"
+      ],
+      "commissief": [
+        "grant",
+        "promises",
+        "has entered",
+        "has been wounded",
+        "has power"
+      ],
+      "declaratief": [
+        "proclaim",
+        "is risen",
+        "overcame",
+        "opened"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Alleluia! Christ is risen!",
+        "categorie": "Declarative",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "The most performative moment, changing the atmosphere of the room."
+      },
+      {
+        "zin": "The symbolism of night and darkness pervades the Gospel of John.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Low",
+        "effectiviteit": "Informative but creates a 'lecture' feel."
+      }
+    ],
+    "notities": "The sermon is highly literary and intellectually stimulating, but risks keeping the 'event' of Easter in the first century."
+  }
+}

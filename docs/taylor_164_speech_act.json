@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "titel_preek": "The Greatest Love Affair",
+    "bijbeltekst": "1 John 4:19 (implied), Matthew 13:33, Luke 6:48",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the nature of God's love (Agape) through biblical parables, historical anecdotes, and theological definitions. It emphasizes that God's love precedes human response.",
+      "exegetische_kwaliteit": "Moderate. It uses word studies (Eros, Philia, Agape) and illustrative parables, though it leans heavily on narrative illustration rather than verse-by-verse exposition.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is asserting the reality of God's love and explaining its priority. There is a secondary force of invitation to personalize this truth.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Jesus kept telling us that the only way we can somewhat grasp...",
+        "The great New Testament word for love is neither eros... but agape.",
+        "God first loved us."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel comforted, secure in God's love, and motivated to love others (specifically in social/political contexts).",
+      "pneumatologisch_bewustzijn": "Low. The Holy Spirit is mentioned as a 'companion' in the conclusion, but not as the agent of the sermon's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "feel comforted",
+        "vote",
+        "love others"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "80%",
+      "voorbeelden": [
+        "God is love.",
+        "He first loved us.",
+        "This word love... may well be the most potent word in human language."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "said",
+        "means",
+        "tells"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "7%",
+      "voorbeelden": [
+        "I wonder if you would substitute 'me' for 'us'.",
+        "We ought to exercise our Christian love.",
+        "Can you say that to yourself right now?"
+      ],
+      "dominante_werkwoorden": [
+        "ought",
+        "must",
+        "say",
+        "read"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": 15,
+      "procent": "8%",
+      "voorbeelden": [
+        "I am staggered by being informed...",
+        "I am gladdened that this strange business...",
+        "I hope you can truly say that."
+      ],
+      "dominante_werkwoorden": [
+        "staggered",
+        "gladdened",
+        "hope",
+        "believe"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "3%",
+      "voorbeelden": [
+        "There is a home where some day we shall all be together."
+      ],
+      "dominante_werkwoorden": [
+        "shall be",
+        "promises (implied)"
+      ],
+      "kwaliteit": "Weak. The promises are mostly general and future-oriented rather than immediate divine self-binding."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "2%",
+      "voorbeelden": [
+        "I would have to brand you as the biggest liar in Brooklyn."
+      ],
+      "dominante_werkwoorden": [
+        "brand"
+      ],
+      "autoriteit": "Low. The only clear declarative is a hypothetical judgment rather than a sacramental absolution or blessing."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'talking about' the Greek words for love.",
+        "Long narrative anecdotes about Detroit and village idiots.",
+        "Third-person descriptions of God's attributes."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a beautiful idea rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Immediate promise of grace",
+        "Sacramental 'I' (God speaking through the preacher)"
+      ],
+      "effect_op_hoorder": "The hearer is left to apply the truth to themselves ('I wonder if you would substitute...') rather than having it applied to them by the Word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 3,
+      "kwaliteit_toezeggen": "Indirect. The preacher asks the hearer to tell themselves the promise rather than the preacher delivering it as a mandate.",
+      "voorbeelden": [
+        "God first loved you."
+      ],
+      "moment_in_preek": "Middle and End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 45,
+        "gebruik": "Personal anecdotes and homiletical 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": 18,
+        "gebruik": "Direct questions and moral appeals.",
+        "performatieve_context": "Used to prompt self-reflection rather than to deliver grace."
+      },
+      "derde_persoon": {
+        "frequentie": 110,
+        "gebruik": "Describing Jesus, the Father, and the nature of love.",
+        "distantie_effect": "High. It treats God's love as a theological object to be examined."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and personal stories."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Definitions of Agape and general truths about the universe."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the preaching moment."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (God is love) -> Directive (We ought to love/vote).",
+      "voorbeelden": [
+        "He first loved us... we ought to exercise our Christian love... by votes."
+      ],
+      "probleem": "It skips the performative 'Toezegging' (Promise) that empowers the directive, turning the sermon into moralism."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Love of God demands love of people... protest meetings are good, but... votes."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions primarily as a lecture on the concept of Agape. It describes the 'Greatest Love Affair' as a historical and metaphysical fact but rarely enacts that love in the present moment.",
+    "sterke_punten": [
+      {
+        "aspect": "Illustrative Locution",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The story of the village idiot and the noble lad.",
+        "effect": "Makes abstract concepts (substitutionary atonement) vivid."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The long section on Greek words (Eros, Philia, Agape).",
+        "probleem": "Information about love replaces the event of being loved.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a 'talk about' God's love rather than a 'happening' of God's love.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher speaks as an observer/teacher rather than a mandatory of the living Christ."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the talk, not the speaker of the Word.",
+      "prediker_als_mandataris": "Weak. The preacher acts as an 'expositor' and 'storyteller'.",
+      "tekstueel_bewijs": [
+        "I think that this is the supreme theme I would want to sound."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimally, in the conclusion.",
+      "perlocutie_theologie": "No. The preacher tries to achieve the effect through rhetorical persuasion.",
+      "tekstueel_bewijs": [
+        "There is a Holy Spirit who loves us by companionship."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is treated as an 'art' and a 'strange business'.",
+      "epifanisch_taalgebruik": "Low. The language is descriptive (constative) rather than creative (declarative).",
+      "tekstueel_bewijs": [
+        "The art of preaching."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Reduce 'is' and 'was' (Assertives); increase 'give', 'forgive', 'promise' (Commissives/Declaratives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God is love.",
+          "voorgestelde_revisie": "In the name of Jesus, I declare to you: God loves you now.",
+          "verschil": "Shifts from a fact to an encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in a 'we' statement.",
+      "suggestion": "Use direct 2nd person address to deliver the promise of the Gospel.",
+      "voorbeeldzinnen": [
+        "Because Christ died for you, you are now reconciled to the Father."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' and 'us'.",
+      "suggestion": "Address the 'you' specifically in the context of the cross.",
+      "voorbeeldzinnen": [
+        "You, with your ugly thoughts this week, are the one He came to save."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to political action (votes) feels like a 'new law' because it isn't birthed from a specific declarative of grace.",
+      "suggestion": "Ground the ethics in the specific freedom granted by the promise."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and theologically sound, but it remains a 'lecture on love.' To become an 'event,' it must move from describing the 'Greatest Love Affair' to officiating it."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (the Detroit story); SAT reveals the lack of 'creative power' in the verbs.",
+    "verschil_met_retoriek": "Rhetoric praises the 'village idiot' story; SAT notes that the story remains a locutionary illustration rather than an illocutionary act.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'warm' tone, the sermon is grammatically distant from the hearer."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "said",
+        "tells",
+        "means",
+        "stated",
+        "read",
+        "discovered"
+      ],
+      "directief": [
+        "ought",
+        "must",
+        "ask",
+        "substitute",
+        "exercise"
+      ],
+      "expressief": [
+        "staggered",
+        "gladdened",
+        "hope",
+        "believe",
+        "mourn"
+      ],
+      "commissief": [
+        "shall be",
+        "will be"
+      ],
+      "declaratief": [
+        "brand"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He first loved us.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a past-tense fact.",
+        "effectiviteit": "Informative but not transformative."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the beauty of the description masks the absence of a sacramental event."
+  }
+}

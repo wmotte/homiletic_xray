@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Thyatira, Part II: The Great Possibility",
+    "bijbeltekst": "Revelation 2:26-28",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human struggle to exercise the 'great if' (freedom of choice) to overcome circumstances and reach a state of divine-human unity.",
+      "subject": {
+        "identificatie": "The Individual Human / The Hearer",
+        "tekstueel_bewijs": [
+          "If we decide to live, we can live.",
+          "If we decide to try to be good, we can be good.",
+          "To him that overcometh."
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "The Morning Star / Authority / Self-Actualization",
+        "tekstueel_bewijs": [
+          "I will give him the morning star.",
+          "Authority over the nations.",
+          "The most consummate heights of its power."
+        ],
+        "aard_van_object": "ETHICAL/THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "God as the Granter of Freedom",
+        "tekstueel_bewijs": [
+          "The God theme... the awesome risk of making them free."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Self / The Overcomer",
+        "tekstueel_bewijs": [
+          "Your life and mine are made up of a huge if.",
+          "It belongs to us."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "God as a Facilitator / Personal Determination",
+        "tekstueel_bewijs": [
+          "If you will put yourself in his hands... he will raise you up.",
+          "God is able [to help you achieve]."
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Indecision / Lack of Effort / Social Odds",
+        "tekstueel_bewijs": [
+          "The things which belong unto thy peace... hid from thine eyes.",
+          "What cripples us and all that shackles us."
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "Sin is treated as a 'no' or a failure to use the 'if' correctly, rather than a cosmic power requiring a Savior."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's campaign to win back his children.",
+      "subject": "God",
+      "object": "The Children (Humanity)",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The preacher starts with God's campaign but immediately pivots to the 'human side' as the 'hinge,' making God's program dependent on the human program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Sender) → Freedom/Morning Star (Object) → The Overcomer (Receiver)",
+      "helper_subject_tegenstander": "God/Willpower (Helper) → The Hearer (Subject) ← Indecision/Social Odds (Opponent)",
+      "subject_naar_object": "The Hearer → Overcoming/Success"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 45,
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God can do anything but fail.",
+        "I will give him the morning star."
+      ],
+      "voorbeelden_mens_subject": [
+        "If we decide to try to be good, we can be good.",
+        "You can rise to whatever level you want to.",
+        "You put God in your life."
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "You must not denigrate or downgrade that capacity."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "If we decide to live...",
+          "If you want the fullness of life..."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "If thou hadst known..."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 10,
+        "voorbeelden": [
+          "You can!",
+          "God has given you the power.",
+          "The power is in your hands."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon is a 'Pep-Talk.' It assumes the hearer already possesses the competence (Pouvoir) and only needs the motivation (Vouloir) to act."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The Great If (Freedom/Success)",
+      "s2": "Consequence (Judgment/Failure)",
+      "niet_s1": "Indecision/Saying No",
+      "niet_s2": "Impunity (which the preacher explicitly denies)"
+    },
+    "beweging_in_preek": "From the threat of S2 (Consequence) to the empowerment of S1 (The Great If).",
+    "theologische_resolutie": "Resolution is found in human performance ('To him that overcometh').",
+    "ernst_van_s2": "S2 is seen as an immutable law of nature that even God cannot change ('God cannot do anything about consequence')."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the name of God and Christ, the engine of the sermon is 'Christian Humanism.' The human is the Subject who must 'overcome' to receive the reward. God is relegated to a Helper or a Rewarder of human effort.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "If you will offer yourself... the Lord will bless your life.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Anthropocentric Power",
+        "tekstueel_bewijs": "Your relationship to God is in your hands.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God's Initiative",
+        "tekstueel_bewijs": "The long campaign of God to win back his children.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The preacher uses his own life story (Oberlin College) as the primary model for the 'overcomer.'",
+      "bijbelse_figuren_als_model": [
+        "Moses",
+        "Solomon"
+      ],
+      "alternatieve_lezing": "Instead of 'If you seek God like Solomon,' a theocentric reading would be 'God remains faithful to His promise despite Solomon's failure.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of performance; temporary inspiration followed by potential despair when 'overcoming' fails.",
+      "theologische_implicatie": "Pelagianism; the human will is the primary mover in salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 6,
+      "coherentie_beschrijving": "The sermon is rhetorically powerful but structurally incoherent regarding the Gospel; it claims God is 'winning back' children but then says the outcome is entirely in the children's hands.",
+      "spanning_punten": [
+        "God's campaign vs. Man's 'if' as the hinge.",
+        "God's inability to forgive consequence vs. the Morning Star as a gift."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "His time among us was one long appeal to our capacity to say yes or no.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is a 'power' the human uses to rise up, rather than the Subject who regenerates."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is a 'no' that leads to 'consequences' which are mechanical rather than an offense against a Holy God that requires atonement."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a motivational speech where the Hearer is the Subject and God is the Helper/Object. The 'Gospel' is presented as a 'Great Possibility' (Law) rather than a 'Finished Work' (Grace).",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is told 'Your relationship to God is in your hands.'",
+      "voorgestelde_herpositionering": "Make Christ the Subject of 'overcoming.'",
+      "voorbeeld_revisie": "Because Christ has overcome the world, He has taken your life into His hands."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero who overcomes obstacles.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 'broken vessels' or the 'weary soul' who receives the Morning Star as a gift of pure grace, not a reward for effort."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive POUVOIR (You can!).",
+      "voorgestelde_balans": "Focus on human NON-POUVOIR (I cannot) and God's DEVOIR (God must save).",
+      "concrete_suggestie": "Address the reality that we often cannot say 'yes' to God without His prior grace."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Trivialized as 'bad choices.'",
+      "voorgestelde_intensivering": "Present Sin and Death as powers that the human 'if' cannot defeat.",
+      "theologische_rationale": "Only a 'Heavy Opponent' makes a Savior necessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (the 'if') is the primary program.",
+      "voorgestelde_structuur": "Soteriology (What God did in Christ) must be the foundation that enables the secondary response."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is homiletically brilliant and emotionally stirring, but structurally it places the burden of salvation back on the hearer, turning the 'Good News' into 'Good Advice.'"
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is an 'A' grade sermon (pathos, personal stories). Actantially, it is a 'D' because the functional roles are reversed from the Gospel structure.",
+    "verschil_met_exegese": "Exegesis might focus on the historical Thyatira; Greimas shows that the preacher has turned the 'Morning Star' from a Christological gift into a reward for human 'overcoming.'",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the mention of 'the grace of God,' the grammar of the sermon is entirely conditional ('If... then')."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (decide)",
+      "You (can)",
+      "You (put God in your life)",
+      "He [God] (will bless - conditional)",
+      "I [Preacher] (went to Oberlin)"
+    ],
+    "volledige_object_lijst": [
+      "The Morning Star",
+      "Success",
+      "Authority",
+      "Goodness"
+    ],
+    "werkwoord_frequentie": {
+      "can": {
+        "count": 14,
+        "primair_subject": "Man"
+      },
+      "if": {
+        "count": 22,
+        "primair_subject": "Man"
+      },
+      "overcome": {
+        "count": 6,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Semi-Pelagianism' where God's grace is a response to human initiative."
+  }
+}

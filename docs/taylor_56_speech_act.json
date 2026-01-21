@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "titel_preek": "A Crown Of Thorns",
+    "bijbeltekst": "Matthew 27:27–30",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A detailed narrative of Christ's physical and psychic suffering during the mockery by Roman soldiers, interspersed with moral reflections on humor and sin.",
+      "exegetische_kwaliteit": "Strong descriptive exegesis; focuses on the historical-cultural context of Roman scourging and the symbolic weight of the crown of thorns.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the historical and theological facts of the Passion, with intermittent attempts to bridge the gap to the hearer through repetitive identification.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "The New Testament says that in his life and death... he took upon himself our sins.",
+        "Crucifixion itself was the most hideous and excruciating of all forms of capital punishment.",
+        "For me! For you!"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To evoke a sense of guilt, gratitude, and awe at the suffering of Christ.",
+      "pneumatologisch_bewustzijn": "Low; the sermon relies on vivid description (rhetoric) rather than an explicit invocation of the Spirit's work through the Word.",
+      "perlocutionaire_werkwoorden": [
+        "realize",
+        "understand",
+        "think",
+        "imagine",
+        "praise"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "Pilate was a Gentile.",
+        "Christ became the smell of rotting corruption.",
+        "He stood silent."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "became",
+        "says",
+        "stood"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Think now of the most sinful thing.",
+        "Let us turn to Jesus our Lord.",
+        "Would you say to yourselves..."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "let",
+        "watch",
+        "say"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "I have not the desire today to argue.",
+        "I know of nothing more vulgar.",
+        "I wish these rude soldiers could know."
+      ],
+      "dominante_werkwoorden": [
+        "wish",
+        "know",
+        "detect"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "He changes the crown of thorns to that crown of life that he has and that he gives to all who love him."
+      ],
+      "dominante_werkwoorden": [
+        "gives"
+      ],
+      "kwaliteit": "Weak; the promises are framed as general theological truths (Assertives) rather than direct address (Commissives)."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent; the preacher describes the event but does not perform the event (e.g., no 'I declare to you')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Long sections describing Roman history and medical psychology.",
+        "Extensive use of 3rd person past tense ('He stood', 'They mocked').",
+        "Moralizing about humor and 'fixing' things."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical tragedy rather than a participant in a present salvation."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct promise of grace",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "Information about the cross is provided, but the cross is not 'applied' to the hearer's conscience."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Vague; the 'For you' is a rhetorical refrain but lacks a specific verb of promise.",
+      "voorbeelden": [
+        "For you! For you!"
+      ],
+      "moment_in_preek": "Middle and End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Mostly 'I' as the narrator/preacher and 'we' as a general group."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Used to prompt imagination ('Think of...') and in the refrain 'For you'.",
+        "performatieve_context": "Low; used more for mental exercises than receiving a gift."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant; describing Jesus, Pilate, and the soldiers.",
+        "distantie_effect": "High; creates a historical 'tableau' effect."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "65%",
+        "gebruik": "Historical narrative of the Passion."
+      },
+      "tijdloos_present": {
+        "frequentie": "25%",
+        "gebruik": "General moral and theological truths."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the preaching moment."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (The suffering of Jesus) -> Directive (Think of your sin/Watch your humor).",
+      "voorbeelden": [
+        "Pilate failed... We must watch this tendency to 'fix' things."
+      ],
+      "probleem": "The indicative of grace is bypassed for a moral imperative."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon lacks a clear transition from explanation to declarative promise.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The soldiers mocked him... I cannot tell you what are the bounds of good taste in humor."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a vivid historical lecture with moral applications. It 'talks about' the event of the cross but does not 'perform' the cross for the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Vividness",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The thorns cut the skin and rivulets of blood came trickling down his face.",
+        "effect": "Engages the imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Pilate, for instance, was a Gentile, a Roman...",
+        "probleem": "Excessive historical detail stalls the illocutionary force.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a reflection on an event, not an event in itself. The 'For you' is a label, not a delivery.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks declarative authority; the preacher does not speak 'in persona Christi'."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; God is the object of the sermon, not the subject speaking through it.",
+      "prediker_als_mandataris": "Weak; the preacher acts as a narrator/historian.",
+      "tekstueel_bewijs": [
+        "I would pause to say...",
+        "I detect it in delightful flashes..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly relies on the preacher's descriptive power to move the heart.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; it is a means of instruction/reflection.",
+      "epifanisch_taalgebruik": "Limited to the quotes of hymns.",
+      "tekstueel_bewijs": [
+        "O for a thousand tongues to sing..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from past-tense descriptive verbs to present-tense performative verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "He took upon himself our sins.",
+          "voorgestelde_revisie": "Today, Christ takes your sin from you and carries it to the grave.",
+          "verschil": "Moves from a historical fact to a present action."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'For you' lacks a verb of delivery.",
+      "suggestie": "Use Commissive verbs like 'I promise' or 'God gives'.",
+      "voorbeeldzinnen": [
+        "Because of this crown of thorns, I promise you that God will never look upon your sin again."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'He/They' (3rd person).",
+      "suggestie": "Address the hearer as the recipient of the action.",
+      "voorbeeldzinnen": [
+        "He was struck so that you might be healed."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Moralizing about humor is disconnected from the Gospel indicative.",
+      "suggestie": "Ground the call to holiness in the declarative of forgiveness."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically powerful and biblically serious, but it remains a 'talk about' the cross. To become a sacramental event, it must move from describing the thorns to placing the crown of life upon the hearer's head through the spoken Word."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about his views on humor; SAT focuses on the lack of a 'Declarative' act that changes the hearer's status.",
+    "verschil_met_retoriek": "Rhetoric praises the vivid imagery of the blood; SAT critiques that this imagery remains 'Constative' and doesn't 'Perform' anything.",
+    "unieke_inzichten_SAT": "SAT reveals that the 'For you' refrain is illocutionarily 'hollow' because it isn't backed by a Commissive or Declarative verb."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "took",
+        "stripped",
+        "put",
+        "plaited",
+        "says",
+        "suffered",
+        "met",
+        "became",
+        "is",
+        "was",
+        "failed"
+      ],
+      "directief": [
+        "think",
+        "let",
+        "watch",
+        "say"
+      ],
+      "expressief": [
+        "wish",
+        "detect",
+        "desire"
+      ],
+      "commissief": [
+        "gives"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "For you! For you!",
+        "categorie": "ASSERTIVE (Elliptical)",
+        "illocutionaire_kracht": "Weak",
+        "effectiviteit": "Rhetorical but not performative."
+      },
+      {
+        "zin": "He changes the crown of thorns to that crown of life.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Moderate",
+        "effectiviteit": "Describes a change rather than effecting it."
+      }
+    ],
+    "notities": "The sermon relies heavily on hymnody to provide the 'Expressive' and 'Commissive' elements that the prose lacks."
+  }
+}

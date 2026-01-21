@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "titel_preek": "The Bottomless Glass",
+    "bijbeltekst": "John 2:1-11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explores the theme of human regret and the 'running out of wine' in life, using the Cana wedding as a metaphor for the failure of human and religious efforts, contrasted with Christ's abundance.",
+      "exegetische_kwaliteit": "High. Connects the water jars to Jewish purification rites and the wedding feast to the eschatological banquet.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The sermon moves from identifying human lack (Assertive) to proclaiming Christ's sufficiency (Commissive/Declarative).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I want you to feel this in your inmost being.",
+        "He has come to pour out his life for us.",
+        "May he confirm this truth in your hearts."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Comfort, relief from regret, and faith in Christ's abundance.",
+      "pneumatologisch_bewustzijn": "Explicit. The preacher prays for the Spirit and acknowledges the Spirit builds the fellowship.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "feel",
+        "remember",
+        "understand",
+        "find"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The conversation turned to the subject of regret.",
+        "Jesus was at this wedding.",
+        "The water represents all our human attempts."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "represents",
+        "means",
+        "noted"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Notice Mary’s response.",
+        "Remember: no, it is not all.",
+        "Please understand this."
+      ],
+      "dominante_werkwoorden": [
+        "notice",
+        "remember",
+        "understand",
+        "look"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "I often read the personal ads.",
+        "I take this responsibility very seriously.",
+        "I want you to feel this."
+      ],
+      "dominante_werkwoorden": [
+        "read",
+        "wondered",
+        "want"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "6",
+      "procent": "4%",
+      "voorbeelden": [
+        "There is the promise of God through faith.",
+        "He goes to prepare a place for us."
+      ],
+      "dominante_werkwoorden": [
+        "promise",
+        "gives",
+        "goes"
+      ],
+      "kwaliteit": "Strong theological grounding, but often framed as a description of a promise rather than the act of promising itself."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "4%",
+      "voorbeelden": [
+        "In whose name we find ourselves redeemed.",
+        "May he confirm this truth in your hearts."
+      ],
+      "dominante_werkwoorden": [
+        "redeemed",
+        "confirm",
+        "restored"
+      ],
+      "autoriteit": "The preacher uses the 'May he' optative form, which leans toward prayer/blessing rather than a direct 'I declare you redeemed'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive storytelling about secular events and personal ads.",
+        "Detailed historical explanation of Palestinian weddings.",
+        "Third-person descriptions of Jesus' actions in the past tense."
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and emotionally moved by the 'human condition' but remains an observer of the miracle rather than a participant."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise ('I promise you in His name')"
+      ],
+      "effect_op_hoorder": "The hearer receives 'news about' grace rather than 'the event of' grace."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "Theologically rich but structurally late.",
+      "voorbeelden": [
+        "He has come to pour out his life for us.",
+        "There is the promise of God through faith in Jesus Christ."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "28",
+        "gebruik": "Personal anecdotes and homiletical intent."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Direct address to the congregation's feelings of regret.",
+        "performatieve_context": "Used to bridge the gap between the text and the hearer's life."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Narrating the Gospel story and describing the human condition.",
+        "distantie_effect": "Creates a narrative distance where Jesus is a character in a story being analyzed."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical narrative and personal reminiscence."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about human longing."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final appeal and blessing."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids moralistic legalism.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from the Assertive (The wine ran out) to the Commissive (He gives his life now).",
+      "voorbeelden": [
+        "He sees us, he loves us, and he has come to pour out his life for us."
+      ],
+      "kwaliteit": "The transition is smooth but occurs very late in the sermon."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "There is the promise... remember: no, it is not all."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a masterful piece of evocative 'talking about' the human condition and the Gospel, leading to a comforting conclusion.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary depth",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The analysis of the 'means and mien' ad.",
+        "effect": "Creates profound resonance with the hearer's experience."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The long section on the secular memorial service.",
+        "probleem": "Delays the performative encounter with the Word.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It is an 'event' of recognition, but the 'event' of the Word acting on the hearer is concentrated only in the final paragraphs.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The sermon describes the sacrament (the wine/the table) more than it functions as a sacramental word of power."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, through the preacher's prayer.",
+      "prediker_als_mandataris": "Explicitly stated: 'visit not from myself, but from him'.",
+      "tekstueel_bewijs": [
+        "I asked the Lord... to give me his Spirit and his Word."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes.",
+      "perlocutie_theologie": "Yes, the preacher asks the Spirit to 'confirm this truth'.",
+      "tekstueel_bewijs": [
+        "being built by the Holy Spirit into a fellowship of love."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Partially. It points to the Lord's table as the means of grace.",
+      "epifanisch_taalgebruik": "Strongest at the end.",
+      "tekstueel_bewijs": [
+        "The message of Epiphany is that the Son of God is powerful to save."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon relies heavily on past-tense narrative and present-tense descriptions of human psychology. It needs more present-tense performative verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The wine so freely given represents Jesus’ gift of himself.",
+          "voorgestelde_revisie": "Today, Christ gives himself to you as the wine that never runs dry.",
+          "verschil": "Shifts from a symbolic explanation to a present-tense gift."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is described as a concept ('There is the promise').",
+      "suggestie": "Use direct commissive language.",
+      "voorbeeldzinnen": [
+        "I promise you today, on the authority of Christ, that your regrets are wiped away."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' and 'they' in the first 70% of the sermon.",
+      "suggestie": "Interweave the 'you' earlier into the Cana narrative.",
+      "voorbeeldzinnen": [
+        "You are the host whose wine has run out."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually good; the indicative is dominant.",
+      "suggestie": "N/A"
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A deeply moving and literate sermon that resonates with the human heart. By shifting from 'talking about' the miracle to 'performing' the promise, it would reach full sacramental power."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' in the anecdotes; SAT focuses on whether the preacher's words actually 'do' what they say (convey grace).",
+    "verschil_met_retoriek": "Rhetoric would praise the 'means and mien' illustration for its pathos; SAT asks if that pathos serves a declarative illocution.",
+    "unieke_inzichten_SAT": "SAT reveals that despite the high literary quality, the sermon remains largely in the 'Assertive' mode, describing a reality rather than creating it."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "attended",
+        "went",
+        "found",
+        "began",
+        "wondered",
+        "talked",
+        "came",
+        "turned",
+        "agreed",
+        "read",
+        "depicting",
+        "looks",
+        "grabs",
+        "seeks",
+        "suffer",
+        "recognize",
+        "discover",
+        "represented"
+      ],
+      "directief": [
+        "note",
+        "don't worry",
+        "imagine",
+        "notice",
+        "focus",
+        "remember",
+        "understand"
+      ],
+      "expressief": [
+        "I wondered",
+        "I love",
+        "I take seriously",
+        "I asked"
+      ],
+      "commissief": [
+        "promise",
+        "gives",
+        "goes to prepare"
+      ],
+      "declaratief": [
+        "redeemed",
+        "restored",
+        "confirm"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He has come to pour out his life for us.",
+        "categorie": "ASSERTIVE/COMMISSIVE",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "High - it bridges the story to the hearer."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Theological Liberalism's' literary excellence meeting 'Evangelicalism's' focus on the promise, yet it struggles to break out of the descriptive mode into the purely performative."
+  }
+}

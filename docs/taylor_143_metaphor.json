@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "titel_preek": "The Word Moses Could Not Say",
+    "bijbeltekst": "Exodus 32:32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "offended majesty of God",
+          "treason of a disloyal subject",
+          "break off negotiations",
+          "diplomat moving speedily"
+        ],
+        "conceptuele_metafoor": "SIN IS TREASON AGAINST THE DIVINE SOVEREIGN"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Jesus, who was our purchase price",
+          "gates of hell",
+          "blot me out of the book"
+        ],
+        "conceptuele_metafoor": "SALVATION IS AN ECONOMIC RANSOM"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "long and roundabout journey",
+          "way back to Eden",
+          "way on ahead"
+        ],
+        "conceptuele_metafoor": "FAITH IS A PATH TO RECONCILIATION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Jesus, who was our purchase price at the gates of hell",
+        "brondomein": {
+          "naam": "Marketplace/Ransom",
+          "concrete_elementen": [
+            "currency",
+            "transaction",
+            "gates/boundary"
+          ],
+          "belichaamde_basis": "balance/exchange"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement",
+          "doctrinale_traditie": "Substitutionary Atonement"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Purchase price",
+            "doel_element": "The life/death of Jesus"
+          },
+          {
+            "bron_element": "Seller/Captor",
+            "doel_element": "Hell/Death"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Humanity is a commodity owned by a dark power"
+          ],
+          "theologische_implicaties": [
+            "God must satisfy a debt to free humanity"
+          ],
+          "ethische_implicaties": [
+            "The believer is no longer their own; they are 'bought'"
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests Hell/Satan has a legal right to human souls that God must respect"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Common in evangelical hymnody, though the 'gates of hell' adds a spatial-military nuance."
+      },
+      {
+        "metafoor_expressie": "hiding tenant and a searching Landlord",
+        "brondomein": {
+          "naam": "Property Management",
+          "concrete_elementen": [
+            "Landlord",
+            "Tenant",
+            "Property/Garden"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Original Sin/Fall",
+          "doctrinale_traditie": "Reformed/Augustinian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Landlord",
+            "doel_element": "God"
+          },
+          {
+            "bron_element": "Hiding tenant",
+            "doel_element": "Adam/Humanity"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Humanity occupies space that belongs to God"
+          ],
+          "theologische_implicaties": [
+            "Sin is a breach of a residency contract"
+          ],
+          "ethische_implicaties": [
+            "Accountability for how one 'maintains' the world"
+          ],
+          "onbedoelde_consequenties": [
+            "God as an impersonal or demanding property owner"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "A fresh, relatable re-imagining of the Genesis 3 narrative."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MIXED",
+      "coherentie_verklaring": "The preacher rapidly shifts between Juridical (Treason), Economic (Purchase Price), and Relational (Parent/Child) domains. While these are standard in Christian orthodoxy, the transition from 'Negotiations' to 'Medical Serum' happens without cognitive scaffolding.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Middle Section",
+          "metafoor_a": "God as Diplomat/Negotiator",
+          "metafoor_b": "God as Loving Parent",
+          "conflict_beschrijving": "A diplomat operates on cold, strategic interests; a parent operates on unconditional affection.",
+          "entailment_conflict": "Negotiations can fail or be abandoned; parental love is ontological.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Jesus as a Word",
+            "Jesus as a Name",
+            "Jesus as a Person"
+          ],
+          "blending_strategie": "The 'Missing Word' in the text is personified as the Savior, bridging the gap between the silence of the Law and the presence of Grace."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activating the 'Golden Calf' as a sensory experience (glistening, touching) to contrast with the 'Invisible Jehovah'.",
+        "voorbeeld": "The golden calf glistened in the desert sun... visible, bright and shining."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "Using 'purchase price' can reduce the relationship with God to a financial transaction.",
+        "voorbeeld": "Jesus, who was our purchase price at the gates of hell",
+        "potentiele_impact": "Congregation may view grace as a paid-off debt rather than a restored relationship.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Sinai Wilderness (The Mountain vs. The Valley)",
+      "sub_worlds": [
+        "The Garden of Eden",
+        "The Modern Ghetto",
+        "The Stormy Sea (Personal life)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 7",
+          "van_wereld": "Ancient Sinai",
+          "naar_wereld": "Modern Ghetto/Civil Rights struggle",
+          "effectiviteit": "High; links Moses' sacrifice to MLK Jr."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "GOD IS SOVEREIGN",
+          "hoe_versterkt": "Through juridical language of 'treason' and 'majesty'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as a distant Law-giver",
+          "verstoring_strategie": "Highlighting the 'dash' or 'blank' in the text to show God's emotional pause.",
+          "vervangend_schema": "God as a Reconciler who waits for a mediator."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits strongly with a Call to Repentance or Communion."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is a rich tapestry of classical Protestant metaphors. It leans heavily on the Juridical and Economic domains to establish the gravity of sin, but successfully pivots to the Relational domain to provide comfort. The 'Missing Word' serves as a brilliant meta-metaphor for the insufficiency of the Law.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SIN IS SICKNESS",
+        "huidige_status": "Briefly mentioned as 'serum' and 'antidote' without development.",
+        "suggestie": "Expand on the 'leper's spots' imagery to contrast the external shine of the gold calf with the internal decay of the soul.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The gold was bright on the outside, but the hearts of the dancers were rotting with a fever Moses could not cool."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'Negotiations' to 'Parent/Child'",
+        "resolutie_strategie": "Use the 'Covenant' concept as a bridge—a legal contract that is fundamentally a family bond."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOD IS LANDLORD",
+        "problematisch_entailment": "Landlords can be evicted or indifferent.",
+        "aanbeveling": "Emphasize that the Landlord built the house specifically for the tenant's joy."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To build on the 'hiding tenant' idea, sin could be described as 'squatting' in a temple meant for God.",
+        "doel_concept": "Sanctification"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to bridge the gap between ancient text and modern existential crisis. The 'Missing Word' device is homiletical genius."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'rhythm' of the 'Shame! Shame!', CMT reveals that this repetition anchors the 'Sin as Weight/Burden' schema.",
+    "verschil_met_kolb": "Unlike Kolb's learning cycles, CMT shows how the preacher uses the 'Path' schema to move the hearer from Egypt to Sinai to the Cross.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher's power comes from mapping the 'Invisible God' onto the 'Visible Name' of Jesus, making the abstract concrete."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Missing word/dash",
+      "Highest peaks of reflection",
+      "Long, grim history",
+      "Embryo nation",
+      "Contaminated",
+      "Anchor their faith",
+      "Rallying point",
+      "Luring the people",
+      "Negotiations",
+      "Mortal combat",
+      "Purchase price",
+      "Gates of hell",
+      "Brand out of the fire",
+      "Miry clay",
+      "Hiding tenant",
+      "Searching Landlord",
+      "Offended majesty",
+      "Treason",
+      "Antidote/Serum",
+      "Leper's spots",
+      "Melt a heart of stone",
+      "Set cold lands on fire",
+      "Ship upon the sea"
+    ],
+    "woord_frequentie_analyse": {
+      "Moses": "18",
+      "God": "22",
+      "Jesus": "8",
+      "Sin": "9",
+      "Idolatry": "5",
+      "Name": "7"
+    },
+    "notities": "The preacher uses 'Verticality' (Mountain vs Valley) to establish authority and 'Container' (Book of Life, Household of God) to establish belonging."
+  }
+}

@@ -30,8 +30,9 @@ p1 <- data %>%
   ggplot(aes(x = n, y = mean_var_est, color = theologian, fill = theologian)) +
   geom_line(linewidth = 0.8) +
   geom_ribbon(aes(ymin = q05_var, ymax = q95_var), alpha = 0.15, color = NA) +
-  # The Key Change: Facet by Domain with Free Y Scales
-  facet_wrap(~ domain, scales = "free_y", ncol = 2) +
+  # Facet by Domain with Free Y Scales (3x3 grid for 9 domains)
+  facet_wrap(~ domain, scales = "free_y", nrow = 3, ncol = 3) +
+  scale_x_continuous(breaks = seq(0, 400, by = 20)) +
   theme_minimal() +
   theme(
     legend.position = "bottom",
@@ -46,7 +47,7 @@ p1 <- data %>%
     caption = "Note: Y-axis scales vary significantly between domains."
   )
 
-ggsave(file.path(output_dir, "saturation_faceted_convergence.pdf"), p1, width = 12, height = 10)
+ggsave(file.path(output_dir, "saturation_faceted_convergence.pdf"), p1, width = 14, height = 12)
 
 # ==============================================================================
 # PLOT 2: Stability (SD of Variance) - Faceted by Domain
@@ -57,8 +58,9 @@ cat("Generating Faceted Stability Plot...\n")
 p2 <- data %>%
   ggplot(aes(x = n, y = sd_var_est, color = theologian)) +
   geom_line(linewidth = 0.8) +
-  # Facet by Domain with Free Y Scales
-  facet_wrap(~ domain, scales = "free_y", ncol = 2) +
+  # Facet by Domain with Free Y Scales (3x3 grid for 9 domains)
+  facet_wrap(~ domain, scales = "free_y", nrow = 3, ncol = 3) +
+  scale_x_continuous(breaks = seq(0, 400, by = 20)) +
   theme_minimal() +
   theme(
     legend.position = "bottom",
@@ -73,7 +75,7 @@ p2 <- data %>%
     caption = "Curves flattening towards zero indicate saturation/sufficiency of sample size."
   )
 
-ggsave(file.path(output_dir, "saturation_faceted_stability.pdf"), p2, width = 12, height = 10)
+ggsave(file.path(output_dir, "saturation_faceted_stability.pdf"), p2, width = 14, height = 12)
 
 # ==============================================================================
 # PLOT 3: Normalized Instability (Coefficient of Variation)
@@ -87,9 +89,15 @@ data_norm <- data %>%
 p3 <- data_norm %>%
   ggplot(aes(x = n, y = cv_var, color = domain)) +
   geom_line(linewidth = 0.8, alpha = 0.8) +
-  facet_wrap(~ theologian) +
+  facet_wrap(~ theologian, nrow = 1, ncol = 3) +
+  scale_x_continuous(breaks = seq(0, 400, by = 20)) +
   coord_cartesian(ylim = c(0, 1.0)) + # Focus on the convergence zone
   theme_minimal() +
+  theme(
+    legend.position = "bottom",
+    legend.title = element_blank()
+  ) +
+  guides(color = guide_legend(nrow = 2)) +
   labs(
     title = "Relative Saturation Speed (Normalized)",
     subtitle = "Coefficient of Variation (SD / Mean) of the Variance Estimate",
@@ -98,6 +106,6 @@ p3 <- data_norm %>%
     caption = "Comparison of how fast each domain stabilizes relative to its own magnitude."
   )
 
-ggsave(file.path(output_dir, "saturation_normalized_comparison.pdf"), p3, width = 12, height = 6)
+ggsave(file.path(output_dir, "saturation_normalized_comparison.pdf"), p3, width = 14, height = 6)
 
 cat("Done. Created faceted plots in", output_dir, "\n")

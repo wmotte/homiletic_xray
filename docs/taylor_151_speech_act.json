@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "titel_preek": "Jesus Christ",
+    "bijbeltekst": "John 1:17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A Christological survey focusing on the dual nature of Jesus (humanity and divinity) and his titles throughout Scripture.",
+      "exegetische_kwaliteit": "Theological and synthetic rather than analytical; uses John 1, Hebrews, and Old Testament types to build a portrait of Christ.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the identity of Christ and expressing the preacher's awe, with occasional shifts into direct proclamation.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I want to talk about him this morning",
+        "He is the anointed of God",
+        "Jesus Christ can still save and bless each of us"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Awe, reassurance of Christ's proximity (humanity), and worshipful recognition of his divinity.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "rejoice",
+        "appreciate",
+        "resonate"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "The law came by Moses.",
+        "Our Lord lived here.",
+        "He is the fulfillment of what men did not know."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "stands",
+        "spoke"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "Listen, 'Grace and truth came by Jesus Christ'.",
+        "Never give that up, Christian.",
+        "Can you not say it, too?"
+      ],
+      "dominante_werkwoorden": [
+        "listen",
+        "think",
+        "give up",
+        "behold"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "22",
+      "procent": "12%",
+      "voorbeelden": [
+        "My soul and mind take great comfort.",
+        "I read thankfully that he became thirsty.",
+        "I cannot explain it, but my soul... exults."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "wish",
+        "comfort",
+        "exult"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "That name, Jesus Christ, can still save and bless each of us."
+      ],
+      "dominante_werkwoorden": [
+        "save",
+        "bless"
+      ],
+      "kwaliteit": "Weak; the promises are framed as possibilities ('can') rather than direct divine commitments ('He does')."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "Behold, I show you a mystery."
+      ],
+      "dominante_werkwoorden": [
+        "show"
+      ],
+      "autoriteit": "The preacher acts more as a witness/narrator than a sacramental officer."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "I want to talk about him",
+        "The preacher's job is to explain",
+        "Traces his genealogy"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a theological portrait rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Information about Christ's power is provided, but the power is not directly applied to the hearer's current situation."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "General and third-person focused.",
+      "voorbeelden": [
+        "He is our peace and pardon."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Preacher's personal anecdotes and feelings ('I asked', 'I feel')."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "General address ('You and I', 'Can you not say').",
+        "performatieve_context": "Rarely used for direct promise; mostly for shared reflection."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing Jesus and historical figures.",
+        "distantie_effect": "Creates a 'museum' effect where Christ is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical narrative of Jesus and the early church."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions of who Christ is."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate moment of preaching."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Explanation of Christ) -> Directive (Believe/Appreciate).",
+      "voorbeelden": [
+        "I want to talk about him... see how in him we are blessed."
+      ],
+      "probleem": "The blessing is talked about as a fact rather than bestowed as a gift."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the move from explanation to direct sacramental application.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "He is our peace... Can you not say it, too?"
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "We ought to appreciate... [because of history]"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a high-quality lecture on Christology. It describes the 'event' of Christ's life but does not function as a 'Christ-event' in the present tense.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "Exegesis",
+        "tekstueel_bewijs": "Traces him back to Adam... back to eternity.",
+        "effect": "Provides a rich intellectual framework for faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "I want to talk about him this morning.",
+        "probleem": "Objectifies the subject.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "The sermon feels like a tribute to a great figure rather than a living encounter with a present Lord.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'I-Thou' address where the preacher speaks on behalf of God to the congregation."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; the preacher is the speaker talking about God.",
+      "prediker_als_mandataris": "Weak; the preacher sees himself as an 'explainer' more than a 'herald'.",
+      "tekstueel_bewijs": [
+        "The preacher's job is to explain and proclaim."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly relies on the beauty of the rhetoric to move the heart.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is a 'gesture of thankfulness' rather than a means of grace.",
+      "epifanisch_taalgebruik": "Limited to the final litany.",
+      "tekstueel_bewijs": [
+        "He is our peace and pardon."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'is/was' (Assertives). Needs more 'I give/He grants' (Commissives/Declaratives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus Christ can still save and bless each of us.",
+          "voorgestelde_revisie": "Today, Jesus Christ saves you and blesses you.",
+          "verschil": "Moves from potentiality to actuality."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace is described as a historical fact.",
+      "suggestie": "Use the 'Toezegging' (Promise) to bridge the gap between the cross and the pew.",
+      "voorbeeldzinnen": [
+        "Because He was thirsty, He now gives you the water of life."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'He' and 'I', not enough 'You'.",
+      "suggestie": "Address the congregation directly as the recipients of Christ's work.",
+      "voorbeeldzinnen": [
+        "He is your brother, your Savior, your God."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The ratio is actually okay, but the indicative is too 'distant'.",
+      "suggestie": "Make the indicative performative."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is homiletically beautiful but needs to shift from 'talking about' the hem of the garment to 'placing the garment' on the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his trip to Australia); SAT reveals this as a distraction from the illocutionary act of proclamation.",
+    "verschil_met_retoriek": "Rhetorically, the ending is a 'tour de force', but SAT asks if it actually *does* what it says.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the high Christology, the sermon remains a lecture because it lacks commissive force."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "came",
+        "lived",
+        "traces",
+        "spoke",
+        "reigned"
+      ],
+      "directief": [
+        "listen",
+        "behold",
+        "think",
+        "appreciate"
+      ],
+      "expressief": [
+        "feel",
+        "comfort",
+        "exult",
+        "thank"
+      ],
+      "commissief": [
+        "save",
+        "bless"
+      ],
+      "declaratief": [
+        "show"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I want to talk about him this morning.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Weak",
+        "effectiviteit": "Low; signals a lecture format."
+      }
+    ],
+    "notities": "The preacher uses the 'failure' of the sermon as a rhetorical trope, which is an expressive act, but it doesn't solve the constative surplus."
+  }
+}

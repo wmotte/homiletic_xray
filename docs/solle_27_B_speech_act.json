@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "titel_preek": "Lachen und Essen – Das christliche Abendmahl",
+    "bijbeltekst": "1 Korinther 11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2200"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A dialogue-based Bible study (Bibelarbeit) between Sölle and Schottroff focusing on the social-ethical dimensions of the Lord's Supper, historical context in Corinth, and contemporary political applications (debt relief).",
+      "exegetische_kwaliteit": "High historical-critical and social-historical awareness; focuses on the 'Sättigungsmahl' and class conflict in Corinth.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is teaching, narrating personal experiences, and arguing for a specific ethical interpretation of the sacrament.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "6",
+      "voorbeelden": [
+        "Ich will eins meiner schönsten Kirchenerlebnisse hier erzählen",
+        "Diese Vorstellung von Heiligkeit stammt aus der jüdischen Tradition",
+        "Wir möchten diese Bibelarbeit nicht mit Auslegung beginnen"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To change the hearer's political awareness and to reduce fear of the sacrament by intellectualizing it as a meal of solidarity.",
+      "pneumatologisch_bewustzijn": "Low; the focus is on human action (sharing, healing) rather than the Spirit's agency.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "politicize",
+        "reflect",
+        "share",
+        "protest"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "Die Gemeinde war attraktiv",
+        "Das christliche Abendmahl ist aus dem jüdischen Gemeinschaftsmahl entstanden",
+        "Wir leben in einer Welt der Ausgrenzung"
+      ],
+      "dominante_werkwoorden": [
+        "sein",
+        "haben",
+        "erzählen",
+        "meinen",
+        "entstehen"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "You have to go to City Hall!",
+        "Wir sollten die Ungerechtigkeit der Schuldenfalle in unsere Liturgien einbeziehen"
+      ],
+      "dominante_werkwoorden": [
+        "müssen",
+        "sollen",
+        "brauchen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "22",
+      "procent": "12%",
+      "voorbeelden": [
+        "Ich war glücklich zu sehen",
+        "Ich sehne mich nach Gott",
+        "Wir leiden an ihr"
+      ],
+      "dominante_werkwoorden": [
+        "freuen",
+        "sehnen",
+        "hoffen",
+        "leiden"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "Einmal wird es sein, dass die Wüste blüht"
+      ],
+      "dominante_werkwoorden": [
+        "werden"
+      ],
+      "kwaliteit": "Weak; the 'promises' are framed as personal hopes or future visions rather than God binding Himself to the hearer now."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "Gott ereignet sich da, wo Teilen und Heilen geschieht"
+      ],
+      "dominante_werkwoorden": [
+        "ereignen"
+      ],
+      "autoriteit": "Low; the text describes the conditions for God's action rather than performing a divine act (e.g., Absolution)."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical reporting ('Damals in Korinth')",
+        "Personal anecdotes used as illustrations rather than address",
+        "Theological 'responses' to social issues"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a lecture or a witness to a conversation between two experts, rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct address of the Gospel promise",
+        "Absolution",
+        "Sacramental 'I-Thou' address"
+      ],
+      "effect_op_hoorder": "The hearer is left with ethical tasks (Directives) without the performative foundation of grace (Commissives)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "Non-existent; grace is discussed as a concept of 'sharing' but not promised to the individual.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Used for personal anecdotes ('Ich habe erlebt') and collective 'we' ('Wir suchen')."
+      },
+      "tweede_persoon": {
+        "frequentie": "Very Low",
+        "gebruik": "Almost exclusively in quotes or hypothetical questions ('Träumst Du ook?').",
+        "performatieve_context": "None"
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Describing the Corinthian community, the poor, or the church as an object.",
+        "distantie_effect": "Creates a lecture-like distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical exegesis and personal memories."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General ethical truths and social analysis."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate 'now' of the speaking situation."
+      }
+    },
+    "adressering_effectiviteit": "3"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Social Analysis) -> Directive (We must share/protest).",
+      "voorbeelden": [
+        "Wir leben in einer Welt der Ausgrenzung... An unserm Verhalten hängt es, diesen Druck laut zu machen."
+      ],
+      "probleem": "The imperative (sharing) is not grounded in a performative gift of grace, but in social necessity."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of the 'Toezegging' (Promise).",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Teilen und Heilen gehören mitten in die Frömmigkeit... Wir sollten die Ungerechtigkeit... einbeziehen."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The text functions as a 'Bibelarbeit' (Bible study) rather than a sermon. It talks *about* the sacrament as a social event but does not *perform* the sacrament as a divine event.",
+    "sterke_punten": [
+      {
+        "aspect": "Social Context",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Analysis of the 'Gerstenbrei' in Corinth.",
+        "effect": "Makes the biblical text historically vivid."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Performative Force",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The whole text lacks a 'Thus says the Lord' or 'I say to you'.",
+        "probleem": "No encounter with the living God; only with social ideals.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": "2",
+    "gebeuren_toelichting": "It is an intellectual event (learning), not a sacramental event (encounter).",
+    "sacramentele_kracht": "1",
+    "sacramentele_toelichting": "The sacrament is reduced to a 'symbolic rite of sharing' (horizontal) rather than a 'means of grace' (vertical/performative)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; the speakers are Sölle and Schottroff reflecting on God.",
+      "prediker_als_mandataris": "No; they speak as 'grandmothers' or 'theologians', not as ambassadors of Christ.",
+      "tekstueel_bewijs": [
+        "Wir möchten diese Bibelarbeit... beginnen",
+        "Ich will... erzählen"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is sought through social pressure and ethical appeal, not the Spirit.",
+      "tekstueel_bewijs": [
+        "An unserm Verhalten hängt es, diesen Druck laut und sichtbar zu machen."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No",
+      "epifanisch_taalgebruik": "No; it is descriptive and analytical.",
+      "tekstueel_bewijs": [
+        "Das Abendmahl ist nicht ein symbolischer Ritus, sondern ein Ritus des gemeinsamen Essens."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The text is paralyzed by 3rd person past tense and 1st person plural ethical 'shoulds'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Das geteilte Brot wird zum Zeichen der solidarischen Gemeinschaft.",
+          "voorgestelde_revisie": "Christus gibt sich dir in diesem Brot, damit du lebst.",
+          "verschil": "Shifts from a sociological description to a performative gift."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Grace is a topic, not a gift.",
+      "suggestie": "Insert a clear Commissive act where God's forgiveness is applied to the hearer.",
+      "voorbeeldzinnen": [
+        "Dir ist vergeben.",
+        "Christus lädt dich heute an seinen Tisch."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'You' (Du/Ihr) is missing.",
+      "suggestie": "Address the congregation directly as the 'Body of Christ' here and now.",
+      "voorbeeldzinnen": [
+        "Ihr seid der Leib Christi."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to share is a burden because the indicative of being loved is not performed.",
+      "suggestie": "Base the call to justice on the declarative 'You are freed from the debt of sin'."
+    },
+    "overall_beoordeling": "WEAK",
+    "slotopmerking": "While ethically passionate, this text remains a lecture about the Lord's Supper. To become a sermon-event, it must move from 'talking about' sharing to 'performing' the gift of Christ."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would see this as a successful 'Appeal' and 'Self-disclosure'. SAT reveals it fails as a 'Declarative' act of God.",
+    "verschil_met_retoriek": "Rhetorically it is a good narrative; homiletically it lacks illocutionary force.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'we' and 'us', the hearer is never actually addressed by God."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "war",
+        "entstand",
+        "bedeutete",
+        "ist",
+        "erzählte"
+      ],
+      "directief": [
+        "müssen",
+        "sollten",
+        "brauchen"
+      ],
+      "expressief": [
+        "sehne",
+        "freute",
+        "leiden"
+      ],
+      "commissief": [
+        "wird sein"
+      ],
+      "declaratief": [
+        "ereignet"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Das Abendmahl ist nicht ein symbolischer Ritus, sondern ein Ritus des gemeinsamen Essens.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Defining/Describing",
+        "effectiviteit": "Informative but not transformative."
+      }
+    ],
+    "notities": "The text is a classic example of 'Constative Surplus' where the history of the sacrament replaces the presence of the sacrament."
+  }
+}

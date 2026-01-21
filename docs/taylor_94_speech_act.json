@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "titel_preek": "The Elements Of Evangelism",
+    "bijbeltekst": "Isaiah 40:31, 1 Corinthians 9:16",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher describes the historical identity of Baptists, the current socio-political crisis of America (1950s context), the psychological state of the modern person, and the narrative of Christ's life and passion.",
+      "exegetische_kwaliteit": "Moderate. The exegesis is more topical and cultural than textual. Scripture is used as an illustrative capstone rather than the source of the movement.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is ASSERTING the state of the world and the nature of the Gospel, followed by DIRECTING the congregation to become evangelistic witnesses.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "If we Baptists are not evangelistic, we are not Baptists.",
+        "The gospel is the wild, exultant Word of a God free of guilt.",
+        "You and I are called upon to give voice."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To inspire a sense of denominational pride and a subsequent motivation to engage in personal evangelism.",
+      "pneumatologisch_bewustzijn": "Low. The focus is on human effort ('The world waits for people who...') rather than the Spirit's agency in the speech act.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "witness",
+        "evangelize",
+        "feel",
+        "repent"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "84",
+      "procent": "70%",
+      "voorbeelden": [
+        "We are heirs of a great heritage.",
+        "Ours is a generation suffering shock.",
+        "The gospel is the account of a God who has made common cause."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "was",
+        "have been"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "15%",
+      "voorbeelden": [
+        "We should have so borne ourselves.",
+        "You and I are called upon to give voice.",
+        "Go tell it on the mountain."
+      ],
+      "dominante_werkwoorden": [
+        "must",
+        "should",
+        "called upon",
+        "go"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "10%",
+      "voorbeelden": [
+        "I dare to assert.",
+        "I hope you will forgive me.",
+        "Ah, but today we are hated."
+      ],
+      "dominante_werkwoorden": [
+        "dare",
+        "hope",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "God holding fast.",
+        "He is now, guiding, succoring..."
+      ],
+      "dominante_werkwoorden": [
+        "guiding",
+        "strengthening"
+      ],
+      "kwaliteit": "Weak. The promises are described as general theological truths (Assertives) rather than direct commitments from God to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "Praise God from whom all blessings flow."
+      ],
+      "dominante_werkwoorden": [
+        "praise"
+      ],
+      "autoriteit": "Low. The preacher describes declarations made by others (the miner) rather than declaring grace directly to the congregation."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Long historical and political descriptions.",
+        "Theological definitions of what the Gospel 'is' (3rd person).",
+        "Illustrations about Lincoln and Washington that remain at the level of analogy."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of history and theology rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise ('God promises you')",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "Information overload leading to moralistic pressure (Directive) without the enabling power of the Promise (Commissive)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "Non-existent as a direct address.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Used as 'We' (Baptists/Americans) to create corporate identity."
+      },
+      "tweede_persoon": {
+        "frequentie": "Low",
+        "gebruik": "Used primarily to place a burden of duty ('You and I are called upon').",
+        "performatieve_context": "Minimal."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Talking about 'the generation', 'the gospel', 'God', 'the miner'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where God is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical Baptist identity and the life of Jesus."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about the Gospel and human nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate call to evangelize."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (The world is bad/The Gospel is good) -> Directive (So you must go tell it).",
+      "voorbeelden": [
+        "The gospel is... [Assertive] ... You and I are called upon to give voice [Directive]."
+      ],
+      "probleem": "It skips the performative 'Toezegging' (Promise) that gives the hearer the power to obey the directive."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Faced with a huge human deficiency... there remains for a person... a great and imperative urgency."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "The sermon is a high-quality rhetorical appeal that uses Gospel facts to motivate human action, but it fails to 'do' the Gospel to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Rhetorical Imagery",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The 'North Star by which we have sailed the centuries.'",
+        "effect": "Engages the imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Objectification of Grace",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The gospel is the account of a God...",
+        "probleem": "Grace is a topic, not a gift given in the moment.",
+        "ernst": "High"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a lecture about an event, not an event itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'I-Thou' address of God to the sinner."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the preacher's sentences, not the speaker of the sermon.",
+      "prediker_als_mandataris": "Weak. The preacher speaks as a denominational representative.",
+      "tekstueel_bewijs": [
+        "If we Baptists are not..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is sought through rhetorical persuasion rather than reliance on the Spirit.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a 'call to action' rather than a 'means of grace'.",
+      "epifanisch_taalgebruik": "Minimal.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is drowning in 'to be' verbs (is/are) and 'should/must' verbs. It needs 'I promise' and 'I declare' verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The gospel is the account of a God who has made common cause with our humanity.",
+          "voorgestelde_revisie": "Today, in this word, God makes common cause with YOU; He enters your dungeon to set YOU free.",
+          "verschil": "Moves from a general description to a direct, performative encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The Gospel is described as a 'precious document' but it is never handed to the hearer.",
+      "suggestie": "Insert a direct address of pardon.",
+      "voorbeeldzinnen": [
+        "On behalf of Christ, I declare to you: your shame is borne, and you are free."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'We' (corporate) and 'They' (the world).",
+      "suggestie": "Use 'You' to address the individual conscience.",
+      "voorbeeldzinnen": [
+        "You, who are jaded and frightened, hear this: Christ is for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The urgency (imperative) is based on a deficiency, not on the overflow of a received promise.",
+      "suggestie": "Make the 'witnessing' a natural perlocutionary effect of the 'pardon' given in the sermon."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically brilliant but homiletically 'stuck' in the constative. By shifting from 'talking about' the Gospel to 'performing' the Gospel, it could become a true sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Appeal' (Sachebene), but SAT reveals that the 'Appeal' is empty because the 'Declarative' (the reality-changing word) is missing.",
+    "verschil_met_retoriek": "Rhetorically, this is a 10/10. Homiletically (SAT), it is a 4/10 because it persuades rather than proclaims.",
+    "unieke_inzichten_SAT": "SAT identifies that the preacher is acting as a journalist of the Gospel rather than an ambassador of the King."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "are",
+        "have been",
+        "was",
+        "epitomized",
+        "reflect",
+        "afflict",
+        "investing"
+      ],
+      "directief": [
+        "should have",
+        "must",
+        "called upon",
+        "go",
+        "tell"
+      ],
+      "expressief": [
+        "dare",
+        "hope",
+        "hated",
+        "suspected"
+      ],
+      "commissief": [
+        "holding fast",
+        "guiding",
+        "succoring"
+      ],
+      "declaratief": [
+        "praise"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The gospel is the wild, exultant Word of a God free of guilt.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Descriptive",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "You and I are called upon to give voice.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Obligation",
+        "effectiviteit": "Creates pressure without power."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'miner' illustration to do the performative work that the preacher himself avoids doing directly."
+  }
+}

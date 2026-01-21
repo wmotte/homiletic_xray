@@ -37,7 +37,8 @@ p1 <- data_zoomed %>%
   geom_line(linewidth = 1) +
   geom_ribbon(aes(ymin = q05_var, ymax = q95_var), alpha = 0.1, color = NA) +
   geom_point(size = 1.5) + # Add points to see the steps clearly
-  facet_wrap(~ domain, scales = "free_y", ncol = 2) +
+  facet_wrap(~ domain, scales = "free_y", nrow = 3, ncol = 3) +
+  scale_x_continuous(breaks = seq(0, 400, by = 20)) +
   theme_minimal() +
   theme(
     legend.position = "bottom",
@@ -52,7 +53,7 @@ p1 <- data_zoomed %>%
     caption = "Free Y-scales. Including N >= 5 reveals initial drops."
   )
 
-ggsave(file.path(output_dir, "saturation_zoomed_convergence.pdf"), p1, width = 12, height = 10)
+ggsave(file.path(output_dir, "saturation_zoomed_convergence.pdf"), p1, width = 14, height = 12)
 
 # ==============================================================================
 # PLOT 2: Zoomed Stability (How much does the estimate still jump?)
@@ -61,7 +62,8 @@ p2 <- data_zoomed %>%
   ggplot(aes(x = n, y = sd_var_est, color = theologian)) +
   geom_line(linewidth = 1) +
   geom_point(size = 1.5) +
-  facet_wrap(~ domain, scales = "free_y", ncol = 2) +
+  facet_wrap(~ domain, scales = "free_y", nrow = 3, ncol = 3) +
+  scale_x_continuous(breaks = seq(0, 400, by = 20)) +
   theme_minimal() +
   theme(
     legend.position = "bottom",
@@ -76,7 +78,7 @@ p2 <- data_zoomed %>%
     caption = "Free Y-scales. Shows residual fluctuation in the estimate."
   )
 
-ggsave(file.path(output_dir, "saturation_zoomed_stability.pdf"), p2, width = 12, height = 10)
+ggsave(file.path(output_dir, "saturation_zoomed_stability.pdf"), p2, width = 14, height = 12)
 
 # ==============================================================================
 # PLOT 3: Rate of Change (Percentage Change in Variance Estimate)
@@ -97,9 +99,13 @@ p3 <- data_change %>%
   geom_hline(yintercept = 5, linetype = "dashed", color = "gray50") + # 5% threshold
   geom_line(linewidth = 0.8) +
   geom_point(size = 1) +
-  facet_wrap(~ domain, ncol = 2) + # Fixed scale here might be better to compare domains? No, free is safer.
+  facet_wrap(~ domain, nrow = 3, ncol = 3) +
+  scale_x_continuous(breaks = seq(0, 400, by = 20)) +
   coord_cartesian(ylim = c(0, 20)) + # Focus on 0-20% change
   theme_minimal() +
+  theme(
+    legend.position = "bottom"
+  ) +
   labs(
     title = "Saturation: Rate of Change (Zoomed: N >= 5)",
     subtitle = "Percentage change in Variance Estimate from previous step",
@@ -108,6 +114,6 @@ p3 <- data_change %>%
     caption = "Dashed line = 5% threshold. Values consistently below line indicate saturation."
   )
 
-ggsave(file.path(output_dir, "saturation_rate_of_change.pdf"), p3, width = 12, height = 10)
+ggsave(file.path(output_dir, "saturation_rate_of_change.pdf"), p3, width = 14, height = 12)
 
 cat("Done. Created zoomed plots in", output_dir, "\n")

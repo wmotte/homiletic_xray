@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "Betrayal",
+    "bijbeltekst": "Luke 22:47-48",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus journeys toward the cross (The Road to Calvary) to die for humanity, enduring the specific agony of betrayal by a friend.",
+      "subject": {
+        "identificatie": "Jesus / The Lord",
+        "tekstueel_bewijs": [
+          "our Lord's journey toward crucifixion and death",
+          "Jesus is on his way to die for you and me",
+          "The odyssey of God's love moves now toward its climax"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The Cross / Salvation of 'you and me' / Fulfillment of God's will",
+        "tekstueel_bewijs": [
+          "suffering unto death for us on the cross",
+          "Jesus is on his way to die for you and me"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / God's Love",
+        "tekstueel_bewijs": [
+          "the odyssey of God's love",
+          "not as I will, but as thou wilt"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity ('you and me')",
+        "tekstueel_bewijs": [
+          "suffering unto death for us",
+          "die for you and me"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Consecrated imagination / The Spirit (implied)",
+        "tekstueel_bewijs": [
+          "mounting on wings of consecrated imagination"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Judas / Betrayal / Sin / The Cup of Sorrow",
+        "tekstueel_bewijs": [
+          "the slimy act of turning a friend... over to his enemies",
+          "the bitter dregs, the elements of the dread concoction"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Betrayal is framed as a 'cosmic term' affecting the very soul of the Son of God."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer must identify and pluck out the 'bitter weeds' of sin to avoid betraying Jesus like Judas did.",
+      "subject": "The Hearer ('Christian man, woman')",
+      "object": "Moral integrity / Loyalty to Jesus",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon moves from what Jesus did (Primary) to what the hearer must do to avoid repeating Judas's sin (Secondary)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Love → Salvation → You and Me",
+      "helper_subject_tegenstander": "The Father's Will → Jesus ← Judas/Betrayal",
+      "subject_naar_object": "Jesus → The Cross"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "18",
+      "mens_als_subject_count": "24",
+      "ratio": "0.75",
+      "voorbeelden_god_subject": [
+        "Jesus is on his way to die for you and me.",
+        "The Lord had chosen him.",
+        "Jesus looks at him."
+      ],
+      "voorbeelden_mens_subject": [
+        "You and I have betrayed our Lord.",
+        "Judas was guilty of this.",
+        "Beg the Lord to help you pluck it out now."
+      ],
+      "rutledge_score": "7"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "opportunity places great responsibility",
+          "we must say, 'This is it'"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I am anxious for you to see",
+          "attempts to advance ourselves"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "The preacher... pondered some of the things",
+          "having been exposed to the Word of God"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "with God's grace and Christ's help",
+          "beg the Lord to help you pluck it out"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes that while humans are prone to betrayal (lack of power), they must seek the 'Pouvoir' (power) from God to change."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Fidelity/Friendship",
+      "s2": "Betrayal/Enmity",
+      "niet_s1": "Indifference/Roman Soldiers",
+      "niet_s2": "Repentance/Plucking out the weed"
+    },
+    "beweging_in_preek": "Moves from S1 (Jesus as friend) to S2 (Judas's betrayal) to ~S2 (the call to straighten it out now).",
+    "theologische_resolutie": "Jesus remains a 'Friend' even in the face of betrayal, offering a path back from S2.",
+    "ernst_van_s2": "Very high; betrayal is described as 'slimy', 'loathsome', and 'hideous'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While there is a strong moral warning, the engine of the sermon is the 'odyssey of God's love' and Jesus's persistent friendship despite human failure.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (Negative)",
+        "tekstueel_bewijs": "I would want us to see ourselves in this... when you and I have betrayed our Lord.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Primary Subject of Salvation",
+        "tekstueel_bewijs": "Jesus is on his way to die for you and me.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Unconditional Friendship",
+        "tekstueel_bewijs": "Friend, I am still on your side.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Judas is used as a negative exemplar of what happens when one allows 'bitter weeds' to grow.",
+      "bijbelse_figuren_als_model": [
+        "Judas"
+      ],
+      "alternatieve_lezing": "Focus on Jesus as the one who remains faithful when all friends (including the hearer) betray Him."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "OPPONENT",
+      "effect_op_hoorder": "Conviction of sin and realization of the need for grace.",
+      "theologische_implicatie": "Total depravity/Human frailty vs. Divine faithfulness."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The sermon beautifully integrates the historical narrative of Judas with the contemporary experience of the hearer.",
+      "spanning_punten": [
+        "The tension between 'Judas, of all people' (responsibility) and 'Friend, I am still on your side' (grace)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Jesus is on his way to die for you and me.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon asks the Lord to 'help you pluck it out', implying an external endowment of power."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Severe; sin is a 'process of corruption' and 'bitter weed'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully keeps Jesus as the Subject of the primary salvific action while using Judas to convict the hearer.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as Judas (Opponent) can lead to despair.",
+      "voorgestelde_identificatie": "Hearer as the 'Friend' who is sought by Jesus.",
+      "strategie": "Emphasize that Jesus calls the betrayer 'Friend' before the betrayer repents."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Devoir (responsibility).",
+      "voorgestelde_balans": "Increase Pouvoir (the Spirit's enabling).",
+      "concrete_suggestie": "Expand on how the 'Friendship of Jesus' actually provides the power to change."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly intensified.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The description of betrayal is already visceral."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Maintain the current flow from Christ's suffering to our response."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful, Christ-centered sermon that uses narrative structure to bridge the gap between the biblical text and the hearer's soul."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Focuses on the functional roles (Actants) rather than just the emotional metaphors of the 'cup'.",
+    "verschil_met_exegese": "Looks at the narrative 'engine' of the Road to Calvary rather than just the Greek meaning of 'kiss'.",
+    "unieke_inzichten_greimas": "Reveals that the hearer is positioned as the 'Opponent' who is being invited back into the role of 'Receiver' by the 'Subject' (Jesus)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (journeyed, met, looked, recoiled, prayed, died, speaks, looks)",
+      "Judas (went, drew near, betrayed, led, threw away, stole)",
+      "We/You (betrayed, turned him over, hear, lie, cheat, steal)"
+    ],
+    "volledige_object_lijst": [
+      "The Cup",
+      "The Cross",
+      "The Secrets of the Kingdom",
+      "Forgiveness/Friendship"
+    ],
+    "werkwoord_frequentie": {
+      "betray": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "suffer/die": {
+        "count": "6",
+        "primair_subject": "God"
+      },
+      "look/see": {
+        "count": "10",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the 'Friend' actant to bridge the gap between Opponent and Receiver."
+  }
+}

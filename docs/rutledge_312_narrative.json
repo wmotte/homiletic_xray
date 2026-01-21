@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "Clint’s Got It",
+    "bijbeltekst": "Romans 11:32",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God subjects all of humanity to the state of disobedience/judgment so that He may unilaterally exercise mercy upon them through Christ.",
+      "subject": {
+        "identificatie": "God",
+        "tekstueel_bewijs": [
+          "God has consigned all men to disobedience",
+          "that he may have mercy upon all",
+          "he alone is God and that human destiny is in his hands",
+          "he has found the way... to condemn us into everlasting redemption"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Mercy / Everlasting Redemption",
+        "tekstueel_bewijs": [
+          "everlasting redemption",
+          "mercy upon all",
+          "freedom from sin, freedom from guilt"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Holy/Just One)",
+        "tekstueel_bewijs": [
+          "the blazing holiness of God",
+          "God is both just and merciful"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "All men (The Ungodly/Sinners)",
+        "tekstueel_bewijs": [
+          "consigned all men",
+          "mercy upon all",
+          "world of sinners for whom Christ died"
+        ],
+        "positie_hoorder": "The hearer is explicitly placed in the position of the Receiver (the one who 'has it coming')."
+      },
+      "helper": {
+        "identificatie": "Jesus Christ / The Cross",
+        "tekstueel_bewijs": [
+          "through our Lord and Savior Jesus Christ",
+          "the Crucifixion of the Son of God remains the unique and central feature"
+        ],
+        "rol_van_god": "God is the Subject who uses the Cross as the instrument of salvation.",
+        "rol_van_geest": "Implicit; the Spirit is the one making the message 'liberating' to the soul."
+      },
+      "tegenstander": {
+        "identificatie": "Sin / The illusion of righteousness / Human inability",
+        "tekstueel_bewijs": [
+          "all that is wrong with us",
+          "the relentless struggle to think well of herself",
+          "self-deception"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is presented as a universal 'consignment' from which no human can stand or escape by their own power."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The church/believer acknowledging their sin as a testimony to God's holiness.",
+      "subject": "The Believer / The Church",
+      "object": "Honest confession / Solidarity with sinners",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (confession/ethics) is a response to the primary program (God's judgment/mercy)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Justice/Holiness) → Redemption → All Humanity",
+      "helper_subject_tegenstander": "The Cross → God ← Universal Sin/Disobedience",
+      "subject_naar_object": "God → Mercy"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "6",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has consigned all men",
+        "He may have mercy upon all",
+        "He has found the way"
+      ],
+      "voorbeelden_mens_subject": [
+        "We all have it coming",
+        "We acknowledge our weakness",
+        "We shall all stand before the judgment seat"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "it is our Christian duty to see it"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "grasping at prerogatives"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "knowledge of our fault",
+          "knowledge that God is both just and merciful"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "nothing that we can do to change that fact",
+          "who shall 'scape whipping?",
+          "no one could stand before him"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on human 'non-pouvoir' (inability) met by God's sovereign 'pouvoir' (power to redeem)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Mercy/Redemption",
+      "s2": "Judgment/Condemnation",
+      "niet_s1": "Self-Righteousness/Religion",
+      "niet_s2": "Impunity/Ignoring Sin"
+    },
+    "beweging_in_preek": "Moves from S2 (We all have it coming) to the negation of ~S1 (Religion/Righteousness) to the resolution in S1 (Everlasting Redemption).",
+    "theologische_resolutie": "The tension is resolved by God 'condemning' us into 'redemption'—merging the contrary terms through the Cross.",
+    "ernst_van_s2": "Extremely high; the sermon insists no one escapes the whipping."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. God is the primary actor; humans are the passive recipients of a mercy they cannot earn and a judgment they cannot avoid.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Duty-based language regarding film",
+        "tekstueel_bewijs": "it is our Christian duty to see [Schindler's List]",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of salvation",
+        "tekstueel_bewijs": "God has consigned all men... that he may have mercy",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Total human inability",
+        "tekstueel_bewijs": "nothing — nothing — that we can do to change that fact",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Schindler is specifically used NOT as an example to follow, but as a 'Righteous Person' who likely felt his own unrighteousness.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Schindler is a mirror for the hearer's own inadequacy."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and liberation from the 'relentless struggle' of self-justification.",
+      "theologische_implicatie": "Monergistic salvation; grace is a 'charter' given, not a goal achieved."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The narrative engine (God's mercy) perfectly matches the rhetorical surface.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "world of sinners for whom Christ died",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses more on the Father's decree and the Son's work than the Spirit's internal work."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total; it 'puts religion out of business'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon maintains a strict Greimassian structure where God is the Subject and humanity is the Receiver of an Object (Mercy) they cannot produce.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy on Pouvoir (God's power) and Non-Pouvoir (Man's inability).",
+      "voorgestelde_balans": "Maintain as is; this is the 'Grammar of Grace'.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "The opponent (Sin/Judgment) is already presented as an inescapable 'whipping'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Program 1) clearly grounds the response of the church (Program 2)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in grace-oriented homiletics that refuses to turn the Gospel into a 'to-do' list."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric might focus on the use of pop-culture (Clint Eastwood), semiotics reveals that Eastwood is used as a 'Sender' of the law that God fulfills.",
+    "verschil_met_exegese": "Goes beyond explaining Romans 11 to showing how the 'actantial engine' of the text is mirrored in the sermon's own structure.",
+    "unieke_inzichten_greimas": "Reveals that the 'liberation' felt by the hearer comes from being moved from the 'Subject' position (trying to be righteous) to the 'Receiver' position (being declared righteous)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (consigned)",
+      "He (may have mercy)",
+      "Clint (utters)",
+      "Paul (says)",
+      "We (all have it coming)",
+      "God (has found the way)"
+    ],
+    "volledige_object_lijst": [
+      "mercy",
+      "everlasting redemption",
+      "freedom",
+      "disobedience"
+    ],
+    "werkwoord_frequentie": {
+      "mercy/save": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "sin/fail": {
+        "count": "8",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon successfully avoids the 'Helper' trap where God is merely an assistant to human effort."
+  }
+}

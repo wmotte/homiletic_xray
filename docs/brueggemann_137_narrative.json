@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "A City Hard to Love . . . but Loved",
+    "bijbeltekst": "Luke 13:31–35; Luke 19:41–44",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus enters the hostile city of Jerusalem to perform transformative work (healing, casting out demons) despite the threat of death, demonstrating a 'tough love' that seeks the city's shalom.",
+      "subject": {
+        "identificatie": "Jesus",
+        "tekstueel_bewijs": [
+          "He came there!",
+          "He stayed there, at risk, to do his ministry.",
+          "He used his short three days... to heal and cast out demons."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The Shalom/Well-being of the City",
+        "tekstueel_bewijs": [
+          "the things that make for shalom",
+          "transformative restorative work",
+          "the possible peace and justice of the city"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (implied as the source of the 'prophets' and 'messengers')",
+        "tekstueel_bewijs": [
+          "stones messengers from God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The City (Jerusalem/Modern Cities) and the 'Left-behind'",
+        "tekstueel_bewijs": [
+          "bringing good news to the city that concerns the left-behind",
+          "I care that much about the city and want it to flourish"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Church (in the latter half of the sermon)",
+        "tekstueel_bewijs": [
+          "the church is an agent for forgiveness",
+          "the church in the city is the engine"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "Imperial Power and Social Demons (Rome, Herod, Greed, Racism)",
+        "tekstueel_bewijs": [
+          "men in trench coats using their walkie-talkies",
+          "demons of sexism, racism, or exploitative economics"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is described both as a physical state apparatus (Rome) and as spiritual/structural 'demons' that cause self-destruction."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Church/Hearers must imitate Jesus' love for the city by engaging in public witness and social transformation.",
+      "subject": "The Church / 'We'",
+      "object": "Social justice and community gathering",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon moves from what Jesus did (Primary) to what 'we might' or 'must' do (Secondary) as a direct imitation."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Shalom → The City",
+      "helper_subject_tegenstander": "Church → Jesus ← Imperial Demons",
+      "subject_naar_object": "Jesus → Restoration"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "38",
+      "ratio": "1.1",
+      "voorbeelden_god_subject": [
+        "He cast them out.",
+        "Jesus is into that.",
+        "He would gather them together."
+      ],
+      "voorbeelden_mens_subject": [
+        "We can name some of the demons.",
+        "And we might [cast them out].",
+        "It is our work like it was his work."
+      ],
+      "rutledge_score": "6"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "we are called to see the city and weep",
+          "Our love for the city is tough love."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "He wanted them to see the city as it was.",
+          "He willed it well."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "willing and able to tell the truth"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "the city has a chance",
+          "hope that overpowers fear"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses heavily on the 'Will' (Love) of Jesus as the catalyst, then attempts to recruit the 'Will' of the congregation to follow suit."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Shalom/Gathering",
+      "s2": "Exploitation/Execution",
+      "niet_s1": "Exclusion/Demons",
+      "niet_s2": "Lament/Truth-telling"
+    },
+    "beweging_in_preek": "Moves from the false peace of the crowds (~S2) to the reality of the city's violence (S2), then to Jesus' restorative work (S1).",
+    "theologische_resolutie": "The tension is resolved through 'Tough Love'—a synthesis of lament and action.",
+    "ernst_van_s2": "High. The sermon emphasizes the 'trench coats' and the 'execution' as real threats."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the sermon starts with a strong theocentric focus on Jesus' actions, it concludes with a heavy shift toward human agency ('It is our work'), risking a slide into moral influence/exemplarism.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Fusion of Jesus' work and our work",
+        "tekstueel_bewijs": "It is our work like it was his work.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as the initiator of restoration",
+        "tekstueel_bewijs": "Where Jesus comes, the city has a chance.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus is presented as the model for how the church should relate to the city.",
+      "bijbelse_figuren_als_model": [
+        "Jesus"
+      ],
+      "alternatieve_lezing": "Focus on how Jesus' victory over the 'demons' of the city is a finished work that creates a new reality the church simply inhabits, rather than 're-performing' it."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Empowerment mixed with the burden of social transformation.",
+      "theologische_implicatie": "The church becomes the 'engine' of grace, potentially eclipsing the Holy Spirit."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "The transition from Jesus' passion to the church's mission is rhetorically smooth but theologically shifts the actantial subject.",
+      "spanning_punten": [
+        "The shift from 'He cast them out' to 'And we might'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "casting out demons and performing cures",
+      "menselijke_role_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the church has the 'Pouvoir' (power) because it is 'the engine'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "High; sin is seen as systemic 'demons' like racism and greed."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "Man (as the agent of the church)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully establishes Jesus as the Subject of the Passion narrative but prematurely transfers that Subject-role to the congregation in the application phase.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The church is described as the 'engine' of reconciliation.",
+      "voorgestelde_herpositionering": "Position the Holy Spirit as the Subject who continues Christ's work through the church as a Receiver/Instrument.",
+      "voorbeeld_revisie": "Instead of 'The church is the engine for forgiveness,' use 'The Spirit of the crucified Christ drives the church into the city to distribute the forgiveness He won.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the one who must 'cast out demons'.",
+      "voorgestelde_identificatie": "Hearer as the 'left-behind' who is first gathered by Jesus.",
+      "strategie": "Emphasize that we are the ones Jesus wept over before we are the ones who weep with Him."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy on Devoir (we are called) and Vouloir (love).",
+      "voorgestelde_balans": "Increase Pouvoir (the power of the Resurrection).",
+      "concrete_suggestie": "Explicitly mention that the power to 'veto injustice' comes from the empty tomb, not human 'tough love'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly developed.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon correctly identifies the 'Opponent' as more than just bad habits."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The 'Secondary Program' (Ethics) begins to sound like it completes the 'Primary Program' (Soteriology).",
+      "voorgestelde_structuur": "Ensure the 'Hosanna' is a response to a finished victory, not a recruitment cry for a pending one."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful, socially-engaged sermon that captures the drama of Holy Week. To move from 'Mixed' to 'Grace-oriented,' ensure that the 'engine' of the church is always fueled by the external Subjectivity of God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the 'city' imagery; semiotics reveals that the 'Subject' role shifts from God to the Church halfway through.",
+    "verschil_met_exegese": "Exegesis explains Luke's lament; semiotics shows how the preacher uses that lament to create a mandate (Devoir) for the modern hearer.",
+    "unieke_inzichten_greimas": "Greimas helps see that the 'demons' are actantial Opponents that require a divine Subject, highlighting the danger of the church trying to fight them as the primary Subject."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (arrived, brought, waved, smiled, rides, loved, noticed, wept, used, healed)",
+      "The Church (has a ministry, is called, is the engine, might cast out)",
+      "The City (kills, stones, skews, impedes, sorts, does not welcome)"
+    ],
+    "volledige_object_lijst": [
+      "Shalom",
+      "The left-behind",
+      "Demons",
+      "Cures",
+      "Common good"
+    ],
+    "werkwoord_frequentie": {
+      "love": {
+        "count": "12",
+        "primair_subject": "Jesus"
+      },
+      "weep": {
+        "count": "6",
+        "primair_subject": "Jesus"
+      },
+      "forgive": {
+        "count": "4",
+        "primair_subject": "The Church"
+      }
+    },
+    "notities": "The sermon uses 'Hosanna' as a bridge between the divine action and human hope."
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "titel_preek": "On Changing Our Minds",
+    "bijbeltekst": "Matthew 27:46, Philippians 2:2-11",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The journey through Holy Week as a process of mental and behavioral transformation where the believer replicates the self-emptying of Christ to achieve communal harmony.",
+      "subject": {
+        "identificatie": "The Hearer / The Church",
+        "tekstueel_bewijs": [
+          "we also know we cannot leap from Palm Sunday to Easter",
+          "that is our work this week",
+          "imagine all of us... changing our minds",
+          "we also replicate his life in our own life"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The 'New Mind' / Easter Freedom / Self-emptying obedience",
+        "tekstueel_bewijs": [
+          "a new mind, a new opinion, a new readiness, a new heart",
+          "Easter freedom, unburdened and fearless"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Paul / The Preacher (as interpreters of the Christ-event)",
+        "tekstueel_bewijs": [
+          "Paul summons the church",
+          "Paul says to the church, do not be so mindless",
+          "So here is my bid to you"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Neighbor",
+        "tekstueel_bewijs": [
+          "freed for the interest of the neighbor",
+          "the church should be an exhibit to the world"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Jesus (as Example/Model)",
+        "tekstueel_bewijs": [
+          "the clue to the new mind of Christ is emptying",
+          "in the wake of Jesus"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "The 'Old Mind' / The Empire / Self-interest",
+        "tekstueel_bewijs": [
+          "the values and passions and fears of our society",
+          "selfish ambition or conceit",
+          "the American empire"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily a sociological and psychological mindset ('the way we tend to act') rather than a cosmic or ontological power that requires divine intervention."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The Kerygma: God exalting Jesus after his obedience.",
+      "subject": "God",
+      "object": "Exaltation/Honor for Jesus",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon treats the divine action (exalting Jesus) as a 'pause in the poetry' or a historical fact that serves as the motivation for the primary program (human imitation)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Paul/Preacher → New Mind → The Neighbor/World",
+      "helper_subject_tegenstander": "Jesus (Example) → The Hearer ← The Old Mind/Empire",
+      "subject_naar_object": "The Hearer → Self-Emptying Obedience"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God has highly exalted",
+        "God has given him Easter honor"
+      ],
+      "voorbeelden_mens_subject": [
+        "we also know we cannot leap",
+        "we have to go day by day",
+        "we also replicate his life",
+        "we find ourselves with Easter liberty"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we have to go day by day",
+          "that is our work this week",
+          "Paul summons the church",
+          "requires on our part a big change of mind"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "imagine all of us... changing our minds",
+          "my bid to you"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "the clue to the new mind",
+          "Paul teaches the church what that 'same mind' would be like"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "we find ourselves with Easter liberty"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir) and knowledge (Savoir). It assumes that if the hearer understands the 'clue' and accepts the 'bid,' they can perform the task. The 'Pouvoir' (power) is assumed to be inherent in the human will once it is 'unburdened'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Self-Emptying (Obedience)",
+      "s2": "Self-Serving (Empire)",
+      "niet_s1": "Self-Interest (Ambition)",
+      "niet_s2": "Easter Freedom (Non-control)"
+    },
+    "beweging_in_preek": "The sermon moves from S2 (Empire/Self-serving) to S1 (Obedience) via a cognitive shift (Savoir).",
+    "theologische_resolutie": "Resolution is achieved through human replication of the Christ-pattern.",
+    "ernst_van_s2": "Moderate. S2 is seen as a 'mindset' or 'social mirror' rather than a state of spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses the language of Holy Week and the Philippians hymn, the 'engine' is entirely anthropocentric. The 'work' of the week is defined as human effort ('our work'), and Jesus is reduced to a 'clue' or 'model' for human behavior.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Subject-Switch (Hearer as Subject of Grace)",
+        "tekstueel_bewijs": "That is the only road to Easter, and that is our work this week.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Instrumentalization of the Cross",
+        "tekstueel_bewijs": "He is not crucified because of some theory of the atonement. He is crucified because the empire cannot tolerate such a transformative, subversive force.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Acknowledgment of Divine Action",
+        "tekstueel_bewijs": "God has highly exalted [him].",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Jesus is presented as the 'odd Messiah' whose 'mind' we must adopt. The hymn is treated as a 'preface' for ethical instruction.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Paul"
+      ],
+      "alternatieve_lezing": "A theocentric reading would focus on Christ's obedience as the substitutionary work that achieves what we cannot, where the 'new mind' is a fruit of the Spirit's indwelling rather than a 'bid' we accept."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; burden of 'changing one's own mind'.",
+      "theologische_implicatie": "Pelagianism: the assumption that the human will is capable of replicating Christ's self-emptying through cognitive effort."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically inverted; it successfully links the text to ethics but at the cost of soteriological depth.",
+      "spanning_punten": [
+        "The claim that 'we cannot leap to Easter' vs the Gospel claim that Easter is a gift given to those who fled."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "He is crucified because the empire cannot tolerate such a transformative, subversive force... we replicate his life.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon implies that the 'new mind' comes from 'imagining' and 'changing,' not from the supernatural endowment of the Spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is described as 'selfish ambition,' 'conceit,' and 'mindlessness'—traits of the 'American empire' rather than a radical corruption of the heart."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'call to action' where the hearer is the Subject and Jesus is the Helper/Example. God is a distant Sender who rewards Jesus but does not actively transform the hearer.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is told that 'going through the week' is 'our work.'",
+      "voorgestelde_herpositionering": "Make Jesus the Subject of the 'road to Easter.'",
+      "voorbeeld_revisie": "Jesus walks the road to the cross because we could not; He carries us through the week when we would otherwise deny and betray Him."
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the one who must 'replicate' Christ.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 'forsaken' Jesus or the 'confused' disciples who receive a life they did not earn."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominance of Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as Power).",
+      "concrete_suggestie": "Focus on how the Spirit 'bestows' the mind of Christ rather than how we 'imagine' it."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Opponent is 'bad habits' or 'social values.'",
+      "voorgestelde_intensivering": "Present Sin as a power that binds the 'mind' so that we *cannot* change it ourselves.",
+      "theologische_rationale": "Without a 'heavy' opponent, grace becomes 'advice' rather than 'rescue'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Program 2) has swallowed Soteriology (Program 1).",
+      "voorgestelde_structuur": "1. What Christ did for us (Soteriology). 2. How that creates a new reality in us (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically powerful and socially relevant, but it risks leaving the congregation exhausted by their own 'work' rather than comforted by Christ's finished work."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the use of inclusive language and the 'bid' structure; semiotics reveals the Pelagian engine beneath.",
+    "verschil_met_exegese": "Exegesis might confirm the 'mind of Christ' theme in Phil 2, but semiotics shows that the sermon ignores the 'God who works in you' (Phil 2:13) which follows the hymn.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'Easter' in this sermon is not a divine act but a human 'freedom' achieved through imitation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We know",
+      "We cannot leap",
+      "We have to go",
+      "That is our work",
+      "Paul summons",
+      "We replicate"
+    ],
+    "volledige_object_lijst": [
+      "Easter astonishment",
+      "A new mind",
+      "Easter freedom",
+      "Self-emptying obedience"
+    ],
+    "werkwoord_frequentie": {
+      "know": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "exalted": {
+        "count": "2",
+        "primair_subject": "God"
+      },
+      "replicate": {
+        "count": "1",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon effectively uses the 'Empire' as a foil, but fails to provide a divine Subject capable of overcoming the Empire's hold on the human heart."
+  }
+}

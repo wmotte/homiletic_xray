@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "Christmas Eve & First Sunday After Christmas",
+    "bijbeltekst": "Luke 1:26–38; Matthew 2:13–23",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in a dark, monster-ridden world to establish an everlasting kingdom through the birth of His Son, despite human incapacity and cosmic evil.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "God has acted.",
+          "God has intervened.",
+          "The Holy Spirit will come upon you.",
+          "God is the one who rules."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation and the establishment of a Kingdom where evil is banished.",
+        "tekstueel_bewijs": [
+          "save his people from their sins",
+          "a kingdom of joy and delight where no disappointment can ever enter"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Most High)",
+        "tekstueel_bewijs": [
+          "Gabriel was sent from God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The human race / The 'forlorn' / The victims",
+        "tekstueel_bewijs": [
+          "save his people",
+          "the human race is utterly incapable of turning itself around"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Gabriel / Mary (passive-receptive) / The Light",
+        "tekstueel_bewijs": [
+          "Gabriel comes to announce",
+          "The little strings of lights... remain lit, by his grace"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death (Monsters), Herod, and Human Incapacity",
+        "tekstueel_bewijs": [
+          "the gruesome grimace of famine",
+          "monsters who kill in the night",
+          "the paranoia of King Herod"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but 'monsters' and 'tyrants' that humans are 'utterly incapable' of defeating alone."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The believer's response: holding onto faith and lamenting with the suffering until the second coming.",
+      "subject": "The Hearer / The Church",
+      "object": "Faith and tenacity in the face of barbarity",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics/tenacity) is a response to the primary program (God's intervention)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Kingdom → Humanity",
+      "helper_subject_tegenstander": "Holy Spirit → God/Christ ← Herod/Sin/Death",
+      "subject_naar_object": "God → Redemption of the World"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "12",
+      "ratio": "2.0",
+      "voorbeelden_god_subject": [
+        "God has acted.",
+        "God has intervened.",
+        "The Lord God will give to him the throne.",
+        "God himself has entered this world."
+      ],
+      "voorbeelden_mens_subject": [
+        "We can send Christmas cards.",
+        "We must listen to this objection.",
+        "We can't run away."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "We must listen to this objection.",
+          "We must keep Ivan Karamazov’s protest in our minds."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Magic is what we want.",
+          "Inarticulate longing."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "We know there isn’t [magic].",
+          "Aware of the deep and far-reaching claims."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "The human race is utterly incapable.",
+          "Only God is able to give true and lasting peace.",
+          "With God, nothing will be impossible."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon centers on human 'non-pouvoir' (incapacity) met by God's 'pouvoir' (omnipotence/grace)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Kingdom",
+      "s2": "The Curse/Monsters",
+      "niet_s1": "Sentimentalism/Magic",
+      "niet_s2": "Stoicism/Ignoring the Lament"
+    },
+    "beweging_in_preek": "Moves from sentimental magic (~S1) to the reality of the curse (S2), then to the intervention of grace (S1) which encompasses the lament (~S2).",
+    "theologische_resolutie": "Christ enters the 'curse' to establish the 'kingdom'.",
+    "ernst_van_s2": "Very high; the 'monsters' and 'Rachel weeping' are central."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly denies human capacity to 'turn itself around' and places all agency for salvation on God's intervention.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in 'tenacity'",
+        "tekstueel_bewijs": "the faith and tenacity of all those who continue to stand for humanity",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "God has acted. God has intervened.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Human Incapacity",
+        "tekstueel_bewijs": "the human race is utterly incapable of turning itself around",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Mary and the Holy Family are portrayed as recipients of action or refugees, not as moral templates to imitate.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: God preserves the family; God gives the throne."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope amidst suffering.",
+      "theologische_implicatie": "Monergistic salvation; God is the sole provider of the 'Object'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'magic' of Christmas Eve to the 'monsters' of Holy Innocents is structurally unified by God's singular act in Christ.",
+      "spanning_punten": [
+        "The tension between 'the Savior reigns' and the visible 'horrible things'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "the part where evil is defeated conclusively and forever",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of 'Pouvoir' (overshadowing Mary)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; sin is seen as 'monsters' and 'the curse'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "A robustly theocentric narrative where God is the Subject of all transformative verbs.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; it serves the grace-orientation.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Opponent is already sufficiently 'heavy' (Herod/Monsters).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God acts) → Ethics (We hold on)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in maintaining God as the Subject. It avoids the trap of turning the Christmas story into a 'how-to' for holiday cheer, instead grounding hope in the objective intervention of God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Nutcracker' metaphor, Greimasian analysis reveals that the metaphor functions to highlight the 'Axis of Desire' and human 'non-pouvoir'.",
+    "verschil_met_exegese": "Exegesis explains the Rachel quote; semiotics shows how the Rachel quote functions as the 'Opponent' that validates the 'Subject's' victory.",
+    "unieke_inzichten_greimas": "It exposes that even when the preacher uses 'we' (e.g., 'we can't run away'), the 'we' is positioned as a Receiver of a story already written by God."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (acted)",
+      "God (intervened)",
+      "Gabriel (sent)",
+      "Holy Spirit (will come)",
+      "Jesus (will reign)",
+      "Human race (is incapable)"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "The Kingdom",
+      "Peace",
+      "The Future"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "2",
+        "primair_subject": "God/Christ"
+      },
+      "reign": {
+        "count": "4",
+        "primair_subject": "God/Christ"
+      },
+      "act": {
+        "count": "1",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon successfully navigates the 'Rutledge Rule' by making God the subject of the active, redemptive verbs."
+  }
+}

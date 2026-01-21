@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "titel_preek": "Three Days That Changed The World",
+    "bijbeltekst": "1 Corinthians 15:3–4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "altered the direction of history",
+          "arrested the drift of time",
+          "turned around the sequence of occurrence",
+          "slippery shores of Jordan",
+          "stately stepping up the broad avenues"
+        ],
+        "conceptuele_metafoor": "TIME IS A SPATIAL PATH"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "legal theory",
+          "sentence was imposed",
+          "penalty",
+          "charges stood against me",
+          "he cleared them"
+        ],
+        "conceptuele_metafoor": "SIN IS A CRIME / SALVATION IS ACQUITTAL"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "put the orphan at the father's table",
+          "called him or her a child, an heir",
+          "child of the royal house"
+        ],
+        "conceptuele_metafoor": "GOD IS FATHER / CONVERSION IS ADOPTION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "He took a lick that was meant for me.",
+        "brondomein": {
+          "naam": "Physical Altercation/Punishment",
+          "concrete_elementen": [
+            "physical blow",
+            "substitution",
+            "pain"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Substitutionary Atonement",
+          "doctrinale_traditie": "Reformed/Evangelical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "The 'lick' (blow)",
+            "doel_element": "Divine wrath/judgment"
+          },
+          {
+            "bron_element": "The substitute",
+            "doel_element": "Jesus Christ"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The hearer feels a sense of narrow escape from physical harm."
+          ],
+          "theologische_implicaties": [
+            "Penal substitutionary atonement is the primary lens for the Cross."
+          ],
+          "ethische_implicaties": [
+            "Deep personal gratitude and loyalty to the one who took the blow."
+          ],
+          "onbedoelde_consequenties": [
+            "God the Father might be perceived as an abusive figure who 'needs' to hit someone."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses colloquial, visceral language ('lick') to re-energize the dead metaphor of 'penalty'."
+      },
+      {
+        "metafoor_expressie": "Where our slates were all blotched and marred, he wiped them clean.",
+        "brondomein": {
+          "naam": "Writing Surface/Accounting",
+          "concrete_elementen": [
+            "slate",
+            "ink/chalk",
+            "erasing"
+          ],
+          "belichaamde_basis": "container/object"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Forgiveness of Sin",
+          "doctrinale_traditie": "General Protestant"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Blotches",
+            "doel_element": "Sins/Moral failures"
+          },
+          {
+            "bron_element": "Wiping",
+            "doel_element": "Act of Grace"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Sin is an external stain that can be removed without leaving a trace."
+          ],
+          "theologische_implicaties": [
+            "Justification as a 'tabula rasa'."
+          ],
+          "ethische_implicaties": [
+            "The past no longer defines the present."
+          ],
+          "onbedoelde_consequenties": [
+            "May minimize the internal transformative aspect of sanctification."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A common trope in evangelical preaching, though still effective for clarity."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher moves through various atonement theories (Legal, Moral, Revelatory) acknowledging their limits, then settles into a highly coherent 'Journey/Path' metaphor for the Resurrection.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Discussion of the First Day",
+          "metafoor_a": "Legal Penalty (Juridical)",
+          "metafoor_b": "Unmasking Powers (Revelatory/Political)",
+          "conflict_beschrijving": "The shift from a courtroom setting to a political unmasking of 'conniving operators' changes the nature of the problem from individual guilt to systemic evil.",
+          "entailment_conflict": "Is the Cross a payment to a law or a protest against a system?",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "The climax of the Resurrection",
+          "gemengde_metaforen": [
+            "Light/Dawn",
+            "Physical Strength/Shaking",
+            "Royal Apparel"
+          ],
+          "blending_strategie": "The preacher blends the 'Natural Cycle' (Dawn) with 'Human Agency' (Shaking off sleep) to show the Resurrection as both inevitable and an act of power."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The preacher takes the 'dead' concept of the Resurrection and revitalizes it through vivid personification of graves (Nebo, Abraham, Isaiah).",
+        "voorbeeld": "That grave which was not charmed by the music of David begins to tremble."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The description of the 'slippery shores of Jordan' and 'broad avenues of glory land' might lead to a overly materialistic view of the afterlife.",
+        "voorbeeld": "stately stepping up the broad avenues of the glory land",
+        "potentiele_impact": "Congregation may focus on a physical utopia rather than the beatific vision.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A cosmic battlefield/timeline where three specific days act as hinges for all of history.",
+      "sub_worlds": [
+        "The Plains of Abraham (1759)",
+        "The Garden of Eden",
+        "The 'Slippery Shores' of the afterlife"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Introduction",
+          "van_wereld": "1856 Spurgeon's London",
+          "naar_wereld": "Modern Dallas (Stemmons Freeway)",
+          "effectiviteit": "Highly effective in bridging historical authority with current relevance."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Christ as Victor (Christus Victor)",
+          "hoe_versterkt": "Through the military/physical imagery of shaking graves and holding keys."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Easter as a Yearly Event",
+          "verstoring_strategie": "Challenging the 'Satanic achievement' of limiting the Resurrection to one day.",
+          "vervangend_schema": "Resurrection as the 'Kerygma' (Atmosphere) of every single day."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the post-Easter liturgical season, seeking to sustain the 'Alleluia' into ordinary time."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by 'Movement' and 'Force' metaphors. It successfully moves from the 'Static' metaphors of the Cross (Debt/Slate/Penalty) to the 'Dynamic' metaphors of the Resurrection (Walking/Stepping/Shaking). The landscape is one of historical momentum being redirected by a singular force.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "The Shepherd (Second Day)",
+        "huidige_status": "Vague and hesitant ('I do not know').",
+        "suggestie": "Deepen the source domain of the 'Shepherd in the dark' to emphasize the search.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Describe the Shepherd's lantern piercing the 'spirits in prison' darkness."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The transition between the 'Legal Theory' and 'Moral Doctrine'.",
+        "resolutie_strategie": "Use a 'Medical' bridge: The law diagnoses the sickness, the moral example shows the health, but the Cross provides the cure."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Christ as the one who 'took a lick'.",
+        "problematisch_entailment": "Suggests a Father who is prone to violence.",
+        "aanbeveling": "Balance with the 'Relational' domain: emphasize that the Father and Son are one in this act of love."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To ground the 'Resurrection' in the natural cycle of seeds dying to bring life, providing a counterpoint to the 'Military/Force' imagery.",
+        "doel_concept": "New Life"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to turn an abstract doctrine into a visceral, historical, and personal reality. The use of 'Verticality' and 'Path' metaphors creates a powerful sense of hope."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'alliteration' and 'rhythm,' CMT reveals how the 'Path' metaphor actually restructures the hearer's perception of time.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning, CMT shows that the 'experience' is built into the language itself (e.g., 'slippery shores').",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher uses 'Force' schemas (shaking, trembling, arresting drift) to overcome the 'Stasis' of death."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "set the world on fire",
+      "flash point of a long-smoldering circumstance",
+      "time falls exhausted at the feet of eternity",
+      "arrested the drift of time",
+      "turned around the sequence of occurrence",
+      "hill shaped like a skull",
+      "took a lick that was meant for me",
+      "slates were all blotched",
+      "wiped them clean",
+      "got under a load",
+      "tree forbidden vs tree forgiving",
+      "manumitted the slave's bondage",
+      "orphan at the father's table",
+      "child of the royal house",
+      "spirits in prison",
+      "beguiled by some tempting tuft of grass",
+      "thin pencil of light",
+      "sky begins to blush",
+      "shakes himself",
+      "keys of hell and death",
+      "slippery shores of Jordan",
+      "stately stepping up the broad avenues"
+    ],
+    "woord_frequentie_analyse": {
+      "lives": "18",
+      "resurrection": "12",
+      "day": "15",
+      "preach": "10",
+      "grave": "6"
+    },
+    "notities": "The sermon relies heavily on the 'Great Men of History' schema to validate the theological claims."
+  }
+}

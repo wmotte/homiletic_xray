@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "The Common Criminal",
+    "bijbeltekst": "Matthew 11:6; Passion Narrative",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God addresses the human condition of 'blindness' and 'self-virtue' by becoming a 'common criminal' to reveal both the depth of sin and the vastness of love.",
+      "subject": {
+        "identificatie": "God / Jesus Christ",
+        "tekstueel_bewijs": [
+          "Jesus replied with a definition of his ministry",
+          "Jesus, who was arrested like a common criminal",
+          "what God has done for us in Jesus"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Salvation / True Self-Knowledge / Reconciliation",
+        "tekstueel_bewijs": [
+          "the good news of salvation",
+          "come to know the true reality",
+          "the meaning of the death of Jesus"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Father/Divine Love)",
+        "tekstueel_bewijs": [
+          "the incomparable vastness of God's love for us"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / Humanity (represented by Sally and Jane)",
+        "tekstueel_bewijs": [
+          "for our sake and in our place",
+          "perhaps you can hear it today"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Cross / The Passion Narrative / The Preacher",
+        "tekstueel_bewijs": [
+          "the magnitude of what God has done",
+          "I tried to explain to Sally"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (through the Word/Cross)"
+      },
+      "tegenstander": {
+        "identificatie": "Self-righteousness / Blindness / Denial of Sin",
+        "tekstueel_bewijs": [
+          "stubborn blindness",
+          "preoccupied with her own virtue",
+          "she does not believe herself to be guilty"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just a bad habit but an ontological blindness that prevents the Subject's work from being received."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's journey from denial/offense to identification with the 'common criminal'.",
+      "subject": "The Hearer",
+      "object": "Repentance/Identification",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The hearer's response is a secondary program triggered by the primary action of God."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Love → Salvation → The Hearer",
+      "helper_subject_tegenstander": "The Cross → Jesus ← Self-Righteousness",
+      "subject_naar_object": "Jesus → Becoming a Criminal for us"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "Jesus replied with a definition of his ministry.",
+        "God has done for us in Jesus.",
+        "Jesus... became like a common criminal."
+      ],
+      "voorbeelden_mens_subject": [
+        "Jane could not identify herself as a sinner.",
+        "Sally could not hear the message.",
+        "You understand the depth and weight of human sin."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "she was supposed to shout"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "she didn't want to look at the figure"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "she does not know who she is",
+          "you understand the depth"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "I was unable to put this across",
+          "Jane could not identify herself",
+          "you will come to know the true reality"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the human 'inability' (non-pouvoir) to see sin, which is overcome by God's 'power' (pouvoir) in the Cross."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Salvation",
+      "s2": "Sin/Judgment (The Criminal)",
+      "niet_s1": "Self-Virtue (Sally/Jane)",
+      "niet_s2": "Impunity/Denial"
+    },
+    "beweging_in_preek": "From ~S1 (Self-virtue) to S2 (The Criminal) to S1 (Grace).",
+    "theologische_resolutie": "Resolution is found in Christ occupying S2 (Judgment) so the hearer can move from ~S1 to S1.",
+    "ernst_van_s2": "Very high; sin is compared to a fire requiring many engines."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It diagnoses the human condition as a state of 'cannot' and places the 'doing' entirely on God's action in Christ.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism",
+        "tekstueel_bewijs": "If we can't look at the Cross, then we can't look at ourselves.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Substitutionary Logic",
+        "tekstueel_bewijs": "Jesus, who became like a common criminal for our sake and in our place.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "God as Primary Actor",
+        "tekstueel_bewijs": "the magnitude of what God has done for us",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Sally and Jane are used as negative 'anti-exemplars' to illustrate the universal human condition, not as models to follow.",
+      "bijbelse_figuren_als_model": [
+        "None"
+      ],
+      "alternatieve_lezing": "N/A"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and humility through identification with the 'criminal' who is loved.",
+      "theologische_implicatie": "Justification by grace through faith, apart from works of the law (virtue)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The narrative moves seamlessly from human pathology to divine remedy.",
+      "spanning_punten": [
+        "The tension between 'feeling like a criminal' (shame) and 'being a sinner' (guilt)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "in our place",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon implies the Word/Cross itself grants the 'pouvoir' to see."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Critical; sin is an invisible but deadly reality that requires a 'magnitude' of divine action."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative program.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Savoir (Knowing).",
+      "voorgestelde_balans": "Increase Pouvoir (The Spirit's enabling).",
+      "concrete_suggestie": "Explicitly mention that the Holy Spirit is the one who opens the eyes that Sally and Jane could not open themselves."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as 'stubborn blindness'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology precedes and enables the possibility of ethics/self-reflection."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in theocentric preaching. It avoids the trap of making 'repentance' a work by showing it as a gift of sight provided by the Cross."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'Sally/Jane' anecdotes; Greimas shows these are actantial placeholders for the 'Opponent' (Self-righteousness).",
+    "verschil_met_exegese": "Exegesis would focus on Matthew 11; Greimas shows how the preacher uses the 'Common Criminal' as a semiotic bridge between the text and the hearer's identity.",
+    "unieke_inzichten_greimas": "Reveals that the 'shame' Sally felt is actually a 'Helper' (Adjuvant) in disguise, meant to lead her to the 'Object' (Salvation)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (replied)",
+      "God (has done)",
+      "Jane (could not identify)",
+      "Sally (won't go)",
+      "You (understand)"
+    ],
+    "volledige_object_lijst": [
+      "The Cross",
+      "The meaning of death",
+      "Salvation",
+      "Self-knowledge"
+    ],
+    "werkwoord_frequentie": {
+      "become": {
+        "count": "3",
+        "primair_subject": "God"
+      },
+      "know": {
+        "count": "6",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses Rutledge's 'Grammar of Grace' effectively by making God the subject of the rescue and man the subject of the blindness."
+  }
+}

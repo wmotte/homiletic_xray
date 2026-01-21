@@ -1,0 +1,267 @@
+[
+  {
+    "metadata": {
+      "titel_preek": "The Things That Do Not Exist",
+      "bijbeltekst": "Romans 4:17",
+      "analyse_datum": "2024-05-22",
+      "geschat_aantal_woorden": "1850"
+    },
+    "actantiele_analyse": {
+      "primair_narratief_programma": {
+        "beschrijving": "God creates a new humanity and brings life out of death through His Word, independent of human potential or cooperation.",
+        "subject": {
+          "identificatie": "God (The Word/Logos)",
+          "tekstueel_bewijs": [
+            "God who gives life to the dead",
+            "calls into existence the things that do not exist",
+            "God spoke; and it was so"
+          ],
+          "frequentie_score": "9"
+        },
+        "object": {
+          "identificatie": "New Creation / New Humanity / Life out of Death",
+          "tekstueel_bewijs": [
+            "a new creation, with a new humanity as its crown and glory",
+            "righteousness where there is no human capacity for it"
+          ],
+          "aard_van_object": "SOTERIOLOGICAL"
+        },
+        "zender": {
+          "identificatie": "God the Father / The Promise",
+          "tekstueel_bewijs": [
+            "the presence and power of the God who raises the dead"
+          ],
+          "rol_interpretatie": "LOVING_FATHER"
+        },
+        "ontvanger": {
+          "identificatie": "Abraham / The Church / 'Us all'",
+          "tekstueel_bewijs": [
+            "Abraham is the father of us all",
+            "reckoned it to him as righteousness"
+          ],
+          "positie_hoorder": "RECEIVER_SAVED"
+        },
+        "helper": {
+          "identificatie": "Jesus Christ / The Word Incarnate",
+          "tekstueel_bewijs": [
+            "the Word that comes into the world incarnate as Jesus Christ",
+            "through the accomplished Resurrection of Jesus Christ"
+          ],
+          "rol_van_god": "SUBJECT",
+          "rol_van_geest": "EXTERNAL_HELPER"
+        },
+        "tegenstander": {
+          "identificatie": "Sin, Death, and the 'Old Humanity' (Adam)",
+          "tekstueel_bewijs": [
+            "imprisoned by Sin and Death",
+            "Death is the great nothing, the ultimate negation"
+          ],
+          "ernst_tegenstander": "COSMIC",
+          "toelichting_ernst": "Death is described as the 'ultimate negation' and 'fell sergeant' that humans cannot overcome via 'biostasis' or effort."
+        }
+      },
+      "secundair_narratief_programma": {
+        "aanwezig": true,
+        "beschrijving": "Believers live as 'signs' or 'pointers' to the coming new creation in the midst of the old world.",
+        "subject": "The Believer (e.g., Sophie Scholl, von Moltke)",
+        "object": "Being a 'sign' or 'pointer' to God's power",
+        "verhouding_tot_primair": "SEQUENTIAL",
+        "toelichting_verhouding": "Human action does not 'bring in' the kingdom; it merely points to the God who does."
+      },
+      "actantieel_schema_visualisatie": {
+        "zender_naar_ontvanger": "God → New Life → Humanity",
+        "helper_subject_tegenstander": "Christ → God ← Sin/Death",
+        "subject_naar_object": "God → Creation ex nihilo"
+      }
+    },
+    "grammaticale_analyse": {
+      "subject_check": {
+        "god_als_subject_count": "42",
+        "mens_als_subject_count": "18",
+        "ratio": "2.33",
+        "voorbeelden_god_subject": [
+          "God gives life to the dead",
+          "God spoke him into righteousness",
+          "God creates something out of nothing"
+        ],
+        "voorbeelden_mens_subject": [
+          "Abraham had no righteousness",
+          "We cannot bring life out of death",
+          "Ordinary men murdered seventy thousand people"
+        ],
+        "rutledge_score": "9"
+      },
+      "modale_analyse": {
+        "devoir_faire": {
+          "prominentie": "2",
+          "voorbeelden": [
+            "we who are biblical people need to remind ourselves"
+          ]
+        },
+        "vouloir_faire": {
+          "prominentie": "3",
+          "voorbeelden": [
+            "We want to reserve some of the credit for ourselves"
+          ]
+        },
+        "savoir_faire": {
+          "prominentie": "4",
+          "voorbeelden": [
+            "Paul wants us to understand"
+          ]
+        },
+        "pouvoir_faire": {
+          "prominentie": "10",
+          "voorbeelden": [
+            "God is able to raise the dead",
+            "something out of our power",
+            "no human potential"
+          ]
+        },
+        "dominante_modaliteit": "POUVOIR",
+        "modale_interpretatie": "The sermon is a polemic against human 'pouvoir' (potential) in favor of divine 'pouvoir' (sovereign grace)."
+      }
+    },
+    "semiotisch_vierkant_analyse": {
+      "primaire_tegenstelling": {
+        "s1": "Life/Creation (Grace)",
+        "s2": "Death/Nothingness (Judgment)",
+        "niet_s1": "Human Potential (Pelagianism)",
+        "niet_s2": "Signs/Promises (Hope)"
+      },
+      "beweging_in_preek": "From S2 (Death/Exile) through the negation of ~S1 (Failure of human potential) to S1 (God's creative Word).",
+      "theologische_resolutie": "Resolution is found solely in the 'Logos' who speaks life into the void.",
+      "ernst_van_s2": "Extremely high; death is treated as an absolute ontological barrier."
+    },
+    "diagnostische_evaluatie": {
+      "primaire_classificatie": "GRACE",
+      "classificatie_toelichting": "The sermon systematically deconstructs human agency ('no human potential') to establish God as the sole Actant of salvation.",
+      "indicatoren_moralisme": [
+        {
+          "indicator": "Potential for Exemplarism in Sophie Scholl",
+          "tekstueel_bewijs": "Our lives as Christians are signs, pointers",
+          "ernst": "LOW"
+        }
+      ],
+      "indicatoren_genade": [
+        {
+          "indicator": "God as Subject of active verbs",
+          "tekstueel_bewijs": "God who gives life to the dead",
+          "sterkte": "VERY_STRONG"
+        },
+        {
+          "indicator": "Creation ex nihilo (Soteriological)",
+          "tekstueel_bewijs": "righteousness where there is no human capacity for it",
+          "sterkte": "VERY_STRONG"
+        }
+      ],
+      "exemplarisme_check": {
+        "aanwezig": true,
+        "beschrijving": "Used negatively to show that even 'good' deeds don't save, and positively only as 'signs' of God's work.",
+        "bijbelse_figuren_als_model": [
+          "Abraham (as a model of impotence, not strength)"
+        ],
+        "alternatieve_lezing": "Abraham is the receiver of a 'reckoned' righteousness, not a hero of faith-performance."
+      },
+      "identificatie_patroon": {
+        "hoorder_identificeert_met": "RECEIVER_SAVED",
+        "effect_op_hoorder": "Relief from the burden of self-improvement; awe at divine power.",
+        "theologische_implicatie": "Monergistic sanctification (God works in us as signs)."
+      },
+      "narratieve_coherentie": {
+        "coherentie_score": "10",
+        "coherentie_beschrijving": "Perfectly integrated; the secondary program (ethics) is strictly subordinated to the primary (soteriology).",
+        "spanning_punten": [
+          "The tension between the 'angry man's' pragmatism and the 'wasteful' sign of martyrdom."
+        ]
+      }
+    },
+    "theologische_diepte_analyse": {
+      "soteriologie": {
+        "primaire_model": "SUBSTITUTION",
+        "tekstueel_bewijs": "God reckoned, 'worded,' spoke him into righteousness.",
+        "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+      },
+      "pneumatologie": {
+        "rol_heilige_geest": "UNCLEAR",
+        "competentie_schenking": "The Word (Christ) is the primary agent of competence."
+      },
+      "hamartologie": {
+        "aard_van_zonde": "COSMIC_POWER",
+        "ernst_diagnose": "Total depravity ('Ordinary Men' argument)."
+      },
+      "eschatologie": {
+        "hoop_structuur": "ALREADY_AND_NOT_YET",
+        "actant_van_voltooiing": "God"
+      }
+    },
+    "aanbevelingen": {
+      "actantiele_audit_samenvatting": "The sermon is a masterclass in theocentric narrative structure.",
+      "subject_herpositionering": {
+        "nodig": false,
+        "huidige_probleem": "None",
+        "voorgestelde_herpositionering": "N/A",
+        "voorbeeld_revisie": "N/A"
+      },
+      "identificatie_herstel": {
+        "nodig": false,
+        "problematische_identificatie": "None",
+        "voorgestelde_identificatie": "N/A",
+        "strategie": "N/A"
+      },
+      "modale_balans": {
+        "huidige_onbalans": "Heavy emphasis on Pouvoir (God's power).",
+        "voorgestelde_balans": "Maintain as is; the context of 'declining church' requires this specific imbalance.",
+        "concrete_suggestie": "N/A"
+      },
+      "tegenstander_intensivering": {
+        "nodig": false,
+        "huidige_status": "Maximized (Death/Nazism/Sin).",
+        "voorgestelde_intensivering": "N/A",
+        "theologische_rationale": "N/A"
+      },
+      "narratieve_hierarchie_herstel": {
+        "nodig": false,
+        "probleem": "None",
+        "voorgestelde_structuur": "N/A"
+      },
+      "overall_beoordeling": "EXCELLENT",
+      "slotopmerking": "The sermon successfully avoids the 'Pelagian trap' by defining faith not as a human work, but as a result of God's creative 'reckoning'."
+    },
+    "comparatieve_analyse": {
+      "verschil_met_retorische_analyse": "While rhetoric might focus on the emotional power of the Sophie Scholl story, Greimas shows that Scholl is not the 'Subject' of the sermon's engine, but a 'Sign' (Object/Helper) of the true Subject (God).",
+      "verschil_met_exegese": "Goes beyond explaining Romans 4 to showing how the 'grammar' of the text dictates a specific view of human inability.",
+      "unieke_inzichten_greimas": "Reveals that the 'angry man' in the movie theater is the 'Opponent' not just to the students, but to the logic of Grace itself."
+    },
+    "appendices": {
+      "volledige_subject_lijst": [
+        "God gives life",
+        "God calls into existence",
+        "God promises",
+        "God reckoned",
+        "The Word was made flesh"
+      ],
+      "volledige_object_lijst": [
+        "Life",
+        "Righteousness",
+        "New Humanity",
+        "Signs"
+      ],
+      "werkwoord_frequentie": {
+        "gives/raises": {
+          "count": "12",
+          "primair_subject": "God"
+        },
+        "create/call": {
+          "count": "15",
+          "primair_subject": "God"
+        },
+        "cannot": {
+          "count": "8",
+          "primair_subject": "Man"
+        }
+      },
+      "notities": "Sermon delivered by Fleming Rutledge; embodies her 'Grammar of Grace' perfectly."
+    }
+  }
+]

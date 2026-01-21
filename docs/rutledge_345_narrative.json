@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "titel_preek": "The Great Exchange",
+    "bijbeltekst": "Romans 5:6-8, 2 Corinthians 5:21, 1 Peter 2:24",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God enters human history to substitute His own righteousness for human sinfulness through the death of Christ.",
+      "subject": {
+        "identificatie": "God / The Word",
+        "tekstueel_bewijs": [
+          "The acting subject is God.",
+          "God has chosen to reveal himself",
+          "God made him to be sin who knew no sin"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation / The Great Exchange (Righteousness for Sin)",
+        "tekstueel_bewijs": [
+          "that in him we might become the righteousness of God",
+          "his perfect health is exchanged for our sickness unto death"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as the source of historical revelation and justice)",
+        "tekstueel_bewijs": [
+          "Our God has chosen to reveal himself... by breaking into world events."
+        ],
+        "rol_interpretatie": "JUDGE/LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Human Race / The Hearer ('The Slave')",
+        "tekstueel_bewijs": [
+          "The slave - you and me",
+          "we might become the righteousness of God"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ (The Word made flesh)",
+        "tekstueel_bewijs": [
+          "he stepped into our place and took it away from us"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Incarnational)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin (as a Power) and Death",
+        "tekstueel_bewijs": [
+          "Sin is a Power that holds all human beings in its grip.",
+          "total incapacity... in my flesh."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described not as a mistake but as an ontological power and 'total incapacity' that humans cannot cure from within."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical response of the believer to the mercy received.",
+      "subject": "The Hearer",
+      "object": "Mercy toward others / Opposing humiliation",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical 'wanting' to show mercy is a direct result of 'truly understanding' the primary soteriological program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Righteousness → Humanity",
+      "helper_subject_tegenstander": "Christ → God ← Sin/Death",
+      "subject_naar_object": "God → Substitutionary Sacrifice"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has entered history from outside history",
+        "God made him to be sin",
+        "Christ died for the ungodly"
+      ],
+      "voorbeelden_mens_subject": [
+        "I do not do what I want",
+        "we are going to need more people like you",
+        "we go round and round in a cycle of selfishness"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "we are going to need more people like you"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we will never want to see another human being humiliated"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "it has never been more crucial... for Christians to understand"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "I can will what is right, but I cannot do it",
+          "incurably, irrevocably unable to cure the human race from within"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on human 'non-pouvoir' (incapacity) which necessitates God's 'pouvoir' (sovereign action)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Righteousness",
+      "s2": "Judgment/Death",
+      "niet_s1": "Sin/Flesh (Incapacity)",
+      "niet_s2": "Mercy (The Exchange)"
+    },
+    "beweging_in_preek": "Moves from the historical reality of S2 (Cross/Death) to the human condition of ~S1 (Incapacity), resolving in S1 via the 'Great Exchange'.",
+    "theologische_resolutie": "Christ takes S2 (the wage of sin) so that the Receiver moves from ~S1 to S1.",
+    "ernst_van_s2": "Extremely high; death is described as a 'rightful wage' and state-sponsored torture."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly identifies God as the acting subject and humans as the incapacitated receivers of an external rescue.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Flattery of the audience at the beginning",
+        "tekstueel_bewijs": "You are the avant-garde, the advance troops.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch to God",
+        "tekstueel_bewijs": "The acting subject is not humanity... The acting subject is God.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Sin is a Power that holds all human beings in its grip.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures like Elijah are used to show God's action in history, not as moral templates for the hearer.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: God breaks into history through Elijah and Christ."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and gratitude; shift from performance to reception.",
+      "theologische_implicatie": "Monergistic salvation; the 'Great Exchange' is an objective work of God."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The sermon maintains a strict hierarchy where the 'Great Exchange' (Soteriology) precedes and enables the 'Mercy' (Ethics).",
+      "spanning_punten": [
+        "The opening praise for the congregation's presence slightly clashes with the later emphasis on total human depravity."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "He has entered our condition to substitute his capacity for our incapacity.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on the Christological endowment of righteousness rather than the Pneumatological indwelling."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total incapacity; 'incurably, irrevocably unable to cure the human race'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "Strongly theocentric with God as the primary Subject and Sin as a heavy Opponent.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "Maintain God as the subject of active verbs regarding salvation.",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The 'avant-garde' comment risks making the hearer the Subject of the cultural battle.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Frame church attendance as being 'drawn by God' rather than being 'advance troops'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on non-pouvoir.",
+      "voorgestelde_balans": "Introduce more 'vouloir' (desire) as a gift of the Spirit.",
+      "concrete_suggestie": "Show how the 'Great Exchange' creates a new heart that desires the good."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Already very high.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The gravity of the cross is matched by the gravity of the 'Power of Sin'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Keep the current order: God's Action -> Human Incapacity -> The Exchange -> Resulting Mercy."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in maintaining God as the Subject. It avoids moralism by taking the 'Opponent' (Sin) seriously and placing the 'Object' (Righteousness) entirely in the hands of the 'Sender' (God)."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis might focus on the Newsweek hook, Greimas reveals the underlying 'Subject-switch' from man to God.",
+    "verschil_met_exegese": "Goes beyond explaining Romans 7 to showing how the text functions as a narrative engine of rescue.",
+    "unieke_inzichten_greimas": "Identifies that the 'Great Exchange' is not just a theme but a functional actantial swap between Subject and Receiver."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (reveals, breaks in, enters, makes, shows)",
+      "The Word (became, dwelt, grew stronger)",
+      "Sin (holds, dwells)",
+      "We (cannot do, deserve, receive)"
+    ],
+    "volledige_object_lijst": [
+      "The righteousness of God",
+      "The wage of death",
+      "Mercy"
+    ],
+    "werkwoord_frequentie": {
+      "died": {
+        "count": "8",
+        "primair_subject": "Christ"
+      },
+      "exchanged": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "cannot": {
+        "count": "3",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon successfully follows the Rutledge Rule."
+  }
+}

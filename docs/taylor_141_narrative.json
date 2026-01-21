@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "A Singer Sings Of Life And Death",
+    "bijbeltekst": "Psalm 39",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject, confronted by the existential crisis of mortality and the vanity of material life, must shift their hope from earthly illusions to the eternal God.",
+      "subject": {
+        "identificatie": "The Hearer / The 'I' (Humanity)",
+        "tekstueel_bewijs": [
+          "We might well learn some spiritual lessons",
+          "we refuse to consider that we are so very temporary",
+          "I put my hope — do you? —in him"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Hope / Bedrock / Eternal Security",
+        "tekstueel_bewijs": [
+          "Lord, what is my hope?",
+          "the central confidence in which I am living my days"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Psalmist / The Preacher (as Spokesman for Truth)",
+        "tekstueel_bewijs": [
+          "one man has become spokesman for all of us",
+          "The psalmist... turns with consummate logic"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Soul / The Hearer",
+        "tekstueel_bewijs": [
+          "every man, woman, boy, and girl within the feeble sound of my voice"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "God / Christ / The 'God-vision'",
+        "tekstueel_bewijs": [
+          "A great and deep reliance on God enables us to face the real facts",
+          "able to shelter us in the storm"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Time / Death / Materialism / Self-Deception",
+        "tekstueel_bewijs": [
+          "The tramp of time goes on like some relentless army",
+          "smart-alecky evasions to avoid looking at the facts"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death and Time are treated as an unstoppable, relentless army that strips man of all agency."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The movement from 'wearing the world as a loose garment' to active trust.",
+      "subject": "The Believer",
+      "object": "Reordering of priorities",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The realization of mortality (Primary) leads to the ethical choice of where to place hope (Secondary)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Truth/Psalmist → Hope → The Hearer",
+      "helper_subject_tegenstander": "God/Christ → The Hearer ← Time/Death",
+      "subject_naar_object": "The Hearer → Placing Hope in God"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "38",
+      "ratio": "0.36",
+      "voorbeelden_god_subject": [
+        "God walks his appointed rounds",
+        "Thou hast made my days as an handbreadth",
+        "He never leaves or forsakes his own"
+      ],
+      "voorbeelden_mens_subject": [
+        "We might well learn some spiritual lessons",
+        "we refuse to consider",
+        "We sell our souls for houses",
+        "I put my hope — do you?"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "We might well learn some spiritual lessons",
+          "we must... the central consideration"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "He merely wants to recognize his creatureliness",
+          "I put my hope — do you?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "LORD, make me to know mine end",
+          "That I may know how frail I am"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "able to stem the tide",
+          "able to shelter us"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a recruitment of the will. It assumes the hearer has the 'devoir' (must) and needs the 'vouloir' (desire) to choose God over the world."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Eternal Life/Hope",
+      "s2": "Death/Vanity",
+      "niet_s1": "Materialism/Illusion",
+      "niet_s2": "Realism/Facing Mortality"
+    },
+    "beweging_in_preek": "Moves from S2 (Death) to ~S1 (Illusion) to ~S2 (Realism) and finally to S1 (Hope in God).",
+    "theologische_resolutie": "The tension is resolved by the human act of 'putting hope' in the eternal God who stands outside the cycle of seasons.",
+    "ernst_van_s2": "Extremely high; death is the 'relentless army'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the language is deeply theocentric in its description of God's power, the actantial structure is anthropocentric. The human is the Subject who must 'learn', 'recognize', and 'put hope'. God is the Object/Helper rather than the primary Actor of the salvation event.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace/Decisionism",
+        "tekstueel_bewijs": "I put my hope — do you?",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "A great and deep reliance on God enables us to face the real facts",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christological Shift",
+        "tekstueel_bewijs": "we who live in the noonday brightness of the Light of the world",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Psalmist is used as a model for how the hearer should process grief and mortality.",
+      "bijbelse_figuren_als_model": [
+        "The Psalmist"
+      ],
+      "alternatieve_lezing": "Focus on how God 'made' the Psalmist's days and how God's faithfulness (not the Psalmist's hope) is the anchor."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Existential pressure to ensure one's 'hope' is correctly placed before the 'winter' of life.",
+      "theologische_implicatie": "Salvation is a human response to the realization of vanity."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The transition from the 'Law' of mortality to the 'Gospel' of hope is logical but relies heavily on human volition.",
+      "spanning_punten": [
+        "The 'relentless army' of death vs. the 'feeble sound of my voice'—the power of the opponent dwarfs the suggested human response."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "able to stem the tide and to steady the soul",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer can 'put hope' without a specific mention of the Spirit's enabling power."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'illusion' or 'vain shadow'—a failure of perspective rather than an ontological rebellion."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully humbles the human subject but then leaves the burden of 'hoping' on that same humbled subject.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'putting hope'.",
+      "voorgestelde_herpositionering": "Make God the subject of 'holding' the hearer.",
+      "voorbeeld_revisie": "Instead of 'I put my hope in Him', use 'He has reached into our vanity and anchored us in Himself.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the one who must 'learn lessons'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that we are the ones 'passed over' by death because of Christ's action, not our 'God-vision'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Vouloir (Willing)",
+      "voorgestelde_balans": "Pouvoir (Power)",
+      "concrete_suggestie": "Focus more on Christ's 'ability' (Pouvoir) as a gift rather than a reason for us to act."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly developed.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon already excels at depicting the gravity of death."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The 'Secondary Program' (Ethics of hope) is fused with the 'Primary Program' (Salvation).",
+      "voorgestelde_structuur": "Establish that God has already secured the year before asking the hearer to 'learn lessons'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a powerful, haunting atmosphere that effectively uses the Law to crush human pride, but it needs a more robustly theocentric grammar in its invitation to grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of imagery; actantially, it remains anthropocentric.",
+    "verschil_met_exegese": "Exegesis might focus on the Hebrew context of Psalm 39; Greimas shows how the sermon functions as a 'call to action' for the hearer's will.",
+    "unieke_inzichten_greimas": "Reveals that 'God' is used as a tool (Helper) for the human Subject to overcome the Opponent (Death)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We might learn",
+      "God walks",
+      "The writer is talking",
+      "We refuse to consider",
+      "I put my hope"
+    ],
+    "volledige_object_lijst": [
+      "spiritual lessons",
+      "my hope",
+      "the facts of life",
+      "the Rock of Ages"
+    ],
+    "werkwoord_frequentie": {
+      "think/consider": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "able": {
+        "count": "5",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon's power comes from its 'Opponent' description, but its 'Subject' remains the human will."
+  }
+}

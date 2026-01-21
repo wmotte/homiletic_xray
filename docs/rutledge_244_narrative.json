@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "Presenting Ourselves",
+    "bijbeltekst": "Romans 12:1–12",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God transforms a helpless and sinful community into the 'Body of Christ' through the sacrifice of His Son, enabling them to live as a living sacrifice.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "God is acting in your hearts to make this happen.",
+          "This is something God does in us.",
+          "God always finishes what he starts.",
+          "He is making us holy and acceptable to himself."
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "The New Reality / The Mind of Christ in the community",
+        "tekstueel_bewijs": [
+          "the mind of Christ taking shape in the community by the power of the Spirit",
+          "a situation of grace, a situation of mercy"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father (The Mercies of God)",
+        "tekstueel_bewijs": [
+          "by the mercies of God",
+          "God shows his love for us"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Congregation / The World",
+        "tekstueel_bewijs": [
+          "for the sake of the whole created order",
+          "to you the most tremendous news"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "Christ died for the ungodly",
+          "by the power of the Spirit"
+        ],
+        "rol_van_god": "God is the Subject acting through the Helper (Christ).",
+        "rol_van_geest": "Indwelling power that enables the 'living sacrifice'."
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Human Nature / The 'Old Self'",
+        "tekstueel_bewijs": [
+          "enslaved to sin",
+          "It is human nature to want its own way",
+          "while we were yet sinners"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as an enslaving power ('law of sin and death') that required the death of Christ to break."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The congregation presents themselves as a living sacrifice in response to God's mercy.",
+      "subject": "The Believer / Congregation",
+      "object": "Service to the neighbor / The Body",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly presented as the 'transforming result' or 'corresponding offering' of the primary program (grace)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Mercy) → New Life → Congregation",
+      "helper_subject_tegenstander": "Holy Spirit → God ← Sin/Death",
+      "subject_naar_object": "God → Transformation of the Community"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 24,
+      "mens_als_subject_count": 12,
+      "ratio": "2:1",
+      "voorbeelden_god_subject": [
+        "God is acting in your hearts",
+        "God's love has been poured into our hearts",
+        "God always finishes what he starts"
+      ],
+      "voorbeelden_mens_subject": [
+        "we offer and present unto thee",
+        "let us use them [gifts]",
+        "will you present yourselves?"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "not to think of himself more highly than he ought"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "redouble our desire to serve one another"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "recognition of the direct link",
+          "when we know Romans 12 well enough"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 10,
+        "voorbeelden": [
+          "we now are being enabled to become what we already are",
+          "the power of the Spirit"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Pouvoir' (Power/Ability) granted by God. It rejects 'Devoir' (Obligation/Law) as the primary engine, insisting that the ability to act follows the ontological change wrought by grace."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace / New Life",
+      "s2": "Sin / Death",
+      "niet_s1": "Law / Guilt Trip",
+      "niet_s2": "Human Nature / Self-Will"
+    },
+    "beweging_in_preek": "From S2 (Helpless sinners) through ~S1 (Guilt/Law) to S1 (Grace/Spirit).",
+    "theologische_resolutie": "The tension is resolved by the 'therefore'—the cross of Christ moves the subject from the law of sin to the law of the Spirit.",
+    "ernst_van_s2": "High; sin is described as helplessness and slavery, not just mistakes."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently identifies God as the primary actor. It explicitly critiques moralism ('guilt trips') and insists that ethical behavior is a description of what God is doing, not a prescription of what man must do to earn God.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism (Dave Cone)",
+        "tekstueel_bewijs": "Dave Cone said... those words are not far from the spirit of St. Paul",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch to God",
+        "tekstueel_bewijs": "We are not doing this; God is doing this.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Indicative over Imperative",
+        "tekstueel_bewijs": "Chapter 12 is a description, not a prescription.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Dave Cone is used as an opening hook, but the preacher quickly subordinates the human example to the 'mercies of God'.",
+      "bijbelse_figuren_als_model": [
+        "Paul (as one transformed by mercy)"
+      ],
+      "alternatieve_lezing": "The sermon already provides this by stating Paul is describing the 'mind of Christ' rather than just giving maxims."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Liberation from guilt; empowerment through identity.",
+      "theologische_implicatie": "Monergistic sanctification (God finishes what He starts)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The transition from Romans 1-11 (Soteriology) to 12 (Ethics) is the central pivot of the sermon.",
+      "spanning_punten": [
+        "The tension between 'presenting ourselves' (human act) and 'God is doing this' (divine act) is resolved via the concept of 'enabling'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Christ died for the ungodly... while we were yet sinners Christ died for us.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir-faire' (ability) to be a sacrifice."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Severe; described as 'helplessness' and 'slavery'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of a theocentric narrative where God is the Subject of the transformation and the congregation is the Receiver who becomes a secondary Subject only by the power of the primary Subject.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Grace).",
+      "voorgestelde_balans": "Maintain as is.",
+      "concrete_suggestie": "The sermon successfully balances the call to action (Devoir) by grounding it entirely in God's enablement (Pouvoir)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Sin is sufficiently 'heavy'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Already correctly ordered)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon masterfully avoids the trap of moralism by relentlessly returning the 'Subject' role to God, even when discussing human service."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the Dave Cone anecdote as a 'hook', Greimassian analysis shows it functions as a 'helper' to establish the actant of 'Sober Judgment'.",
+    "verschil_met_exegese": "Exegesis explains the 'therefore'; semiotics shows how the 'therefore' functions as a modal shifter from Devoir to Pouvoir.",
+    "unieke_inzichten_greimas": "Reveals that the 'guilt trip' mentioned by the parishioner was a result of a perceived Subject-shift that the preacher then corrects by re-establishing God as the Subject."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (acts)",
+      "Christ (died)",
+      "Spirit (takes shape)",
+      "We (present/offer - as secondary subjects)"
+    ],
+    "volledige_object_lijst": [
+      "Living sacrifice",
+      "The Body",
+      "Mercy",
+      "New Life"
+    ],
+    "werkwoord_frequentie": {
+      "died": {
+        "count": 3,
+        "primair_subject": "God/Christ"
+      },
+      "present": {
+        "count": 5,
+        "primair_subject": "Man (enabled by God)"
+      },
+      "is doing": {
+        "count": 4,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon explicitly uses the 'Rutledge Rule' by stating 'God is doing this' multiple times."
+  }
+}

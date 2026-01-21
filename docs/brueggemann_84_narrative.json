@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "Lent as Alternative to Empire",
+    "bijbeltekst": "Isaiah 55:1-7, Luke 13:1-9, Psalm 63:5-8",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from a life of 'Empire' (production/consumption) to a life of 'Faith' (mercy/pardon) through the disruption of God's word.",
+      "subject": {
+        "identificatie": "The Hearer (Presbyterians/Fourth Church types)",
+        "tekstueel_bewijs": [
+          "Why do you spend your money on that which is not bread?",
+          "Return to your roots; seek the Lord.",
+          "Act baptized!"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "True Identity/Satisfaction (Bread, Wine, Milk)",
+        "tekstueel_bewijs": [
+          "that which heals and transforms",
+          "recovery of faith identity"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God/The Poet (Isaiah)",
+        "tekstueel_bewijs": [
+          "Isaiah disrupts with his poem",
+          "God who gives free gifts"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer/The Soul",
+        "tekstueel_bewijs": [
+          "My soul is satisfied as with a rich feast"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Church/The Gospel/Lent",
+        "tekstueel_bewijs": [
+          "Fourth Church is a carrier of this stunning poem",
+          "Lent is a question, a gift and a summons"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "The Empire (AT&T, Babylon, Greed, Anxiety)",
+        "tekstueel_bewijs": [
+          "the force of empire",
+          "the rat-race of 'big is better'"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as a socio-economic mindset or 'phoniness' rather than an ontological power like Sin or Death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The production of 'fruit' (ethical living) as a result of returning to faith.",
+      "subject": "The Hearer",
+      "object": "Pardon, mercy, compassion, generosity",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon oscillates between fruit being a 'gift' and fruit being a 'task' required to avoid perishing."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Free Gifts → The Hearer",
+      "helper_subject_tegenstander": "Lent/Church → The Hearer ← Empire/Greed",
+      "subject_naar_object": "The Hearer → Seeking God/Bearing Fruit"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "38",
+      "ratio": "0.37",
+      "voorbeelden_god_subject": [
+        "God disrupts with his poem",
+        "God who gives free gifts",
+        "He will abundantly pardon"
+      ],
+      "voorbeelden_mens_subject": [
+        "Why do you spend your money?",
+        "We can succeed and expand",
+        "You who have no money, come buy"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Unless you repent, you will all perish",
+          "Act baptized!",
+          "Lent is a summons"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "They wanted to get ahead",
+          "Who wants us out of the rat-race"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "What are we doing?",
+          "Have you lost your mind?"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "If we have better equipment... we can succeed",
+          "If it cannot produce figs, cut it down"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon focuses heavily on the obligation (Devoir) to change and the summons to act, assuming the hearer has the power (Pouvoir) if they simply choose to 'return'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Mercy/Pardon",
+      "s2": "Empire/Anxiety",
+      "niet_s1": "Productivity/Greed",
+      "niet_s2": "Free Gifts/Bread"
+    },
+    "beweging_in_preek": "From S2 (Empire) to ~S2 (Free Gifts) to S1 (Mercy), but ending on a Devoir-heavy S1 (Repentance/Fruit).",
+    "theologische_resolutie": "Resolution is found in 'returning' to a true self that is capable of bearing fruit.",
+    "ernst_van_s2": "Moderate; Empire is seen as a 'seduction' rather than a totalizing bondage."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the sermon uses the language of 'free gifts' and 'pardon,' the underlying actantial structure is anthropocentric: the human subject must 'seek,' 'return,' and 'bear fruit' to avoid perishing.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "Unless you repent, you will all perish.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Human as Primary Subject",
+        "tekstueel_bewijs": "Do the first fruit of the new life.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Gift Language",
+        "tekstueel_bewijs": "It is all free! It is all a gift.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Jewish exiles and the fig tree are used as models for the hearer's behavior.",
+      "bijbelse_figuren_als_model": [
+        "Jewish exiles",
+        "The Fig Tree"
+      ],
+      "alternatieve_lezing": "God as the gardener who preserves the tree despite its fruitlessness."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'mercy' as a new form of productivity.",
+      "theologische_implicatie": "Synergism: God provides the venue, but man must execute the return."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "There is a tension between the 'free gift' and the 'summons to bear fruit or die.'",
+      "spanning_punten": [
+        "The transition from 'free wine' to 'unless you repent you perish'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Lent is a wake-up call... to focus on this mercy.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer has the innate capacity to 'return' once they are 'woken up'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is framed as 'anxiety' and 'greed'—maladjustments to empire rather than spiritual death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'recruitment' narrative. It attempts to move the hearer from one Subject-role (Producer) to another (Mercy-bearer), but God remains a background Sender/Helper rather than the lead Actor.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one who must 'quit,' 'stop,' and 'start.'",
+      "voorgestelde_herpositionering": "Make God the subject of the 'returning.'",
+      "voorbeeld_revisie": "Instead of 'Return to your roots,' use 'God is fetching you back to your roots.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the productive fig tree.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the thirsty one who has NO money, emphasizing total passivity in receiving the wine/milk."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God's Power)",
+      "concrete_suggestie": "Focus on how God's pardon actually *enables* the change that the empire's anxiety prevents."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Empire as a lifestyle choice.",
+      "voorgestelde_intensivering": "Empire as a spiritual bondage that we cannot escape by 'new resolve.'",
+      "theologische_rationale": "To make the 'free gift' truly necessary rather than just a better option."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (bearing fruit) is threatening to swallow Soteriology (pardon).",
+      "voorgestelde_structuur": "Establish the Pardon as an accomplished fact that *necessarily* produces fruit, rather than a conditional reward."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a beautiful rhetorical flow and captures the cultural tension well, but it risks turning 'Grace' into a new item on the 'To-Do' list."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is persuasive and 'winsome.' Actantially, it is a heavy burden on the hearer.",
+    "verschil_met_exegese": "Exegesis identifies the 'free' nature of Isaiah 55, but the narrative structure imposes a 'unless you repent' conditionality from Luke.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the word 'free' appearing 7 times, the Hearer is the Subject of 70% of the active verbs, making it a sermon of Law."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (can succeed)",
+      "Isaiah (disrupts)",
+      "You (spend money)",
+      "You (return)",
+      "God (has mercy)",
+      "Jesus (says)"
+    ],
+    "volledige_object_lijst": [
+      "Bread",
+      "Wine",
+      "Identity",
+      "Fruit",
+      "Pardon"
+    ],
+    "werkwoord_frequentie": {
+      "return": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "pardon": {
+        "count": "3",
+        "primair_subject": "God"
+      },
+      "repent": {
+        "count": "2",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The use of the AT&T ad creates a strong cultural frame that dominates the biblical actants."
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "index_split_010 (Woman, behold thy son!)",
+    "bijbeltekst": "John 19:25-27",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus, from the cross, creates a new community (the Church) that transcends biological and social ties through his sacrifice.",
+      "subject": {
+        "identificatie": "Jesus Christ",
+        "tekstueel_bewijs": [
+          "Jesus has done something completely new",
+          "he is causing a new relationship to come into existence",
+          "Jesus is calling people into a new relationship"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The New Community / The Church",
+        "tekstueel_bewijs": [
+          "the new community that comes into being through the power of Jesus",
+          "a much wider family",
+          "new families in Christ"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "the ties of the Spirit",
+          "when the Christian community is not grieving the Holy Spirit"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Disciples / The Hearers (The Church)",
+        "tekstueel_bewijs": [
+          "for our good and for his glory",
+          "we who belong to Christ"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Blood of Jesus",
+        "tekstueel_bewijs": [
+          "rewriting the covenant in his own blood",
+          "newly created by the Spirit of Christ"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "INDWELLING_POWER"
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Human Divisions (Blood, Race, Class)",
+        "tekstueel_bewijs": [
+          "bonds of sin",
+          "blood and race and class and theological differences"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a 'bond' that requires deliverance and something that 'stains robes' and 'grieves the Spirit', requiring a new covenant in blood."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The response of the believer to this new reality: living out the commitment to this new family.",
+      "subject": "The Believer / The Hearer",
+      "object": "Commitment to the calling / Transcending differences",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly framed as a response to the primary program (Jesus' creative act on the cross)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Holy Spirit → New Community → The Church",
+      "helper_subject_tegenstander": "The Blood of Christ → Jesus ← Sin/Divisions",
+      "subject_naar_object": "Jesus → New Family Ties"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "Jesus has done something completely new.",
+        "He is setting aside the blood relationship.",
+        "May God deliver the whole Church."
+      ],
+      "voorbeelden_mens_subject": [
+        "We are thereby instructed to take care of our own mothers.",
+        "The disciple took her to his own home.",
+        "May we who belong to Christ be newly committed."
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "We are thereby instructed to take care of our own mothers (cited as a limited view)."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "May we... be newly committed to our calling."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "What is actually happening... is much more significant.",
+          "There are signs that we can identify."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "The new community that comes into being through the power of Jesus.",
+          "Jesus has done something completely new."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the divine 'can' (the power of the cross) rather than the human 'must'. Grace is presented as the endowment of a new reality."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "New Covenant (Spirit)",
+      "s2": "Old Ties (Blood/Sin)",
+      "niet_s1": "Institutionalism/Division",
+      "niet_s2": "Biological Family (Natural Law)"
+    },
+    "beweging_in_preek": "From S2 (Natural family/Sin) through ~S1 (Critique of the church) to S1 (The Spirit-created community).",
+    "theologische_resolutie": "The tension between biological ties and spiritual ties is resolved by Jesus 'transcending' the former to create the latter.",
+    "ernst_van_s2": "High; sin is acknowledged as a binding force that only God can deliver us from."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly rejects a moralistic interpretation (Mother's Day exemplarism) in favor of a theocentric, creative act of Christ.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (rejected)",
+        "tekstueel_bewijs": "We are thereby instructed to take care of our own mothers... this way of understanding... has long been considered insufficient.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "Jesus has done something completely new.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Soteriological Priority",
+        "tekstueel_bewijs": "The saying is not about being nice to your mother. It is about the new community that comes into being through the power of Jesus.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The preacher explicitly deconstructs the use of Jesus or Mary as mere moral examples for family care.",
+      "bijbelse_figuren_als_model": [
+        "Mary (rejected as model for mothers)",
+        "John (rejected as model for sons)"
+      ],
+      "alternatieve_lezing": "They are symbolic actants in God's creation of the Church."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe at the power of the Spirit to unite disparate people.",
+      "theologische_implicatie": "Ecclesiology is a gift of grace, not a human achievement of social justice."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The sermon maintains a tight focus on the 'new thing' Jesus does, using personal anecdotes to illustrate the reality of the new community rather than to provide 'how-to' steps.",
+      "spanning_punten": [
+        "The tension between the 'stained robes' of the church and the 'Kingdom of heaven' experience in the rectory."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "Transcended in his Name, for our good and for his glory.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit creates the 'ties' that humans cannot create themselves."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Severe; sin is seen as 'bonds' and something that 'stains' the very nature of the church."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully positions Jesus as the Subject of the primary narrative, creating the Church as the Object for the Hearer as Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Savoir (explanation of Greek/context).",
+      "voorgestelde_balans": "Maintain the current Pouvoir (power) focus.",
+      "concrete_suggestie": "Connect the 'blood of the covenant' more explicitly to the forgiveness of the 'sins of commission' mentioned earlier."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Sin is mentioned but the 'Opponent' in the Luba/Catholic stories is mostly social/historical.",
+      "voorgestelde_intensivering": "Clarify that the 'Opponent' to the new community is not just 'differences' but the spiritual 'enmity' that Christ's blood specifically dissolves.",
+      "theologische_rationale": "To prevent the 'new community' from sounding like a successful social club."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ creates family) → Ethics (We commit to this family)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of moving from a potential moralism to a deep, actantial grace-structure."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the effectiveness of the Luba/Catholic anecdotes; semiotics shows these stories function as 'proof of competence' for the Subject (Jesus).",
+    "verschil_met_exegese": "Exegesis explains the 'Woman' address; semiotics explains why that address is a necessary 'Subject-action' to re-categorize the 'Object' (the mother).",
+    "unieke_inzichten_greimas": "Reveals that the sermon's power comes from shifting the hearer from a 'Subject who must care for mother' to a 'Receiver of a new family'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (saw, said, done, causing, setting aside, calling)",
+      "The Spirit (creates, comes afresh)",
+      "The Disciple (took her)",
+      "We (learn, hear, identify, commit)"
+    ],
+    "volledige_object_lijst": [
+      "The new community",
+      "The mother (as symbolic)",
+      "New relationships",
+      "Deliverance from sin"
+    ],
+    "werkwoord_frequentie": {
+      "create/done": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "transcend": {
+        "count": "3",
+        "primair_subject": "God/Spirit"
+      }
+    },
+    "notities": "The sermon is a textbook case of Rutledge's 'Grammar of Grace' by explicitly refuting the 'instructed to take care of mothers' (Man as Subject) model."
+  }
+}

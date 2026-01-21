@@ -1,0 +1,364 @@
+{
+  "metadata": {
+    "titel_preek": "Out-Imagining Pharaoh",
+    "bijbeltekst": "Exodus 1:8-2:10; Romans 12:1-8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher recounts the narrative of Shiphrah and Puah defying Pharaoh and links it to Paul's exhortations in Romans 12 regarding non-conformity.",
+      "exegetische_kwaliteit": "High; focuses on the sociopolitical dimensions of the text and the naming/unnaming of characters.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting historical/theological parallels and directing ethical behavior based on those parallels.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Pharaoh is a metaphor for every political economy...",
+        "I believe there is a long straight line...",
+        "Do not conform!"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To inspire political and social resistance; to encourage generosity and hospitality.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly mentioned as the agent of transformation.",
+      "perlocutionaire_werkwoorden": [
+        "resist",
+        "imagine",
+        "give",
+        "welcome",
+        "differentiate"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "82",
+      "procent": "70%",
+      "voorbeelden": [
+        "The Exodus story pivots on the character of Pharaoh.",
+        "He thought he did not have enough yet.",
+        "Pharaoh has many names and many faces."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "pivots",
+        "means",
+        "shows"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "15%",
+      "voorbeelden": [
+        "Say 'Shiphrah'!",
+        "Do not be conformed to this world.",
+        "Give generously."
+      ],
+      "dominante_werkwoorden": [
+        "say",
+        "do not conform",
+        "give",
+        "welcome"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "5",
+      "procent": "4%",
+      "voorbeelden": [
+        "It is a good thing for us to be reading it.",
+        "It is astonishing that we know their names."
+      ],
+      "dominante_werkwoorden": [
+        "is (good)",
+        "believe",
+        "notice"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "The news is that we need not conform."
+      ],
+      "dominante_werkwoorden": [
+        "is (the news)"
+      ],
+      "kwaliteit": "Weak; the 'news' is presented as a factual possibility rather than a divine promise directed to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "Christ is our Passover that is sacrificed for us."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Low; the declaration is framed as a quote from the liturgy rather than a direct performative act by the preacher."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical retelling",
+        "Metaphorical analysis of Pharaoh",
+        "Third-person descriptions of Paul's writing"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a historical/political pattern rather than a participant in a divine event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Divine Address"
+      ],
+      "effect_op_hoorder": "Moral exhaustion; the hearer is told to 'be transformed' without the performative word that effects transformation."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "N/A",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "12",
+        "gebruik": "Mostly 'we' to create a sense of shared community/history."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Limited; mostly used to point to the text ('You may notice').",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant; describing Pharaoh, the midwives, and Paul.",
+        "distantie_effect": "High; creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Narrating Exodus and Jesus' history."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Defining Pharaoh as a metaphor and Paul's theology."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Briefly mentioning the Eucharist and current politics."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Pharaoh/Midwives) -> Directive (Do not conform).",
+      "voorbeelden": [
+        "Paul lines out what it means... Do not be conformed."
+      ],
+      "probleem": "The imperative (Directive) lacks a preceding Commissive (Promise) to empower the action."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Paul then lines out... aspects of conformity that we may resist."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "The sermon functions as an ethical appeal based on historical precedent. It describes a reality (Pharaoh) and demands a response (Generosity), but fails to deliver the grace that enables the response.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Engagement",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Say 'Shiphrah'! Say 'Puah'!",
+        "effect": "Engages the audience in the story's drama."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The news is that we need not conform.",
+        "probleem": "This is a statement about news, not the delivery of news itself.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a lecture about an event (the Exodus) rather than being an event of Exodus for the hearer.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The sermon stays in the realm of 'talking about' God's work in the past or in metaphors."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; the preacher speaks about God's past actions.",
+      "prediker_als_mandataris": "Weak; the preacher acts more as a social commentator/teacher.",
+      "tekstueel_bewijs": [
+        "I believe, moreover, that there is a long straight line..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly relies on human willpower to 'not conform'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the sermon is an 'indispensable story' rather than a means of grace.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "It is a good thing for us to be reading it."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is over-reliant on 'is' and 'was'. It needs a shift to 'I promise' and 'God gives'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The news is that we need not conform.",
+          "voorgestelde_revisie": "In the name of Jesus, I declare you free from Pharaoh's scarcity.",
+          "verschil": "Moves from a fact about freedom to the bestowal of freedom."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'good news' is treated as an idea to be imagined.",
+      "suggestie": "Directly address the congregation with God's promise of presence.",
+      "voorbeeldzinnen": [
+        "God promises to provide for you so that you can give."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' (Pharaoh) and 'they' (Midwives).",
+      "suggestie": "Use 'You' to place the hearer in the moment of decision.",
+      "voorbeeldzinnen": [
+        "You are no longer slaves to this system."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'Do not conform' is a heavy burden without the 'Christ has freed you' as a performative foundation.",
+      "suggestie": "Preach the indicative as a present reality before the imperative."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and ethically urgent, but it lacks the sacramental 'punch' of a performative word. Shift from talking about the story to letting the story happen to the people."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' (Sachebene), whereas SAT reveals the lack of a 'Declarative' act that actually changes the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is strong (metaphor, repetition), but illocutionarily it is weak (it describes rather than does).",
+    "unieke_inzichten_SAT": "SAT identifies that the 'event' is missing because the preacher is stuck in the 3rd person/past tense."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "pivots",
+        "know",
+        "dreamed",
+        "thought",
+        "used",
+        "treated",
+        "believe",
+        "shows",
+        "begins",
+        "decrees",
+        "wants",
+        "happens",
+        "defying",
+        "engaged",
+        "fear",
+        "rendered",
+        "asked",
+        "answered",
+        "protect",
+        "mention",
+        "attest",
+        "affirm",
+        "responded",
+        "gets",
+        "performed",
+        "besets",
+        "belong",
+        "refused",
+        "situates",
+        "lines",
+        "means",
+        "is (miserly)",
+        "specializes"
+      ],
+      "directief": [
+        "Say",
+        "Notice",
+        "Think",
+        "Do not be conformed",
+        "Be transformed",
+        "Give",
+        "Seek",
+        "Welcome",
+        "Never avenge",
+        "Leave room",
+        "Feed",
+        "Imagine"
+      ],
+      "expressief": [
+        "believe",
+        "hope",
+        "notice",
+        "astonishing"
+      ],
+      "commissief": [
+        "promises (implied)",
+        "is (the news)"
+      ],
+      "declaratief": [
+        "is (our Passover)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Pharaoh is a metaphor for every political economy...",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Descriptive",
+        "effectiviteit": "Informative but distancing."
+      },
+      {
+        "zin": "Do not be conformed to this world.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Commanding",
+        "effectiviteit": "Strong, but lacks the enabling grace."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus'. It provides a brilliant lecture on the text but stops short of being a sacramental event where God speaks directly to the soul."
+  }
+}

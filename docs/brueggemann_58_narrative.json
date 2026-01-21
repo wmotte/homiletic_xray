@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "Called against the Distortion",
+    "bijbeltekst": "Exodus 20; 1 Corinthians 1; John 2 (Temple Cleansing)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from a life distorted by worldly systems (greed, anxiety, power) to a 'faithful life' of alternative existence through the call of God and the example of Jesus.",
+      "subject": {
+        "identificatie": "The Church/The Hearer (Human-centric)",
+        "tekstueel_bewijs": [
+          "I believe that now the church must think afresh",
+          "the people called by God are to live a faithful life",
+          "we move... from command to call"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "A 'faithful life' / 'undistorted life of trust'",
+        "tekstueel_bewijs": [
+          "what such a faithful life would look like",
+          "living a true existence"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "God (as Lawgiver/Caller)",
+        "tekstueel_bewijs": [
+          "The commands were given by God",
+          "God has called a people"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The World/The Neighborhood",
+        "tekstueel_bewijs": [
+          "that the neighborhood might be reconstituted",
+          "that the world may come to know"
+        ],
+        "positie_hoorder": "Subject (The one tasked with the mission)"
+      },
+      "helper": {
+        "identificatie": "Jesus (as Exemplar/Model)",
+        "tekstueel_bewijs": [
+          "Jesus helps us see",
+          "Jesus will move you beyond yourself",
+          "Jesus protests!"
+        ],
+        "rol_van_god": "Helper (Jesus provides the pattern/motivation for the Subject's action)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "The Distortion / Social System / Worldly Wisdom",
+        "tekstueel_bewijs": [
+          "aggressive commodity transactions",
+          "a social system gone crazy",
+          "the learnedness of the world"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as a 'dysfunctional arrangement of social power' rather than an ontological or spiritual death that the Subject is powerless against."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The 'Easter' narrative where God gives life to the weak.",
+      "subject": "God",
+      "object": "New Life / Wholeness",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The primary program is the Church's mission; the secondary program (God's grace) is used as the fuel or 'boasting' point for the primary program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Faithful Life → The Neighborhood",
+      "helper_subject_tegenstander": "Jesus (Exemplar) → The Church ← The Distortion",
+      "subject_naar_object": "The Church → Subverting the Distortion"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "32",
+      "ratio": "0.43",
+      "voorbeelden_god_subject": [
+        "God has called a people",
+        "God will give what we need",
+        "God is calling us"
+      ],
+      "voorbeelden_mens_subject": [
+        "the church must think afresh",
+        "we must desist from the futile effort",
+        "we move... from command to call",
+        "you must embrace the life"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "the church must think afresh",
+          "one must stop work",
+          "one must desist"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "I want to think with you",
+          "the community... that intends to live"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Jesus helps us see",
+          "the wisdom of the world does not teach us"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Jesus will move you beyond yourself",
+          "God will give what we need"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir). It assumes that by 'imagining' and 'thinking afresh' (Savoir), the church can and must act (Devoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Faithful Life (Alternative)",
+      "s2": "Distortion (System)",
+      "niet_s1": "Cheapened Moralism",
+      "niet_s2": "Ordinary Life (Neutrality)"
+    },
+    "beweging_in_preek": "Moves from S2 (Distortion) to ~S1 (Moralism) to S1 (The Alternative Call).",
+    "theologische_resolutie": "Resolution is found in the Church's decision to 'depart' the distortion and 'embrace' the call.",
+    "ernst_van_s2": "S2 is treated as a social pathology rather than a terminal spiritual condition."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While it uses the language of 'Easter' and 'Gift,' the actantial structure places the Church as the Subject of the mission to subvert the world. God is the Sender/Caller, but the Church is the Hero.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Subject-Switch to Hearer",
+        "tekstueel_bewijs": "the church must think afresh what such a faithful life would look like",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Conditional Alternative",
+        "tekstueel_bewijs": "When we live in that way, we expose the way the world is organized",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Passive Reception",
+        "tekstueel_bewijs": "Easter weakness that lets God’s new life surge upon us",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Jesus is presented as the one who 'helps us see' and 'protests,' serving as the model for the church's own protest.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Moses",
+        "Paul"
+      ],
+      "alternatieve_lezing": "Instead of Jesus 'helping us see' how to protest, Jesus *is* the protest of God that has already overcome the world on our behalf."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Inspiration followed by the weight of an 'enormous call.'",
+      "theologische_implicatie": "Sanctification (the alternative life) precedes or swallows Justification."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but structurally shifts between God's gift and the Church's task without a clear causal link other than 'imagining.'",
+      "spanning_punten": [
+        "The tension between 'God will give what we need' and 'the church must think afresh.'"
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Jesus... helps us see that the learnedness of the world will not save the world.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The 'call' itself is treated as the endowment of competence."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "SOCIAL_PATHOLOGY",
+      "ernst_diagnose": "Sin is 'distortion' and 'anxiety' rather than 'death' or 'enmity with God.'"
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (The Church subverting the system)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Recruitment' narrative. God is the Sender who issues a mandate, and the Church is the Subject who must execute the performance. Jesus is the Helper/Model.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The Church is the subject of 'subverting' and 'reconstituting.'",
+      "voorgestelde_herpositionering": "Make God the subject of the subversion.",
+      "voorbeeld_revisie": "In the cross, God has already subverted the distortion, freeing us to simply walk in the light."
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'Alternative Hero.'",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the hearer as the one who was 'distorted' and was 'rescued' by Jesus' temple-cleansing action."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Can/Empowered)",
+      "concrete_suggestie": "Move from 'we must live alternatively' to 'the Spirit enables us to live alternatively.'"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Social distortion.",
+      "voorgestelde_intensivering": "The 'Distortion' is a power we cannot think our way out of.",
+      "theologische_rationale": "If the opponent is just a 'system,' we just need a better 'imagination.' If the opponent is Sin, we need a Savior."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "The 'Call' (Ethics) is the primary story.",
+      "voorgestelde_structuur": "Soteriology (What Jesus did in the temple) must be the finished ground upon which the Call stands."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A powerful social critique that risks becoming a new law. To move toward grace, ensure God remains the Subject of the active verbs of transformation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is brilliant and 'prophetic.' Actantially, it is a mandate-driven narrative.",
+    "verschil_met_exegese": "Exegesis identifies the 'what' of the text; Greimas reveals that the 'who' of the action has shifted from God to the Church.",
+    "unieke_inzichten_greimas": "Reveals that 'Easter' is used as a modal helper (power-source) for a human performance rather than the performance itself."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (came, looked, acted, protests)",
+      "The Church (must think, must live, must consider)",
+      "We (depart, get a distorted life, move)",
+      "God (has called, is calling, will give)"
+    ],
+    "volledige_object_lijst": [
+      "faithful life",
+      "undistorted life",
+      "new life",
+      "the neighborhood"
+    ],
+    "werkwoord_frequentie": {
+      "call": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "must": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "live": {
+        "count": "8",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Prophetic Moralism' where the gospel is the motivation for social change rather than the news of a completed rescue."
+  }
+}

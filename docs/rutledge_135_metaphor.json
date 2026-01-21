@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "Lydia: The First Christian in Europe",
+    "bijbeltekst": "Acts 16:6-15, 40; Philippians 1:4-11",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "extreme traveler",
+          "covering thousands of miles",
+          "mid-journey",
+          "crossing for the refugees",
+          "immense journey",
+          "set foot in Europe"
+        ],
+        "conceptuele_metafoor": "MISSION IS A JOURNEY"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "price that was paid",
+          "build a market-dominating corporation",
+          "partnership in giving and receiving",
+          "unstinting generosity",
+          "relief of the saints"
+        ],
+        "conceptuele_metafoor": "FAITH IS PARTNERSHIP/INVESTMENT"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "foundations of the prison shook",
+          "church in her house",
+          "Unless the Lord builds the house",
+          "bring it to completion"
+        ],
+        "conceptuele_metafoor": "THE CHURCH IS A BUILDING"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The Christian gospel would have rapidly deteriorated into generic morality and spiritual slush.",
+        "brondomein": {
+          "naam": "PHYSICAL SUBSTANCE/LIQUID",
+          "concrete_elementen": [
+            "slush",
+            "melting snow",
+            "viscosity",
+            "lack of structure"
+          ],
+          "belichaamde_basis": "container/balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Orthodoxy/Doctrine",
+          "doctrinale_traditie": "Mainline/Episcopal"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Slush (unstructured liquid)",
+            "doel_element": "Vague/Liberal morality"
+          },
+          {
+            "bron_element": "Solid structure",
+            "doel_element": "Apostolic teaching"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Doctrine must be 'solid' to be useful",
+            "Vagueness is a form of decay"
+          ],
+          "theologische_implicaties": [
+            "Theology requires boundaries and definitions to maintain its essence"
+          ],
+          "ethische_implicaties": [
+            "Moral clarity requires rigorous intellectual adherence to tradition"
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that 'fluid' or 'evolving' theology is inherently 'dirty' or 'useless'"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses a highly sensory, tactile image ('slush') to critique abstract theological drift."
+      },
+      {
+        "metafoor_expressie": "The Lord opened her heart to give heed.",
+        "brondomein": {
+          "naam": "CONTAINER",
+          "concrete_elementen": [
+            "locked door",
+            "vessel",
+            "opening mechanism"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Conversion/Grace",
+          "doctrinale_traditie": "Reformed/Augustinian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Closed container",
+            "doel_element": "Human resistance/indifference"
+          },
+          {
+            "bron_element": "Opening",
+            "doel_element": "Divine intervention/receptivity"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The individual is passive in the initial moment of grace",
+            "Faith is something that enters from the outside"
+          ],
+          "theologische_implicaties": [
+            "Monergism: God initiates the change of heart"
+          ],
+          "ethische_implicaties": [
+            "Humility regarding one's own faith journey"
+          ],
+          "onbedoelde_consequenties": [
+            "Potential loss of human agency in the decision to believe"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Standard biblical idiom, though the preacher revitalizes it by contrasting it with Lydia's 'imperious' nature."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon successfully weaves the 'Journey' of Paul with the 'Business' of Lydia. It uses the physical movement across borders as a proxy for the expansion of the Gospel.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Middle section",
+          "metafoor_a": "Paul as 'Heroic Scale' traveler",
+          "metafoor_b": "Paul as 'Market-dominating' CEO (Bill Gates)",
+          "conflict_beschrijving": "The ascetic, suffering traveler (Paul in 2 Cor 11) clashes with the image of a modern corporate monopolist.",
+          "entailment_conflict": "Suffering/Weakness vs. Market Dominance/Power",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Building a house",
+            "Partnership in the gospel"
+          ],
+          "blending_strategie": "The physical building project of the local church is blended with the relational 'partnership' of the Philippians to justify capital campaigns through spiritual history."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'Journey' metaphor by linking it to contemporary geopolitical events (Kosovo refugees).",
+        "voorbeeld": "Macedonia... that part of the former Yugoslavia which received hundreds of thousands of fleeing Kosovars."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "Comparing Paul's mission to Bill Gates' market dominance risks framing the Gospel as a product or corporate conquest.",
+        "voorbeeld": "Bill Gates was never any more single-mindedly determined to build a market-dominating corporation than Paul was.",
+        "potentiele_impact": "Congregation may view church growth through a secular, competitive business lens.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The riverside at Philippi (The 'Minyan' scene)",
+      "sub_worlds": [
+        "The Roman Forum/Amphitheater (The 'What could have been' space)",
+        "Modern Sheffield, MA (The 'Comfortable pew' space)",
+        "The 1999 Kosovo refugee crisis"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Opening",
+          "van_wereld": "Ancient Macedonia",
+          "naar_wereld": "Modern Mainline Denominations",
+          "effectiviteit": "Effective in establishing the 'problem' of ignorance."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Sovereign Director",
+          "hoe_versterkt": "Emphasizing the Spirit 'preventing' and 'allowing' travel paths."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Paul as Misogynist",
+          "verstoring_strategie": "Highlighting his immediate submission to Lydia's hospitality and his reliance on her leadership.",
+          "vervangend_schema": "Paul as Strategic Partner with Women"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits Epiphany theme of 'Manifestation' to the Gentiles/Europe."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY and ECONOMIC domains. It successfully uses the JOURNEY domain to create a sense of historical momentum and the ECONOMIC domain to validate the leadership and financial contributions of the congregation.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "PURPLE DYE",
+        "huidige_status": "Used as a status symbol only.",
+        "suggestie": "Deepen the source domain by describing the physical process of extracting dye from murex shells—the messiness and the smell.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Lydia’s hands were likely stained forever by the crushing of thousands of shells—a permanent mark of her trade."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "Paul as CEO vs Paul as Suffering Servant",
+        "resolutie_strategie": "Clarify that Paul’s 'market dominance' is actually the 'dominance of Grace' which subverts worldly power structures."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "CHURCH AS HOUSEHOLD",
+        "problematisch_entailment": "Suggests a hierarchy where the 'head' (Lydia) decides the faith of the 'servants'.",
+        "aanbeveling": "Balance with individual 'opening of the heart' to ensure personal agency isn't erased by the household schema."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN (Seeds/Growth)",
+        "rationale": "To soften the 'corporate' feel of the mission and emphasize organic growth.",
+        "doel_concept": "Church Planting"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of historical and geographical mapping to make an ancient text feel physically present and cognitively urgent."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'vivid descriptions,' CMT reveals how the 'Journey' metaphor structures the hearer's understanding of divine providence.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT focuses on the pre-reflective image schemas (Container, Path) that make the sermon's logic 'feel' right.",
+    "unieke_inzichten_CMT": "CMT identifies the 'Spiritual Slush' metaphor as a crucial cognitive anchor for the preacher's argument against theological liberalism."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Spiritual slush",
+      "Set foot in Europe",
+      "Lay of the land",
+      "Mover and a shaker",
+      "Opened her heart",
+      "Partnership in the gospel",
+      "Stingy Corinthians",
+      "Fruits of righteousness"
+    ],
+    "woord_frequentie_analyse": {
+      "journey": "4",
+      "power": "6",
+      "church": "18",
+      "women": "7",
+      "spirit": "8"
+    },
+    "notities": "The preacher uses Calvin as a 'Metaphorical Validator' to bridge the gap between ancient text and modern application."
+  }
+}

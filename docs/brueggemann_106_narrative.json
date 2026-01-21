@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "titel_preek": "What Did You Have in Mind?",
+    "bijbeltekst": "Philippians 2, Ezekiel 18, Matthew 21",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The hearer is called to undergo a cognitive and volitional transformation (changing the mind) to move from selfish 'totalism' to the 'mind of Christ' characterized by self-giving.",
+      "subject": {
+        "identificatie": "The Hearer (Humanity)",
+        "tekstueel_bewijs": [
+          "get yourselves a new heart and a new spirit",
+          "you did not change your minds",
+          "what will you have on your mind now"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "A New Mind / The Mind of Christ",
+        "tekstueel_bewijs": [
+          "a new mind, a new heart, a new spirit",
+          "the interest of others",
+          "the radical alternative of Jesus"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Preacher/Prophetic Voice (Ezekiel/Paul/Jesus)",
+        "tekstueel_bewijs": [
+          "Paul invites to a new mind",
+          "Ezekiel exposes the old mind",
+          "the news that I get to announce to you"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer",
+        "tekstueel_bewijs": [
+          "the question lingers for us",
+          "invited to a new mind"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Jesus (as Exemplar)",
+        "tekstueel_bewijs": [
+          "do it the way Christ did",
+          "He himself understood the power of giving one’s self away"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Totalism / Self-Interest / Hard Hearts",
+        "tekstueel_bewijs": [
+          "shrewd, exploitative economic maneuvering",
+          "totalism... ready to enact violence",
+          "thin righteousness of social convention"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is framed as a mindset or ideological trap that the subject must choose to leave."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Christ-Hymn: Jesus empties himself and is exalted by God.",
+      "subject": "Jesus",
+      "object": "Obedience/Exaltation",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The Christ-story serves as a motivational template (Exemplarism) for the primary program of human change."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Preacher/Prophet → New Mind → Hearer",
+      "helper_subject_tegenstander": "Jesus (Example) → Hearer ← Totalism/Self-Interest",
+      "subject_naar_object": "Hearer → Changing the Mind"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God says, Why will you die?",
+        "the God who dispatches Jesus moves against every totalism"
+      ],
+      "voorbeelden_mens_subject": [
+        "get yourselves a new heart",
+        "you did not change your minds",
+        "we consider our minds",
+        "look to the interests of others"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Do not look to your own interests",
+          "Repent and turn",
+          "get yourselves a new heart"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "what you imagine, what you entertain",
+          "the bid to get a new mind"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "The Bible knows",
+          "they know and are quick to answer"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "people caught in a totalism cannot change their minds"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon emphasizes the obligation to change (Devoir) and the desire to change (Vouloir), but largely ignores the source of the power to change (Pouvoir), assuming the hearer can perform the task once exhorted."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "New Mind (Self-giving)",
+      "s2": "Death (Totalism/Self-interest)",
+      "niet_s1": "Thin Righteousness (Convention)",
+      "niet_s2": "Repentance (Turning)"
+    },
+    "beweging_in_preek": "From S2 (Ezekiel's list) through ~S1 (the 'good' people's convention) toward S1 (the mind of Christ).",
+    "theologische_resolutie": "Resolution is left as a question/demand to the hearer's will.",
+    "ernst_van_s2": "Moderate; sin is seen as 'ignoble thinking' or 'ideology' rather than a dead-end ontological state."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using high Christological language, the functional subject of almost all transformative verbs is the hearer. Jesus is an example to follow rather than a Savior who effects the change.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Imperatival use of Gospel",
+        "tekstueel_bewijs": "Have the same mind in you... Think like him!",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Self-generated transformation",
+        "tekstueel_bewijs": "get yourselves a new heart and a new spirit!",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Proclamation of God's initiative",
+        "tekstueel_bewijs": "the news that I get to announce to you is this: In the Gospel we are invited...",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus is presented as the ultimate model of self-giving that the hearer must emulate.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "The first son (the repentant one)"
+      ],
+      "alternatieve_lezing": "Jesus is the one who has the 'mind' we lacked, and by His Spirit, He grafts His mind into us."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform a cognitive shift; potential for despair if 'totalism' is truly 'unbearable'.",
+      "theologische_implicatie": "Soteriology is reduced to 'changing one's mind' (metanoia as a human work)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but structurally reverses the narrative hierarchy by making the ethical response the primary program.",
+      "spanning_punten": [
+        "The sermon admits 'people caught in a totalism cannot change their minds' but then commands them to 'change your mind'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Paul invites to a new mind in Christ... do it the way Christ did.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is told to 'get' their own spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'ignoble thinking' and 'confused priorities'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Recruitment' narrative focusing on Vouloir-faire, but lacks the Pouvoir-faire (Grace) necessary for the Subject to succeed.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'getting a new heart'.",
+      "voorgestelde_herpositionering": "God as the subject of the new heart (Ezekiel 36:26).",
+      "voorbeeld_revisie": "Instead of 'Get yourselves a new heart,' use 'God promises to take your heart of stone and give you His own heart.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Obedient Son'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the one who *cannot* change their mind, making Christ's intervention necessary."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir (Must)",
+      "voorgestelde_balans": "Pouvoir (Can/Grace)",
+      "concrete_suggestie": "Focus on how the Spirit provides the 'Pouvoir' that Lifton says is impossible for humans."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Totalism as a social/psychological habit.",
+      "voorgestelde_intensivering": "Sin as a 'Totalism' that binds the will completely.",
+      "theologische_rationale": "If the opponent is truly 'total', only a Divine Subject can break it."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Secondary Program) is the engine.",
+      "voorgestelde_structuur": "1. God gives the mind of Christ (Soteriology). 2. We think with it (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a brilliant psychological hook but requires a Subject-shift from the hearer's effort to God's re-creating power to be truly 'Gospel'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is engaging and 'prophetic'; semiotically, it is a law-driven mandate.",
+    "verschil_met_exegese": "Exegesis correctly identifies the 'mind of Christ', but the actantial model reveals the sermon treats this mind as a human achievement.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'inviting' someone to do the impossible (change a totalistic mind) without providing the 'Pouvoir' (Power) actant is structurally oppressive."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We consider",
+      "You think",
+      "He (Jesus) emptied himself",
+      "You (Hearer) get yourselves a new heart",
+      "You (Hearer) change your mind"
+    ],
+    "volledige_object_lijst": [
+      "New heart",
+      "Interests of others",
+      "Totalism",
+      "Kingdom of God"
+    ],
+    "werkwoord_frequentie": {
+      "change": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "think": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": "4",
+        "primair_subject": "Jesus"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'didactic point' of the parables, turning narrative into imperative."
+  }
+}

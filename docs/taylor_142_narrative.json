@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "A Bitter Question In A Hard Time",
+    "bijbeltekst": "Psalm 42",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1350"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human soul, enduring suffering and mockery, must maintain hope and resilience to reach a future state of praise.",
+      "subject": {
+        "identificatie": "The Hearer / The 'Yet' People",
+        "tekstueel_bewijs": [
+          "O pilgrim, keep on marching, O soldier, fight on",
+          "We who sorrow and weep shall yet laugh and rejoice"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Resilience and Future Praise (Hope)",
+        "tekstueel_bewijs": [
+          "I shall yet praise him",
+          "tomorrow the victor's song"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Preacher / Religious Tradition",
+        "tekstueel_bewijs": [
+          "I want to state now my Master's case",
+          "Our slave forebears had that"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Suffering Individual",
+        "tekstueel_bewijs": [
+          "If friends or enemies have taunted you... then you are in good company"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Examples of others' bravery / The 'Master's' promise",
+        "tekstueel_bewijs": [
+          "we can give help to others... by the way we carry our condition",
+          "God sent... people who are so bravely battling"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Sorrow, Mockery, and Doubt",
+        "tekstueel_bewijs": [
+          "malicious onlookers",
+          "those who look on while we struggle and who do not encourage us"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily the 'bitter question' from others and the internal 'disquiet' of the soul, rather than a cosmic or ontological force."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Christ's suffering on the cross as a model for enduring mockery.",
+      "subject": "Jesus",
+      "object": "Endurance of the Cross",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "Christ is used as an exemplar (Helper) to validate the hearer's struggle, rather than as the Subject who achieves the hearer's salvation."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Preacher → Hope/Resilience → Suffering Hearer",
+      "helper_subject_tegenstander": "Brave Examples/Jesus → Hearer ← Mockers/Sorrow",
+      "subject_naar_object": "Hearer → Future Praise"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God sent, or allowed me to see, people",
+        "The Lord will make a way"
+      ],
+      "voorbeelden_mens_subject": [
+        "We must fight life's fight",
+        "we can give help to others",
+        "O pilgrim, keep on marching"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "We must fight life's fight",
+          "We must stand the storm"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Who would trade for that?",
+          "Who would forego the joy of a great love?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I think I know something that cut through the Master"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "we can give help to others",
+          "my strength seemed greater"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on recruitment of the will (Vouloir) and obligation (Devoir). It assumes the hearer has the power (Pouvoir) if they are sufficiently motivated by examples."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Hope/Praise",
+      "s2": "Despair/Mockery",
+      "niet_s1": "Resignation",
+      "niet_s2": "Stoicism"
+    },
+    "beweging_in_preek": "From S2 (Despair) through ~S2 (Endurance) toward S1 (Future Praise).",
+    "theologische_resolutie": "Resolution is deferred to the future ('Yet') based on human persistence.",
+    "ernst_van_s2": "High emotional seriousness, but treated as a psychological state rather than a theological condition."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While emotionally resonant, the sermon is anthropocentric. The hearer is the primary Subject who must 'fight on' and 'keep marching.' God is a Helper or a future rewarder, but not the primary actor in the present crisis.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "God sent... people... my strength seemed greater.",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Imperative-driven climax",
+        "tekstueel_bewijs": "O pilgrim, keep on marching, O soldier, fight on.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Acknowledgment of divine presence",
+        "tekstueel_bewijs": "The Lord will make a way.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus and various suffering individuals are presented as models of how to carry burdens bravely.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "The Psalmist"
+      ],
+      "alternatieve_lezing": "Instead of Jesus as a model of enduring mockery, Jesus as the one who bore the mockery to end the hearer's isolation from God."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of performance; inspiration that may lead to exhaustion.",
+      "theologische_implicatie": "Salvation/Praise is a result of human 'yet-ness' and endurance."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The transition from the 'Master's case' back to human marching is abrupt.",
+      "spanning_punten": [
+        "The preacher claims to state the 'Master's case' but immediately returns to human struggle."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "We can help each other by the way we carry our condition.",
+      "menselijke_role_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not mentioned as the source of Pouvoir-faire."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as 'doubt' or 'narrow interests' rather than a condition requiring death and resurrection."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (with God's help)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a motivational speech where the hearer is the Subject and God is the Helper/Spectator.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is told to 'fight on' to reach the dawn.",
+      "voorgestelde_herpositionering": "God is the one who brings the dawn regardless of the pilgrim's ability to march.",
+      "voorbeeld_revisie": "Because Christ has marched through the dark for you, the dawn is already yours."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Soldier'.",
+      "voorgestelde_identificatie": "Hearer as the 'Wounded Heart' who is carried.",
+      "strategie": "Shift from 'Be like Jesus' to 'Jesus for you'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive Devoir (Must) and Vouloir (Will).",
+      "voorgestelde_balans": "Focus on Pouvoir (God's power given to the weak).",
+      "concrete_suggestie": "Emphasize that the 'Yet' is a gift of the Spirit, not a product of the will."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Mockers and bad days.",
+      "voorgestelde_intensivering": "Death and the silence of God.",
+      "theologische_rationale": "A stronger opponent requires a stronger Subject (God) rather than just a braver human."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (how to carry the condition) precedes and overshadows Soteriology.",
+      "voorgestelde_structuur": "Establish God's victory first; let the 'marching' be a response of gratitude."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has great emotional empathy but lacks a theocentric engine. It risks leaving the hearer with more work to do rather than a Savior who has done it."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is excellent (pathos, imagery). Actantially, it is weak (Subject-switch to man).",
+    "verschil_met_exegese": "Exegesis of Psalm 42 is accurate regarding the 'sob,' but the application moves into moralism.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the mention of 'The Master,' the actual 'engine' of the story is the hearer's own endurance."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We must fight",
+      "We must stand",
+      "You keep on marching",
+      "I shall yet praise",
+      "God sent"
+    ],
+    "volledige_object_lijst": [
+      "The victor's song",
+      "Strength",
+      "Hope"
+    ],
+    "werkwoord_frequentie": {
+      "fight/march": {
+        "count": "5",
+        "primair_subject": "Man"
+      },
+      "praise": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "save": {
+        "count": "2",
+        "primair_subject": "Jesus (as example)"
+      }
+    },
+    "notities": "The sermon uses 'Yet' as a modal operator of persistence rather than a theological promise of intervention."
+  }
+}

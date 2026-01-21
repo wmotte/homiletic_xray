@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "titel_preek": "From Denial to Victory",
+    "bijbeltekst": "Romans 8:35–36",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from psychological/spiritual denial of suffering to a courageous 'victory' through acknowledging reality and acting in love.",
+      "subject": {
+        "identificatie": "The Christian Hearer (Human Agency)",
+        "tekstueel_bewijs": [
+          "we must draw a curtain over some of our disappointments",
+          "we either fail to meet the needs of others, or fail to get the help we need",
+          "we are willing to take risks"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Victory/Reality (Overcoming Denial)",
+        "tekstueel_bewijs": [
+          "victory over fear and a twisted mind",
+          "build a lasting relationship based on reality"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Apostle Paul / The Gospel Mandate",
+        "tekstueel_bewijs": [
+          "St. Paul... makes an important assumption. The Christian life involves suffering."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Neighbor / The Self",
+        "tekstueel_bewijs": [
+          "meet the needs of others",
+          "get the help we need for ourselves"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "God / The Example of Christ",
+        "tekstueel_bewijs": [
+          "through him who loved us",
+          "God acts redemptively"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Denial / Psychological Avoidance",
+        "tekstueel_bewijs": [
+          "refusal to acknowledge the existence or reality of a thing",
+          "unwillingness to suffer"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The sermon treats the primary obstacle as a psychological defense mechanism rather than an ontological or cosmic power."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "God's redemptive action in the world (Atlanta bombing, hospital healing).",
+      "subject": "God",
+      "object": "Redemption/Good",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "God's action is presented as a parallel or supportive track to human effort."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Paul/Gospel → Reality/Victory → The Church",
+      "helper_subject_tegenstander": "God/Christ → The Hearer ← Denial/Fear",
+      "subject_naar_object": "The Hearer → Willingness to Suffer"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God acts redemptively",
+        "God works for good",
+        "God used Mr. Young powerfully"
+      ],
+      "voorbeelden_mens_subject": [
+        "we must draw a curtain",
+        "we either fail to meet the needs",
+        "we have to suffer the loss",
+        "we are willing to take risks"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we have to suffer the loss",
+          "we must draw a curtain",
+          "we need to master"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "unwillingness to suffer",
+          "we do not want to talk about"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "you don’t know who your real friends are",
+          "realize that for most of us it means"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "enabled to have the proper pain medication",
+          "more than conquerors through him"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir). It assumes that if the hearer understands the 'unwillingness to suffer' as the problem, they 'must' and 'can' choose to be real."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Reality/Suffering",
+      "s2": "Denial/Illusion",
+      "niet_s1": "Avoidance",
+      "niet_s2": "Confrontation"
+    },
+    "beweging_in_preek": "From S2 (Denial) through ~S1 (Avoidance) toward S1 (Reality).",
+    "theologische_resolutie": "The resolution is found in human 'willingness' to embrace S1, supported by the 'example' of Christ.",
+    "ernst_van_s2": "S2 is treated as a psychological defect rather than a state of spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the sermon uses high-grace language (Romans 8), the actantial engine is largely anthropocentric, focusing on human 'willingness' and 'risk-taking' as the catalyst for victory.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "There’s nothing that keeps you out but the unwillingness to open your heart.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "in all these things we are more than conquerors through him who loved us (interpreted as human victory with Christ as the power source).",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Theocentric Correction",
+        "tekstueel_bewijs": "In everything God works for good with those who love him.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Frances, Andrew Young, and the Atlanta grandmothers are used as models of the 'correct' response to suffering.",
+      "bijbelse_figuren_als_model": [
+        "Paul (as a model of assumption/writing)",
+        "Christ (as a model of giving himself up)"
+      ],
+      "alternatieve_lezing": "Instead of 'Be like Frances and ask the question,' the sermon could focus on 'Christ is the one who asks the question of us when we are disagreeable roommates.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'honesty' and 'willingness.'",
+      "theologische_implicatie": "Sanctification is viewed as a series of courageous human choices."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically bifurcated between Paul's cosmic grace and the preacher's psychological application.",
+      "spanning_punten": [
+        "The tension between 'nothing can separate us' (unconditional) and 'nothing keeps you out but your unwillingness' (conditional)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "embody the life of the Savior who gave himself up... for our salvation.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not mentioned as the source of 'Pouvoir-faire'; the human will is the primary engine."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is framed as 'denial' or 'unreality'—a lack of courage rather than a state of bondage."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "Man (through God's help)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a call to psychological maturity using biblical vocabulary. The hearer is the Subject; God is the Helper.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is tasked with 'overcoming denial.'",
+      "voorgestelde_herpositionering": "Christ as the Subject who shatters our denial.",
+      "voorbeeld_revisie": "Instead of 'we must draw a curtain,' use 'Christ tears down the curtains we build to hide from reality.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'Conqueror'.",
+      "voorgestelde_identificatie": "Hearer as the 'Sheep to be slaughtered' who is rescued.",
+      "strategie": "Emphasize the passivity of the sheep in Romans 8."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir (Must)",
+      "voorgestelde_balans": "Pouvoir (God's Power)",
+      "concrete_suggestie": "Focus on how the Love of God *enables* what the Law *demands*."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Denial (Psychological)",
+      "voorgestelde_intensivering": "Death and Separation (Cosmic)",
+      "theologische_rationale": "If the opponent is just a bad habit, we don't need a Savior, just a therapist."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (how to act in the hospital) precedes or overshadows Soteriology.",
+      "voorgestelde_structuur": "Establish God's inseparable love first, then derive the freedom to suffer from that security."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically powerful and grounded in real-world events, but it risks turning the 'Gospel of Victory' into a 'Law of Courageous Realism.'"
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is excellent (pathos, storytelling). Actantially, it reveals a shift of agency from God to the hearer.",
+    "verschil_met_exegese": "Exegesis of Romans 8 usually emphasizes God's initiative; the sermon shifts this to human 'willingness.'",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'Amen' and 'Christ' mentions, the 'Hero' of this story is the person who decides to stop denying reality."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (must draw)",
+      "We (fail to meet)",
+      "Daughter (has been divorced)",
+      "Paul (writes)",
+      "God (works)",
+      "Andrew Young (reclaimed)"
+    ],
+    "volledige_object_lijst": [
+      "Victory",
+      "Reality",
+      "Help",
+      "Forgiveness",
+      "Redemption"
+    ],
+    "werkwoord_frequentie": {
+      "suffer": {
+        "count": "9",
+        "primair_subject": "Man"
+      },
+      "work": {
+        "count": "3",
+        "primair_subject": "God"
+      },
+      "deny": {
+        "count": "6",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Therapeutic Moralistic Deism' lurking under a high-church liturgical surface."
+  }
+}

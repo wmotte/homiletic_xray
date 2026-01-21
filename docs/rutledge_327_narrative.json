@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Lord, Not My Feet Only",
+    "bijbeltekst": "John 13:3-4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The Son of God descends from his heavenly throne to cleanse humanity from the contamination of sin through his humiliation and death.",
+      "subject": {
+        "identificatie": "Jesus Christ (The Eternal Word)",
+        "tekstueel_bewijs": [
+          "The Son of God is stooping down from his heavenly throne to wash us clean",
+          "Jesus performs the service of a slave",
+          "He loved them to the end"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Purification/Cleansing of the disciples/humanity",
+        "tekstueel_bewijs": [
+          "to purify us from the contamination of sin",
+          "to wash us clean from our transgressions"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / Divine Love",
+        "tekstueel_bewijs": [
+          "knowing that the Father had given all things into his hands"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearers / Disciples",
+        "tekstueel_bewijs": [
+          "to free us and purify us and bring us into his family for ever"
+        ],
+        "positie_hoorder": "The hearer is explicitly positioned as the Receiver (passive beneficiary) before being a Subject."
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Sacraments (Eucharist)",
+        "tekstueel_bewijs": [
+          "present with us... by the power of the Holy Spirit",
+          "humbly receive the Lord into our hearts at the Eucharist"
+        ],
+        "rol_van_god": "God is the Subject; the Spirit is the internalizing Helper.",
+        "rol_van_geest": "Indwelling power that draws the hearer."
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and Human Pride (Peter's refusal)",
+        "tekstueel_bewijs": [
+          "contamination of sin",
+          "we can be stubborn, like Peter... nobody's going to wash me"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is treated as a contamination requiring the death of the Son of God to remove, not just a moral mistake."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical response of the believer to serve others as Christ served.",
+      "subject": "The Believer (Hearer)",
+      "object": "Service to the neighbor ('entering other people's darkness')",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher explicitly subordinates the ethical 'example' to the soteriological 'cleansing'. The secondary program is a fruit of the first."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Father → Purification → Humanity",
+      "helper_subject_tegenstander": "Holy Spirit → Jesus Christ ← Sin/Death",
+      "subject_naar_object": "Jesus Christ → Salvation of Hearer"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "Christ himself has brought you here",
+        "The Son of God is stooping down",
+        "He took our sin upon himself"
+      ],
+      "voorbeelden_mens_subject": [
+        "we make up rules",
+        "some people rushed up to the front",
+        "you will discover how that makes you more willing"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "you also ought to wash one another's feet"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "he wants you",
+          "makes you more willing to enter other people's darkness"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "teach his disciples the meaning of his death"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "transforming power for your new life",
+          "to free us and purify us"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on Christ's 'ability' to cleanse and the Spirit's 'power' to transform, rather than the hearer's 'obligation' to perform."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Cleansing",
+      "s2": "Sin/Contamination",
+      "niet_s1": "Self-Worthiness/Legalism",
+      "niet_s2": "Stubborn Pride/Refusal"
+    },
+    "beweging_in_preek": "Starts at ~S1 (Human anxiety/status), moves to S2 (Sin), then shows Christ taking S2 to bring the hearer to S1.",
+    "theologische_resolutie": "Christ's humiliation (S2) is the mechanism that achieves purification (S1).",
+    "ernst_van_s2": "High; sin is described as a 'contamination' and 'darkness' that humans cannot wash themselves."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon systematically deconstructs human effort and reposition's Christ as the primary actor of the narrative.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Initial focus on human competition",
+        "tekstueel_bewijs": "Who gets to sit next to whom?",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switching",
+        "tekstueel_bewijs": "The primary meaning is that the Son of God is stooping down",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Anti-Exemplarism",
+        "tekstueel_bewijs": "I am not trying to cast that [the example] into the background; however... it is the secondary, not the primary meaning",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The preacher acknowledges the 'example' of footwashing but explicitly labels it as secondary to the 'cleansing' act of Christ.",
+      "bijbelse_figuren_als_model": [
+        "Peter (as a model of what NOT to do/misunderstanding)"
+      ],
+      "alternatieve_lezing": "Theocentric: Peter is the one who must be washed; Christ is the Washer."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of 'worthiness' and 'points'.",
+      "theologische_implicatie": "Monergistic cleansing precedes synergistic service."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "Perfectly integrated. The ethical 'ought' is derived directly from the soteriological 'is'.",
+      "spanning_punten": [
+        "The tension between the 'example' and the 'atonement' is resolved by the primary/secondary hierarchy."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "he entered the darkness in our place",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'willingness' (Vouloir) to serve others."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is a 'contamination' that makes us 'second-class citizens' in the kingdom without Christ's intervention."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in maintaining God as the Subject. It identifies the human tendency to turn grace into a 'pecking order' and corrects it by centering on Christ's humiliation.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for a Maundy Thursday liturgy.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Sin is already treated as a cosmic/ontological problem.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "voorgestelde_structuur": "N/A"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon brilliantly avoids the trap of 'Maundy Thursday Moralism' (the command to love) by grounding the command in the prior act of Christ's self-giving."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis might focus on the 'dinner party' metaphors, semiotics reveals how these metaphors expose the 'Subject's' anxiety about status.",
+    "verschil_met_exegese": "Exegesis explains the Greek 'morphe'; semiotics explains why the move from 'form of God' to 'form of slave' is a necessary 'Subject-transformation' for the narrative to resolve.",
+    "unieke_inzichten_greimas": "Greimas's model highlights that the 'Object' (cleansing) is something the 'Receiver' (hearer) cannot obtain as a 'Subject'—it must be gifted by the 'Sender'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (rose, laid aside, girded, poured, began to wash)",
+      "Christ (brought you, gives food)",
+      "Son of God (stooping down)",
+      "We (make up rules, feel unease)"
+    ],
+    "volledige_object_lijst": [
+      "Purification",
+      "The Meal",
+      "Status/Worthiness",
+      "Service to neighbor"
+    ],
+    "werkwoord_frequentie": {
+      "wash": {
+        "count": 12,
+        "primair_subject": "God"
+      },
+      "love": {
+        "count": 5,
+        "primair_subject": "God"
+      },
+      "serve": {
+        "count": 4,
+        "primair_subject": "Mixed"
+      }
+    },
+    "notities": "The sermon uses the 'Rutledge Rule' effectively by ensuring the most significant verbs of the passion are attributed to Christ."
+  }
+}

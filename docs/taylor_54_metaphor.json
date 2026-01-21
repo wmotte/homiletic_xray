@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "titel_preek": "The Best Search Of All",
+    "bijbeltekst": "John 12:20-21",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1550"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "All of life is a search",
+          "pilgrim people",
+          "bounded by the cradle and the grave",
+          "pursuit, chase, and search"
+        ],
+        "conceptuele_metafoor": "LIFE IS A SEARCH/JOURNEY"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "Your account is paid",
+          "Your slate is wiped clean",
+          "receive one hundredfold"
+        ],
+        "conceptuele_metafoor": "SALVATION IS DEBT CANCELLATION"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "In my father's house are many rooms",
+          "walls of Camelot",
+          "city set on a hill"
+        ],
+        "conceptuele_metafoor": "HEAVEN IS A HOUSE"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Your account is paid",
+        "brondomein": {
+          "naam": "Commerce/Accounting",
+          "concrete_elementen": [
+            "ledger",
+            "debt",
+            "payment",
+            "creditor"
+          ],
+          "belichaamde_basis": "balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement",
+          "doctrinale_traditie": "Reformed/Substitutionary Atonement"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Debt",
+            "doel_element": "Sin"
+          },
+          {
+            "bron_element": "Payment",
+            "doel_element": "Christ's Sacrifice"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The hearer feels a sense of relief from a legal obligation."
+          ],
+          "theologische_implicaties": [
+            "Justice must be satisfied through transaction."
+          ],
+          "ethische_implicaties": [
+            "Gratitude for the benefactor who settled the bill."
+          ],
+          "onbedoelde_consequenties": [
+            "God may be viewed as a cold accountant rather than a loving father."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Common in evangelical preaching, though the 'slate wiped clean' adds a tactile element."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher uses the overarching 'Search' (Journey) metaphor to unify various life stages and theological needs.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Middle of sermon",
+          "metafoor_a": "JESUS IS THE GREAT HEALER",
+          "metafoor_b": "JESUS IS THE CAPTAIN OF SALVATION",
+          "conflict_beschrijving": "The preacher lists multiple titles (Shepherd, Captain, Healer, Lamb) in rapid succession.",
+          "entailment_conflict": "A soldier follows orders (Military); a patient receives care (Medical). These require different cognitive postures.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Death as a Barge/Sea",
+            "Heaven as a House"
+          ],
+          "blending_strategie": "The 'Barge' represents the transition (Path) while the 'House' represents the destination (Container)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Search' metaphor by grounding it in biological development (infant, toddler, adolescent).",
+        "voorbeeld": "The bawling infant is searching for the comfort of his or her mother's arms."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "The promise of 'one hundredfold in this life' risks a transactional view of faith.",
+        "voorbeeld": "receive one hundredfold in this life and in the world to come",
+        "potentiele_impact": "Congregants may expect material wealth as a return on spiritual investment.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A journey through the human lifecycle from cradle to grave.",
+      "sub_worlds": [
+        "The ancient Greek Mount Olympus",
+        "The pulpit of Brooklyn Concord Church",
+        "The Arthurian Camelot",
+        "The Louisiana swamp country"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Camelot section",
+          "van_wereld": "Present Dallas church",
+          "naar_wereld": "Mythic Arthurian landscape",
+          "effectiviteit": "Highly effective for evoking pathos regarding mortality."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Provider",
+          "hoe_versterkt": "Emphasizing that God gives the 'desires of your heart'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Preacher as Celebrity",
+          "verstoring_strategie": "Physical inscription on the pulpit floor to redirect gaze.",
+          "vervangend_schema": "Preacher as Signpost/Intermediary (Philip)"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits an anniversary celebration by looking backward (history) and forward (destiny)."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is a masterclass in the JOURNEY domain, successfully mapping the biological 'search' for security and identity onto the theological 'search' for Christ. It effectively uses the ARCHITECTURAL domain to provide a sense of stability against the transience of life.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "JESUS AS SHEPHERD",
+        "huidige_status": "Briefly mentioned as a conventional title.",
+        "suggestie": "Connect the 'bawling infant' imagery to the 'Good Shepherd' to deepen the source domain of care.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Just as the infant searches for the mother's arms, the lost sheep searches for the Shepherd's touch."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The rapid-fire list of Jesus' titles (Captain, Healer, Lamb).",
+        "resolutie_strategie": "Group these by human need (e.g., 'In our weakness, He is Captain; in our pain, He is Healer') to provide a cognitive bridge."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SALVATION IS TRANSACTION",
+        "problematisch_entailment": "God as a bookkeeper who only cares about the 'account'.",
+        "aanbeveling": "Balance with the Relational domain (Father/Child) used elsewhere in the sermon."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To ground the 'one hundredfold' promise in growth and seasons rather than just math.",
+        "doel_concept": "Spiritual Maturity"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful use of embodied metaphors that resonate with the universal human experience of aging and loss."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the Tennyson quote, CMT reveals that the Camelot imagery functions as a 'Container' schema that is being 'dissolved' by death.",
+    "verschil_met_kolb": "Unlike Kolb's learning styles, CMT focuses on how the 'Search' metaphor provides the cognitive structure for the entire sermon's logic.",
+    "unieke_inzichten_CMT": "CMT highlights that the preacher uses 'Verticality' (Mount Olympus vs. Valley of Mortality) to contrast human searching with divine distance."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "pilgrim people",
+      "bounded by the cradle and the grave",
+      "stills the storm inside",
+      "captain of our salvation",
+      "slate is wiped clean",
+      "account is paid",
+      "light of the world",
+      "salt of the earth",
+      "death's death"
+    ],
+    "woord_frequentie_analyse": {
+      "search": "12",
+      "Jesus": "24",
+      "see": "15",
+      "Greeks": "9"
+    },
+    "notities": "The use of the Arthurian legend is a sophisticated 'Text World' that functions as a metaphor for the 'dissolving' of the earthly container."
+  }
+}

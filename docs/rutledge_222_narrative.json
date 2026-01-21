@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "Death Shall Have No Dominion",
+    "bijbeltekst": "Romans 6:1–14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God rescues humanity from the sovereign powers of Sin and Death through the death and resurrection of Christ, incorporating the believer into this victory via baptism.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "In baptism the Holy Spirit acts to unite the person to Christ",
+          "Our union with him is something that God has done",
+          "God bridged that gap in his own person"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Deliverance/Union with Christ",
+        "tekstueel_bewijs": [
+          "all the benefits of his death become ours",
+          "we too might walk in newness of life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "Christ was raised from the dead by the glory of the Father"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Human Race / The 'Bruised Reed'",
+        "tekstueel_bewijs": [
+          "leads to acquittal and life for all human beings",
+          "the gospel comes to you with all its original power"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ / The Apostle Paul (as witness)",
+        "tekstueel_bewijs": [
+          "united with him in a death like his",
+          "All the preacher can do is to bear witness"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Sin and Death (Capitalized Powers)",
+        "tekstueel_bewijs": [
+          "Powers that rule over us",
+          "the iron grip of Sin and Death"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin and Death are described as sovereign rulers and ontological traps, not merely moral failings."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The believer's ethical response to their new identity.",
+      "subject": "The Baptized Believer",
+      "object": "Instruments of Righteousness",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical 'doing' is strictly a consequence of the ontological 'being' established by God."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Union → Humanity",
+      "helper_subject_tegenstander": "Christ/Spirit → God ← Sin/Death",
+      "subject_naar_object": "God → Deliverance of the Sinner"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God bridged that gap in his own person.",
+        "The Holy Spirit acts to unite the person to Christ.",
+        "He is stronger than Sin."
+      ],
+      "voorbeelden_mens_subject": [
+        "We slip back into Sin so frequently.",
+        "We could do nothing for ourselves."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "So you also must consider yourselves dead to sin."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "would you want to go back to it?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Do you not know that all of us..."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "We have a new power over Sin now.",
+          "Now you can actually be an instrument of God’s righteousness!"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the endowment of power (Pouvoir) by God because the human subject is inherently incompetent (lack of Pouvoir) under the dominion of Sin."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Life",
+      "s2": "Sin/Death (Dominion)",
+      "niet_s1": "Law/Slavery",
+      "niet_s2": "Justified Sinner (Simul)"
+    },
+    "beweging_in_preek": "From S2 (Dominion) to ~S2 (Baptized Sinner) to S1 (Union with Christ).",
+    "theologische_resolutie": "The tension is resolved by God's 'prior action' which moves the subject from the axis of Death to the axis of Life.",
+    "ernst_van_s2": "Extremely high; Sin and Death are treated as inescapable tyrants."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places God as the active Subject and humanity as the passive recipient of a cosmic rescue operation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism",
+        "tekstueel_bewijs": "Become what you already are!",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Active Verbs",
+        "tekstueel_bewijs": "God bridged that gap in his own person.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Powers that rule over us.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Tennessee Williams is used not as a model to follow, but as a 'bruised reed' who is a recipient of grace despite failure.",
+      "bijbelse_figuren_als_model": [
+        "Paul (as witness, not hero)",
+        "Christ (as Subject/Victor)"
+      ],
+      "alternatieve_lezing": "N/A"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and liberation from the burden of self-rescue.",
+      "theologische_implicatie": "Monergistic sanctification (God is the one making us righteous)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The secondary program (ethics) is perfectly subordinated to the primary program (soteriology).",
+      "spanning_punten": [
+        "The paradox of 'simul iustus et peccator'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Death no longer has dominion over him... Sin will have no dominion over you.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of new life/union."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Fatal; an 'iron grip' that humans cannot break."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of grace-oriented homiletics. The actantial engine is driven by God's agency against cosmic opponents.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "Continue emphasizing the 'cannot' of the human condition to highlight the 'can' of God."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Sufficiently cosmic.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The 'Heavy Opponent' is already well-established."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Identity → Ethics."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon masterfully avoids the trap of 'exemplarism' and 'moralism' by keeping the active verbs firmly in God's hands."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would look at the use of the Tennessee Williams anecdote for pathos, Greimassian analysis reveals that Williams functions as the 'Receiver' actant, proving the universality of the 'Subject's' (God's) action.",
+    "verschil_met_exegese": "Exegesis explains what Paul meant; this analysis shows how the sermon's structure actually performs the gospel Paul preached.",
+    "unieke_inzichten_greimas": "Reveals that even when the preacher says 'You must,' it is framed within a 'Pouvoir' (ability) granted by the Subject, preventing it from becoming Law."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (bridged)",
+      "Holy Spirit (acts)",
+      "Sin (reigns)",
+      "Death (has dominion)",
+      "Christ (lives)",
+      "We (are united)"
+    ],
+    "volledige_object_lijst": [
+      "Acquittal",
+      "Life",
+      "Union",
+      "Newness of life",
+      "Instruments of righteousness"
+    ],
+    "werkwoord_frequentie": {
+      "unite": {
+        "count": "8",
+        "primair_subject": "God"
+      },
+      "die": {
+        "count": "12",
+        "primair_subject": "Man/Christ"
+      },
+      "reign/dominion": {
+        "count": "6",
+        "primair_subject": "Sin/Death"
+      }
+    },
+    "notities": "The sermon uses the 'Axis of Desire' (Tennessee Williams' streetcar) to illustrate the human predicament, then replaces it with the 'Axis of Transmission' (God's gift in baptism)."
+  }
+}

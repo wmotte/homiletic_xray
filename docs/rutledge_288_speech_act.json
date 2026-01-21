@@ -1,0 +1,448 @@
+{
+  "metadata": {
+    "titel_preek": "Exiled into Babylon",
+    "bijbeltekst": "2 Chronicles 36, Isaiah 40-55, Jeremiah",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A historical and imaginative exploration of the Babylonian exile, using the burning of Salisbury Town Hall as a metaphor to explain the 'theological emergency' of Israel.",
+      "exegetische_kwaliteit": "High. The preacher provides a sophisticated overview of the chronological movement from Exodus to Exile and the distinct voices of Jeremiah, Ezekiel, and Second Isaiah.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The sermon primarily functions as an 'Assertive' (teaching/describing) for the first three quarters, shifting into a 'Commissive' (promising) and 'Declarative' (addressing) mode in the final paragraphs.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Imagine that the Town Hall... burned to the ground.",
+        "The invasion... was the greatest crisis in the history of the people.",
+        "Fear not, for I have redeemed you... you are mine."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from a sense of modern 'heedless optimism' to a realization of their own 'exile' and ultimately to comfort in God's promise.",
+      "pneumatologisch_bewustzijn": "Implicit. The preacher refers to the 'searing Word of God' as an active force, but does not explicitly invoke the Spirit's current work in the hearing.",
+      "perlocutionaire_werkwoorden": [
+        "realize",
+        "repent",
+        "feel comforted",
+        "identify",
+        "trust"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The Old Testament readings in Lent take us in chronological order.",
+        "Jeremiah the prophet was persona non grata for most of his life.",
+        "The Babylonian gods had armies and empires."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "happened",
+        "tells",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Imagine, if you will...",
+        "Look around; see how nice it is here.",
+        "Listen to this..."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "listen",
+        "see",
+        "look"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "I don’t know about you, but I think I would lose my mind.",
+        "I was affected."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "feel",
+        "affected"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "10",
+      "procent": "6%",
+      "voorbeelden": [
+        "I will be with you.",
+        "I have redeemed you.",
+        "The flame shall not consume you."
+      ],
+      "dominante_werkwoorden": [
+        "will be",
+        "redeemed",
+        "love"
+      ],
+      "kwaliteit": "Strong, but largely concentrated in the final 10% of the text through biblical quotation."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "I, even I, am he who blots out your transgressions.",
+        "You are mine."
+      ],
+      "dominante_werkwoorden": [
+        "blots out",
+        "are"
+      ],
+      "autoriteit": "The preacher mediates the authority of the biblical text rather than speaking in the first-person ministerial 'I'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical recounting of 587 BC.",
+        "Lengthy hypothetical 'Imagine' scenarios.",
+        "Detailed analysis of Second Isaiah's poetic structure."
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and intellectually engaged, but remains an observer of a historical/metaphorical drama for most of the sermon."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Present-tense sacramental address",
+        "Immediate commissive 'I promise you today'"
+      ],
+      "effect_op_hoorder": "The 'event' is delayed until the very end; the encounter with the Word is mediated through 'talking about' the Word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "5",
+      "kwaliteit_toezeggen": "High quality but derivative (quoted from Isaiah).",
+      "voorbeelden": [
+        "Fear not, for I have redeemed you... you are mine."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "22",
+        "gebruik": "Mostly anecdotal ('I was affected') or homiletical ('I don't know about you')."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Used in the 'Imagine' exercises and the final address to the suffering.",
+        "performatieve_context": "Strongest in the final paragraph."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominates the historical and theological explanation.",
+        "distantie_effect": "Creates a 'lecture' feel in the middle section."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical narrative of Israel and the Town Hall fire."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General theological truths about idols and suffering."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final 'This morning... the Word... will strike your heart'."
+      }
+    },
+    "adressering_effectiviteit": "7"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "n/a",
+      "voorbeelden": [],
+      "probleem": "n/a"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon follows a classic movement: Assertive (The Exile) -> Declarative (God's new thing) -> Commissive (The Promise to the hearer).",
+      "voorbeelden": [
+        "Israel was punished... but now God announces a new thing... Fear not, for I have redeemed you."
+      ],
+      "kwaliteit": "The pattern is correct, but the Assertive phase is disproportionately long."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because you are precious... Fear not."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon moves through deep historical and existential 'talking about' to arrive at a powerful, comforting promise. It functions as an evangelical address that grounds the hearer's current suffering in God's past and future action.",
+    "sterke_punten": [
+      {
+        "aspect": "Metaphorical Locution",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The Salisbury/Las Vegas comparison.",
+        "effect": "Makes the 'theological emergency' concrete and felt."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertives",
+        "tekstueel_bewijs": "The long section on Second Isaiah's poetry.",
+        "probleem": "Delays the performative encounter.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": "7",
+    "gebeuren_toelichting": "It becomes an event in the final two paragraphs where the 'Word of God' is directly applied to the 'heart' of the listener.",
+    "sacramentele_kracht": "6",
+    "sacramentele_toelichting": "The preacher acts as a herald of a text rather than a direct mandatory of a present-tense declaration (e.g., 'I declare to you today...')."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, especially in the citations of Isaiah.",
+      "prediker_als_mandataris": "Partially; the preacher presents himself more as a guide to the text than a direct mouthpiece.",
+      "tekstueel_bewijs": [
+        "The voice we hear is the voice of God."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Low visibility.",
+      "perlocutie_theologie": "Implicit in the hope that the Word 'will strike your heart'.",
+      "tekstueel_bewijs": [
+        "strike your heart with a brand-new immediacy"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, in the final section.",
+      "epifanisch_taalgebruik": "Strong in the description of the 'Suffering Servant'.",
+      "tekstueel_bewijs": [
+        "the divine mercy makes itself known"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon relies heavily on past-tense descriptive verbs. A shift toward present-tense performatives earlier in the text would increase the 'event' character.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God has accepted the tears and prayers of his exiled people.",
+          "voorgestelde_revisie": "God accepts your tears and prayers this morning.",
+          "verschil": "Shifts from a historical fact (Assertive) to a present reality (Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is framed as a quote from the past.",
+      "suggestie": "Integrate the 'I' of the promise into the 'I' of the preacher's mandate.",
+      "voorbeeldzinnen": [
+        "As a minister of the Gospel, I promise you: God is with you in your fire."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": false,
+      "probleem": "n/a",
+      "suggestie": "The use of 'you' in the final paragraph is excellent; expand this throughout.",
+      "voorbeeldzinnen": []
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is good.",
+      "suggestie": "Keep the indicative as the foundation for the 'Fear not'."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A masterful use of analogy and biblical theology that successfully transitions from information to proclamation, though it takes its time getting there."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "Unlike SvT, which would focus on the preacher's 'self-revelation' or 'appeal', SAT reveals that the power here is in the Commissive force of the quoted Scripture.",
+    "verschil_met_retoriek": "The sermon doesn't just persuade the audience that exile is bad; it performs the act of 'Toezegging' (Promise) at the end.",
+    "unieke_inzichten_SAT": "SAT identifies that the sermon's climax is not the Salisbury metaphor, but the shift from Assertive history to Commissive address."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "burned",
+        "happened",
+        "recounts",
+        "killed",
+        "looted",
+        "carted",
+        "surrounded",
+        "shaming",
+        "sat",
+        "wept",
+        "remembered",
+        "hung",
+        "experienced",
+        "gone",
+        "swept",
+        "warned",
+        "paid",
+        "lived",
+        "prophesy",
+        "love",
+        "refused",
+        "differ",
+        "dazzle",
+        "seduce",
+        "entice",
+        "demand",
+        "deliver",
+        "mocks",
+        "made",
+        "fastened",
+        "carried",
+        "move",
+        "perish",
+        "formed",
+        "destroyed",
+        "turned",
+        "took",
+        "beset",
+        "routed",
+        "survive",
+        "refuse",
+        "bow",
+        "infuriated",
+        "humbled",
+        "confessed",
+        "acknowledged",
+        "asked",
+        "begged",
+        "knew",
+        "remembered",
+        "called",
+        "devoted",
+        "spoke",
+        "appears",
+        "wrests",
+        "declares",
+        "projects",
+        "astonishes",
+        "affords",
+        "emerge",
+        "hear",
+        "teaches",
+        "accepted",
+        "declared",
+        "preparing",
+        "blots",
+        "remembers",
+        "punished",
+        "announces",
+        "become",
+        "lifts",
+        "working",
+        "articulated",
+        "describes",
+        "despised",
+        "rejected",
+        "wounded",
+        "bruised",
+        "healed",
+        "gone",
+        "turned",
+        "laid",
+        "signifies",
+        "makes",
+        "carried",
+        "told",
+        "feel",
+        "have",
+        "seek",
+        "are",
+        "is",
+        "loved",
+        "fed",
+        "clothed",
+        "protected",
+        "said",
+        "spoken"
+      ],
+      "directief": [
+        "imagine",
+        "look",
+        "see",
+        "listen",
+        "repent",
+        "return",
+        "proclaim",
+        "declare",
+        "set",
+        "tell",
+        "fear",
+        "pass"
+      ],
+      "expressief": [
+        "affected",
+        "get",
+        "know",
+        "think",
+        "groan",
+        "roll",
+        "like",
+        "cry"
+      ],
+      "commissief": [
+        "will",
+        "be",
+        "redeemed",
+        "love",
+        "grant",
+        "promise"
+      ],
+      "declaratief": [
+        "are",
+        "blots",
+        "remembers",
+        "strike"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I, even I, am he who blots out your transgressions.",
+        "categorie": "Declarative",
+        "illocutionaire_kracht": "Divine Authority",
+        "effectiviteit": "High - changes the status of the hearer."
+      },
+      {
+        "zin": "The Old Testament readings in Lent take us in chronological order.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Informative",
+        "effectiviteit": "Low - purely pedagogical."
+      }
+    ],
+    "notities": "The sermon is a textbook example of how a long constative 'run-up' can be redeemed by a sharp performative 'landing'."
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "titel_preek": "Back To Bethel",
+    "bijbeltekst": "Genesis 35:1–3",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "journey through the years",
+          "make life's journey a victory march",
+          "light had broken on his pathway",
+          "wandered far away from God",
+          "never more to roam"
+        ],
+        "conceptuele_metafoor": "LIFE IS A JOURNEY; FAITH IS RETURNING TO THE STARTING POINT"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "shrewd dealings",
+          "slick operator",
+          "disappointed in his bargain",
+          "make his grand killing",
+          "land his ship",
+          "pot of gold at the end of the rainbow"
+        ],
+        "conceptuele_metafoor": "SUCCESS IS A COMMERCIAL TRANSACTION; SIN IS A BAD BARGAIN"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "victory march",
+          "hunted wanderer",
+          "foxhole religion",
+          "hounds of hell cannot track him"
+        ],
+        "conceptuele_metafoor": "SPIRITUAL LIFE IS WARFARE/EVASION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "foxhole religion",
+        "brondomein": {
+          "naam": "Warfare/Military",
+          "concrete_elementen": [
+            "foxhole",
+            "artillery fire",
+            "imminent death",
+            "temporary shelter"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Emergency Faith",
+          "doctrinale_traditie": "Protestant/Evangelical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Temporary shelter from bombs",
+            "doel_element": "Temporary prayer during crisis"
+          },
+          {
+            "bron_element": "Leaving the hole when fire stops",
+            "doel_element": "Abandoning God when trouble ends"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God is only useful for protection",
+            "Faith is a survival tactic rather than a lifestyle"
+          ],
+          "theologische_implicaties": [
+            "God is a utility",
+            "Covenant is conditional on danger"
+          ],
+          "ethische_implicaties": [
+            "Inconsistency in devotion is expected",
+            "Prayer is reactive, not proactive"
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests God is only present in 'war-like' suffering"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A common idiom in mid-20th-century preaching, though still cognitively evocative of desperation."
+      },
+      {
+        "metafoor_expressie": "The hounds of hell cannot track him",
+        "brondomein": {
+          "naam": "The Hunt",
+          "concrete_elementen": [
+            "hounds",
+            "scent",
+            "tracking",
+            "predator/prey"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Spiritual Persecution/Guilt",
+          "doctrinale_traditie": "General Christian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Hounds",
+            "doel_element": "Demonic forces or past sins"
+          },
+          {
+            "bron_element": "Sanctuary/Hiding place",
+            "doel_element": "The presence of God/Church"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The believer is being hunted",
+            "Safety is found only in a specific location (Bethel)"
+          ],
+          "theologische_implicaties": [
+            "Sin has a 'scent' or persistence",
+            "God provides asylum"
+          ],
+          "ethische_implicaties": [
+            "Urgency to find spiritual shelter"
+          ],
+          "onbedoelde_consequenties": [
+            "Paranoia; God as a 'hiding place' rather than a 'strength'"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses vivid, visceral imagery of a chase to re-activate the 'Sanctuary' concept."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon is anchored by the JOURNEY metaphor (Going back to Bethel). It successfully integrates the ECONOMIC domain by framing Jacob's 'shrewdness' as a failed travel strategy.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Introduction/Conclusion",
+          "metafoor_a": "Victory March (Military)",
+          "metafoor_b": "Coming Home (Relational)",
+          "conflict_beschrijving": "The 'Victory March' implies a forward-moving conquest, while 'Coming Home' implies a backward-moving return to vulnerability.",
+          "entailment_conflict": "Triumphalism vs. Repentance",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Description of Bethel",
+          "gemengde_metaforen": [
+            "House of God",
+            "Gate of Heaven",
+            "Ladder"
+          ],
+          "blending_strategie": "Verticality (Ladder) is used to bridge the Container (House) with the Path (Gate)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the dead metaphor of 'Bethel' by mapping it to modern urban experiences (New York, television, daily doubles).",
+        "voorbeeld": "Goodbye, God, I am a New Yorker now!"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The preacher has to explicitly warn against literalizing the 'place' of Bethel to prevent sentimentalism.",
+        "voorbeeld": "We mustn't confuse sentimental feeling with a true religious experience.",
+        "potentiele_impact": "Hearers might think they need to visit their childhood home to find God.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The ancient Near East (Jacob's journey from Canaan to Haran).",
+      "sub_worlds": [
+        "The 'Foxhole' of war",
+        "Modern New York City (ads, numbers, TV)",
+        "The preacher's childhood home (turning the key)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Middle of sermon",
+          "van_wereld": "Jacob's desert",
+          "naar_wereld": "Modern New York",
+          "effectiviteit": "High; creates immediate relevance."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Provider of Sanctuary",
+          "hoe_versterkt": "Repeated use of 'hiding place' and 'sanctuary' imagery."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Self-made Man",
+          "verstoring_strategie": "Showing the failure of 'shrewdness' and 'slickness' through the narrative of Jacob's constant unrest.",
+          "vervangend_schema": "The Dependent Child/Wanderer"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Homecoming' or 'Revival' liturgical themes typical of September/Back-to-school seasons."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY domain, specifically the 'Return' archetype. It effectively uses the ECONOMIC domain to critique modern secularism ('shrewdness', 'bargains'). The landscape is one of movement—fleeing, wandering, and finally returning.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Bethel as 'House of God'",
+        "huidige_status": "Can feel like a static building.",
+        "suggestie": "Deepen the 'Gate' aspect of the metaphor.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Describe Bethel not as a destination, but as the 'thin place' where the roof of the world is stripped away."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The transition from 'Victory March' to 'Coming Home'.",
+        "resolutie_strategie": "Define 'Victory' specifically as the act of returning, rather than as external success."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Jacob as a 'slick operator'",
+        "problematisch_entailment": "Suggests intelligence is an obstacle to faith.",
+        "aanbeveling": "Clarify that it is 'misplaced trust' in intellect, not intellect itself, that is the 'strange god'."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To contrast with the 'slick city' imagery, use the 'roots' and 'planting' metaphors to ground the 'Bethel' experience.",
+        "doel_concept": "Spiritual Stability"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using CMT to bridge ancient narrative and modern urban life. The 'Journey' mapping is consistently applied and emotionally resonant."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'Ad astra' quote; CMT reveals it as a 'Verticality' mapping for human ambition.",
+    "verschil_met_kolb": "Kolb would focus on the 'experience' of Jacob; CMT focuses on how the 'ladder' and 'foxhole' structures the hearer's cognition of God's presence.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is attempting to overwrite the 'LIFE IS A GAMBLE' schema (numbers, daily doubles) with 'LIFE IS A PILGRIMAGE'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "victory march",
+      "slick operator",
+      "foxhole religion",
+      "hounds of hell",
+      "gate of heaven",
+      "pot of gold",
+      "land his ship",
+      "in clover",
+      "strange gods",
+      "hiding place"
+    ],
+    "woord_frequentie_analyse": {
+      "Bethel": "18",
+      "Jacob": "22",
+      "God": "34",
+      "journey": "5",
+      "shrewd": "4",
+      "home": "9"
+    },
+    "notities": "The sermon relies heavily on the 'Container' schema (in the pit, in the house, in the heart) to define the boundaries of sacred space."
+  }
+}

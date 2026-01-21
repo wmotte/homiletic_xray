@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "Death Shall Have No Dominion",
+    "bijbeltekst": "Luke 24, 1 Cor 15, Acts 2",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in the 'damned' inexorability of death by raising the crucified Jesus, thereby breaking the power of Sin and Satan and establishing a new reality for the Church.",
+      "subject": {
+        "identificatie": "God (The Father)",
+        "tekstueel_bewijs": [
+          "this Jesus hath God raised up",
+          "God is faithful",
+          "his faithfulness is powerful to break down barricades"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Resurrection / Victory over Death",
+        "tekstueel_bewijs": [
+          "Death is swallowed up in victory",
+          "turned the key in the lock of the gate of Hell"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God's Faithfulness",
+        "tekstueel_bewijs": [
+          "not because I am faithful but because God is faithful"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Church / The Hearer / 'Beloved creatures'",
+        "tekstueel_bewijs": [
+          "it belongs to you too",
+          "give each of his children... hope and strength"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Risen Christ / The Church's Witness",
+        "tekstueel_bewijs": [
+          "Jesus himself appeared, and he was alive",
+          "witness to the Resurrection"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (implied in the Word/Proclamation)"
+      },
+      "tegenstander": {
+        "identificatie": "Death, Satan, Sin, and the 'Jesus Seminar' (Skepticism)",
+        "tekstueel_bewijs": [
+          "Death... as a hostile, invading power",
+          "burst the eardrums of Satan",
+          "ineffable band of spoilers"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is described as 'damned inexorable' and a 'hostile, invading power' that humans cannot overcome."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The preacher's own journey from a 'cutting edge' intellectual to a witness of the Resurrection.",
+      "subject": "The Preacher (Fleming Rutledge)",
+      "object": "Robust belief / Witness",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The preacher's story is subordinate to the primary narrative of God's action; her belief is a response to the objective event."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Faithfulness → Resurrection Victory → The Beloved Creatures",
+      "helper_subject_tegenstander": "The Risen Christ → God the Father ← Death/Satan",
+      "subject_naar_object": "God → Raising Jesus from the Dead"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "this Jesus hath God raised up",
+        "God is faithful",
+        "He has risen from the dead"
+      ],
+      "voorbeelden_mens_subject": [
+        "I am a believer",
+        "we shall all be changed",
+        "you do not always attend"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "we owe it to those first Christian disciples to do our best to understand"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I wanted very much to be part of the cutting edge",
+          "you would like to have a religious experience"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "determined to know nothing among you except Jesus Christ"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "his faithfulness is powerful to break down barricades",
+          "Death has been driven from the field",
+          "raise the dead to life"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses almost entirely on God's 'Pouvoir' (Power) to do what humans cannot (overcome death). It rejects human 'Savoir' (intellectualism) as insufficient."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Resurrection (Life)",
+      "s2": "Death (The Enemy)",
+      "niet_s1": "Nature/Spring (Mere Renewal)",
+      "niet_s2": "Skepticism/Jesus Seminar (Denial of Death's Defeat)"
+    },
+    "beweging_in_preek": "The sermon moves from ~S1 (Nature/Spring) to S2 (The reality of Death) to S1 (The Resurrection).",
+    "theologische_resolutie": "The tension is resolved by the 'radically discontinuous event' of God raising Jesus, which is not a natural process.",
+    "ernst_van_s2": "Extremely high; death is treated as a 'hostile, invading power'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. God is the primary actor, and the Resurrection is an act of God upon a passive, dead Subject (Jesus) and a hopeless audience.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Self-referential intellectualism (rejected)",
+        "tekstueel_bewijs": "I wanted to be recognized as a Christian intellectual",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "this Jesus hath God raised up",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Rejection of Exemplarism",
+        "tekstueel_bewijs": "It is not 'my' belief... it belongs to you too",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The disciples are not examples of faith, but examples of 'utterly demoralized' failure who are acted upon.",
+      "bijbelse_figuren_als_model": [
+        "The Women",
+        "The Apostles"
+      ],
+      "alternatieve_lezing": "The disciples are receivers of a revelation they did not expect and could not produce."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope in the face of mortality.",
+      "theologische_implicatie": "Soteriology is monergistic; God does the work."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The sermon perfectly maintains the hierarchy of God's action over human response.",
+      "spanning_punten": [
+        "The tension between 'natural' spring and 'anti-natural' resurrection."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Christ has won the victory over death and the devil.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Word itself carries the power of the event."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin and Death are 'hostile, invading powers' that require a divine invasion."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in theocentric narrative structure. God is the Subject, Death is the Opponent, and the Hearer is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy on Pouvoir (Divine Power)",
+      "voorgestelde_balans": "Maintain as is; appropriate for Easter.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly personified and cosmic.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The gravity of death makes the grace of resurrection 'heavy' rather than 'cheap'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's act) precedes and enables the Hearer's hope."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a perfect example of the 'Grammar of Grace.' It refuses to turn the Resurrection into a human potentiality or a natural metaphor."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on her use of the 'Jesus Seminar' as a foil, actantial analysis shows this group functions as a 'Minor Opponent' to the 'Sender's' truth.",
+    "verschil_met_exegese": "Exegesis would look at the Greek of 1 Cor 15; actantial analysis looks at how Rutledge casts the 'dead body' as a passive object acted upon by a Sovereign Subject.",
+    "unieke_inzichten_greimas": "Reveals that the 'Spring' metaphors are actually 'Opponents' to the narrative because they shift the 'Sender' from God to Nature."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (raised up)",
+      "Death (invades)",
+      "Jesus (appeared)",
+      "I (witness)",
+      "The Trumpet (shall sound)"
+    ],
+    "volledige_object_lijst": [
+      "The Body of Jesus",
+      "The Victory",
+      "The Kingdom",
+      "Hope"
+    ],
+    "werkwoord_frequentie": {
+      "raised": {
+        "count": 6,
+        "primair_subject": "God"
+      },
+      "believe": {
+        "count": 8,
+        "primair_subject": "Man"
+      }
+    },
+    "notnotes": "The preacher uses her own 'unbelief' as a former actant to validate the current 'Receiver' status of the congregation."
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "titel_preek": "Life Together ... in the World",
+    "bijbeltekst": "1 Corinthians 3, Deuteronomy 30, Psalm 119, Matthew 5",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1050"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The church must decide to overcome internal divisions and cultural conformity to live a 'Gospel life' of mission and obedience.",
+      "subject": {
+        "identificatie": "The Church / The Hearer ('We')",
+        "tekstueel_bewijs": [
+          "one big decision is an internal decision about how we will live together",
+          "we have been picking sides",
+          "we simply imitate the society around us",
+          "we have forgotten what is distinctive"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "A 'Gospel life' / Faithful presence / Mission of loving the world",
+        "tekstueel_bewijs": [
+          "to live a Gospel life",
+          "how to be present in our culture in faithful ways",
+          "the work of the church to which they have been called"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Biblical Text / The Preacher / The 'Mandate'",
+        "tekstueel_bewijs": [
+          "These texts suggest to me two big decisions",
+          "Moses calls Israel",
+          "Jesus... urges actions and policies"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Church",
+        "tekstueel_bewijs": [
+          "for the sake of the world that God loves",
+          "that will bring happiness"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Young Evangelicals / Biblical Examples / Torah",
+        "tekstueel_bewijs": [
+          "we mainline folk could be instructed by young evangelicals",
+          "Torah commandments... guidelines for being in sync"
+        ],
+        "rol_van_god": "Absent or Passive Object ('God's field')",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Ideology / Consumer Culture / Self-serving desire",
+        "tekstueel_bewijs": [
+          "the main picking of sides is ideological",
+          "culture of commodities",
+          "seductions of private security"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily sociological (red/blue divide) and psychological (preferences), rather than ontological (Sin/Death)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's work of cultivating and occupying the church.",
+      "subject": "God",
+      "object": "The Church (as field/building)",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The preacher mentions God as the one who cultivates, but immediately frames this as something the church must 'decide' to allow, making God's action conditional on human decision."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Biblical Mandate → Gospel Life → The World",
+      "helper_subject_tegenstander": "Young Evangelicals → The Church ← Ideological Division",
+      "subject_naar_object": "The Church → Decision/Obedience"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 48,
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God loves the world",
+        "God's deep love for the world",
+        "God... sees human persons in need"
+      ],
+      "voorbeelden_mens_subject": [
+        "we have been picking sides",
+        "we must decide",
+        "we have forgotten",
+        "we know better",
+        "we cannot be the church by accident"
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "the church now faces two big decisions",
+          "we have a mandate to nurture",
+          "requires of us sustained attentiveness"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "They rather want to gather",
+          "hunger for things"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "we know better",
+          "Moses knows better",
+          "Jesus knows about the seductions"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "so we can be cultivated"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes the hearer has the 'Savoir' (knowledge) and 'Vouloir' (will), and focuses entirely on the 'Devoir' (obligation). It ignores the 'Pouvoir' (power/grace) needed to execute the mandate."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Covenant/Life",
+      "s2": "Commodity/Death",
+      "niet_s1": "Ideological Division",
+      "niet_s2": "Social Conformity"
+    },
+    "beweging_in_preek": "From Niet-S1 (Division) toward S1 (Covenant) via human decision.",
+    "theologische_resolutie": "Resolution is found in 'obedient intentionality' rather than divine intervention.",
+    "ernst_van_s2": "Moderate; 'Death' is used metaphorically for cultural failure."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is structured around human agency ('two big decisions'). God is the object of our love or the owner of the building, but rarely the active Subject of the verbs of salvation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Agency",
+        "tekstueel_bewijs": "The church now faces two big decisions... if it is to live a Gospel life.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "Imagine the church... so drawn to Christ that we can be cultivated.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christological Foundation",
+        "tekstueel_bewijs": "Christ who is the full performance of God’s deep love.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Young evangelicals and Moses are used as models for the hearer to imitate.",
+      "bijbelse_figuren_als_model": [
+        "Moses",
+        "Young Evangelicals",
+        "Paul"
+      ],
+      "alternatieve_lezing": "Instead of 'Moses calls us to choose,' focus on 'God delivers Israel from the commodity-culture of Egypt.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of responsibility; pressure to 'decide' correctly.",
+      "theologische_implicatie": "Synergism where human decision is the catalyst for ecclesial renewal."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 7,
+      "coherentie_beschrijving": "The ethical program (Program 2) has completely swallowed the soteriological program (Program 1).",
+      "spanning_punten": [
+        "The claim 'we know better' clashes with the biblical claim that we are 'of the flesh'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Christ is the 'performance' of love that we are to 'exhibit and enact'.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer already possesses the power to choose."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is treated as 'immaturity' or 'picking sides' rather than a dead-end state."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'call to action' where the Church is the Subject and God is the Object/Spectator.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The 'two decisions' make the Church the savior of its own crisis.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who breaks the power of ideology.",
+      "voorbeeld_revisie": "Instead of 'We must decide to live together,' use 'Christ has broken down the dividing wall, making us one building.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'decider'.",
+      "voorgestelde_identificatie": "Hearer as the 'Field' (Receiver) being acted upon.",
+      "strategie": "Emphasize the passive verbs in the 'field/building' metaphor."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God enables)",
+      "concrete_suggestie": "Focus on how the Spirit gives the power to 'swim upstream' when we cannot."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Weak (ideology/preferences).",
+      "voorgestelde_intensivering": "Acknowledge that we *cannot* stop picking sides on our own strength.",
+      "theologische_rationale": "Without a heavy opponent, grace is unnecessary; only advice is needed."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics precedes/replaces Soteriology.",
+      "voorgestelde_structuur": "1. What God has done in Christ to end our wars. 2. Therefore, we find ourselves living differently."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong social conscience but lacks the 'engine' of grace to empower the heavy demands it places on the congregation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is persuasive and well-structured; actantially, it is a legalistic mandate.",
+    "verschil_met_exegese": "The exegesis of Paul is accurate regarding the problem (division), but the homiletical move skips Paul's solution (the Cross) to jump to the 'decision'.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite using the word 'Gospel,' the functional Subject is 'We,' making it a law-driven narrative."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "The church faces decisions",
+      "We pick sides",
+      "We imitate society",
+      "We know better",
+      "We must decide"
+    ],
+    "volledige_object_lijst": [
+      "Gospel life",
+      "Faithful presence",
+      "Covenantal relationships"
+    ],
+    "werkwoord_frequentie": {
+      "decide": {
+        "count": 6,
+        "primair_subject": "Man"
+      },
+      "love": {
+        "count": 5,
+        "primair_subject": "God/Man"
+      },
+      "know": {
+        "count": 4,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Imagine' trope to move the hearer, which functions as a recruitment of the 'Vouloir' (Will)."
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "titel_preek": "Remembering Who We Are: The Temptation to Amnesia",
+    "bijbeltekst": "Deuteronomy 26 & Luke 4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explains the historical and liturgical context of Deuteronomy 26 and the temptation of Jesus in Luke 4, linking them to the theme of identity and baptism.",
+      "exegetische_kwaliteit": "High. Strong narrative flow and historical-critical awareness of the 'credo' in Deuteronomy.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily describing the biblical narrative and diagnosing the current cultural state of the church.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The Old Testament text we have today has been regarded as the key...",
+        "I believe that the big issue in the U.S. church today is..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Awareness of cultural seduction and a desire to 'remember' baptismal identity.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned as a promise in baptism but not as the active agent of the sermon's current effect.",
+      "perlocutionaire_werkwoorden": [
+        "remember",
+        "resist",
+        "recognize",
+        "rejoice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "84",
+      "procent": "70%",
+      "voorbeelden": [
+        "It is a great thing to have a name.",
+        "Jesus was circumcised as a Jewish baby.",
+        "The devil is the quiet voice of seduction."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "has been",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "10%",
+      "voorbeelden": [
+        "Take great care to remember.",
+        "Answer the voice of seduction."
+      ],
+      "dominante_werkwoorden": [
+        "take care",
+        "answer",
+        "remember"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "7%",
+      "voorbeelden": [
+        "I believe that the big issue...",
+        "I gladly put my life down."
+      ],
+      "dominante_werkwoorden": [
+        "believe",
+        "imagine",
+        "want to talk about"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "promised God’s spirit",
+        "the world will hold"
+      ],
+      "dominante_werkwoorden": [
+        "promised",
+        "hold"
+      ],
+      "kwaliteit": "Weak. Promises are mostly described as past events (baptism) rather than enacted in the present."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher describes declarations but does not perform them (e.g., no 'I declare you free')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "The narrative of Jesus makes clear that...",
+        "I will name three forms of seduction...",
+        "It portrays people in Israel..."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a lecture on identity rather than a participant in a new identity."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Information about God's mercy is provided, but the mercy is not 'delivered' to the hearer's conscience."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The sermon talks *about* the promise of baptism but does not *renew* the promise to the listener.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "22",
+        "gebruik": "Mostly 'I believe' or 'We' as a collective sociological group."
+      },
+      "tweede_persoon": {
+        "frequentie": "14",
+        "gebruik": "Used in the latter half to diagnose the audience's anxiety.",
+        "performatieve_context": "Used for accusation/diagnosis rather than grace."
+      },
+      "derde_persoon": {
+        "frequentie": "58",
+        "gebruik": "Describing Israel, Jesus, and the Devil.",
+        "distantie_effect": "Creates a historical distance where the biblical text is a 'case study'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Recounting Deuteronomy and the Gospels."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about identity and the U.S. church."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final call to 'answer'."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History of Israel/Jesus) -> Assertive (Diagnosis of US Church) -> Directive (We must answer).",
+      "voorbeelden": [
+        "The church is in crisis... Our task is to answer."
+      ],
+      "probleem": "The 'task' (Directive) is not fueled by a present-tense 'gift' (Commissive/Declarative), leading to moralism."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the middle step of the Promise (Toezegging).",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "When we forget our identity... the church loses its edge... Our task is to answer."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant sociological and theological essay on identity, but fails to perform the identity-giving act it describes.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The four affirmations of Deuteronomy 26.",
+        "effect": "Provides clear biblical grounding."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The sermon says 'we are promised' (past tense) but never says 'God promises you' (present).",
+        "probleem": "No sacramental event occurs.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a talk about an event (baptism/temptation) rather than being an event itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher remains a commentator rather than a mandatory of the Word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the sermon, not the subject.",
+      "prediker_als_mandataris": "No. The preacher speaks as an analyst of the church.",
+      "tekstueel_bewijs": [
+        "I believe that the big issue..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimal.",
+      "perlocutie_theologie": "The effect is sought through the preacher's persuasion rather than the Spirit's arrival.",
+      "tekstueel_bewijs": [
+        "promised God’s spirit [in baptism]"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a reminder of a previous means of grace.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "In the Christian community, the great sign... is baptism."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/was' to 'I declare/He promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "In baptism, we are named as one of Christ’s own.",
+          "voorgestelde_revisie": "In the name of Jesus Christ, I remind you: You are His own. He claims you now.",
+          "verschil": "Shifts from a general fact to a personal address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace is stuck in the past tense.",
+      "suggestie": "Insert a clear Commissive after the diagnosis of amnesia.",
+      "voorbeeldzinnen": [
+        "Though you have forgotten Him, He has not forgotten you. He promises to hold you today."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Address the hearer's specific amnesia directly.",
+      "voorbeeldzinnen": [
+        "You, who are anxious about your children, hear this: God is their keeper."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'task' feels heavy because the 'gift' isn't delivered.",
+      "suggestie": "Make the 'gift' the current illocutionary act."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically profound and culturally relevant, but needs to move from 'talking about' to 'doing' to become a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of anxiety; SAT focuses on the lack of a 'Declarative' act from God.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (triads, metaphors); illocutionarily, it is weak (lacks force).",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's 'crisis' is not its content, but its failure to use the keys of the kingdom (Declaratives)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "portrays",
+        "regarded",
+        "includes",
+        "defines",
+        "know",
+        "imagine"
+      ],
+      "directief": [
+        "take care",
+        "answer",
+        "resist",
+        "remember"
+      ],
+      "expressief": [
+        "believe",
+        "want to talk",
+        "gladly"
+      ],
+      "commissief": [
+        "promised",
+        "will hold"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I believe that the big issue in the U.S. church today is that we are tempted to amnesia.",
+        "categorie": "ASSERTIVE/EXPRESSIVE",
+        "illocutionaire_kracht": "Opinion/Diagnosis",
+        "effectiviteit": "Good for analysis, weak for proclamation."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher's expertise in biblical theology replaces the prophetic office."
+  }
+}

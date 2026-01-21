@@ -76,14 +76,17 @@ top_theologians <- data_raw %>%
 
 cat("Top 3 Theologians:", paste(top_theologians, collapse = ", "), "\n")
 
-# 4. Define Domains and Score Columns
+# 4. Define Domains and Score Columns (9 domains for 3x3 grid)
 domains <- list(
   aristoteles = "aristoteles.overall.overall_rhetorical_score",
   dekker = "dekker.overall.average_score",
   esthetiek = "esthetiek.overall.overall_aesthetic_score",
   kolb = "kolb.overall.overall_kolb_score",
   schulz = "schulz.overall.overall_communication_score",
-  transactional = "transactional.overall.psychological_health_score"
+  transactional = "transactional.overall.psychological_health_score",
+  metaphor = "metaphor.coherentie.score",
+  narrative = "narrative.coherentie.score",
+  speech_act = "speech_act.diagnose.gebeuren_score"
 )
 
 # Function to calculate variance stats for a given sample size
@@ -166,11 +169,12 @@ cat("\nGenerating plots...\n")
 # Plot 1: Variance Estimate Convergence (Mean Variance Estimate vs N)
 # Does the *value* of the variance change as we add more data? (Natural Variation Saturation)
 p1 <- final_df %>%
-  ggplot(aes(x = n, y = mean_var_est, color = domain, fill = domain)) + 
-  geom_line() + 
-  geom_ribbon(aes(ymin = q05_var, ymax = q95_var), alpha = 0.1, color = NA) + 
-  facet_wrap(~theologian, scales = "free") + 
-  theme_minimal() + 
+  ggplot(aes(x = n, y = mean_var_est, color = domain, fill = domain)) +
+  geom_line() +
+  geom_ribbon(aes(ymin = q05_var, ymax = q95_var), alpha = 0.1, color = NA) +
+  facet_wrap(~theologian, nrow = 3, ncol = 3, scales = "free") +
+  scale_x_continuous(breaks = seq(0, 400, by = 20)) +
+  theme_minimal() +
   labs(
     title = "Convergence of Score Variance Estimates",
     subtitle = "Estimated Variance (Mean + 90% Confidence Interval) vs Sample Size",
@@ -179,15 +183,16 @@ p1 <- final_df %>%
     caption = "Shaded area represents the uncertainty (90% CI) of the variance estimate at size N"
   )
 
-ggsave(file.path(output_dir, "variance_convergence_estimates.pdf"), p1, width = 14, height = 8)
+ggsave(file.path(output_dir, "variance_convergence_estimates.pdf"), p1, width = 14, height = 12)
 
 # Plot 2: Stability of Variance Estimate (SD of Variance vs N)
 # How much does the variance estimate fluctuate if we use smaller samples?
 p2 <- final_df %>%
-  ggplot(aes(x = n, y = sd_var_est, color = domain)) + 
-  geom_line() + 
-  facet_wrap(~theologian, scales = "free") + 
-  theme_minimal() + 
+  ggplot(aes(x = n, y = sd_var_est, color = domain)) +
+  geom_line() +
+  facet_wrap(~theologian, nrow = 3, ncol = 3, scales = "free") +
+  scale_x_continuous(breaks = seq(0, 400, by = 20)) +
+  theme_minimal() +
   labs(
     title = "Stability of Variance Estimates (Saturation Analysis)",
     subtitle = "Standard Deviation of the Variance Estimator vs Sample Size",
@@ -196,7 +201,7 @@ p2 <- final_df %>%
     caption = "Lower values indicate a more stable/saturated estimate of natural variation"
   )
 
-ggsave(file.path(output_dir, "variance_stability_analysis.pdf"), p2, width = 14, height = 8)
+ggsave(file.path(output_dir, "variance_stability_analysis.pdf"), p2, width = 14, height = 12)
 
 # Plot 3: Specific Check for 50% split (User Query)
 # We calculate the instability at 50% N vs 100% N (100% N instability is 0 for the single dataset, but we want to show the trend)
@@ -205,10 +210,11 @@ ggsave(file.path(output_dir, "variance_stability_analysis.pdf"), p2, width = 14,
 for (dom in names(domains)) {
   p_dom <- final_df %>%
     filter(domain == dom) %>%
-    ggplot(aes(x = n, y = mean_var_est, color = theologian)) + 
-    geom_line(size = 1) + 
-    geom_ribbon(aes(ymin = q05_var, ymax = q95_var, fill = theologian), alpha = 0.15, color = NA) + 
-    theme_minimal() + 
+    ggplot(aes(x = n, y = mean_var_est, color = theologian)) +
+    geom_line(linewidth = 1) +
+    geom_ribbon(aes(ymin = q05_var, ymax = q95_var, fill = theologian), alpha = 0.15, color = NA) +
+    scale_x_continuous(breaks = seq(0, 400, by = 20)) +
+    theme_minimal() +
     labs(
       title = paste("Sequential Variance Analysis:", dom),
       subtitle = "Does variance change/saturate with more sermons?",

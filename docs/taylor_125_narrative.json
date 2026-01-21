@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Philadelphia: The Keepers Are Kept, Part 1",
+    "bijbeltekst": "Revelation 3:7-13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The church in Philadelphia (and the modern hearer) is addressed as having 'a little strength' which must be utilized to improve the world, fight drugs, and evangelize kin, while God remains a patient observer and setter of doors.",
+      "subject": {
+        "identificatie": "The Hearer/The Church",
+        "tekstueel_bewijs": [
+          "We can try to educate our children",
+          "You can slip to some pay telephone",
+          "We can all start a process of healing",
+          "You can tell somebody that Jesus died for all"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Social and Moral Improvement (A better world/drug control/racial healing)",
+        "tekstueel_bewijs": [
+          "a formula for making this a far better world",
+          "bringing drugs under control",
+          "start a process of healing in this city"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Patient Lord / The Preacher as Moral Guide",
+        "tekstueel_bewijs": [
+          "how patient the Lord has been",
+          "I want to give you this morning a formula"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The World/The Community",
+        "tekstueel_bewijs": [
+          "making this a far better world",
+          "ultimately harm us"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Human effort and 'A Little Strength'",
+        "tekstueel_bewijs": [
+          "we aren't powerless",
+          "using what little strength we do have"
+        ],
+        "rol_van_god": "Absent",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Social Ills (Drugs, Racial Tension, Hypocrisy)",
+        "tekstueel_bewijs": [
+          "the drug industry is now $65 billion",
+          "poison has been spread through the body politic"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as a societal plague or a lack of personal consistency rather than a cosmic or ontological power."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "God's historical patience with flawed people.",
+      "subject": "God",
+      "object": "Humanity's survival despite flaws",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "God's action is relegated to the past (historical patience) while the present is the domain of human 'strength'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Patient Lord → Better World → Society",
+      "helper_subject_tegenstander": "Human Effort → The Hearer ← Social Ills",
+      "subject_naar_object": "The Hearer → Moral/Social Reform"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "the Lord has had to deal with",
+        "He deals with so many of us",
+        "I have set before thee an open door"
+      ],
+      "voorbeelden_mens_subject": [
+        "We can try to educate",
+        "You can slip to some pay telephone",
+        "We can watch people",
+        "You can tell somebody"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "we ought not to forget",
+          "Hold yourself to high standards"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I would like to have been able to worship"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "I want to give you this morning a formula",
+          "I wanted to find out from where it came"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we aren't powerless",
+          "you do have some strength",
+          "we can watch"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the hearer's latent power (Pouvoir). It is a 'recruitment' sermon that attempts to convince the hearer they are not as incompetent as they feel."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Strength/Action",
+      "s2": "Weakness/Submission",
+      "niet_s1": "Helplessness",
+      "niet_s2": "Resistance"
+    },
+    "beweging_in_preek": "From Helplessness (~S1) to a realization of 'A Little Strength' (S1).",
+    "theologische_resolutie": "The tension is resolved through human initiative and moral consistency.",
+    "ernst_van_s2": "Low. Weakness is treated as an excuse to be overcome rather than a condition requiring death and resurrection."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is anthropocentric. While it mentions 'the Lord,' the engine of the narrative is human effort ('using what little strength we do have'). God is the one who 'deals' with us, but we are the ones who must 'make this a far better world.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Formulaic Living",
+        "tekstueel_bewijs": "I want to give you this morning a formula for making this a far better world.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of the Gospel",
+        "tekstueel_bewijs": "You can tell somebody that Jesus died for all [as a way to use your strength].",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Patience",
+        "tekstueel_bewijs": "This is really to show how patient the Lord has been.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The preacher uses his own memory of 'Mother Rich' and 'Mother Hammond' and the biblical deacons as models of conduct to be emulated.",
+      "bijbelse_figuren_als_model": [
+        "Deacons",
+        "Noah",
+        "Prophets (Amos, Habakkuk)"
+      ],
+      "alternatieve_lezing": "Instead of 'be like the deacons who stopped confusion,' the sermon could focus on 'God is the author of peace who stills the storm of human confusion.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of responsibility; empowerment based on self-exertion.",
+      "theologische_implicatie": "Soteriology is functionally synergistic; God opens the door, but the human must walk through and 'keep' the word."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The transition from the biblical text of Philadelphia to modern drug policy and voting statistics is rhetorically smooth but theologically disjointed.",
+      "spanning_punten": [
+        "The text says 'I have set before thee an open door,' but the sermon focuses on the hearer's phone call to the police."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Jesus died for all... Use it, that's our job.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is assumed to already possess the 'little strength' needed."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'confusion,' 'poison,' or 'weakness' rather than a total inability."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a moral pep-talk where the hearer is the Subject and God is a historical backdrop.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the one 'keeping' the world.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who 'keeps' the church.",
+      "voorbeeld_revisie": "Instead of 'We must use our strength,' use 'Christ, who is our strength, acts through our weakness.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the hero of the drug war.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the hearer as the one who is 'kept' (as the title suggests but the content ignores)."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Over-reliance on Pouvoir (Human ability).",
+      "voorgestelde_balans": "Focus on Devoir (God's promise) and Pouvoir (Spirit's endowment).",
+      "concrete_suggestie": "Shift from 'You can' to 'He is able'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Sociological problems.",
+      "voorgestelde_intensivering": "Identify the 'synagogue of Satan' (from the text) as a spiritual power only God can defeat.",
+      "theologische_rationale": "Without a heavy opponent, grace is unnecessary; only effort is required."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Program 2) has swallowed Soteriology (Program 1).",
+      "voorgestelde_structuur": "Establish that we are 'kept' by God (Soteriology) before we are called to 'keep' His word (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong social conscience but lacks a robust Christological engine to sustain the demands it places on the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is engaging and uses powerful anecdotes; semiotically, it is a legalistic structure.",
+    "verschil_met_exegese": "Exegesis would focus on the 'Key of David'; this sermon focuses on the 'Formula for a better world'.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the title 'The Keepers Are Kept,' the actantial Subject is always the 'Keeper' and never the 'Kept'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (can try)",
+      "You (can slip)",
+      "I (want to give)",
+      "The Lord (has been patient)"
+    ],
+    "volledige_object_lijst": [
+      "Better world",
+      "Drug control",
+      "Healing",
+      "Strength"
+    ],
+    "werkwoord_frequentie": {
+      "can": {
+        "count": "15",
+        "primair_subject": "Man"
+      },
+      "must": {
+        "count": "4",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon title promises a theocentric focus ('Are Kept') but the body delivers an anthropocentric mandate ('You have strength')."
+  }
+}

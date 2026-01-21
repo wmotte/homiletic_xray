@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "titel_preek": "The Glory of the Living Lord: Epiphany and Identity",
+    "bijbeltekst": "Mark 1, Matthew 9, Luke 4, John 12 (Epiphany Cycle)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A theological exposition on the season of Epiphany, focusing on Jesus' identity as the Son of God through exorcisms, callings, and healings. It critiques modern 'Jesus scholars' and mainline church timidity.",
+      "exegetische_kwaliteit": "High. Strong emphasis on Synoptic differences and the 'reign of Sin and Death' in Pauline theology.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is teaching and asserting theological truths about the nature of the Gospel accounts.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 9,
+      "voorbeelden": [
+        "Christians need confidence in the identity of our Lord.",
+        "This New Testament cosmology is essential.",
+        "The season of Epiphany is designed to display just that."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To instill confidence in the hearer regarding Jesus' divinity and to correct modern theological misunderstandings.",
+      "pneumatologisch_bewustzijn": "Minimal. The Spirit is mentioned as a topic of the text (Luke 4), but not as the active agent of the sermon's current reception.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "recognize",
+        "believe",
+        "appreciate"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "80%",
+      "voorbeelden": [
+        "Jesus returned in the power of the Spirit.",
+        "The incarnate Son of God did not arrive in peaceful neutral territory.",
+        "This is enormously significant."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "shows",
+        "means",
+        "illustrate",
+        "undergirds"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "7%",
+      "voorbeelden": [
+        "We need to read the Bible more carefully.",
+        "Note the words that we have been emphasizing."
+      ],
+      "dominante_werkwoorden": [
+        "need",
+        "note",
+        "must"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 8,
+      "procent": "5%",
+      "voorbeelden": [
+        "We are meant to be awestruck.",
+        "As though we were embarrassed to claim too much."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "embarrassed",
+        "awestruck"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 2,
+      "procent": "1%",
+      "voorbeelden": [
+        "God brings judgment upon the world and will finally destroy this usurper."
+      ],
+      "dominante_werkwoorden": [
+        "will"
+      ],
+      "kwaliteit": "Weak. The promises are stated as future theological facts rather than direct address to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": 0,
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher describes Jesus' authority but does not exercise delegated authority to absolve or bless."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "95%",
+    "performatief_percentage": "5%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Heavy use of 'It is important to understand'",
+        "Third-person historical narrative",
+        "Theological critique of other scholars"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological lecture rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise to the 'You'",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "Information about Jesus' power is conveyed, but that power is not applied to the hearer's life."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "None. The sermon talks about the concept of 'good news' but does not deliver it as a promise.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 15,
+        "gebruik": "Mostly 'We' (inclusive of preacher and congregation as observers)."
+      },
+      "tweede_persoon": {
+        "frequentie": 0,
+        "gebruik": "None. The 'You' is entirely absent.",
+        "performatieve_context": "N/A"
+      },
+      "derde_persoon": {
+        "frequentie": 110,
+        "gebruik": "Dominant. Talking about Jesus, the disciples, and church leaders.",
+        "distantie_effect": "Creates a high degree of distance; the sermon is a report on a report."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Recounting Gospel narratives."
+      },
+      "tijdloos_present": {
+        "frequentie": "35%",
+        "gebruik": "Theological definitions and general church observations."
+      },
+      "actueel_present": {
+        "frequentie": "5%",
+        "gebruik": "Brief mentions of 'our time'."
+      }
+    },
+    "adressering_effectiviteit": 2
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Jesus has power) -> Directive (We need to read more carefully).",
+      "voorbeelden": [
+        "In Christ, God brings judgment... Christians need confidence."
+      ],
+      "probleem": "The 'Promise' (Toezegging) is skipped, moving straight from information to moral/intellectual obligation."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We need to read the Bible more carefully (Imperative) because Jesus is Lord (Indicative)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The text functions as a high-level theological essay or 'teaching' on the theme of Epiphany. It is descriptive rather than kerygmatic.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Accuracy",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The reign of Sin and Death... cannot be understood without the looming presence.",
+        "effect": "Provides a solid intellectual framework."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The whole text.",
+        "probleem": "No 'You' is addressed; God's word is not 'happening' to the listener.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a lecture about an event (Epiphany), but it is not an event itself.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "The preacher remains a commentator, never a mandatory of the living Christ speaking to the present congregation."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the speaker's description.",
+      "prediker_als_mandataris": "No. The preacher acts as a theological guide.",
+      "tekstueel_bewijs": [
+        "In this chapter, we arrive at..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Only as a historical factor in Jesus' life.",
+      "perlocutie_theologie": "No. The effect is sought through better 'reading' and 'understanding'.",
+      "tekstueel_bewijs": [
+        "Jesus returned in the power of the Spirit."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a means of information.",
+      "epifanisch_taalgebruik": "No. It describes epiphanies but does not create one.",
+      "tekstueel_bewijs": [
+        "The season of Epiphany is designed to display just that."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Replace 50% of 'is/was' verbs with active, second-person address verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "In Christ, God brings judgment upon the world.",
+          "voorgestelde_revisie": "Today, Christ stands here to judge the powers that bind you.",
+          "verschil": "Moves from a general truth to a present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The victory over Sin and Death is treated as a topic, not a gift.",
+      "suggestie": "Directly promise the victory of Christ to the specific struggles of the congregation.",
+      "voorbeeldzinnen": [
+        "Because Christ has conquered, Sin no longer has the final word over your life."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Total absence of 'You'.",
+      "suggestie": "Use the second person plural to bring the congregation into the narrative.",
+      "voorbeeldzinnen": [
+        "Do you see His glory today?",
+        "He is calling you from your nets."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'need to read more' is a legalistic response to a descriptive indicative.",
+      "suggestie": "Base the call to action on the performative promise."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The theology is excellent, but the delivery is stuck in 'talking about'. Turn the lecture into a proclamation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Sender's' credibility; SAT reveals that the 'Sender' has failed to perform the act of 'Promising' entirely.",
+    "verschil_met_retoriek": "Rhetorically, this is a good essay. Homiletically (SAT), it fails because it does not 'do' what it 'says'.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'orthodox' content, the illocutionary force is merely assertive, making it a lecture rather than a sermon."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "illustrate",
+        "convey",
+        "undergirds",
+        "amounts",
+        "sets",
+        "tells"
+      ],
+      "directief": [
+        "need",
+        "must",
+        "note",
+        "read"
+      ],
+      "expressief": [
+        "embarrassed",
+        "awestruck"
+      ],
+      "commissief": [
+        "will destroy"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Today this scripture has been fulfilled in your hearing.",
+        "categorie": "Assertive (Quoted)",
+        "illocutionaire_kracht": "Declarative (in the text)",
+        "effectiviteit": "The preacher quotes a declarative but does not perform one."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher describes the 'authority' of Jesus without ever exercising the authority delegated to the pulpit."
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "titel_preek": "Face to Face, Hand in Hand",
+    "bijbeltekst": "1 Corinthians 15:47, 49",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explains the distinction between the immortality of the soul and the resurrection of the body, using Paul's argument in 1 Corinthians 15 and Gospel narratives of the empty tomb.",
+      "exegetische_kwaliteit": "High. Detailed contrast between Hellenistic dualism and Christian bodily resurrection.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting theological truths and explaining biblical history, with a shift toward promising in the final third.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Paul writes quite sharply to the Corinthian church.",
+        "The tomb was empty; the body was gone.",
+        "I tell you a mystery."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from a vague spiritualism to a concrete hope in the bodily resurrection.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "hope",
+        "imagine",
+        "rejoice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The first man was from the earth.",
+        "Immortality of the soul was such a commonplace belief.",
+        "The Gospel of Matthew also conveys something of this sense."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "says",
+        "writes",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "Let us return to Paul's words.",
+        "Suppose for a moment.",
+        "Behold!"
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "suppose",
+        "behold"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "I doubt it.",
+        "The preacher is sympathetic to Paul's predicament.",
+        "Can you imagine anything more wonderful than this?"
+      ],
+      "dominante_werkwoorden": [
+        "doubt",
+        "feel",
+        "imagine"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "10",
+      "procent": "6%",
+      "voorbeelden": [
+        "We shall also bear the image of the man of heaven.",
+        "In Christ shall all be made alive.",
+        "We shall all be changed."
+      ],
+      "dominante_werkwoorden": [
+        "shall",
+        "will"
+      ],
+      "kwaliteit": "Strongly grounded in scripture, but often framed as 'Paul says' rather than 'I promise you'."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "3%",
+      "voorbeelden": [
+        "Jesus is right here.",
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "amen"
+      ],
+      "autoriteit": "Moderate; relies on the 'epiphanic' presence of the text rather than ministerial absolution."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical description of the Corinthian church.",
+        "Lengthy analysis of Paul's metaphors (seeds, bulbs).",
+        "Talking about the difficulty of preaching Easter."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of Paul's argument rather than a participant in the Resurrection."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct address of forgiveness",
+        "Present-tense sacramental declaration"
+      ],
+      "effect_op_hoorder": "Information about the resurrection is provided, but the 'event' of being raised is delayed until the end."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "Scriptural and future-oriented.",
+      "voorbeelden": [
+        "In Christ shall all be made alive.",
+        "We shall all be changed."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "22",
+        "gebruik": "Preacher's anecdotes and sympathetic observations."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Direct address mostly in the final section and hypothetical scenarios.",
+        "performatieve_context": "Used to connect the hearer to the promise of 'all things possible'."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant mode: talking about Paul, the Corinthians, the women at the tomb, and Jesus.",
+        "distantie_effect": "Creates a lecture-like atmosphere for the first 70% of the text."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical narrative and historical context."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological truths about the nature of bodies."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'Jesus is right here' moment."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon is not moralistic (Directive-heavy).",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from Assertive (Explanation of 1 Cor 15) to Commissive (The promise of change).",
+      "voorbeelden": [
+        "Assertive: 'The tomb was empty' -> Commissive: 'We shall all be changed.'"
+      ],
+      "kwaliteit": "The transition is late but powerful."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because Christ is raised (Indicative), let us grasp by faith (Imperative)."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions primarily as a high-level theological lecture that clarifies a difficult doctrine before concluding with a burst of performative hope.",
+    "sterke_punten": [
+      {
+        "aspect": "Clarity of Locution",
+        "categorie": "Locutie",
+        "tekstueel_bewijs": "The distinction between immortality of the soul and resurrection of the body.",
+        "effect": "Clears away modern misconceptions."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocutie",
+        "tekstueel_bewijs": "The long section on Paul's 'predicament' with seeds and bulbs.",
+        "probleem": "Delays the encounter with the Risen Lord.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It becomes an event in the final three paragraphs, but the preceding text is mostly 'talking about' the event.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The authority is derived from quoting Paul rather than the preacher speaking as a mandatory of God."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly through the reading of Scripture.",
+      "prediker_als_mandataris": "Weak. The preacher acts more as a sympathetic commentator on Paul.",
+      "tekstueel_bewijs": [
+        "The preacher is sympathetic to Paul's predicament here."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Not explicitly mentioned.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Partially, in the 'Jesus is right here' section.",
+      "epifanisch_taalgebruik": "Yes, in the description of the Guatemalan card and the 'twinkling of an eye'.",
+      "tekstueel_bewijs": [
+        "Jesus is right here. He is right here in a way that no one else has ever been."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense assertives. Needs more present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Paul seeks to remind the Corinthians that the Resurrection is a completely new happening.",
+          "voorgestelde_revisie": "I announce to you today: this Resurrection is a new happening for you.",
+          "verschil": "Shifts from historical reporting to present-tense address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promises are mostly quotes from Paul.",
+      "suggestie": "Internalize the promise and speak it directly to the congregation.",
+      "voorbeeldzinnen": [
+        "Because He lives, you too shall live."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' (Corinthians) and 'he' (Paul).",
+      "suggestie": "Use 'you' more frequently to bridge the gap between the text and the hearer.",
+      "voorbeeldzinnen": [
+        "Your body matters to God."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually quite good, avoiding legalism.",
+      "suggestie": "Maintain the indicative priority."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A intellectually stimulating sermon that successfully defends the faith, but could gain 'event-character' by speaking more boldly in the first person of the office."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the preacher isn't just sending a message about the past, but attempting to mediate a present reality.",
+    "verschil_met_retoriek": "The analysis shows the power isn't in the 'Guatemalan card' illustration, but in the illocutionary force of the promise.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'Amen' is the only pure declarative, suggesting the sermon is a long preparation for a single act of faith."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "observed",
+        "met",
+        "say",
+        "addresses",
+        "founded",
+        "writes",
+        "explaining"
+      ],
+      "directief": [
+        "suppose",
+        "behold",
+        "let",
+        "see"
+      ],
+      "expressieven": [
+        "doubt",
+        "sympathize",
+        "imagine",
+        "love"
+      ],
+      "commissief": [
+        "shall bear",
+        "will know",
+        "shall be made alive",
+        "will deliver"
+      ],
+      "declaratief": [
+        "is right here",
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Jesus is right here.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "This is the pivot point where the sermon moves from 'talking about' to 'encounter'."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Theological Exposition' that waits until the very end to become 'Proclamation'."
+  }
+}

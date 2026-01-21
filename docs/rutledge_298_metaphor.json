@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "titel_preek": "Hear! See! Touch!: Salisbury",
+    "bijbeltekst": "1 John 1:1; Luke 24:38-39",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "temporary dwelling",
+          "way-station",
+          "trapped in something so corruptible"
+        ],
+        "conceptuele_metafoor": "THE BODY IS A CONTAINER FOR THE SOUL"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "overcome the enemy",
+          "final victory",
+          "unconquerable faith",
+          "overcoming of oppression"
+        ],
+        "conceptuele_metafoor": "SALVATION IS MILITARY VICTORY"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "way-station",
+          "entered our condition",
+          "raised out of the grave"
+        ],
+        "conceptuele_metafoor": "LIFE IS A JOURNEY THROUGH PHYSICALITY"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The body is a temporary dwelling.",
+        "brondomein": {
+          "naam": "Architecture/Housing",
+          "concrete_elementen": [
+            "walls",
+            "shelter",
+            "temporary stay",
+            "occupant"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Anthropology/The Human Body",
+          "doctrinale_traditie": "Gnostic/Dualist (Critiqued by Preacher)"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Dwelling",
+            "doel_element": "Physical Body"
+          },
+          {
+            "bron_element": "Inhabitant",
+            "doel_element": "Soul/Spirit"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The person is separate from their physical form.",
+            "The 'house' can be discarded without losing the 'resident'."
+          ],
+          "theologische_implicaties": [
+            "Physical suffering is secondary to spiritual state.",
+            "Incarnation is merely God 'wearing' a suit of flesh."
+          ],
+          "ethische_implicaties": [
+            "Less concern for physical justice or bodily care."
+          ],
+          "onbedoelde_consequenties": [
+            "Devaluation of the material world and the environment."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A standard Western religious trope used here to illustrate the 'confusion' the preacher seeks to correct."
+      },
+      {
+        "metafoor_expressie": "Jesus has overcome the enemy... won the definitive and final victory.",
+        "brondomein": {
+          "naam": "Warfare",
+          "concrete_elementen": [
+            "enemy",
+            "victory",
+            "struggle",
+            "conquest"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement/Christus Victor",
+          "doctrinale_traditie": "Ecumenical/Orthodox"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Enemy",
+            "doel_element": "Death/Sin/Oppression"
+          },
+          {
+            "bron_element": "Victory",
+            "doel_element": "Resurrection"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The world is a battlefield.",
+            "There is a clear 'us' vs 'them' dynamic in spiritual reality."
+          ],
+          "theologische_implicaties": [
+            "Christ's work is active and combative rather than just sacrificial."
+          ],
+          "ethische_implicaties": [
+            "Believers should resist social and personal 'enemies' like bitterness."
+          ],
+          "onbedoelde_consequenties": [
+            "Potential for triumphalism or justifying violence in the name of 'victory'."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes this by linking it to the Civil Rights movement and the 'flesh-and-blood' struggle."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully navigates the tension between the 'Body as Container' (which he critiques) and 'Body as Person' (which he promotes). He uses the Military domain to bridge the gap between the historical Resurrection and contemporary social justice.",
+      "incoherentie_punten": [
+        {
+          "locatie": "The Hijacker Illustration",
+          "metafoor_a": "SALVATION IS RESCUE (Commando)",
+          "metafoor_b": "SALVATION IS SACRIFICE (Dying alongside)",
+          "conflict_beschrijving": "The preacher questions the efficacy of a commando who dies without shooting, yet later affirms Christ's victory through death.",
+          "entailment_conflict": "A 'victory' usually requires the destruction of the captor, but the preacher emphasizes the 'wounded hands' (the marks of defeat) as the source of victory.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Military Victory",
+            "Relational Embrace"
+          ],
+          "blending_strategie": "The 'victory' of the Resurrection is accessed through the 'embrace' of the wounded Christ, merging power with vulnerability."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the source domain of the body by using visceral imagery (blood vessels, lymph glands, warm hands).",
+        "voorbeeld": "muscle and bone, lymph glands and blood vessels"
+      },
+      {
+        "sterkte_type": "CONTEXTUAL_FIT",
+        "beschrijving": "Connects the abstract doctrine of Incarnation to modern cultural phenomena like health clubs and the Civil Rights movement.",
+        "voorbeeld": "untold billions are spent each year on health clubs... the role of the Christian gospel in [the civil rights movement]"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "By emphasizing the physical components of the body so strongly, the mystery of the 'spiritual body' (1 Cor 15) might be lost to a purely biological understanding.",
+        "voorbeeld": "not to mention what St. Paul calls 'the less honorable parts of the body'",
+        "potentiele_impact": "Congregants may struggle with the concept of a transformed resurrection body if it is too closely tied to current biological decay.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A world of physical vulnerability (hospitals, funeral homes, assassination sites).",
+      "sub_worlds": [
+        "The Gnostic 'spiritual' bookstore",
+        "The 1st Century split church",
+        "The Birmingham Civil Rights Museum",
+        "The hijacked airplane"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Introduction",
+          "van_wereld": "Modern Salisbury",
+          "naar_wereld": "The grief of a widow",
+          "effectiviteit": "High; establishes the 'Body Matters' schema immediately."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "The Psychosomatic Unity",
+          "hoe_versterkt": "Repeatedly asserting that 'Bodies matter' and 'the person is a unity of body and spirit'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Distant/Pure Spirit",
+          "verstoring_strategie": "Highlighting the 'distasteful' and 'earthy' nature of the Incarnation.",
+          "vervangend_schema": "God as Incarnate/Vulnerable Participant"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the Easter season's focus on the physical Resurrection."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the tension between the ARCHITECTURAL (Body as House) and the ORGANIC/RELATIONAL (Body as Self). It successfully uses the MILITARY domain to provide a sense of agency and hope, though it occasionally risks over-simplifying the 'victory' by using the hijacker analogy.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SALVATION IS VICTORY",
+        "huidige_status": "Risks being a 'dead' military cliché.",
+        "suggestie": "Deepen the source domain of the 'wounded victor'.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Describe the physical sensation of a scar—tough, healed tissue that still remembers the pain."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The Hijacker vs. Commando analogy.",
+        "resolutie_strategie": "Clarify that Christ's 'entry' into the plane changes the nature of the 'bullets' (death) rather than just adding another victim."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "BODY IS A WAY-STATION",
+        "problematisch_entailment": "If it's just a way-station, why care for it?",
+        "aanbeveling": "Explicitly reject the 'way-station' entailment by replacing it with 'BODY IS THE TEMPLE/HOME'."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARTISTIC/SCULPTURE",
+        "rationale": "To bridge the gap between the 'corruptible' body and the 'resurrected' body—the artist uses the same material but transforms the form.",
+        "doel_concept": "Glorified Body"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to deconstruct modern Gnosticism. The preacher's move from concrete grief to abstract doctrine and back to social ethics is cognitively brilliant."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of just praising the 'beauty' of the widow's story, CMT shows how it functions as a 'Source Domain' to redefine the 'Target Domain' of the Resurrection.",
+    "verschil_met_kolb": "Unlike Kolb's focus on learning styles, CMT reveals the underlying cognitive structures (like the Container schema) that make the sermon's logic persuasive.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is not just 'giving information' but is performing a 'Schema Overwrite'—replacing the 'Body as Prison' schema with 'Body as Essential Self'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Body as temporary dwelling",
+      "Body as way-station",
+      "Body as illusion",
+      "Trapped in flesh",
+      "Body off the stage",
+      "Word of life",
+      "Wounds as evidence",
+      "Sloughing off a body",
+      "Bloody dead body as rubbish",
+      "Overcoming the enemy",
+      "Victory over ills",
+      "Bondages"
+    ],
+    "woord_frequentie_analyse": {
+      "body": "22",
+      "flesh": "9",
+      "spiritual": "7",
+      "resurrection": "6",
+      "victory": "3"
+    },
+    "notities": "The preacher uses 'flesh' (sarks) as a provocative living metaphor to shock the 'spiritualized' modern hearer."
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "titel_preek": "The God of Small Things: St. Bede and the Evangelical Faith",
+    "bijbeltekst": "Zechariah 4:1-10",
+    "analyse_datum": "2024-05-23",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A historical and theological exploration of 'evangelical' identity, linking the prophet Zechariah, St. Bede, and the installation of a new rector.",
+      "exegetische_kwaliteit": "Strong historical-critical context regarding the Babylonian exile and the rebuilding of the Temple, though the text is used partly as a springboard for ecclesiastical identity politics.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting historical facts and theological definitions, with occasional bursts of promising (commissive) based on the biblical text.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The theology of these hymns is solidly based in the Reformation.",
+        "Not by might, nor by power, but by my Spirit, says the Lord.",
+        "You are going to be built up by the Spirit here at Grace Church."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To reassure the congregation of their identity and to instill hope in the new ministry despite 'small' beginnings.",
+      "pneumatologisch_bewustzijn": "High in content (the Spirit is the subject of the text), but the Spirit's role in the *hearing* of the sermon is less explicitly invoked.",
+      "perlocutionaire_werkwoorden": [
+        "reassure",
+        "identify",
+        "hope",
+        "persist"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "There has been a good deal of conversation this week.",
+        "St. Bede was an extraordinary man.",
+        "The return was, at best, a day of small things."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "has been"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Let’s reflect together.",
+        "Listen again to our great text.",
+        "Be sure to hear it not as a command, but as a promise."
+      ],
+      "dominante_werkwoorden": [
+        "let us",
+        "listen",
+        "hear"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "One hates to think what the nineteenth-century Methodists would think.",
+        "I am not saying those congregations are not genuine."
+      ],
+      "dominante_werkwoorden": [
+        "hates",
+        "think",
+        "sense"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "10",
+      "procent": "6%",
+      "voorbeelden": [
+        "The promise of God to the church is unconditional.",
+        "You are going to be built up by the Spirit.",
+        "Christ... brings to his saints the promise of the light of life."
+      ],
+      "dominante_werkwoorden": [
+        "promises",
+        "will build",
+        "brings"
+      ],
+      "kwaliteit": "The promises are largely mediated through the biblical text rather than the preacher's direct 'I promise you' authority."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "I close by evoking the great hope of St. Bede.",
+        "AMEN."
+      ],
+      "dominante_werkwoorden": [
+        "close",
+        "evoke"
+      ],
+      "autoriteit": "Low. The preacher acts more as a historian/teacher than a sacramental officer in this specific text."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical background on St. Bede.",
+        "Definitions of 'Evangelical' vs 'Mainline'.",
+        "Descriptions of New York Times articles."
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and intellectually persuaded, but remains an observer of history rather than a participant in a current event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise ('Today, God says to you...')",
+        "Sacramental 'I' language"
+      ],
+      "effect_op_hoorder": "The 'event' is deferred to the future or located in the past."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "Strongly biblical but third-person ('God has determined').",
+      "voorbeelden": [
+        "The God of small things will build great things.",
+        "You are going to be built up by the Spirit."
+      ],
+      "moment_in_preek": "Middle and End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "22",
+        "gebruik": "Personal anecdotes and scholarly observations ('I live', 'I have never seen')."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Addressing the congregation as a collective ('You have a lovely building', 'You are responding').",
+        "performatieve_context": "Used to describe their future state rather than enact it."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant. Talking about Bede, Cuthbert, Zechariah, and 'the church'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where God is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "History of the church and the biblical narrative."
+      },
+      "tijdloos_present": {
+        "frequentie": "35%",
+        "gebruik": "Theological definitions ('Evangelical theology means...')."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The installation of the rector and the immediate hope."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids moralistic 'Assertive -> Directive' traps.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from historical Assertive to theological Commissive (the promise of the Spirit).",
+      "voorbeelden": [
+        "God has bound himself... Not by might... You are going to be built up."
+      ],
+      "kwaliteit": "The link is present but buried under historical locution."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Hear it not as a command, but as a promise: We are to grow up..."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions excellently as a 'teaching' on the nature of the church, but the 'event' of the Word is secondary to the 'explanation' of the Word.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Clarity",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "Evangelical theology means a primary emphasis on the grace of God.",
+        "effect": "Clears away misconceptions about the term 'evangelical'."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "LOCUTION",
+        "tekstueel_bewijs": "The detailed history of Jarrow and Durham Cathedral.",
+        "probleem": "Takes up space that could be used for direct proclamation.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is an 'event' of installation and education, but less so a 'sacramental event' of the Word breaking into the present.",
+    "sacramentele_kracht": 4,
+    "sacramentele_toelichting": "The preacher speaks *about* God's promises more than he *delivers* them in the first person."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the quoted text, but the preacher remains a commentator.",
+      "prediker_als_mandataris": "Moderate; he speaks as a friend and scholar.",
+      "tekstueel_bewijs": [
+        "The prophet brings this word from the Lord."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, central theme.",
+      "perlocutie_theologie": "Implicitly left to the Spirit through the quote 'Not by might...'",
+      "tekstueel_bewijs": [
+        "By my Spirit, says the Lord."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is viewed as a 'ministry of the Word', but the language is more descriptive than operative.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "The sort of evangelical that we are talking about here tonight."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'was' and 'is' (state of being) verbs; too few 'give', 'grant', 'declare' (action) verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The promise of God to the church is unconditional.",
+          "voorgestelde_revisie": "Tonight, God gives you an unconditional promise.",
+          "verschil": "Shifts from a fact about God to a gift from God."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is framed as a historical/theological category.",
+      "suggestie": "Use the 'I-You' address to deliver the promise.",
+      "voorbeeldzinnen": [
+        "In the name of Christ, I promise you that your small beginnings are the site of His great work."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'talking about' the media and history.",
+      "suggestie": "Reduce the 3rd person historical narrative by 20%.",
+      "voorbeeldzinnen": [
+        "You are the people of the Spirit."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "None; the balance is actually quite good.",
+      "suggestie": "Maintain the current foundation."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A brilliant intellectual and historical defense of the faith that would benefit from more 'creative' (declarative) speech acts to match its high theology."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about his life in NY; SAT focuses on the 'illocutionary force' of the promise of the Spirit.",
+    "verschil_met_retoriek": "Rhetoric would praise the use of the Bede anecdote for pathos; SAT asks if the anecdote functions as a 'Declarative' act of God.",
+    "unieke_inzichten_SAT": "SAT reveals that despite the 'Evangelical' content, the 'form' remains largely Constative (talking about), which may hinder the 'event' character."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "means",
+        "defined",
+        "wrote",
+        "built",
+        "seemed"
+      ],
+      "directief": [
+        "reflect",
+        "listen",
+        "hear",
+        "look"
+      ],
+      "expressief": [
+        "giggle",
+        "hates",
+        "sense",
+        "hope"
+      ],
+      "commissief": [
+        "promises",
+        "will build",
+        "brings"
+      ],
+      "declaratief": [
+        "close",
+        "evoke",
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Not by might, nor by power, but by my Spirit, says the Lord.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "Divine Promise",
+        "effectiviteit": "High, but dependent on the hearer's belief in the quote."
+      }
+    ],
+    "notities": "The sermon is highly 'locutionary'—it provides excellent content but stops just short of the 'sacramental' moment where the preacher speaks *for* God in the present tense."
+  }
+}

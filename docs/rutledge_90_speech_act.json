@@ -1,0 +1,487 @@
+{
+  "metadata": {
+    "titel_preek": "Blessed Are the Poor",
+    "bijbeltekst": "Amos 5:11-15; 8:4-8; Romans 5:6; 2 Cor 8:9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2200"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A valedictory sermon reflecting on the history of Grace Church, the prophetic call of Amos regarding social justice, and the theological foundation of grace as 'God helping the helpless'.",
+      "exegetische_kwaliteit": "High. Connects the historical context of Amos to contemporary NYC and links it to Pauline justification.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the identity of the congregation and the nature of the Gospel, with a shift toward promising (commissive) in the final third.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I want to give you my very best.",
+        "The Lord loves the poor.",
+        "Jesus himself became poor."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To instill a sense of 'theological maturity' that results in social solidarity and gratitude for grace.",
+      "pneumatologisch_bewustzijn": "Moderate. Mentions 'fruits of the Spirit' and 'God is at work'.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "repent",
+        "see",
+        "enlist",
+        "receive"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "It is now exactly two decades...",
+        "The prophet Amos was not popular...",
+        "There is a mean spirit abroad in the land."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "saw",
+        "believe",
+        "think"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "Seek good, and not evil.",
+        "Hate evil, and love good.",
+        "May we all enlist in his work."
+      ],
+      "dominante_werkwoorden": [
+        "seek",
+        "hate",
+        "establish",
+        "may"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "28",
+      "procent": "14%",
+      "voorbeelden": [
+        "I never cease to marvel...",
+        "I pray that the Lord...",
+        "I am ready to stand first in line for the judgment."
+      ],
+      "dominante_werkwoorden": [
+        "marvel",
+        "pray",
+        "know",
+        "thank"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "He became poor in order to make us rich.",
+        "He loves you in spite of yourself.",
+        "He is at work loosening our grip."
+      ],
+      "dominante_werkwoorden": [
+        "promises",
+        "loves",
+        "gives",
+        "lavished"
+      ],
+      "kwaliteit": "Strong theological content but often framed as 'talking about' the promise rather than 'delivering' it directly."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "I pay us the compliment of preaching as to a theologically grown-up parish.",
+        "I am not ashamed of the gospel."
+      ],
+      "dominante_werkwoorden": [
+        "pay",
+        "proclaim"
+      ],
+      "autoriteit": "Low. The preacher largely describes reality rather than speaking *ex cathedra* to change the hearer's status."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical reminiscence",
+        "Analysis of advertising and culture",
+        "Theological definitions of 'maturity'"
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and intellectually stimulated but remains an observer of a lecture for the first 60% of the text."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise ('I promise you in Christ's name')",
+        "Immediate sacramental address"
+      ],
+      "effect_op_hoorder": "Delayed encounter. The 'event' only begins in the final paragraphs."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "5",
+      "kwaliteit_toezeggen": "High theological quality, but often third-person ('He loves us') rather than second-person ('He loves you').",
+      "voorbeelden": [
+        "He loves you in spite of yourself.",
+        "He became poor in order to make us rich."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Autobiographical and valedictory ('I have four more Sunday sermons')."
+      },
+      "tweede_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Addressing the congregation's identity ('As most of you know').",
+        "performatieve_context": "Used late in the sermon to apply the Gospel ('He loves you')."
+      },
+      "derde_persoon": {
+        "frequentie": "Very High",
+        "gebruik": "Describing Amos, the poor, the culture, and historical figures.",
+        "distantie_effect": "Creates a 'lecture' atmosphere for the majority of the text."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Church history and biblical exegesis."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological definitions and cultural analysis."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The final appeal and the 'now' of the Gospel."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A - The sermon avoids pure moralism.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Amos/History) -> Commissive (Christ's poverty) -> Directive (Enlist in work).",
+      "voorbeelden": [
+        "For you know the grace... so that by his poverty you might become rich."
+      ],
+      "kwaliteit": "The pattern is present but buried under a heavy constative introduction."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "He loves us... May we all enlist in his work."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a masterclass in evangelical teaching, but it functions more as a 'testimony' and 'teaching' than a 'sacramental event' until the very end.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Foundation",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "While we were still helpless, Christ died for the ungodly.",
+        "effect": "Provides a rock-solid basis for the hearer's identity."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Lengthy sections on Whitney North Seymour and Calvin Klein.",
+        "probleem": "Delays the illocutionary force of the Gospel.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "The 'event' happens in the final movement where the preacher moves from 'talking about' grace to 'proclaiming' the love of God to the specific 'moral poverty' of the hearer.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "Stronger in 'Toezegging' (Promise) than in 'Declaratie' (Declaration)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicit. The preacher prays for the Lord to be his guide.",
+      "prediker_als_mandataris": "Strong. He sees himself as a 'steward' of the bedrock gospel.",
+      "tekstueel_bewijs": [
+        "I pray that the Lord whose Word we proclaim from this pulpit will be my guide."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes.",
+      "perlocutie_theologie": "Yes, the Spirit is seen as the one producing 'fruits'.",
+      "tekstueel_bewijs": [
+        "becoming visible now, which seem to me to be fruits of the Spirit."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Moderate. The sermon is seen as 'telling the story' which causes growth.",
+      "epifanisch_taalgebruik": "Present in the final paragraph.",
+      "tekstueel_bewijs": [
+        "He is at work... softening our hard hearts."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is/was' verbs in the first half; needs more 'give/forgive/promise' verbs directed at the 'you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Lord loves the poor.",
+          "voorgestelde_revisie": "The Lord loves you in your poverty today.",
+          "verschil": "Shifts from a general truth (Assertive) to a direct address (Commissive/Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often stated as a historical fact (2 Cor 8:9) rather than a present delivery.",
+      "suggestie": "Use more 'I' (as God's messenger) and 'You' (the hearer).",
+      "voorbeeldzinnen": [
+        "In the name of Christ, I promise you that his riches are yours now."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they' (the culture).",
+      "suggestie": "Directly address the 'you' of the listener's conscience earlier.",
+      "voorbeeldzinnen": [
+        "You, who sit in these pews, are the ones Christ became poor for."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually quite good, avoiding legalism.",
+      "suggestie": "Maintain this but make the indicative more performative."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A deeply theological and moving sermon that successfully avoids moralism, though it takes a long 'constative' detour through history and culture before reaching the performative heart of the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "Unlike SvT, which would focus on the preacher's 'self-revelation' (valedictory), SAT focuses on whether the 'Promise' actually happens as a divine act.",
+    "verschil_met_retoriek": "The analysis ignores the 'beauty' of the prose to focus on the 'force' of the verbs.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power is concentrated in the final 15% where the illocutionary force shifts from Assertive to Commissive."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "told",
+        "regained",
+        "marvel",
+        "caused",
+        "studied",
+        "prayed",
+        "shared",
+        "winding up",
+        "preach",
+        "tries",
+        "think",
+        "loved",
+        "consigned",
+        "identified",
+        "ranging",
+        "mean",
+        "formed",
+        "grounded",
+        "dedicated",
+        "convinced",
+        "recognizing",
+        "reading",
+        "sent",
+        "declare",
+        "saw",
+        "trample",
+        "buy",
+        "sworn",
+        "associated",
+        "deemed",
+        "began",
+        "expand",
+        "hate",
+        "despise",
+        "take no delight",
+        "offer",
+        "accept",
+        "listen",
+        "let roll",
+        "recurs",
+        "loves",
+        "sees",
+        "wants",
+        "is not pleased",
+        "consider",
+        "stand",
+        "asking",
+        "respond",
+        "passed",
+        "is headed",
+        "advanced",
+        "hasten",
+        "is not going to be",
+        "allow",
+        "realize",
+        "know",
+        "construe",
+        "is",
+        "taking the temperature",
+        "be concerned",
+        "is",
+        "see",
+        "construct",
+        "please",
+        "say",
+        "go for it",
+        "identify",
+        "buying",
+        "portray",
+        "boycotting",
+        "recommended",
+        "is supposed",
+        "growing",
+        "spoke",
+        "built",
+        "dwell",
+        "planted",
+        "drink",
+        "afflict",
+        "take",
+        "turn aside",
+        "suggests",
+        "is",
+        "located",
+        "separate",
+        "take",
+        "toughing it out",
+        "testify",
+        "sleep",
+        "cared for",
+        "avoid",
+        "see",
+        "loves",
+        "sends",
+        "pervades",
+        "is",
+        "opposed",
+        "is",
+        "are",
+        "defending",
+        "noting",
+        "goes against",
+        "recognize",
+        "helps",
+        "contradicted",
+        "died",
+        "teach",
+        "learning",
+        "led",
+        "suggesting",
+        "find",
+        "fertilized",
+        "work on",
+        "mentioned",
+        "extended",
+        "identify",
+        "finding",
+        "is",
+        "forget",
+        "repeat",
+        "tell",
+        "know",
+        "became",
+        "put her finger on",
+        "wrote",
+        "understand",
+        "said",
+        "know",
+        "need",
+        "turned",
+        "loves",
+        "notice",
+        "is",
+        "is at work",
+        "loosening",
+        "softening",
+        "helping",
+        "guiding",
+        "lavished",
+        "is at work"
+      ],
+      "directief": [
+        "Hear this",
+        "Take away",
+        "Seek good",
+        "Hate evil",
+        "love good",
+        "establish justice",
+        "enlist",
+        "continue"
+      ],
+      "expressief": [
+        "marvel",
+        "pray",
+        "thank God",
+        "am not ashamed",
+        "mourned"
+      ],
+      "commissief": [
+        "promises",
+        "loves",
+        "gives",
+        "lavished",
+        "will be with you"
+      ],
+      "declaratief": [
+        "I pay us the compliment",
+        "I proclaim"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "While we were still helpless, Christ died for the ungodly.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Strong theological assertion of fact.",
+        "effectiviteit": "High - establishes the 'indicative' of the Gospel."
+      },
+      {
+        "zin": "He loves you in spite of yourself.",
+        "categorie": "Commissive",
+        "illocutionaire_kracht": "Direct promise/address.",
+        "effectiviteit": "Very High - this is the 'event' moment."
+      }
+    ],
+    "notities": "The sermon is a transition from 'talking about' the history of a church to 'performing' the Gospel for a departing congregation."
+  }
+}

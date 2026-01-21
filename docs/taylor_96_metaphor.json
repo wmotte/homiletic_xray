@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "A Retrospective And Forward Look",
+    "bijbeltekst": "Not explicitly cited (Allusion to Hebrew-Christian motivation)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Our journey is still a long one",
+          "heave the nation forward",
+          "set our society on a new course",
+          "driven back into privatism"
+        ],
+        "conceptuele_metafoor": "SOCIAL PROGRESS IS A PHYSICAL JOURNEY"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "grandson of slaves",
+          "father of the country",
+          "immoral liaison",
+          "marriage of the religious right"
+        ],
+        "conceptuele_metafoor": "NATIONAL IDENTITY IS FAMILY LINEAGE"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "pathologies in the black community",
+          "purge itself of its deepest evil",
+          "psychic damage",
+          "morbid preoccupation"
+        ],
+        "conceptuele_metafoor": "RACISM IS A CHRONIC DISEASE"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Heave the nation forward",
+        "brondomein": {
+          "naam": "Physical Labor/Force",
+          "concrete_elementen": [
+            "heavy lifting",
+            "resistance",
+            "forward motion"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Providential Social Change",
+          "doctrinale_traditie": "Black Social Gospel"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Physical weight",
+            "doel_element": "Systemic racism/Inertia"
+          },
+          {
+            "bron_element": "The Heaver (King)",
+            "doel_element": "Prophetic Agent"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Progress is not natural or easy; it requires immense external force."
+          ],
+          "theologische_implicaties": [
+            "God works through human 'heaving' to fulfill historical destiny."
+          ],
+          "ethische_implicaties": [
+            "Believers must exert physical and moral effort to move the state."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests the nation is a dead weight without agency of its own."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The word 'heave' evokes a visceral sense of strain lacking in the conventional 'move forward'."
+      },
+      {
+        "metafoor_expressie": "Pull down the curtains to try to keep the world from viewing what is inside",
+        "brondomein": {
+          "naam": "The Domestic House",
+          "concrete_elementen": [
+            "curtains",
+            "interior shame",
+            "external observers"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "National Hypocrisy",
+          "doctrinale_traditie": "Prophetic Critique"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Inside of the house",
+            "doel_element": "Domestic racial injustice"
+          },
+          {
+            "bron_element": "Curtains",
+            "doel_element": "Diplomatic propaganda"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The nation is hiding a 'dirty secret' from its neighbors."
+          ],
+          "theologische_implicaties": [
+            "Judgment is linked to the exposure of hidden sins."
+          ],
+          "ethische_implicaties": [
+            "Integrity requires the alignment of internal reality and external image."
+          ],
+          "onbedoelde_consequenties": [
+            "Reduces systemic evil to a matter of 'embarrassment'."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the source domain of a shameful household to describe international relations."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher weaves together the Journey and Architectural/Container metaphors to describe a nation that is both 'moving' and 'hiding'.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "The Journey (Long way to go)",
+          "metafoor_b": "The Theater (We are in the movies)",
+          "conflict_beschrijving": "The shift from a grueling physical walk to a passive cinematic experience is abrupt.",
+          "entailment_conflict": "Journey entails reality and effort; Movies entail illusion and passivity.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Discussion of the 1980s mood",
+          "gemengde_metaforen": [
+            "Marriage",
+            "Altar",
+            "Greed"
+          ],
+          "blending_strategie": "Uses the 'Immoral Liaison' to subvert the 'Marriage' metaphor of the Religious Right."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Holiday' metaphor by tracing it back to 'Holy Day'.",
+        "voorbeeld": "The holiday around his name might well bring the observance back to the original meaning of holiday as a holy day."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The metaphor of the 'Grandson of Slaves' risks being seen only as biological rather than a representative theological status.",
+        "voorbeeld": "There is a grandeur in the national character when the grandson of slaves could be so elevated.",
+        "potentiele_impact": "May lead to a 'Great Man' theory of history that ignores collective struggle.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The American Landscape (from the South to Washington)",
+      "sub_worlds": [
+        "The South African replica",
+        "The Rice Paddies of India",
+        "The Bitburg Cemetery",
+        "The Movie Theater"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 15",
+          "van_wereld": "Political reality",
+          "naar_wereld": "The Movie Theater",
+          "effectiviteit": "Strongly creates a sense of national delusion."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "America as a Chosen/Destined Vessel",
+          "hoe_versterkt": "Uses 'historical destiny' and 'national purpose'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "The 'Progress is Linear' Schema",
+          "verstoring_strategie": "Highlighting the 'chipping away' of gains and the 'weariness' of the nation.",
+          "vervangend_schema": "Progress as a fragile 'holt' (hold) that must be maintained during storms."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits the 'Lament and Hope' structure of prophetic preaching."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY and CONTAINER domains. It effectively uses spatial metaphors (forward/back, inside/outside) to describe moral states. The use of 'Hold your holt' serves as a powerful, folk-linguistic anchor that grounds the abstract 'stamina' in a concrete, tactile grip.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "The Dream",
+        "huidige_status": "CONVENTIONAL/DEAD",
+        "suggestie": "Connect the 'Dream' to the 'Nightmare' of the 'Stygian hour' mentioned later.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The dream was not a sleep, but a waking vision in a land of shadows."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The transition from 'Journey' to 'Movies'",
+        "resolutie_strategie": "Describe the 'Movies' as a 'Roadside Distraction' or 'Mirage' on the Journey to maintain domain consistency."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Nation as a Body (Soft on fascism)",
+        "problematisch_entailment": "Suggests a lack of muscle/will rather than a presence of malice.",
+        "aanbeveling": "Balance 'softness' with the 'poison' metaphor used elsewhere to indicate active toxicity."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To connect with the 'rice paddies' and 'roots of racism' mentioned.",
+        "doel_concept": "The slow growth of justice vs. the weeds of racism."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using CMT to bridge the gap between political history and spiritual reality. The 'Hold your holt' metaphor is a brilliant example of a living metaphor that provides a concrete 'handle' for the congregation's perseverance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'grandeur' of the prose; CMT reveals how the 'heaving' metaphor actually structures the hearer's understanding of social effort.",
+    "verschil_met_kolb": "Unlike Kolb's learning cycles, CMT shows that the 'experience' is already embedded in the language (e.g., 'soiled credentials').",
+    "unieke_inzichten_CMT": "CMT identifies the 'Container' logic in the Bitburg section—how the exclusion of the 'South African black' from the list of identities functions as a spatial boundary of empathy."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Heave the nation forward",
+      "Soiled credentials",
+      "Pull down the curtains",
+      "Sunlit summer afternoon",
+      "Deeply textured racism",
+      "Inextricably scored",
+      "Sweep under the rug",
+      "Chipping away at gains",
+      "Altar of greed",
+      "Rightist poison",
+      "Hold your holt",
+      "Stygian hour"
+    ],
+    "woord_frequentie_analyse": {
+      "nation": "14",
+      "civil rights": "9",
+      "King": "12",
+      "black": "8",
+      "struggle": "4"
+    },
+    "notities": "The preacher uses 'Hold your holt' as a refrain, transforming a dialectical expression into a theological anchor for endurance."
+  }
+}

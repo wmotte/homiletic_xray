@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "titel_preek": "A Question Which Requires A Question",
+    "bijbeltekst": "Acts 9:1-6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the conversion of Saul on the Damascus road, emphasizing the identity of Jesus and the necessity of personal surrender.",
+      "exegetische_kwaliteit": "Narrative-driven. Focuses on the psychological and historical impact of the encounter rather than verse-by-verse exegesis.",
+      "omvang_procent": "65%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher asserts the omnipresence of God on 'life's road' and testifies to the transformative power of Christ's identity.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "God is on your road.",
+        "I must testify that he answers that and every other question.",
+        "Who is Jesus? That question will get you in trouble."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from intellectual curiosity to total submission ('Lord, what will you have me do?').",
+      "pneumatologisch_bewustzijn": "Implicit; the Spirit is the implied agent of the 'blinding light' and the internal 'hunger'.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "surrender",
+        "testify",
+        "submit",
+        "remember"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "85",
+      "procent": "70%",
+      "voorbeelden": [
+        "Saul was an activist.",
+        "God has his ways.",
+        "He made children centrally important."
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "is",
+        "had",
+        "made"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "10%",
+      "voorbeelden": [
+        "Notice then, if you will...",
+        "Do try to take it as Jesus took the bitter cup.",
+        "Stay as far away from that question as you can."
+      ],
+      "dominante_werkwoorden": [
+        "notice",
+        "try",
+        "stay",
+        "ask"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "15%",
+      "voorbeelden": [
+        "I must confess that I find it more difficult...",
+        "I'm not going to hide this thing.",
+        "I must testify that he answers."
+      ],
+      "dominante_werkwoorden": [
+        "confess",
+        "feel",
+        "testify"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "He will not put my soul to shame.",
+        "Grace will lead me home."
+      ],
+      "dominante_werkwoorden": [
+        "will lead",
+        "will not put"
+      ],
+      "kwaliteit": "Moderate; promises are largely found within quoted hymns rather than direct address from the preacher."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "God is on your road.",
+        "You may right now be in the best condition you have ever been."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "be"
+      ],
+      "autoriteit": "The preacher uses the authority of personal testimony to declare God's presence."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75%",
+    "performatief_percentage": "25%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical retelling of Saul's background.",
+        "Long list of historical achievements in Jesus' name (hospitals, schools).",
+        "Detailed anecdote about the Cincinnati dinner."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of history and the preacher's biography rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct sacramental promise to the specific congregation",
+        "Present-tense divine address"
+      ],
+      "effect_op_hoorder": "Inspiration without immediate reconciliation."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "Strongest when quoting hymns; weaker in the preacher's own prose which tends toward 'talking about' grace.",
+      "voorbeelden": [
+        "God is on your road."
+      ],
+      "moment_in_preek": "Middle and End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "42",
+        "gebruik": "Heavy use of personal testimony and 'I must confess/testify'."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Direct address used to bridge the Damascus road to the hearer's life.",
+        "performatieve_context": "Used to challenge the hearer to ask the 'second question'."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant mode; describing Saul, Jesus, and historical figures.",
+        "distantie_effect": "Creates a 'lecture' feel in the middle section regarding schools and hospitals."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Biblical narrative and personal autobiography."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General theological truths about God's nature."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The 'now' of the congregation's potential surrender."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon often moves from historical assertion (Jesus did X) to a directive (You should ask Y).",
+      "voorbeelden": [
+        "Who is Jesus? [History] ... If you want to steer clear... stay away."
+      ],
+      "probleem": "The imperative is not always preceded by a performative promise of power to obey."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The declaration 'God is on your road' serves as the indicative foundation for the call to surrender.",
+      "voorbeelden": [
+        "God is on your road... [therefore] take it as Jesus took the bitter cup."
+      ],
+      "kwaliteit": "The 'Toezegging' (Promise) is present but often buried in narrative."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Having received the answer [Indicative], I know now where my life ought to be spent [Imperative]."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "Saul was an activist... [Directive] Notice then..."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon relies heavily on the preacher's own experience and historical evidence to validate the message, rather than the immediate performative word of God.",
+    "sterke_punten": [
+      {
+        "aspect": "Identification",
+        "categorie": "Expressive",
+        "tekstueel_bewijs": "In all their affliction he was afflicted.",
+        "effect": "Creates deep emotional resonance and trust."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The list of colleges (Morehouse, Bishop, etc.)",
+        "probleem": "Information-heavy; stalls the 'event' of the sermon.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It becomes an event in the final third when the preacher moves from history to personal testimony and direct challenge.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The sermon 'talks about' the sacrament of conversion more than it 'performs' the word of grace to the hearer."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is portrayed as the one who spoke to Saul, but the preacher speaks mostly as a witness to that event.",
+      "prediker_als_mandataris": "The preacher acts more as a 'testifier' than a 'mandatory'.",
+      "tekstueel_bewijs": [
+        "I must testify that he answers."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Low visibility; the Spirit's work is subsumed under 'Grace' and 'God'.",
+      "perlocutie_theologie": "Implicitly left to the hearer's response to the 'Question'.",
+      "tekstueel_bewijs": [
+        "Grace will lead me home."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a call to decision rather than a means of grace that effects what it says.",
+      "epifanisch_taalgebruik": "Strong in the 'I am Jesus' section.",
+      "tekstueel_bewijs": [
+        "I am Jesus... the Resurrection and the Life."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from past-tense 'was/did' to present-tense 'is/does' and 'I declare to you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God has his ways, and when the blow falls...",
+          "voorgestelde_revisie": "When the blow falls on you today, I declare that God is meeting you in that very strike.",
+          "verschil": "Moves from a general truth to a specific, creative declaration."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often framed as a historical fact for Saul.",
+      "suggestie": "Directly promise the hearer that Christ is currently identifying with their specific affliction.",
+      "voorbeeldzinnen": [
+        "To you who are broken today, Christ promises: I am with you in your prison."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'He' (Saul) and 'I' (Preacher).",
+      "suggestie": "Increase 'You' (Congregation) in the context of grace.",
+      "voorbeeldzinnen": [
+        "Jesus is standing on your road right now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "Generally well-balanced, though the indicative is often historical.",
+      "suggestie": "Ensure the indicative is always 'Christ for you now'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A powerful narrative sermon that successfully uses testimony to bridge the gap, but could reach sacramental heights by shifting from describing God's work to performing it through the Word."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the 'I am Jesus' section isn't just 'information' (Sachebene) but a series of Commissives intended to bind God to the hearer.",
+    "verschil_met_retoriek": "While rhetorically moving, SAT identifies that the power lies in the 'Declarative' force of God's presence on the road.",
+    "unieke_inzichten_SAT": "SAT highlights that the sermon's 'event' status is hindered by the long historical/biographical 'Assertive' sections which keep the hearer in a passive, observational role."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "hated",
+        "born",
+        "trained",
+        "had",
+        "scattered",
+        "went",
+        "is",
+        "wears",
+        "appears"
+      ],
+      "directief": [
+        "notice",
+        "stay",
+        "ask",
+        "take",
+        "order"
+      ],
+      "expressief": [
+        "confess",
+        "feel",
+        "testify",
+        "hope",
+        "boast"
+      ],
+      "commissief": [
+        "will lead",
+        "will not put",
+        "promises (implied)"
+      ],
+      "declaratief": [
+        "is (on your road)",
+        "are (in the best condition)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "God is on your road.",
+        "categorie": "Declarative",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "The theological pivot of the sermon."
+      },
+      {
+        "zin": "I am Jesus.",
+        "categorie": "Assertive/Commissive",
+        "illocutionaire_kracht": "Extreme",
+        "effectiviteit": "Creates the 'Epiphany' moment."
+      }
+    ],
+    "notities": "The sermon is a classic example of the 'Testimonial' style where the performative force is carried by the preacher's vulnerability."
+  }
+}

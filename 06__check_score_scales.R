@@ -14,14 +14,17 @@ library(tidyverse)
 data_file <- "data/homiletic_feedback_data.tsv"
 data_raw <- read_tsv(data_file, show_col_types = FALSE)
 
-# 2. Define Domains
+# 2. Define Domains (9 domains total)
 domains <- list(
   aristoteles = "aristoteles.overall.overall_rhetorical_score",
   dekker = "dekker.overall.average_score",
   esthetiek = "esthetiek.overall.overall_aesthetic_score",
   kolb = "kolb.overall.overall_kolb_score",
   schulz = "schulz.overall.overall_communication_score",
-  transactional = "transactional.overall.psychological_health_score"
+  transactional = "transactional.overall.psychological_health_score",
+  metaphor = "metaphor.coherentie.score",
+  narrative = "narrative.coherentie.score",
+  speech_act = "speech_act.diagnose.gebeuren_score"
 )
 
 # 3. Compute Summary Stats

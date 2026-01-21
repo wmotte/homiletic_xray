@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Refreshment Time",
+    "bijbeltekst": "Acts 3:19",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God provides 'times of refreshing' (respite/breathing space) to weary pilgrims through the Resurrection and the Holy Spirit, sustaining them until the final Kingdom.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit / The Risen Christ",
+        "tekstueel_bewijs": [
+          "the Lord will give us 'times of refreshing'",
+          "the Holy Spirit descended upon the church",
+          "God intends also to use you",
+          "He will cool us with springs of living water"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Refreshing / Respite / Eternal Life",
+        "tekstueel_bewijs": [
+          "breathing space",
+          "times of refreshing",
+          "living water welling up to eternal life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Triune God (Father and Son)",
+        "tekstueel_bewijs": [
+          "promised gift of Jesus' own Holy Spirit, proceeding from the Father and the Son"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Church / The 'feebler sort' / The Hearer",
+        "tekstueel_bewijs": [
+          "refresh the feebler sort",
+          "give us 'times of refreshing'",
+          "refreshed her along the weary way"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / Liturgical Rhythms / Acts of Kindness",
+        "tekstueel_bewijs": [
+          "breeze of his Holy Spirit",
+          "liturgical rhythm of the church... to draw us into the one permanent thing"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Death, Stress, Sin, and the 'Mist and Darkness' of life",
+        "tekstueel_bewijs": [
+          "power of death",
+          "great Mist and Darkness",
+          "tension, depression, strife, and unspoken pain"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but the ontological weight of death and the 'cruelty' of ephemeral life (Eliot/Frost references)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The believer, having been refreshed, acts as a sign of refreshment for others.",
+      "subject": "The Hearer (as servant of Christ)",
+      "object": "Refreshment for the neighbor",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical program is explicitly framed as a consequence of the primary soteriological program ('Because... Easter is not over')."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Refreshing → The Weary Church",
+      "helper_subject_tegenstander": "Holy Spirit → God/Christ ← Death/Sin",
+      "subject_naar_object": "God → Eternal Respite"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "the Lord will give us 'times of refreshing'",
+        "the Holy Spirit descended",
+        "God intends also to use you",
+        "Christ is risen"
+      ],
+      "voorbeelden_mens_subject": [
+        "Repent and return",
+        "You can take some of this Easter joy",
+        "We may not stop to look at flowering trees"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Repent and return"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "you want to abide in Jesus' love"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "to understand that",
+          "see how the Spirit begins to give speech"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "received 'power from on high'",
+          "no one was able to stop this news",
+          "the Spirit is doing it, not you"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Dunamis) of the Resurrection that enables the church, rather than the 'Duty' of the believer."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Eternal Refreshment (Resurrection)",
+      "s2": "Death/Decay (The Cruel April)",
+      "niet_s1": "Ephemeral Relief (Half-price Easter items/Tea)",
+      "niet_s2": "Stressed-out control (Denial of need)"
+    },
+    "beweging_in_preek": "Moves from Ephemeral Relief (~S1) to the reality of Death (S2), then through the denial of need (~S2) to the Eternal Refreshment (S1).",
+    "theologische_resolutie": "The tension is resolved by the Resurrection of Christ which is 'the one gold thing that will stay.'",
+    "ernst_van_s2": "High; the sermon acknowledges that 'tea just won't do it' for deep grief."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently positions God as the primary actor and the Resurrection as the source of agency. Human action is presented as a 'random act' flowing from the Spirit's breeze.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Imperative use of 'Repent'",
+        "tekstueel_bewijs": "Repent and return",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of verbs of power",
+        "tekstueel_bewijs": "the Spirit is doing it, not you",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "power of God... proven greater than the power of death",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Peter and the apostles are not models of effort, but recipients of 're-creation' and 'power from on high'.",
+      "bijbelse_figuren_als_model": [
+        "Peter"
+      ],
+      "alternatieve_lezing": "Theocentric: Peter is 'restored and recreated' by God."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and comfort; reduction of performance anxiety.",
+      "theologische_implicatie": "Monergistic grace in the primary program."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'Great Fifty Days' (Soteriology) to 'Random acts of kindness' (Ethics) is logically and theologically integrated.",
+      "spanning_punten": [
+        "The tension between the 'quaint' sound of refreshment and the 'cosmic' reality of the Resurrection."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "the power of God in Jesus had proven greater than the power of death",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit gives 'speech' and 'power' that is not human."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is linked to the 'Mist and Darkness' and the inability to breathe."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a robust theocentric narrative where God is the Subject of the primary action (Refreshing) and the Hearer is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "The move from 'Stressed out' (lack of power) to 'Spirit-led' (endowment of power) is excellent."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Opponent is sufficiently heavy (Death/Depression).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (already correctly ordered)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in maintaining God as the Subject while addressing deep human psychological and existential needs."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric might focus on the 'refreshment' metaphor, semiotics reveals that the 'engine' of the sermon is the transfer of Power from God to a helpless Subject.",
+    "verschil_met_exegese": "Exegesis explains the Greek word 'anapsyxis'; semiotics shows how that word functions as the 'Object' of value in the narrative economy.",
+    "unieke_inzichten_greimas": "Greimas' model highlights that the 'random acts of kindness' are not the main story, but a secondary program powered by the first."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (gives)",
+      "Holy Spirit (descended)",
+      "Jesus (presented himself)",
+      "Peter (began to tell)",
+      "We (read)",
+      "You (want to abide)"
+    ],
+    "volledige_object_lijst": [
+      "Refreshing",
+      "Power",
+      "Living Water",
+      "Breathing space"
+    ],
+    "werkwoord_frequentie": {
+      "refresh": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "give": {
+        "count": "8",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses Fleming Rutledge's own principles of 'God as Subject' effectively."
+  }
+}

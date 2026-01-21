@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "titel_preek": "A Touch Of Greatness",
+    "bijbeltekst": "1 Samuel 15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject possesses an innate 'touch of greatness' (potential) that must be preserved or called forth through moral effort, repentance, and worship, despite the threat of failure and divine rejection.",
+      "subject": {
+        "identificatie": "The Individual/The Hearer (Humanity)",
+        "tekstueel_bewijs": [
+          "In all of us there is a touch of greatness",
+          "We must cry: 'I have sinned'",
+          "set about by your own repentance and confession and promise to repair the broken altar"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Preservation of Honor/Greatness/Relationship with God",
+        "tekstueel_bewijs": [
+          "that I might not be held up to public shame",
+          "renew their strength",
+          "a touch of greatness"
+        ],
+        "aard_van_object": "ETHICAL/THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Moral Order/God as Judge",
+        "tekstueel_bewijs": [
+          "God had rejected him as king",
+          "God does rebuke",
+          "the Lord will bring us down for all to see"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Self/The Public",
+        "tekstueel_bewijs": [
+          "honor before your children",
+          "not be held up to public shame"
+        ],
+        "positie_hoorder": "The hearer identifies strongly with the Subject (Saul/The Preacher) trying to avoid failure."
+      },
+      "helper": {
+        "identificatie": "Worship, Repentance, and God (as a resource)",
+        "tekstueel_bewijs": [
+          "immeasurable resources available to us",
+          "ask God to be in front and to fight your battle",
+          "turn to God and bow down"
+        ],
+        "rol_van_god": "God is primarily a Helper/Resource for the human Subject's journey.",
+        "rol_van_geest": "External help (Holy Dove as 'messenger of rest')."
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Willfulness, and Public Shame",
+        "tekstueel_bewijs": [
+          "sin gets in the road and blocks our pathway",
+          "willfulness and rebellion",
+          "public disgrace"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL/SOCIAL",
+        "toelichting_ernst": "Sin is viewed as a 'roadblock' or a 'mistake' that leads to the loss of reputation and personal strength rather than a cosmic power requiring a Savior."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The preservation of social reputation and parental honor.",
+      "subject": "The Parent/Leader",
+      "object": "Honor before children/congregation",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The spiritual goal of 'not sinning' is fused with the social goal of 'not being caught' or 'not being shamed'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Judge) → Honor/Greatness → The Self",
+      "helper_subject_tegenstander": "Worship/Repentance → The Individual ← Sin/Public Shame",
+      "subject_naar_object": "The Individual → Maintaining Greatness/Avoiding Rejection"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God had rejected him",
+        "God does rebuke",
+        "He will forgive us (conditional)"
+      ],
+      "voorbeelden_mens_subject": [
+        "We must cry",
+        "You can still call on God",
+        "Saul spared the king",
+        "We all make mistakes"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "We must cry, 'I have sinned'",
+          "he knows that he must pay",
+          "he still ought to turn to God"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "If you want to know what is wrong",
+          "I am so anxious to make it on"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Saul might well instruct us",
+          "If you want to know what is wrong... it is because you have been disloyal"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "immeasurable resources available to us",
+          "his power to call on God was not lost"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is driven by obligation (Devoir) and the human will (Vouloir). Power (Pouvoir) is treated as a latent human capacity ('touch of greatness') or a resource to be tapped into by the human subject."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Greatness/Honor",
+      "s2": "Rejection/Shame",
+      "niet_s1": "Ordinariness/Failure",
+      "niet_s2": "Hidden Sin/Private Repentance"
+    },
+    "beweging_in_preek": "From S1 (Greatness) to S2 (Rejection/Shame), with an attempt to move back to S1 via 'waiting on the Lord'.",
+    "theologische_resolutie": "The tension is resolved through human effort: repenting, worshipping, and 'waiting' to regain strength.",
+    "ernst_van_s2": "S2 is seen as a loss of social standing and personal potential rather than spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is anthropocentric. The 'touch of greatness' is an innate human quality, and God's role is to either judge its failure or assist in its recovery. The hearer is the hero of the narrative struggle.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "if our hearts are tender and right, he will forgive us",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Self-Help Sanctification",
+        "tekstueel_bewijs": "set about by your own repentance and confession and promise to repair the broken altar",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Scriptural Promise",
+        "tekstueel_bewijs": "he giveth power to the faint",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Saul is used as a negative and then positive example of how to handle failure and maintain 'greatness' through worship.",
+      "bijbelse_figuren_als_model": [
+        "Saul",
+        "Samuel"
+      ],
+      "alternatieve_lezing": "A theocentric reading would focus on God's faithfulness to His covenant despite Saul's total failure, pointing to Christ as the true Anointed who took our shame."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Anxiety regarding public shame and pressure to perform 'sincere' repentance to keep God's favor.",
+      "theologische_implicatie": "Synergism where human initiative (waiting/worshipping) triggers divine response."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The sermon moves from a secular 'charisma' definition of greatness to a biblical story of rejection, but fails to bridge them with a coherent soteriology.",
+      "spanning_punten": [
+        "The 'touch of greatness' (innate) vs. 'I have sinned' (total depravity).",
+        "God as the one who 'brings us down' vs. God as 'strength and shield'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Saul, Israel's first king, might well instruct us this morning",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is a 'messenger' that returns if the human subject 'hates the sins' enough."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is primarily dangerous because it leads to 'public disgrace' and 'rejection' of one's career/potential."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (through waiting/renewing strength)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Recruitment' narrative, urging the human Subject to use God as a Helper to avoid the Opponent of Shame.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'repairing the altar' and 'calling on God'.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who repairs the altar and bears the shame.",
+      "voorbeeld_revisie": "Instead of 'repair the broken altar', use 'Christ has stood at the altar we broke, offering the perfect sacrifice we could not.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as 'The King' (Saul) trying to stay great.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 'faint' who are utterly unable to mount up unless God carries them."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy Devoir (Must repent).",
+      "voorgestelde_balans": "Pouvoir (God's power to save the dead).",
+      "concrete_suggestie": "Focus on the 'Pouvoir' of the Resurrection rather than the 'Devoir' of the sinner."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Sin as a 'roadblock' or 'fatty tissue'.",
+      "voorgestelde_intensivering": "Sin as a death-sentence that no 'touch of greatness' can survive.",
+      "theologische_rationale": "Only a 'Heavy Opponent' makes the Gospel necessary rather than just helpful."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (worship/repentance) is presented as the means to salvation.",
+      "voorgestelde_structuur": "Soteriology (God's election) must precede and ground the response of worship."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has strong rhetorical imagery but risks leaving the hearer under the burden of maintaining their own 'greatness' through religious performance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the 'O'Mitchell' anecdote; Greimas reveals it functions as a threat to enforce moral behavior.",
+    "verschil_met_exegese": "Exegesis might focus on the history of Gilgal; Greimas shows how Gilgal is used as a semiotic space for 'success vs failure'.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'God' is used as a tool (Helper) for the human ego's preservation (Object: Honor)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We must cry",
+      "You can call",
+      "Saul spared",
+      "God rejected",
+      "I have sinned"
+    ],
+    "volledige_object_lijst": [
+      "Touch of greatness",
+      "Honor",
+      "Strength",
+      "Forgiveness (conditional)"
+    ],
+    "werkwoord_frequentie": {
+      "must": {
+        "count": "5",
+        "primair_subject": "Man"
+      },
+      "rejected": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "call": {
+        "count": "3",
+        "primair_subject": "Man"
+      }
+    },
+    "notnotes": "The sermon conflates 'charisma' with 'imago dei' but treats it as a performance-based quality rather than a gift."
+  }
+}

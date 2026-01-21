@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "Meat, Anxiety, Injustice",
+    "bijbeltekst": "1 Kings 4:22–23; Luke 12:13-34",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The transition from a 'greed/anxiety system' (scarcity) to a 'creation/kingdom system' (abundance) through the discipline of faith and justice.",
+      "subject": {
+        "identificatie": "The Hearer/Disciple (as a moral agent)",
+        "tekstueel_bewijs": [
+          "Get out of the anxiety system because it will destroy you!",
+          "Depart the cycle of greed.",
+          "Refuse the passion for anxiety.",
+          "Strive for his kingdom."
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "The Kingdom of God (defined as Justice and Righteousness)",
+        "tekstueel_bewijs": [
+          "Strive for the kingdom of God and his righteousness.",
+          "dwelling in a vocation of justice"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Jesus (as Master Teacher/Rabbi)",
+        "tekstueel_bewijs": [
+          "Jesus, master teacher that he is...",
+          "Jesus picks up on this...",
+          "Jesus sees and exhibits the contradiction..."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The World/Neighbor (through the justice performed by the Subject)",
+        "tekstueel_bewijs": [
+          "the righteousness of fair wages and the justice of health care"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Creator God (as a provider of 'enough')",
+        "tekstueel_bewijs": [
+          "The creator God sustains a system of abundance.",
+          "your heavenly Father knows what you need"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "The Anxiety System / Solomon's Greed",
+        "tekstueel_bewijs": [
+          "The 'more system' aims to keep us frightened.",
+          "the regime of anxiety is fake news"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily an ideological and economic system that the subject must 'refuse' or 'depart' from through willpower."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's provision for creation (birds/lilies).",
+      "subject": "The Creator God",
+      "object": "Sustenance/Abundance",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The primary program (human justice) is meant to be a response to the secondary program (God's provision), but the sermon focuses on the human 'striving' as the necessary performance."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Jesus → Kingdom/Justice → The World",
+      "helper_subject_tegenstander": "Creator God → Hearer ← Anxiety System",
+      "subject_naar_object": "Hearer → Striving for Justice"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 45,
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "The creator God sustains a system of abundance.",
+        "Your heavenly Father knows what you need."
+      ],
+      "voorbeelden_mens_subject": [
+        "Get out of the anxiety system.",
+        "Depart the cycle of greed.",
+        "Refuse the passion for anxiety.",
+        "We make no mistake to see..."
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "Discipleship requires disciplines, willful choices.",
+          "Get out of the anxiety system!"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "Who wants to say that when scarcity seems so evident?",
+          "refuse the survival anxiety"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "Jesus, master teacher that he is...",
+          "The news entrusted to us is..."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "provide courage and energy to depart"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes that once the hearer 'knows' (Savoir) the system is fake, they 'must' (Devoir) and 'can' (Pouvoir) simply choose to leave it. The lack of power (Pouvoir) is not treated as a spiritual dead-end requiring grace, but a lack of 'willful choice'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Abundance/Justice",
+      "s2": "Anxiety/Greed",
+      "niet_s1": "Scarcity/Injustice",
+      "niet_s2": "Contentment/Enough"
+    },
+    "beweging_in_preek": "From S2 (Solomon) to ~S2 (The Parable) to S1 (The Call to Justice).",
+    "theologische_resolutie": "The tension is resolved through 'Discipleship' as a 'willful choice' to refuse one system for another.",
+    "ernst_van_s2": "S2 is taken seriously as a social/psychological trap, but not as a totalizing spiritual bondage (Sin)."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses theocentric language ('Heavenly Father'), the actantial subject is consistently the hearer. God is the 'Helper' who provides the backdrop of abundance, but the 'Performance' depends on the human 'refusal' and 'striving'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Imperative Dominance",
+        "tekstueel_bewijs": "Get out of the anxiety system... Depart the cycle... Refuse the passion...",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "God as Instrument/Helper",
+        "tekstueel_bewijs": "The creator God—exhibited in the life of Jesus—makes anxiety inappropriate.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Indicative of God's Character",
+        "tekstueel_bewijs": "It is God’s good pleasure to give you the kingdom.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Solomon and the Rich Fool are used as negative examples to be avoided by the hearer's choice.",
+      "bijbelse_figuren_als_model": [
+        "Solomon",
+        "The Rich Fool"
+      ],
+      "alternatieve_lezing": "God judges the greed of the powerful and sovereignly establishes His kingdom despite human anxiety."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'willful choices' and 'disciplines' to escape a systemic trap.",
+      "theologische_implicatie": "Soteriology is equated with ethical realignment."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 7,
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically shifts the burden of the 'Kingdom' onto the hearer's ability to 'strive'.",
+      "spanning_punten": [
+        "God gives the kingdom (Gift) vs. Strive for the kingdom (Task)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Discipleship is the great refusal of the fake news.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is expected to find their own 'willful choice'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as a 'fake news' system or a 'regime of anxiety' rather than an ontological condition."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a call to ethical action where God provides the resources (Helper) but the Hearer must execute the escape (Subject).",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one who must 'get out' and 'depart'.",
+      "voorgestelde_herpositionering": "God as the one who rescues the hearer from the 'regime of anxiety'.",
+      "voorbeeld_revisie": "Instead of 'Get out of the anxiety system,' use 'God has broken the gates of the anxiety system to pull you out.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero who chooses justice.",
+      "voorgestelde_identificatie": "Hearer as the 'Receiver' of a Kingdom that arrives regardless of their anxiety.",
+      "strategie": "Focus on the 'good pleasure' of the Father as the active force."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God's Power)",
+      "concrete_suggestie": "Emphasize how the Spirit grants the power to be generous, rather than just the command to be so."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Anxiety as a choice/habit.",
+      "voorgestelde_intensivering": "Anxiety as a 'Power' that we cannot escape on our own.",
+      "theologische_rationale": "If the opponent is just 'fake news', we only need a better teacher. If the opponent is 'Death/Sin', we need a Savior."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Justice) is the primary program.",
+      "voorgestelde_structuur": "Soteriology (God gives the Kingdom) must be the engine that enables Ethics."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is socially prophetic and rhetorically powerful, but structurally places the weight of the Gospel on human willpower."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a brilliant critique of consumerism; semiotically, it is a law-driven mandate.",
+    "verschil_met_exegese": "Exegesis identifies the 'Father's pleasure', but the actantial model shows that this pleasure is sidelined by the 'Hearer's striving'.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'Father' language, the 'Subject' of the verbs remains 'We/You', making it anthropocentric."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Solomon (greedily ate)",
+      "Jesus (taught)",
+      "The Man (asked)",
+      "You (must get out)",
+      "We (must refuse)",
+      "The Father (knows/gives)"
+    ],
+    "volledige_object_lijst": [
+      "Meat",
+      "Surplus",
+      "Kingdom",
+      "Justice",
+      "Righteousness"
+    ],
+    "werkwoord_frequentie": {
+      "strive": {
+        "count": 4,
+        "primair_subject": "Man"
+      },
+      "refuse": {
+        "count": 3,
+        "primair_subject": "Man"
+      },
+      "gives": {
+        "count": 2,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Prophetic Moralism' where the urgency of social justice replaces the agency of Divine Grace."
+  }
+}

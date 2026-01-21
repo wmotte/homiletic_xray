@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "titel_preek": "The Wine at the Wedding in Cana",
+    "bijbeltekst": "John 2:1-11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A detailed exegetical and theological exposition of the Cana miracle, focusing on its role as an 'epiphaneia', its trinitarian dimensions, and its eschatological symbolism (the messianic feast).",
+      "exegetische_kwaliteit": "High. The text engages with Johannine scholarship (Bultmann), liturgical history (BCP), and Old Testament intertextuality (Isaiah).",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is descriptive and explanatory. The preacher is 'teaching about' the text rather than 'proclaiming through' the text.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "John is careful to deploy this identification...",
+        "The sequence of readings in the Epiphany season is worth noting.",
+        "There is a fourth feature."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellectual understanding of the 'glory' of Jesus and a general call to faith.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned only in the context of the Trinity (baptismal accounts), not as the agent of the sermon's current effect.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "recognize",
+        "behold",
+        "believe"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The story of the wine at the wedding in Cana is unique to the Gospel of John.",
+        "John’s purpose, as throughout his Gospel, is theological."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "indicates",
+        "observes",
+        "refers",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "The Epiphany season is an extended invitation to behold and believe.",
+        "The church... is to take care of its calling."
+      ],
+      "dominante_werkwoorden": [
+        "behold",
+        "believe",
+        "take care"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "The words about matrimony are much to be cherished.",
+        "It is certainly not wrong to mention..."
+      ],
+      "dominante_werkwoorden": [
+        "cherish",
+        "noted",
+        "quoted"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "He will swallow up death forever (quoted from Isaiah)."
+      ],
+      "dominante_werkwoorden": [
+        "will"
+      ],
+      "kwaliteit": "Weak. The promises are quoted as historical/biblical facts rather than being directly applied to the hearer in the present tense."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher describes the authority of Jesus but does not exercise ministerial authority to declare reality (e.g., 'Your death is swallowed up')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Frequent use of 'There is a... feature'",
+        "Reliance on 'The evangelist says'",
+        "Third-person historical perspective"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a biblical event rather than a participant in a sacramental event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct address",
+        "Present-tense promise",
+        "Absolution or Declaration of Grace"
+      ],
+      "effect_op_hoorder": "Information about Jesus' glory is provided, but the glory is not 'manifested' to the hearer through the word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent as direct address.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "12",
+        "gebruik": "Used as 'we' (preacher and scholars/church) to observe facts."
+      },
+      "tweede_persoon": {
+        "frequentie": "1",
+        "gebruik": "Only in a quote from the host ('You have kept the best wine').",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "150+",
+        "gebruik": "Dominant. Talking about John, Jesus, the guests, and the scholars.",
+        "distantie_effect": "High. It creates a lecture-hall atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical narrative of Cana."
+      },
+      "tijdloos_present": {
+        "frequentie": "55%",
+        "gebruik": "Theological truths about the Gospel of John."
+      },
+      "actueel_present": {
+        "frequentie": "5%",
+        "gebruik": "Brief mention of the 'season of Epiphany'."
+      }
+    },
+    "adressering_effectiviteit": 2
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Explanation of John 2) -> Directive (Call to behold/believe).",
+      "voorbeelden": [
+        "The central purpose is to reveal... [Assertive] -> The church is to take care of its calling [Directive]."
+      ],
+      "probleem": "The call to believe is not founded on a present-tense promise (Commissive) or a declaration of what Christ is doing *now* for the hearer."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The call to faith is presented as a 'concern' or 'calling' rather than a response to a gift given in the moment."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The text functions as a high-quality theological essay or commentary. It explains the 'sign' but does not become a 'sign' itself.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The link between Cana and Isaiah 25.",
+        "effect": "Provides deep intellectual context."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire text lacks 'You' (singular or plural).",
+        "probleem": "No encounter between God and the hearer.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a talk about an event, not an event in itself.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that characterizes sacramental preaching."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of study, not the subject of the address.",
+      "prediker_als_mandataris": "No. The preacher acts as a scholar/teacher.",
+      "tekstueel_bewijs": [
+        "John’s purpose... is theological."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimally (in Trinitarian doctrine).",
+      "perlocutie_theologie": "No. The effect is attributed to the 'evangelist's emphasis' or 'the season'.",
+      "tekstueel_bewijs": [
+        "The descent of the dove testifies..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a medium of information.",
+      "epifanisch_taalgebruik": "The text talks about epiphanies but does not perform one.",
+      "tekstueel_bewijs": [
+        "The Cana story is not told as a historian... would tell it."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Overwhelming dominance of 3rd person singular 'is' and 'indicates'. Total absence of 2nd person performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Cana miracle is a sign of God’s absolute power.",
+          "voorgestelde_revisie": "Today, Christ exercises His power over your chaos and transforms your 'water' into wine.",
+          "verschil": "Shifts from a fact about God to an act of God for the hearer."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise of Isaiah 25 is left in the past/future tense.",
+      "suggestie": "Bring the promise into the 'Now' of the pulpit.",
+      "voorbeeldzinnen": [
+        "To you, Christ promises: I am the host of your life, and I will not let your joy run dry."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Zero direct address to the congregation.",
+      "suggestie": "Use 'You' and 'We' (inclusive of the present moment).",
+      "voorbeeldzinnen": [
+        "Do you see His glory here, in this word spoken to you?"
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'believe' is a heavy demand because the indicative 'Christ is for you' is missing.",
+      "suggestie": "Declare the grace first, then invite the response."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The theological content is excellent, but for this to be a 'sermon-event', the preacher must step out from behind the commentary and speak as a messenger of the King to the people."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'. SAT reveals that the preacher is failing to use the 'Declarative' key, which is unique to the office.",
+    "verschil_met_retoriek": "Rhetorically, the text is elegant. SAT shows that elegance does not equal illocutionary force.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'Constative Surplus' turns the Gospel into a lecture, preventing the 'Epiphany' from happening in the ears of the listeners."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "quoted",
+        "identifies",
+        "deploy",
+        "emphasize",
+        "did",
+        "manifested",
+        "believed",
+        "noting",
+        "comes",
+        "set",
+        "detected",
+        "enlarged",
+        "know",
+        "structures",
+        "beheld",
+        "anticipates",
+        "holds",
+        "excelled",
+        "produced",
+        "related",
+        "seen",
+        "described",
+        "observes",
+        "thought",
+        "redirects",
+        "arrives",
+        "finished",
+        "foreshadowed",
+        "indicates",
+        "links",
+        "followed",
+        "sets",
+        "expresses",
+        "experiences",
+        "senses"
+      ],
+      "directief": [
+        "behold",
+        "believe",
+        "take care",
+        "point to"
+      ],
+      "expressief": [
+        "cherished",
+        "not wrong to mention",
+        "lovely reference"
+      ],
+      "commissief": [
+        "will make",
+        "will destroy",
+        "will swallow",
+        "will reign"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The central purpose is to reveal the glory of Jesus.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Weak",
+        "effectiviteit": "Informative only."
+      },
+      {
+        "zin": "He will swallow up death forever.",
+        "categorie": "COMMISSIVE (Quoted)",
+        "illocutionaire_kracht": "Moderate",
+        "effectiviteit": "Stronger, but distanced by being a quote from Isaiah."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' the Word rather than 'doing' the Word."
+  }
+}

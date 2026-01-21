@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "The New Form of Speech",
+    "bijbeltekst": "Romans 10:17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God communicates Himself to humanity through the 'speech-event' of preaching to create faith and transformation.",
+      "subject": {
+        "identificatie": "God / The Word (Jesus Christ)",
+        "tekstueel_bewijs": [
+          "God calls into existence the things that do not exist",
+          "God has spoken",
+          "Only God can make his Word live",
+          "Jesus Christ has promised to be present in power"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Faith / Transformation / Revelation of God",
+        "tekstueel_bewijs": [
+          "faith comes from what is heard",
+          "the world was transformed forever",
+          "receive from him the love"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Judeo-Christian Tradition",
+        "tekstueel_bewijs": [
+          "The agent of the creation itself is the Word of God",
+          "God has summoned human beings"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearers (Congregation and Preacher)",
+        "tekstueel_bewijs": [
+          "transforming event in the lives of the hearers",
+          "He comes to meet us, preacher and congregation alike"
+        ],
+        "positie_hoorder": "The hearer is the Receiver of a gift/event, not the Subject of a task."
+      },
+      "helper": {
+        "identificatie": "The Human Preacher / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "demonstration of the Spirit and of power",
+          "the preacher is only a channel, a vessel"
+        ],
+        "rol_van_god": "God is the Subject; the human is merely the instrumental Helper.",
+        "rol_van_geest": "External power that validates the human word."
+      },
+      "tegenstander": {
+        "identificatie": "Human Eloquence / Skepticism / Sin / Silence",
+        "tekstueel_bewijs": [
+          "too much eloquence can work against the Word",
+          "disbelief was all the rage",
+          "human beings, flawed and sinful"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is the 'impossible' gap between a holy God and sinful humanity, which only a miracle can bridge."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The preacher's struggle to ascend the pulpit and 'decrease' so Christ can 'increase'.",
+      "subject": "The Preacher",
+      "object": "Faithfulness / Disappearance into the message",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The secondary program (preacher's performance) is strictly subordinate to the primary program (God's speech)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → The Word/Faith → The Hearer",
+      "helper_subject_tegenstander": "The Spirit/Preacher → God/The Word ← Human Pride/Sin",
+      "subject_naar_object": "God → Revelation/Faith"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 18,
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God said, 'Let there be light'",
+        "God opens our lips",
+        "God has turned his message over to us"
+      ],
+      "voorbeelden_mens_subject": [
+        "We shall fight on the beaches",
+        "I remember an encounter",
+        "We need to find new ways"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "He must increase, but I must decrease"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "that you should come to a deeper trust"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "we cannot understand even the most basic things... if we do not grasp"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 10,
+        "voorbeelden": [
+          "Only God can make his Word live",
+          "God calls into existence the things that do not exist",
+          "God opens our lips so that our mouths can show forth"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon is heavily focused on God's 'ability' (Pouvoir) vs human 'inability'. It is a theology of Divine Agency."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The Word (Audition/Life)",
+      "s2": "Silence (Death/Ignorce)",
+      "niet_s1": "Human Eloquence (Empty noise)",
+      "niet_s2": "The Vision (Static/Non-communicative)"
+    },
+    "beweging_in_preek": "Moves from the 'silence' of human politics/history to the 'event' of the Word breaking in.",
+    "theologische_resolutie": "The tension is resolved by the Incarnation: the Word becomes flesh and speaks.",
+    "ernst_van_s2": "High; silence and ignorance are presented as the natural human state without God's intervention."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently positions God as the active Subject and the Word as an objective event that happens to the hearer, rather than a task the hearer must perform.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric opening",
+        "tekstueel_bewijs": "The first three paragraphs focus on political figures (Dole, Churchill).",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "God opens our lips so that our mouths can show forth his praise.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "It is an impossible activity... if it depended on us, we would remain in silence.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (John the Baptist, Paul) are used as actantial models of 'decreasing' rather than moral examples to imitate.",
+      "bijbelse_figuren_als_model": [
+        "John the Baptist",
+        "Paul"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: John the Baptist is a 'vessel' for the Word."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and expectancy; the burden of 'making faith happen' is removed.",
+      "theologische_implicatie": "Monergistic view of revelation and faith."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The sermon moves logically from the nature of God's Word to the specific event of preaching Christ.",
+      "spanning_punten": [
+        "The transition from political eloquence (Churchill) to the 'weakness' of the Word creates a slight rhetorical tension."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "The risen, reigning, living Jesus Christ has promised to be present in power.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir-faire' (ability) that the human preacher lacks."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; sin renders the human 'unworthy' and 'incapable' of knowing God apart from the Word."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in theocentric actantial structure. God is the Subject of almost all transformative actions.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy on Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is the 'Grammar of Grace'.",
+      "concrete_suggestie": "The sermon could slightly increase the 'Vouloir' (desire) of the hearer in the conclusion."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (sin/silence) is sufficiently 'heavy'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God speaks) correctly precedes and enables Ethics (we receive/respond)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon perfectly exemplifies Fleming Rutledge's 'Grammar of Grace' by making God the active Subject of the narrative engine."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the Churchill/King anecdotes; Greimas shows these are merely 'Helpers' to the deeper Subject (The Word).",
+    "verschil_met_exegese": "Exegesis explains Romans 10; Greimas shows how the sermon *enacts* Romans 10 by creating the 'speech-event' it describes.",
+    "unieke_inzichten_greimas": "Reveals that the preacher's 'weakness' is not a rhetorical trope but a functional requirement for the 'Word' actant to operate."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (said)",
+      "The Word (became flesh)",
+      "Jesus (is present)",
+      "The Spirit (demonstrates)",
+      "The Preacher (decreases)"
+    ],
+    "volledige_object_lijst": [
+      "Faith",
+      "Light",
+      "The World",
+      "The Hearer"
+    ],
+    "werkwoord_frequentie": {
+      "speak/spoken": {
+        "count": 12,
+        "primair_subject": "God"
+      },
+      "preach": {
+        "count": 15,
+        "primair_subject": "Man (as vessel)"
+      },
+      "transform": {
+        "count": 2,
+        "primair_subject": "The Word"
+      }
+    },
+    "notnotes": "The sermon uses the 'impossible possibility' motif (Barthian influence) to reinforce the actantial priority of God."
+  }
+}

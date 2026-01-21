@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "It Takes All Kinds",
+    "bijbeltekst": "Matthew 22:31-32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God seeks to include every type of human character (the dreamer, the ordinary, the sinner) into His circle of concern and love.",
+      "subject": {
+        "identificatie": "God / The Heavenly Father",
+        "tekstueel_bewijs": [
+          "God throws in his strength on the side of truth",
+          "God waits and couldn't care more for you",
+          "Jesus quotes God as saying, 'I am the God of...'"
+        ],
+        "frequentie_score": 7
+      },
+      "object": {
+        "identificatie": "Inclusion/Belonging in God's love and heart",
+        "tekstueel_bewijs": [
+          "a part in God's love",
+          "safely gathered round the hearth",
+          "your place in God's heart"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "Jesus (as the Revealer of God's nature)",
+        "tekstueel_bewijs": [
+          "This is revealed in the quotation of Jesus about God"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (specifically 'Tom', the 'Ordinary', and the 'Slick')",
+        "tekstueel_bewijs": [
+          "God has one better than that for you",
+          "only you can fill it"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Human potential and conscience",
+        "tekstueel_bewijs": [
+          "I've got a conscience",
+          "potential spiritual power"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Self-doubt, social stigma, and 'the fast life'",
+        "tekstueel_bewijs": [
+          "uprooting",
+          "fear the fact would come out",
+          "understate ourselves and downgrade our possibilities"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The obstacles are primarily feelings of inadequacy or the 'giddy whirl' of city life, rather than radical evil or ontological sin."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human subject must act to improve democracy and society.",
+      "subject": "The Hearer / Citizen",
+      "object": "A better, fairer world / Democracy's impetus",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon jumps from God's acceptance of the individual to the individual's duty to vote and change democracy without a clear soteriological bridge."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Jesus → God's Love → The Hearer",
+      "helper_subject_tegenstander": "Conscience → God ← Self-Doubt",
+      "subject_naar_object": "God → Filling the void in His heart"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 14,
+      "mens_als_subject_count": 32,
+      "ratio": "0.43",
+      "voorbeelden_god_subject": [
+        "God is not the God of the dead",
+        "God waits",
+        "God throws in his strength"
+      ],
+      "voorbeelden_mens_subject": [
+        "I am coming back",
+        "We can work for the better",
+        "You play it by the rules"
+      ],
+      "rutledge_score": 4
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "You play it by the rules, or you suffer the penalty"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "long in their souls to climb high mountains",
+          "he has a part in God's love... may yet turn"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "have ye not read"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "with that you can turn back an army"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It seeks to awaken the hearer's desire (Vouloir) to return to God by emphasizing God's desire for them."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Inclusion (Living)",
+      "s2": "Exclusion (Dead)",
+      "niet_s1": "Alienation (Wandering)",
+      "niet_s2": "Acceptance (Not beyond concern)"
+    },
+    "beweging_in_preek": "Moves from Alienation (~S1) to Acceptance (~S2) based on God's character as the God of 'all kinds'.",
+    "theologische_resolutie": "Resolution is found in God's 'emotional' need for the human; God is incomplete without the individual.",
+    "ernst_van_s2": "Low. Death and Judgment are treated as 'clogged wells' or 'fast living' rather than a terminal state."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While God is the Subject of 'caring', the sermon leans heavily on Moral Influence and Exemplarism. It is anthropocentric in its focus on human types and social action.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Legalistic consequence",
+        "tekstueel_bewijs": "You play it by the rules, or you suffer the penalty.",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Civic Moralism",
+        "tekstueel_bewijs": "If throughout our land we could realize that our citizenship participation is vital...",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Unconditional Concern",
+        "tekstueel_bewijs": "I couldn't care more for you, no matter who you are or what your record is.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Abraham, Isaac, and Jacob are used as archetypes of human personality to prove God's 'market coverage'.",
+      "bijbelse_figuren_als_model": [
+        "Abraham (The Dreamer)",
+        "Isaac (The Ordinary)",
+        "Jacob (The Slick)"
+      ],
+      "alternatieve_lezing": "God chooses the patriarchs not because they represent 'all kinds' of human potential, but despite their failures, to fulfill His specific covenant promise of the Messiah."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Empowerment of the ego ('I have a soul', 'I can turn back an army').",
+      "theologische_implicatie": "Synergism: God provides the love, but the human provides the 'spiritual power' and the 'vote'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 5,
+      "coherentie_beschrijving": "The transition from the resurrection of the dead to voting in a democracy is narratively jarring.",
+      "spanning_punten": [
+        "The text is about the Resurrection; the sermon is about personality types.",
+        "God as 'Lord of History' vs. God as a 'lonely Father' with a 'pain in His heart'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "God's love is a 'haunting awareness' that motivates Tom to say 'I am coming back.'",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is told they already possess 'potential spiritual power'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'falling by the way' or 'playing the angles'—recoverable through a change of mind."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (through social progress and 'marching on')."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon casts God as a passive lover waiting for the human subject to realize their own importance and return to civic/religious activity.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The human 'conscience' and 'will' are the primary movers of the return.",
+      "voorgestelde_herpositionering": "Make God the seeker who finds the dead (Resurrection context).",
+      "voorbeeld_revisie": "Instead of 'I am coming back,' use 'The God of the living has come to find me in the graveyard of my choices.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Ordinary Hero' or 'Slick Genius'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the 'Dead' in the text (v. 32) as the hearer's state, making God's life-giving word the only hope."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Vouloir (Human desire)",
+      "voorgestelde_balans": "Pouvoir (God's power to raise the dead)",
+      "concrete_suggestie": "Shift from 'you can turn back an army' to 'God has conquered the grave for you'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Weak (social embarrassment/bad habits).",
+      "voorgestelde_intensivering": "Death and the 'God of the dead'.",
+      "theologische_rationale": "The text explicitly contrasts the dead and the living; the sermon ignores the 'dead' actant."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (voting/democracy) is fused with Soteriology.",
+      "voorgestelde_structuur": "1. God raises the dead (Soteriology). 2. The living walk in newness of life (Ethics)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a warm, inclusive heart, but it risks turning the Gospel into a pep-talk for the human spirit."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the use of 'Tom' and 'Fannie Hurst' as engaging; semiotics reveals these 'actors' actually displace God as the primary Subject.",
+    "verschil_met_exegese": "Exegesis would note the Sadducees' context; semiotics shows the sermon ignores the 'Resurrection' logic entirely in favor of 'Personality' logic.",
+    "unieke_inzichten_greimas": "Greimas reveals that God is positioned as an 'Object' to be filled by the human ('emptiness in God's heart that only you can fill'), which is a total inversion of classical theocentricity."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Tom fell",
+      "He (Tom) said",
+      "Abraham dreamed",
+      "Isaac dug",
+      "God waits",
+      "We can work"
+    ],
+    "volledige_object_lijst": [
+      "God's love",
+      "a new start",
+      "a better world",
+      "God's heart"
+    ],
+    "werkwoord_frequentie": {
+      "care": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "work/do": {
+        "count": 6,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses 'God' frequently but often as a predicate of human experience rather than the Subject of the New Creation."
+  }
+}

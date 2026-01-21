@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "titel_preek": "A Bilingual Life",
+    "bijbeltekst": "Job 26, 27, 38-42; Matthew 5:48",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Job seeks a conversation partner who can address his anguish beyond the limits of moral virtue and ideological certitude.",
+      "subject": {
+        "identificatie": "Job (as the seeker/Adam redux)",
+        "tekstueel_bewijs": [
+          "Job seeks a conversation partner who will address him at the point of his anguish.",
+          "Job must, however, find a partner who is not oversimple."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "A conversation/communion that outruns integrity (Doxology)",
+        "tekstueel_bewijs": [
+          "a yearning for a conversation, a communion, a transaction that outruns integrity"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The 'Other' / The Whirlwind God",
+        "tekstueel_bewijs": [
+          "The speech of this Other who wants praise and not virtue"
+        ],
+        "rol_interpretatie": "SOVEREIGN_MYSTERY"
+      },
+      "ontvanger": {
+        "identificatie": "Job (and by extension, the Hearer)",
+        "tekstueel_bewijs": [
+          "Job is addressed by the 'thereness' of God"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Voice unexpected (Grace/Revelation)",
+        "tekstueel_bewijs": [
+          "comes the voice unexpected and unexplained... simply present"
+        ],
+        "rol_van_god": "God is both the Sender and the Helper (the Voice itself).",
+        "rol_van_geest": "External help (The Whirlwind)"
+      },
+      "tegenstander": {
+        "identificatie": "Moral Scrupulousness / Ideological Certitude",
+        "tekstueel_bewijs": [
+          "Small-minded moral scrupulousness",
+          "idols of self-congratulations block healing"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The sermon treats virtue-as-shield as a 'death' that cuts one off from God."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The life of virtue and obedience following the encounter with God.",
+      "subject": "The Hearer/Job",
+      "object": "Caring, responsible life of integrity",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Integrity is 'penultimate' and must be recontextualized by the primary program of doxology."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Whirlwind → Doxological Communion → Job",
+      "helper_subject_tegenstander": "The Unexpected Voice → Job ← Moral Scrupulousness",
+      "subject_naar_object": "Job → Restlessness/Praise"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "28",
+      "ratio": "0.5",
+      "voorbeelden_god_subject": [
+        "God refuses to engage Job on Job’s terms.",
+        "God is present, undomesticated, unencumbered."
+      ],
+      "voorbeelden_mens_subject": [
+        "Job knows his virtue.",
+        "We must go home and live as virtuously as possible."
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "The commandments are what we must do to inherit life."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "a yearning for a conversation",
+          "this Other who wants praise"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Job knows how to 'will one thing'."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "he could not manage",
+          "cannot summon nor produce"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on shifting the hearer's desire from 'being right' to 'yielding in awe'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Doxology (Praise/Awe)",
+      "s2": "Virtue (Moral Certitude)",
+      "niet_s1": "Boredom/Self-Satisfaction",
+      "niet_s2": "Anguish/Restlessness"
+    },
+    "beweging_in_preek": "Moves from S2 (Virtue) to ~S2 (Anguish), then is surprised by S1 (Doxology), which redefines S2.",
+    "theologische_resolutie": "Virtue is not rejected but 'recontextualized' by the overwhelming presence of God.",
+    "ernst_van_s2": "High; virtue is described as a potential 'screen' or 'idolatry' that leads to spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While it uses theocentric language regarding God's 'savage freedom,' it places the Hearer/Job as the Subject who must 'learn a second language' and 'move beyond self.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional inheritance",
+        "tekstueel_bewijs": "The commandments are what we must do to inherit life.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Unpredictable Actor",
+        "tekstueel_bewijs": "not evoked by Job’s insistence, not sponsored by Job’s integrity",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Job is explicitly called a 'model' and his virtue is presented as 'do-able'.",
+      "bijbelse_figuren_als_model": [
+        "Job",
+        "Adam",
+        "Rich Young Ruler"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who pursues the silent/suffering Job regardless of Job's integrity."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to achieve a 'second language' of praise after mastering the first of virtue.",
+      "theologische_implicatie": "Soteriology is partially dependent on the human capacity to 'yield' and 'submit'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The transition from Law (Virtue) to Gospel (Doxology) is rhetorically smooth but actantially confusing.",
+      "spanning_punten": [
+        "The claim that commandments are 'what we must do to inherit life' clashes with 'we are not saved by our virtue'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "drawn into another conversation",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer can 'learn' the language if they stop holding virtue too tightly."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is seen as 'fearful obedience' or 'idolatry' of the self."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon has a strong 'Sender' (God) but the 'Subject' remains the human striving for a better spiritual state.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'yielding' and 'learning'.",
+      "voorgestelde_herpositionering": "Make God the subject of the 'opening' and 'giving' of the second language.",
+      "voorbeeld_revisie": "Instead of 'Learn to speak praise,' use 'The Spirit unlooses your tongue to a praise you could not find.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as 'Hero' who must move beyond virtue.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize Job's total passivity in the whirlwind."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "VOULOIR (You must want to yield)",
+      "voorgestelde_balans": "POUVOIR (God enables the yielding)",
+      "concrete_suggestie": "Focus on how the Whirlwind creates the capacity for awe where it was dead."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly identified as self-righteousness.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon correctly identifies the 'Opponent' as the human ego."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Soteriology is made to sound conditional on the 'yielding'.",
+      "voorgestelde_structuur": "God's speech (Grace) -> Job's silence (Justification) -> Integrity (Sanctification)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically brilliant and theologically provocative, but structurally risks becoming a 'new law' of doxology."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of contrast; actantially, it maintains the human as the primary actor.",
+    "verschil_met_exegese": "Exegesis focuses on Job's suffering; Greimas shows the sermon focuses on Job's 'competence'.",
+    "unieke_inzichten_greimas": "Reveals that 'Doxology' has become a new 'Object' for the human 'Subject' to acquire."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Job (dismisses, mocks, knows, vows, asserts, learns)",
+      "God (refuses, asks, calls, blows, wants, frees)",
+      "We (must go home, are invited, join the choir)"
+    ],
+    "volledige_object_lijst": [
+      "Integrity",
+      "Doxology",
+      "A second language",
+      "Healing"
+    ],
+    "werkwoord_frequentie": {
+      "yield": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "address": {
+        "count": 3,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses 'Grace' language (gift, unexpected) but the syntax remains anthropocentric."
+  }
+}

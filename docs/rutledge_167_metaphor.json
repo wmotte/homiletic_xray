@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "titel_preek": "Good Friday and First Sunday in Lent: Repentance as Insight",
+    "bijbeltekst": "Psalm 51, Psalm 19, Romans 5:8, 2 Corinthians 5:21",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "God has a case against us",
+          "justified when you speak",
+          "render judgments",
+          "sentence upon himself",
+          "condemned man"
+        ],
+        "conceptuele_metafoor": "SIN IS A LEGAL TRANSGRESSION; GOD IS JUDGE"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "defenses and barricades",
+          "storm of the wrath",
+          "assaulted by manifold temptations",
+          "enemy lines",
+          "bridgehead of good"
+        ],
+        "conceptuele_metafoor": "MORAL LIFE IS WARFARE"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "defenses and barricades",
+          "uprooted small corner of evil",
+          "create in me a clean heart"
+        ],
+        "conceptuele_metafoor": "THE SOUL IS A STRUCTURE/SPACE"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "God has a case against us",
+        "brondomein": {
+          "naam": "The Courtroom",
+          "concrete_elementen": [
+            "lawsuit",
+            "evidence",
+            "plaintiff",
+            "verdict"
+          ],
+          "belichaamde_basis": "balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Divine Judgment",
+          "doctrinale_traditie": "Reformed/Protestant"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Prosecutor/Plaintiff",
+            "doel_element": "God"
+          },
+          {
+            "bron_element": "Defendant",
+            "doel_element": "The Sinner"
+          },
+          {
+            "bron_element": "Legal Case",
+            "doel_element": "Human Sinfulness"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The hearer feels a sense of objective accountability."
+          ],
+          "theologische_implicaties": [
+            "Sin is not just a mistake but a violation of a covenantal/legal standard."
+          ],
+          "ethische_implicaties": [
+            "The need for a 'plea' or confession."
+          ],
+          "onbedoelde_consequenties": [
+            "God may be perceived as an adversary rather than a sustainer."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Standard biblical imagery of judgment, though 'having a case' adds a slightly modern legal flavor."
+      },
+      {
+        "metafoor_expressie": "The line separating good and evil passes... right through every human heart",
+        "brondomein": {
+          "naam": "Geography/Boundaries",
+          "concrete_elementen": [
+            "border line",
+            "territory",
+            "division"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Total Depravity/Simul Justus et Peccator",
+          "doctrinale_traditie": "Lutheran/Augustinian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Border line",
+            "doel_element": "Moral distinction"
+          },
+          {
+            "bron_element": "Territory",
+            "doel_element": "The Human Soul"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Evil is not 'out there' but 'in here'."
+          ],
+          "theologische_implicaties": [
+            "Universal need for grace; rejection of self-righteousness."
+          ],
+          "ethische_implicaties": [
+            "Humility and refusal to demonize others."
+          ],
+          "onbedoelde_consequenties": [
+            "Moral paralysis if the line is too fluid."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Solzhenitsyn's quote re-activates the spatial reality of the heart as a contested territory."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully moves from the Juridical (God's case) to the Military/Spatial (the line in the heart) by centering both on the concept of 'Insight'.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Ash Wednesday section",
+          "metafoor_a": "God as Prosecutor (having a case)",
+          "metafoor_b": "God as Creator (clean heart)",
+          "conflict_beschrijving": "The shift from a legal adversary to a biological/architectural restorer is abrupt.",
+          "entailment_conflict": "A judge dismisses or sentences; a creator remakes. These require different modes of relating.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion of Psalm 19 section",
+          "gemengde_metaforen": [
+            "Juridical (condemned man)",
+            "Relational (love)"
+          ],
+          "blending_strategie": "The Cross is used as the 'blend' where the Judge becomes the Condemned out of love."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Uses Tolkien and Solzhenitsyn to breathe life into the 'dead' metaphor of the 'sinful heart'.",
+        "voorbeeld": "The axis of evil lies here, there, and everywhere."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The military language of 'assault' and 'storm of wrath' could reinforce a violent image of God.",
+        "voorbeeld": "bearing in his own body the storm of the wrath of God",
+        "potentiele_impact": "Congregants may fear God's temper rather than respect His holiness.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A courtroom where the defendant (hearer) realizes the judge is also the one paying the penalty.",
+      "sub_worlds": [
+        "The trenches of the Somme (WWI)",
+        "The Soviet Gulag",
+        "The internal space of the 'human heart'"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Tolkien section",
+          "van_wereld": "Ancient Israel (Psalms)",
+          "naar_wereld": "1944 Europe",
+          "effectiviteit": "Highly effective in making 'sin' a contemporary geopolitical reality."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Sovereign Judge",
+          "hoe_versterkt": "Repeated emphasis on God's 'right' to render judgment."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Sin as Social Faux Pas",
+          "verstoring_strategie": "Challenging the 'I'm not hurting anybody' logic.",
+          "vervangend_schema": "Sin as Theological Offense (Verticality)."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Perfectly aligns with the Ash Wednesday/Lenten themes of penitence and self-examination."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by Juridical and Military domains, which effectively create a sense of urgency and seriousness appropriate for Lent. However, it leans heavily on 'wrath' and 'judgment' as the primary source domains for God's holiness.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SIN IS SICKNESS",
+        "huidige_status": "Underutilized",
+        "suggestie": "Incorporate the Medical domain to balance the Juridical.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Sin not just as a crime, but as a 'contagion' that Christ absorbs."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The 'storm of wrath' vs. 'God is love'.",
+        "resolutie_strategie": "Use the 'Container' metaphor: We are 'in' Christ, who acts as the shelter from the storm, rather than Christ being the target of a temperamental God."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SIN IS DEBT/CRIME",
+        "problematisch_entailment": "Suggests a transactional salvation.",
+        "aanbeveling": "Emphasize the Relational domain (Father/Son) to show that the 'debt' is actually a broken heart/relationship."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To soften the harshness of the military/juridical tone.",
+        "doel_concept": "Growth in repentance (sanctification)."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of cognitive mapping to move the congregation from external moralism to internal theological insight."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the Tolkien quote for its 'beauty,' CMT shows it functions as a 'Schema Disruption' to redefine the hearer's moral geography.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning, CMT focuses on the pre-reflective metaphorical structures that make the experience possible.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher uses 'Verticality' (God on high) to establish authority before using 'Interiority' (the heart) to apply the gospel."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "God has a case",
+      "squirm off the hook",
+      "defenses and barricades",
+      "lifelong charade",
+      "storm of the wrath",
+      "axis of evil",
+      "bridgehead of good",
+      "uprooted corner of evil",
+      "naked on the cross"
+    ],
+    "woord_frequentie_analyse": {
+      "sin": "18",
+      "God": "24",
+      "evil": "12",
+      "mercy": "9",
+      "repentance": "5"
+    },
+    "notities": "The use of Solzhenitsyn provides a crucial 'Spatial' metaphor for the heart that bridges the gap between the individual and the global."
+  }
+}

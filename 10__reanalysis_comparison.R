@@ -6,7 +6,7 @@
 # Sölle sermons to quantify model output variability and identify patterns.
 #
 # Key analyses:
-# - Score extraction from all 6 domains
+# - Score extraction from all 9 domains
 # - Paired comparison metrics (differences, correlations)
 # - Bland-Altman agreement plots
 # - Intraclass Correlation Coefficients (ICC)
@@ -170,6 +170,53 @@ extract_scores <- function(json_data, domain) {
     scores$free_child <- safe_extract(json_data, c("ego_positions_scan", "child", "free_child_FC", "score"))
     scores$purity <- safe_extract(json_data, c("transaction_analysis", "communicative_purity_score"))
     scores$psych_health <- safe_extract(json_data, c("conclusion_and_recommendation", "psychological_health_score"))
+
+  } else if (domain == "metaphor") {
+    # Extract prominentie_score from dominant domains (first 3)
+    dom_domeinen <- json_data$primaire_analyse$dominante_domeinen
+    if (!is.null(dom_domeinen) && length(dom_domeinen) >= 1) {
+      scores$domain1_prominentie <- safe_extract(dom_domeinen[[1]], c("prominentie_score"))
+    }
+    if (!is.null(dom_domeinen) && length(dom_domeinen) >= 2) {
+      scores$domain2_prominentie <- safe_extract(dom_domeinen[[2]], c("prominentie_score"))
+    }
+    if (!is.null(dom_domeinen) && length(dom_domeinen) >= 3) {
+      scores$domain3_prominentie <- safe_extract(dom_domeinen[[3]], c("prominentie_score"))
+    }
+
+  } else if (domain == "speech_act") {
+    # Threefold structure
+    scores$locutie_omvang <- safe_extract(json_data, c("drievoudige_structuur_analyse", "locutie", "omvang_procent"))
+    scores$illocutie_helderheid <- safe_extract(json_data, c("drievoudige_structuur_analyse", "illocutie", "helderheid_score"))
+    # Verb categories (percentages)
+    scores$assertieven_pct <- safe_extract(json_data, c("werkwoord_analyse", "assertieven", "procent"))
+    scores$directieven_pct <- safe_extract(json_data, c("werkwoord_analyse", "directieven", "procent"))
+    scores$expressieven_pct <- safe_extract(json_data, c("werkwoord_analyse", "expressieven", "procent"))
+    scores$commissieven_pct <- safe_extract(json_data, c("werkwoord_analyse", "commissieven", "procent"))
+    scores$declaratieven_pct <- safe_extract(json_data, c("werkwoord_analyse", "declaratieven", "procent"))
+    # Constative/Performative
+    scores$constatief_pct <- safe_extract(json_data, c("constatief_performatief_diagnose", "constatief_percentage"))
+    scores$performatief_pct <- safe_extract(json_data, c("constatief_performatief_diagnose", "performatief_percentage"))
+    # Addressing
+    scores$adressering_effectiviteit <- safe_extract(json_data, c("adressering_analyse", "adressering_effectiviteit"))
+    # Diagnostic scores
+    scores$gebeuren_score <- safe_extract(json_data, c("diagnostische_evaluatie", "gebeuren_score"))
+    scores$sacramentele_kracht <- safe_extract(json_data, c("diagnostische_evaluatie", "sacramentele_kracht"))
+
+  } else if (domain == "narrative") {
+    # Subject frequency score
+    scores$subject_frequentie <- safe_extract(json_data, c("actantiele_analyse", "primair_narratief_programma", "subject", "frequentie_score"))
+    # Grammatical analysis
+    scores$god_subject_count <- safe_extract(json_data, c("grammaticale_analyse", "subject_check", "god_als_subject_count"))
+    scores$mens_subject_count <- safe_extract(json_data, c("grammaticale_analyse", "subject_check", "mens_als_subject_count"))
+    scores$rutledge_score <- safe_extract(json_data, c("grammaticale_analyse", "subject_check", "rutledge_score"))
+    # Modal prominences
+    scores$modal_devoir <- safe_extract(json_data, c("grammaticale_analyse", "modale_analyse", "devoir_faire", "prominentie"))
+    scores$modal_vouloir <- safe_extract(json_data, c("grammaticale_analyse", "modale_analyse", "vouloir_faire", "prominentie"))
+    scores$modal_savoir <- safe_extract(json_data, c("grammaticale_analyse", "modale_analyse", "savoir_faire", "prominentie"))
+    scores$modal_pouvoir <- safe_extract(json_data, c("grammaticale_analyse", "modale_analyse", "pouvoir_faire", "prominentie"))
+    # Narrative coherence
+    scores$coherentie_score <- safe_extract(json_data, c("diagnostische_evaluatie", "narratieve_coherentie", "coherentie_score"))
   }
 
   return(scores)
@@ -181,7 +228,7 @@ extract_scores <- function(json_data, domain) {
 
 cat("Loading JSON files...\n")
 
-domains <- c("aristoteles", "dekker", "esthetiek", "kolb", "schulz_von_thun", "transactional")
+domains <- c("aristoteles", "dekker", "esthetiek", "kolb", "schulz_von_thun", "transactional", "metaphor", "speech_act", "narrative")
 
 # Find all Sölle files
 solle_files_A <- list.files(input_dir, pattern = "^solle_\\d+_[a-z_]+\\.json$", full.names = TRUE)
@@ -398,7 +445,10 @@ domain_colors <- c(
   "esthetiek" = "#4DAF4A",
   "kolb" = "#984EA3",
   "schulz_von_thun" = "#FF7F00",
-  "transactional" = "#A65628"
+  "transactional" = "#A65628",
+  "metaphor" = "#F781BF",
+  "speech_act" = "#999999",
+  "narrative" = "#66C2A5"
 )
 
 # 1. SCATTER PLOT: Run A vs Run B
@@ -620,7 +670,7 @@ D. Sölle Sermons - Model Output Variability Analysis
 EXECUTIVE SUMMARY
 -----------------
 This analysis compares two independent LLM analysis runs (A and B) on the same
-set of D. Sölle sermons across 6 analytical domains to quantify model output
+set of D. Sölle sermons across 9 analytical domains to quantify model output
 variability and assess reliability.
 
 OVERALL STATISTICS

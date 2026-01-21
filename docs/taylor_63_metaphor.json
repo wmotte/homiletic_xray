@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "titel_preek": "The Beautiful People",
+    "bijbeltekst": "John 17:22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "God the Father provided the bracing climate for his soul",
+          "princes and princesses of the house regal",
+          "joint heirs",
+          "full liberty of the children of God"
+        ],
+        "conceptuele_metafoor": "GOD IS FATHER / BELIEVERS ARE CHILDREN"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Calvary-bound Savior",
+          "walk through this valley in peace",
+          "pass through the waters",
+          "walk through the fire"
+        ],
+        "conceptuele_metafoor": "FAITH IS A PROTECTED JOURNEY"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "In my Father's house there are many rooms",
+          "dwell in God",
+          "beneath the shadow of his throne"
+        ],
+        "conceptuele_metafoor": "GOD IS A HABITATION / CONTAINER"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Central's never busy. Always on the line... give this royal line a call.",
+        "brondomein": {
+          "naam": "Telephony/Communication Network",
+          "concrete_elementen": [
+            "telephone line",
+            "operator",
+            "busy signal",
+            "calling"
+          ],
+          "belichaamde_basis": "force/connection"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Prayer/Communion",
+          "doctrinale_traditie": "Black Church/Evangelical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Telephone line",
+            "doel_element": "Access to God"
+          },
+          {
+            "bron_element": "Busy signal",
+            "doel_element": "Divine unavailability"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God is always listening",
+            "Prayer is an instantaneous verbal communication"
+          ],
+          "theologische_implicaties": [
+            "Immanence of God",
+            "Unmediated access to the divine"
+          ],
+          "ethische_implicaties": [
+            "Believers should pray frequently in times of trouble"
+          ],
+          "onbedoelde_consequenties": [
+            "Trivialization of the divine mystery",
+            "God as a service provider"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes a conventional hymn lyric by applying it to the 'anxiety' of modern life."
+      },
+      {
+        "metafoor_expressie": "Sin soils and sours our lives",
+        "brondomein": {
+          "naam": "Physical Contamination/Food Spoilage",
+          "concrete_elementen": [
+            "dirt",
+            "sour taste",
+            "decay"
+          ],
+          "belichaamde_basis": "balance/purity"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sin",
+          "doctrinale_traditie": "General Christian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Soil/Dirt",
+            "doel_element": "Moral impurity"
+          },
+          {
+            "bron_element": "Sourness",
+            "doel_element": "Relational bitterness"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Sin is an external agent that ruins internal quality"
+          ],
+          "theologische_implicaties": [
+            "Sin as corruption of nature"
+          ],
+          "ethische_implicaties": [
+            "Need for cleansing and preservation"
+          ],
+          "onbedoelde_consequenties": [
+            "Sin seen as a 'stain' rather than a 'debt' or 'rebellion'"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Standard alliterative use of moral purity metaphors."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon maintains a strong vertical and relational coherence, moving from the 'low' superficiality of society to the 'high' glory of the Father's house.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section on Military vs. Peace",
+          "metafoor_a": "Twelve legions of angels (Warriors)",
+          "metafoor_b": "Walk through this valley in peace",
+          "conflict_beschrijving": "The transition from God as a military commander of legions to God as a peaceful shepherd is abrupt.",
+          "entailment_conflict": "Warriors entail violence/defense; Shepherd entails care/vulnerability.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Royal Robe",
+            "Table/Feast",
+            "Joint Heirs"
+          ],
+          "blending_strategie": "The 'Royal Banquet' blend resolves the tension between status (royalty) and intimacy (family meal)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-contextualizing the 'Beautiful People' socialite metaphor to describe the 'Glory' of the believer.",
+        "voorbeeld": "It may be criminal misuse of the language to call these 'beautiful people.' Envy them? Pity them!"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "PATRIARCHY",
+        "beschrijving": "Heavy reliance on 'Father' and 'Princes' imagery may exclude or limit the experience of those with father-wounds or those seeking gender-inclusive language.",
+        "voorbeeld": "God the Father provided the bracing climate for his soul.",
+        "potentiele_impact": "Reinforcement of traditional gender hierarchies in the divine-human relationship.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The 'Holy of Holies'—the intimate prayer space between Jesus and the Father.",
+      "sub_worlds": [
+        "The French Riviera/Jet-set society",
+        "The halls of power/Industry",
+        "The digital world (Websites of bigotry)",
+        "The Valley of the Shadow/Trial"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to John 17",
+          "van_wereld": "Modern world of computers and power brokers",
+          "naar_wereld": "The Upper Room/Holy of Holies",
+          "effectiviteit": "Highly effective; uses sensory language (quiet footsteps, bowed heads) to shift the listener's mental state."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Provider/Protector",
+          "hoe_versterkt": "Through the use of 'shield,' 'defender,' and 'storehouses' metaphors."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "BEAUTY IS APPEARANCE",
+          "verstoring_strategie": "Exposing the 'ugliness' (drugs, anxiety) behind the 'sparkle and paint' of the rich.",
+          "vervangend_schema": "BEAUTY IS DIVINE GLORY/CHARACTER"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with a High Priestly/Communion liturgy."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the RELATIONAL/FAMILIAL and ROYALTY domains. It successfully deconstructs a secular cultural metaphor ('Beautiful People') and replaces it with a theological one ('Glory'). The landscape is rich in embodied verticality (God on high) and container metaphors (living 'in' God).",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Glory",
+        "huidige_status": "Can be abstract/dead.",
+        "suggestie": "Deepen the source domain of 'Light' and 'Warmth' as used in the 'bracing climate' section.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Describe the physical sensation of stepping into sunlight after a long winter."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'Legions of Angels' to 'Shepherd'.",
+        "resolutie_strategie": "Use the 'Protector' bridge—the Shepherd's rod as both a tool for care and a weapon against wolves."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOD IS A TELEPHONE LINE",
+        "problematisch_entailment": "Suggests God is a passive recipient of our calls.",
+        "aanbeveling": "Balance with metaphors of God as the 'Caller' or 'Initiator' of the relationship."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To ground the 'beauty' in growth and organic life rather than just 'robes' and 'jewelry'.",
+        "doel_concept": "Sanctification"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in metaphorical deconstruction and reconstruction. The preacher effectively moves the audience from a worldly schema to a divine one."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'sparkle and paint' imagery, CMT reveals how these metaphors function to dismantle the hearer's envy.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT focuses on the cognitive mapping that makes the 'glory' of God intelligible through the source domain of 'family' and 'home'.",
+    "unieke_inzichten_CMT": "CMT identifies that 'living in God' is a CONTAINER metaphor that provides the hearer with a sense of ontological security."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "sparkle and paint",
+      "battle against the bulge",
+      "trap of the spirit",
+      "scape-graces",
+      "clawing at the next fellow",
+      "sheep not having a shepherd",
+      "master of my fate",
+      "sin soils and sours",
+      "death delivers the final blow",
+      "parting music of the hymn",
+      "holy court",
+      "Holy of Holies",
+      "bracing climate",
+      "drumbeat of his words",
+      "Central's never busy",
+      "shadow of his wings",
+      "key to all the storehouses",
+      "royal robe"
+    ],
+    "woord_frequentie_analyse": {
+      "beautiful": "18",
+      "glory": "12",
+      "father": "14",
+      "people": "22",
+      "pray": "9"
+    },
+    "notities": "The sermon uses a 'bait and switch' metaphorical strategy: starting with a cultural source domain and pivoting to a theological one."
+  }
+}

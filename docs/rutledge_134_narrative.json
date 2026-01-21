@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "titel_preek": "Abigail’s Strategy",
+    "bijbeltekst": "1 Samuel 25",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God uses human actors (specifically Abigail) to preserve the lineage and character of David, ensuring the unfolding of His redemptive plan despite human sin and impulse.",
+      "subject": {
+        "identificatie": "God (The Holy One of Israel)",
+        "tekstueel_bewijs": [
+          "There is just one main actor and that is God.",
+          "He raises people up and causes them to fall.",
+          "God has placed them there and holds their very existence in his hands."
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "The preservation of David's 'house' and the Messiah's lineage",
+        "tekstueel_bewijs": [
+          "a tale of suspense on which the unfolding of God’s great plan depends.",
+          "The Lord will certainly make my lord a sure house."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God as the Sovereign Architect of History",
+        "tekstueel_bewijs": [
+          "Everything that happens is according to his will or permission.",
+          "Behind, beneath, above, and before every character in the Bible is the Holy One."
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Israel and the Hearer (Humanity)",
+        "tekstueel_bewijs": [
+          "the way of the Son of David was prepared... for people like you and me."
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Abigail (and her 'strategy')",
+        "tekstueel_bewijs": [
+          "Abigail uses her wits, her beauty, and her political instincts to save her husband’s household.",
+          "Blessed be the Lord... who sent you this day to meet me."
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Providence)"
+      },
+      "tegenstander": {
+        "identificatie": "Human Sin (Nabal's folly and David's bloodguilt)",
+        "tekstueel_bewijs": [
+          "David, angry and full of a sense of outraged honor, bent on his bloody and vengeful mission.",
+          "Nabal was churlish and evil in his doings."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just a bad mood, but a threat to the Messianic line and the 'sure house' of David."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Abigail's ethical response to the crisis.",
+      "subject": "Abigail",
+      "object": "Peace and preservation of the household",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Abigail's action is the means through which God (the Primary Subject) executes His will."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Messianic Line → Humanity",
+      "helper_subject_tegenstander": "Abigail → God ← Human Sin/Bloodguilt",
+      "subject_naar_object": "God → Preservation of David"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 58,
+      "ratio": "0.72",
+      "voorbeelden_god_subject": [
+        "God has placed them there.",
+        "The Lord has restrained you from bloodguilt.",
+        "God uses men and women equally."
+      ],
+      "voorbeelden_mens_subject": [
+        "Abigail uses her wits.",
+        "David is forced to live like a sort of Robin Hood.",
+        "You and I would no doubt say something of the sort."
+      ],
+      "rutledge_score": 8
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "he is going to have to put that sword away."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "I find Abigail appealing.",
+          "David... bent on his bloody and vengeful mission."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "Abigail uses her wits.",
+          "She sees the danger."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "The Lord has restrained you.",
+          "God uses men and women equally.",
+          "given, in spite of themselves, a glimpse."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes God's power (Pouvoir) to restrain human sin and enable human action, rather than human obligation (Devoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Providence (God's Plan)",
+      "s2": "Bloodguilt (Human Vengeance)",
+      "niet_s1": "Chaos/Accident",
+      "niet_s2": "Restraint/Grace"
+    },
+    "beweging_in_preek": "From S2 (David's anger) through ~S2 (Abigail's intervention) to S1 (God's sovereign preservation).",
+    "theologische_resolutie": "God uses a 'clever opportunist' to move the narrative from judgment to grace.",
+    "ernst_van_s2": "High; David's potential sin is seen as a threat to the Messianic promise."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon focuses heavily on a human character (Abigail), it explicitly frames her as an instrument of a sovereign God. It avoids moralism by stating that God is the only 'main actor' and that humans are 'given' their roles and insights 'in spite of themselves.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (Potential)",
+        "tekstueel_bewijs": "No one can do everything, but everyone can do something.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Primary Subject",
+        "tekstueel_bewijs": "There is just one main actor and that is God.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Prevenient Grace",
+        "tekstueel_bewijs": "The Lord has restrained you... before it happened.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Abigail is used as a model of 'wits' and 'imagination,' but the preacher immediately grounds this in God's providence.",
+      "bijbelse_figuren_als_model": [
+        "Abigail",
+        "David"
+      ],
+      "alternatieve_lezing": "The sermon already provides this: Abigail is not a hero of her own making, but a 'match light' ignited by God."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe at God's sovereignty over human messiness.",
+      "theologische_implicatie": "Soteriology is monergistic in its ultimate frame, even if synergistic in its historical expression."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The transition from the 'Colossi' of the OT to the 'match lights' like Abigail is perfectly integrated into the theme of God's all-encompassing actors.",
+      "spanning_punten": [
+        "The tension between Abigail's 'cleverness' and God's 'restraint' of David."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "the way of the Son of David was prepared by... people like you and me.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "Endowment of 'wits' and 'prophecy' to Abigail."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Serious; sin (bloodguilt) threatens the very plan of God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is structurally sound. It places God as the Sender and Subject of the meta-narrative, while Abigail serves as a functional Helper.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Savoir-faire (Abigail's cleverness).",
+      "voorgestelde_balans": "Maintain the current emphasis on Pouvoir (God's power).",
+      "concrete_suggestie": "Ensure the 'strategy' of Abigail is always linked to the 'Spirit's prompting'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Nabal is seen as a 'boor' or 'wretched.'",
+      "voorgestelde_intensivering": "Emphasize that Nabal/David's anger represents the 'flesh' which opposes God's Spirit.",
+      "theologische_rationale": "To heighten the necessity of Grace."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's plan) → Ethics (Abigail's action)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of how to preach a 'character study' without falling into the trap of moralistic exemplarism."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'sexy man' hook; Greimas focuses on the functional role of Abigail as a Helper to God's Subjectivity.",
+    "verschil_met_exegese": "Exegesis would look at the Hebrew meaning of 'Nabal' (fool); Greimas looks at Nabal as the 'Opponent' actant.",
+    "unieke_inzichten_greimas": "Reveals that despite the title 'Abigail's Strategy,' the deep structure identifies God as the one strategizing through her."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (acts)",
+      "Abigail (intervenes)",
+      "David (threatens)",
+      "Nabal (refuses)"
+    ],
+    "volledige_object_lijst": [
+      "The Messianic Line",
+      "David's Conscience",
+      "Provisions"
+    ],
+    "werkwoord_frequentie": {
+      "restrain": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "save": {
+        "count": 3,
+        "primair_subject": "Abigail/God"
+      }
+    },
+    "notities": "The sermon successfully navigates the 'Rutledge Rule' by framing human action within divine agency."
+  }
+}

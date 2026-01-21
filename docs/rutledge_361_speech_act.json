@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "titel_preek": "Second Sermon: The Penitent Thief",
+    "bijbeltekst": "Luke 23:39–43",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Exegesis of the crucifixion scene, historical context of Roman punishment, and the dialogue between Jesus and the two criminals.",
+      "exegetische_kwaliteit": "High historical-critical detail regarding 'sedition' and 'summum supplicium'.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily describing the historical event and the nature of paradise, with a late shift toward invitation.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "The Romans didn’t waste their time crucifying small-timers.",
+        "Paradise is where Jesus is.",
+        "Think of these words as your own words."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Comfort in the face of death; identification with the 'wretch'.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly invoked as the agent of the 'event'.",
+      "perlocutionaire_werkwoorden": [
+        "identify",
+        "understand",
+        "envision",
+        "remember"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "80%",
+      "voorbeelden": [
+        "Crucifixion was the supreme penalty.",
+        "The first two sayings from the cross are from the Gospel of Luke.",
+        "This is not Jean Valjean stealing a loaf of bread."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "were",
+        "means",
+        "describes"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "7%",
+      "voorbeelden": [
+        "Think of these words as your own words.",
+        "Listen again.",
+        "Let’s think instead about the nature of what Jesus might mean."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "listen",
+        "let us",
+        "stop"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 15,
+      "procent": "8%",
+      "voorbeelden": [
+        "I’ve come to believe that we are enriched.",
+        "I make a point of visiting cemeteries.",
+        "I think she may have been a difficult person."
+      ],
+      "dominante_werkwoorden": [
+        "believe",
+        "think",
+        "remember",
+        "hope"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "3%",
+      "voorbeelden": [
+        "He will bring all who put their trust in him."
+      ],
+      "dominante_werkwoorden": [
+        "will bring",
+        "promises"
+      ],
+      "kwaliteit": "Weak; the promises are mostly spoken about in the third person rather than delivered directly."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "2%",
+      "voorbeelden": [
+        "Amazing grace that saved a wretch like me!"
+      ],
+      "dominante_werkwoorden": [
+        "saved"
+      ],
+      "autoriteit": "Low; the preacher quotes a hymn rather than pronouncing a present-tense absolution."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical lecturing on Roman law.",
+        "Lengthy anecdote about gravestones and pets.",
+        "Third-person description of the thief's faith."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical drama rather than a participant in a present grace."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Present-tense promise to the congregation",
+        "Sacramental 'I' address"
+      ],
+      "effect_op_hoorder": "Information about paradise is provided, but paradise is not 'opened' for the hearer through the word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 1,
+      "kwaliteit_toezeggen": "Indirect; embedded in a theological explanation of a Psalm.",
+      "voorbeelden": [
+        "His love is able to deliver even at the door of death."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 28,
+        "gebruik": "Personal anecdotes (grandmother, cemeteries) and homiletical 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": 12,
+        "gebruik": "Invitations to 'think' or 'imagine'.",
+        "performatieve_context": "Low; used for mental exercises rather than receiving a promise."
+      },
+      "derde_persoon": {
+        "frequentie": 110,
+        "gebruik": "Describing Jesus, the thief, Romans, and gravestones.",
+        "distantie_effect": "High; creates a 'lecture' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical narrative of the crucifixion."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological definitions of paradise."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Brief moments of application at the end."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History) -> Assertive (Theology) -> Directive (Think about this).",
+      "voorbeelden": [
+        "Crucifixion was... Paradise is... Think of these words."
+      ],
+      "probleem": "The sermon explains the 'event' of the thief but fails to replicate the 'event' for the listener."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the move from 'Jesus promised him' to 'Jesus promises you'.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Think of these words as your own words (Directive) without a prior 'I pronounce you remembered' (Declarative)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-quality lecture on the Lucan crucifixion narrative but remains 'constative' by talking about the promise rather than being the promise.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Crucifixion was the supreme penalty (summum supplicium).",
+        "effect": "Provides intellectual grounding."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "He is the pioneer... he will bring all who put their trust in him.",
+        "probleem": "Spoken in the 3rd person; lacks the 'Today I say to YOU' force.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an 'event' of learning, but not a sacramental 'event' of encounter.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher describes the means of grace but does not use the keys of the kingdom to bind/loose in the present moment."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the past-tense text, but rarely the speaker of the present-tense sermon.",
+      "prediker_als_mandataris": "The preacher acts more as a commentator/historian than a mandatory.",
+      "tekstueel_bewijs": [
+        "In all my many years of preaching...",
+        "I make a point of visiting cemeteries..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to the hearer's imagination/reflection.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as an explanation of a grace-filled moment in history.",
+      "epifanisch_taalgebruik": "Limited to the grandmother anecdote.",
+      "tekstueel_bewijs": [
+        "The Bible and the lavender water blended... and became 'living water'."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'to be' (is/was) and 'to think'. Needs more 'to promise' and 'to declare'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The central idea here is the power of Jesus to save.",
+          "voorgestelde_revisie": "Today, from this cross, Jesus saves you.",
+          "verschil": "Shifts from a 'central idea' (Assertive) to a 'saving act' (Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is kept in the 1st century.",
+      "suggestie": "Apply the 'Today' of the text to the 'Today' of the congregation.",
+      "voorbeeldzinnen": [
+        "To you who feel like a wretch, Jesus says: Today you are with me."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'He' (Jesus/Thief).",
+      "suggestie": "Increase 'You' (Congregation) in the context of grace.",
+      "voorbeeldzinnen": [
+        "He remembers YOU in His kingdom."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'Think' is not preceded by a declarative 'You are forgiven'.",
+      "suggestie": "Declare the thief's reality as the hearer's reality before asking them to 'think'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is homiletically rich and exegetically sound, but it requires a shift from 'talking about' the promise to 'delivering' the promise to become a truly sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (grandmother story); SAT reveals this story lacks the 'Declarative' power to change the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetorically, the cemetery imagery is excellent; SAT shows it is illocutionarily 'Assertive' (descriptive) rather than 'Commissive' (binding).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Amazing Grace' quote, the preacher hasn't actually performed an act of grace toward the listener."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "means",
+        "described",
+        "called",
+        "demonstrate",
+        "sent",
+        "contains"
+      ],
+      "directief": [
+        "think",
+        "listen",
+        "stop",
+        "envision",
+        "let us"
+      ],
+      "expressief": [
+        "believe",
+        "thank",
+        "hope",
+        "remember"
+      ],
+      "commissief": [
+        "will bring",
+        "promise"
+      ],
+      "declaratief": [
+        "saved"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Today you will be with me in Paradise.",
+        "categorie": "Locutionary Report",
+        "illocutionaire_kracht": "Assertive (Reporting Jesus' words)",
+        "effectiviteit": "Weak (The preacher reports the act rather than performing it)."
+      }
+    ],
+    "notities": "The sermon suffers from 'Historical Distance'. The preacher acts as a bridge that describes the other side but doesn't carry the hearer across."
+  }
+}

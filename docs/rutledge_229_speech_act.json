@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "titel_preek": "Heirs of God",
+    "bijbeltekst": "Romans 8:9–17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the concept of 'inheritance' through sociological analogies (tabloids, Greenwich wealth), historical context (American Bicentennial), and biblical exegesis of Romans 8. It defines inheritance as both suffering and glory.",
+      "exegetische_kwaliteit": "Moderate. The preacher uses Luther and Barth as authorities but relies heavily on contemporary analogies to bridge the gap between the text and the Greenwich audience.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts truths about the nature of Christian identity and commands a change in behavior (recklessness) based on that identity.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "That, incredibly, is what we are.",
+        "Let us be reckless in the name of Christ!",
+        "I want to behave like a fellow-heir of Christ."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the congregation from financial/social security to a 'reckless' spiritual security that embraces suffering.",
+      "pneumatologisch_bewustzijn": "Explicitly mentioned as the 'guarantor' of the inheritance, though the sermon's own delivery relies more on rhetorical persuasion than sacramental invocation.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "risk",
+        "rejoice",
+        "steward",
+        "sacrifice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "70%",
+      "voorbeelden": [
+        "Inheritance, then, is a complex matter.",
+        "St. Paul says the Holy Spirit himself is the guarantor.",
+        "There is only one rock to build on."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "means",
+        "inherits"
+      ]
+    },
+    "directieven": {
+      "frequentie": 18,
+      "procent": "10%",
+      "voorbeelden": [
+        "Do not let that fact lull you.",
+        "Let us be reckless in the name of Christ!",
+        "Compare it to the gospel."
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "be",
+        "compare",
+        "do"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": 22,
+      "procent": "12%",
+      "voorbeelden": [
+        "I think I can imagine...",
+        "I want to behave like...",
+        "I hope to do before I die..."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "want",
+        "hope",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 12,
+      "procent": "6%",
+      "voorbeelden": [
+        "God has prepared an inheritance for him.",
+        "He will share his glory.",
+        "The return on his investment was guaranteed."
+      ],
+      "dominante_werkwoorden": [
+        "guarantees",
+        "promises",
+        "will share"
+      ],
+      "kwaliteit": "Strong theological content but often framed in the 3rd person ('God promises') rather than the 1st person performative ('I promise you in God's name')."
+    },
+    "declaratieven": {
+      "frequentie": 4,
+      "procent": "2%",
+      "voorbeelden": [
+        "That, incredibly, is what we are.",
+        "You too are heirs."
+      ],
+      "dominante_werkwoorden": [
+        "are"
+      ],
+      "autoriteit": "The preacher uses the authority of the text to redefine the audience's status, but stops short of a full sacramental declaration like 'I pronounce you heirs'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive sociological descriptions of Greenwich wealth.",
+        "Long historical lists of American heritage.",
+        "Talking 'about' Luther and Barth's views on the text."
+      ],
+      "effect_op_hoorder": "The hearer receives a lecture on the 'concept' of inheritance rather than being 'given' the inheritance in the moment."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct sacramental 'Toezegging' (Promise)",
+        "Present-tense creative word"
+      ],
+      "effect_op_hoorder": "The hearer is inspired to change but may not feel the 'event' of being changed by the Word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 3,
+      "kwaliteit_toezeggen": "The promises are present but often descriptive (Assertive) rather than performative (Commissive).",
+      "voorbeelden": [
+        "God has adopted him as his heir.",
+        "He has prepared an inheritance for him."
+      ],
+      "moment_in_preek": "Middle and End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 45,
+        "gebruik": "Personal anecdotes and self-identification with the struggle."
+      },
+      "tweede_persoon": {
+        "frequentie": 12,
+        "gebruik": "Directly challenging the Greenwich congregation's comfort.",
+        "performatieve_context": "Used mostly in the final third to apply the 'recklessness' directive."
+      },
+      "derde_persoon": {
+        "frequentie": 110,
+        "gebruik": "Discussing 'heirs', 'the rich', 'the poor', 'St. Paul', and 'Luther'.",
+        "distantie_effect": "Creates a significant distance; the sermon feels like a reflection on a topic."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical examples (Bicentennial, Luther, Grandmother)."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "General truths about what an inheritance 'is'."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The 'Now' of the Greenwich context."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon moves from describing the 'American Dream' (Assertive) to 'Be reckless' (Directive) without a strong middle Declarative.",
+      "voorbeelden": [
+        "Inheritance is complex... Let us be reckless."
+      ],
+      "probleem": "Moralism risk: the call to be reckless feels like a human work rather than a response to a given status."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The section on the Spirit as guarantor provides a brief sacramental link.",
+      "voorbeelden": [
+        "The Spirit speaking for him... guaranteeing that his hope is not in vain."
+      ],
+      "kwaliteit": "Theologically sound but rhetorically buried under anecdotes."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "I am an heir of God! ... I want to behave like a fellow-heir."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "The call to be 'reckless' is based more on the example of the grandmother than the declarative work of Christ."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While evangelical in content, the sermon functions as an appeal to the will (Directive) based on a description of identity (Assertive), rather than a sacramental bestowal of that identity (Declarative).",
+    "sterke_punten": [
+      {
+        "aspect": "Contextualization",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The comparison of inheritance to Greenwich social security.",
+        "effect": "Makes the biblical concept concrete and biting."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The long list of American historical sins.",
+        "probleem": "It becomes a history/sociology lesson, losing the 'event' character.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is an 'event' of social reflection, but less so a 'sacramental event' where God speaks directly to the soul.",
+    "sacramentele_kracht": 4,
+    "sacramentele_toelichting": "The preacher speaks *about* God's promise more than she speaks *the* promise."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the object of the sermon, but rarely the subject acting through the preacher's voice.",
+      "prediker_als_mandataris": "The preacher acts as an insightful commentator/witness rather than a mandatory.",
+      "tekstueel_bewijs": [
+        "If there’s one thing I hope to do before I die, it is to pass on..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as the guarantor of the inheritance.",
+      "perlocutie_theologie": "Implicitly left to the Spirit, but the preacher tries to 'engineer' the effect through powerful anecdotes.",
+      "tekstueel_bewijs": [
+        "The return on his investment was guaranteed by the Holy Spirit."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Weak. The sermon is more of a 'call to action' than a 'means of grace'.",
+      "epifanisch_taalgebruik": "Low. The language is predominantly discursive and anecdotal.",
+      "tekstueel_bewijs": [
+        "I think of three couples I know..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'was' verbs; needs more 'I give' and 'You are' verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "St. Paul says the Holy Spirit himself is the guarantor of our inheritance.",
+          "voorgestelde_revisie": "Today, the Holy Spirit guarantees to you: this inheritance is yours, and no power on earth can snatch it from your hand.",
+          "verschil": "Moves from a report about Paul to a direct promise to the hearer."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is treated as a fact to be believed rather than a gift to be received.",
+      "suggestie": "Use the second person plural to distribute the 'legacy' during the sermon.",
+      "voorbeeldzinnen": [
+        "I declare to you this morning: you are no longer slaves to your bank accounts, but heirs of the Living God."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Confront the 'Greenwich' identity directly with the 'Heir' identity.",
+      "voorbeeldzinnen": [
+        "You, sitting in these pews, are the ones Christ calls fellow-heirs."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'recklessness' feels like a new law.",
+      "suggestie": "Ground the recklessness in the absolute security of the declaration."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically brilliant and contextually sharp, but it risks remaining a 'talk about' inheritance rather than becoming the 'event' of the inheritance itself."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (her grandmother, her hopes). SAT focuses on whether the 'Declarative' actually changed the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetoric admires the 'Greenwich' analogies; SAT asks if those analogies create a 'Constative Surplus' that blocks the Illocutionary force of the Gospel.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power is diluted by its descriptive nature (Assertives), even though the content is orthodox."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "are",
+        "describing",
+        "acknowledges",
+        "means",
+        "writing",
+        "calls",
+        "corrupt",
+        "fails"
+      ],
+      "directief": [
+        "compare",
+        "do not let",
+        "be",
+        "look",
+        "suggest"
+      ],
+      "expressief": [
+        "imagine",
+        "think",
+        "hope",
+        "want",
+        "feel"
+      ],
+      "commissief": [
+        "guarantees",
+        "prepared",
+        "will share",
+        "promised"
+      ],
+      "declaratief": [
+        "are (in 'You are heirs')",
+        "appointed"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Heirs of God! That, incredibly, is what we are.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "This is the performative peak of the sermon."
+      },
+      {
+        "zin": "Let us be reckless in the name of Christ!",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Moderate",
+        "effectiviteit": "Strong as an appeal, but lacks the 'power' of a preceding declarative."
+      }
+    ],
+    "notities": "The sermon is a classic example of 1970s 'Liberal-Evangelical' preaching: high on social description and personal anecdote, but struggling to move into the purely performative/sacramental mode of the 'Word as Event'."
+  }
+}

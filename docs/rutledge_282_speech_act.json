@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "titel_preek": "Noah’s Ark: Salisbury",
+    "bijbeltekst": "Genesis 6-9; 1 Peter 3:20-21",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A theological exposition of the Noah narrative, contrasting it with Mesopotamian myths and linking it to the Lenten lectionary and Baptism.",
+      "exegetische_kwaliteit": "High. Focuses on the 'theological sophistication' and the 'organic connection' between the Testaments.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting theological truths and explaining the 'bigger picture' of sin and grace.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The story begins with a divine decision to wipe out the human race.",
+        "The concept of God that appears here is a world away from the squabbling nature deities."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Conviction of sin and intellectual appreciation for God's plan of salvation.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the word's effect.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "grasp",
+        "recognize",
+        "see",
+        "think"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The story of Noah’s ark is probably the most well-known...",
+        "God is majestic and purposeful.",
+        "It is the first step in God’s mighty plan."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "shows",
+        "points up"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Next time, think of this...",
+        "If we look at them carefully...",
+        "We are supposed to understand..."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "look",
+        "understand"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "I have no way of knowing how all this affects you, but I know how it affects me.",
+        "I am deeply convicted..."
+      ],
+      "dominante_werkwoorden": [
+        "know",
+        "feel",
+        "am convicted"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "It is his guarantee of protection against the effects of our own rapacity."
+      ],
+      "dominante_werkwoorden": [
+        "guarantee",
+        "promises"
+      ],
+      "kwaliteit": "Weak. The preacher describes God's promise in the third person rather than speaking it as a direct promise to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "Low. The preacher remains an observer/teacher rather than a mandatory of the Word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive comparison with Gilgamesh",
+        "Detailed explanation of the lectionary structure",
+        "Third-person descriptions of God's actions ('The Lord saw', 'God has picked him out')"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical/theological drama rather than a participant in a current encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise (Toezegging)",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential impact."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon talks ABOUT the promise of the rainbow, but does not PROMISE the hearer God's grace today.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Mostly 'we' (inclusive teacher) or 'I' (personal testimony at the end)."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Used to address the audience's potential questions ('you may be wondering') or to give a directive ('Next time, think of this').",
+        "performatieve_context": "Minimal."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Dominates the text. Talking about Noah, God, the Bible, and the world.",
+        "distantie_effect": "Creates a lecture-hall atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical narrative of Genesis."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological truths about God's nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Lenten context and final testimony."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Explanation of Noah) -> Directive (Think of the rainbow).",
+      "voorbeelden": [
+        "The rainbow bridge leads to the Cross... (Assertive) -> Amen."
+      ],
+      "probleem": "The indicative is never 'turned' toward the hearer as a declarative gift before the directive is given."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "None"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The Bible demands that we see the bigger picture."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-level theological lecture. It explains the 'meaning' of the text but fails to 'do' the text to the congregation.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The concept of God that appears here is a world away from the squabbling nature deities.",
+        "effect": "Corrects shallow, moralistic views of the story."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "It is the sign of God’s promise not to destroy us.",
+        "probleem": "Uses 'us' and 'it is' (Assertive) instead of 'I promise you' (Commissive).",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an 'event' of learning, but not a 'sacramental event' of encounter.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher describes the means of grace (Baptism) but does not operate as one."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the talk, not the speaker of the sermon.",
+      "prediker_als_mandataris": "Weak. The preacher acts as an expert/teacher.",
+      "tekstueel_bewijs": [
+        "I’m not going to spend any time on that.",
+        "I wish we had time to dwell on..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly relies on the hearer's cognitive processing.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a commentary on the lectionary.",
+      "epifanisch_taalgebruik": "No. It is descriptive/constative.",
+      "tekstueel_bewijs": [
+        "St. Peter says... that the Flood is the image of Baptism."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'to be' and 'to mean'. Lack of performative verbs like 'forgive', 'bless', 'promise'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "It is his guarantee of protection.",
+          "voorgestelde_revisie": "Today, God guarantees you: I will not destroy you.",
+          "verschil": "Shifts from a fact about God to an act of God."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace is kept in the 3rd person.",
+      "suggestie": "Use the 2nd person to apply the 'Ark' of Christ to the hearer.",
+      "voorbeeldzinnen": [
+        "In the midst of your storm, Christ is your Ark."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'the Bible'.",
+      "suggestie": "Directly address the 'you' in the pews.",
+      "voorbeeldzinnen": [
+        "You are the ones God has selected for a new beginning."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'think of this' is not preceded by a declarative gift.",
+      "suggestie": "Declare the cross as the hearer's safety before asking them to think about it."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically rich and intellectually stimulating, but requires a shift from 'talking about' to 'proclaiming to' to become a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' at the end; SAT reveals the preacher is failing to use the 'Creative Word' (Declarative).",
+    "verschil_met_retoriek": "Rhetorically, the sermon is elegant; illocutionarily, it is 'hollow' because it describes a promise without making one.",
+    "unieke_inzichten_SAT": "SAT exposes that even an orthodox, Christ-centered sermon can be 'constative' and thus fail to be an 'event' of grace."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "means",
+        "shows",
+        "points up",
+        "tells",
+        "says",
+        "thinks",
+        "understands"
+      ],
+      "directief": [
+        "look",
+        "think",
+        "understand",
+        "grasp",
+        "recognize"
+      ],
+      "expressief": [
+        "wondering",
+        "know",
+        "am convicted",
+        "wish"
+      ],
+      "commissief": [
+        "guarantee"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The rainbow bridge leads to the Cross.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a theological map.",
+        "effectiviteit": "Informative but distant."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus'. It is a lecture on the theology of the Flood rather than a proclamation of the Gospel through the Flood."
+  }
+}

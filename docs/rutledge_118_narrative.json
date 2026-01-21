@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "The Once and Future Doctrine",
+    "bijbeltekst": "The Epistle to the Galatians",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in human history to rectify/justify humanity through Christ, ending the reign of 'Religion' and 'Law' which hold the human will captive.",
+      "subject": {
+        "identificatie": "God / Jesus Christ",
+        "tekstueel_bewijs": [
+          "God himself has acted to create a completely new situation.",
+          "The gospel is from beginning to end something that God does.",
+          "Jesus... is the power and the agent of God’s salvation."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Rectification (Justification) / Freedom from the Law",
+        "tekstueel_bewijs": [
+          "the freedom we have in Christ Jesus",
+          "the balance sheet is made right in Christ"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as the source of Grace)",
+        "tekstueel_bewijs": [
+          "the God who called you in his grace"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity / The Hearer",
+        "tekstueel_bewijs": [
+          "may it be the same for us"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / Paul (as Apostle)",
+        "tekstueel_bewijs": [
+          "lead your daily life guided by the Spirit",
+          "Paul understands himself to have been directly commissioned"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Indwelling power"
+      },
+      "tegenstander": {
+        "identificatie": "The Flesh / Sin / The Law / 'Religion'",
+        "tekstueel_bewijs": [
+          "The Flesh is actively inclined against the Spirit",
+          "the enemy has seized an advantage",
+          "human wills are bound over to error"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad behavior but an ontological power ('The Flesh') that binds the human will, making self-rescue impossible."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The believer living a life guided by the Spirit as a consequence of being set right.",
+      "subject": "The Rectified Person",
+      "object": "Right conduct / Freedom from impulsive desires",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is strictly a result of the primary program (soteriology). The Spirit leads the person because they are no longer under the Law."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Rectification/Freedom → Humanity",
+      "helper_subject_tegenstander": "Holy Spirit → God/Christ ← Sin/Flesh/Law",
+      "subject_naar_object": "God → Salvation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God himself has acted",
+        "God is doing",
+        "the God who called you"
+      ],
+      "voorbeelden_mens_subject": [
+        "we go to church",
+        "we pray",
+        "we catch ourselves looking down on others"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "knowing that racism is against the will of God"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I never wanted to take drugs"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "most Episcopalians have no idea how foundational it is"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "our human wills are bound",
+          "if I could avoid procrastination... my problem would have been solved",
+          "Jesus... is the power"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the human LACK of power (impotence) and God's GIFT of power (grace). It rejects 'Devoir' (Law) as a means of salvation."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Spirit",
+      "s2": "Law/Flesh",
+      "niet_s1": "Religion/Works",
+      "niet_s2": "Freedom/Rectification"
+    },
+    "beweging_in_preek": "From S2 (Law/Judgment) through the negation of Niet-S1 (Religion is not enough) to S1 (Grace).",
+    "theologische_resolutie": "Christ takes the judgment of S2, granting the freedom of S1.",
+    "ernst_van_s2": "Extremely high; the 'balance sheet' and 'Judgment Day' are presented as inescapable realities."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly defines the gospel as 'something God does' and 'the end of religion,' placing the agency entirely on the Divine Subject.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in Paul's scars",
+        "tekstueel_bewijs": "I bear in my body scars... may it be the same for us.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (God as Actor)",
+        "tekstueel_bewijs": "The gospel is from beginning to end something that God does, not something that we do.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "we live under the power of sin and death.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Paul is used as a 'commander' or 'messenger,' but not as a moral example to be imitated by human effort.",
+      "bijbelse_figuren_als_model": [
+        "Paul"
+      ],
+      "alternatieve_lezing": "Paul is a recipient of grace whose will was bound until Christ freed him."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of self-justification; 'liberation of the human spirit.'",
+      "theologische_implicatie": "Monergistic salvation; God is the sole author of the 'rectified' state."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The sermon maintains a strict hierarchy where ethics (Spirit-led life) is the fruit, never the root, of justification.",
+      "spanning_punten": [
+        "The tension between 'free will' in American culture and 'bound will' in Pauline theology."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION / RECTIFICATION",
+      "tekstueel_bewijs": "the balance sheet is made right in Christ",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir' (power) that the Law could only provide as 'Devoir' (obligation)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total; the will is 'bound' and cannot 'just say no.'"
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of a theocentric narrative. God is the Subject of all redemptive verbs.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_halans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this imbalance is theologically intentional to counter moralism.",
+      "concrete_suggestie": "None"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Opponent (Sin/Flesh) is already presented as an invincible cosmic power.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon masterfully deconstructs the 'Subject-Hearer' of moralism and replaces it with the 'Subject-God' of the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the use of the NY Times as a hook, semiotics reveals that the news clipping serves as a 'Sender' of a specific value system (Justification).",
+    "verschil_met_exegese": "Exegesis explains what Paul meant; Greimassian analysis shows how the sermon's 'engine' actually functions to move the hearer from slavery to freedom.",
+    "unieke_inzichten_greimas": "Reveals that 'Religion' is the primary 'Opponent' in this specific narrative structure, functioning as a false 'Helper'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God called you",
+      "God has acted",
+      "Jesus is the power",
+      "The Spirit leads",
+      "The Flesh is inclined against"
+    ],
+    "volledige_object_lijst": [
+      "Freedom",
+      "Rectification",
+      "The Gospel",
+      "Salvation"
+    ],
+    "werkwoord_frequentie": {
+      "act/acted": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "justify/rectify": {
+        "count": "8",
+        "primair_subject": "God"
+      },
+      "do/doing": {
+        "count": "12",
+        "primair_subject": "God (in context of Gospel)"
+      }
+    },
+    "notities": "The sermon uses the 'balance sheet' metaphor to ground the abstract concept of justification in a relatable 'Object' of desire."
+  }
+}

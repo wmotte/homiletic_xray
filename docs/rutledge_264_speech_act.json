@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "titel_preek": "The Master and the Best Man",
+    "bijbeltekst": "John 3:27-30",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon contrasts Jesus with other 'spiritual masters' (Dalai Lama, Richard Gere) and defines Jesus' identity through the Nicene Creed and John the Baptist's testimony.",
+      "exegetische_kwaliteit": "Moderate. Focuses on the metaphor of the bridegroom and the Christological identity in John 3, though it leans heavily on systematic theology (Nicene Creed) rather than narrative exegesis.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is asserting the uniqueness of Christ and testifying to his lordship, with occasional moments of promising.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Jesus is not a great master; he is the great Master.",
+        "The preacher today... has nothing to give you but Jesus."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should recognize Jesus as the unique Savior and move toward adoration (Nicene faith).",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event'.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "adore",
+        "distinguish",
+        "acknowledge"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 85,
+      "procent": "80%",
+      "voorbeelden": [
+        "Christian faith is completely different from that of other religions.",
+        "The human race is in a desperate fix."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "contains",
+        "states"
+      ]
+    },
+    "directieven": {
+      "frequentie": 4,
+      "procent": "4%",
+      "voorbeelden": [
+        "Don’t look at me; look at Jesus.",
+        "O come let us adore him."
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "come",
+        "adore"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": 12,
+      "procent": "10%",
+      "voorbeelden": [
+        "I found myself pleasantly surprised by it.",
+        "It gladdens me this morning to remember."
+      ],
+      "dominante_werkwoorden": [
+        "found",
+        "love",
+        "gladdens",
+        "associate"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 3,
+      "procent": "3%",
+      "voorbeelden": [
+        "The preacher today... has nothing to give you but Jesus."
+      ],
+      "dominante_werkwoorden": [
+        "give",
+        "proclaims"
+      ],
+      "kwaliteit": "Weak. The 'giving' is stated as a fact of the preacher's intent rather than a direct divine promise to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "2%",
+      "voorbeelden": [
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "Low. The sermon describes the 'event' of the Nicene Creed rather than performing a new reality in the moment."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive discussion of the Dalai Lama interview",
+        "Analysis of Gallup polls",
+        "Historical description of the Nicene Creed"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological debate or a cultural comparison rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise to the 'you'",
+        "Sacramental 'now'"
+      ],
+      "effect_op_hoorder": "Information about the Savior is provided, but the Savior is not 'handed over' to the hearer."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 1,
+      "kwaliteit_toezeggen": "The 'giving' of Jesus is mentioned at the end, but it remains somewhat abstract.",
+      "voorbeelden": [
+        "The preacher today... has nothing to give you but Jesus."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 22,
+        "gebruik": "Personal anecdotes (Aunt Mary) and homiletical reflection."
+      },
+      "tweede_persoon": {
+        "frequentie": 4,
+        "gebruik": "Very limited; only appears at the very end to offer Jesus.",
+        "performatieve_context": "Used in the final 'giving' of Jesus."
+      },
+      "derde_persoon": {
+        "frequentie": 65,
+        "gebruik": "Dominant. Talking about 'the human race', 'Americans', 'the Dalai Lama', and 'Jesus'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where the subject is 'out there'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical anecdotes and biblical context."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions (Nicene Creed) and cultural analysis."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate act of preaching at the end."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Jesus is God) -> Directive (Adore Him).",
+      "voorbeelden": [
+        "The sermon defines Jesus' divinity and then moves to the hymn 'O come let us adore him'."
+      ],
+      "probleem": "It lacks the middle step of the Commissive/Declarative where the grace is actually applied to the hearer before the call to response."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Insufficient"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The human race is in a desperate fix... The proclamation is that the Lord is on his way."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions primarily as a theological clarification of Christ's identity against cultural alternatives, rather than a sacramental delivery of Christ.",
+    "sterke_punten": [
+      {
+        "aspect": "Christological Clarity",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "Jesus was not a master; he was the Master.",
+        "effect": "Provides a strong intellectual foundation for faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The long section on the Gallup poll and Richard Gere.",
+        "probleem": "Distracts from the immediate encounter with the Word.",
+        "ernst": "HIGH"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is more of a 'talk about' the event of Advent than being the event itself.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher remains a teacher/observer for 90% of the text."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, but the preacher speaks mostly as a commentator on theology.",
+      "prediker_als_mandataris": "Claimed at the end ('The preacher... has nothing to give you'), but not sustained.",
+      "tekstueel_bewijs": [
+        "The preacher today... has nothing to give you but Jesus."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Not explicitly addressed.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The preacher aims for this in the final paragraph, but the bulk of the sermon is apologetic.",
+      "epifanisch_taalgebruik": "Limited to the quotes of the Nicene Creed.",
+      "tekstueel_bewijs": [
+        "God from God, Light from light eternal"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is/was' verbs describing third parties; too few 'I/You' verbs performing the promise.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The human race does not need any more spiritual masters; it needs a Savior.",
+          "voorgestelde_revisie": "You do not need another teacher; today, this Savior comes to rescue you.",
+          "verschil": "Shifts from a general truth to a direct address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in a description of what the preacher 'has' to give.",
+      "suggestie": "Use direct commissive language.",
+      "voorbeeldzinnen": [
+        "I announce to you today: this Jesus is your Lord.",
+        "He comes now to forgive your sins and lead you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he/they' (Dalai Lama, Gallup, Gere).",
+      "suggestie": "Reduce the cultural commentary and increase 'You' (the congregation).",
+      "voorbeeldzinnen": [
+        "You are the bride he comes to claim."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to 'adore' is not sufficiently preceded by the 'gift' of the person.",
+      "suggestie": "Make the 'giving' of Jesus the climax before the 'Amen'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is theologically sound and culturally engaging, but it risks remaining a lecture. By shifting from 'talking about' Jesus to 'handing over' Jesus to the 'you' in the pews, it would achieve true sacramental power."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (Aunt Mary), whereas SAT focuses on the 'Declarative' authority of the office.",
+    "verschil_met_retoriek": "Rhetoric would praise the use of the Dalai Lama hook; SAT critiques it for creating a 'Constative Surplus'.",
+    "unieke_inzichten_SAT": "SAT reveals that despite the orthodox content, the illocutionary force is primarily informative rather than transformative."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "contains",
+        "describes",
+        "agreed",
+        "concluded"
+      ],
+      "directief": [
+        "look",
+        "prepare",
+        "come",
+        "adore"
+      ],
+      "expressief": [
+        "love",
+        "rejoice",
+        "gladdens",
+        "associate"
+      ],
+      "commissief": [
+        "give",
+        "proclaim"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He must increase, but I must decrease.",
+        "categorie": "Assertive/Directive",
+        "illocutionaire_kracht": "Quoting a biblical imperative.",
+        "effectiviteit": "Strong as a theme, but remains a quote rather than a direct address."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'authority of the Creed' to do the work that the 'authority of the living word' should do in the moment."
+  }
+}

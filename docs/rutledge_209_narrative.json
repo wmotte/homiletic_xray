@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "But Now …",
+    "bijbeltekst": "Romans 3:21–22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in a world held captive by the cosmic power of Sin to liberate humanity through the righteousness of Jesus Christ.",
+      "subject": {
+        "identificatie": "God (specifically God in Christ)",
+        "tekstueel_bewijs": [
+          "God put forward [Christ] as an expiation",
+          "God had acted in Jesus Christ powerfully to impute his righteousness",
+          "He comes to meet us and liberate us"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Righteousness of God / Deliverance of Humanity",
+        "tekstueel_bewijs": [
+          "the righteousness of God has been manifested",
+          "acquittal and life for all men"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Gospel itself",
+        "tekstueel_bewijs": [
+          "the proclamation of the Christian faith never begins with sin, but with grace",
+          "the power of God for salvation"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "All who believe / The Human Race",
+        "tekstueel_bewijs": [
+          "for all who believe",
+          "leads to acquittal and life for all men"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ / The Apostle Paul (as witness) / The Holy Spirit (implied in grace)",
+        "tekstueel_bewijs": [
+          "through the redemption which is in Christ Jesus",
+          "Paul who turns our attention"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Sin (Capital 'S'), Death, and the Wrath of God (as opposition to Sin)",
+        "tekstueel_bewijs": [
+          "an enslaving power external to man",
+          "the Enemy of his creation",
+          "the evil Power than holds his creatures in bondage"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described not as a mistake but as an 'alien power' and 'primordial catastrophe' that humanity cannot escape on its own."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer recognizing their own bondage and receiving the news of salvation.",
+      "subject": "The Hearer / Martin Luther (as archetype)",
+      "object": "Knowledge of Sin / Peace with God",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (human response) is strictly a result of the primary program (God's action). 'You cannot know that you are lost until deliverance has begun to dawn on you.'"
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Righteousness/Life → Humanity",
+      "helper_subject_tegenstander": "Christ → God ← Sin/Death",
+      "subject_naar_object": "God → Justification of the Ungodly"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "15",
+      "ratio": "2.8:1",
+      "voorbeelden_god_subject": [
+        "God has acted in Jesus Christ",
+        "God put forward [Christ]",
+        "He comes to meet us and liberate us"
+      ],
+      "voorbeelden_mens_subject": [
+        "we stubbornly refuse to see it",
+        "we cling to the myth of our own innocence",
+        "if you are troubled..."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "If we are not prepared to talk about sin, we really cannot read the Bible"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "will we read the letters of Paul as secondary...?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "the knowledge of Sin is given only to those who have begun to know the mercy of God"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "the power of God for salvation",
+          "unable to extricate ourselves",
+          "Sin and Death no longer have dominion"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) of God overcoming the 'Power' of Sin. Human 'Devoir' is rendered impossible by Sin, thus God provides the 'Pouvoir' through Christ."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Righteousness/Life",
+      "s2": "Sin/Death/Wrath",
+      "niet_s1": "Unrighteousness/Bondage",
+      "niet_s2": "Acquittal/Justification"
+    },
+    "beweging_in_preek": "From the 'old condemned life' (~S1) through the 'Wrath' (S2) to the 'world-transforming now' (~S2) into 'Righteousness' (S1).",
+    "theologische_resolutie": "The resolution is found in the 'fusion' of wrath and mercy at the Cross, where God justifies the ungodly.",
+    "ernst_van_s2": "Extremely high; Sin is treated as a cosmic enemy, not a moral lapse."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is rigorously theocentric. God is the primary actor; humans are the receivers of a deliverance they cannot initiate.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (Luther)",
+        "tekstueel_bewijs": "Luther is used as an example of despair, but his breakthrough is credited to the text/God, not his effort.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "God had acted in Jesus Christ powerfully to impute his righteousness",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Sin is the fundamental condition of man... an enslaving power external to man",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Luther is used as a narrative mirror for the hearer's despair, but the 'hero' of Luther's story is the Word of God.",
+      "bijbelse_figuren_als_model": [
+        "Paul",
+        "Luther (Historical figure)"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: God saves Luther through the Word."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and assurance; moving from 'troubled' to 'rejoicing'.",
+      "theologische_implicatie": "Monergistic salvation; God does the work, man receives the benefit."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The narrative hierarchy is perfectly maintained: God's act (Soteriology) precedes and enables human awareness and response.",
+      "spanning_punten": [
+        "The paradox that one only knows sin after grace has arrived."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "the Judge himself had gotten up off the bench and come down into the dock to stand alongside the guilty prisoner",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on Christ and the Word; the Spirit's role is implicit in the 'power' of the Gospel."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; Sin is an 'alien power' and 'enslaving'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in theocentric narrative. God is the Subject of all redemptive action.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for a sermon on Romans 3.",
+      "concrete_suggestie": "None"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Already cosmic and heavy.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "N/A"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon perfectly exemplifies the 'Grammar of Grace' by keeping God as the Subject of the active verbs of salvation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis might focus on the use of the 'But now' pivot, Greimasian analysis shows this pivot is actually a Subject-switch from Sin's dominion to God's action.",
+    "verschil_met_exegese": "Exegesis explains the Greek word for righteousness; semiotics shows how that word functions as the 'Object' of value transferred from Sender to Receiver.",
+    "unieke_inzichten_greimas": "Greimas reveals that the sermon's power comes from the 'Heavy Opponent' (Sin with a capital S), which necessitates a Divine Subject, ruling out any moralistic 'Helper' theology."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (manifested, put forward, acted, justified)",
+      "Sin (reigned, holds in bondage)",
+      "Christ (died, was raised, meets us)",
+      "Luther (struggled, saw, trembled)"
+    ],
+    "volledige_object_lijst": [
+      "Righteousness",
+      "Acquittal",
+      "Deliverance",
+      "The new creation"
+    ],
+    "werkwoord_frequentie": {
+      "justify": {
+        "count": "6",
+        "primair_subject": "God"
+      },
+      "save": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "sin": {
+        "count": "12",
+        "primair_subject": "Man/Power"
+      }
+    },
+    "notities": "The sermon uses the 'But now' as a semiotic hinge between two aeons."
+  }
+}

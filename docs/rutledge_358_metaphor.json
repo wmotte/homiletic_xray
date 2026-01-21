@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "It Ain't Necessarily So",
+    "bijbeltekst": "1 Corinthians 15:17, 20-22",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "drifting away from the path of truth",
+          "call them back"
+        ],
+        "conceptuele_metafoor": "FAITH IS A PATH"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "plug even one hole in the dike",
+          "nailed into place",
+          "stand"
+        ],
+        "conceptuele_metafoor": "TRUTH IS A PROTECTIVE BARRIER"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "strike a blow against the prevailing fashion",
+          "victory through Jesus Christ"
+        ],
+        "conceptuele_metafoor": "PREACHING IS WARFARE"
+      },
+      {
+        "domein_type": "AGRARIAN",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "first fruits of those who have fallen asleep"
+        ],
+        "conceptuele_metafoor": "RESURRECTION IS HARVEST"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "drifting away from the path of truth and life",
+        "brondomein": {
+          "naam": "Journey/Navigation",
+          "concrete_elementen": [
+            "path",
+            "drifting",
+            "direction"
+          ],
+          "belichaamde_basis": "path"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Orthodoxy/Faithfulness",
+          "doctrinale_traditie": "Pauline/Protestant"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Path",
+            "doel_element": "Truth/Gospel"
+          },
+          {
+            "bron_element": "Drifting",
+            "doel_element": "Theological error"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Error is unintentional but dangerous movement away from a fixed line."
+          ],
+          "theologische_implicaties": [
+            "Truth is a static, objective destination."
+          ],
+          "ethische_implicaties": [
+            "The believer must exert effort to stay 'on track'."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that those who 'drift' are lost or outside the boundary of safety."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A standard biblical metaphor for moral conduct, though 'drifting' adds a sense of passive danger."
+      },
+      {
+        "metafoor_expressie": "first fruits of those who have fallen asleep",
+        "brondomein": {
+          "naam": "Agriculture",
+          "concrete_elementen": [
+            "harvest",
+            "first crop",
+            "ripening"
+          ],
+          "belichaamde_basis": "balance/cycle"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Resurrection",
+          "doctrinale_traditie": "Biblical/Eschatological"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "First fruits",
+            "doel_element": "The Risen Christ"
+          },
+          {
+            "bron_element": "General Harvest",
+            "doel_element": "Future resurrection of believers"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The first event guarantees the subsequent events."
+          ],
+          "theologische_implicaties": [
+            "Christ's resurrection is not an isolated miracle but the start of a process."
+          ],
+          "ethische_implicaties": [
+            "Patience and hope during the 'growing season' of life."
+          ],
+          "onbedoelde_consequenties": [
+            "May imply a natural, automatic process rather than a divine act of will."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes this by contrasting it with the 'imagination' of the book review, making the 'fruit' a hard fact of history."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon maintains a strong tension between 'Imagination' (Source: Internal/Subjective) and 'Event' (Source: External/Objective). The metaphors of 'digging' and 'anchoring' support the objective side.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "DEATH IS SLEEP (Fallen asleep)",
+          "metafoor_b": "DEATH IS AN ENEMY (Victory/Victory through Christ)",
+          "conflict_beschrijving": "Sleep is peaceful and natural; an enemy is violent and external.",
+          "entailment_conflict": "If death is just sleep, why is a 'victory' or 'miraculous intervention' required to wake up?",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Introduction",
+          "gemengde_metaforen": [
+            "Archaeology (Digging)",
+            "Theology (Scripture)"
+          ],
+          "blending_strategie": "Uses the physical act of 'unearthing' to frame the intellectual act of 'debunking'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'witness' metaphor by using the modern recording of a deceased man.",
+        "voorbeeld": "We all heard his voice, clear and strong, reading these words... six days before his own death."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The preacher risks reducing faith to historical/archaeological data points.",
+        "voorbeeld": "The more the archaeologists uncovered... the more their finds corroborated the stories.",
+        "potentiele_impact": "Congregants may lose faith if archaeological consensus shifts again.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Archaeological Dig / The Courtroom of History",
+      "sub_worlds": [
+        "The Corinthian Church",
+        "The Funeral of Cook Kimball",
+        "The Gershwin Song 'It Ain't Necessarily So'"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to Cook Kimball",
+          "van_wereld": "Ancient Corinth",
+          "naar_wereld": "Modern New York Funeral",
+          "effectiviteit": "High; bridges the gap between 'ancient claim' and 'modern reality'."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Scripture as Foundation",
+          "hoe_versterkt": "By emphasizing the 'nailed into place' connection between Old and New Testaments."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Faith as Human Imagination",
+          "verstoring_strategie": "Contrasting 'brilliant product of imagination' with 'miraculous revelation'.",
+          "vervangend_schema": "Faith as Response to Objective Event"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Service of the Word' where the reading of the text is the central event."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon relies heavily on the 'TRUTH IS AN OBJECTIVE OBJECT' metaphor, which is effective for a polemic against theological liberalism. It successfully uses the 'VOICE FROM THE GRAVE' as a living metaphor for the Resurrection.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SIN IS A CONDITION (Still in your sins)",
+        "huidige_status": "Dead/Conventional",
+        "suggestie": "Use the 'Medical Domain' to describe the 'stain' or 'infection' of sin that the Resurrection cleanses.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Describe the 'stillness' of being trapped in a tomb of one's own making."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The conflict between 'Death as Sleep' and 'Death as Enemy'.",
+        "resolutie_strategie": "Explicitly bridge them by describing the Resurrection as a 'Rude Awakening' for the powers of death."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "TRUTH IS A DIKE",
+        "problematisch_entailment": "Suggests that truth is fragile and depends on human effort to 'plug holes'.",
+        "aanbeveling": "Shift to 'TRUTH IS A ROCK' to emphasize God's agency over human defense."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "JURIDICAL",
+        "rationale": "To strengthen the 'witness' and 'testimony' aspect of Paul's argument.",
+        "doel_concept": "Apostolic Authority"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using a contemporary narrative (the funeral recording) to re-embody a 2000-year-old conceptual metaphor."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the Gershwin reference, CMT shows it functions as a 'Schema Disruption' to highlight the danger of subjective interpretation.",
+    "verschil_met_kolb": "Kolb would focus on the 'experience' of the funeral; CMT focuses on how the funeral 'voice' functions as a source domain for the concept of 'Eternal Word'.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher's primary cognitive move is shifting the hearer from an 'INTERNAL/IMAGINATION' container to an 'EXTERNAL/EVENT' container."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "drifting away from the path",
+      "plug even one hole in the dike",
+      "nailed into place",
+      "first fruits",
+      "fallen asleep",
+      "strike a blow",
+      "victory through Jesus Christ"
+    ],
+    "woord_frequentie_analyse": {
+      "raised": "14",
+      "imagination": "6",
+      "scriptures": "5",
+      "fact": "4"
+    },
+    "notities": "The use of the Gershwin song title provides a 'hook' that is systematically dismantled by the end of the sermon."
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "titel_preek": "The Snares of Death and the Drama of Good News",
+    "bijbeltekst": "Psalm 116, Acts 2, Luke 24, 1 Peter 1",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explains the three-point structure of the Gospel (Snares, Rescue, Gratitude) through the lens of the Psalm, Jesus, the early church, and contemporary life.",
+      "exegetische_kwaliteit": "Strong thematic exegesis; connects multiple biblical genres to a single dramatic movement.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the reality of the Gospel drama and inviting the congregation to recognize their place within it.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I line it out this way",
+        "I am the one who gets to invite you",
+        "We know about the snares of death"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel recognized in their struggle and encouraged to enter the 'drama' of gratitude.",
+      "pneumatologisch_bewustzijn": "Implicit; the Spirit is not explicitly named as the agent of the 'event', though 'transformation' is mentioned.",
+      "perlocutionaire_werkwoorden": [
+        "recognize",
+        "rejoice",
+        "walk",
+        "trust"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 42,
+      "procent": "70%",
+      "voorbeelden": [
+        "The snares of death are all around us",
+        "It is the truth of our lives",
+        "The Psalmist touches all the bases"
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "know",
+        "think"
+      ]
+    },
+    "directieven": {
+      "frequentie": 4,
+      "procent": "5%",
+      "voorbeelden": [
+        "we must pay attention"
+      ],
+      "dominante_werkwoorden": [
+        "must",
+        "pay attention"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": 8,
+      "procent": "10%",
+      "voorbeelden": [
+        "I imagine",
+        "We prefer a gentler way",
+        "We only know that people had their lives transformed"
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "prefer",
+        "mumble"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 3,
+      "procent": "5%",
+      "voorbeelden": [
+        "And now it is on offer, again, today, for us"
+      ],
+      "dominante_werkwoorden": [
+        "offer"
+      ],
+      "kwaliteit": "Weak; the promise is described as being 'on offer' rather than directly spoken as a divine pledge."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "10%",
+      "voorbeelden": [
+        "I am the one... who gets to invite you",
+        "I line it out this way"
+      ],
+      "dominante_werkwoorden": [
+        "invite",
+        "line out"
+      ],
+      "autoriteit": "The preacher acts as a narrator/inviter rather than a mandatory of a reality-changing word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of 'We know'",
+        "Historical/Thematic description of the three points",
+        "Talking about the 'drama' rather than performing the drama"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a beautiful theological framework rather than a participant in a saving event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise ('God promises you')",
+        "Second-person address of grace"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes the 'offer' but does not execute the 'toezegging' (promise) directly to the 'you'.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 25,
+        "gebruik": "Mostly 'We' (inclusive/communal) and 'I' (preacher as guide)."
+      },
+      "tweede_persoon": {
+        "frequentie": 2,
+        "gebruik": "Very limited; 'invite you back'.",
+        "performatieve_context": "Used only in the invitation at the end."
+      },
+      "derde_persoon": {
+        "frequentie": 35,
+        "gebruik": "Describing the Psalm, Jesus, the world, and the 'snares'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where the Gospel is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Biblical history and Reformation tradition."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "General theological truths about death and grace."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The moment of invitation at the end."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of the drama) -> Directive (Invitation to pay attention).",
+      "voorbeelden": [
+        "The snares are real... I invite you back into the drama."
+      ],
+      "probleem": "The 'Rescue' is talked about as a known fact rather than being performed as a present gift."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We know about the rescue... so we can be on our way."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a brilliant 'talk about' the Gospel. It analyzes the structure of salvation but stops short of being the means of salvation itself.",
+    "sterke_punten": [
+      {
+        "aspect": "Thematic Unity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The three points: snares, rescue, gratitude.",
+        "effect": "Provides a clear cognitive map for the hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Performative Force",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "We know about the rescue by the power of God.",
+        "probleem": "It describes the rescue instead of rescuing the hearer.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a lecture on the 'drama' rather than the drama itself unfolding in the room.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The language remains descriptive and third-person."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; the preacher is the primary speaker describing God's past actions.",
+      "prediker_als_mandataris": "Weak; the preacher acts as an 'inviter' or 'witness' rather than an ambassador.",
+      "tekstueel_bewijs": [
+        "I am the one... who gets to invite you"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly assumed through 'transformation'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the sermon points to the table as the means of grace, but doesn't see itself as one.",
+      "epifanisch_taalgebruik": "Low",
+      "tekstueel_bewijs": [
+        "We come to the table again, and find the living presence"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'we know' and 'it is' (Assertives). Needs 'I declare' and 'God promises' (Declaratives/Commissives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "We who gather around Jesus know about the rescue by the power of God.",
+          "voorgestelde_revisie": "In the name of Jesus, I declare to you: you are rescued from the snares of death.",
+          "verschil": "Shifts from a shared opinion to a reality-changing declaration."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is kept at a distance.",
+      "suggestie": "Use the second person singular/plural to apply the 'Rescue' point.",
+      "voorbeeldzinnen": [
+        "God promises you today that the snares that box you in will not have the last word."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Overuse of 'We' creates a cozy but non-confrontational atmosphere.",
+      "suggestie": "Address the 'You' directly.",
+      "voorbeeldzinnen": [
+        "You are the one caught in the snare; and you are the one God is reaching for now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'Gratitude' (Imperative/Response) is based on a 'known' rescue rather than a 'received' rescue.",
+      "suggestie": "Place the declaration of grace immediately before the call to gratitude."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is homiletically beautiful but needs to cross the threshold from 'talking about' the drama to 'performing' the drama."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'We' as a relational appeal; SAT reveals that the 'We' actually masks the lack of a divine-human encounter.",
+    "verschil_met_retoriek": "Rhetorically, the 'snares' imagery is excellent; illocutionarily, it remains a description of a snare rather than an act of liberation.",
+    "unieke_inzichten_SAT": "SAT exposes that even 'orthodox' content can be 'felicitously' failing if it stays in the assertive mode."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "are",
+        "know",
+        "think",
+        "believe",
+        "means",
+        "lines out",
+        "touches",
+        "echoes",
+        "replicates"
+      ],
+      "directief": [
+        "must",
+        "pay attention",
+        "walk"
+      ],
+      "expressief": [
+        "imagine",
+        "prefer",
+        "mumble",
+        "sense"
+      ],
+      "commissief": [
+        "offer",
+        "on offer"
+      ],
+      "declaratief": [
+        "invite",
+        "line out"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The snares of death are all around us.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a state of affairs.",
+        "effectiviteit": "High for awareness, low for event."
+      },
+      {
+        "zin": "I am the one... who gets to invite you back into the drama.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Establishing the preacher's role.",
+        "effectiviteit": "Moderate; still feels like an invitation to a play rather than a rescue."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'We' perspective, which softens the blow of the Law and the sharpness of the Gospel."
+  }
+}

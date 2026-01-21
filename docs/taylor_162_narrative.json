@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Judgment And Mercy At Palm Sunday",
+    "bijbeltekst": "Luke 19:38-44",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus enters the city of Jerusalem (and the human soul) to offer a final chance of peace before judgment, ultimately moving toward Calvary to open a way for salvation through his own suffering and tears.",
+      "subject": {
+        "identificatie": "Jesus / The Savior",
+        "tekstueel_bewijs": [
+          "He considers this Palm Sunday entry to be one last offering of himself",
+          "Jesus faced the city, offering it light and life",
+          "The great Savior weeps"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Peace / Reconciliation / 'The things which belong unto thy peace'",
+        "tekstueel_bewijs": [
+          "the things which belong unto thy peace",
+          "one final chance... to embrace his way"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God / The All-seeing Eye",
+        "tekstueel_bewijs": [
+          "God is still on the throne",
+          "God's overseeing inspection and superintending examination"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The City / The Hearer / 'You and me'",
+        "tekstueel_bewijs": [
+          "for your city, for mine, for you, for me"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Love of God / Calvary",
+        "tekstueel_bewijs": [
+          "the love of God goes all of the way for us",
+          "Calvary is the hill of another chance"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "UNCLEAR"
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Human Failure / History's Evils / The 'Midday Midnight' of Calvary",
+        "tekstueel_bewijs": [
+          "fury of all hell will be loosed",
+          "slothfulness, an empty swagger, and slavery to every passing fad"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is characterized as 'all hell' and 'evil incarnate', requiring the death of the Son of God to overcome."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's response to the weeping Savior: a movement from a stony heart to a broken will and surrender.",
+      "subject": "The Hearer ('I')",
+      "object": "Surrender / Commitment ('My life is his')",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The hearer's action is presented as a direct reaction to the primary action of the Savior weeping."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Judge) → Peace/Salvation → Humanity",
+      "helper_subject_tegenstander": "Love/Calvary → Jesus ← Sin/Hell",
+      "subject_naar_object": "Jesus → Offering Himself/Peace"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 35,
+      "ratio": "1.2",
+      "voorbeelden_god_subject": [
+        "God made a statement.",
+        "Jesus beholds the city.",
+        "The great Savior weeps."
+      ],
+      "voorbeelden_mens_subject": [
+        "We want to enter into the spirit of gaiety.",
+        "You turned from the God of your fathers.",
+        "I throw my frail heart... at the weeping Son of God."
+      ],
+      "rutledge_score": 8
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "There are hard duties... which must be met.",
+          "we must all hang together."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "We want to rejoice.",
+          "what you planned to do with those gifts."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "If thou hadst known...",
+          "We know now that not a week would pass."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "a way is opened, and a highway.",
+          "Calvary is the hill of another chance."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Pouvoir' (Power/Possibility) created by Christ's tears and death, which overcomes the human lack of 'Savoir' (Knowing the things of peace)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Mercy / Peace",
+      "s2": "Judgment / Destruction",
+      "niet_s1": "Missed Opportunity / Sloth",
+      "niet_s2": "Another Chance / Calvary"
+    },
+    "beweging_in_preek": "Moves from the tension of S1/S2 (Palm Sunday) through the failure of ~S1 (Jerusalem's ignorance) to the resolution in ~S2 (Calvary as the 'other chance').",
+    "theologische_resolutie": "The tension is resolved not by human effort, but by the 'tears of the Savior' which bridge the gap between judgment and mercy.",
+    "ernst_van_s2": "High; judgment is described as an 'all-seeing eye' and 'awesome visitation'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon contains strong calls to community and social responsibility, the 'engine' is theocentric. The resolution of the human predicament is found in the person and emotional/physical sacrifice of Jesus, not in human moral improvement.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Social Exemplarism",
+        "tekstueel_bewijs": "One wonders if slothfulness... are to be the fate of our black community",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch to Christ",
+        "tekstueel_bewijs": "I throw my frail heart... at the weeping Son of God.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Unconditional Divine Initiative",
+        "tekstueel_bewijs": "The old, pursuing, persisting love of God has not given up on you.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids 'Be like David' tropes, focusing instead on 'Behold the Savior'.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "N/A"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Catharsis and surrender through the realization of being loved despite failure.",
+      "theologische_implicatie": "Monergistic grace; the Savior's tears do the work that the hearer's will cannot."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The transition from the historical narrative of Palm Sunday to the personal application of the hearer's soul is seamless.",
+      "spanning_punten": [
+        "The shift from social/national judgment to individual 'brokenness' is a slight jump in actantial focus."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Calvary is the hill of another chance... where the love of God goes all of the way for us.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon relies on the 'affective' power of the Cross rather than a specific pneumatological endowment."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Severe; described as 'fury of all hell' and 'brokenness'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God/Christ as the primary Subject of the salvific verbs. The hearer is positioned as the object of divine grief and the receiver of divine mercy.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer is briefly made the Subject of 'building community' in a way that feels like a heavy 'Devoir' (obligation).",
+      "voorgestelde_identificatie": "Ensure the 'community building' is seen as a fruit of the 'melted heart'.",
+      "strategie": "Link the 'circle that took him in' more explicitly to the 'circle' Christ drew at Calvary."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Savoir (Knowing) in the middle section.",
+      "voorgestelde_balans": "Increase Pouvoir (Enablement).",
+      "concrete_suggestie": "Explicitly state that the weeping Savior provides the power to build the community he desires."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Sufficiently cosmic.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "The sermon correctly places the 'Secondary Program' (Human response) after the 'Primary Program' (Christ's sacrifice)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful example of theocentric preaching that uses emotional depth to anchor structural grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'tremble, tremble' imagery, Greimas reveals that the 'tears' function as a modal operator that changes the hearer's competence from 'stony' to 'broken'.",
+    "verschil_met_exegese": "Exegesis might focus on the Lucan context of the peace-entry; Greimas shows how the 'City' actant is transposed onto the 'Individual Soul' actant.",
+    "unieke_inzichten_greimas": "Greimas highlights that the 'Opponent' is not just Rome or the Jews, but the 'cutoff point' of time/opportunity which Christ's Subject-action (weeping/dying) successfully delays or overcomes."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (faces, considers, offers, moves, speaks, beholds, weeps)",
+      "God (is on the throne, made a statement, searches)",
+      "We/You (want, know, disappoint, turned away, fall short)"
+    ],
+    "volledige_object_lijst": [
+      "Peace",
+      "The City",
+      "Another chance",
+      "My life"
+    ],
+    "werkwoord_frequentie": {
+      "weeps": {
+        "count": 8,
+        "primair_subject": "God"
+      },
+      "faces": {
+        "count": 5,
+        "primair_subject": "God"
+      },
+      "know": {
+        "count": 6,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is highly effective because it moves the hearer from a Subject of 'merriment' to an Opponent of 'sloth' and finally to a Receiver of 'tears'."
+  }
+}

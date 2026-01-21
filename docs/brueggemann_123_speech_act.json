@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "titel_preek": "Wind over Water",
+    "bijbeltekst": "Acts 19:1-7; Genesis 1; Psalm 29",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the biblical tension between chaotic water and the wind-spirit of God, moving from Genesis and the Exodus to Paul's encounter with the disciples in Ephesus.",
+      "exegetische_kwaliteit": "Strong focus on the Hebrew 'ruach' (wind/spirit) and the metaphor of water as chaos. High narrative quality.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting biblical truths and interpreting contemporary reality through those truths, with a late shift toward encouragement.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The wind of God masters the chaotic waters.",
+        "The Bible does not flinch from acknowledgment that it looks like the world is out of control."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To reduce anxiety and empower social/political action among the congregation.",
+      "pneumatologisch_bewustzijn": "The Spirit is the topic of the sermon, but the Spirit's role in the act of preaching itself is implied rather than explicit.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "fear not",
+        "act",
+        "transform"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "85",
+      "procent": "70",
+      "voorbeelden": [
+        "We all know about water.",
+        "They knew about the waters of chaos.",
+        "The wind-spirit blows the waters back."
+      ],
+      "dominante_werkwoorden": [
+        "know",
+        "is",
+        "was",
+        "knew"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "10",
+      "voorbeelden": [
+        "Imagine, dear baptized sisters and brothers...",
+        "We may receive the peace of God."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "receive",
+        "enact"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "7",
+      "voorbeelden": [
+        "This is for me a happy time to be with you.",
+        "We remember Katrina vividly."
+      ],
+      "dominante_werkwoorden": [
+        "remember",
+        "give thanks"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3",
+      "voorbeelden": [
+        "God will bless God’s people with shalom."
+      ],
+      "dominante_werkwoorden": [
+        "will bless"
+      ],
+      "kwaliteit": "The promises are mostly stated as future-tense generalities (God will) rather than direct address (God promises you)."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2",
+      "voorbeelden": [
+        "The wind blows shalom toward us."
+      ],
+      "dominante_werkwoorden": [
+        "blows"
+      ],
+      "autoriteit": "Low. The preacher describes the wind blowing rather than speaking the peace into existence."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85",
+    "performatief_percentage": "15",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'We know'",
+        "Historical recounting of Paul's actions",
+        "General descriptions of social issues"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological lecture rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise (Toezegging)",
+        "Sacramental 'I' address"
+      ],
+      "effect_op_hoorder": "Inspiration without the 'event' of being personally addressed by God."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Weak; framed as 'We know that...' rather than 'I promise you...'",
+      "voorbeelden": [
+        "God will bless God’s people with shalom."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "25",
+        "gebruik": "Mostly 'We' (inclusive) to create a shared intellectual space."
+      },
+      "tweede_persoon": {
+        "frequentie": "5",
+        "gebruik": "Very limited until the conclusion ('dear baptized sisters').",
+        "performatieve_context": "Used to invite imagination rather than deliver grace."
+      },
+      "derde_persoon": {
+        "frequentie": "60",
+        "gebruik": "Dominant. Talking about 'they' (biblical characters) or 'the church' or 'the world'.",
+        "distantie_effect": "Creates a high degree of distance; the sermon is 'about' things."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40",
+        "gebruik": "Biblical history and recent disasters."
+      },
+      "tijdloos_present": {
+        "frequentie": "50",
+        "gebruik": "General theological and social truths."
+      },
+      "actueel_present": {
+        "frequentie": "10",
+        "gebruik": "The 'now' of the congregation."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History/Metaphor) -> Directive (Social Action).",
+      "voorbeelden": [
+        "The wind-spirit blows back the waters... The church stands against the exploitation of cheap labor."
+      ],
+      "probleem": "The jump from 'God did this' to 'We must do this' skips the performative gift of 'God does this for you now'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Because the wind-spirit is at work! ... The church stands against the exploitation..."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant thematic lecture on the metaphor of wind vs. water, but it remains in the realm of 'talking about' God's power rather than 'mediating' it.",
+    "sterke_punten": [
+      {
+        "aspect": "Metaphorical Coherence",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Wind beats water!",
+        "effect": "Memorable and intellectually satisfying."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Direct Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "We know about the 'fear not' of the gospel.",
+        "probleem": "It describes the 'fear not' instead of saying 'Fear not!'",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an event of learning, but not a sacramental event of encounter.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not use his mandate to declare anything on behalf of God in the present moment."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the sentences, but not the speaker of the sermon.",
+      "prediker_als_mandataris": "The preacher acts as an analyst of the text, not a herald.",
+      "tekstueel_bewijs": [
+        "The church clings to the conviction..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as a topic.",
+      "perlocutie_theologie": "No, the preacher seems to rely on the power of the metaphor to move the people.",
+      "tekstueel_bewijs": [
+        "The wind-spirit turns loose new transformative energy."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, the sermon is a reflection on a means of grace (baptism).",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "So here are four 'take-aways' for us."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'know' and 'is' verbs; not enough 'give', 'forgive', or 'promise' verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "We know that the wind of God will blow back the force of chaos.",
+          "voorgestelde_revisie": "Today, the Spirit of God blows back the chaos in your life.",
+          "difference": "Moves from a general truth to a present-tense event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in a list of 'take-aways'.",
+      "suggestie": "Use the second person singular/plural to deliver the promise.",
+      "voorbeeldzinnen": [
+        "To you who are afraid, God promises: My wind is at your back."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Over-reliance on 'We'.",
+      "suggestie": "Address the 'You' directly.",
+      "voorbeeldzinnen": [
+        "You have been baptized into this wind."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperatives are social/political duties rather than responses to a gift.",
+      "suggestie": "Declare the gift first: 'You are free,' then 'Walk in freedom.'"
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually and rhetorically sophisticated, but it needs to risk the 'I' of the preacher and the 'You' of the listener to become a truly sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' (social action), but SAT reveals the lack of 'declarative' authority.",
+    "verschil_met_retoriek": "Rhetorically strong (metaphor), but illocutionarily weak (no act performed).",
+    "unieke_inzichten_SAT": "SAT exposes that 'talking about the Spirit' is not the same as 'the Spirit speaking'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "know",
+        "is",
+        "was",
+        "saw",
+        "remember",
+        "occupied",
+        "said",
+        "sang",
+        "sounds",
+        "meets",
+        "asks",
+        "means"
+      ],
+      "directief": [
+        "imagine",
+        "receive",
+        "enact",
+        "stand",
+        "reach"
+      ],
+      "expressief": [
+        "give thanks",
+        "happy",
+        "vividly"
+      ],
+      "commissief": [
+        "will bless"
+      ],
+      "declaratief": [
+        "blows (in the sense of 'I now declare the wind blows')"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "We know about the 'fear not' of the gospel.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a promise.",
+        "effectiviteit": "Weak. It objectifies the promise."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher's brilliance in exegesis and social analysis prevents the sermon from becoming a direct address from God."
+  }
+}

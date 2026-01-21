@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "titel_preek": "Face to Face, Hand in Hand",
+    "bijbeltekst": "1 Corinthians 15:47, 49",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in human history to transform the man of dust (Adam) into the man of heaven (Christ), overcoming the ontological barrier of death and sin.",
+      "subject": {
+        "identificatie": "God / The Man of Heaven (Christ)",
+        "tekstueel_bewijs": [
+          "God has broken through from beyond human history",
+          "God gives it a body as he has chosen",
+          "Christ has been raised from the dead"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Resurrection of the Body / Transformation of Humanity",
+        "tekstueel_bewijs": [
+          "we shall also bear the image of the man of heaven",
+          "our sinfulness exchanged for his righteousness"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The 'Other Order' of Reality",
+        "tekstueel_bewijs": [
+          "it does not come from human imagination but from God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Church / Humanity ('We')",
+        "tekstueel_bewijs": [
+          "all the benefits of Christ's Cross are lost to you",
+          "we shall all be changed"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The 'Evidence' of the Empty Tomb",
+        "tekstueel_bewijs": [
+          "evidence planted within human history",
+          "he gave power to become children of God"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Death, Sin, the Devil, and the 'Man of Dust' (Perishability)",
+        "tekstueel_bewijs": [
+          "the devil and his hosts destroyed",
+          "flesh and blood cannot inherit the kingdom"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not a moral failing but an ontological impossibility: the 'perishable' cannot inherit the 'imperishable' without a divine act."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The human response of faith and the recognition of Christ's presence.",
+      "subject": "The Believer / The Hearer",
+      "object": "Grasping the Resurrection by faith",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The human 'grasping' (Secondary) is only possible because God has first 'broken through' (Primary)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Resurrection/New Life → Humanity",
+      "helper_subject_tegenstander": "The Spirit/Empty Tomb → God/Christ ← Death/Sin",
+      "subject_naar_object": "God → Transformation of the Body"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has broken through from beyond human history",
+        "God gives it a body as he has chosen",
+        "He [Christ] has risen"
+      ],
+      "voorbeelden_mens_subject": [
+        "we shall also bear the image",
+        "we today may grasp by faith",
+        "we want to be spiritual"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "In order to love someone, you have to have them right there"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "We don't seem to want to believe",
+          "We want to hold a warm hand"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Now I know in part",
+          "Paul seeks to remind the Corinthians"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "he gave power to become children of God",
+          "All things are possible with God",
+          "flesh and blood cannot inherit"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Inability' of the human subject (cannot inherit) and the 'Ability' of the Divine subject (all things are possible)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Resurrection (Body/Life)",
+      "s2": "Death (Dust/Perishing)",
+      "niet_s1": "Immortality of the Soul (Spiritualized/Shadowy)",
+      "niet_s2": "Biological Life (Flesh and Blood/Temporary)"
+    },
+    "beweging_in_preek": "From S2 (Dust) through ~S1 (Soul-myth) to S1 (Resurrected Body) via the intervention of the 'Man of Heaven'.",
+    "theologische_resolutie": "The tension between dust and heaven is resolved by the 'Exchange' (Substitution) where Christ takes the dust to give the heaven.",
+    "ernst_van_s2": "High; death is treated as a total end ('perished') without the Resurrection."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It explicitly rejects human capacity (flesh and blood cannot) and places the entire weight of the narrative on God's 'unique action'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumental use of God",
+        "tekstueel_bewijs": "None found; God is the initiator, not the helper of human effort.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Active Verbs",
+        "tekstueel_bewijs": "God has broken through from beyond human history",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "the devil and his hosts destroyed",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Biblical figures (Adam/Christ) are used as ontological archetypes, not moral examples to imitate.",
+      "bijbelse_figuren_als_model": [
+        "Adam",
+        "Christ"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: Christ is the 'Second Man' who does what the 'First Man' could not."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and wonder (Awe); moving from 'trembling' to 'joy'.",
+      "theologische_implicatie": "Soteriology is monergistic; the change is something that 'happens to' the hearer."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God raises Christ) → Eschatology (God raises us) → Experience (We grasp by faith)."
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "our sinfulness exchanged for his righteousness",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The power is given by God/Christ, though the Spirit is not explicitly named as the agent in this text."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Fatal; leads to 'perishing' and 'bondage'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by God's 'Pouvoir' (Power) overcoming human 'Im-pouvoir' (Inability).",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "N/A",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain current balance; it serves the Easter theme perfectly.",
+      "concrete_suggestie": "The sermon could slightly increase 'Vouloir' by connecting the 'wanting to hold a hand' more deeply to the desire for God."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "The opponent (Death/Sin) is already treated as an absolute barrier.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in grace-oriented preaching. It avoids the trap of turning the Resurrection into a 'spiritual lesson' for self-improvement, keeping the focus on God's cosmic victory."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'hand' imagery, Greimas reveals that the 'hand' is an actant of mediation/presence in a larger ontological conflict.",
+    "verschil_met_exegese": "Exegesis explains 1 Cor 15; semiotics shows how the sermon re-enacts the 'exchange' between Adam and Christ for the hearer.",
+    "unieke_inzichten_greimas": "Greimas exposes that the 'Immortality of the Soul' is a narrative 'Opponent' to the 'Resurrection' because it removes the need for a Divine Subject to act on the body."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (gives, has broken through, has chosen)",
+      "Christ (has been raised, has borne, is right here)",
+      "We (shall bear, shall be changed, may grasp)"
+    ],
+    "volledige_object_lijst": [
+      "Resurrection",
+      "The Body",
+      "The Kingdom",
+      "Righteousness"
+    ],
+    "werkwoord_frequentie": {
+      "raised": {
+        "count": "8",
+        "primair_subject": "God"
+      },
+      "changed": {
+        "count": "4",
+        "primair_subject": "God (Passive voice for Man)"
+      }
+    },
+    "notities": "The use of passive voice ('we shall be changed') correctly identifies the hearer as the Receiver of a divine action."
+  }
+}

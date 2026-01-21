@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "titel_preek": "The Old, Old Story",
+    "bijbeltekst": "Romans 5:12–21",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A contrast between Margaret Mead's anthropological optimism and Paul's hamartiology. The sermon explains the 'iron rule' of Sin/Death and the 'much more' of Christ's righteousness.",
+      "exegetische_kwaliteit": "High; utilizes Käsemann and Cranmer to frame the cosmic nature of Sin as a power rather than just individual acts.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the reality of the human condition (Adam) and promising the victory of Christ (New Adam).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I am among you as a fellow prisoner who brings news of impending release.",
+        "This is the story that the children must hear from the elders."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Disillusionment with secular progress; comfort in the objective victory of Christ; sense of duty to pass on the faith.",
+      "pneumatologisch_bewustzijn": "Implicit; the sermon relies on the 'news' itself to effect change, but lacks explicit invocation of the Spirit's power.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "recognize",
+        "receive",
+        "praise",
+        "behave"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "Mead speaks of prefigurative and postfigurative cultures.",
+        "Sin came into the world through one man.",
+        "The axis of evil has gained dominion everywhere."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "wrote",
+        "thinks",
+        "means",
+        "assumes"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "Now listen to the way that Paul has taken those statements.",
+        "But we must remember...",
+        "One generation shall praise thy works."
+      ],
+      "dominante_werkwoorden": [
+        "listen",
+        "remember",
+        "praise",
+        "recognize"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "9%",
+      "voorbeelden": [
+        "I hope with all my heart that you can see...",
+        "I can assure you...",
+        "We found Mead’s views... to be tremendously exciting."
+      ],
+      "dominante_werkwoorden": [
+        "hope",
+        "assure",
+        "want",
+        "believe"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "15",
+      "procent": "10%",
+      "voorbeelden": [
+        "This promise of a completely remade future that is the gift of God.",
+        "Grace also might reign... to eternal life."
+      ],
+      "dominante_werkwoorden": [
+        "brings",
+        "leads",
+        "abounded",
+        "gives"
+      ],
+      "kwaliteit": "Strongly grounded in the text of Romans, though often phrased as 'news about' rather than 'I promise you'."
+    },
+    "declaratieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "I am among you as a fellow prisoner who brings news of impending release.",
+        "But there is news today."
+      ],
+      "dominante_werkwoorden": [
+        "brings",
+        "is",
+        "reign"
+      ],
+      "autoriteit": "The preacher acts as a 'messenger' (heraldic authority) rather than a 'priest' (sacramental authority)."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive cultural analysis of Margaret Mead (first 6 paragraphs).",
+        "Detailed explanation of Paul's logic ('Paul assumes...', 'Paul hammers away...')."
+      ],
+      "effect_op_hoorder": "The hearer is well-informed about the 'Adam' situation but remains an observer of the 'Christ' solution until the very end."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise to the specific 'you' of the congregation earlier in the text."
+      ],
+      "effect_op_hoorder": "Intellectual agreement without immediate existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "High theological quality, but late in the delivery.",
+      "voorbeelden": [
+        "Grace also might reign through [God’s] righteousness to eternal life through Jesus Christ our Lord."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Personal anecdote and pastoral identification ('I am among you')."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Limited; mostly used to challenge the hearer's assumptions about the world."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant; discussing Mead, Paul, Adam, and 'the young people'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Mead's book, the 1960s, and the Genesis narrative."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "Theological truths about Sin and Death."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The 'news' brought today."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids moralism; it does not move from 'Sin' to 'Try harder'.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from Assertive (The human condition) to Commissive (The news of release).",
+      "voorbeelden": [
+        "We are trapped... But there is news today."
+      ],
+      "kwaliteit": "Theologically sound but rhetorically delayed by the long constative introduction."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because grace abounded... one generation shall praise thy works."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a powerful 'report' of the Gospel. It functions as a herald bringing news from a far country, which is performative, but it spends a vast amount of time describing the 'geography' of the old country first.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Realism",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The axis of evil has gained dominion everywhere, in every human heart.",
+        "effect": "Destroys false optimism."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The first 6 paragraphs regarding Margaret Mead.",
+        "probleem": "Delays the 'event' of the Word.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 7,
+    "gebeuren_toelichting": "The 'event' happens in the final third when the preacher identifies as a fellow prisoner bringing news.",
+    "sacramentele_kracht": 6,
+    "sacramentele_toelichting": "Stronger in 'telling about' the sacrament of the Word than 'being' the sacrament of the Word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicit; the preacher 'brings news' of what God has said.",
+      "prediker_als_mandataris": "Yes; 'I have only this one passage to leave with you'.",
+      "tekstueel_bewijs": [
+        "I am among you as a fellow prisoner who brings news."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to the 'news' itself.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the 'story' is treated as the means of remaking life.",
+      "epifanisch_taalgebruik": "Moderate; becomes epiphanic in the conclusion.",
+      "tekstueel_bewijs": [
+        "It is in his story that all our stories are remade."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on past-tense and third-person verbs. It needs more present-tense, second-person performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "One man’s act of righteousness leads to acquittal and life for all men.",
+          "voorgestelde_revisie": "Because of Christ's act of righteousness, I declare to you today: you are acquitted, and you have life.",
+          "verschil": "Moves from a general truth (Assertive) to a specific event (Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is framed as 'news about' rather than 'address to'.",
+      "suggestie": "Use 'You' more frequently in the Romans 5 section.",
+      "voorbeeldzinnen": [
+        "This grace is for you.",
+        "Christ promises you today that the iron rule of death is broken in your life."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they' (the young), not enough 'you'.",
+      "suggestie": "Address the congregation directly as the subjects of the 'impending release'.",
+      "voorbeeldzinnen": [
+        "You are the ones being released."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "None; the balance is excellent.",
+      "suggestie": "Maintain this theological grounding."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A theoretically robust and theologically deep sermon that successfully avoids moralism, though it risks becoming a lecture in its first half."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the preacher isn't just 'sending a message' about sin, but attempting to 'enact' a release from it.",
+    "verschil_met_retoriek": "The power is not in the Mead anecdote (rhetoric), but in the illocutionary force of the 'News' (Gospel).",
+    "unieke_inzichten_SAT": "SAT identifies that the 'news of release' is the only truly performative moment that changes the hearer's status."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "wrote",
+        "speaks",
+        "assumes",
+        "means"
+      ],
+      "directief": [
+        "listen",
+        "remember",
+        "praise"
+      ],
+      "expressief": [
+        "hope",
+        "assure",
+        "trust"
+      ],
+      "commissief": [
+        "brings",
+        "leads",
+        "gives"
+      ],
+      "declaratief": [
+        "reign",
+        "is (news)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I am among you as a fellow prisoner who brings news of impending release.",
+        "categorie": "DECLARATIVE/COMMISSIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Excellent; this is the 'event' moment."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Heraldic Preaching'."
+  }
+}

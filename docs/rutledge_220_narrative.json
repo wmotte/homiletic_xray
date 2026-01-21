@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "That One Man",
+    "bijbeltekst": "Romans 5:17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The rescue of humanity from the cosmic dominion of Sin and Death by the singular intervention of Jesus Christ.",
+      "subject": {
+        "identificatie": "Jesus Christ (The 'One Man')",
+        "tekstueel_bewijs": [
+          "Jesus Christ... has come to our rescue",
+          "He has quite literally appeared on the human scene with divine power to save",
+          "one man’s act of righteousness leads to acquittal and life for all men"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Acquittal, Life, and Liberation from the 'Empire of Evil'",
+        "tekstueel_bewijs": [
+          "reign in life through the one man Jesus Christ",
+          "transferred from the dominion of death into the dominion of the Messiah"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "originates in the grace of the heavenly Father",
+          "news imparted to her by the Holy Spirit of God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'Many' / The Church / The Hearer",
+        "tekstueel_bewijs": [
+          "much more have the grace of God... abounded for many",
+          "those who receive the abundance of grace"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Gospel Message / St. Paul / The Preacher",
+        "tekstueel_bewijs": [
+          "Paul is trying to tell us that our life in Christ has been snatched out of the jaws of death",
+          "The preacher would be herself, were it not for the news"
+        ],
+        "rol_van_god": "God is the Subject, not merely a Helper.",
+        "rol_van_geest": "The Spirit is the one who imparts the 'news' of the performance."
+      },
+      "tegenstander": {
+        "identificatie": "Sin and Death (Personified as reigning monarchs)",
+        "tekstueel_bewijs": [
+          "Sin won dominion over all men",
+          "Sin and death... rule over us totally",
+          "Empire of Evil"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is treated as an objective, ontological power that 'seizes' and 'dislocates' human life, making escape impossible by human effort."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's response of gratitude and 'entrusting' themselves to the Savior.",
+      "subject": "The Hearer",
+      "object": "Trust/Yielding to Christ",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (faith/trust) is a response to the completed primary program (deliverance). The preacher explicitly states that deliverance causes the breakdown/gratitude."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God the Father → Grace/Righteousness → The Many",
+      "helper_subject_tegenstander": "Holy Spirit → Jesus Christ ← Sin/Death",
+      "subject_naar_object": "Jesus Christ → Acquittal/Life"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has 'handed us over'",
+        "Jesus Christ... has come to our rescue",
+        "God is making a new creation"
+      ],
+      "voorbeelden_mens_subject": [
+        "Adam chose instead to disobey",
+        "We talk instead about stress",
+        "Will you grasp the great salvation?"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "we must understand the terrible destiny"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Paul wishes above all to enable us to be thus overcome"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "unless and until we make this story our own",
+          "we know these things only by faith"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "there is no escape whatsoever",
+          "he alone is able to redeem us",
+          "divine power to save"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the total lack of 'Pouvoir' (power) in the human subject and the absolute 'Pouvoir' of Christ. Grace is presented as a transfer of power regimes."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Life (Christ's Reign)",
+      "s2": "Sin/Death (Adam's Reign)",
+      "niet_s1": "Fraudulent Saviors/Gurus",
+      "niet_s2": "Stress Management/Psychologizing Sin"
+    },
+    "beweging_in_preek": "The sermon moves from S2 (The terror of the tumor/death) to ~S2 (The 'clear' CAT scan/acquittal) and finally to S1 (Reigning in life).",
+    "theologische_resolutie": "The tension is resolved by the 'Much More' of Christ's obedience swallowing the 'disobedience' of Adam.",
+    "ernst_van_s2": "Extremely high; S2 is described as a 'terminal' condition and an 'Empire of Evil'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is rigorously theocentric. It identifies the human condition as one of total inability and positions Christ as the sole active Subject of salvation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional language (Potential)",
+        "tekstueel_bewijs": "Will you grasp the great salvation?",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "Jesus Christ... has come to our rescue.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Sin and death... rule over us totally.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Adam is used as a 'typical man' or 'anti-type' of our condition, not a moral example to follow or avoid. Christ is the Savior, not an example.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sermon already uses a theocentric reading: Christ does for us what we cannot do."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief, gratitude, and 'collapse' into joy.",
+      "theologische_implicatie": "Monergistic salvation; the hearer is the beneficiary of an external rescue."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The personal narrative of the daughter's illness perfectly mirrors the theological narrative of Romans 5.",
+      "spanning_punten": [
+        "The transition from the 'medical' metaphor to the 'legal' language of acquittal."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "transferred from the dominion of death into the dominion of the Messiah and his victory over every form of evil.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit imparts the 'news' which creates the 'Pouvoir' to trust."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; sin is a 'contagion' and a 'reigning monarch'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains Christ as the Subject and the hearer as the Receiver. It avoids the 'Helper' trap where God merely assists human effort.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain current balance as it serves the 'Grace' focus.",
+      "concrete_suggestie": "None"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Already cosmic and heavy.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Program 1) clearly precedes and enables Response (Program 2)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in theocentric preaching that uses narrative semiotics to heighten the 'much more' of grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the emotional impact of the daughter's story, Greimas shows how that story functions as a 'modal competence' builder for the hearer.",
+    "verschil_met_exegese": "Exegesis explains Romans 5; semiotics shows how the sermon 're-enacts' the transfer of dominion within the hearer's imagination.",
+    "unieke_inzichten_greimas": "Reveals that the 'roller coaster' and 'tumor' stories are not just illustrations but actantial parallels that establish the 'Opponent' as insurmountable."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Sin won dominion",
+      "Death spread",
+      "God handed us over",
+      "Jesus Christ has come",
+      "The Holy Spirit imparted news"
+    ],
+    "volledige_object_lijst": [
+      "Acquittal",
+      "Life",
+      "Deliverance",
+      "The abundance of grace"
+    ],
+    "werkwoord_frequentie": {
+      "reign": {
+        "count": "6",
+        "primair_subject": "God/Sin"
+      },
+      "save": {
+        "count": "3",
+        "primair_subject": "God"
+      },
+      "deliver": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the 'Rutledge Rule' almost perfectly, ensuring the active verbs of salvation belong to Christ."
+  }
+}

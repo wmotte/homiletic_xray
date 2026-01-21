@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "titel_preek": "Strange Ending, Unthinkable Beginning",
+    "bijbeltekst": "Mark 16:8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher contrasts 'generic Easter' (nature, spring) with 'real Easter' (Resurrection). Uses Mark's ending to highlight terror and the radical newness of God's act.",
+      "exegetische_kwaliteit": "High. Focuses on the 'short ending' of Mark and the distinction between immortality of the soul and bodily resurrection.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the truth of the Resurrection against cultural dilution, with a shift toward testifying at the end.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Resurrection means something else.",
+        "The decree has been set aside.",
+        "He is not here — he is risen."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from a sentimental view of Easter to a holy fear and trust in the witness of the Church.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the event.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "tremble",
+        "trust",
+        "relinquish"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "85%",
+      "voorbeelden": [
+        "Mark’s is the most unsettling.",
+        "Resurrection means that something utterly new and unlooked for has been done by God."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "means",
+        "says",
+        "believe"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "Behold...",
+        "Don’t get me wrong."
+      ],
+      "dominante_werkwoorden": [
+        "behold",
+        "remember"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "I delight in filling my house...",
+        "I must admit I find it startling..."
+      ],
+      "dominante_werkwoorden": [
+        "delight",
+        "find",
+        "saddened"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "He goes before you.",
+        "There you will see him."
+      ],
+      "dominante_werkwoorden": [
+        "goes",
+        "see"
+      ],
+      "kwaliteit": "Weak. The promises are mostly quoted as historical speech acts of the angel rather than the preacher's direct address."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "The decree has been set aside.",
+        "Alleluia! The Lord is risen indeed!"
+      ],
+      "dominante_werkwoorden": [
+        "set aside",
+        "risen"
+      ],
+      "autoriteit": "Moderate. The final Alleluia functions as a liturgical declaration."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive talk about greeting cards and cultural trends.",
+        "Third-person descriptions of what 'Resurrection means'.",
+        "Historical analysis of Mark's gospel."
+      ],
+      "effect_op_hoorder": "The hearer is informed about the radical nature of the gospel but is not necessarily 'hit' by it as a present-tense event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise to the specific congregation",
+        "Present-tense creative word"
+      ],
+      "effect_op_hoorder": "The hearer remains an observer of a 'correct' theological argument."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 2,
+      "kwaliteit_toezeggen": "Indirect. The preacher quotes Scripture to show what *could* give hope, rather than directly promising it.",
+      "voorbeelden": [
+        "The decree has been set aside. It has been set aside in Christ."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Personal anecdotes and 'I believe' statements."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Mostly rhetorical questions or referring to the 'you' who doesn't come to church.",
+        "performatieve_context": "Low."
+      },
+      "derde_persoon": {
+        "frequentie": "120",
+        "gebruik": "Talking about the women, the culture, the scholars, and 'the Resurrection'.",
+        "distantie_effect": "High. It treats the Resurrection as a topic of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical narrative and personal stories."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Defining what Resurrection 'is' and 'means'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final testimony."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (What Resurrection is) -> Directive (Relinquish dependence).",
+      "voorbeelden": [
+        "If the Resurrection is God’s ultimate word... then there is reason for us to tremble... we will sooner or later be led to relinquish..."
+      ],
+      "probleem": "The imperative (relinquishing) is not preceded by a direct performative promise to the hearer, making it a logical consequence rather than a response to grace."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Insufficient performative force."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Recognizing this utterly new truth means that we will... be led to relinquish our dependence."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is an excellent lecture on the difference between 'Spring' and 'Resurrection', but it remains 'talking about' the event rather than 'being' the event.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Distinction",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Resurrection means that something utterly new and unlooked for has been done by God.",
+        "effect": "Clears away sentimentalism."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "I have made a habit of collecting Easter sermons over the years...",
+        "probleem": "Too much meta-talk about preaching rather than preaching itself.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is a powerful speech, but the 'event' is described as something that happened to the women or happens in the text, rather than happening to the hearer now.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) where the preacher binds God to the hearer."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the past-tense acts, but rarely the speaker in the present.",
+      "prediker_als_mandataris": "The preacher identifies as a 'witness' (testifier) rather than a mandatory (ambassador).",
+      "tekstueel_bewijs": [
+        "That’s what the preacher is today... one who testifies to the truth."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly left to the 'gift of faith'.",
+      "tekstueel_bewijs": [
+        "It is a gift of faith."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a 'testimony' to a means of grace, rather than being one itself.",
+      "epifanisch_taalgebruik": "Low. The language is analytical.",
+      "tekstueel_bewijs": [
+        "I trust the witnesses."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'is' and 'means'. Need for 'give', 'forgive', and 'promise'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The decree has been set aside in Christ.",
+          "voorgestelde_revisie": "In the name of the Risen Christ, I declare to you: the decree against you is set aside!",
+          "verschil": "Moves from a fact about the world to a declarative act that changes the hearer's status."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is quoted from the angel, not delivered by the preacher.",
+      "suggestie": "Use the 2nd person to apply the 'Galilee' promise to the congregation.",
+      "voorbeeldzinnen": [
+        "He goes before you into your Salisbury, your grief, and your retirement."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Address the 'devastated husband' in the pews directly with the word of God.",
+      "voorbeeldzinnen": [
+        "To you who are devastated: Christ is your first-fruits."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Relinquishing is presented as a logical result of 'recognizing truth'.",
+      "suggestie": "Present relinquishing as a response to the safety found in the Promise."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically profound and rhetorically engaging, but needs to shift from 'talking about' the Resurrection to 'performing' the Resurrection for the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the preacher isn't just 'sending a message' about hope, but failing to use the 'Declarative' key to unlock the event.",
+    "verschil_met_retoriek": "Rhetorically, the 'greeting card' trope is a great hook, but SAT shows it occupies too much locutionary space at the expense of illocutionary force.",
+    "unieke_inzichten_SAT": "SAT identifies that the preacher's self-definition as 'only a witness' (Assertive) limits the sacramental potential of the office (Declarative)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "means",
+        "says",
+        "believe",
+        "think",
+        "know",
+        "appears",
+        "intended"
+      ],
+      "directief": [
+        "behold",
+        "remember",
+        "don't get me wrong"
+      ],
+      "expressief": [
+        "delight",
+        "saddened",
+        "find",
+        "admit"
+      ],
+      "commissief": [
+        "goes",
+        "see"
+      ],
+      "declaratief": [
+        "set aside",
+        "risen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Resurrection means that something utterly new and unlooked for has been done by God.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Defining",
+        "effectiviteit": "Good for teaching, poor for encounter."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Theological Surplus'—it is so busy being right about the Resurrection that it forgets to deliver it."
+  }
+}

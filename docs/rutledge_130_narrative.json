@@ -1,0 +1,252 @@
+[
+  {
+    "metadata": {
+      "titel_preek": "Doubting and Believing",
+      "bijbeltekst": "John 20:24-31; 1 Cor. 15:17",
+      "analyse_datum": "2024-05-22",
+      "geschat_aantal_woorden": "1650"
+    },
+    "actantiele_analyse": {
+      "primair_narratief_programma": {
+        "beschrijving": "God reveals Himself through the Word and the wounds of Christ to create faith in the midst of human doubt and suffering.",
+        "subject": {
+          "identificatie": "God / The Word of Jesus",
+          "tekstueel_bewijs": [
+            "the Word of Jesus that creates faith",
+            "the power of God can... raise the dead",
+            "God has entered our pain"
+          ],
+          "frequentie_score": "8"
+        },
+        "object": {
+          "identificatie": "Faith and Life (Soteriological assurance)",
+          "tekstueel_bewijs": [
+            "that believing, you may have life in his name"
+          ],
+          "aard_van_object": "SOTERIOLOGICAL"
+        },
+        "zender": {
+          "identificatie": "The Transcendent God (Creator)",
+          "tekstueel_bewijs": [
+            "the One who created the world out of nothing"
+          ],
+          "rol_interpretatie": "LOVING_FATHER"
+        },
+        "ontvanger": {
+          "identificatie": "The Hearer / Thomas / The Doubter",
+          "tekstueel_bewijs": [
+            "to you and to me",
+            "Thomas stands for all of us here"
+          ],
+          "positie_hoorder": "Receiver"
+        },
+        "helper": {
+          "identificatie": "The Wounds of Christ / The Scriptures",
+          "tekstueel_bewijs": [
+            "the sign of his sufferings",
+            "In that reading from the Word of God my faith was restored"
+          ],
+          "rol_van_god": "Subject",
+          "rol_van_geest": "External help"
+        },
+        "tegenstander": {
+          "identificatie": "Skepticism, Death, and the 'Inner Voice' (Self-projection)",
+          "tekstueel_bewijs": [
+            "the trendy disaffections of the Jesus Seminar",
+            "my 'inner voice' was saying all sorts of treacherous things"
+          ],
+          "ernst_tegenstander": "COSMIC",
+          "toelichting_ernst": "The opponent is not just intellectual doubt but the ontological reality of death and the 'futility' of sin."
+        }
+      },
+      "secundair_narratief_programma": {
+        "aanwezig": true,
+        "beschrijving": "The human struggle to maintain faith amidst tragedy (Alabama tornado/personal grief).",
+        "subject": "The Preacher / The Hearer",
+        "object": "Certainty / Comfort",
+        "verhouding_tot_primair": "SEQUENTIAL",
+        "toelichting_verhouding": "The human struggle (Secondary) is resolved only when the Divine Word (Primary) acts upon the subject."
+      },
+      "actantieel_schema_visualisatie": {
+        "zender_naar_ontvanger": "God → Life/Faith → The Doubting Hearer",
+        "helper_subject_tegenstander": "The Wounded Christ → The Word → Death/Skepticism",
+        "subject_naar_object": "The Word → Faith"
+      }
+    },
+    "grammaticale_analyse": {
+      "subject_check": {
+        "god_als_subject_count": "42",
+        "mens_als_subject_count": "38",
+        "ratio": "1.1",
+        "voorbeelden_god_subject": [
+          "God has entered our pain",
+          "the Word of Jesus can create faith",
+          "God permits us to doubt"
+        ],
+        "voorbeelden_mens_subject": [
+          "We haven’t seen the risen Lord",
+          "I was struggling with fresh doubts",
+          "We can choose a god who suits us"
+        ],
+        "rutledge_score": "9"
+      },
+      "modale_analyse": {
+        "devoir_faire": {
+          "prominentie": "2",
+          "voorbeelden": [
+            "where faith must stand"
+          ]
+        },
+        "vouloir_faire": {
+          "prominentie": "4",
+          "voorbeelden": [
+            "We would like proof"
+          ]
+        },
+        "savoir_faire": {
+          "prominentie": "3",
+          "voorbeelden": [
+            "we don’t know how reliable they are"
+          ]
+        },
+        "pouvoir_faire": {
+          "prominentie": "9",
+          "voorbeelden": [
+            "having power to grant his divine life",
+            "the Word of Jesus can create faith"
+          ]
+        },
+        "dominante_modaliteit": "POUVOIR",
+        "modale_interpretatie": "The sermon emphasizes the inability of the human subject to believe by their own power, necessitating a divine endowment of 'Pouvoir' (Power) through the Word."
+      }
+    },
+    "semiotisch_vierkant_analyse": {
+      "primaire_tegenstelling": {
+        "s1": "Revelation (Word from Outside)",
+        "s2": "Death/Futility",
+        "niet_s1": "Projection (Inner Voice/New Age)",
+        "niet_s2": "Ambiguity/Doubt"
+      },
+      "beweging_in_preek": "Moves from S2 (Death/Tornado) through ~S1 (Self-projection/Jesus Seminar) to S1 (The Word of the Risen Christ).",
+      "theologische_resolutie": "The tension is resolved by the 'Who' (Christ) rather than the 'Why'.",
+      "ernst_van_s2": "High; death and suffering are presented as insurmountable by human effort."
+    },
+    "diagnostische_evaluatie": {
+      "primaire_classificatie": "GRACE",
+      "classificatie_toelichting": "The sermon is profoundly theocentric. It identifies the human as a passive receiver of faith which is 'created' by the external Word of God.",
+      "indicatoren_moralisme": [
+        {
+          "indicator": "Conditional choice",
+          "tekstueel_bewijs": "We can choose a god who suits us",
+          "ernst": "LOW"
+        }
+      ],
+      "indicatoren_genade": [
+        {
+          "indicator": "Divine Initiative",
+          "tekstueel_bewijs": "The Word of Jesus can create faith where there is no faith.",
+          "sterkte": "VERY_STRONG"
+        }
+      ],
+      "exemplarisme_check": {
+        "aanwezig": false,
+        "beschrijving": "Thomas is not an example to follow, but a representative of the human condition who receives grace.",
+        "bijbelse_figuren_als_model": [],
+        "alternatieve_lezing": "Thomas is the Receiver of Christ's self-revelation."
+      },
+      "identificatie_patroon": {
+        "hoorder_identificeert_met": "RECEIVER_SAVED",
+        "effect_op_hoorder": "Relief from the burden of self-generated faith.",
+        "theologische_implicatie": "Monergistic creation of faith."
+      },
+      "narratieve_coherentie": {
+        "coherentie_score": "10",
+        "coherentie_beschrijving": "The sermon perfectly integrates the struggle of the hearer with the narrative of Thomas and the theological necessity of revelation.",
+        "spanning_punten": []
+      }
+    },
+    "theologische_diepte_analyse": {
+      "soteriologie": {
+        "primaire_model": "CHRISTUS_VICTOR",
+        "tekstueel_bewijs": "raised triumphant from the dead never to die again",
+        "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+      },
+      "pneumatologie": {
+        "rol_heilige_geest": "EXTERNAL_HELPER",
+        "competentie_schenking": "Endowment (The Word creates the capacity to believe)."
+      },
+      "hamartologie": {
+        "aard_van_zonde": "GUILT",
+        "ernst_diagnose": "Severe; 'still in your sins' without the Resurrection."
+      },
+      "eschatologie": {
+        "hoop_structuur": "ALREADY_AND_NOT_YET",
+        "actant_van_voltooiing": "God"
+      }
+    },
+    "aanbevelingen": {
+      "actantiele_audit_samenvatting": "The sermon maintains God as the Subject of the primary narrative program.",
+      "subject_herpositionering": {
+        "nodig": false,
+        "huidige_probleem": "None",
+        "voorgestelde_herpositionering": "N/A",
+        "voorbeeld_revisie": "N/A"
+      },
+      "identificatie_herstel": {
+        "nodig": false,
+        "problematische_identificatie": "None",
+        "voorgestelde_identificatie": "N/A",
+        "strategie": "N/A"
+      },
+      "modale_balans": {
+        "huidige_onbalans": "Strongly POUVOIR (Power)",
+        "voorgestelde_balans": "Maintain current balance",
+        "concrete_suggestie": "The emphasis on God's power to create faith is the sermon's greatest strength."
+      },
+      "tegenstander_intensivering": {
+        "nodig": false,
+        "huidige_status": "Opponent (Death/Skepticism) is already high-stakes.",
+        "voorgestelde_intensivering": "N/A",
+        "theologische_rationale": "N/A"
+      },
+      "narratieve_hierarchie_herstel": {
+        "nodig": false,
+        "probleem": "None",
+        "voorgestelde_structuur": "Soteriology remains primary."
+      },
+      "overall_beoordeling": "EXCELLENT",
+      "slotopmerking": "A masterclass in grace-oriented homiletics that refuses to turn the hearer into the hero of their own salvation."
+    },
+    "comparatieve_analyse": {
+      "verschil_met_retorische_analyse": "While a rhetorical analysis might focus on the use of the 'Jesus Seminar' as a foil, Greimasian analysis reveals that the Seminar functions as a semiotic 'Opponent' to the 'Sender' (Revelation).",
+      "verschil_met_exegese": "Exegesis explains the Thomas text; this analysis shows how the sermon *replicates* the actantial structure of the Gospel of John.",
+      "unieke_inzichten_greimas": "Reveals that the 'Inner Voice' is a false 'Sender' that lacks the 'Pouvoir' to overcome the 'Opponent' (Death)."
+    },
+    "appendices": {
+      "volledige_subject_lijst": [
+        "God (entered)",
+        "Word (creates)",
+        "Jesus (said)",
+        "I (stood)",
+        "Paul (traveled)"
+      ],
+      "volledige_object_lijst": [
+        "Faith",
+        "Life",
+        "Wounds",
+        "The Body"
+      ],
+      "werkwoord_frequentie": {
+        "believe": {
+          "count": "18",
+          "primair_subject": "Man"
+        },
+        "raised": {
+          "count": "9",
+          "primair_subject": "God"
+        }
+      },
+      "notities": "The sermon successfully avoids the 'Exemplarism' trap by making the Word the active agent of faith rather than Thomas's willpower."
+    }
+  }
+]

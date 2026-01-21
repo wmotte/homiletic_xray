@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "The Best Search Of All",
+    "bijbeltekst": "John 12:20-21",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human journey is defined as a universal 'search' for fulfillment, identity, and comfort, which finds its ultimate destination in 'seeing' or 'getting hold of' Jesus.",
+      "subject": {
+        "identificatie": "The Human Seeker (The 'Greeks', the Hearer, the Preacher)",
+        "tekstueel_bewijs": [
+          "All of life is a search",
+          "we search for some serene place",
+          "they decided that he [Philip] ought to be a good point of contact",
+          "take hold of that [Jesus]"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Jesus (as a Vision, a Helper, or a Solution)",
+        "tekstueel_bewijs": [
+          "Sir, we would see Jesus",
+          "get hold of his Spirit",
+          "carry it to Jesus"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "Human Ambition / Innate Desire",
+        "tekstueel_bewijs": [
+          "It is a God-given attribute of our humanity to want to count",
+          "Something inside of them remained unfulfilled"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Seeker (Self-fulfillment)",
+        "tekstueel_bewijs": [
+          "he or she will receive one hundredfold in this life",
+          "I will give you the desires of your heart"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Philip / The Preacher / Jesus (Instrumental)",
+        "tekstueel_bewijs": [
+          "Philip... was aptly suited to be the intermediary",
+          "For somebody who is hurt, he is the great Healer"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Brokenness, Guilt, and Mortality",
+        "tekstueel_bewijs": [
+          "broken faith and been disloyal",
+          "the marks of time",
+          "the barge, draped in black"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "While death is mentioned, the primary focus is on the 'sadness' and 'hurt' of the seeker rather than a cosmic or ontological enmity with God."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The preacher's personal struggle with vanity and the use of the pulpit.",
+      "subject": "The Preacher",
+      "object": "Humility/Focus on Jesus",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "The preacher uses his own 'search' for a pure ministry as a model for the congregation's search."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Innate Desire → Jesus → The Fulfilled Self",
+      "helper_subject_tegenstander": "Philip/Preacher → Human Seeker ← Sadness/Guilt",
+      "subject_naar_object": "Human Seeker → Seeing Jesus"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "42",
+      "ratio": "0.33",
+      "voorbeelden_god_subject": [
+        "the Lord has put in us the desire",
+        "I [Jesus] will give you the desires of your heart",
+        "I am the resurrection"
+      ],
+      "voorbeelden_mens_subject": [
+        "we search for some serene place",
+        "we ought to bring our ambitions to Jesus",
+        "take hold of him right there",
+        "carry to Jesus your brokenness"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "We ought to bring our ambitions before the Lord"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "Sir, we would see Jesus",
+          "desire to be something",
+          "wanting to count"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Do not dazzle us with your knowledge"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "get hold of him right there",
+          "It can be done"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It focuses on awakening and directing human desire (Vouloir) toward Jesus as the solution to human lack."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Fulfillment (Seeing Jesus)",
+      "s2": "Mortality/Loss (The Barge)",
+      "niet_s1": "Unfulfillment (The Search)",
+      "niet_s2": "Legacy/Ambition (The Tenth Anniversary)"
+    },
+    "beweging_in_preek": "From the lack of S1 (Searching) through the fear of S2 (Death) to the instrumental use of Jesus to regain S1.",
+    "theologische_resolutie": "Jesus is presented as the one who validates human ambition and comforts human grief, effectively neutralizing S2.",
+    "ernst_van_s2": "Moderate; death is a 'sadness' rather than a 'judgment'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses high Christological language, the actantial subject is consistently the human 'seeker.' Jesus is the Object to be 'gotten hold of' or the Helper who facilitates human success and comfort.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Whatever it is about the Lord that attracts you, take hold of that.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Anthropocentric Subjectivity",
+        "tekstueel_bewijs": "We ought to bring our ambitions to Jesus.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Proclamation of Forgiveness",
+        "tekstueel_bewijs": "Thy sins are forgiven. Your slate is wiped clean.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Greeks and Michelangelo are used as models for human persistence and vision.",
+      "bijbelse_figuren_als_model": [
+        "The Greeks",
+        "Philip"
+      ],
+      "alternatieve_lezing": "Instead of 'The Greeks searched for Jesus,' focus on 'Jesus came to the hour where he would be glorified for the Greeks.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Empowerment of the will; the hearer feels responsible for 'carrying' their life to Jesus.",
+      "theologische_implicatie": "Synergism where human initiative triggers divine response."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The 'Search' metaphor provides strong thematic unity but collapses the distinction between natural desire and spiritual rebirth.",
+      "spanning_punten": [
+        "The transition from 'ambition' to 'forgiveness' feels like a category error."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Look at him, and hear him say to you, 'You are the light of the world.'",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer already has the 'Vouloir' (will) and only needs the 'Object' (Jesus)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is 'breaking faith' with the 'royal' part of oneself, rather than total depravity."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a narrative of human pursuit where Jesus is the prize. The 'engine' is human desire (Vouloir-faire).",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one searching; Jesus is passive until 'found'.",
+      "voorgestelde_herpositionering": "Jesus as the Seeker who finds the lost.",
+      "voorbeeld_revisie": "Instead of 'We search for Jesus,' use 'Jesus has been searching for you since before you knew his name.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Greeks' (seekers).",
+      "voorgestelde_identificatie": "Hearer as the 'Dead Man' (Lazarus context of John 12).",
+      "strategie": "Emphasize that we do not 'see' Jesus by our own power, but he reveals himself to the blind."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "VOULOIR (Desire)",
+      "voorgestelde_balans": "POUVOIR (Grace as Power)",
+      "concrete_suggestie": "Focus on how Jesus gives the power to see, rather than our desire to see."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Death as a 'sad barge'.",
+      "voorgestelde_intensivering": "Death as the 'Last Enemy' that only a Crucified God can defeat.",
+      "theologische_rationale": "Without a heavy opponent, grace becomes a therapeutic 'comfort' rather than a rescue."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ambition (Ethics) is fused with Salvation.",
+      "voorgestelde_structuur": "Salvation (God finds us) → Ethics (We serve because we are found)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically masterful and deeply moving, but structurally anthropocentric. Shifting the verbs from 'our search' to 'His finding' would transform this from a recruitment speech into a Gospel proclamation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'search' theme is brilliant; actantially, it makes the human the hero.",
+    "verschil_met_exegese": "Exegesis would note that in John 12, the Greeks' arrival triggers Jesus' talk of his death (the grain of wheat), which the sermon omits.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'Jesus' functions here as a 'Helper' to human 'Ambition' rather than the Sovereign Subject of the narrative."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We search",
+      "Greeks desired",
+      "You have a sphere of influence",
+      "We ought to bring",
+      "Take hold of him"
+    ],
+    "volledige_object_lijst": [
+      "Jesus",
+      "Comfort",
+      "Identity",
+      "Security",
+      "Forgiveness"
+    ],
+    "werkwoord_frequentie": {
+      "search": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "see": {
+        "count": "9",
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Vouloir' (will/desire) of the hearer to bridge the gap to the Divine."
+  }
+}

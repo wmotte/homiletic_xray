@@ -1,0 +1,324 @@
+{
+  "metadata": {
+    "titel_preek": "On Asking Rightly",
+    "bijbeltekst": "Psalm 1; James 4:1-3; Matthew 7:7-11",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A socio-theological analysis of 'wrong asking' (greed/empire) versus 'right asking' (Torah/Kingdom). The preacher uses James and Jesus to critique the US economy as a parallel to Rome.",
+      "exegetische_kwaliteit": "High. Strong integration of intertextual links between James, Galatians, and the Psalms, though used primarily for social critique.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is ASSERTING (describing the state of the world) and DIRECTING (suggesting how to pray). There is a notable absence of DECLARING.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "7",
+      "voorbeelden": [
+        "The Roman Empire was an economy of bragging rights.",
+        "James identifies two violations of the Big Ten.",
+        "So ask for all the creatures."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the hearer aware of their complicity in a 'greed system' and to motivate a change in prayer habits.",
+      "pneumatologisch_bewustzijn": "Minimal. The Spirit is mentioned as a source of 'fruit' (Galatians quote), but not as the active agent of the preaching event itself.",
+      "perlocutionaire_werkwoorden": [
+        "realize",
+        "reflect",
+        "reorient",
+        "critique"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "The Roman Empire was an economy...",
+        "It is not a new idea...",
+        "James identifies two violations..."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "identifies",
+        "means",
+        "describes"
+      ]
+    },
+    "directieven": {
+      "frequentie": "28",
+      "procent": "15%",
+      "voorbeelden": [
+        "So ask for all the creatures.",
+        "Ask modestly.",
+        "Be sure it is broken bread."
+      ],
+      "dominante_werkwoorden": [
+        "ask",
+        "be",
+        "meditate"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "I do not know how it is in Chicago.",
+        "I wondered."
+      ],
+      "dominante_werkwoorden": [
+        "wondered",
+        "know"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "The Father is ready to give bread.",
+        "The mother God is prepared to give you a fish."
+      ],
+      "dominante_werkwoorden": [
+        "is ready",
+        "is prepared"
+      ],
+      "kwaliteit": "Weak. These are stated as general theological truths (Assertive-Commissives) rather than direct promises from God to the hearer in the moment."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher does not speak 'in persona Christi' to change the hearer's status."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical comparison to Rome",
+        "Third-person descriptions of James's writing",
+        "Analysis of social statistics (Cincinnati poverty line)"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a social lecture rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'to-do' list (ask better) without the 'done' of the Gospel."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "N/A",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "12",
+        "gebruik": "Preacher's personal wonderings and observations."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Mostly used in the context of 'you ask wrongly' (reprimand) or quoting Jesus.",
+        "performatieve_context": "Used for moral exhortation, not for the delivery of grace."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant. Discussing 'the empire', 'the church', 'James', 'the children'.",
+        "distantie_effect": "Creates a sociological distance; the sermon is 'about' things."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical Rome and James's context."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about the economy and theology."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the sermon is mostly for social critique."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Social Analysis) -> Directive (Ask differently).",
+      "voorbeelden": [
+        "The empire is greedy... so ask with disciplined restraint."
+      ],
+      "probleem": "It bypasses the Commissive/Declarative. There is no 'God gives you the power to ask' or 'You are forgiven for your greed'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "But you do not receive... because you ask wrongly... So ask for the neighborhood."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While the sermon is socially progressive, its speech-act structure is legalistic: it describes a problem and demands a behavioral change in prayer without a sacramental 'event' of grace.",
+    "sterke_punten": [
+      {
+        "aspect": "Social Analysis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The Roman Empire was an economy of bragging rights...",
+        "effect": "Provides a sharp, intellectual framework for understanding sin."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The Father is ready to give...",
+        "probleem": "It talks about God's readiness instead of God actually giving.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "3",
+    "gebeuren_toelichting": "The sermon is an 'analysis' of an event (James's letter) but does not become an event itself.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "The Word is used as information, not as a creative force that changes the hearer's reality."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of discussion.",
+      "prediker_als_mandataris": "Weak. The preacher acts more as a social critic/professor.",
+      "tekstueel_bewijs": [
+        "So I wondered...",
+        "James writes to give advice..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Only as a quote from Galatians.",
+      "perlocutie_theologie": "No. The effect seems to depend on the hearer's 'disciplined restraint'.",
+      "tekstueel_bewijs": [
+        "The fruit of the spirit is..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a 'summons to transform structures'.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "It is a mighty challenge to the dominant greed system."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 3rd person 'is/was' verbs; needs 2nd person 'I promise/I give' verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Father is ready to give bread.",
+          "voorgestelde_revisie": "Today, the Father gives you the bread of life.",
+          "verschil": "Shifts from a description of God's character to an act of God's giving."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'good news' is at the very end and is stated as a general principle.",
+      "suggestie": "Move the promise of 'prospering' to the center and address it directly to the hearer's struggle with greed.",
+      "voorbeeldzinnen": [
+        "In Christ, you are released from the empire of craving."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' and 'the empire'.",
+      "suggestie": "Use 'we' and 'you' to implicate the hearer and then liberate them.",
+      "voorbeeldzinnen": [
+        "You are no longer a slave to this predatory economy."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative (ask rightly) is not fueled by a declarative (you are God's child).",
+      "suggestie": "Establish the hearer's identity in Christ before demanding 'right asking'."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is intellectually stimulating but homiletically 'stuck' in the constative. It describes the world brilliantly but fails to perform the Kingdom."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about Cincinnati; SAT reveals the lack of a 'Divine Mandate' in the speech acts.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is strong (metaphors of Rome/US); SAT shows it lacks the 'sacramental punch' of a declarative.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Good News' mention at the end, the illocutionary force remains Assertive/Directive throughout."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "is",
+        "identifies",
+        "implies",
+        "propels",
+        "means",
+        "concerns"
+      ],
+      "directief": [
+        "ask",
+        "search",
+        "knock",
+        "be",
+        "meditate"
+      ],
+      "expressief": [
+        "wondered",
+        "know"
+      ],
+      "commissief": [
+        "is ready",
+        "is prepared"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The Roman Empire was an economy of bragging rights.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing history.",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "Ask for bread, but be sure it is broken bread.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Commanding a specific prayer style.",
+        "effectiviteit": "Moralistic without grace-foundation."
+      }
+    ],
+    "notities": "The sermon functions as a 'prophetic lecture' rather than a 'sacramental event'."
+  }
+}

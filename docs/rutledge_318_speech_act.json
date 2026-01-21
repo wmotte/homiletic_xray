@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "titel_preek": "It is finished",
+    "bijbeltekst": "John 19:29-30; Hebrews 10:1-4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explains the Greek meaning of 'Tetelestai' (consummatum est) and connects Jesus' death to the Old Testament sacrificial system and modern examples of guilt (Iraq war, Saving Private Ryan).",
+      "exegetische_kwaliteit": "High. Strong focus on the distinction between 'over' and 'perfected' and the typology of Hebrews.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is explaining and asserting the sufficiency of Christ's work, though it struggles to move from 'explaining the promise' to 'delivering the promise' directly to the hearer.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Jesus is announcing that... he is actually the conqueror",
+        "The animal sacrifices of the Old Testament were an imperfect method",
+        "It has already been done for us"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Relief from the burden of 'earning' salvation; assurance of the sufficiency of Christ.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned as a historical fact (Jesus giving his Spirit) but not as the active agent of the sermon's current reception.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "rest",
+        "cease striving",
+        "accept"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The English is ambiguous, but the Greek is not.",
+        "He has done what he came into the world to do.",
+        "The book of Leviticus is the place to look."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "means",
+        "says",
+        "was",
+        "describes"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Now we need to ask further...",
+        "We should go back to the very beginning...",
+        "Behold the Lamb of God."
+      ],
+      "dominante_werkwoorden": [
+        "ask",
+        "look",
+        "go back",
+        "behold"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "I feel sure you will agree...",
+        "I am thinking about...",
+        "I am remembering another news story..."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "think",
+        "remember",
+        "agree"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "10",
+      "procent": "6%",
+      "voorbeelden": [
+        "He is the true source of all fruit and life.",
+        "That is the message for... each and every one of us.",
+        "It is freely accomplished through the self-giving of Christ."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "accomplished",
+        "given"
+      ],
+      "kwaliteit": "Moderate. The promises are stated as general theological facts rather than direct 'I promise you' addresses."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "It is finished.",
+        "It is enough.",
+        "It is once-for-all."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Weak. The preacher quotes Jesus' declaration but rarely speaks declaratively in their own office (e.g., 'Your sins are forgiven')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of movie and news analogies (Saving Private Ryan, Iraq war) to describe the *concept* of guilt.",
+        "Detailed grammatical explanation of Greek vs Latin.",
+        "Talking *about* the corporal and the bishop rather than addressing the hearer's own guilt."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of other people's guilt and Jesus' historical victory, rather than a participant in the event of justification."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct address of the promise",
+        "Sacramental 'Now' language"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "Indirect. The 'toezegging' is mediated through the third person ('That is the message for... us').",
+      "voorbeelden": [
+        "It has already been done for us."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Homiletical 'I' (thinking, remembering) and inclusive 'we' (theological generalities)."
+      },
+      "tweede_persoon": {
+        "frequentie": "5",
+        "gebruik": "Very limited. Mostly used in quotes of Jesus or 'you will agree'.",
+        "performatieve_context": "Low."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant. Talking about Jesus, the corporal, the bishop, the soldiers, and the Greek text.",
+        "distantie_effect": "High. Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Historical narrative of the Passion and news stories."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological truths about the nature of sacrifice."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The concluding 'It is enough'."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Explanation of guilt/sacrifice) -> Assertive (Jesus finished it). It lacks a clear transition to a Declarative address to the hearer.",
+      "voorbeelden": [
+        "Explanation of Iraq war corporal -> Explanation of Hebrews -> 'It is finished'."
+      ],
+      "probleem": "The sermon remains in the realm of 'information about' the atonement."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon fails to move from the indicative of the text to the declarative 'I' of the preacher.",
+      "voorbeelden": null,
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The sermon ends on an indicative ('It is enough') without a performative bridge to the hearer's life."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-quality theological essay on the sufficiency of Christ, but it talks *about* the event of the cross rather than *becoming* the event of the cross for the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The distinction between 'It's over' and 'It is perfected'.",
+        "effect": "Clarifies the biblical text's depth."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Declarative",
+        "tekstueel_bewijs": "The use of 'I am thinking about' instead of 'Hear the Word of the Lord'.",
+        "probleem": "Subjectivizes the preacher's process rather than objectifying the Word's power.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a meditation on an event, not an event itself. The 'event' happened in the past; the sermon describes it well but doesn't re-present it.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) directed at the 'You' of the congregation."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the talk, but not the speaker of the sermon.",
+      "prediker_als_mandataris": "Weak. The preacher acts as a teacher/commentator.",
+      "tekstueel_bewijs": [
+        "I am thinking about...",
+        "I feel sure you will agree..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimally.",
+      "perlocutie_theologie": "Implicitly left to the hearer's agreement.",
+      "tekstueel_bewijs": [
+        "creating the new community that will bear his Spirit"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, the sermon is treated as an explanation of the means of grace (the Cross).",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "That is the message for... each and every one of us."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is buried in 3rd person 'is' and 'was' verbs. It needs a shift to 2nd person present tense performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "It has already been done for us.",
+          "voorgestelde_revisie": "Because Christ died, I declare to you: your debt is paid.",
+          "verschil": "Moves from a general truth to a specific, reality-changing declaration."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is 'talked about' via the Iraq corporal.",
+      "suggestie": "Directly address the 'corporal' in the pew.",
+      "voorbeeldzinnen": [
+        "To you who feel you haven't 'earned it': Christ says, 'It is finished for you'."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I am thinking' and 'The reporter wrote'.",
+      "suggestie": "Use the 'I-Thou' relationship of the pulpit.",
+      "voorbeeldzinnen": [
+        "You do not need to earn this."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The indicative is strong but remains historical/abstract.",
+      "suggestie": "Ground the 'rest' (imperative) in the 'absolution' (declarative)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and exegetically sound, but it remains a 'lecture on grace' rather than an 'act of grace'. To move toward a sacramental event, the preacher must dare to speak in the name of Christ to the 'you' of the listener."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (I am thinking about...), whereas SAT reveals the lack of a 'Declarative' act that changes the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetorically, the Iraq story is moving; but SAT shows it functions only as an illustration (locution) rather than a means of grace (illocution).",
+    "unieke_inzichten_SAT": "SAT identifies that the sermon's failure to be an 'event' is due to the dominance of Assertives over Commissives/Declaratives."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "means",
+        "was",
+        "described",
+        "wrote",
+        "continues",
+        "identifies"
+      ],
+      "directief": [
+        "ask",
+        "look",
+        "behold",
+        "go back"
+      ],
+      "expressief": [
+        "feel",
+        "agree",
+        "thinking",
+        "remembering"
+      ],
+      "commissief": [
+        "promises (implied)",
+        "gives",
+        "accomplished"
+      ],
+      "declaratief": [
+        "finished",
+        "perfected"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The Latin says it splendidly: Consummatum est.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Information",
+        "effectiviteit": "Low (Academic)"
+      },
+      {
+        "zin": "It is finished. It is accomplished. It is enough.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Proclamation",
+        "effectiviteit": "High (Sacramental potential)"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' the Gospel. It uses the third person to describe the second person's need."
+  }
+}

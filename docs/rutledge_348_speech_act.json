@@ -1,0 +1,513 @@
+{
+  "metadata": {
+    "titel_preek": "Midnight in the Kingdom of Death",
+    "bijbeltekst": "John 20:1-10",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the theme of 'night' in the Gospel of John, connecting the darkness of the tomb to the existential darkness of human grief and death, culminating in the empty tomb.",
+      "exegetische_kwaliteit": "High. Strong thematic tracing of 'night' and 'darkness' throughout the Johannine corpus.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts the reality of death and the historical narrative of the resurrection, shifting at the very end to a call for belief.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "7",
+      "voorbeelden": [
+        "The symbolism of night and darkness pervades the Gospel of John.",
+        "Jesus has entered the realm of Death.",
+        "Do you believe this?"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should move from the despair of 'night' to the hope of the resurrection through faith.",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is not explicitly mentioned as the agent of faith or the one making the word effective.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "receive",
+        "hope",
+        "rejoice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The symbolism of night and darkness pervades the Gospel.",
+        "The dead must cross over the black waters.",
+        "The Resurrection happened at night."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "tells",
+        "was",
+        "happened"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Do you believe this?",
+        "Let our answer be hers."
+      ],
+      "dominante_werkwoorden": [
+        "believe",
+        "let"
+      ],
+      "fundament_check": "true"
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "He was heartbroken about this.",
+        "I have a dear friend..."
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "felt",
+        "begged"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "Whoever believes in me... shall never die."
+      ],
+      "dominante_werkwoorden": [
+        "shall live",
+        "shall never die"
+      ],
+      "kwaliteit": "The promises are quoted from Scripture (Jesus' words) rather than being directly uttered by the preacher as a mandate."
+    },
+    "declaratieven": {
+      "frequentie": "5",
+      "procent": "5%",
+      "voorbeelden": [
+        "Alleluia! Christ is risen!",
+        "The Lord is risen indeed!"
+      ],
+      "dominante_werkwoorden": [
+        "is risen"
+      ],
+      "autoriteit": "The authority is found in the liturgical formula at the end, which functions as a reality-changing declaration."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": "true",
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive description of Johannine themes",
+        "Narrative retelling of the burial",
+        "Third-person descriptions of Mary and the disciples"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a biblical drama rather than a participant in a current event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": "true",
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct personal promise from the preacher to the congregation",
+        "Present-tense address of the risen Christ to the 'you' in the pews"
+      ],
+      "effect_op_hoorder": "The resurrection remains a historical fact to be believed rather than a present power to be encountered."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": "true",
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "The promise is mediated through a quote of Jesus to Martha, creating a slight distance.",
+      "voorbeelden": [
+        "Whoever lives and believes in me shall never die."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Personal anecdotes and homiletical 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Direct existential questioning ('Have you buried someone?').",
+        "performatieve_context": "Used mostly in the context of shared human suffering rather than the delivery of grace."
+      },
+      "derde_persoon": {
+        "frequentie": "80",
+        "gebruik": "Describing Jesus, Mary, Peter, and the Gospel themes.",
+        "distantie_effect": "Creates a strong narrative distance; the 'event' is 'back then'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical narrative and historical context."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Thematic analysis of John's Gospel."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The liturgical 'Alleluia' and the final call to believe."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": "true",
+      "beschrijving": "Assertive (Death is dark) -> Directive (Do you believe?).",
+      "voorbeelden": [
+        "The realm of darkness appears to be victorious... Do you believe this?"
+      ],
+      "probleem": "The leap from the 'darkness' to 'belief' lacks a strong, present-tense declarative bridge from the preacher."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": "false",
+      "beschrijving": "The sermon lacks a strong 'I declare to you' or 'Christ says to you today' moment that isn't a quote from the past.",
+      "voorbeelden": [],
+      "kwaliteit": "Weak"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": "true",
+      "imperatief_gefundeerd": "true",
+      "voorbeelden_goede_verhouding": [
+        "In believing, receive the gift of eternal light."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "Do you believe this? (Asked before the promise is fully applied to the hearer)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a masterclass in Johannine theology and existential reflection, but it functions more as a lecture on the 'theology of night' than a sacramental event where the Word does what it says.",
+    "sterke_punten": [
+      {
+        "aspect": "Thematic Cohesion",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The tracing of 'night' from Nicodemus to Judas to the tomb.",
+        "effect": "Creates a profound sense of the 'need' for resurrection."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The long sections describing what 'John tells us' or 'we read'.",
+        "probleem": "Objectifies the Gospel; the hearer is an observer of John's writing rather than a recipient of Christ's life.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": "5",
+    "gebeuren_toelichting": "The 'event' is largely deferred to the liturgical response (Alleluia) at the very end, rather than happening through the preaching itself.",
+    "sacramentele_kracht": "4",
+    "sacramentele_toelichting": "The preacher acts as a commentator on the text rather than a mandatory of the living Christ."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God speaks through the quoted text, but the preacher does not explicitly speak 'in persona Christi'.",
+      "prediker_als_mandataris": "The preacher acts as a reliable witness/teacher rather than a herald.",
+      "tekstueel_bewijs": [
+        "Let John tell us",
+        "We read that..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to the hearer's 'answer'.",
+      "tekstueel_bewijs": [
+        "Let our answer be hers."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon prepares the way for the 'Alleluia' but doesn't fully function as the 'means' itself.",
+      "epifanisch_taalgebruik": "Limited to the final paragraph.",
+      "tekstueel_bewijs": [
+        "Receive the gift of eternal light."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense and third-person verbs. Needs a shift to present-tense second-person performatives.",
+    "performatieve_intensivering": {
+      "nodig": "true",
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The rising sun revealed the victory already accomplished.",
+          "voorgestelde_revisie": "Today, the rising Sun of Righteousness shines upon you, shattering your darkness.",
+          "verschil": "Moves from historical observation to present-tense impact."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": "true",
+      "probleem": "The promise is a quote from the past.",
+      "suggestie": "Directly address the congregation with the promise.",
+      "voorbeeldzinnen": [
+        "Because He lives, I promise you in His name: you shall not die but live."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": "true",
+      "probleem": "Too much 'John tells us'.",
+      "suggestie": "Replace 'The Gospel says' with 'Christ says to you'.",
+      "voorbeeldzinnen": [
+        "Christ comes into your night right now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": "true",
+      "probleem": "The 'Do you believe?' comes before the preacher has 'given' the grace.",
+      "suggestie": "Declare the resurrection as a gift for the hearer first."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A beautifully written, intellectually stimulating sermon that captures the mood of the Easter Vigil, but requires more 'illocutionary nerve' to become a truly sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about his friend; SAT focuses on whether the preacher actually 'does' the resurrection in the speaking.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'night' metaphor; SAT critiques the lack of reality-changing verbs.",
+    "unieke_inzichten_SAT": "SAT reveals that quoting a promise is not the same as making a promise."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "pervades",
+        "hear",
+        "comes",
+        "came",
+        "issues",
+        "loved",
+        "teaches",
+        "is",
+        "spoke",
+        "tells",
+        "was",
+        "dips",
+        "gives",
+        "entered",
+        "went",
+        "reign",
+        "dramatized",
+        "stripped",
+        "extinguished",
+        "designed",
+        "dies",
+        "appears",
+        "is",
+        "came",
+        "ask",
+        "brought",
+        "used",
+        "bound",
+        "placed",
+        "lay",
+        "was forbidden",
+        "is",
+        "entered",
+        "is",
+        "must cross",
+        "has been given",
+        "is",
+        "say",
+        "descended",
+        "rules",
+        "lies",
+        "is",
+        "have buried",
+        "will",
+        "will come",
+        "know",
+        "means",
+        "is",
+        "must stare",
+        "will come",
+        "means",
+        "came",
+        "was",
+        "is",
+        "come",
+        "go",
+        "is",
+        "throw",
+        "bury",
+        "is",
+        "died",
+        "were determined",
+        "scatter",
+        "was",
+        "begged",
+        "agreed",
+        "told",
+        "was",
+        "can go",
+        "are",
+        "can do",
+        "cope",
+        "walking",
+        "sitting",
+        "are",
+        "are able",
+        "snatch",
+        "disappear",
+        "give birth",
+        "gleams",
+        "is",
+        "came",
+        "go",
+        "goes",
+        "lay",
+        "remember",
+        "seek",
+        "visit",
+        "read",
+        "imagine",
+        "think",
+        "go",
+        "go",
+        "read",
+        "goes",
+        "visit",
+        "expect",
+        "would make",
+        "stand",
+        "did go",
+        "are not told",
+        "is",
+        "was not expecting",
+        "were",
+        "were",
+        "came",
+        "went",
+        "expected",
+        "see",
+        "happen",
+        "came",
+        "saw",
+        "had been removed",
+        "ran",
+        "had been stolen",
+        "could be",
+        "run",
+        "see",
+        "are running",
+        "see",
+        "has been stolen",
+        "happens",
+        "let",
+        "tell",
+        "outran",
+        "reached",
+        "stooping",
+        "look",
+        "saw",
+        "did not go",
+        "came",
+        "following",
+        "went",
+        "saw",
+        "had been",
+        "lying",
+        "rolled up",
+        "reached",
+        "went",
+        "saw",
+        "believed",
+        "did not know",
+        "must rise",
+        "remember",
+        "wants",
+        "know",
+        "was",
+        "did not know",
+        "had happened",
+        "got",
+        "was",
+        "revealed",
+        "was",
+        "would stop",
+        "unwrap",
+        "had passed",
+        "happened",
+        "was",
+        "happened",
+        "arrived",
+        "was",
+        "arose",
+        "carried",
+        "revealed",
+        "is accomplished",
+        "says",
+        "said",
+        "is",
+        "believes",
+        "die",
+        "shall live",
+        "lives",
+        "believes",
+        "shall never die",
+        "believe",
+        "believe",
+        "are",
+        "believing",
+        "is risen",
+        "is risen"
+      ],
+      "directief": [
+        "Do you believe this?",
+        "What do you think?",
+        "Let our answer be hers",
+        "receive"
+      ],
+      "expressief": [
+        "heartbroken",
+        "grateful",
+        "shivers and chills"
+      ],
+      "commissief": [
+        "shall live",
+        "shall never die"
+      ],
+      "declaratief": [
+        "Alleluia",
+        "Christ is risen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The symbolism of night and darkness pervades the Gospel of John.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Weak (Informative)",
+        "effectiviteit": "Low - it is a literary observation."
+      },
+      {
+        "zin": "He arose from the kingdom of Death and carried away its spoils.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Moderate (Testifying)",
+        "effectiviteit": "High - it builds the narrative climax."
+      },
+      {
+        "zin": "Alleluia! Christ is risen!",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Strong (Performative)",
+        "effectiviteit": "Very High - it changes the atmosphere of the room."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'locutionary' beauty of the Johannine text. To move from 'talking about' to 'event', the preacher needs to appropriate the 'I' of the promise more directly."
+  }
+}

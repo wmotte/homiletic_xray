@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "A Mighty Oak Is Fallen",
+    "bijbeltekst": "Revelation 2:10",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "What an odyssey — what a journey — what a pilgrimage",
+          "traversed this land",
+          "flight was before mine",
+          "come out to the arrival gate"
+        ],
+        "conceptuele_metafoor": "LIFE IS A JOURNEY / DEATH IS A DEPARTURE"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "sword unsheathed",
+          "armor still in place",
+          "fell facing the foe",
+          "scent of the battle still on his garment"
+        ],
+        "conceptuele_metafoor": "FAITHFULNESS IS SPIRITUAL WARFARE"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "vaccinated against racism",
+          "inoculation flowed through the bloodstream"
+        ],
+        "conceptuele_metafoor": "MORAL VIRTUE IS BIOLOGICAL IMMUNITY"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "vaccinated against racism by the Spirit of Christ",
+        "brondomein": {
+          "naam": "Immunology",
+          "concrete_elementen": [
+            "vaccine",
+            "inoculation",
+            "bloodstream"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sanctification/Moral Character",
+          "doctrinale_traditie": "Black Social Gospel / Baptist"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Vaccine",
+            "doel_element": "Spirit of Christ"
+          },
+          {
+            "bron_element": "Disease",
+            "doel_element": "Racism"
+          },
+          {
+            "bron_element": "Bloodstream",
+            "doel_element": "Generational Heritage"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Racism is an external pathogen that can be resisted through spiritual intervention."
+          ],
+          "theologische_implicaties": [
+            "Grace acts as a preventative medicine rather than just a cure for past sins."
+          ],
+          "ethische_implicaties": [
+            "Parents have a responsibility to 'immunize' their children against social evils."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that racism is a biological/passive condition rather than a systemic or volitional sin."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the medical domain in a non-traditional way by applying it to social justice rather than physical healing."
+      },
+      {
+        "metafoor_expressie": "mighty oak has fallen... gaping and glaring space against the sky",
+        "brondomein": {
+          "naam": "Arboriculture",
+          "concrete_elementen": [
+            "oak tree",
+            "falling",
+            "skyline"
+          ],
+          "belichaamde_basis": "verticality"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Death of a Leader",
+          "doctrinale_traditie": "General Christian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Height of the tree",
+            "doel_element": "Moral stature of the man"
+          },
+          {
+            "bron_element": "Empty space in the canopy",
+            "doel_element": "Grief/Loss in the community"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The subject was a source of shade/protection for others."
+          ],
+          "theologische_implicaties": [
+            "Godly men are rooted and provide stability to the 'forest' of the church."
+          ],
+          "ethische_implicaties": [
+            "The community must now deal with the exposure caused by his absence."
+          ],
+          "onbedoelde_consequenties": [
+            "Focuses on the loss of the individual rather than the continuity of the forest (church)."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A common eulogy trope, though the 'gaping space' imagery adds fresh visual depth."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MIXED",
+      "coherentie_verklaring": "The preacher moves rapidly between nature (oak, meteor), travel (odyssey, airports), and medieval warfare. While emotionally resonant, the cognitive mappings are disparate.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "Medieval Knight (sword/armor)",
+          "metafoor_b": "Modern Traveler (airport terminal/arrival gate)",
+          "conflict_beschrijving": "The preacher shifts from a knight with a sword to a passenger checking a flight board.",
+          "entailment_conflict": "A knight's 'arrival' is a triumphal entry; a passenger's 'arrival' is a logistical meeting. The tools of the source domains (swords vs. flight boards) are cognitively jarring.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Description of character",
+          "gemengde_metaforen": [
+            "Prince",
+            "Poet",
+            "Brocade"
+          ],
+          "blending_strategie": "Thematic clustering under the concept of 'Nobility'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The use of 'vaccination' for racism is a powerful, living metaphor that reframes social justice in biological/spiritual terms.",
+        "voorbeeld": "his father and mother had been vaccinated against racism"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The detailed description of the 'arrival gate' in heaven risks turning a spiritual hope into a mundane logistical event.",
+        "voorbeeld": "Please come to the terminal... come out to the arrival gate.",
+        "potentiele_impact": "May trivialize the transcendence of the afterlife.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A funeral service in a historic church (Abyssinian).",
+      "sub_worlds": [
+        "The Tidewater (pastoral past)",
+        "The Airport (modern itinerant ministry)",
+        "The Medieval Castle (mystic afterlife)",
+        "The Balcony of Heaven (celestial observation)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "End of sermon",
+          "van_wereld": "The pulpit/funeral",
+          "naar_wereld": "The arrival gate in heaven",
+          "effectiviteit": "Highly effective for emotional closure."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Great Man Theory",
+          "hoe_versterkt": "By using metaphors of height (oak, prince, stars) to distinguish Proctor from 'rough gingham' commoners."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Death as Defeat",
+          "verstoring_strategie": "Reframing death as a 'flight' or a 'promotion' to a higher castle.",
+          "vervangend_schema": "Death as a Transition/Arrival"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits perfectly with the 'Homegoing' tradition of the Black Church."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is a rich tapestry of 'High' metaphors (Verticality) and 'Movement' metaphors (Journey). It successfully elevates the deceased to a mythic status while grounding his work in the grueling reality of travel and labor.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Heaven",
+        "huidige_status": "Conventional/Dead (Golden streets)",
+        "suggestie": "Lean more into the 'Architecture' metaphor used briefly at the end.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The city of perfect architecture where every stone is a life well-lived."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "Knight vs. Airline Passenger",
+        "resolutie_strategie": "Bridge the two by using the concept of 'The Envoy' or 'The Ambassador' which fits both travel and nobility."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Mighty Oak",
+        "problematisch_entailment": "An oak is stationary; Proctor was itinerant.",
+        "aanbeveling": "Use the 'Oak' for his character and the 'River' for his ministry."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To connect the 'Oak' and 'Tidewater' beginnings to the 'harvest' of his students.",
+        "doel_concept": "Legacy"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in homiletical world-building that uses metaphors to bridge the gap between the temporal and the eternal."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'beauty' of the oak imagery, CMT reveals how this metaphor structures the audience's perception of Proctor's moral authority as 'natural' and 'immovable'.",
+    "verschil_met_kolb": "Unlike Kolb's focus on the experience of the listener, CMT shows how the preacher's specific source domains (airports, vaccines) dictate the logical boundaries of the theology presented.",
+    "unieke_inzichten_CMT": "CMT identifies the 'Vaccination' metaphor as the most cognitively innovative part of the sermon, shifting racism from a 'sin of the heart' to a 'pathogen of the environment'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Thimble emptying an ocean",
+      "Mighty oak",
+      "Meteor flashing",
+      "Feet resting in the sea",
+      "Vaccinated against racism",
+      "Rough gingham vs rich brocade",
+      "Scrape the sky",
+      "Cathedral bells in his soul",
+      "Sword unsheathed",
+      "Balcony of heaven",
+      "Arrival gate"
+    ],
+    "woord_frequentie_analyse": {
+      "faithful": "12",
+      "land": "5",
+      "prince": "3",
+      "sky": "4"
+    },
+    "notities": "The sermon relies heavily on the 'UP IS GOOD' orientational metaphor."
+  }
+}

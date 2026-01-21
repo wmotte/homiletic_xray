@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "titel_preek": "Bibelarbeit zu Psalm 118",
+    "bijbeltekst": "Psalm 118",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Der Baustein, den die Bauleute verwarfen, ist zum Eckstein geworden",
+          "Öffne mir das Tor der Gerechtigkeit",
+          "Eckstein für das neue Haus aller Menschen"
+        ],
+        "conceptuele_metafoor": "SOCIETY IS A BUILDING / JUSTICE IS AN ENTRANCE"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "The world is not for sale",
+          "Glaubenskärglichkeit verhungern",
+          "Selbstbereicherung der Reichen",
+          "Globalisierungsgewinner"
+        ],
+        "conceptuele_metafoor": "LIFE IS A COMMODITY (REJECTED) / FAITH IS SUSTENANCE"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Du stellst meine Füße auf weiten Raum",
+          "zur Hoffnung doch erst unterwegs",
+          "Weg zu Gott"
+        ],
+        "conceptuele_metafoor": "FAITH IS MOVEMENT FROM CONFINEMENT TO EXPANSION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Du stellst meine Füße auf weiten Raum",
+        "brondomein": {
+          "naam": "Spatial Orientation",
+          "concrete_elementen": [
+            "feet",
+            "wide space",
+            "standing"
+          ],
+          "belichaamde_basis": "verticality/balance/expansion"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Salvation/Freedom",
+          "doctrinale_traditie": "Lutheran/Liberation Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Narrowness (Enge)",
+            "doel_element": "Anxiety/Oppression"
+          },
+          {
+            "bron_element": "Wide Space (Weite)",
+            "doel_element": "Divine Grace/Possibility"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Freedom is physical relief from pressure",
+            "God provides the ground for action"
+          ],
+          "theologische_implicaties": [
+            "Salvation is not just internal but situational",
+            "God is the 'Space-Giver'"
+          ],
+          "ethische_implicaties": [
+            "Resistance against 'TINA' (There Is No Alternative)",
+            "Seeking 'wide' social structures"
+          ],
+          "onbedoelde_consequenties": [
+            "Potential loss of the 'narrow path' discipline"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the biblical phrase by contrasting it with the modern 'TINA' syndrome and neoliberal constraints."
+      },
+      {
+        "metafoor_expressie": "Der Baustein, den die Bauleute verwarfen, ist zum Eckstein geworden",
+        "brondomein": {
+          "naam": "Construction",
+          "concrete_elementen": [
+            "discarded stone",
+            "cornerstone",
+            "builders"
+          ],
+          "belichaamde_basis": "balance/support"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Christology/Social Justice",
+          "doctrinale_traditie": "Ecumenical/Social-Critical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Discarded stone",
+            "doel_element": "The poor/marginalized"
+          },
+          {
+            "bron_element": "Cornerstone",
+            "doel_element": "Foundation of a new society"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Value is found in what is rejected",
+            "The structure of the world is upside down"
+          ],
+          "theologische_implicaties": [
+            "God works through the 'losers' of history"
+          ],
+          "ethische_implicaties": [
+            "Solidarity with the 'discarded' (landless, sex slaves)"
+          ],
+          "onbedoelde_consequenties": [
+            "Idealization of poverty"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A standard biblical metaphor applied here to global economic structures."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The sermon centers on the tension between 'Enge' (confinement/anxiety) and 'Weite' (freedom/grace). All metaphors—economic, architectural, and spatial—serve this central binary.",
+      "incoherentie_punten": [],
+      "succesvolle_blending": [
+        {
+          "locatie": "Section on Globalisation",
+          "gemengde_metaforen": [
+            "Economic Transaction",
+            "Spatial Confinement"
+          ],
+          "blending_strategie": "The preacher frames neoliberalism as a 'prison' (Enge) and the Gospel as 'The world is not for sale' (Weite)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the source domain of 'Enge' (narrowness) by linking it to the etymology of 'Angst' and modern economic pressure.",
+        "voorbeeld": "Enge und Angst haben im Deutschen dieselbe Wurzel."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "By using economic language to fight economics, there's a risk of framing faith as a better 'deal'.",
+        "voorbeeld": "fabelhafter kontrakt",
+        "potentiele_impact": "The hearer might still think in transactional terms.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A globalized world under the 'Lords of the World' (multinational corporations).",
+      "sub_worlds": [
+        "The Temple procession in Jerusalem",
+        "The 'Café' of the grandchild",
+        "The landless movement in Brazil"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Grandchild story",
+          "van_wereld": "Neoliberal critique",
+          "naar_wereld": "Child's play/Imagination",
+          "effectiviteit": "Highly effective in illustrating 'transcendence' as not thinking 'only in real terms'."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Liberator",
+          "hoe_versterkt": "God is the one who moves the believer from the 'narrow' to the 'wide' space."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "TINA (There Is No Alternative)",
+          "verstoring_strategie": "Labeling it a 'syndrome' and contrasting it with the 'wide space' of the Psalm.",
+          "vervangend_schema": "The World is Not for Sale / Utopia"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly connected to the 'Fronleichnam' (Corpus Christi) procession context."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is a masterclass in using spatial metaphors (Enge vs. Weite) to bridge ancient text and modern socio-economic reality. It avoids 'dead' religious language by grounding abstract concepts in the physical sensation of breathing and moving.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "God as Psalm/Song",
+        "huidige_status": "A bit abstract in the text.",
+        "suggestie": "Deepen the source domain of 'breath' and 'vibration'.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Gott ist der Atem, der die flügellahmen Lungen weitet."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The 'Mask' metaphor vs. 'Lying'",
+        "resolutie_strategie": "Clarify that the 'mask' of the ancestors' language is not a lie, but a 'prophetic rehearsal'."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "The world is not for sale",
+        "problematisch_entailment": "Implies God 'owns' it in a way that might mirror property rights.",
+        "aanbeveling": "Emphasize 'Gift' (Gabe) over 'Property' (Eigentum)."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "BIOLOGICAL/ORGANIC",
+        "rationale": "To counter 'cloning' and 'genetic engineering' mentioned in the text.",
+        "doel_concept": "The Church as a living, non-manipulated organism."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A profound application of CMT that transforms a 3000-year-old poem into a sharp critique of 21st-century globalization."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of just praising the beauty of the Psalm, CMT shows how the 'Wide Space' metaphor physically counters the 'Anxiety' of the hearer.",
+    "verschil_met_kolb": "Moves beyond the 'experience' of the hearer to the cognitive structures (schemas) that dictate how they perceive the economy.",
+    "unieke_inzichten_CMT": "Reveals that the preacher's use of 'Enge' is not just a word choice, but an activation of an embodied 'Container' schema that feels like suffocation."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "flügellahmen Skeptiker",
+      "gewaschen von den Tränen der Toten",
+      "Glaubenskärglichkeit verhungern",
+      "in sich selbst gefangen",
+      "TINA-Syndrom",
+      "Tor der Gerechtigkeit",
+      "Eckstein",
+      "weite Raum"
+    ],
+    "woord_frequentie_analyse": {
+      "Gott": "24",
+      "Psalm": "18",
+      "Angst": "9",
+      "Globalisierung": "7",
+      "Raum": "6",
+      "Leben": "15"
+    },
+    "notities": "Sermon delivered by Dorothee Sölle (implied by style and date/location). High emphasis on political theology."
+  }
+}

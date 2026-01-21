@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "titel_preek": "A Procession of Fools",
+    "bijbeltekst": "Matthew 26-27 / 1 Corinthians 1:18-25",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher provides an extensive narrative and historical-theological exposition of the Passion of Matthew, the nature of Jesus' kingship, and the contemporary application through the Truth and Reconciliation Commission in South Africa.",
+      "exegetische_kwaliteit": "High. Detailed focus on the 'Cry of Dereliction' and the contrast between worldly power and the 'foolishness' of the Cross.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is explaining the paradox of the Cross and inviting the congregation to identify with the 'foolishness' of the procession.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I'm just suggesting that we have to make an extra effort to understand...",
+        "Matthew and Mark, however, preserved it alone among the Seven Words.",
+        "This means that Jesus, in his death, makes himself one..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel the 'scandal' of the cross, accept their own 'foolishness', and be moved toward a theology of reconciliation.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "ponder",
+        "recognize",
+        "identify",
+        "believe"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The evangelist Matthew is known for his emphasis...",
+        "This is the predominant note of the day.",
+        "God has chosen a way that is precisely antithetical..."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "tells",
+        "shows",
+        "means",
+        "continues"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Try as we may...",
+        "We need to remember that...",
+        "Can we get our minds around this?"
+      ],
+      "dominante_werkwoorden": [
+        "remember",
+        "try",
+        "ask",
+        "look"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "Maybe I am not giving you enough credit...",
+        "I imagine a conversation...",
+        "I feel sure..."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "imagine",
+        "wonder"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "Christ the power of God and the wisdom of God [to those who are called].",
+        "He is prepared to suffer this... for you."
+      ],
+      "dominante_werkwoorden": [
+        "save",
+        "calls"
+      ],
+      "kwaliteit": "Weak. The promises are mostly framed as general theological truths (Assertives) rather than direct 'Toezeggingen' (Commissives) to the specific congregation."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "Amen.",
+        "Hosanna to the Son of David!"
+      ],
+      "dominante_werkwoorden": [
+        "bless"
+      ],
+      "autoriteit": "Low. The preacher acts primarily as a teacher/narrator rather than a mandatory of the living Word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'Matthew tells us'",
+        "Long biographical section on Mandela and Tutu",
+        "Theological explanation of the 'Cry of Dereliction' as a concept to be 'pondered'."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological paradox or a historical example rather than a participant in a saving event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the 'you' in the pews",
+        "Present-tense creative word."
+      ],
+      "effect_op_hoorder": "Intellectual appreciation without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes the concept of forgiveness but does not perform the act of 'Toezegging' (Promising) directly to the hearer.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Mostly 'we' to create solidarity in foolishness or 'I' for homiletical modesty."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Used to ask rhetorical questions ('Did you take this in?').",
+        "performatieve_context": "Rarely used for direct promise."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant. Talking about Jesus, Matthew, Tutu, and 'the world'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where the Cross is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Biblical narrative and South African history."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological definitions ('The word of the cross is...')."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Referring to the liturgy just performed."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Explanation of the Cross) -> Directive (We must try to put it into words/We should not support the death penalty).",
+      "voorbeelden": [
+        "What we see... is Jesus' identification... This means that Jesus... makes himself one... [Therefore] we must try to put it into words."
+      ],
+      "probleem": "The 'event' of grace is bypassed by a call to intellectual or moral response."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "If we were willing [to look at the cross], we would not give our support so readily to the death penalty."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-level theological essay. It explains the 'why' of the cross brilliantly but fails to 'do' the cross to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "God against God? God forsaken by God? A crucified God?",
+        "effect": "Challenges the intellect and breaks shallow religious categories."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Jesus... is prepared to suffer this...",
+        "probleem": "It remains a description of Jesus' disposition rather than a promise of his current action.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "The 'event' is located in the past (the first Palm Sunday) or in South Africa, but not in the 'now' of the preaching act.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The sermon talks about the means of grace without becoming one."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher speaks about God.",
+      "prediker_als_mandataris": "Weak. The preacher acts as an analyst of the text.",
+      "tekstueel_bewijs": [
+        "I'm just suggesting that we have to make an extra effort to understand..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly relies on human 'understanding' and 'willingness'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a 'strange contemplation' (Donne quote).",
+      "epifanisch_taalgebruik": "Low",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is drowning in 'is' and 'means'. It needs 'I promise' and 'He forgives you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "This means that Jesus, in his death, makes himself one, not only with my pain, but also with my sin.",
+          "voorgestelde_revisie": "Today, in this word, Jesus makes himself one with your sin and carries it away.",
+          "verschil": "Shifts from a general theological truth to a present-tense event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace of the cross is described but not applied.",
+      "suggestie": "Insert a direct address of promise after the Cry of Dereliction analysis.",
+      "voorbeeldzinnen": [
+        "Because He was forsaken, you will never be forsaken.",
+        "I announce to you: your sins are covered by this foolishness."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' (solidarity) and 'he' (description), not enough 'you' (address).",
+      "suggestie": "Use the second person singular/plural to deliver the benefits of Christ.",
+      "voorbeeldzinnen": [
+        "He took your place on that cross."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The moral application (death penalty/forgiveness) feels like a logical consequence rather than a fruit of a delivered promise.",
+      "suggestie": "Deliver the promise first, then invite the response."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically profound and rhetorically elegant, but illocutionarily stagnant. It informs the mind about the event of the Cross without becoming the event itself."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of feeling foolish; SAT reveals that the preacher fails to use the 'Creative Word' (Declarative) to change the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, the Tutu story is a powerful 'exemplum', but in SAT, it remains an Assertive that describes someone else's faith rather than performing God's work now.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Amen' and 'Hosanna', the sermon's engine is 3rd-person description, leading to a 'Constative Surplus' that objectifies grace."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "tells",
+        "means",
+        "shows",
+        "recorded",
+        "arranged",
+        "demonstrating"
+      ],
+      "directief": [
+        "try",
+        "remember",
+        "ask",
+        "look",
+        "ponder"
+      ],
+      "expressief": [
+        "feel",
+        "imagine",
+        "wonder",
+        "sense"
+      ],
+      "commissief": [
+        "save",
+        "calls"
+      ],
+      "declaratief": [
+        "bless",
+        "amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "What we see and hear in the Cry of Dereliction is Jesus' identification...",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a theological fact.",
+        "effectiviteit": "Informative but distant."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' the Gospel (Constative) rather than 'doing' the Gospel (Performative)."
+  }
+}

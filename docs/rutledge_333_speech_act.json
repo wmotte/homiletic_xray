@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "titel_preek": "Somebody Has Got to Pay",
+    "bijbeltekst": "2 Corinthians 5:21",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Theological explanation of substitutionary atonement, the 'Cry of Dereliction', and the necessity of satisfaction for sin, illustrated by the Civil Rights movement.",
+      "exegetische_kwaliteit": "High. Detailed focus on 2 Cor 5:21 and the unity of the Father and Son's will.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily explaining and asserting the nature of the Cross, with a late shift toward proclamation.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "In this verse we learn what it was that happened to Jesus.",
+        "The cycle of retaliation was stopped in the body of Jesus.",
+        "God has paid."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellectual understanding of the Cross and a sense of relief/hope regarding justice.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly mentioned as the agent of the event.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "acknowledge",
+        "hope",
+        "witness"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "God made him to be sin who knew no sin.",
+        "Something had to be done about sin.",
+        "The old world of Sin and Death came to an end on the Cross."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "suggests",
+        "happened"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Let us try to bring some of these images into a sharper focus.",
+        "I call your attention to a single verse."
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "call",
+        "bring"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "We might wish that Paul had expressed himself in a clearer way.",
+        "The only answer that has ever satisfied me is..."
+      ],
+      "dominante_werkwoorden": [
+        "wish",
+        "satisfied",
+        "noticed"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "God has paid."
+      ],
+      "dominante_werkwoorden": [
+        "paid"
+      ],
+      "kwaliteit": "Weak; the 'payment' is described as a past fact rather than a present promise to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "5%",
+      "voorbeelden": [
+        "That is the Christian proclamation."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Low; the preacher describes the proclamation rather than performing it."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "We learn what it was that happened",
+        "Cranmer is suggesting",
+        "This is not some medieval abstraction"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a theological theory rather than a participant in a saving event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the 'you'",
+        "Sacramental 'I' of the preacher acting for God"
+      ],
+      "effect_op_hoorder": "Information about God's justice is received, but the 'event' of being justified is deferred."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "1",
+      "kwaliteit_toezeggen": "General and third-person focused.",
+      "voorbeelden": [
+        "God arranged for his own self to pay the price... instead of us."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Mostly 'We' (inclusive of preacher and congregation as observers) or 'I' (preacher's opinion)."
+      },
+      "tweede_persoon": {
+        "frequentie": "4",
+        "gebruik": "Hypothetical address ('You may ask', 'If you or I were God').",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant mode: talking about Paul, Jesus, Cranmer, and Dr. King.",
+        "distantie_effect": "High; creates a historical and theological distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical analysis of the Cross and Civil Rights history."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological definitions and general truths about justice."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Concluding prayer and appeal."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Theology of satisfaction) -> Directive (May God grant grace that we may bear witness).",
+      "voorbeelden": [
+        "God has paid... May God grant grace... that we may be enabled to bear witness."
+      ],
+      "probleem": "The indicative is treated as a historical fact to be witnessed to, rather than a present reality that creates the hearer's new identity."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the direct 'I declare to you' or 'God promises you' link.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "In the Cross, justice is actually done... therefore we shall overcome."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "The cycle... was stopped... May God grant grace... that we may be enabled to bear witness."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-level theological lecture on the meaning of the Cross, using historical and social illustrations to validate a theory of atonement.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Clarity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "At the heart of the mystery... is the fact that the Father's will and the Son's will are one.",
+        "effect": "Clears up common misunderstandings of the atonement."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Direct Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Somebody has got to pay.",
+        "probleem": "The 'somebody' remains an abstract third party; the hearer is not directly addressed as the beneficiary.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a meditation 'about' an event rather than being the event itself.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that binds God to the hearer in the present moment."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the verbs, but the preacher speaks about God rather than for God.",
+      "prediker_als_mandataris": "The preacher acts as an interpreter/teacher, not a mandatory.",
+      "tekstueel_bewijs": [
+        "Let us try to bring some of these images into a sharper focus."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly left to the hearer's 'faith being tested'.",
+      "tekstueel_bewijs": [
+        "This is where our faith is tested most severely."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a 'meditation' (reflection) rather than a means of grace.",
+      "epifanisch_taalgebruik": "Limited to the description of others' witnesses (Dr. King, etc.).",
+      "tekstueel_bewijs": [
+        "We have seen the downpayment at work [in the lives of others]."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'is/was' and 'we see/we learn'. Needs more 'I declare' and 'God promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The condemnation that we deserved was absorbed by him.",
+          "voorgestelde_revisie": "Today, Christ absorbs the condemnation you deserve; you are free.",
+          "verschil": "Shifts from a historical fact to a present declarative event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in a 'we' statement at the end.",
+      "suggestie": "Use the second person singular/plural to apply the 'payment' to the congregation.",
+      "voorbeeldzinnen": [
+        "Because Christ paid, I promise you in His name: your debt is cancelled."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they' (Civil Rights marchers).",
+      "suggestie": "Directly address the 'you' who feels the need for 'somebody to pay'.",
+      "voorbeeldzinnen": [
+        "You who are crying out for justice: God has paid for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative is a weak 'may we be enabled'.",
+      "suggestie": "Make the imperative a bold consequence of the declarative."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A deeply thoughtful and orthodox meditation that would gain immense sacramental power by shifting from 'talking about' the atonement to 'performing' the atonement through direct proclamation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about his satisfaction with the answer; SAT focuses on the lack of a 'Declarative' act that changes the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, the use of Dr. King is powerful; however, SAT notes this is still 'Assertive' (describing a model) rather than 'Commissive' (God binding Himself to the hearer).",
+    "unieke_inzichten_SAT": "SAT reveals that despite the profound content, the sermon remains a 'lecture' because it lacks the illocutionary force of 'Toezegging'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "learn",
+        "means",
+        "happened",
+        "suggests",
+        "are",
+        "became",
+        "lies",
+        "drives"
+      ],
+      "directief": [
+        "let",
+        "call",
+        "bring",
+        "consider",
+        "weigh"
+      ],
+      "expressief": [
+        "wish",
+        "satisfied",
+        "noticed",
+        "tremble"
+      ],
+      "commissief": [
+        "paid",
+        "arranged"
+      ],
+      "declaratief": [
+        "proclamation"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "God has paid.",
+        "categorie": "ASSERTIVE/COMMISSIVE",
+        "illocutionaire_kracht": "Strong assertion, weak commissive.",
+        "effectiviteit": "High, but lacks direct address to be a 'event'."
+      }
+    ],
+    "notities": "The sermon is a 'Fifth Meditation', which may explain its more reflective, constative tone compared to a primary Sunday proclamation."
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "Our Antiphon Interrupted",
+    "bijbeltekst": "Psalm 145; John 6:1-21",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "950"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus interrupts the human cycle of scarcity and fear by enacting a new reality of divine abundance.",
+      "subject": {
+        "identificatie": "Jesus",
+        "tekstueel_bewijs": [
+          "Jesus enacts a new world",
+          "Jesus takes the loaves",
+          "Jesus gives thanks",
+          "He distributed the bread"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Abundance/Well-being (The New World)",
+        "tekstueel_bewijs": [
+          "overflow of God’s generosity",
+          "twelve baskets full",
+          "all that is needed for an abundant life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Creator",
+        "tekstueel_bewijs": [
+          "overflow of God’s generosity that floods creation"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Crowd / Humanity / The Hearer",
+        "tekstueel_bewijs": [
+          "given to every creature without limit",
+          "they were all satisfied"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Bread/Signs (Eucharisto)",
+        "tekstueel_bewijs": [
+          "Jesus takes the loaves",
+          "surplus bread"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "The Voice of Scarcity / Anxiety",
+        "tekstueel_bewijs": [
+          "the voice of fear says there is not enough",
+          "trapped in scarcity",
+          "mantras of scarcity"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Scarcity is presented as a 'world' or 'reality' that holds the imagination captive, requiring a divine interruption to break."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Church (Philip/Andrew) attempting to solve the problem of hunger through calculation.",
+      "subject": "The Church (Philip/Andrew/Hearer)",
+      "object": "Control/Security through calculation",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The secondary program (human effort) fails and is 'interrupted' by the primary program (Jesus' action)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Abundance → Every Creature",
+      "helper_subject_tegenstander": "Bread/Signs → Jesus ← Voice of Scarcity",
+      "subject_naar_object": "Jesus → New Reality of Enough"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "Jesus enacts a new world.",
+        "He fulfills the desire of all who fear him.",
+        "Jesus takes the narrative in a quite fresh direction."
+      ],
+      "voorbeelden_mens_subject": [
+        "I work and calculate and count.",
+        "Philip is thinking in old-world categories.",
+        "We must cringe and save."
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "we had better send the fleet",
+          "we must cringe and save"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "He wanted to see whether Philip understood."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "He knows there will be more than enough!",
+          "Philip—the church—does not get it."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Jesus already knows about his own capacity",
+          "Jesus enacts a new world"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' of Jesus to create a new reality, contrasting it with the 'Incompetence' (lack of Savoir and Pouvoir) of the disciples."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Abundance (Grace)",
+      "s2": "Scarcity (Fear/Death)",
+      "niet_s1": "Calculation (Legalism)",
+      "niet_s2": "Surplus (Unexpected Life)"
+    },
+    "beweging_in_preek": "Starts in S2 (Fear), moves to ~S1 (Calculation), is interrupted by S1 (Abundance), resulting in ~S2 (Surplus).",
+    "theologische_resolutie": "The tension is resolved by the 'Interruption' of Jesus, who invalidates the logic of S2.",
+    "ernst_van_s2": "High; scarcity is described as a haunting, deep-seated reality."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is strongly theocentric. Jesus is the primary actor who does what humans cannot. The 'interruption' motif ensures grace is seen as an external in-breaking rather than a human development.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Self-referential struggle",
+        "tekstueel_bewijs": "I work and calculate and count ... just another effort",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "Jesus enacts a new world.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "External Deliverance",
+        "tekstueel_bewijs": "That antiphon has been interrupted by none other than Jesus.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The biblical figures (Philip/Andrew) are used as negative examples of incompetence, not models to follow.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: Jesus acts where the disciples fail."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and shift in perspective from anxiety to wonder.",
+      "theologische_implicatie": "Monergistic: Salvation/Abundance is a work of God alone."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'antiphon' of the Psalm to the narrative of John 6 is seamless and structurally sound.",
+      "spanning_punten": [
+        "The tension between the 'already' of the surplus and the 'still haunted' reality of the hearer."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Jesus enacts a new world... invalidates our old world.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on Christological enactment rather than Pneumatological indwelling."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is viewed as a 'grip' or 'mantra' of scarcity/anxiety that humans cannot break themselves."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is powered by Jesus as Subject. The human actants are correctly positioned as incompetent receivers.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "Maintain the current identification with the 'hungry crowd' rather than the 'calculating disciples'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Power) and Savoir (Knowledge).",
+      "voorgestelde_balans": "Slightly more emphasis on the 'Vouloir' (the transformation of the hearer's desire).",
+      "concrete_suggestie": "Explore how the 'interruption' changes what the hearer *wants* to do, not just what they see."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Scarcity is well-defined but largely psychological/economic.",
+      "voorgestelde_intensivering": "Link scarcity more explicitly to the 'Opponent' of Death.",
+      "theologische_rationale": "To show that the 'bread' is not just for stomachs but for the life of the world against the grave."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "The current structure (Soteriology → Ethics as 'Oddness') is excellent."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in grace-oriented preaching. By making Jesus the Subject of the 'interruption,' you avoid the trap of turning the feeding of the 5,000 into a lesson on human sharing."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'antiphon' metaphor, semiotics reveals that the metaphor functions as a 'Heavy Opponent' (Scarcity) that only a 'New Subject' (Jesus) can defeat.",
+    "verschil_met_exegese": "Exegesis might focus on the Greek 'eucharisto'; semiotics focuses on how that 'thanks' functions as a 'Helper' in the transition from lack to surplus.",
+    "unieke_inzichten_greimas": "Greimas helps us see that the 'Church' (Philip/Andrew) is structurally an 'Opponent' or 'Failed Subject' until Jesus takes over the narrative program."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (enacts, takes, gives, distributed, knows, is not held back)",
+      "God (satisfies, fulfills, hears, saves, watches, overwhelms)",
+      "The Church/Philip (does not get it, is trapped, calculates)",
+      "The Voice of Fear (says, rings)"
+    ],
+    "volledige_object_lijst": [
+      "Abundance",
+      "Bread",
+      "The New World",
+      "Surplus",
+      "Well-being"
+    ],
+    "werkwoord_frequentie": {
+      "enacts": {
+        "count": 2,
+        "primair_subject": "God"
+      },
+      "calculate": {
+        "count": 3,
+        "primair_subject": "Man"
+      },
+      "satisfies": {
+        "count": 2,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon successfully avoids 'Exemplarism' by portraying the disciples as failures, thereby highlighting Christ's sufficiency."
+  }
+}

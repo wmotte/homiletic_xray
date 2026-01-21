@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "A Week’s Walk into a New Mind",
+    "bijbeltekst": "Philippians 2:1-11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The journey of Jesus through Holy Week as a model for the church's own journey into a 'new mind' and subversive obedience.",
+      "subject": {
+        "identificatie": "Jesus Christ (as the Exemplar) and the Church/Hearer (as the Imitator)",
+        "tekstueel_bewijs": [
+          "He decided not to obey the imperial-national authorities, but to obey God.",
+          "Let the same mind be in you that was in Christ Jesus.",
+          "We are invited to make that journey ourselves."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The 'Mind of Christ' (Obedience, self-emptying, and subversive witness)",
+        "tekstueel_bewijs": [
+          "The mind of Christ consists in obedience.",
+          "Get your mind off yourself and your willfulness."
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "God (as the one who commands obedience and validates it through exaltation)",
+        "tekstueel_bewijs": [
+          "God noticed the obedience of Jesus.",
+          "God also highly exalted him."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Church / The World",
+        "tekstueel_bewijs": [
+          "The church is a community of knees bent.",
+          "It is a witness to the world."
+        ],
+        "positie_hoorder": "Subject (The hearer is called to 'make the journey' and 'think like Jesus')"
+      },
+      "helper": {
+        "identificatie": "The Philippian Hymn / Paul's Summons",
+        "tekstueel_bewijs": [
+          "Paul delivers his big summons to the church.",
+          "The news is that submission to the goodness of God finally will prevail."
+        ],
+        "rol_van_god": "God is the Sender/Judge who reacts to the Subject's performance.",
+        "rol_van_geest": "External help (The Spirit is mentioned as a 'sharing' but not as the primary actor of the transformation)."
+      },
+      "tegenstander": {
+        "identificatie": "Imperial-national authorities / Selfish will / Ideologies",
+        "tekstueel_bewijs": [
+          "The cynical power of greed and fear and scarcity.",
+          "The imperial claims of Caesar."
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily the 'status quo' and political-economic practices that the Subject must choose to contradict."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The exaltation of Christ by God following his successful performance of obedience.",
+      "subject": "God",
+      "object": "The Exaltation/Name of Jesus",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "God acts only after Jesus (and by extension the believer) performs the 'emptying'. Exaltation is the reward for the Subject's obedience."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → The Mind of Christ → The Church",
+      "helper_subject_tegenstander": "Paul's Summons → The Hearer ← Imperial Ideology",
+      "subject_naar_object": "The Hearer → Subversive Obedience"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "28",
+      "ratio": "0.43",
+      "voorbeelden_god_subject": [
+        "God also highly exalted him.",
+        "God noticed the obedience of Jesus."
+      ],
+      "voorbeelden_mens_subject": [
+        "We are invited to make that journey ourselves.",
+        "Imagine like Jesus!",
+        "Get your mind off yourself."
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "He had to go to Jerusalem.",
+          "Let the same mind be in you."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "He willingly gave up his royal status.",
+          "What will make Paul really happy."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Paul knows that this church loves him.",
+          "We can see the connection."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "The church will come to such freedom."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir) and imitation. It assumes that by 'seeing the connection' (Savoir) and being 'summoned' (Vouloir), the hearer can execute the journey."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Subversive Obedience",
+      "s2": "Imperial Power/Greed",
+      "niet_s1": "Selfish Will/Ideology",
+      "niet_s2": "Vulnerability/Poverty"
+    },
+    "beweging_in_preek": "The sermon moves from S2 (Imperial power) to ~S2 (Vulnerability) as a necessary step to reach S1 (Obedience).",
+    "theologische_resolutie": "Resolution is found in the 'Easter Therefore'—God validates the move to S1.",
+    "ernst_van_s2": "S2 is taken seriously as a political reality, but less so as an ontological condition of sin."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using high Christological language, the sermon's engine is 'Exemplarism'. Jesus is the Subject of the past story so that the Hearer can be the Subject of the present story. Grace is the 'reward' (Therefore) for the performance of obedience.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace (The 'Therefore' logic)",
+        "tekstueel_bewijs": "As a result of obedience... God raised him up.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Imperative Dominance",
+        "tekstueel_bewijs": "Think like Jesus! Imagine like Jesus!",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Objective Work of Christ",
+        "tekstueel_bewijs": "He emptied himself, taking the form of a slave.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Jesus' humiliation is presented as a 'journey' the hearer is 'invited to make'.",
+      "bijbelse_figuren_als_model": [
+        "Jesus (as the ultimate model of the 'new mind')"
+      ],
+      "alternatieve_lezing": "A theocentric reading would emphasize that Christ's obedience is credited to the believer because the believer *cannot* obey perfectly."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'subversive' acts to achieve 'Easter' results.",
+      "theologische_implicatie": "Sanctification is viewed as the imitation of Christ's psyche rather than participation in His life."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is logically coherent but theologically inverted; it places the 'Secondary Program' (Ethics) as the means to the 'Primary Program' (Vindication).",
+      "spanning_punten": [
+        "The tension between 'gift of Easter' and 'as a result of obedience'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Paul anticipates that when the church enters into the mind of Christ, the church will come to such freedom.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon relies on the 'summons' to create motivation rather than the Spirit to grant power (Pouvoir)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is described as 'selfish will' and 'ideology'—things that can be corrected by 'getting your mind off yourself'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (through following the journey)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Recruitment' narrative. It uses Jesus as a prototype for a human journey, making the hearer the primary Subject of the 'walk'.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the one 'walking' the week to get to the 'gift'.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who carries the hearer through the week.",
+      "voorbeeld_revisie": "Instead of 'We are invited to make that journey,' use 'Christ makes this journey for us, carrying our disobedience to the cross so He can give us His life.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'Obedient One'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that we are the ones in the 'Roman electric chair' and Christ takes our place."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir (Must)",
+      "voorgestelde_balans": "Pouvoir (Power/Grace)",
+      "concrete_suggestie": "Focus on how the 'Mind of Christ' is a gift given by the Spirit, not a mental exercise of 'imagining like Jesus'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Social/Political",
+      "voorgestelde_intensivering": "Identify Sin as a power that prevents us from 'emptying ourselves'.",
+      "theologische_rationale": "If the opponent is just 'bad attitudes', we don't need a Savior, just a teacher."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Program 2) is driving Soteriology (Program 1).",
+      "voorgestelde_structuur": "Proclaim the finished work of Christ (Soteriology) as the ground that *enables* the new mind (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong narrative flow and political relevance, but it risks leaving the hearer under the weight of a new Law—the law of 'being like Jesus'—without the power of the Gospel to accomplish it."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the use of the 'catechism' bookend; semiotics reveals this bookend reinforces a 'question-answer' performance structure.",
+    "verschil_met_exegese": "Exegesis might focus on the 'kenosis' (emptying); semiotics shows that the sermon uses kenosis as a 'to-do list' for the hearer.",
+    "unieke_inzichten_greimas": "Greimas reveals that the 'Therefore' of the hymn is being used as a structural 'contract' (If you obey, then God exalts), which undermines the unconditional nature of Grace."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (emptied, humbled, became obedient)",
+      "God (exalted, gave, noticed)",
+      "Paul (writes, summons, invites)",
+      "We (scoffed, are invited, stand, watch, follow)"
+    ],
+    "volledige_object_lijst": [
+      "The mind of Christ",
+      "Obedience",
+      "The interests of others",
+      "The empty tomb"
+    ],
+    "werkwoord_frequentie": {
+      "obey": {
+        "count": "9",
+        "primair_subject": "Jesus/Man"
+      },
+      "invite": {
+        "count": "5",
+        "primair_subject": "Paul/Sermon"
+      },
+      "exalt": {
+        "count": "2",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon successfully avoids 'cheap grace' by emphasizing the cost of discipleship, but fails 'theocentricity' by making the cost a human performance."
+  }
+}

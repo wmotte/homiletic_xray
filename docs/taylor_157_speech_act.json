@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "titel_preek": "Two Names In The Morning",
+    "bijbeltekst": "John 20:1-18",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the narrative of Mary Magdalene at the empty tomb, contextualized by historical anecdotes (Apollo 11, Job, Karl Marx) to emphasize the supremacy of the Resurrection.",
+      "exegetische_kwaliteit": "Strong narrative flow; uses historical-critical and traditional-homiletical insights (Chrysostom, Ellen White) to illuminate the text.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is Assertive (recounting history and doctrine), shifting toward Expressive (celebrating the voice of Jesus) in the climax.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The resurrection of Jesus Christ is the greatest news story in the history of this planet.",
+        "Mary Magdalene makes her quiet and reverent way to the sepulchre."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To inspire awe and a sense of personal recognition by the risen Christ.",
+      "pneumatologisch_bewustzijn": "Implicit; the Spirit is not explicitly named, but the 'voice within the soul' implies internal work.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "recognize",
+        "rejoice",
+        "persist"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "The stone has been rolled away.",
+        "The church of Jesus Christ continues to march on.",
+        "Jesus says that he knoweth his sheep by name."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "said",
+        "happened",
+        "reminded"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "Look unto the Lord and be saved (quoted).",
+        "Hush, somebody's calling my name."
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "hush"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "28",
+      "procent": "15%",
+      "voorbeelden": [
+        "How final it must have appeared!",
+        "The horror of it!",
+        "Ah, but Mary goes back."
+      ],
+      "dominante_werkwoorden": [
+        "felt",
+        "loved",
+        "feared"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "1.5%",
+      "voorbeelden": [
+        "I'll be somewhere listening for my name (quoted song)."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "shall"
+      ],
+      "kwaliteit": "Low. The preacher describes God's promises in the past tense rather than uttering them in the present."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "All is well now."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Moderate; the declaration is placed in Mary's mouth rather than the preacher's direct address."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical analogies (Apollo 11, Marx, Black Power).",
+        "Third-person narrative of Mary's actions.",
+        "Theological descriptions of the 'voice' rather than the voice speaking."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of Mary's encounter rather than a participant in their own."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise to the current congregation",
+        "Present-tense sacramental address"
+      ],
+      "effect_op_hoorder": "Inspiration without immediate encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes the act of calling a name but does not perform the calling of the hearer's name.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "12",
+        "gebruik": "Personal belief and collective 'we' (humanity)."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Limited; mostly referring to 'people listening to me' in the third person or general 'you'."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant; Mary, Jesus, Peter, historical figures.",
+        "distantie_effect": "High; creates a 'story-time' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical narrative and historical context."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about love and the church."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The climax of the 'voice' calling."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Not overtly legalistic.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from Assertive (The tomb is empty) to Expressive (The beauty of the voice).",
+      "voorbeelden": [
+        "Mary! Master!"
+      ],
+      "kwaliteit": "The pattern is present but remains within the narrative frame (Mary's experience) rather than breaking into the hearer's reality."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Jesus says that he knoweth his sheep... and they follow me."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a masterful piece of narrative rhetoric that 'talks about' the event of the resurrection with great beauty, but rarely 'performs' the resurrection for the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Immersion",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The voice which spoke in the cemetery was the same voice which taught the multitude...",
+        "effect": "Creates a vivid mental image."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The resurrection of Jesus Christ is the greatest news story...",
+        "probleem": "Treats the Gospel as a 'news story' (object) rather than a 'word of address' (subject).",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It becomes an event through the evocative power of the language, but the illocutionary force remains descriptive.",
+    "sacramentele_kracht": 4,
+    "sacramentele_toelichting": "Lacks the 'I-Thou' declarative moment where the preacher speaks for God to the congregation."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the speaker in the past (to Mary), but the preacher does not explicitly claim to be God's mouth now.",
+      "prediker_als_mandataris": "Implicitly, as a storyteller of the faith.",
+      "tekstueel_bewijs": [
+        "Someone here got through school because a teacher somewhere kept coming back..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is attributed to 'love' and 'persistence' rather than the Holy Spirit.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon describes the 'voice' as a means of grace, but doesn't fully function as one in the moment.",
+      "epifanisch_taalgebruik": "Yes, the description of the voice is highly epiphanic.",
+      "tekstueel_bewijs": [
+        "That voice must have sounded to Mary like the music of many waters..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on past-tense assertives. It needs a shift to present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus called Mary Magdalene's name.",
+          "voorgestelde_revisie": "Even now, the Risen Christ calls your name.",
+          "verschil": "Moves from historical report to present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is locked in the narrative of Mary.",
+      "suggestie": "Directly address the congregation with the promise of the Resurrection.",
+      "voorbeeldzinnen": [
+        "Because He lives, you shall live also."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'she' and 'they', not enough 'you'.",
+      "suggestie": "Use the second person to bridge the gap between the tomb and the pew.",
+      "voorbeeldzinnen": [
+        "He is calling you this morning."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "suggestie": "The balance is fine, but the indicative needs to be more performative."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A beautiful narrative that risks remaining a lecture on history. By shifting the 'calling of the name' from Mary to the listener, the sermon would achieve true sacramental power."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'; SAT reveals that the preacher is failing to use the 'Declarative' key to change the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, this is excellent (pathos/metaphor). Homiletically (SAT), it is weak in illocutionary force.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'event' of the sermon is stalled because the preacher is 'talking about' the voice of Jesus rather than 'being' the echo of that voice."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "said",
+        "reminded",
+        "revealed",
+        "put",
+        "addressed",
+        "reported",
+        "propounded",
+        "die",
+        "snuffed",
+        "fell"
+      ],
+      "directief": [
+        "look",
+        "hush",
+        "stop"
+      ],
+      "expressief": [
+        "loved",
+        "feared",
+        "dazed",
+        "mused",
+        "pondered"
+      ],
+      "commissief": [
+        "will",
+        "shall"
+      ],
+      "declaratief": [
+        "is (well)",
+        "forgive"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The resurrection of Jesus Christ is the greatest news story.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Fact-stating",
+        "effectiviteit": "Informative but distancing."
+      },
+      {
+        "zin": "Mary!",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Naming/Calling",
+        "effectiviteit": "High, but limited to the story's characters."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'music' of the language to create a perlocutionary effect, bypassing the need for direct performative illocutions."
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "titel_preek": "The Presentation (Candlemas)",
+    "bijbeltekst": "Luke 2:28-32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the biblical narrative of Simeon and Anna meeting Jesus in the Temple, contextualized by a local screening of a WWII documentary and the art of Rembrandt.",
+      "exegetische_kwaliteit": "High. The preacher emphasizes the Jewishness of Jesus and the fulfillment of Law and Prophets.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting historical and narrative facts, moving toward a directive appeal at the conclusion.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Simeon and Anna are models for us.",
+        "Luke wants us to see that Jesus is no interloper.",
+        "The purpose... is to draw your attention to the story."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should recognize Christ in their own life and 'sign on' to His service.",
+      "pneumatologisch_bewustzijn": "Moderate; the Spirit is mentioned as the one enabling Simeon, but the sermon's own delivery is not explicitly framed as the Spirit's current act.",
+      "perlocutionaire_werkwoorden": [
+        "recognize",
+        "wait",
+        "greet",
+        "serve"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 82,
+      "procent": "70%",
+      "voorbeelden": [
+        "Simeon and Anna are extremely old.",
+        "Rembrandt had considerable knowledge.",
+        "This is the Epiphany season."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "represents",
+        "describes"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "10%",
+      "voorbeelden": [
+        "Do not fail to greet him today.",
+        "Sign on in his service.",
+        "We need to be thinking of the ways..."
+      ],
+      "dominante_werkwoorden": [
+        "greet",
+        "sign on",
+        "think",
+        "recognize"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 8,
+      "procent": "7%",
+      "voorbeelden": [
+        "I was amazed at the number of local men.",
+        "I for one hate to see it come to an end."
+      ],
+      "dominante_werkwoorden": [
+        "amazed",
+        "hate",
+        "praise"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "3%",
+      "voorbeelden": [
+        "His Body and Blood are given to sustain you.",
+        "In Jesus Christ, there is... the promise of transformed life."
+      ],
+      "dominante_werkwoorden": [
+        "given",
+        "promise"
+      ],
+      "kwaliteit": "Weak. The promises are mostly described as existing 'in Christ' rather than being directly bestowed by the preacher's word."
+    },
+    "declaratieven": {
+      "frequentie": 0,
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Low. The preacher acts as a narrator/teacher rather than a mandatory of God's present action."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive description of a WWII film.",
+        "Detailed analysis of a Rembrandt painting.",
+        "Historical explanation of the Messiah's role."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of history and art rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct promise (Toezegging)",
+        "Sacramental declaration"
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'model' to follow rather than a 'gift' to receive."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 2,
+      "kwaliteit_toezeggen": "Indirect. The promise is mentioned as a theological fact rather than an illocutionary act.",
+      "voorbeelden": [
+        "His Body and Blood are given to sustain you."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 15,
+        "gebruik": "Personal anecdotes and homiletic 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": 8,
+        "gebruik": "Direct address appears only in the conclusion.",
+        "performatieve_context": "Used to urge action (Directive) rather than bestow grace (Commissive)."
+      },
+      "derde_persoon": {
+        "frequentie": 110,
+        "gebruik": "Dominant mode: talking about Simeon, Anna, Rembrandt, and veterans.",
+        "distantie_effect": "High. It creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical narrative and WWII history."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General theological truths and descriptions of art."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the congregation."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History/Art) -> Directive (Sign on/Greet him).",
+      "voorbeelden": [
+        "Simeon and Anna are models... Do not fail to greet him."
+      ],
+      "probleem": "The 'event' is missing; the preacher moves from information to obligation without the performative bridge of the Promise."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive core.",
+      "voorbeelden": [],
+      "kwaliteit": "None"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The purpose... is to draw your attention... that you should recognize."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-quality lecture on biblical types and art history, but fails to become a sacramental event where God speaks to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative vividness",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The description of Rembrandt's painting.",
+        "effect": "Engages the imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The long section on the 10th Mountain Division.",
+        "probleem": "Displaces the primary illocutionary act of proclamation.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a talk about an event (the meeting), not the event itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'I-Thou' address of God to the soul."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the sermon, not the subject.",
+      "prediker_als_mandataris": "No. The preacher acts as an observer/commentator.",
+      "tekstueel_bewijs": [
+        "I am not able to visualize...",
+        "I for one hate to see..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Partially (historical).",
+      "perlocutie_theologie": "No. The preacher tries to 'draw attention' (locutionary goal) rather than trusting the Spirit's work through the Word.",
+      "tekstueel_bewijs": [
+        "The Holy Spirit is moving among us (Assertive statement about the Spirit)."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a preparation for the service/sacrament, not a sacrament itself.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "The purpose... is to draw your attention to the story."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense and descriptive verbs; almost no performative verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "In Jesus Christ, there is redemption.",
+          "voorgestelde_revisie": "In the name of Jesus Christ, I declare to you: you are redeemed.",
+          "verschil": "Shifts from a fact about Christ to a gift from Christ."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in the conclusion as a general truth.",
+      "suggestie": "Use the 'Nunc Dimittis' as a present-tense promise to the congregation.",
+      "voorbeeldzinnen": [
+        "Today, the Lord lets YOU depart in peace."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' (Simeon/Anna) and 'I' (Preacher).",
+      "suggestie": "Use 'You' to place the hearer in the Temple.",
+      "voorbeeldzinnen": [
+        "You are standing where Simeon stood."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Moralistic 'sign on' without the indicative of 'You are accepted'.",
+      "suggestie": "Proclaim the acceptance before calling for the service."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A beautiful literary piece that needs more 'fire'—the fire of the performative Word that does what it says."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about WWII; SAT reveals the preacher is failing to perform a divine act.",
+    "verschil_met_retoriek": "Rhetorically, the Rembrandt imagery is excellent; illocutionarily, it is a 'talking about' surplus.",
+    "unieke_inzichten_SAT": "SAT exposes that the sermon's 'event' status is undermined by its third-person narrative dominance."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "looked",
+        "made",
+        "represents",
+        "told",
+        "envisioned",
+        "fulfilled"
+      ],
+      "directief": [
+        "think",
+        "greet",
+        "sign on",
+        "recognize"
+      ],
+      "expressief": [
+        "amazed",
+        "hate",
+        "praise"
+      ],
+      "commissief": [
+        "promise",
+        "given"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The purpose... is to draw your attention to the story.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Weak",
+        "effectiviteit": "Low; sets a pedagogical rather than sacramental tone."
+      }
+    ],
+    "notities": "The sermon is highly intellectual and aesthetically pleasing but lacks the 'Toezegging' (Promise) required for a sacramental event."
+  }
+}

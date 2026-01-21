@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Gold Medals for Everybody",
+    "bijbeltekst": "Romans 11:5–6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God actively selects and brings a remnant of people out of the bondage of Sin and into a state of grace and salvation, independent of their own efforts or qualities.",
+      "subject": {
+        "identificatie": "God (specifically as Grace/Active Agent)",
+        "tekstueel_bewijs": [
+          "God brought me.",
+          "God had brought him, Paul, out of bondage into freedom",
+          "God had brought them out of disobedience and unbelief into faith and salvation."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation/The Remnant (The Hearer's presence in the Kingdom)",
+        "tekstueel_bewijs": [
+          "chosen by grace",
+          "the prize",
+          "heavenly garments of righteousness"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Divine Will",
+        "tekstueel_bewijs": [
+          "part of God’s purpose",
+          "the decision of God to make it come out differently"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The Remnant",
+        "tekstueel_bewijs": [
+          "even to you and me",
+          "the remnant of the faithful"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ / The Holy Spirit (implied in 'God brought me')",
+        "tekstueel_bewijs": [
+          "Jesus Christ’s active power",
+          "the Lamb upon the throne"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Sin (as a Power) and Human Pride/Works",
+        "tekstueel_bewijs": [
+          "Sin understood as a power, a slavemaster, a tyrant",
+          "our good works of belief and commitment",
+          "we want to be better than somebody else"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a tyrant with absolute sway over the human race, rendering human effort impossible."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The response of the saved: rejoicing in the salvation of others and worshiping the Lamb.",
+      "subject": "The Remnant (The Hearers)",
+      "object": "Worship/Rejoicing in others' grace",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics/worship) is a result of being chosen, not the cause."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Grace/Salvation → The Hearer",
+      "helper_subject_tegenstander": "Jesus Christ → God → Sin/Human Works",
+      "subject_naar_object": "God → The Remnant"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "8",
+      "ratio": "3.0",
+      "voorbeelden_god_subject": [
+        "God brought me.",
+        "God had brought him, Paul, out of bondage.",
+        "God chooses us."
+      ],
+      "voorbeelden_mens_subject": [
+        "We don’t want unmerited, undeserved favor.",
+        "We persist in thinking that we can win a gold medal."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "We need to remember this."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "We want merited, deserved approval."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Is anyone here who does not know what grace is?"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "It is impossible for me to win a gold medal.",
+          "enabled to love."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the total lack of human 'Pouvoir' (ability) and the divine endowment of it through Grace."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace (Unmerited)",
+      "s2": "Judgment (Sin/Bondage)",
+      "niet_s1": "Works (Merit/Olympic Gold)",
+      "niet_s2": "Mercy (Forgiveness where severity is expected)"
+    },
+    "beweging_in_preek": "Moves from the illusion of ~S1 (Works) to the reality of S2 (Sin/Bondage), then through ~S2 (Mercy) to the finality of S1 (Grace).",
+    "theologische_resolutie": "Resolution is found in the 'Subject-switch': God does what man cannot.",
+    "ernst_van_s2": "High; Sin is a tyrant, not just a mistake."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places God as the active Subject and humans as the passive Receivers of an unmerited gift.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Self-selection/Decisionism",
+        "tekstueel_bewijs": "Telling the human being that he is capable of choosing God is like telling me to go out and become Mary Lou Retton.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "God brought me.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Faith as Result, not Cause",
+        "tekstueel_bewijs": "Faith is not the cause of our being chosen, it is a result.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (Paul) are used as fellow-receivers of grace, not as models to emulate.",
+      "bijbelse_figuren_als_model": [
+        "Paul",
+        "Mary Lou Retton (Negative Example)"
+      ],
+      "alternatieve_lezing": "Paul is a recipient of God's 'bringing' just like the hearer."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of performance; gratitude.",
+      "theologische_implicatie": "Monergistic salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "Perfectly integrated; ethics (rejoicing) flows directly from the soteriological reality.",
+      "spanning_punten": [
+        "The human desire for merit vs. the divine gift of grace."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Whose merits do you prefer, your own or Jesus Christ’s?",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of 'Pouvoir' (being enabled to love)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total depravity/inability ('lost, doomed, gone')."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in theocentric narrative structure.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is the 'Grammar of Grace'.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Sin is already treated as a cosmic tyrant.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon perfectly exemplifies the 'Rutledge Rule' by making God the subject of all transformative verbs."
+  },
+  "comparatiele_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would look at the Olympic metaphor, Greimas shows that the metaphor functions to strip the human Subject of agency.",
+    "verschil_met_exegese": "Goes beyond the meaning of 'remnant' to show how the 'remnant' functions as a passive Receiver in the narrative arc.",
+    "unieke_inzichten_greimas": "Reveals that the 'Gold Medal' is not a reward for the Subject's performance, but an Object transferred from the Sender to a Receiver who failed the performance."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God brought",
+      "God chose",
+      "Grace acts",
+      "Faith came",
+      "Sin enslaves"
+    ],
+    "volledige_object_lijst": [
+      "The Remnant",
+      "The Gold Medal",
+      "Freedom",
+      "Mercy"
+    ],
+    "werkwoord_frequentie": {
+      "brought": {
+        "count": 6,
+        "primair_subject": "God"
+      },
+      "chosen": {
+        "count": 8,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the Olympic metaphor subversively to highlight human inability."
+  }
+}

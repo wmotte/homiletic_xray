@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Not Bad But Good",
+    "bijbeltekst": "1 Corinthians 1:23-24; 2:2; Romans 5:8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God descends into the depths of human sin and shame to reveal His love and power through the Crucifixion, bypassing human image-building.",
+      "subject": {
+        "identificatie": "God/Christ",
+        "tekstueel_bewijs": [
+          "The Son of God gave up all his divine prerogatives and entered the world",
+          "God shows his love for us in that while we were still sinners Christ died for us",
+          "He sees a person that he loves"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The salvation/reconciliation of the sinner through divine love",
+        "tekstueel_bewijs": [
+          "so that by his poverty you might become rich",
+          "the power of God and the wisdom of God"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "the Holy Spirit has drawn you into the circle of that power"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (the 'pathetic bunch of sinners')",
+        "tekstueel_bewijs": [
+          "Because he loves you. Because he loves me."
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Cross",
+        "tekstueel_bewijs": [
+          "the Holy Spirit has drawn you",
+          "the Cross is the power of God"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help/drawing power"
+      },
+      "tegenstander": {
+        "identificatie": "Human Image/Spin/Self-Deception",
+        "tekstueel_bewijs": [
+          "spin doctors",
+          "obsession of our culture with image",
+          "flimsy defenses",
+          "masks"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just a bad habit but a fundamental ontological blindness ('worthless, a work of delusion') that requires a divine intervention to pierce."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The hearer's response: coming to church, confessing sins, and letting go of masks.",
+      "subject": "The Hearer",
+      "object": "Repentance/Confession",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The hearer's action (coming to church/confessing) is framed as a response to being 'drawn' by the Spirit and 'seen' by God."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Holy Spirit → Love/Salvation → Sinner",
+      "helper_subject_tegenstander": "Cross → Christ ← Sin/Image-Obsession",
+      "subject_naar_object": "God → Redemption of the Beloved"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "The Son of God gave up all his divine prerogatives",
+        "God shows his love for us",
+        "He looks at us and he sees our cowardice"
+      ],
+      "voorbeelden_mens_subject": [
+        "we confess our sins",
+        "we have followed too much the devices",
+        "man looks on the outward appearance"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "we ought to have done"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "I love to confess my sins",
+          "they didn't want to hear about it"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "for want of knowledge",
+          "in order to 'get it'"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "the power of God",
+          "drawn you into the circle of that power"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes God's power (Pouvoir) to see and love despite human inability to save themselves from their own 'images'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Love (The Cross)",
+      "s2": "Judgment/Death (The Execution)",
+      "niet_s1": "Image/Masks (False Life)",
+      "niet_s2": "Confession (Accepting the Death)"
+    },
+    "beweging_in_preek": "From Niet-S1 (Image) to S2 (The Reality of the Cross) to S1 (The Love of God).",
+    "theologische_resolutie": "The tension is resolved by God entering S2 (the place of the 'really bad people') to establish S1.",
+    "ernst_van_s2": "High; the cross is described as 'grotesque' and 'ugly'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. God is the primary actor who 'sees', 'loves', and 'enters' the human condition. Human action is relegated to confession (passive-active response).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (Potential)",
+        "tekstueel_bewijs": "come alongside others in their pain... for Christ's sake",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Active Verbs",
+        "tekstueel_bewijs": "He sees a person that he loves more than life",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "worthless, a work of delusion",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Biblical figures (Paul, Jeremiah, Isaiah) are used as witnesses or truth-tellers rather than moral examples to imitate.",
+      "bijbelse_figuren_als_model": [
+        "Paul (as a 'straight shooter')",
+        "Jeremiah (as a seer)"
+      ],
+      "alternatieve_lezing": "N/A"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and 'unmasking'; moving from shame to being loved.",
+      "theologische_implicatie": "Justification by grace through faith, where the 'faith' is being drawn by the Spirit."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'bad news' of human image-obsession to the 'good news' of divine love is seamless.",
+      "spanning_punten": [
+        "The call to 'come alongside others' at the end briefly shifts to an ethical program that could be read as a 'must', but it is grounded in the Spirit's drawing."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "entered the world to be executed alongside criminals in the same manner as they",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir' (being able) to be present at the Cross."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; sin is seen as a 'delusion' and 'fraudulence' that masks total poverty."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject. The hearer is correctly positioned as the Receiver of a divine gaze that is both judgmental (piercing masks) and redemptive (loving).",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on 'Savoir' (knowing/seeing)",
+      "voorgestelde_balans": "Maintain the current focus on God's 'Pouvoir' and 'Vouloir' (His love).",
+      "concrete_suggestie": "Ensure the 'coming alongside others' is clearly an overflow of being loved, not a new 'Devoir'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "The opponent (self-deception) is well-developed.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God loves) → Ethics (We confess/stay)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of a grace-oriented sermon that uses the 'heavy opponent' of human hypocrisy to magnify the 'Subject-action' of God's love."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'image' metaphors, semiotics reveals that God remains the only actant capable of 'seeing' and 'acting'.",
+    "verschil_met_exegese": "Exegesis would explain the Corinthian context; semiotics shows how the 'Corinthian' role is mapped onto the modern hearer.",
+    "unieke_inzichten_greimas": "Greimas' model exposes that the 'Good' in Good Friday is not a human quality but a divine performance (Subject = God) against a cosmic opponent (Sin/Death)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God sees",
+      "The Son of God gave up",
+      "The Holy Spirit has drawn",
+      "He loves",
+      "Christ died"
+    ],
+    "volledige_object_lijst": [
+      "the heart",
+      "the real person",
+      "the power of God"
+    ],
+    "werkwoord_frequentie": {
+      "sees": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "loves": {
+        "count": "8",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon avoids the 'If-Then' trap of moralism."
+  }
+}

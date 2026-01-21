@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "titel_preek": "Outside the Camp",
+    "bijbeltekst": "Hebrews 13:12-16",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus Christ moves from the safety of the 'city' into the suffering 'outside the camp' to sanctify humanity, thereby breaking the power of human avoidance and denial.",
+      "subject": {
+        "identificatie": "Jesus Christ",
+        "tekstueel_bewijs": [
+          "Jesus suffered outside the city gate",
+          "He went straight into his suffering",
+          "He steered into the pain"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Sanctification and New Life for the people",
+        "tekstueel_bewijs": [
+          "in order to sanctify the people by his own blood",
+          "help us live more abundantly",
+          "we are now new, free people"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God / The Gospel of Love",
+        "tekstueel_bewijs": [
+          "the goodness of His gospel of love",
+          "sacrifices are pleasing to God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The People / The Congregation",
+        "tekstueel_bewijs": [
+          "to sanctify the people",
+          "live in your heart"
+        ],
+        "positie_hoorder": "The hearer is the Receiver of Christ's action before becoming the Subject of the secondary program."
+      },
+      "helper": {
+        "identificatie": "The Blood / The Holy Spirit (implied)",
+        "tekstueel_bewijs": [
+          "by his own blood",
+          "There to my heart was the blood applied"
+        ],
+        "rol_van_god": "God is the Subject acting through Christ.",
+        "rol_van_geest": "Internalized power ('live in your heart')."
+      },
+      "tegenstander": {
+        "identificatie": "Avoidance and Denial (Human/Cultural)",
+        "tekstueel_bewijs": [
+          "Avoidance and denial are typical human responses",
+          "conspiracy of silence",
+          "walled communities"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Avoidance is treated as a spiritual wall that separates humans from the reality of God's work in suffering."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer, empowered by Christ, goes 'outside the camp' to share the pain of others and offer sacrifices of praise.",
+      "subject": "The Believer / 'We'",
+      "object": "Sacrifice of praise and sharing pain",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly grounded in the success of the primary program ('Because he did this, we are now...')."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Sanctification → The People",
+      "helper_subject_tegenstander": "The Blood → Jesus ← Avoidance/Denial",
+      "subject_naar_object": "Jesus → Sanctification/Abundant Life"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "18",
+      "ratio": "0.77",
+      "voorbeelden_god_subject": [
+        "Jesus suffered outside the city gate",
+        "He went straight into his suffering",
+        "He steered into the pain"
+      ],
+      "voorbeelden_mens_subject": [
+        "We just read the lesson",
+        "Let us then go to him",
+        "We can do small things"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Let us then go to him",
+          "Do not neglect to do good"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "I wanted to hear someone talk about Louise",
+          "people really didn't want to laugh"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "You know what that means",
+          "retrained in order to cope"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Through him, we can do things that we thought we could never do",
+          "we are now new, free people",
+          "Through him, we can live lives of sacrifice"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the new 'ability' (Pouvoir) granted by Christ's performance, rather than a mere 'obligation' (Devoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Presence/Suffering (The Cross)",
+      "s2": "Avoidance/Denial (The Wall)",
+      "niet_s1": "Polite Silence/Triviality",
+      "niet_s2": "Vulnerability/Exposure"
+    },
+    "beweging_in_preek": "From S2 (Denial) through ~S1 (Triviality) to S1 (Christ's suffering), leading to ~S2 (Believer's vulnerability).",
+    "theologische_resolutie": "Christ breaks the wall of S2 by entering S1, enabling the believer to exist in ~S2.",
+    "ernst_van_s2": "High; denial is presented as a pervasive cultural and psychological prison."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is deeply theocentric. Human action is always presented as a 'through him' consequence of Christ's prior, finished work.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism",
+        "tekstueel_bewijs": "Our Lord's Passion was the ultimate example of nonavoidance.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Causal Grace",
+        "tekstueel_bewijs": "Because he did this, we are now new, free people.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Christ as Subject of Power",
+        "tekstueel_bewijs": "Through him, we can do things that we thought we could never do.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Christ is called an 'example', but not one to be imitated by human effort alone; he is the source of the power to follow.",
+      "bijbelse_figuren_als_model": [
+        "Jesus"
+      ],
+      "alternatieve_lezing": "Christ is the Pioneer who opens the way, not just a model to mimic."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and empowerment; the burden of 'avoidance' is lifted by Christ's 'non-avoidance'.",
+      "theologische_implicatie": "Justification precedes Sanctification."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "Excellent integration of personal anecdote, cultural critique, and biblical exegesis.",
+      "spanning_punten": [
+        "The tension between the 'walled city' of the affluent and the 'outside' of Christ."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "Jesus suffered... in order to sanctify the people... Let us then go to him.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment ('live in your heart')."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Sin is seen as a 'wall' or 'denial' that prevents true life."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by Christ's movement from safety to suffering, which creates a new capacity in the hearer.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on personal anecdote (Vouloir/Savoir).",
+      "voorgestelde_balans": "Maintain the current emphasis on Pouvoir (Through Him).",
+      "concrete_suggestie": "Link the 'walled city' metaphor even more directly to the 'blood' as the power that breaks walls."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Avoidance is treated as a psychological habit.",
+      "voorgestelde_intensivering": "Frame 'Avoidance' as a form of spiritual death or rebellion against the Cross.",
+      "theologische_rationale": "To emphasize that only a divine act can break the human habit of denial."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Already well-ordered)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in avoiding moralism while still calling for a radical ethical response. It correctly identifies Christ as the Subject of the primary transformation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the effectiveness of the 'football' and 'funeral' stories; Greimassian analysis shows these stories function as 'Opponents' (Denial) to the 'Subject' (Christ).",
+    "verschil_met_exegese": "Exegesis explains Hebrews 13; semiotics shows how the preacher 'casts' the congregation into the role of Receiver of the Blood.",
+    "unieke_inzichten_greimas": "Reveals that the 'walled city' is not just a social critique but a narrative Opponent that Christ must overcome to reach the Object (the people)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (suffered)",
+      "He (went)",
+      "He (steered)",
+      "We (are)",
+      "We (can)",
+      "I (ask)"
+    ],
+    "volledige_object_lijst": [
+      "Sanctification",
+      "Abundant life",
+      "Sacrifice of praise",
+      "Comfort"
+    ],
+    "werkwoord_frequentie": {
+      "suffered": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "avoid": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "can": {
+        "count": 4,
+        "primair_subject": "Man (via Christ)"
+      }
+    },
+    "notities": "The sermon uses Rutledge's 'Grammar of Grace' effectively by making Christ's suffering the causal agent for human freedom."
+  }
+}

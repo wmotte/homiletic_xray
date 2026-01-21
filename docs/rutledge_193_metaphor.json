@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "The Trinitarian Love and the Depths of Mercy",
+    "bijbeltekst": "2 Corinthians 13; Psalm 130",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "parent of a child... on the verge of self-destruction",
+          "God in three persons",
+          "Father loves the Son",
+          "all-powerful Father"
+        ],
+        "conceptuele_metafoor": "GOD IS A DESPERATE PARENT"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "pay a ransom, mortgage the house",
+          "add up our virtues and balance them",
+          "petty record keeping",
+          "plenteous redemption"
+        ],
+        "conceptuele_metafoor": "SALVATION IS DEBT CANCELLATION"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "gone completely off the rails",
+          "path of life",
+          "entrance into a larger life",
+          "move out of the realm"
+        ],
+        "conceptuele_metafoor": "FAITH IS A DIRECTIONAL MOVEMENT"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The Corinthian church has gone completely off the rails.",
+        "brondomein": {
+          "naam": "Railway/Mechanical Transport",
+          "concrete_elementen": [
+            "tracks",
+            "momentum",
+            "derailment"
+          ],
+          "belichaamde_basis": "path"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Ecclesial Apostasy/Disorder",
+          "doctrinale_traditie": "Anglican/Episcopal"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Tracks",
+            "doel_element": "Apostolic teaching/Moral order"
+          },
+          {
+            "bron_element": "Derailment",
+            "doel_element": "Spiritual chaos"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The church is moving toward a crash",
+            "It cannot fix itself without external intervention"
+          ],
+          "theologische_implicaties": [
+            "Sin is a loss of structural integrity",
+            "Authority is necessary for guidance"
+          ],
+          "ethische_implicaties": [
+            "Need for repentance as 're-railing'"
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests faith is a rigid, pre-determined track with no room for organic growth"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A common idiom used to describe loss of control, though still evocative of disaster."
+      },
+      {
+        "metafoor_expressie": "God’s love spends itself to the very last drop of the blood of the Son.",
+        "brondomein": {
+          "naam": "Liquid/Economic Resource",
+          "concrete_elementen": [
+            "spending",
+            "drops",
+            "exhaustion of supply"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement",
+          "doctrinale_traditie": "Substitutionary/Sacrificial"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Currency/Liquid",
+            "doel_element": "Blood of Christ"
+          },
+          {
+            "bron_element": "Spending",
+            "doel_element": "Sacrifice"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Love is a finite resource that God treats as infinite",
+            "The cost was total"
+          ],
+          "theologische_implicaties": [
+            "The Cross is an economic transaction of grace"
+          ],
+          "ethische_implicaties": [
+            "Gratitude for the high cost paid"
+          ],
+          "onbedoelde_consequenties": [
+            "Could imply God the Father 'spent' the Son as a commodity"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Combines the economic 'spending' with the visceral 'blood' to re-sensitize the hearer to the cost of grace."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully bridges the Relational (Parent) and Economic (Ransom/Debt) domains by framing the economic sacrifice as an expression of parental desperation.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section on Psalm 130",
+          "metafoor_a": "Sin as Sickness ('no health in us')",
+          "metafoor_b": "Sin as Debt ('adding up points')",
+          "conflict_beschrijving": "The preacher laments the loss of the medical metaphor ('no health') while primarily using economic language ('credits', 'merit') to describe the same state.",
+          "entailment_conflict": "Sickness implies a need for healing (passive); Debt implies a need for payment or cancellation (legal/active).",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Introduction",
+          "gemengde_metaforen": [
+            "Parental Love",
+            "Economic Ransom"
+          ],
+          "blending_strategie": "The 'Desperate Parent' acts as the bridge: the parent uses economic means (mortgaging the house) for a relational end (saving the child)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Dead' Trinitarian formula by mapping it onto the 'Living' experience of a parent with a wayward child.",
+        "voorbeeld": "You would make a complete fool of yourself if you thought it might get your child’s attention."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By focusing so heavily on the 'desperate parent' and 'anorexic child,' the cosmic holiness of God might be reduced to human emotional volatility.",
+        "voorbeeld": "Paul will try almost any argument... like a parent agonizing.",
+        "potentiele_impact": "Congregation may view God's grace as emotional desperation rather than sovereign decree.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A modern household in crisis (drugs, school failure, anorexia).",
+      "sub_worlds": [
+        "The 'Depths' (De Profundis) as a dark, subterranean pit.",
+        "The 'Watchman' on the city walls waiting for dawn."
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to Trinity",
+          "van_wereld": "Modern parenting crisis",
+          "naar_wereld": "The inner life of the Triune God",
+          "effectiviteit": "High; uses the human 'hint' to point to the 'full radiance'."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Total Depravity",
+          "hoe_versterkt": "Reinforced through the 'miserable offender' and 'no health in us' language."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Accountant",
+          "verstoring_strategie": "Repudiates the 'petty record keeping' of virtues vs. faults.",
+          "vervangend_schema": "God as Merciful Father/Redeemer."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly tied to the Book of Common Prayer and the history of the General Confession."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the RELATIONAL domain, specifically the 'Desperate Parent' source domain. This is effectively used to explain the Trinity and Paul's emotional state. The secondary domain is ECONOMIC, used to describe the 'plenteous redemption' and the 'credits' of righteousness. There is a minor but potent use of VERTICALITY (The Depths vs. The Radiance).",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "The Trinity",
+        "huidige_status": "Conventional/Dead ('tired and formulaic')",
+        "suggestie": "Deepen the 'Dynamic Interrelatedness' by using a source domain of 'Resonance' or 'Dance' (Perichoresis) to move beyond just the 'Parent' image.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The Trinity is like a three-part harmony where each note gives space for the other to ring out."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'Sin as Sickness' (no health) to 'Sin as Debt' (credits).",
+        "resolutie_strategie": "Explicitly link the two: 'Our spiritual poverty (economic) has left our souls malnourished and frail (medical).'"
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOD AS DESPERATE PARENT",
+        "problematisch_entailment": "Desperation implies a lack of power or control.",
+        "aanbeveling": "Balance with the 'Resurrection Power' mentioned later to ensure God's sovereignty is not lost in His empathy."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To ground the 'Depths' of Psalm 130 in a more concrete sense of structural failure and rebuilding.",
+        "doel_concept": "Sanctification"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to bridge the gap between abstract Trinitarian doctrine and the visceral reality of human suffering and failure."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'agonized' tone; CMT reveals that this tone is built specifically through the mapping of 'Parental Desperation' onto 'Apostolic Authority'.",
+    "verschil_met_kolb": "Unlike Kolb's learning cycles, CMT shows that the hearer doesn't just 'learn' about God, they 're-map' their experience of parents onto their concept of the Divine.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher's critique of the new Prayer Book is actually a critique of 'Schema Deletion'—removing the 'Sin as Sickness' metaphor weakens the 'God as Physician' target concept."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "off the rails",
+      "miserable offender",
+      "out of the depths",
+      "petty record keeping",
+      "last ditch of our messed-up lives",
+      "glimmer of radiance",
+      "pouring out resources",
+      "vast primordial catastrophe"
+    ],
+    "woord_frequentie_analyse": {
+      "love": "18",
+      "mercy": "9",
+      "depths": "7",
+      "parent": "5",
+      "sin": "4"
+    },
+    "notities": "The preacher uses 'Verticality' (Depths/High) to create a sense of scale for God's mercy."
+  }
+}

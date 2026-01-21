@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "titel_preek": "God-damned Christians",
+    "bijbeltekst": "Romans 1:16, Romans 8:3, 2 Corinthians 5:21, Galatians 3:13, 1 Peter 2:24",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God addresses the cosmic condition of sin by condemning it in the flesh of His Son, thereby redeeming humanity from a curse they cannot escape themselves.",
+      "subject": {
+        "identificatie": "God (The Father/The Trinity)",
+        "tekstueel_bewijs": [
+          "Sending his own Son... [God] condemned sin in the flesh.",
+          "God made him to be sin who knew no sin.",
+          "Christ redeemed us from the curse of the law."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Redemption/Righteousness/Life",
+        "tekstueel_bewijs": [
+          "that in him we might become the righteousness of God",
+          "that we might die to sin and live to righteousness"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Holiness of the Law",
+        "tekstueel_bewijs": [
+          "Christ redeemed us from the curse of the law"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity (Victims and Perpetrators alike)",
+        "tekstueel_bewijs": [
+          "for our sake",
+          "for us",
+          "for my broken self and your broken self"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ (The Son)",
+        "tekstueel_bewijs": [
+          "having become a curse for us",
+          "He himself bore our sins in his body"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (God's undeserved grace)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin (as a Power), Death, and the Curse",
+        "tekstueel_bewijs": [
+          "a powerful force that grips us beyond the sovereignty of our wills",
+          "compulsions from which [we] cannot extricate [our]selves"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is defined not as misdeeds but as a condition/force that overrides human will, requiring a divine Subject to overcome."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer's response to the Gospel: identifying with the 'God-damned' status and showing radical grace to others.",
+      "subject": "The Christian (e.g., Will Campbell)",
+      "object": "Solidarity with both victim and victimizer",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is presented as a 'parable' or consequence of the primary program (soteriology)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Righteousness → Humanity",
+      "helper_subject_tegenstander": "Christ → God ← Sin/Curse",
+      "subject_naar_object": "God → Redemption"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "12",
+      "ratio": "2.0",
+      "voorbeelden_god_subject": [
+        "God condemned sin in the flesh.",
+        "God made him to be sin.",
+        "Christ redeemed us."
+      ],
+      "voorbeelden_mens_subject": [
+        "I glanced around, looking for police.",
+        "We want to believe in innocence.",
+        "I put my own wishes ahead of the common good."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "Ash Wednesday is a day set apart especially for corporate repentance"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "We want to believe in innocence."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "This helps us to understand the hideous shamefulness of crucifixion."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "compulsions from which [we] cannot extricate [our]elves",
+          "By a miracle of God’s undeserved grace I swerved."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes human 'non-pouvoir' (inability) and God's 'pouvoir' (sovereign power) to save."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Righteousness",
+      "s2": "The Curse/God-forsakenness",
+      "niet_s1": "Sin/Condition of bondage",
+      "niet_s2": "Sentimental Innocence"
+    },
+    "beweging_in_preek": "From ~S2 (denial of sin) to S2 (the reality of the curse) to S1 (Christ becoming the curse to bring grace).",
+    "theologische_resolutie": "Substitutionary atonement: Christ occupies S2 so the Receiver can occupy S1.",
+    "ernst_van_s2": "Extremely high; the curse is described as 'God-damned' and 'subhuman'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It defines sin as a power beyond human control and places the agency of salvation entirely on God's action in Christ.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in Will Campbell",
+        "tekstueel_bewijs": "Will Campbell... has been for many years a living parable.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Atonement",
+        "tekstueel_bewijs": "God made him to be sin who knew no sin.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent (Sin as Power)",
+        "tekstueel_bewijs": "a powerful force that grips us beyond the sovereignty of our wills",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Will Campbell is used as a 'parable' of the Gospel, not a moral hero to be imitated by human effort.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sermon already treats figures theocentrically."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and humility; realization of total dependence on grace.",
+      "theologische_implicatie": "Monergistic salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The narrative moves seamlessly from the human predicament to the divine solution.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Christ redeemed us from the curse... having become a curse for us.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on the work of the Son; the Spirit's role is implied in the 'transformation'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total depravity/bondage of the will."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon perfectly aligns with the Greimassian model of grace: God is the Subject, Sin is the Heavy Opponent, and the Hearer is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "The lack of 'Devoir' (duty) is appropriate for a sermon focusing on the 'Ash Wednesday' / Lenten reality of the Cross."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Sufficiently intense.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "N/A"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in theocentric preaching. It avoids the trap of moralism by refusing to make the hearer the subject of their own salvation or even their own repentance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis might focus on the 'shock value' of the title; Greimas shows the title is a literal structural description of the actantial state of the Receiver.",
+    "verschil_met_exegese": "Exegesis explains the Greek of Galatians; Greimas shows how that verse functions as the 'engine' of the entire sermon's logic.",
+    "unieke_inzichten_greimas": "Reveals that the 'Will Campbell' story is not a moral exhortation but a semiotic 'parable' that mirrors the primary actantial movement of Christ."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God condemned",
+      "God made him",
+      "Christ redeemed",
+      "He bore",
+      "I swerved",
+      "Sin grips"
+    ],
+    "volledige_object_lijst": [
+      "Sin",
+      "Curse",
+      "Righteousness",
+      "Redemption"
+    ],
+    "werkwoord_frequentie": {
+      "condemned": {
+        "count": "2",
+        "primair_subject": "God"
+      },
+      "redeemed": {
+        "count": "2",
+        "primair_subject": "God"
+      },
+      "grips": {
+        "count": "1",
+        "primair_subject": "Sin"
+      }
+    },
+    "notities": "The sermon successfully uses a 'Heavy Opponent' to necessitate a 'Divine Subject'."
+  }
+}

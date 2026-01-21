@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "The Life-Giving Wind from Nazareth (Pentecost)",
+    "bijbeltekst": "Psalm 104, John 20:19-23, Galatians 5:22-23",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God’s Spirit (the Subject) actively infuses, sustains, and renews the world (the Object) to ensure life and order for all creatures (the Receiver) against the threats of chaos, famine, and death.",
+      "subject": {
+        "identificatie": "God / The Spirit of Jesus",
+        "tekstueel_bewijs": [
+          "God’s Spirit has ordered the world",
+          "He took bread, he blessed it, he broke it",
+          "God’s Spirit is a force for food",
+          "God... breathes the world to life"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Cosmic Order, Sustenance, and Life",
+        "tekstueel_bewijs": [
+          "the proper functioning of the world",
+          "provision for all creatures",
+          "well-being"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Creator God / The Father",
+        "tekstueel_bewijs": [
+          "As the Father has sent me, so I send you"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "All creatures (The World/The Hearer)",
+        "tekstueel_bewijs": [
+          "all radishes and lions and minnows and Asians...",
+          "we also are fed"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Jesus (as the historical manifestation of the Spirit)",
+        "tekstueel_bewijs": [
+          "It was Jesus who saw the hungry crowd",
+          "It was Jesus... who woke up... rebuked the waves"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Chaos (Leviathan), Famine, Death, and Sin/Vengeance",
+        "tekstueel_bewijs": [
+          "Leviathan that you formed to sport in it",
+          "threat of famine and starvation",
+          "devoured in anger, in violence, and in vengeance"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponents are not mere bad habits but ontological threats: chaos, death, and the 'evil sea monster' that makes life unlivable."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The empowered church (Subject) bears fruit and forgives sins (Object) as a result of being breathed upon.",
+      "subject": "The Church / The Hearer",
+      "object": "Fruit of the Spirit / Forgiveness",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program is strictly a consequence of the primary. Because God breathes (Program 1), humans can live differently (Program 2)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Creator God → Life/Order → All Creatures",
+      "helper_subject_tegenstander": "Jesus → Holy Spirit ← Leviathan/Death",
+      "subject_naar_object": "God's Spirit → Renewal of the Earth"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "28",
+      "mens_als_subject_count": "12",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God’s Spirit has ordered the world",
+        "He rebuked the waves",
+        "God... renews the face of the ground"
+      ],
+      "voorbeelden_mens_subject": [
+        "we gather it up",
+        "we stay open",
+        "we should bear fruit"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "we should bear fruit"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "imagine that we are open",
+          "stay open to the gifts"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Israel... is aware",
+          "we acknowledge whenever we say table grace"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "empowered them to be forgivers",
+          "makes life in the world possible",
+          "people who are breathed on can live differently"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God providing the 'Power' (Pouvoir) where humans are 'helpless.' It is a theology of endowment rather than obligation."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Spirit/Life",
+      "s2": "Chaos/Death",
+      "niet_s1": "Suffocation/Famine",
+      "niet_s2": "Tamed Leviathan/Order"
+    },
+    "beweging_in_preek": "From S2 (Chaos/Leviathan) to S1 (Renewal/Breath) via the intervention of Jesus.",
+    "theologische_resolutie": "God's breath is the 'iron lung' that prevents the movement toward ~S1 (Death).",
+    "ernst_van_s2": "High; chaos is described as a 'scary threat' and 'unlivable'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. God is the primary actor in every movement (cosmic, biological, and social). Human action is presented as a 'fruit' or 'response' to an ontological change (being breathed on).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional openness",
+        "tekstueel_bewijs": "as we are able",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "God’s Spirit has ordered the world",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Human as passive Receiver",
+        "tekstueel_bewijs": "we rely on breath being given",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are not used as moral examples to follow, but as witnesses to God's action.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Jesus is the Subject who acts on behalf of the disciples, not a model they must imitate by their own strength."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and confidence (Doxology).",
+      "theologische_implicatie": "Monergistic sustaining of the world."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from God's cosmic work to the church's ethical work is handled via the metaphor of 'breathing'—inhaling grace and exhaling fruit.",
+      "spanning_punten": [
+        "The tension between 'staying open' (human effort) and 'breath being given' (pure gift)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "taming chaos... made it a plaything",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of 'Pouvoir-faire' (Power to forgive)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; without the Spirit, the world 'will die' and be 'devoured'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject. The hearer is positioned as a beneficiary of cosmic and spiritual maintenance.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for Pentecost.",
+      "concrete_suggestie": "Ensure the 'fruit' section doesn't turn into a new 'Devoir' (Must) list."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Leviathan/Death).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God breathes) → Ethics (We forgive)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in theocentric preaching. By making the Spirit the Subject of the verbs, the preacher creates a sense of security and gratitude rather than burden."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'three affirmations' structure, Greimasian analysis reveals that the 'engine' of the sermon is the transfer of competence (breath) from God to a helpless world.",
+    "verschil_met_exegese": "Exegesis might focus on the meaning of 'Leviathan'; semiotics shows Leviathan's function as the 'Opponent' that necessitates a Divine 'Subject'.",
+    "unieke_inzichten_greimas": "Reveals that the 'fruit of the Spirit' is grammatically and actantially a 'by-product' of the primary Subject's action, preventing it from becoming a legalistic requirement."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (ordered)",
+      "Jesus (rebuked)",
+      "Spirit (authorizes)",
+      "God (gives)",
+      "Jesus (breathed)"
+    ],
+    "volledige_object_lijst": [
+      "proper functioning",
+      "bread",
+      "forgiveness",
+      "life"
+    ],
+    "werkwoord_frequentie": {
+      "breathed": {
+        "count": "4",
+        "primair_subject": "God/Jesus"
+      },
+      "gives": {
+        "count": "5",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon avoids the 'Exemplarism' trap by treating Jesus' actions as the source of current reality rather than a pattern for human imitation."
+  }
+}

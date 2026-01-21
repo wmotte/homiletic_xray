@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "Ash Wednesday & First Sunday in Lent",
+    "bijbeltekst": "Psalm 51, Psalm 19, Romans 5:8, 2 Corinthians 5:21",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in the human condition of universal sin and self-deception to justify the ungodly through the substitutionary death of Christ.",
+      "subject": {
+        "identificatie": "God / Jesus Christ",
+        "tekstueel_bewijs": [
+          "God has shown us a great thing",
+          "Jesus... has voluntarily taken our place",
+          "God made [Jesus] to be sin",
+          "He has wrought the salvation of his enemies"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Salvation / Mercy / Justification of the ungodly",
+        "tekstueel_bewijs": [
+          "perfect remission and forgiveness",
+          "the righteousness of God",
+          "salvation of each and every one of us"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Holiness of God",
+        "tekstueel_bewijs": [
+          "the author of all goodness",
+          "the reality of God... who has the absolute right to make demands"
+        ],
+        "rol_interpretatie": "JUDGE/LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Sinners / The 'Enemies' / The Hearers",
+        "tekstueel_bewijs": [
+          "show mercy to us all, especially to the perpetrators",
+          "the salvation of each and every one of us"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ / The Holy Spirit (implied in prayer)",
+        "tekstueel_bewijs": [
+          "There is Another who has taken the sentence upon himself",
+          "Christ died for the ungodly"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Self-deception / The Wrath of God / Death",
+        "tekstueel_bewijs": [
+          "the storm of the wrath of God against sin",
+          "exhausting, lifelong charade of pretense",
+          "uprooted small corner of evil"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is treated as a theological reality and a cosmic power that requires a divine death to nullify, not just a moral mistake."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human response of repentance and honest self-inventory (Lent).",
+      "subject": "The Hearer / The Believer",
+      "object": "Repentance / Insight / Honesty",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher explicitly states that the knowledge of grace precedes the confession of sin."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation → The Ungodly",
+      "helper_subject_tegenstander": "Christ → God ← Sin/Wrath",
+      "subject_naar_object": "God → Mercy"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "God has shown us a great thing.",
+        "Jesus... has voluntarily taken our place.",
+        "He has wrought the salvation of his enemies."
+      ],
+      "voorbeelden_mens_subject": [
+        "We throw ourselves on his mercy.",
+        "We need to learn this.",
+        "We can let ourselves be seen as the sinners we really are."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "We need to learn this."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Our temptation will be... to try to squirm off the hook."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Repentance is insight.",
+          "The knowledge of grace has preceded the confession."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "God is truly able to do away with sin.",
+          "He... has nullified it."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God's 'ability' (Pouvoir) to save, which creates the 'knowledge' (Savoir) in the hearer that makes confession possible."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Mercy",
+      "s2": "Wrath/Judgment",
+      "niet_s1": "Self-Justification/Pretense",
+      "niet_s2": "Honest Confession/Repentance"
+    },
+    "beweging_in_preek": "From ~S1 (Pretense) to S2 (Judgment acknowledged) to S1 (Grace received) which enables ~S2 (Repentance).",
+    "theologische_resolutie": "Christ takes S2 (Judgment) to open S1 (Grace) for those in ~S1 (Pretense).",
+    "ernst_van_s2": "High; the 'storm of the wrath of God' is explicitly mentioned."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It identifies God as the primary actor in salvation and treats human repentance as a response to, rather than a condition for, divine mercy.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Ethical focus on repentance",
+        "tekstueel_bewijs": "Repentance is necessary for human well-being.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Salvation",
+        "tekstueel_bewijs": "There is Another who has taken the sentence upon himself.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Priority of Grace",
+        "tekstueel_bewijs": "The knowledge of grace has preceded the confession of sin.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (David) and historical figures (Tolkien, Lincoln) are used to illustrate the human condition or the logic of insight, not as moral templates for earning favor.",
+      "bijbelse_figuren_als_model": [
+        "The Psalmist (as one who sees reality)"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: God is the one who creates the clean heart."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the 'exhausting charade' of self-justification.",
+      "theologische_implicatie": "Monergistic undertones; salvation is entirely God's work."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'searching self-inventory' to the 'substitutionary work of Christ' is seamless and logically grounded in the priority of grace.",
+      "spanning_punten": [
+        "The tension between 'sinning against God only' and the horizontal harm of sin is resolved through the definition of sin as a theological concept."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Jesus, the Son of God, has voluntarily taken our place.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Spirit is mentioned in the Trinitarian formula but the 'Pouvoir' is attributed directly to Christ's work."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Critical; sin is an offense against the 'author of all goodness' requiring divine death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative program. The hearer is positioned as the Receiver of an objective work (Christ's death).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain current balance; it serves the Ash Wednesday context well.",
+      "concrete_suggestie": "Perhaps link the 'Savoir' (Insight) more explicitly to the 'Pouvoir' of the Holy Spirit."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Opponent (Sin/Wrath) is already maximized.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Repentance as response)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a textbook example of grace-oriented homiletics. It avoids the trap of making repentance a 'work' by grounding the ability to confess in the prior reality of God's mercy."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the use of Tolkien or Solzhenitsyn as 'hooks', Greimasian analysis reveals these are actantial 'Opponents' to the Subject's self-deception.",
+    "verschil_met_exegese": "Exegesis might focus on the Hebrew of Psalm 51; this analysis focuses on how the preacher re-assigns the 'Subject' role from the Psalmist to Christ.",
+    "unieke_inzichten_greimas": "Greimas reveals that the 'genius' of the sermon lies in the Subject-switch: the hearer starts as the Subject of 'self-inventory' but is quickly moved to the Receiver of Christ's 'Performance'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (has shown)",
+      "Jesus (has taken)",
+      "The Psalmist (demonstrated)",
+      "We (acknowledge)",
+      "The line (passes/shifts)"
+    ],
+    "volledige_object_lijst": [
+      "Mercy",
+      "Clean heart",
+      "Salvation",
+      "Insight"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "repent": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "die": {
+        "count": "5",
+        "primair_subject": "Christ"
+      }
+    },
+    "notities": "The sermon adheres strictly to Fleming Rutledge's 'Grammar of Grace'."
+  }
+}

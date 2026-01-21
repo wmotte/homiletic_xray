@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "Monsters at the Manger",
+    "bijbeltekst": "Matthew 2:18",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "monsters who kill in the night",
+          "besieged city",
+          "tyranny of Herod",
+          "homicidal frenzy",
+          "power that humans exercise"
+        ],
+        "conceptuele_metafoor": "EVIL IS AN AGGRESSIVE MONSTER/OPPRESSOR"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Flight into Egypt",
+          "hardships as refugees",
+          "fleeing from the tyranny",
+          "meeting with contempt along the way"
+        ],
+        "conceptuele_metafoor": "FAITH IS A REFUGEE JOURNEY"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "human judgments are not the last judgments",
+          "human justice is not the last justice",
+          "the Last Word"
+        ],
+        "conceptuele_metafoor": "GOD'S SOVEREIGNTY IS THE FINAL COURT"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Monsters who kill in the night",
+        "brondomein": {
+          "naam": "Predatory Creature",
+          "concrete_elementen": [
+            "claws",
+            "lurking",
+            "devouring",
+            "darkness"
+          ],
+          "belichaamde_basis": "force/darkness"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sin/Structural Evil",
+          "doctrinale_traditie": "Anglican/Augustinian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Monster",
+            "doel_element": "Child abusers/Tyrants/Sin"
+          },
+          {
+            "bron_element": "Devouring",
+            "doel_element": "Destruction of innocence"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Evil is non-human and irrational",
+            "Evil is actively hunting the vulnerable"
+          ],
+          "theologische_implicaties": [
+            "Evil is a cosmic force, not just a mistake",
+            "The world is a dangerous 'wilderness'"
+          ],
+          "ethische_implicaties": [
+            "Need for protection of the weak",
+            "Naming the evil is the first step of resistance"
+          ],
+          "onbedoelde_consequenties": [
+            "Dehumanization of the 'monsters' (offenders)",
+            "Fatalism if the monster is too strong"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the primal fear of the dark to describe modern child abuse and war."
+      },
+      {
+        "metafoor_expressie": "Jesus was a refugee",
+        "brondomein": {
+          "naam": "Displaced Person",
+          "concrete_elementen": [
+            "border crossing",
+            "lack of food",
+            "contempt from locals",
+            "statelessness"
+          ],
+          "belichaamde_basis": "path/container (outside the home)"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Incarnation/Solidarity",
+          "doctrinale_traditie": "Social Gospel/Liberation"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Refugee",
+            "doel_element": "The Incarnate Christ"
+          },
+          {
+            "bron_element": "Hostile borders",
+            "doel_element": "The world's rejection of God"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God is not in a palace but on the road",
+            "Vulnerability is a divine attribute"
+          ],
+          "theologische_implicaties": [
+            "Christology of solidarity",
+            "God experiences human suffering firsthand"
+          ],
+          "ethische_implicaties": [
+            "Care for Somalians/Haitians/Kurds is care for Christ"
+          ],
+          "onbedoelde_consequenties": [
+            "Potential loss of Christ's divinity in his extreme humanity"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Breaks the 'plastic crèche' schema by mapping the Holy Family to 1993 geopolitics."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The preacher maintains a consistent tension between the 'Monster' (Evil) and the 'Refugee' (God). The coherence is found in the shared space of the 'wilderness' or 'besieged city.'",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "The Savior Reigns (King/Power)",
+          "metafoor_b": "Refugee (Weakness)",
+          "conflict_beschrijving": "The 'reign' of a refugee is a paradox.",
+          "entailment_conflict": "Kings exert force; refugees flee force.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Sarajevo story",
+          "gemengde_metaforen": [
+            "Church as Basement",
+            "Kingdom as Shared Suffering"
+          ],
+          "blending_strategie": "Redefining 'reign' not as political control, but as 'tenacity' and 'standing for humanity.'"
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "De-sentimentalizes Christmas by re-introducing the 'blood' and 'horror' of the source text.",
+        "voorbeeld": "Do the crèche figures really mean anything, or are they just decorations like nutcrackers?"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By focusing so heavily on God's solidarity in suffering, the 'victory' of the Resurrection risks becoming merely a psychological 'conviction' rather than an ontological reality.",
+        "voorbeeld": "The source of our conviction that human judgments are not the last.",
+        "potentiele_impact": "Congregation may feel comforted but lack a sense of God's actual power to intervene.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A dark, modern city (NYC) where monsters (abusers/tyrants) lurk in hallways.",
+      "sub_worlds": [
+        "The 1st Century Judean massacre",
+        "1993 Sarajevo basement",
+        "The world of Victorian carols (rejected as false)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Middle",
+          "van_wereld": "Modern NYC",
+          "naar_wereld": "Besieged Sarajevo",
+          "effectiviteit": "Extremely effective in bridging the gap between 'sentimental Christmas' and 'real-world suffering.'"
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "The World is a Battleground",
+          "hoe_versterkt": "Using the 'Monsters' imagery to validate the hearer's sense of outrage at the news."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Christmas as Cozy Nostalgia",
+          "verstoring_strategie": "Juxtaposing 'Rudolph' with 'wholesale massacre of baby boys.'",
+          "vervangend_schema": "Christmas as God's entry into a war zone."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strong; utilizes the 'Holy Innocents' feast to ground the Sunday after Christmas."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'EVIL IS A MONSTER' and 'GOD IS A REFUGEE' domains. It successfully avoids the 'ECONOMIC' domain (no mention of debt or payment), focusing instead on 'RELATIONAL' solidarity and 'MILITARY/OPPRESSIVE' conflict. The landscape is bleak but cognitively honest.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "The Savior Reigns",
+        "huidige_status": "Dead/Conventional (challenged by the preacher's mother)",
+        "suggestie": "Map 'reigning' to 'the persistence of light in a blackout' or 'the survival of a seed in winter.'",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "His reign is the stubborn refusal of the basement-dwellers to stop singing."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The 'Last Word' vs. 'The Monster's Work'",
+        "resolutie_strategie": "Explicitly link the 'Last Word' (Juridical) to the 'Resurrection' as the monster's defeat."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Monsters",
+        "problematisch_entailment": "Monsters cannot be redeemed, only destroyed.",
+        "aanbeveling": "Briefly acknowledge the 'humanity' of the perpetrators to avoid a dualistic theology where some people are ontologically evil."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To build on the 'basement' and 'hallway' imagery.",
+        "doel_concept": "The Church as a 'Foundation' that holds when the upper floors are shelled."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to deconstruct cultural sentimentality and reconstruct a robust, 'astringent' faith capable of facing modern horrors."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the Berlioz/Dostoevsky references, CMT shows how these references function as 'Source Domains' to make the 'Target' (God's presence in suffering) thinkable.",
+    "verschil_met_kolb": "Unlike Kolb's learning cycles, CMT focuses on the 'Mapping' of the refugee experience onto the divine nature.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher's mother's objection ('What does that mean?') is actually a failure of a 'Dead Metaphor' (The Savior Reigns) to map onto her 'Real World' schema."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Monsters at the manger",
+      "Pulling power of the narrative",
+      "Lulled by harmonies",
+      "Stark rendition",
+      "Satan, sin, evil, death, and judgment",
+      "Savior reigns",
+      "Besieged city",
+      "Last Word"
+    ],
+    "woord_frequentie_analyse": {
+      "children": "12",
+      "monsters": "8",
+      "suffering": "6",
+      "Christmas": "15",
+      "story": "10"
+    },
+    "notities": "The sermon relies heavily on 'Schema Disruption'—specifically attacking the 'Sentimental Christmas' schema."
+  }
+}

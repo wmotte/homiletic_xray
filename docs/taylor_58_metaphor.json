@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "titel_preek": "At Calvary: Two Words At The End",
+    "bijbeltekst": "John 19:30; Luke 23:46",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "950"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "traveled during these Sundays of Lent",
+          "whole journey on the road to Calvary",
+          "trudged his way toward death",
+          "pilgrimage Jesus... made from Bethlehem to Calvary",
+          "the journey is over"
+        ],
+        "conceptuele_metafoor": "LIFE/SALVATION IS A JOURNEY"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "the price is paid",
+          "the transaction is completed",
+          "rightful legacy",
+          "redeem their soul"
+        ],
+        "conceptuele_metafoor": "SALVATION IS A COMMERCIAL TRANSACTION"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "win us back to the Father's house",
+          "lost and wandering child has been found and brought home",
+          "Father, I am coming home",
+          "children turning against parents"
+        ],
+        "conceptuele_metafoor": "GOD IS A FATHER / RECONCILIATION IS RETURNING HOME"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "The battle is fought; the victory is won",
+          "unbuckles his sword",
+          "Hell has lost; God has won"
+        ],
+        "conceptuele_metafoor": "ATONEMENT IS SPIRITUAL WARFARE"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The mighty warrior untenses his muscles, unbuckles his sword",
+        "brondomein": {
+          "naam": "Ancient Combat",
+          "concrete_elementen": [
+            "warrior",
+            "muscles",
+            "sword",
+            "unbuckling"
+          ],
+          "belichaamde_basis": "force/resistance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Christus Victor / The end of the Passion",
+          "doctrinale_traditie": "Classical/Patristic"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Warrior",
+            "doel_element": "Jesus Christ"
+          },
+          {
+            "bron_element": "Unbuckling sword",
+            "doel_element": "Relinquishing life/Ending the struggle"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Jesus was in an active, violent struggle against an opponent."
+          ],
+          "theologische_implicaties": [
+            "The Cross is a site of victory over demonic powers."
+          ],
+          "ethische_implicaties": [
+            "The believer is a spectator to a victory won on their behalf."
+          ],
+          "onbedoelde_consequenties": [
+            "Portrays Jesus as a combatant, potentially obscuring his role as a sacrificial lamb."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher re-activates the dead metaphor of 'spiritual warfare' by adding concrete physical details like 'untensing muscles'."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MIXED",
+      "coherentie_verklaring": "The preacher successfully blends the Journey and Familial domains (Homecoming), but creates a jarring transition in the climax by stacking Military, Economic, and Journey metaphors in rapid succession.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Climax of the sermon",
+          "metafoor_a": "The price is paid (Economic)",
+          "metafoor_b": "The journey is over (Journey)",
+          "conflict_beschrijving": "The logic of a commercial transaction (settling a debt) differs from the logic of a journey (reaching a destination).",
+          "entailment_conflict": "A debt is settled instantly; a journey requires duration and effort. Combining them muddles whether salvation is an event or a process.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Description of the 'Father's house'",
+          "gemengde_metaforen": [
+            "Journey",
+            "Family"
+          ],
+          "blending_strategie": "The 'Homecoming' blend: The destination of the journey is defined as the relational presence of the Father."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The preacher revitalizes the 'Shepherd' and 'Path' metaphors by using sensory language like 'trudged' and 'crooked and perilous way'.",
+        "voorbeeld": "trudged his way toward death"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "The use of 'transaction' and 'price is paid' can reduce the mystery of the Atonement to a cold business deal.",
+        "voorbeeld": "the transaction is completed",
+        "potentiele_impact": "Congregation may view God as a bookkeeper rather than a loving Father.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Road to Calvary (A physical path through time and space)",
+      "sub_worlds": [
+        "The Father's House (Heavenly/Relational space)",
+        "The 20th Century Street (Modern urban decay)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to modern sin",
+          "van_wereld": "Ancient Jerusalem",
+          "naar_wereld": "20th Century streets/schools",
+          "effectiviteit": "High; it bridges the historical distance of the text."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Father",
+          "hoe_versterkt": "Repeated use of 'Father's house' and 'coming home' language."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Sin as abstract error",
+          "verstoring_strategie": "Replaced with concrete images of ruin (drugs, litter, broken schools).",
+          "vervangend_schema": "Sin as Social and Physical Decay"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits perfectly with the Lenten/Good Friday movement from struggle to rest."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'HOMECOMING' meta-metaphor, which elegantly synthesizes the Journey and Relational domains. However, the preacher occasionally falls back on 'cliché-stacking' (Economic/Military/Journey) at moments of high emotional intensity, which can dilute the cognitive impact of the primary image.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Sin as Debt",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Connect the 'price paid' to the 'ruined careers' mentioned earlier.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The debt that bankrupts a family is the same weight Jesus carries."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The Warrior vs. The Child",
+        "resolutie_strategie": "Use the 'Warrior' image for the cosmic victory and the 'Child' image for the personal application, ensuring they don't overlap in the same sentence."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SALVATION IS A TRANSACTION",
+        "problematisch_entailment": "If the transaction is finished, the believer has no further role.",
+        "aanbeveling": "Balance with the 'I Must' section to emphasize ongoing discipleship."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To build on the 'mansions' and 'Father's house' imagery.",
+        "doel_concept": "The Church as a dwelling place"
+      }
+    ],
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful use of the Journey metaphor that successfully bridges the gap between the biblical narrative and the hearer's life."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'shout' and 'rhythm,' CMT reveals that these words function to trigger a 'Victory' schema in the hearer's mind.",
+    "verschil_met_kolb": "Unlike Kolb's focus on learning styles, CMT shows how the preacher uses the 'Home' schema to provide an emotional and cognitive anchor for the abstract concept of 'Commending the spirit'.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher's power comes from 'Spatialization'—turning the abstract concept of time (Lent) and theology (Atonement) into a physical road (Calvary)."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "road to Calvary",
+      "great divide of God's grace",
+      "hearts melted",
+      "Father's house",
+      "pilgrimage",
+      "eternity squeezed",
+      "heartbreak of God",
+      "Father's business",
+      "mirrored in these sayings",
+      "awful load of sin",
+      "last drop of blood",
+      "highway has been opened",
+      "crooked and perilous way",
+      "nailed to his cross",
+      "unbuckles his sword",
+      "price is paid",
+      "transaction is completed",
+      "put a light in the window"
+    ],
+    "woord_frequentie_analyse": {
+      "journey": "5",
+      "home": "7",
+      "finished": "8",
+      "father": "12",
+      "way": "9"
+    },
+    "notities": "The preacher uses 'Home' as the ultimate target domain, resolving all other metaphors (War, Debt, Journey) into this relational resting place."
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "The Hazard Of The Uncommitted",
+    "bijbeltekst": "Matthew 12:43-45 / Joshua 24:15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject must overcome the state of neutrality/noncommitment by actively choosing to commit to God and social justice to prevent being re-occupied by evil.",
+      "subject": {
+        "identificatie": "The Individual / The Nation (USA)",
+        "tekstueel_bewijs": [
+          "the nation lacks the capacity to commit itself",
+          "we were born for commitment",
+          "throw ourselves in on the side of something"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Commitment / Steadfast Purpose / Social Justice",
+        "tekstueel_bewijs": [
+          "sustained, steady commitment to what belongs to God",
+          "the gift of steadfast purpose"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The God of History / The Founders / Moral Conscience",
+        "tekstueel_bewijs": [
+          "destiny to which the God of history had summoned it",
+          "what God bids us do"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Self / The Republic / Mankind",
+        "tekstueel_bewijs": [
+          "find in that offering, true life",
+          "a decent respect to the opinions of mankind"
+        ],
+        "positie_hoorder": "SUBJECT_HERO"
+      },
+      "helper": {
+        "identificatie": "Orpheus (Christ as a 'lovelier melody') / Inspiration / Historical Documents",
+        "tekstueel_bewijs": [
+          "the soft melodies of Orpheus's harp",
+          "the song of Christ... is a lovelier melody"
+        ],
+        "rol_van_god": "HELPER",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "Neutrality / Evil Spirits / Racism / Hesitation",
+        "tekstueel_bewijs": [
+          "the fallacy of this notion of noncommitment",
+          "some stammer, some stutter in our character"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "Sin is framed as a 'hesitation' or 'stutter' in character rather than an ontological death requiring resurrection."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The National Program: America must fulfill its founding documents by committing to civil rights.",
+      "subject": "The United States",
+      "object": "Democracy / Equality",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The individual's spiritual commitment is mirrored in and validated by the nation's political commitment."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God/Founders → Commitment → The Individual/Nation",
+      "helper_subject_tegenstander": "Christ (as Music) → The Individual ← Neutrality/Stuttering",
+      "subject_naar_object": "The Individual → Offering of Self"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God is just",
+        "God bids us do"
+      ],
+      "voorbeelden_mens_subject": [
+        "We were born for commitment",
+        "a man... may lash himself to the prow",
+        "the nation stammered and stuttered"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "this must be a nation",
+          "let him commit himself"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Choose you this day",
+          "throw ourselves in"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "shows the fallacy of this notion"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "the nation lacks the capacity"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It assumes the hearer has the 'Pouvoir' (power) but lacks the 'Vouloir' (will/commitment)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Commitment / Fullness",
+      "s2": "Evil Occupancy / Chaos",
+      "niet_s1": "Neutrality / Empty House",
+      "niet_s2": "Moral Decency / Wax in Ears"
+    },
+    "beweging_in_preek": "Moves from ~S1 (Neutrality) to S2 (Evil) to ~S2 (Self-effort/Ulysses) to S1 (Commitment/Jason).",
+    "theologische_resolutie": "Resolution is achieved through the 'lovelier music' of Christ which motivates the human subject to choose S1.",
+    "ernst_van_s2": "Moderate; evil is a 'horde' but only enters because of human 'emptiness'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While Christ is mentioned, he functions as a 'Helper' (Orpheus) to the human 'Subject' (Jason). The engine of the sermon is the human will's capacity to choose commitment.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Subject",
+        "tekstueel_bewijs": "We were born for a purpose, to throw ourselves in...",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "if some worthy purpose does not claim us then some unworthy purpose will claim us.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christ as Attraction",
+        "tekstueel_bewijs": "the music of Christ... is a lovelier melody than the world can ever sing.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Jason and Ulysses are used as models for how to navigate life's temptations.",
+      "bijbelse_figuren_als_model": [
+        "Joshua",
+        "The 'Owner' of the house"
+      ],
+      "alternatieve_lezing": "The house is swept by God; Christ is the strong man who binds the demon, not just a better song to listen to."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Inspiration followed by the burden of 'steadfast purpose'.",
+      "theologische_implicatie": "Synergism where man provides the commitment and God provides the music."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "Strongly integrated political and individual narratives, but soteriologically confused.",
+      "spanning_punten": [
+        "Christ is 'Lord' but acts only as a musician (Helper) rather than Savior (Subject)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "the music of Christ... is a lovelier melody... herein is our destiny... to offer ourselves.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is replaced by the 'music' of Christ's example."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is a 'hazard' of being 'uncommitted' or 'neutral'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (through steadfast purpose)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon casts the hearer as the Subject who must fill their own 'empty house' with commitment. God/Christ is relegated to the role of a Helper/Adjuvant.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The human is the subject of 'offering', 'committing', and 'cleansing'.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who occupies the house and keeps the demons out.",
+      "voorbeeld_revisie": "Instead of 'We must offer ourselves to God,' use 'Christ has seized us for Himself, so that we are no longer empty.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as Jason (the hero).",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the 'house' which is helpless to defend itself unless Christ dwells within."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy Devoir/Vouloir (Must/Want).",
+      "voorgestelde_balans": "Increase Pouvoir (Power).",
+      "concrete_suggestie": "Focus on the Spirit's power to sustain commitment where human 'stuttering' fails."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Sin as 'neutrality'.",
+      "voorgestelde_intensivering": "Sin as a 'Strong Man' that only a 'Stronger Man' (Luke 11:21-22) can defeat.",
+      "theologische_rationale": "If the opponent is just 'hesitation', the hearer thinks they can fix it with more effort."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (commitment) is the primary program; Soteriology is secondary/absent.",
+      "voorgestelde_structuur": "1. Christ commits to us (Soteriology). 2. We are enabled to commit to the neighbor (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The rhetoric is masterful and the social passion is vital, but the 'engine' of the sermon relies on human willpower rather than the finished work of Christ."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of American civil religion; semiotically, it is a law-driven recruitment speech.",
+    "verschil_met_exegese": "Exegesis of the 'empty house' usually emphasizes the necessity of the Holy Spirit, which is missing here.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'Christ' is a functional 'Helper' (instrument) rather than the 'Subject' (agent) of the salvation described."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "The owner (human) spruces it up",
+      "The nation (human) stammered",
+      "We (human) offer ourselves",
+      "Orpheus (Christ-figure) played"
+    ],
+    "volledige_object_lijst": [
+      "Steadfast purpose",
+      "Commitment",
+      "True life"
+    ],
+    "werkwoord_frequentie": {
+      "commit": {
+        "count": "14",
+        "primair_subject": "Man"
+      },
+      "offer": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "summon": {
+        "count": "2",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the 'Orpheus' myth to create a 'Vouloir-faire' (desire) for Christ, but fails to provide the 'Pouvoir-faire' (power) beyond human resolve."
+  }
+}

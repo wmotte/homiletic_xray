@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "titel_preek": "Believing Without Seeing",
+    "bijbeltekst": "John 21:29 (sic, actually John 20:29)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher narrates a personal anecdote about Easter in NYC, provides an exegetical retelling of Thomas's doubt and encounter with Jesus, and reflects on the nature of faith versus sight.",
+      "exegetische_kwaliteit": "Strong narrative flow; correctly identifies the climax of the Fourth Gospel in Thomas's confession.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts historical and theological truths, but shifts to a declarative beatitude at the end.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I have a vivid memory of the first Easter Sunday...",
+        "Thomas was a believer in Murphy’s law...",
+        "Blessed are they who have not seen and yet have believed."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from skepticism or 'vague belief' to personal trust in the Risen Christ.",
+      "pneumatologisch_bewustzijn": "Implicit; the preacher acknowledges he has 'nothing to show' but the 'gift of faith' which implies the Spirit's work.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "trust",
+        "yield",
+        "acknowledge"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The Newsweek article is the best.",
+        "Thomas was not with them.",
+        "The church was not built on seeing with the eyes."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "said",
+        "seemed"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "Try to imagine this...",
+        "Imagine Thomas’s state of mind."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "put",
+        "see"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "I have always envied the way...",
+        "My heart lifted, more than I can find words to say."
+      ],
+      "dominante_werkwoorden": [
+        "envied",
+        "felt",
+        "thankful"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "What I have I give you."
+      ],
+      "dominante_werkwoorden": [
+        "give"
+      ],
+      "kwaliteit": "Weak; the preacher offers his witness rather than a direct divine promise."
+    },
+    "declaratieven": {
+      "frequentie": "5",
+      "procent": "3%",
+      "voorbeelden": [
+        "Blessed are they who have not seen...",
+        "He is risen indeed!"
+      ],
+      "dominante_werkwoorden": [
+        "blessed",
+        "risen"
+      ],
+      "autoriteit": "High at the conclusion, as the preacher mediates Christ's beatitude."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive personal narrative about NYC (6 paragraphs)",
+        "Third-person description of Thomas's psychology"
+      ],
+      "effect_op_hoorder": "The hearer is an observer of the preacher's memories and Thomas's history rather than a participant in the event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct sacramental promise (Toezegging)"
+      ],
+      "effect_op_hoorder": "Hearer remains in the 'waiting room' of faith until the final beatitude."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "1",
+      "kwaliteit_toezeggen": "The beatitude functions as the primary promise.",
+      "voorbeelden": [
+        "The risen Lord looks at you this very day... and says, 'Blessed are they...'"
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Dominates the first half; used for personal storytelling."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Used in the conclusion to apply the text.",
+        "performatieve_context": "Used to deliver the beatitude."
+      },
+      "derde_persoon": {
+        "frequentie": "80",
+        "gebruik": "Used for the exegesis of Thomas and the newsmagazines.",
+        "distantie_effect": "Creates a narrative distance that is only closed in the final moments."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Personal history and biblical history."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about faith and newsmagazines."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the chapel and the risen Lord's address."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids moralistic directives.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Thomas's story) -> Declarative (The Beatitude).",
+      "voorbeelden": [
+        "The risen Lord looks at you... and says, 'Blessed...'"
+      ],
+      "kwaliteit": "The transition is late but powerful."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because Christ is risen, you are blessed."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon moves from a long narrative 'talking about' Easter to a final moment of 'proclaiming' the blessing of Christ to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Declarative Climax",
+        "categorie": "DECLARATIVE",
+        "tekstueel_bewijs": "The risen Lord looks at you this very day...",
+        "effect": "Collapses the 2000-year gap."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Anecdotal Surplus",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The long description of NYC traffic and Carnation Instant Breakfast.",
+        "probleem": "Delays the illocutionary force of the Gospel.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It becomes an event only in the final three paragraphs; prior to that, it is a high-quality lecture/memoir.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The preacher acts as a witness but hesitates to use the full authority of the 'Mandataris' until the very end."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, at the end, the preacher lets Christ speak the beatitude.",
+      "prediker_als_mandataris": "Partially; he identifies as a 'merely human witness'.",
+      "tekstueel_bewijs": [
+        "Through the word of this merely human witness, the risen Lord looks at you."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Implicitly, through the mention of the 'gift of faith'.",
+      "perlocutie_theologie": "Yes, faith is described as a gift given, not a work performed.",
+      "tekstueel_bewijs": [
+        "what I have I give you... the gift of faith."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon aims to be a means of grace by delivering the blessing of Christ.",
+      "epifanisch_taalgebruik": "The description of David Crum in the doorway functions as a 'secular epiphany'.",
+      "tekstueel_bewijs": [
+        "dazzlingly silhouetted... my heart lifted."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on past-tense assertives. It needs more present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The church was not built on seeing with the eyes.",
+          "voorgestelde_revisie": "Christ does not ask you to see; He gives you His Word.",
+          "verschil": "Shifts from a historical fact to a present address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried at the very end.",
+      "suggestie": "Interweave the beatitude throughout the Thomas narrative.",
+      "voorbeeldzinnen": [
+        "Even as Thomas doubts, Christ is preparing a blessing for you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' and 'He', not enough 'You'.",
+      "suggestie": "Reduce the NYC anecdote to increase the 'You' address.",
+      "voorbeeldzinnen": [
+        "You, like Thomas, may feel the doors are locked."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually good; the indicative is strong.",
+      "suggestie": "None."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A beautifully written sermon that successfully transitions from 'talking about' to 'proclaiming to' in its final act."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (NYC story); SAT focuses on the 'Declarative' power of the Beatitude.",
+    "verschil_met_retoriek": "Rhetoric would praise the vivid imagery; SAT asks if the 'blessing' actually happened.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power is concentrated in the final paragraph where the illocutionary force shifts to a Declarative."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "rose",
+        "says",
+        "implies",
+        "was",
+        "associated",
+        "blooming",
+        "turned",
+        "missed"
+      ],
+      "directief": [
+        "imagine",
+        "put",
+        "see",
+        "do not be"
+      ],
+      "expressief": [
+        "envied",
+        "thankful",
+        "bummed",
+        "wondering"
+      ],
+      "commissief": [
+        "give",
+        "entrusted"
+      ],
+      "declaratief": [
+        "blessed",
+        "risen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The risen Lord looks at you this very day.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Mediated Presence",
+        "effectiviteit": "High"
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'witness' model of homiletics."
+  }
+}

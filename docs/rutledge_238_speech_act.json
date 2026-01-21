@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "titel_preek": "The Order of the Sentence",
+    "bijbeltekst": "Romans 10:14–20",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A critique of anthropocentric preaching and an exegetical defense of 'akoē' as God's message rather than human hearing.",
+      "exegetische_kwaliteit": "High; focuses on the shift from subjective response to objective divine action via Greek/Hebrew philology.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the nature of true preaching while attempting to commission the seminarians at the end.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The story isn’t about Noah! It’s about God!",
+        "Faith is awakened by the message.",
+        "It is that news... which is now being entrusted to you."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To shift the preachers' focus from human 'spiritual activities' to God's 'performative word'.",
+      "pneumatologisch_bewustzijn": "Implicit; the 'message unleashed' suggests a power beyond the speaker, though the Spirit is not explicitly named.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "reorient",
+        "trust",
+        "proclaim"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "75%",
+      "voorbeelden": [
+        "Sermons today tend to be about our doings.",
+        "Paul is relying on the LXX translation.",
+        "God is the object to be sought."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "means",
+        "found",
+        "noticed"
+      ]
+    },
+    "directieven": {
+      "frequentie": 8,
+      "procent": "5%",
+      "voorbeelden": [
+        "Please bear in mind...",
+        "Let me direct your attention...",
+        "Look again."
+      ],
+      "dominante_werkwoorden": [
+        "bear",
+        "direct",
+        "look",
+        "read"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": 12,
+      "procent": "8%",
+      "voorbeelden": [
+        "I found this story amusing.",
+        "What saddened me was...",
+        "I am a great lover of the King James Version."
+      ],
+      "dominante_werkwoorden": [
+        "found",
+        "saddened",
+        "love",
+        "wonder"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "2%",
+      "voorbeelden": [
+        "It is that news... which is now being entrusted to you."
+      ],
+      "dominante_werkwoorden": [
+        "entrusted"
+      ],
+      "kwaliteit": "Weak; the commission is descriptive of a state rather than a direct 'I entrust to you' act."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "1%",
+      "voorbeelden": [
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "The preacher speaks with the authority of an experienced listener/critic rather than a sacramental agent."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive anecdotes about New York intellectuals",
+        "Detailed philological debate on 'akoē'",
+        "Talking about the problem of talking about ourselves"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without necessarily experiencing the 'event' of the Word."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the specific congregation",
+        "Present-tense divine address"
+      ],
+      "effect_op_hoorder": "The hearer learns *that* God acts, but does not necessarily feel God acting *upon* them now."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 1,
+      "kwaliteit_toezeggen": "The 'entrusting' of the news is the primary promise, but it is framed as a concluding fact.",
+      "voorbeelden": [
+        "It is that news, beloved in Christ, which is now being entrusted to you."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 45,
+        "gebruik": "Personal anecdotes and professional authority ('I have heard...')."
+      },
+      "tweede_persoon": {
+        "frequentie": 12,
+        "gebruik": "Addressing the seminarians as 'you', mostly in the context of their future task.",
+        "performatieve_context": "Used in the final commission."
+      },
+      "derde_persoon": {
+        "frequentie": 80,
+        "gebruik": "Discussing 'the clergy', 'the woman', 'Paul', 'Isaiah', and 'God'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where the congregation observes a critique of others."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Anecdotes and biblical history."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological truths and exegetical facts."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The concluding 'Amen' and the 'now being entrusted'."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "It avoids the Assertive -> Directive (moralism) trap.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Exegesis) -> Commissive (Entrusting the news).",
+      "voorbeelden": [
+        "The message... comes through the word of Christ... It is that news... now being entrusted to you."
+      ],
+      "kwaliteit": "Theologically sound but rhetorically brief; the 'event' is compressed into the final paragraph."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Faith is awakened by the message... [therefore] have they not heard? Indeed they have."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a brilliant 'meta-sermon'. It talks about why preaching should be performative, using constative language to do so.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Correction",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The story isn’t about Noah! It’s about God!",
+        "effect": "Forcefully re-centers the object of faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "LOCUTION",
+        "tekstueel_bewijs": "The conversation turned to the subject of books about extreme adventures...",
+        "problem": "Too much time spent on 'talking about' anecdotes before reaching the Word.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It feels like an 'event' only in the final moments when the preacher stops critiquing and starts commissioning.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "It explains the sacrament of the Word but hesitates to fully 'perform' it until the very end."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Strongly defended in theory; God is the 'acting subject'.",
+      "prediker_als_mandataris": "Explicitly claimed in the final paragraph.",
+      "tekstueel_bewijs": [
+        "The message that awakens it comes through the word of Christ."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Low; the Spirit is the missing link in the 'message unleashed' section.",
+      "perlocutie_theologie": "Yes; 'That is not the preacher’s concern' leaves the effect to God.",
+      "tekstueel_bewijs": [
+        "Did those who were standing around receive that witness? That is not the preacher’s concern."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "High; the sermon defines the 'akoē' as a means of grace.",
+      "epifanisch_taalgebruik": "Moderate; mostly analytical until the end.",
+      "tekstueel_bewijs": [
+        "God’s revelatory and performative word."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on 'is' and 'was' (descriptive). It needs more 'I' (as God's ambassador) and 'You' (as the recipient of the promise).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The message that awakens faith comes through the word of Christ.",
+          "voorgestelde_revisie": "Through this word I speak now, Christ Himself awakens your faith.",
+          "verschil": "Moves from a general truth to a present-tense event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is about the students' future job, not their current standing before God.",
+      "suggestie": "Incorporate a declaration of God's presence for the hearers now.",
+      "voorbeeldzinnen": [
+        "God has found you today, even if you did not seek Him."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much time spent on 'the New York elite' and 'the woman'.",
+      "suggestie": "Reduce the length of the 'they' stories to increase the 'you' address.",
+      "voorbeeldzinnen": [
+        "You, like Noah, are not the hero of your story; God is."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually good; the indicatives are strong.",
+      "suggestie": "Maintain the indicative priority."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A masterful theological lecture that successfully 'points' to the performative, though it remains slightly trapped in the constative surplus of its own brilliance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "Unlike SvT, which would focus on the preacher's 'self-revelation' (anecdotes), SAT reveals the 'akoē' as a divine act independent of the preacher's psyche.",
+    "verschil_met_retoriek": "It moves beyond persuasion to 'entrustment' (Commissive).",
+    "unieke_inzichten_SAT": "SAT exposes that even a sermon *about* God can be non-performative if God remains the object (3rd person) rather than the acting subject (1st/2nd person)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "says",
+        "means",
+        "suggested",
+        "believed",
+        "noticed",
+        "represents"
+      ],
+      "directief": [
+        "bear",
+        "read",
+        "look",
+        "direct"
+      ],
+      "expressief": [
+        "amused",
+        "saddened",
+        "wonder",
+        "love"
+      ],
+      "commissief": [
+        "entrusted"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "It’s not about Noah! It’s about God!",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "Excellent for re-orientation."
+      },
+      {
+        "zin": "It is that news... which is now being entrusted to you.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "Moderate",
+        "effectiviteit": "Crucial for the sacramental turn."
+      }
+    ],
+    "notities": "The sermon is a 'preaching about preaching' which makes the constative surplus almost inevitable, yet it breaks through in the finale."
+  }
+}

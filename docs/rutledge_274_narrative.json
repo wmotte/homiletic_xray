@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "The Bottomless Glass",
+    "bijbeltekst": "John 2:1-11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from human depletion and regret (the wine running out) to divine abundance and restoration through the manifestation of Christ's glory.",
+      "subject": {
+        "identificatie": "Jesus Christ",
+        "tekstueel_bewijs": [
+          "Jesus of Nazareth steps on the scene.",
+          "He has come to pour out his life for us.",
+          "Jesus... poured out more good wine than anyone had ever seen."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The 'Good Wine' / Abundant Life / Salvation",
+        "tekstueel_bewijs": [
+          "The wine so freely given represents Jesus’ gift of himself.",
+          "The future blessings of the heavenly kingdom had become present."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / God's Will",
+        "tekstueel_bewijs": [
+          "Jesus lives... according to God’s will. He must listen to another voice."
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / Humanity / The Wedding Guests",
+        "tekstueel_bewijs": [
+          "He sees us, he loves us, and he has come to pour out his life for us."
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Mary (as model of faith) and the Holy Spirit",
+        "tekstueel_bewijs": [
+          "She makes a space for him to act.",
+          "being built by the Holy Spirit into a fellowship of love."
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Indwelling power"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Regret, Death, and Ineffective Religious Ritual",
+        "tekstueel_bewijs": [
+          "The wine has run out, and we are still in our sins.",
+          "It [religious ritual] is tasteless and colorless and joyless and it doesn’t take away sin."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just a lack of beverage, but the 'creeping chill' of death and the ontological failure of human effort to cure regret."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The response of the believer to the gift of grace: a life of service.",
+      "subject": "The Saved Believer",
+      "object": "Service to others and God's suffering world",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical life is explicitly framed as a result of being 'built by the Holy Spirit' after the primary act of Jesus."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Will → Abundant Life → The Hearer",
+      "helper_subject_tegenstander": "Mary/Spirit → Jesus ← Sin/Death/Regret",
+      "subject_naar_object": "Jesus → Gift of Himself (Wine)"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "Jesus of Nazareth steps on the scene.",
+        "He sees our predicament.",
+        "He has come to pour out his life for us."
+      ],
+      "voorbeelden_mens_subject": [
+        "We take refuge in all sorts of escapes.",
+        "We buy something and charge it.",
+        "We all agreed that it [regret] was part of life."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "Whatever he tells you, do it."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Index of human longing.",
+          "The ceaseless craving of the human heart."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Those who had eyes to see... recognized."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "The Son of God is powerful to save.",
+          "The only One who is able to wipe away regret forever."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Inability' of man (lack of wine/power) and the 'Ability' (Pouvoir) of Christ. It is a theology of Divine Capacity."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Abundant Life (Wine)",
+      "s2": "Death/Regret (The Empty Glass)",
+      "niet_s1": "Religious Ritual (Water/Purification)",
+      "niet_s2": "Secular Escapism (The Personal Ad/Mount Everest)"
+    },
+    "beweging_in_preek": "Starts at S2 (Regret), moves to ~S2 (Escapism), identifies the failure of ~S1 (Ritual), and resolves in S1 (Christ's Wine).",
+    "theologische_resolutie": "Christ transforms the failed ~S1 (water of ritual) into the S1 (wine of grace).",
+    "ernst_van_s2": "High; death and regret are presented as 'undoing' many."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places Jesus as the active Subject of salvation and the hearer as the desperate Receiver. Human effort (ritual or escapism) is shown to be incompetent.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in Mary",
+        "tekstueel_bewijs": "She is, as always, the model of the true believer.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "Jesus of Nazareth steps on the scene. He sees our predicament.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "The whole world full of disease and violence and cruelty and death.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Mary is used as a model, but specifically a model of 'relinquishing' and 'making space,' which is a passive-receptive model rather than a performance-based one.",
+      "bijbelse_figuren_als_model": [
+        "Mary"
+      ],
+      "alternatieve_lezing": "Christ honors the faith he himself inspires in Mary."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of self-salvation; comfort in the face of regret.",
+      "theologische_implicatie": "Monergistic grace: salvation is entirely God's work."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'empty glass' of human life to the 'bottomless glass' of Christ is seamless.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "The Son of God is powerful to save... the only One who is able to wipe away regret forever.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit builds the fellowship of love; it is an endowment of Pouvoir-faire."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is linked to the 'creeping chill' of death and the failure of all human systems."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of grace-oriented narrative structure. Jesus is the Subject, the 'Good Wine' is the Object, and the hearer is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for an Epiphany sermon.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "The opponent (Death/Regret) is already sufficiently heavy.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ's gift) clearly precedes and enables Ethics (service)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "The sermon masterfully avoids the trap of turning the Cana story into a lesson on 'doing what Jesus says' (moralism) and instead presents it as a sign of who Jesus is (grace)."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the poignant use of the 'personal ads,' semiotics shows these ads function as the 'Opponent' (the lack/deprivation) that necessitates the Subject's intervention.",
+    "verschil_met_exegese": "Exegesis might focus on the meaning of 'Woman' or the 'six jars'; semiotics identifies the jars as a failed Helper (~S1) in the narrative economy.",
+    "unieke_inzichten_greimas": "Greimas' model reveals that the sermon's power comes from the 'Subject-Switch'—the hearer realizes they cannot fill their own glass, and Jesus takes over the role of Subject."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (steps, sees, hears, loves, comes, poured, gives, prepares)",
+      "We (take refuge, buy, drink, grab, read, climb)",
+      "The water (is used, doesn't work, represents)",
+      "The Spirit (builds)"
+    ],
+    "volledige_object_lijst": [
+      "The wine/gift of himself",
+      "Purification",
+      "Abundant life",
+      "A place at the banquet"
+    ],
+    "werkwoord_frequentie": {
+      "save/redeem": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "regret": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "give/pour": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses Rutledge's own criteria effectively, ensuring God remains the primary actor in the active voice."
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "The Presentation (Candlemas)",
+    "bijbeltekst": "Luke 2:28-32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God reveals His salvation (the Messiah) to those waiting in faith, enabling them to recognize Him in the mundane and the suffering, and ultimately conquering the powers of darkness.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "They are enabled to discern the action of God",
+          "God has called them for this purpose",
+          "He is at work, not only in the infant Jesus, but in the hearts and minds of those who see him"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Salvation / Recognition of the Messiah",
+        "tekstueel_bewijs": [
+          "mine eyes have seen thy salvation",
+          "the meeting with Christ the Lord"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "according to thy word",
+          "which thou hast prepared"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "All peoples (Gentiles and Israel)",
+        "tekstueel_bewijs": [
+          "prepared in the presence of all peoples",
+          "revelation to the Gentiles"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Sacraments",
+        "tekstueel_bewijs": [
+          "revealed to him by the Holy Spirit",
+          "His Body and Blood are given to sustain you"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help that enables internal sight"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and the Powers of Darkness",
+        "tekstueel_bewijs": [
+          "battles against sin and death",
+          "final assault by the powers of darkness"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The sermon identifies the opponent not merely as bad habits but as the 'powers of darkness' and 'death' which require Christ's sacrifice."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer's response to the meeting: watching, waiting, and serving.",
+      "subject": "The Hearer / Simeon and Anna",
+      "object": "Faithful service and witness",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics/service) is explicitly framed as a response to the primary program (God's revelation)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Christ → All Peoples",
+      "helper_subject_tegenstander": "Holy Spirit → God/Christ ← Powers of Darkness",
+      "subject_naar_object": "God → Revelation of Christ"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 35,
+      "ratio": "1.2",
+      "voorbeelden_god_subject": [
+        "God has called them",
+        "He gives himself to the last breath",
+        "the Holy Spirit is directing them"
+      ],
+      "voorbeelden_mens_subject": [
+        "Simeon and Anna are models",
+        "we need to be thinking",
+        "you too are called to meet him"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "what God expects of us"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "looking for the consolation of Israel"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "meaning of life is learned"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "They are enabled to discern",
+          "enabled by God’s Spirit"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on 'Pouvoir' (being enabled) rather than 'Devoir' (obligation). It emphasizes that human capacity to see or serve God is a gifted competence."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Revelation",
+      "s2": "Death/Darkness",
+      "niet_s1": "Human Effort/Blindness",
+      "niet_s2": "Waiting/Patience"
+    },
+    "beweging_in_preek": "Moves from the 'diminishments' of age (~S1) to the 'revelation' of the Messiah (S1), through the 'shadow of the cross' (S2).",
+    "theologische_resolutie": "The tension is resolved by Christ giving himself to the 'last drop of blood' to transform enemies into friends.",
+    "ernst_van_s2": "High; the cross and death are presented as real, non-trivial barriers."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It explicitly corrects potential moralism by distinguishing between 'able' and 'enabled'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (Potential)",
+        "tekstueel_bewijs": "Simeon and Anna are models for us.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switching",
+        "tekstueel_bewijs": "They are enabled... It is God’s doing.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "final assault by the powers of darkness",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Simeon and Anna are models, but their 'heroism' is defined as waiting and being acted upon by the Spirit.",
+      "bijbelse_figuren_als_model": [
+        "Simeon",
+        "Anna"
+      ],
+      "alternatieve_lezing": "The sermon already provides this: God is the one revealing Christ to the old and the weak."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and empowerment through dependence on the Spirit.",
+      "theologische_implicatie": "Monergistic revelation; the Spirit provides the eyes to see."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The transition from the military veterans to the biblical veterans is used to subvert human glory in favor of God's hidden work.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "He has hailed the conqueror... final assault by the powers of darkness.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit grants the 'Pouvoir-faire' (ability to see/recognize)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "High; sin is a 'battle' and 'assault'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by God's initiative. Humans are actants of 'waiting' and 'receiving'.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Grace).",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "The link between the Sacrament (Body and Blood) and the 'Pouvoir' to fight battles is excellent."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as cosmic powers.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God reveals) → Ethics (We sign on in service)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in avoiding moralism. By explicitly distinguishing between 'able' and 'enabled,' the preacher ensures that God remains the Subject of the narrative."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 10th Mountain Division illustration, Greimasian analysis reveals how that illustration is used to shift the actantial Subject from human 'heroics' to God's 'enabling'.",
+    "verschil_met_exegese": "Exegesis explains the Nunc Dimittis; semiotics shows how the Nunc Dimittis functions as a transfer of the Object (Salvation) from Sender (God) to Receiver (Simeon/Hearer).",
+    "unieke_inzichten_greimas": "Reveals that the 'service' mentioned at the end is not a new burden (Devoir) but a participation in the Subject's (Christ's) already-won victory."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (calls)",
+      "Spirit (directs)",
+      "Christ (gives himself)",
+      "Simeon (takes/blesses)",
+      "Mary (fulfills obligation)"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "Consolation of Israel",
+      "Redemption of Jerusalem",
+      "The meeting with Christ"
+    ],
+    "werkwoord_frequentie": {
+      "enabled": {
+        "count": 3,
+        "primair_subject": "God"
+      },
+      "revealed": {
+        "count": 2,
+        "primair_subject": "God/Spirit"
+      },
+      "waiting": {
+        "count": 4,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon successfully navigates the 'Exemplarism' trap by grounding the characters' actions in the Spirit's prior enabling."
+  }
+}

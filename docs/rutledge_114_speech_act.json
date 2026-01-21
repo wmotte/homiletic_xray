@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "titel_preek": "The Faces of Love",
+    "bijbeltekst": "1 Corinthians 13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A detailed exposition of 1 Corinthians 13, contrasting eros and agape through the lens of a Jeanne Moreau interview and literary references (Dante, Shakespeare).",
+      "exegetische_kwaliteit": "High. Distinguishes between romantic sentimentality and the specifically Christian 'agape' as a description of God's action.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the nature of love and describing its manifestation in Christ, with occasional directives to 'think' or 'recognize'.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I am nothing.",
+        "Love is not a feeling; it is being for others.",
+        "God in Jesus Christ leads us to love."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel the weight of their own inability to love and throw themselves on God's mercy.",
+      "pneumatologisch_bewustzijn": "Moderate. Mentions the Spirit's power to make love happen in the congregation.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "depend",
+        "recognize",
+        "receive"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Love is patient and kind.",
+        "Passion is destructive.",
+        "This was written for the members of the Christian community."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "says",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Think along with me for a minute.",
+        "Think of what it means to be loved.",
+        "Let us honor her for her truthfulness."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "let",
+        "honor"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "I recognize myself when I hear that word 'sinner'.",
+        "I was shocked.",
+        "I know that I have not been a conspicuously lovable person."
+      ],
+      "dominante_werkwoorden": [
+        "know",
+        "recognize",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "God has deemed us infinitely worthy of his love."
+      ],
+      "dominante_werkwoorden": [
+        "deemed",
+        "shows"
+      ],
+      "kwaliteit": "Weak. The promises are mostly stated as past-tense facts rather than present-tense commitments to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "AMEN."
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "Low. The preacher describes the declaration of the cross but rarely speaks 'in persona Christi' to change the hearer's status."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 3rd person descriptions of love",
+        "Long anecdotes about celebrities and literature",
+        "Theological definitions of agape as a concept"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a beautiful definition rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct promise of grace to the 'you'",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "Information about God's love is received, but the 'event' of being loved by God in the moment is muted."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "N/A",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Preacher's personal reflections and observations."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Inviting the audience to 'think' or 'imagine'.",
+        "performatieve_context": "Mostly used for mental exercises, not for receiving grace."
+      },
+      "derde_persoon": {
+        "frequentie": "150+",
+        "gebruik": "Describing 'Love', 'Paul', 'Moreau', and 'Jesus'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where the text is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and the Moreau interview."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Definitions of what love 'is'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Rare moments of 'Think along with me'."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (What love is) -> Directive (Think about it/Beg for it).",
+      "voorbeelden": [
+        "Paul is drawing a distinction... we should be on our knees begging the Lord."
+      ],
+      "probleem": "The imperative to 'beg' or 'think' is not preceded by a declarative promise that creates the capacity to do so."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Weak"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Rather than gazing benevolently... we should be on our knees."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a brilliant essay on the nature of Agape, but it functions as a constative description of God's love rather than a performative delivery of it.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "It is not especially appropriate for weddings unless it is carefully interpreted...",
+        "effect": "Corrects popular misconceptions."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Love is therefore the first thing and the last thing...",
+        "probleem": "Abstracted truth without direct application to the hearer's soul.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a 'talk about' love, not an 'act of' love.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not use his mandate to declare the hearer loved; he describes the fact that God loves."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, but the preacher speaks mostly as a commentator.",
+      "prediker_als_mandataris": "Low. The preacher acts as an essayist/teacher.",
+      "tekstueel_bewijs": [
+        "Think along with me for a minute."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, briefly.",
+      "perlocutie_theologie": "The preacher hopes the Spirit makes love happen, but doesn't use illocutionary tools to facilitate it.",
+      "tekstueel_bewijs": [
+        "Paul has confidence in the power of the Holy Spirit to make love happen."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Theologically affirmed in content, but not realized in form.",
+      "epifanisch_taalgebruik": "No. It is descriptive.",
+      "tekstueel_bewijs": [
+        "God's love for us has a face, and it is the face of our Lord Jesus Christ."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is' (assertive) to 'gives/promises' (commissive).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God shows his love for us in that while we were yet sinners Christ died for us.",
+          "voorgestelde_revisie": "Even now, while you struggle with your own sin, Christ dies for you and claims you as His own.",
+          "verschil": "Moves from a historical/theological fact to a present-tense event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in 3rd person descriptions.",
+      "suggestie": "End with a direct declaration of God's love for the specific congregation.",
+      "voorbeeldzinnen": [
+        "Because Christ has set His face toward Jerusalem, I declare to you: you are forgiven and you are loved."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he/she/it' and 'we' (general), not enough 'you' (specific).",
+      "suggestie": "Use 'you' to bring the hearer into the narrative of the cross.",
+      "voorbeeldzinnen": [
+        "Jesus enters your hell for your sake."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to 'be on our knees' feels like a heavy demand because the indicative isn't delivered as a gift.",
+      "suggestie": "Deliver the love of Christ as a finished work before calling for a response."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually and rhetorically sophisticated, but it remains a 'talking about' the event of love. To become a sacramental event, it must move from the lecture hall to the throne of grace, addressing the hearer directly with the promises of God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about his parents; SAT focuses on the lack of a 'Declarative' act from God.",
+    "verschil_met_retoriek": "Rhetorically, the Moreau story is a brilliant 'hook', but SAT reveals it occupies too much locutionary space without illocutionary payoff.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Amen', the sermon never actually performs the love it so accurately describes."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "means",
+        "says",
+        "describes",
+        "bears",
+        "believes",
+        "hopes",
+        "endures"
+      ],
+      "directief": [
+        "think",
+        "let",
+        "honor",
+        "beg"
+      ],
+      "expressief": [
+        "recognize",
+        "shocked",
+        "know",
+        "feel"
+      ],
+      "commissief": [
+        "deemed",
+        "shows"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Love is patient and kind.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Descriptive",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "Jesus Christ entered it... for our sake.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Testifying",
+        "effectiviteit": "Stronger, but still 3rd person."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Episcopal' homiletics of the era: literary, thoughtful, but performatively shy."
+  }
+}

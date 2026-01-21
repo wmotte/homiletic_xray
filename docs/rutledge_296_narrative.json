@@ -1,0 +1,260 @@
+[
+  {
+    "metadata": {
+      "titel_preek": "Believing Without Seeing",
+      "bijbeltekst": "John 20:29 (referenced as 21:29 in text)",
+      "analyse_datum": "2024-05-22",
+      "geschat_aantal_woorden": "1550"
+    },
+    "actantiele_analyse": {
+      "primair_narratief_programma": {
+        "beschrijving": "The Risen Christ overcomes human obstinacy and the limitations of physical sight to bestow the gift of faith upon Thomas and future generations.",
+        "subject": {
+          "identificatie": "Jesus Christ (The Risen Lord)",
+          "tekstueel_bewijs": [
+            "Jesus doesn’t let Thomas forget it",
+            "Jesus actually grants to Thomas the signs",
+            "Jesus meets him all the way and from beyond all the way",
+            "the Lord looks up and out... speaking to you and to me"
+          ],
+          "frequentie_score": "9"
+        },
+        "object": {
+          "identificatie": "Faith/Personal Trust (The Beatitude)",
+          "tekstueel_bewijs": [
+            "Blessed are they who have not seen and yet have believed",
+            "the gift of faith"
+          ],
+          "aard_van_object": "SOTERIOLOGICAL"
+        },
+        "zender": {
+          "identificatie": "God/The Risen Christ",
+          "tekstueel_bewijs": [
+            "the One who gives faith, who confirms faith, who brings faith to completion"
+          ],
+          "rol_interpretatie": "LOVING_FATHER"
+        },
+        "ontvanger": {
+          "identificatie": "Thomas and the Future Believers (The Hearers)",
+          "tekstueel_bewijs": [
+            "speaking to you and to me",
+            "entrusted with carrying that proclamation to the world"
+          ],
+          "positie_hoorder": "Receiver"
+        },
+        "helper": {
+          "identificatie": "Apostolic Testimony/The Church/The Preacher",
+          "tekstueel_bewijs": [
+            "one person telling another",
+            "the word of this merely human witness"
+          ],
+          "rol_van_god": "Subject",
+          "rol_van_geest": "External help (implied through the 'bond of trust')"
+        },
+        "tegenstander": {
+          "identificatie": "Human Obstinacy/Sensory Limitation/Death",
+          "tekstueel_bewijs": [
+            "congenital pessimist",
+            "stubborn disbeliever",
+            "ironbound shops and lifeless sidewalks"
+          ],
+          "ernst_tegenstander": "COSMIC",
+          "toelichting_ernst": "The opponent is not just a bad mood but the 'ironbound' reality of death and the ontological inability of the human to believe without divine intervention."
+        }
+      },
+      "secundair_narratief_programma": {
+        "aanwezig": "true",
+        "beschrijving": "The preacher's personal journey from Easter depression to joy through the encounter with a fellow believer.",
+        "subject": "The Preacher (Fleming Rutledge)",
+        "object": "The realization of Easter joy",
+        "verhouding_tot_primair": "SEQUENTIAL",
+        "toelichting_verhouding": "The personal anecdote serves as a 'micro-narrative' that mirrors the Thomas story, moving from 'not seeing' (empty streets) to 'seeing' (the usher) to 'believing' (proclamation)."
+      },
+      "actantieel_schema_visualisatie": {
+        "zender_naar_ontvanger": "God → Faith → The Hearer",
+        "helper_subject_tegenstander": "Apostolic Witness → Jesus ← Death/Unbelief",
+        "subject_naar_object": "Jesus → Bestowal of Blessing"
+      }
+    },
+    "grammaticale_analyse": {
+      "subject_check": {
+        "god_als_subject_count": "42",
+        "mens_als_subject_count": "28",
+        "ratio": "1.5",
+        "voorbeelden_god_subject": [
+          "Jesus doesn’t let Thomas forget it",
+          "Jesus meets him all the way",
+          "the Lord looks up and out... and utters"
+        ],
+        "voorbeelden_mens_subject": [
+          "Thomas stayed away",
+          "We want to create our own conditions",
+          "I turned left off 14th Street"
+        ],
+        "rutledge_score": "9"
+      },
+      "modale_analyse": {
+        "devoir_faire": {
+          "prominentie": "2",
+          "voorbeelden": [
+            "Thomas must have been very ashamed"
+          ]
+        },
+        "vouloir_faire": {
+          "prominentie": "4",
+          "voorbeelden": [
+            "We want to create our own conditions for faith"
+          ]
+        },
+        "savoir_faire": {
+          "prominentie": "3",
+          "voorbeelden": [
+            "knowing that person’s heart better than he knew it himself"
+          ]
+        },
+        "pouvoir_faire": {
+          "prominentie": "8",
+          "voorbeelden": [
+            "the only One who has ever come back victorious from the grave",
+            "the One who gives faith"
+          ]
+        },
+        "dominante_modaliteit": "POUVOIR",
+        "modale_interpretatie": "The sermon emphasizes Christ's power (Pouvoir) to overcome the human inability to believe. Faith is not a 'must' (Devoir) but a gift given to those who lack the power to see."
+      }
+    },
+    "semiotisch_vierkant_analyse": {
+      "primaire_tegenstelling": {
+        "s1": "Faith (Believing without seeing)",
+        "s2": "Death/Despair (The ironbound shops)",
+        "niet_s1": "Obstinacy (Thomas's conditions)",
+        "niet_s2": "The Appearance (Jesus coming through the door)"
+      },
+      "beweging_in_preek": "Moves from S2 (Empty NYC) to ~S1 (Thomas's doubt) to ~S2 (The appearance) to S1 (The Beatitude for the hearer).",
+      "theologische_resolutie": "Resolution is found in Christ's proactive movement toward the doubter, which transforms ~S1 into S1.",
+      "ernst_van_s2": "High; death is depicted as 'mausoleums' and 'prisons'."
+    },
+    "diagnostische_evaluatie": {
+      "primaire_classificatie": "GRACE",
+      "classificatie_toelichting": "The sermon is profoundly theocentric. Jesus is the primary actor who initiates the encounter, speaks the words of grace, and creates the faith he requires.",
+      "indicatoren_moralisme": [
+        {
+          "indicator": "None detected",
+          "tekstueel_bewijs": "N/A",
+          "ernst": "LOW"
+        }
+      ],
+      "indicatoren_genade": [
+        {
+          "indicator": "Grace precedes knowledge of sin",
+          "tekstueel_bewijs": "Jesus’ willingness to meet Thomas’s conditions exposes the disciple’s effrontery far more effectively than any rebuke",
+          "sterkte": "VERY_STRONG"
+        },
+        {
+          "indicator": "God as the giver of faith",
+          "tekstueel_bewijs": "the One who gives faith, who confirms faith, who brings faith to completion",
+          "sterkte": "VERY_STRONG"
+        }
+      ],
+      "exemplarisme_check": {
+        "aanwezig": "false",
+        "beschrijving": "Thomas is not an example to follow, but a mirror of human helplessness whom Christ rescues.",
+        "bijbelse_figuren_als_model": [
+          "Thomas (as a mirror of the hearer's doubt)"
+        ],
+        "alternatieve_lezing": "The sermon already provides a theocentric reading: Thomas is the receiver of a grace he did not seek."
+      },
+      "identificatie_patroon": {
+        "hoorder_identificeert_met": "RECEIVER_SAVED",
+        "effect_op_hoorder": "Relief and assurance; the burden of 'producing' faith is removed.",
+        "theologische_implicatie": "Monergistic bestowal of faith."
+      },
+      "narratieve_coherentie": {
+        "coherentie_score": "10",
+        "coherentie_beschrijving": "The personal anecdote, the biblical narrative, and the contemporary application are perfectly fused through the actant of the 'Risen Lord'.",
+        "spanning_punten": []
+      }
+    },
+    "theologische_diepte_analyse": {
+      "soteriologie": {
+        "primaire_model": "PARTICIPATION",
+        "tekstueel_bewijs": "the bond of trust between those who live in the presence of Christ today",
+        "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+      },
+      "pneumatologie": {
+        "rol_heilige_geest": "INDWELLING_POWER",
+        "competentie_schenking": "Endowment of faith as a gift."
+      },
+      "hamartologie": {
+        "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+        "ernst_diagnose": "Sin is seen as a 'locked door' or 'obstinacy' that only Christ can penetrate."
+      },
+      "eschatologie": {
+        "hoop_structuur": "ALREADY_AND_NOT_YET",
+        "actant_van_voltooiing": "God"
+      }
+    },
+    "aanbevelingen": {
+      "actantiele_audit_samenvatting": "The sermon maintains a strict 'God-as-Subject' grammar, ensuring that the 'engine' of the message is the agency of the Risen Christ.",
+      "subject_herpositionering": {
+        "nodig": "false",
+        "huidige_probleem": "None",
+        "voorgestelde_herpositionering": "N/A",
+        "voorbeeld_revisie": "N/A"
+      },
+      "identificatie_herstel": {
+        "nodig": "false",
+        "problematische_identificatie": "None",
+        "voorgestelde_identificatie": "N/A",
+        "strategie": "N/A"
+      },
+      "modale_balans": {
+        "huidige_onbalans": "None; POUVOIR is appropriately dominant for an Easter sermon.",
+        "voorgestelde_balans": "Maintain focus on Pouvoir.",
+        "concrete_suggestie": "N/A"
+      },
+      "tegenstander_intensivering": {
+        "nodig": "false",
+        "huidige_status": "The opponent (death/unbelief) is sufficiently 'heavy'.",
+        "voorgestelde_intensivering": "N/A",
+        "theologische_rationale": "N/A"
+      },
+      "narratieve_hierarchie_herstel": {
+        "nodig": "false",
+        "probleem": "None",
+        "voorgestelde_structuur": "Soteriology (Christ's appearance) correctly precedes and enables the secondary program (the Church's witness)."
+      },
+      "overall_beoordeling": "EXCELLENT",
+      "slotopmerking": "This sermon is a masterclass in grace-oriented homiletics, successfully shifting the hearer from a 'Subject' of their own faith to a 'Receiver' of Christ's blessing."
+    },
+    "comparatieve_analyse": {
+      "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Broadway' imagery, semiotics reveals that the usher is a 'Helper' actant for the 'Subject' Christ.",
+      "verschil_met_exegese": "Goes beyond explaining John 20 to mapping the functional roles of the hearer in the ongoing narrative of the Resurrection.",
+      "unieke_inzichten_greimas": "Reveals that the 'locked doors' are not just a setting but an 'Opponent' that Christ (Subject) overcomes to reach the Object (Thomas's heart)."
+    },
+    "appendices": {
+      "volledige_subject_lijst": [
+        "Jesus (appears, turns, singles out, speaks, grants, meets, looks, utters)",
+        "Thomas (stayed away, missed, said, acknowledged)",
+        "The Preacher (drove, turned, shouted)"
+      ],
+      "volledige_object_lijst": [
+        "Faith",
+        "The signs",
+        "The Beatitude",
+        "The bond of trust"
+      ],
+      "werkwoord_frequentie": {
+        "gives": {
+          "count": "3",
+          "primair_subject": "God"
+        },
+        "believe": {
+          "count": "12",
+          "primair_subject": "Man (as enabled by God)"
+        }
+      },
+      "notities": "The sermon effectively uses the 'Subject-switch' from the preacher's initial efforts to Christ's definitive action."
+    }
+  }
+]

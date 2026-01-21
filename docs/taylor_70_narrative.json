@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "A Christian Plan For Living",
+    "bijbeltekst": "Philippians 3:13-14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The believer must develop a 'plan' and exert personal effort to reach the goal of Christian maturity and social justice, modeled after Paul's perseverance.",
+      "subject": {
+        "identificatie": "The Hearer / The 'I' (Human Agency)",
+        "tekstueel_bewijs": [
+          "this one thing I do",
+          "I press toward the mark",
+          "We Christians need a plan",
+          "I am willing to climb whatever hill"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Prize / The Goal (Maturity, Social Change, Democracy)",
+        "tekstueel_bewijs": [
+          "the prize of the high calling",
+          "the level of freedom and democracy",
+          "to be what the Lord wants us to be"
+        ],
+        "aard_van_object": "ETHICAL/THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Moral Law / The Example of Paul",
+        "tekstueel_bewijs": [
+          "Paul says that... it ought to humble all of us",
+          "We ought to confess that we have not yet reached what we should"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Self / The Community",
+        "tekstueel_bewijs": [
+          "we would be a better people",
+          "the Lord could do great things with us"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Prayer / Discipline / God (as support)",
+        "tekstueel_bewijs": [
+          "if my prayer life had been deeper",
+          "God's mercy stoops low... to help us"
+        ],
+        "rol_van_god": "Helper (God is the one who 'helps' the human subject press on)",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Past failures, Slavery (as a mindset), Drugs, Weakness",
+        "tekstueel_bewijs": [
+          "forgetting those things which are behind",
+          "feelings of weakness",
+          "plague of drugs"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL/SOCIAL",
+        "toelichting_ernst": "The opponent is primarily the 'weight' of the past or social ills that the subject must overcome through 'pressing'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "God's eschatological transformation of the believer into the likeness of Christ.",
+      "subject": "God",
+      "object": "The Believer's Glorification",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (God's work) is used as a motivation for the primary program (Human pressing)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Paul's Example → The Prize → The Christian",
+      "helper_subject_tegenstander": "Prayer/Mercy → The Hearer ← Past/Weakness",
+      "subject_naar_object": "The Hearer → Pressing/Planning"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God shall wipe away all tears",
+        "God wrought it",
+        "the Lord could do great things with us"
+      ],
+      "voorbeelden_mens_subject": [
+        "I press toward the mark",
+        "We need to put that behind us",
+        "I have not yet won my right to be called a child of God"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "We ought to confess",
+          "we ought to rid ourselves",
+          "we need a plan"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "I am willing, God",
+          "I want to talk with you"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "you know what to do",
+          "we have not yet been able to find out"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we are unable to influence our communities",
+          "able to turn back the powers of darkness"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir). It assumes the hearer has the inherent capacity but lacks the 'plan' or 'will'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Pressing Forward (Success)",
+      "s2": "Looking Back (Failure/Slavery)",
+      "niet_s1": "Stagnation/Weakness",
+      "niet_s2": "Forgetting the Past"
+    },
+    "beweging_in_preek": "From S2 (the past/slavery) through ~S2 (forgetting) toward S1 (the mark).",
+    "theologische_resolutie": "Resolution is found in human persistence ('Press on!') supported by divine pity.",
+    "ernst_van_s2": "S2 is treated as a psychological/historical weight rather than a radical ontological death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses the language of 'grace' and 'salvation,' the actantial subject is consistently the human 'I' who must plan, press, and win the right to be a child of God.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace / Performance-based identity",
+        "tekstueel_bewijs": "I have not yet won my right to be called a child of God.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "the Lord could do great things with us [if we are willing].",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Eschatological Hope",
+        "tekstueel_bewijs": "when he shall appear we shall be like him",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Paul is presented as the ultimate athlete/hero whose sacrifices shame the hearer into action.",
+      "bijbelse_figuren_als_model": [
+        "Paul"
+      ],
+      "alternatieve_lezing": "Focus on Christ as the one who 'pressed' into death for Paul, which then 'apprehended' Paul."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of performance; guilt for not 'pressing' hard enough.",
+      "theologische_implicatie": "Soteriology is synergistic; God waits for human initiative."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The sermon is rhetorically powerful but theologically confused, mixing 'winning the right' with 'grace'.",
+      "spanning_punten": [
+        "The claim of 'winning the right to be a child of God' vs 'alphabet of grace'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "I press toward the mark for the prize... I have not yet won my right.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit 'teaches' but the soul must 'catch' it."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'failing to reach the goal' or 'weakness' rather than total depravity."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (with God's help)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'call to the will' where the human is the Subject and God is a Helper/Sender. It lacks a Primary Program where God is the Subject of salvation.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the one 'pressing' to win a right.",
+      "voorgestelde_herpositionering": "Christ is the one who 'apprehended' Paul (and the hearer).",
+      "voorbeeld_revisie": "Instead of 'I have not yet won my right,' use 'Christ has won the right for me, and now He carries me toward the mark.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the struggling athlete.",
+      "voorgestelde_identificatie": "Hearer as the one 'apprehended' (passive receiver).",
+      "strategie": "Focus on the verb 'apprehended' in the passive voice in the text."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God's Power)",
+      "concrete_suggestie": "Shift from 'we ought to be strong' to 'Christ is our strength in our weakness'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Past memories and social issues.",
+      "voorgestelde_intensivering": "Sin as a power that makes 'pressing' impossible without a Subject-switch.",
+      "theologische_rationale": "To make Grace necessary rather than just helpful."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (the plan) precedes or defines Soteriology (becoming a child of God).",
+      "voorgestelde_structuur": "1. God apprehends us (Grace). 2. We press because we are held (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has immense social and rhetorical power, but it risks crushing the hearer under the law of 'pressing' without the assurance of being already held by Christ."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of motivation; semiotically, it is a legalistic engine.",
+    "verschil_met_exegese": "Exegesis would note Paul's emphasis on 'being apprehended by Christ'; this sermon reverses that into 'winning the right'.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the word 'grace', the functional Subject is the human ego."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "I count",
+      "I do",
+      "I press",
+      "We need",
+      "We make believe",
+      "God shall wipe"
+    ],
+    "volledige_object_lijst": [
+      "the prize",
+      "a plan",
+      "democracy",
+      "right to be called a child of God"
+    ],
+    "werkwoord_frequentie": {
+      "press": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "ought": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "apprehended": {
+        "count": "6",
+        "primair_subject": "Man/God (Mixed)"
+      }
+    },
+    "notities": "The phrase 'I have not yet won my right to be called a child of God' is the most semiotically significant departure from a grace-oriented structure."
+  }
+}

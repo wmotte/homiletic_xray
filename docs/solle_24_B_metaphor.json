@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "Die Auferstehung der Frauen",
+    "bijbeltekst": "Johannes 20,1-18; Jesaja 40,28-30; 1 Johannes 3,2",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "3200"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Der Weg zu den Gräbern der Ermordeten ist der Königsweg",
+          "Jesus muss kommen und sie wieder auf den Weg nach draußen schicken",
+          "Unsere Füße laufen auf dem Weg zum Leben"
+        ],
+        "conceptuele_metafoor": "FAITH IS A POLITICAL PILGRIMAGE"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "Angstgefängnis",
+          "hinter verschlossenen Türen",
+          "Zubetonieren",
+          "Türme in den Himmel bauen"
+        ],
+        "conceptuele_metafoor": "EXISTENCE IS A SPATIAL ENCLOSURE"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Gott unsere Mutter",
+          "Gott meine Schwester",
+          "Frauenkirche",
+          "Zwillingsschwester der Urkirche"
+        ],
+        "conceptuele_metafoor": "GOD IS KINSHIP"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Angstgefängnis / hinter verschlossenen Türen",
+        "brondomein": {
+          "naam": "Prison/Enclosure",
+          "concrete_elementen": [
+            "locked doors",
+            "walls",
+            "confinement"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sin/Fear/Resignation",
+          "doctrinale_traditie": "Liberation Theology / Feminist Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Locked room",
+            "doel_element": "Psychological state of resignation"
+          },
+          {
+            "bron_element": "Jailer",
+            "doel_element": "Death/Political oppression"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The hearer feels trapped and unable to act."
+          ],
+          "theologische_implicaties": [
+            "Sin is not just individual guilt but a structural 'room' one is stuck in."
+          ],
+          "ethische_implicaties": [
+            "Liberation requires 'going outside' into the public sphere."
+          ],
+          "onbedoelde_consequenties": [
+            "May imply that those inside are purely victims with no agency."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the 'locked room' of the disciples by mapping it onto modern political apathy and nuclear fear."
+      },
+      {
+        "metafoor_expressie": "Tradition ist ein Extratopf voller Hoffnung",
+        "brondomein": {
+          "naam": "Cooking/Nourishment",
+          "concrete_elementen": [
+            "pot",
+            "food",
+            "distribution"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Tradition/Scripture",
+          "doctrinale_traditie": "Ecumenical/Socialist"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Ingredients",
+            "doel_element": "Stories and prayers"
+          },
+          {
+            "bron_element": "Eating",
+            "doel_element": "Finding meaning/sustenance"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Faith is something to be consumed and shared, not just studied."
+          ],
+          "theologische_implicaties": [
+            "Sola Scriptura is replaced by 'Scripture as resource for struggle'."
+          ],
+          "ethische_implicaties": [
+            "The believer must 'feed' others with hope."
+          ],
+          "onbedoelde_consequenties": [
+            "Reduces theology to a utility or 'tool kit'."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "A fresh, domestic image that breaks the 'dusty book' schema of tradition."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon maintains a strong coherence by linking the 'Path' (Journey) metaphor with 'Vision' (Light/Sight). The movement from the 'Grave' (Darkness/Enclosure) to the 'Way' (Light/Action) provides a consistent cognitive arc.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section on 'Gott der Herr'",
+          "metafoor_a": "GOD IS LORD (Hierarchical)",
+          "metafoor_b": "GOD IS SISTER (Egalitarian)",
+          "conflict_beschrijving": "The preacher struggles to reconcile the traditional 'Lord' title with her feminist critique of hierarchy.",
+          "entailment_conflict": "Lordship entails submission; Sisterhood entails equality.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Resurrection",
+            "Self-sufficiency economy"
+          ],
+          "blending_strategie": "Resurrection is defined not as a biological event but as the 'power' to organize life differently (economic embodiment)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Angel' metaphor by mapping it onto a contemporary person (the South African woman).",
+        "voorbeeld": "Diese Frau in Sweatshirt und Turnschuhen genau das war... einen 'Engel' zu nennen."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "Mapping resurrection directly onto 'baking bread' or 'Kachelöfen' risks reducing the eschatological to the lifestyle-political.",
+        "voorbeeld": "Wer heute... die Selbstversorgungswirtschaft [erzählt], der partizipiert an Christi Auferstehung.",
+        "potentiele_impact": "Theology becomes indistinguishable from green politics.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Garden Tomb as a site of political mourning.",
+      "sub_worlds": [
+        "Apartheid South Africa",
+        "Post-Chernobyl Germany",
+        "The 'Babylon' of modern capitalism"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Psalm prayers",
+          "van_wereld": "Ancient Israel",
+          "naar_wereld": "Modern environmental anxiety",
+          "effectiviteit": "Highly effective emotional bridge."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Source of Life",
+          "hoe_versterkt": "Using the 'X-Factor' and 'Source of Water' imagery."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Resurrection as Ghostly Event",
+          "verstoring_strategie": "Insisting on 'Noli me tangere' as a shift toward the Holy Spirit and social change.",
+          "vervangend_schema": "Resurrection as Social Empowerment"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits the 'Easter' schema but disrupts the 'triumphalist' tone with 'lament'."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY and CONTAINER domains. It successfully moves the hearer from a state of 'enclosure' (fear/grave) to 'movement' (path/action). The theological landscape is heavily influenced by political and ecological source domains, creating a 'Resurrection of the Earth' narrative.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Resurrection",
+        "huidige_status": "Often seen as a past historical fact (Dead Metaphor).",
+        "suggestie": "Deepen the 'Power/Energy' source domain.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Auferstehung ist die Elektrizität des Widerstands."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The tension between 'Lord' and 'Sister'.",
+        "resolutie_strategie": "Use the 'Liberator' domain to bridge the gap between authority and solidarity."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "TRADITION IS A POT",
+        "problematisch_entailment": "Suggests tradition is a static collection of items.",
+        "aanbeveling": "Use 'TRADITION IS A LEAVEN' to imply growth and transformation."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN (Leaven/Seed)",
+        "rationale": "To balance the 'Architectural' hardness of the sermon with organic growth.",
+        "doel_concept": "The Kingdom of God"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of cognitive mapping to bridge the gap between biblical text and the existential/political crises of the 1980s."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "CMT focuses on how 'locked doors' functions as a cognitive model for despair, not just a poetic image.",
+    "verschil_met_kolb": "Unlike Kolb's focus on experience-reflection, CMT shows how the metaphor *is* the thought process itself.",
+    "unieke_inzichten_CMT": "Reveals that the preacher's 'political' theology is grounded in the embodied experience of 'Verticality' (God as Counter-Power) and 'Path' (Faith as Movement)."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Königsweg",
+      "Angstgefängnis",
+      "Extratopf der Hoffnung",
+      "Zubetonieren",
+      "Reich des Todes",
+      "Frauenkirche",
+      "X-Faktor",
+      "Sonne der Gerechtigkeit"
+    ],
+    "woord_frequentie_analyse": {
+      "weinen": "18",
+      "Macht": "14",
+      "Tod": "12",
+      "Auferstehung": "10",
+      "Gerechtigkeit": "9"
+    },
+    "notities": "The sermon is a collaboration between Schottroff (exegetical/historical) and Sölle (poetic/theological), creating a rich 'blended space'."
+  }
+}

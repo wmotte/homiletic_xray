@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "The Strange World of Abraham",
+    "bijbeltekst": "Genesis 22:8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God tests Abraham's radical trust by demanding the sacrifice of the promise (Isaac), only to provide the substitute Himself, pointing to the ultimate substitution in Christ.",
+      "subject": {
+        "identificatie": "God (as the primary mover and provider)",
+        "tekstueel_bewijs": [
+          "God himself will provide the lamb",
+          "God acts",
+          "God was at the same time working through Abraham’s faith"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The preservation of the Promise/Salvation of the world",
+        "tekstueel_bewijs": [
+          "the salvation of the whole world",
+          "the fulfillment of God’s promises"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Lord of the Promise)",
+        "tekstueel_bewijs": [
+          "the God who gives life to the dead",
+          "the Lord of the promise"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The whole world / The Hearer",
+        "tekstueel_bewijs": [
+          "by you all the nations of the earth shall be blessed",
+          "brings you, too... to the threshold of faith"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Ram / Jesus Christ",
+        "tekstueel_bewijs": [
+          "The ram was a substitute for Isaac, provided by God",
+          "He became the substitute for us"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Death / The Abyss / Godforsakenness",
+        "tekstueel_bewijs": [
+          "the abyss",
+          "humanly impenetrable darkness",
+          "the godforsaken dark"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not a moral failing but the ontological threat of the 'wipeout of the family future' and the 'loss of faith' itself."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer entering the 'strange country' of the Bible to find their true self.",
+      "subject": "The Hearer",
+      "object": "Faith/Eternal Destiny",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The hearer is invited to enter the narrative world only after the primary soteriological drama of Abraham/Christ is established."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Promise → The World",
+      "helper_subject_tegenstander": "The Ram/Christ → God ← Death/Abyss",
+      "subject_naar_object": "God → Provision of the Lamb"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "God himself will provide the lamb",
+        "God acts",
+        "God was... working through Abraham's faith"
+      ],
+      "voorbeelden_mens_subject": [
+        "Abraham... took the knife",
+        "you and I can undertake such an adventure",
+        "I invite you to undertake this daring activity"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Abraham being told by God to sacrifice Isaac"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I want to live by its promises"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "the alien world of the Bible is the sphere where human beings are truly understood"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "God was able to do what he had promised",
+          "God was able to raise men even from the dead"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes God's 'Able-ness' (Pouvoir) over human 'Must-ness' (Devoir). Faith is defined by God's capacity to create from nothing."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Promise/Life",
+      "s2": "Abyss/Death",
+      "niet_s1": "Godforsakenness",
+      "niet_s2": "Substitution/Resurrection"
+    },
+    "beweging_in_preek": "Moves from the safety of the 'familiar' to the 'Abyss' (S2), then to the 'Substitute' (~S2) which leads back to 'Promise' (S1).",
+    "theologische_resolutie": "The tension is resolved by God's intervention (The Ram/Christ) as the only way across the abyss.",
+    "ernst_van_s2": "Extremely high; the 'abyss' and 'horror' are not minimized."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. While it calls for 'radical trust,' it identifies God as the one who provides the object of that trust and the substitute for the sacrifice.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Invitation to 'undertake' adventure",
+        "tekstueel_bewijs": "I invite you to undertake this daring activity",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Provision",
+        "tekstueel_bewijs": "What Abraham did not have to do, God did.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Christological Substitution",
+        "tekstueel_bewijs": "He became the substitute for us.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Abraham and Paul Lehmann are used as examples, but not as moral templates for the will; rather as 'offspring' of the promise whose faith is a gift of God's 'able-ness'.",
+      "bijbelse_figuren_als_model": [
+        "Abraham"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: Abraham is the 'Receiver' of a promise God fulfills."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe; the burden of 'providing the lamb' is removed.",
+      "theologische_implicatie": "Monergistic grace; God provides what He demands."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the OT narrative to the Christological climax is seamless and structurally necessary.",
+      "spanning_punten": [
+        "The tension between God's command (Devoir) and God's promise (Object)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "The ram was a substitute for Isaac... He became the substitute for us.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses more on the Father's provision and the Son's substitution than the Spirit's indwelling."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Severe; requires a death that only God can provide for."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary salvific verbs. Abraham is a 'Subject' of faith only because God is the 'Subject' of the Promise.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "The sermon is a model of grace-oriented modal distribution."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (Death/Abyss) is already sufficiently terrifying.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God provides) → Ethics (Radical trust)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in theocentric preaching that uses narrative tension to highlight the necessity of Divine intervention."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'strange country' metaphor, Greimas reveals that the metaphor serves to shift the hearer from Subject to Receiver.",
+    "verschil_met_exegese": "Exegesis explains the Canaanite context; Greimas shows how the actantial roles of Isaac and the Ram are swapped by God.",
+    "unieke_inzichten_greimas": "Greimas exposes the 'Subject-Switch' at the climax: what Man (Abraham) is commanded to do, God (Subject) actually performs."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (provides)",
+      "God (acts)",
+      "Abraham (believed)",
+      "Jesus (bore sin)",
+      "The narrator (emphasizes)"
+    ],
+    "volledige_object_lijst": [
+      "The lamb",
+      "The future",
+      "The promise",
+      "The sin of the world"
+    ],
+    "werkwoord_frequentie": {
+      "provide": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "believe": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "sacrifice": {
+        "count": "3",
+        "primair_subject": "Man/God"
+      }
+    },
+    "notities": "The sermon avoids the 'Be like Abraham' trap by focusing on the 'God of Abraham'."
+  }
+}

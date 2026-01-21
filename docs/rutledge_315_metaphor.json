@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "titel_preek": "index_split_010: The Third Word from the Cross",
+    "bijbeltekst": "John 19:25-27",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "Behold thy mother!",
+          "adopted daughter",
+          "family ties are transcended",
+          "newly created by the Spirit of Christ where there is no blood relationship"
+        ],
+        "conceptuele_metafoor": "CHURCH IS A NEW FAMILY"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "rewriting the covenant in his own blood",
+          "sins of commission",
+          "bonds of sin"
+        ],
+        "conceptuele_metafoor": "SALVATION IS A NEW COVENANTAL CONTRACT"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "4",
+        "kernfrasen": [
+          "institutional church",
+          "branches of his church",
+          "Kingdom of heaven"
+        ],
+        "conceptuele_metafoor": "CHURCH IS A STRUCTURE/ORGANISM"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The church has stained her own robes so badly",
+        "brondomein": {
+          "naam": "Clothing/Garment",
+          "concrete_elementen": [
+            "robes",
+            "stains",
+            "washing/cleaning"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Ecclesiological Sin/Reputation",
+          "doctrinale_traditie": "Ecumenical/Reformed"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Stain on a robe",
+            "doel_element": "Moral failure of the institution"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The sin is visible to outsiders",
+            "The sin is an external defilement of a holy calling"
+          ],
+          "theologische_implicaties": [
+            "The church is inherently holy (robes) but historically sinful (stains)"
+          ],
+          "ethische_implicaties": [
+            "Need for public repentance and 'cleaning'"
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests sin is superficial/removable rather than systemic"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Uses the common biblical imagery of white robes for purity, but applies it to the 'institutional' church's reputation."
+      },
+      {
+        "metafoor_expressie": "Rewriting the covenant in his own blood",
+        "brondomein": {
+          "naam": "Legal/Contractual",
+          "concrete_elementen": [
+            "writing",
+            "ink/blood",
+            "document/covenant"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement/New Covenant",
+          "doctrinale_traditie": "Orthodox/Reformed"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Ink",
+            "doel_element": "Blood of Jesus"
+          },
+          {
+            "bron_element": "Contract terms",
+            "doel_element": "New relational requirements"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The old rules are superseded by a new binding agreement"
+          ],
+          "theologische_implicaties": [
+            "The Cross is a foundational legal/spiritual shift"
+          ],
+          "ethische_implicaties": [
+            "Obligation to the new terms of the family"
+          ],
+          "onbedoelde_consequenties": [
+            "Can feel transactional if not balanced by the family metaphor"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher combines the 'blood' of the cross with the 'writing' of a contract to explain the shift from biological to spiritual family."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully uses the RELATIONAL domain to bridge the gap between the historical event (Jesus' mother at the cross) and the modern ecclesiological reality. The transition from 'biological family' to 'spiritual family' is the central cognitive thread.",
+      "incoherentie_punten": [],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Blood (biological)",
+            "Blood (sacrificial/covenantal)"
+          ],
+          "blending_strategie": "The preacher uses the word 'blood' to mean both biological kinship and the sacrificial ink of the new covenant, effectively arguing that Christ's blood 'out-bleeds' human ancestry."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'Woman' address not as a coldness, but as a symbolic expansion of family.",
+        "voorbeeld": "He is setting aside the blood relationship in order to create a much wider family."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The story of the Catholic rectory might be seen as equating the 'Kingdom of Heaven' with a 'sumptuous meal with wine,' potentially trivializing the eschatological reality.",
+        "voorbeeld": "Every day I ate a sumptuous meal... It felt like the Kingdom of heaven to me.",
+        "potentiele_impact": "Congregation may associate spiritual health primarily with material comfort or social ease.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The foot of the Cross at Golgotha.",
+      "sub_worlds": [
+        "A home in Pittsburgh with a Ukrainian refugee",
+        "A Catholic rectory in Greenwich Village",
+        "A house in Ephesus"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 1-3",
+          "van_wereld": "Modern America",
+          "naar_wereld": "Biblical Narrative",
+          "effectiviteit": "Very effective; uses the 'adoption' of Luba to prime the hearer for the 'adoption' of the Beloved Disciple."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Church as Community",
+          "hoe_versterkt": "By emphasizing that the church brings together people with 'absolutely nothing in common.'"
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as a sentimental family-man",
+          "verstoring_strategie": "Challenging the 'Mother's Day' interpretation of the text.",
+          "vervangend_schema": "God as the founder of a radical, non-biological kinship."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits perfectly within a Good Friday 'Seven Last Words' service."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the Relational/Familial domain, which is appropriate for the text. It moves from concrete human stories (Luba, the rectory) to the abstract theological concept of the 'New Covenant.' The preacher avoids the 'Economic' domain (debt/ransom) almost entirely, focusing instead on 'Kinship' and 'Covenant.'",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "The Church as a Body",
+        "huidige_status": "Mentioned briefly as 'body of Christ' but not developed.",
+        "suggestie": "Connect the 'blood' of the covenant to the 'blood' that flows through the body to unify the metaphors.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The same blood that Jesus shed on the cross now circulates through the veins of this new family."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The 'stained robes' vs 'sumptuous meals'",
+        "resolutie_strategie": "Acknowledge that the 'family table' is where the 'stained robes' are brought for reconciliation."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "CHURCH IS A FAMILY",
+        "problematisch_entailment": "Families can be exclusive or insular.",
+        "aanbeveling": "Explicitly state that this family is 'ever-expanding' to prevent the 'clique' mentality."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To explain the 'branches' mentioned in the conclusion.",
+        "doel_concept": "Ecclesial diversity"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using narrative to re-frame a conventional (and perhaps 'dead') interpretation of a famous biblical saying into a living, radical ecclesiology."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'sumptuous' descriptions, CMT reveals these as source domains for the Kingdom.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycle, CMT focuses on the cognitive mapping of 'Mother' to 'Church' rather than just the feeling of the story.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is performing a 'Schema Disruption' by attacking the 'Mother's Day' interpretation to install a 'New Covenant Family' schema."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "adopted daughter",
+      "Kingdom of heaven",
+      "bonds of sin",
+      "stained her own robes",
+      "body of Christ",
+      "rewriting the covenant in his own blood",
+      "ties of the Spirit",
+      "branches of his church"
+    ],
+    "woord_frequentie_analyse": {
+      "mother": "14",
+      "family": "6",
+      "church": "9",
+      "blood": "4",
+      "community": "5"
+    },
+    "notities": "The preacher uses 'Woman' as a linguistic pivot point to move from biological to symbolic domains."
+  }
+}

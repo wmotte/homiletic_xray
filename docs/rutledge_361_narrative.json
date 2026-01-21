@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Second Sermon (The Penitent Thief)",
+    "bijbeltekst": "Luke 23:39–43",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus, reigning from the cross, rescues a condemned criminal from the power of death and shame, promising him eternal presence in His kingdom.",
+      "subject": {
+        "identificatie": "Jesus (as King/Savior)",
+        "tekstueel_bewijs": [
+          "he is reigning from the cross as a King",
+          "his love is able to deliver even at the door of death",
+          "Our Savior is One who is able to promise his eternal company"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Thief (Salvation/Deliverance/Presence)",
+        "tekstueel_bewijs": [
+          "Today shalt thou be with me in paradise",
+          "the power of Jesus to save, to rescue, to deliver"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God / The Hidden Power of God",
+        "tekstueel_bewijs": [
+          "insight into the hidden power of God",
+          "the way God uses us in spite of ourselves"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Thief / The Hearer ('a wretch like me')",
+        "tekstueel_bewijs": [
+          "Amazing grace that saved a wretch like me!",
+          "with him he will bring all who put their trust in him"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Word of Jesus / The Holy Spirit (implied as 'insight')",
+        "tekstueel_bewijs": [
+          "The only power left to him is the power of his Word",
+          "he seems to have received insight"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "The Roman Empire / Death / Human Sadism / Sin",
+        "tekstueel_bewijs": [
+          "the power of the empire not just to kill, but to dehumanize",
+          "at the door of death",
+          "vent your most sadistic and inhuman impulses"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just a bad habit but a system of dehumanization and the finality of death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer adopts the prayer of the thief to receive the promise of Christ.",
+      "subject": "The Hearer",
+      "object": "The Word of Jesus ('Remember me')",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The hearer's action is a response to the primary action of Christ's reigning from the cross."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Presence → The Wretch",
+      "helper_subject_tegenstander": "The Word → Jesus ← Death/Empire",
+      "subject_naar_object": "Jesus → The Thief"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "Jesus is reigning from the cross",
+        "his love is able to deliver",
+        "God uses us in spite of ourselves"
+      ],
+      "voorbeelden_mens_subject": [
+        "The convicted brigand... made the essential move",
+        "we are enriched by seeing",
+        "I make a point of visiting cemeteries"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "we don’t want simply to conflate them"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "searching for the answer",
+          "searching for the answer, whether he is or is not the Lord"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "insight into the hidden power of God",
+          "truly to know Jesus"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "his love is able to deliver",
+          "One who is able to promise",
+          "the power of Jesus to save"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on Christ's capacity (Power) to save despite apparent powerlessness, rather than the hearer's obligation."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Presence (With Me)",
+      "s2": "Condemnation/Dehumanization",
+      "niet_s1": "Isolation/Abandonment",
+      "niet_s2": "Justified Punishment"
+    },
+    "beweging_in_preek": "From S2 (Condemnation) through ~S2 (Admission of guilt) to S1 (Presence).",
+    "theologische_resolutie": "The tension is resolved by Christ's Word which redefines 'Paradise' as 'Presence'.",
+    "ernst_van_s2": "High; the sermon emphasizes the cruelty and justice of the thief's sentence."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. Jesus is the active subject of salvation, and the human role is reduced to the 'wretch' who receives a promise they cannot earn.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Human 'move' as prerequisite",
+        "tekstueel_bewijs": "the convicted brigand... made the essential move: he placed himself in the hands of Jesus",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "his love is able to deliver even at the door of death",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "the power of the empire not just to kill, but to dehumanize",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The thief is not an example of virtue to follow, but a 'wretch' whose only 'work' is a desperate plea.",
+      "bijbelse_figuren_als_model": [
+        "The Penitent Thief"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: the thief is a recipient of Christ's kingly power."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and trust in Christ's power rather than self-effort.",
+      "theologische_implicatie": "Monergistic undertones; salvation is an act of the King's word."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The sermon maintains a tight focus on the 'with me' aspect of the text, linking the biblical narrative to the hearer's mortality.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "he is reigning from the cross as a King... the power of Jesus to save, to rescue, to deliver",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Spirit is implied in the 'insight' given to the thief."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Severe; described as 'justly convicted' and 'wretched'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully positions Christ as the Subject and the hearer as the Receiver of an unconditional promise.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Christ's power).",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "The lack of 'Devoir' is appropriate for a Good Friday sermon."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Empire/Death/Shame)",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology is primary; the secondary program of the grandmother's 'work' is correctly subordinated to God's use of her."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in grace-oriented preaching. It avoids the trap of making the thief's faith a 'work' and keeps the focus on the King's performative Word."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'lavender water' imagery, Greimas shows that the grandmother is merely a 'Helper' to the 'Sender' (God).",
+    "verschil_met_exegese": "Exegesis might debate the location of 'Paradise'; semiotics shows that the 'Object' is 'Presence' regardless of location.",
+    "unieke_inzichten_greimas": "Reveals that the 'powerlessness' of Jesus on the cross is a modal inversion: he lacks 'Pouvoir-physique' but possesses ultimate 'Pouvoir-parole'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus reigns",
+      "The Romans dehumanize",
+      "The thief confesses",
+      "Jesus promises",
+      "God uses"
+    ],
+    "volledige_object_lijst": [
+      "The thief",
+      "The hearer",
+      "Paradise",
+      "The Kingdom"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "deliver": {
+        "count": "2",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses Rutledge's grammar perfectly."
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "titel_preek": "A Bitter Question In A Hard Time",
+    "bijbeltekst": "Psalm 42:3, 5, 11; Matthew 27:40",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the experience of suffering and the taunt of the world ('Where is thy God?'). It uses anecdotes (Lyndon Johnson, Dr. Werkman, personal hospital visits) to illustrate human pain and the resilience of faith.",
+      "exegetische_kwaliteit": "Moderate. The preacher uses the Psalm as a thematic springboard rather than a verse-by-verse exposition. The connection between the Psalmist's agony and Christ's passion is theologically sound but remains largely descriptive.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily 'tells stories' and 'describes' the state of the soul. There is a late shift toward 'encouraging' and 'promising' in the final paragraph.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "The forty-second psalm does not need to have any tears put into it.",
+        "I want to state now my Master's case.",
+        "We are a 'yet' people."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Comfort, identification with the suffering Christ, and a renewal of hope ('yet').",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "endure",
+        "hope",
+        "rejoice",
+        "persevere"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "80%",
+      "voorbeelden": [
+        "There is reality here.",
+        "The psychiatrist tells of a gift.",
+        "Matthew said, 'They that passed by railed on him'."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "said",
+        "mentions",
+        "tells"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "7%",
+      "voorbeelden": [
+        "Husbands, remember that.",
+        "O pilgrim, keep on marching.",
+        "O soldier, fight on."
+      ],
+      "dominante_werkwoorden": [
+        "remember",
+        "think",
+        "keep on",
+        "fight"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 15,
+      "procent": "8%",
+      "voorbeelden": [
+        "I felt overwhelmed by problems.",
+        "I think I know something that cut through the Master."
+      ],
+      "dominante_werkwoorden": [
+        "felt",
+        "think",
+        "know"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 5,
+      "procent": "3%",
+      "voorbeelden": [
+        "The sure promise of his presence and his power which cannot fail.",
+        "The Lord will make a way."
+      ],
+      "dominante_werkwoorden": [
+        "promise",
+        "will make"
+      ],
+      "kwaliteit": "Weak. The promises are described as existing ('I want to state the case') rather than being directly enacted toward the hearer."
+    },
+    "declaratieven": {
+      "frequentie": 3,
+      "procent": "2%",
+      "voorbeelden": [
+        "We are a 'yet' people.",
+        "And my burden rolled away."
+      ],
+      "dominante_werkwoorden": [
+        "are",
+        "rolled away"
+      ],
+      "autoriteit": "Low. The preacher acts more as a witness/narrator than a mandatory of God."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive anecdotal storytelling (Goldman, Werkman, Whitman).",
+        "Describing the Master's case rather than pleading it.",
+        "Third-person historical narrative of the crucifixion."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of suffering and faith rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of God's promise to the specific 'you' of the congregation",
+        "Sacramental 'I' of the preacher acting for Christ"
+      ],
+      "effect_op_hoorder": "Inspiration without transformation; the sermon is 'moving' but not necessarily 'creative'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 2,
+      "kwaliteit_toezeggen": "Vague and generalized.",
+      "voorbeelden": [
+        "His offer to bless, the sure promise of his presence."
+      ],
+      "moment_in_preek": "Middle-End transition"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 28,
+        "gebruik": "Personal anecdotes and homiletical signposting ('I want to state')."
+      },
+      "tweede_persoon": {
+        "frequentie": 14,
+        "gebruik": "Moral advice to families and the final 'O pilgrim' address.",
+        "performatieve_context": "Mostly used in the 'Directive' section for moral behavior."
+      },
+      "derde_persoon": {
+        "frequentie": 85,
+        "gebruik": "Dominant. Talking about the Psalmist, the President, the Psychiatrist, and Jesus.",
+        "distantie_effect": "High. It creates a 'gallery of examples' rather than a 'theatre of grace'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical and anecdotal narrative."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about human suffering."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final 'yet' and the closing exhortation."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon moves from Assertive (stories of pain) to Directive (husbands/wives/children) and ends with a hopeful Assertive (we are 'yet' people).",
+      "voorbeelden": [
+        "Story of tears -> Husbands, remember your wives."
+      ],
+      "probleem": "The 'Directive' is not grounded in a 'Declarative' of grace, but in a psychological appeal for empathy."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the clear transition where the preacher speaks *for* God to the hearer.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The appeal to husbands/wives is based on common human decency rather than the Gospel indicative."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-quality literary and psychological reflection on suffering. It 'talks about' faith beautifully but rarely 'performs' the word of God as a present-tense event.",
+    "sterke_punten": [
+      {
+        "aspect": "Pathos",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The psalm itself reads like the sob of a wounded heart.",
+        "effect": "Creates deep emotional resonance."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "I want to state now my Master's case.",
+        "probleem": "The preacher announces he will state the case but then continues to describe it in the third person.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a 'talk' about an event (the cross) rather than the cross becoming an event for the hearer.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that binds God to the hearer in the 'Now'."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the stories, but not the active speaker in the sermon.",
+      "prediker_als_mandataris": "The preacher identifies as an 'advocate/lawyer' (Assertive role) rather than an 'ambassador' (Performative role).",
+      "tekstueel_bewijs": [
+        "I have not argued the case of him who has called me."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to the hearer's emotional response.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a 'message' or 'testimony' rather than a means of grace.",
+      "epifanisch_taalgebruik": "Limited to the final paragraph.",
+      "tekstueel_bewijs": [
+        "We shall yet see the morning."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense verbs and third-person references. Needs a shift to present-tense second-person address.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Lord might have said, 'Man, I am here for you'.",
+          "voorgestelde_revisie": "Hear the Lord saying to you right now: 'I am here for you'.",
+          "verschil": "Shifts from a historical possibility to a present-tense declarative event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is 'talked about' as a 'case' to be argued.",
+      "suggestie": "Directly announce the promise of God to the suffering hearer.",
+      "voorbeeldzinnen": [
+        "To you who weep tonight, Christ promises: I will never leave you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much time spent on 'them' (the Psalmist, the President).",
+      "suggestie": "Collapse the distance between the Psalmist's 'Where is God?' and the hearer's 'Where is God?'.",
+      "voorbeeldzinnen": [
+        "You are asking tonight: Where is my God?"
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Moral directives are given before the Gospel promise is enacted.",
+      "suggestie": "Move the 'Husbands/Wives' section to after the 'Yet' proclamation, as a response to grace."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and emotionally moving, but it remains a 'constative surplus' until the very end. By shifting from 'arguing the case' to 'proclaiming the promise,' the preacher can move from a lecture on suffering to a sacramental event of hope."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Appeals' to husbands/wives; SAT reveals these are illocutionarily weak because they lack a declarative foundation.",
+    "verschil_met_retoriek": "Rhetorically, the anecdotes are excellent; SAT shows they function as 'Assertives' that delay the 'Commissive' encounter.",
+    "unieke_inzichten_SAT": "SAT identifies that the preacher's self-identification as a 'lawyer' (Assertive) limits the sermon's power compared to an 'ambassador' (Declarative)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "said",
+        "dealt",
+        "asked",
+        "considered",
+        "reads",
+        "has gone",
+        "tells",
+        "quotes"
+      ],
+      "directief": [
+        "remember",
+        "think",
+        "keep on",
+        "fight"
+      ],
+      "expressief": [
+        "felt",
+        "envied",
+        "wanted",
+        "bear"
+      ],
+      "commissief": [
+        "promise",
+        "will make"
+      ],
+      "declaratief": [
+        "are",
+        "rolled away"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I want to state now my Master's case.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Announcing an intention to speak.",
+        "effectiviteit": "Weak; it creates a meta-discourse about the sermon rather than being the sermon."
+      },
+      {
+        "zin": "We are a 'yet' people.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Defining the identity of the congregation.",
+        "effectiviteit": "Strong; this is the most performative moment of the text."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'preacher's persona' and literary skill to bridge the gap that should be filled by illocutionary force."
+  }
+}

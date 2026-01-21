@@ -1,0 +1,266 @@
+[
+  {
+    "metadata": {
+      "titel_preek": "Epiphany & Baptism of the Lord",
+      "bijbeltekst": "Judges 6:1–23; Psalm 111:10; Luke 5:1–11; Isaiah 42:1–9",
+      "analyse_datum": "2024-05-22",
+      "geschat_aantal_woorden": "1450"
+    },
+    "actantiele_analyse": {
+      "primair_narratief_programma": {
+        "beschrijving": "God irrupts into the mundane and sinful lives of humans to reveal His presence, remove fear through His word, and sovereignly bestow redemption and a new vocation.",
+        "subject": {
+          "identificatie": "God / The Lord / Jesus Christ",
+          "tekstueel_bewijs": [
+            "God draws near to them both",
+            "God has become man",
+            "He just gives the gift",
+            "He puts redemption into our blanket"
+          ],
+          "frequentie_score": "9"
+        },
+        "object": {
+          "identificatie": "Redemption, 'New Things', and the removal of the barrier of sin/fear.",
+          "tekstueel_bewijs": [
+            "the washing away of sin",
+            "conquering love",
+            "new things, hidden things which you have not known"
+          ],
+          "aard_van_object": "SOTERIOLOGICAL"
+        },
+        "zender": {
+          "identificatie": "The Holy One of Israel / The Father",
+          "tekstueel_bewijs": [
+            "the God who terrifies is also the one who loves us for all eternity",
+            "God delivered messages to him"
+          ],
+          "rol_interpretatie": "LOVING_FATHER"
+        },
+        "ontvanger": {
+          "identificatie": "The Hearer / Humanity (represented by Gideon, Peter, and the homeless woman)",
+          "tekstueel_bewijs": [
+            "Jesus stoops down to us in our miserable condition",
+            "the Lord has laid on him the iniquity of us all"
+          ],
+          "positie_hoorder": "Receiver"
+        },
+        "helper": {
+          "identificatie": "The Word of God / The Angel of the Lord / The Holy Spirit",
+          "tekstueel_bewijs": [
+            "the fear is instantly removed by the enabling word 'Fear not'",
+            "anoint him with the Holy Spirit"
+          ],
+          "rol_van_god": "Subject",
+          "rol_van_geest": "External help"
+        },
+        "tegenstander": {
+          "identificatie": "Sin, Death, and Human Resistance (Selfishness, Greed, Idolatry)",
+          "tekstueel_bewijs": [
+            "God is opposed to our selfishness, greed, idolatry...",
+            "sin is to be conquered by the Son of God"
+          ],
+          "ernst_tegenstander": "COSMIC",
+          "toelichting_ernst": "Sin is described as a power that would lead to being 'lost' if allowed to play out; it requires a divine 'invasion' to overcome."
+        }
+      },
+      "secundair_narratief_programma": {
+        "aanwezig": true,
+        "beschrijving": "The human response of following and serving (Gideon's task, Peter's fishing for men).",
+        "subject": "The Believer (Gideon/Peter)",
+        "object": "Obedience/Vocation",
+        "verhouding_tot_primair": "SEQUENTIAL",
+        "toelichting_verhouding": "The secondary program (ethics/vocation) only begins after the primary program (grace/epiphany) has established the Subject's competence through the 'Fear not' word."
+      },
+      "actantieel_schema_visualisatie": {
+        "zender_naar_ontvanger": "God → Redemption/New Life → The Sinner",
+        "helper_subject_tegenstander": "The Word/Spirit → God/Christ ← Sin/Death",
+        "subject_naar_object": "God → Salvation of Man"
+      }
+    },
+    "grammaticale_analyse": {
+      "subject_check": {
+        "god_als_subject_count": "42",
+        "mens_als_subject_count": "18",
+        "ratio": "2.33",
+        "voorbeelden_god_subject": [
+          "God draws near to them",
+          "Jesus stoops down to us",
+          "God will interrupt the normal progression",
+          "He puts redemption into our blanket"
+        ],
+        "voorbeelden_mens_subject": [
+          "Gideon is threshing wheat",
+          "We clutch our privileges",
+          "We are trying to turn ourselves around"
+        ],
+        "rutledge_score": "9"
+      },
+      "modale_analyse": {
+        "devoir_faire": {
+          "prominentie": "2",
+          "voorbeelden": [
+            "The fear of the Lord is the beginning of wisdom (as a state of being, rather than a command)"
+          ]
+        },
+        "vouloir_faire": {
+          "prominentie": "4",
+          "voorbeelden": [
+            "We can understand and even admire the hope"
+          ]
+        },
+        "savoir_faire": {
+          "prominentie": "3",
+          "voorbeelden": [
+            "before today you have never heard of them"
+          ]
+        },
+        "pouvoir_faire": {
+          "prominentie": "9",
+          "voorbeelden": [
+            "has power to make our resistance go up in flames",
+            "sphere of power capable of calling into existence the things that do not exist"
+          ]
+        },
+        "dominante_modaliteit": "POUVOIR",
+        "modale_interpretatie": "The sermon focuses on God's 'Pouvoir' (Power/Ability) to act where humans are 'deficient' or 'miserable'. Grace is presented as the endowment of competence to the incompetent."
+      }
+    },
+    "semiotisch_vierkant_analyse": {
+      "primaire_tegenstelling": {
+        "s1": "Grace/Presence",
+        "s2": "Judgment/Terror",
+        "niet_s1": "Hopelessness/Exile",
+        "niet_s2": "Peace/Fear Not"
+      },
+      "beweging_in_preek": "Moves from S2 (Terror of the Holy) to ~S2 (Peace/Fear Not) via the action of S1 (Grace/Christ).",
+      "theologische_resolutie": "The tension is resolved by God taking the judgment (S2) upon Himself on the cross, allowing the sinner to move from hopelessness to grace.",
+      "ernst_van_s2": "High. The sermon emphasizes that 'Grace is terrifying' and God is truly 'opposed' to our sin."
+    },
+    "diagnostische_evaluatie": {
+      "primaire_classificatie": "GRACE",
+      "classificatie_toelichting": "The sermon is profoundly theocentric. God is the primary actor; humans are recipients of an 'irruption' they did not initiate and do not deserve.",
+      "indicatoren_moralisme": [
+        {
+          "indicator": "Human effort mentioned but immediately qualified as insufficient.",
+          "tekstueel_bewijs": "We are trying to turn ourselves around... [but] He does not ask what we are doing... he just gives the gift.",
+          "ernst": "LOW"
+        }
+      ],
+      "indicatoren_genade": [
+        {
+          "indicator": "God as the Subject of active verbs of salvation.",
+          "tekstueel_bewijs": "Jesus stoops down to us... he puts redemption into our blanket.",
+          "sterkte": "VERY_STRONG"
+        },
+        {
+          "indicator": "Unconditional nature of the gift.",
+          "tekstueel_bewijs": "He does not ask for a receipt.",
+          "sterkte": "STRONG"
+        }
+      ],
+      "exemplarisme_check": {
+        "aanwezig": false,
+        "beschrijving": "Biblical figures are used as 'Receivers' of epiphany rather than 'Models' of behavior.",
+        "bijbelse_figures_als_model": [
+          "Gideon",
+          "Peter"
+        ],
+        "alternatieve_lezing": "The sermon already provides the theocentric reading: Gideon is a 'nonentity' and Peter is 'sinful'; God is the hero who calls them."
+      },
+      "identificatie_patroon": {
+        "hoorder_identificeert_met": "RECEIVER_SAVED",
+        "effect_op_hoorder": "Relief and awe; moving from 'holy dread' to 'good tidings'.",
+        "theologische_implicatie": "Monergistic grace; salvation is entirely God's work."
+      },
+      "narratieve_coherentie": {
+        "coherentie_score": "10",
+        "coherentie_beschrijving": "The transition from the Old Testament (Gideon) to the New (Peter/Christ) is perfectly integrated through the theme of Epiphany.",
+        "spanning_punten": []
+      }
+    },
+    "theologische_diepte_analyse": {
+      "soteriologie": {
+        "primaire_model": "SUBSTITUTION",
+        "tekstueel_bewijs": "paying in his own body the price of sin",
+        "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+      },
+      "pneumatologie": {
+        "rol_heilige_geest": "EXTERNAL_HELPER",
+        "competentie_schenking": "Endowment"
+      },
+      "hamartologie": {
+        "aard_van_zonde": "COSMIC_POWER",
+        "ernst_diagnose": "Severe; sin is an 'addiction' and 'rebelliousness' that leads to being 'lost'."
+      },
+      "eschatologie": {
+        "hoop_structuur": "ALREADY_AND_NOT_YET",
+        "actant_van_voltooiing": "God"
+      }
+    },
+    "aanbevelingen": {
+      "actantiele_audit_samenvatting": "The sermon maintains a strict theocentric structure where God is the Subject and the human is the Receiver.",
+      "subject_herpositionering": {
+        "nodig": false,
+        "huidige_probleem": "None",
+        "voorgestelde_herpositionering": "N/A",
+        "voorbeeld_revisie": "N/A"
+      },
+      "identificatie_herstel": {
+        "nodig": false,
+        "problematische_identificatie": "None",
+        "voorgestelde_identificatie": "N/A",
+        "strategie": "N/A"
+      },
+      "modale_balans": {
+        "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+        "voorgestelde_balans": "The imbalance is homiletically appropriate for an Epiphany sermon.",
+        "concrete_suggestie": "Maintain the focus on God's 'irruption'."
+      },
+      "tegenstander_intensivering": {
+        "nodig": false,
+        "huidige_status": "Opponent (Sin/Death) is already treated as a heavy, cosmic force.",
+        "voorgestelde_intensivering": "N/A",
+        "theologische_rationale": "N/A"
+      },
+      "narratieve_hierarchie_herstel": {
+        "nodig": false,
+        "probleem": "None",
+        "voorgestelde_structuur": "Soteriology (Program 1) clearly precedes and enables Ethics (Program 2)."
+      },
+      "overall_beoordeling": "EXCELLENT",
+      "slotopmerking": "This is a masterclass in grace-oriented preaching. It avoids the trap of 'exemplarism' and keeps the focus on the divine Subject."
+    },
+    "comparatieve_analyse": {
+      "verschil_met_retorische_analyse": "While a rhetorical analysis might focus on the 'funny' description of Gideon, Greimasian analysis shows Gideon's functional role as a 'Receiver' of divine competence.",
+      "verschil_met_exegese": "Exegesis explains the context of Midianites; semiotics explains the 'Axis of Power' where God overcomes the Midianites through Gideon.",
+      "unieke_inzichten_greimas": "Reveals that the 'homeless woman' and 'Peter' occupy the same actantial slot (Receiver), proving the sermon's structural consistency across metaphors."
+    },
+    "appendices": {
+      "volledige_subject_lijst": [
+        "God draws near",
+        "Jesus tells Simon",
+        "God is opposed",
+        "He has revealed",
+        "Jesus stoops",
+        "He puts redemption"
+      ],
+      "volledige_object_lijst": [
+        "The catch of fish",
+        "Redemption",
+        "New things",
+        "Good tidings"
+      ],
+      "werkwoord_frequentie": {
+        "gives": {
+          "count": "5",
+          "primair_subject": "God"
+        },
+        "reveals": {
+          "count": "3",
+          "primair_subject": "God"
+        }
+      },
+      "notities": "The sermon successfully utilizes the 'Heavy Opponent' to make the 'Grace' actant truly powerful rather than sentimental."
+    }
+  }
+]

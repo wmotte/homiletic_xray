@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "titel_preek": "The Cry of Dereliction: Christ as the Accursed",
+    "bijbeltekst": "Mark 15:33-39; Galatians 3:10-14",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1450"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Christ redeemed us from the curse of the law",
+          "condemned by the Law",
+          "under the power of sin",
+          "sentence that deals death"
+        ],
+        "conceptuele_metafoor": "SIN IS A LEGAL SENTENCE / SALVATION IS REDEMPTION FROM CURSE"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "slaves of sin",
+          "brought us out of our slavery",
+          "the slave has sinned, and the Son has suffered",
+          "Christ redeemed us"
+        ],
+        "conceptuele_metafoor": "SIN IS SLAVERY / SALVATION IS RANSOM"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "autonomous, enslaving Power",
+          "dictatorship of Sin",
+          "break the hold of these Powers",
+          "dark Powers holding us in bondage"
+        ],
+        "conceptuele_metafoor": "SIN IS A TYRANNICAL DICTATOR"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Tied and bound by the chain of our sins",
+        "brondomein": {
+          "naam": "Physical Restraint",
+          "concrete_elementen": [
+            "chains",
+            "binding",
+            "lack of movement"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sin",
+          "doctrinale_traditie": "Anglican/Episcopal (Book of Common Prayer)"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Chains",
+            "doel_element": "Habitual sin"
+          },
+          {
+            "bron_element": "Prisoner",
+            "doel_element": "The sinner"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The sinner is unable to free themselves through willpower."
+          ],
+          "theologische_implicaties": [
+            "Total depravity or total inability; need for an external liberator."
+          ],
+          "ethische_implicaties": [
+            "Compassion for the 'addicted' sinner rather than mere judgment."
+          ],
+          "onbedoelde_consequenties": [
+            "May diminish personal agency or responsibility for actions."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A classic liturgical phrase that the preacher acknowledges as being 'removed' from modern consciousness, attempting to reactivate it."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon successfully integrates the Juridical (Law/Curse) and Economic (Slavery/Redemption) domains by grounding them in the historical reality of Roman crucifixion, which was both a legal punishment and a status-stripping event.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Middle section",
+          "metafoor_a": "GOD IS JUDGE (Wrath/Curse)",
+          "metafoor_b": "GOD IS CO-SUFFERER (Father and Son doing this together)",
+          "conflict_beschrijving": "The preacher struggles with the 'Cry of Dereliction' where God is both the one forsaking and the one forsaken.",
+          "entailment_conflict": "If God is the Judge executing the sentence, how can He also be the one 'submitting' to the sentence without internal division?",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Discussion of Galatians 3",
+          "gemengde_metaforen": [
+            "Curse",
+            "Tree",
+            "Slavery"
+          ],
+          "blending_strategie": "Narrative grounding: Using the historical context of a 'crucified person in occupied Palestine' to bridge the gap between legal curse and physical bondage."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'dead' metaphor of the Cross by using the visceral image of the 'halo' being removed in Bach's music.",
+        "voorbeeld": "Bach was the only composer... to withdraw the 'halo' at the Cry of Dereliction."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The comparison of Christ's suffering to modern political victims (Iraq, Susan Smith) risks reducing the cosmic 'Curse' to mere social ostracization.",
+        "voorbeeld": "Jesus... takes the part of all those who suffer from the curses of others.",
+        "potentiele_impact": "Congregation may view the Cross as social solidarity rather than ontological atonement.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The scene of the Crucifixion (Golgotha) during the three hours of darkness.",
+      "sub_worlds": [
+        "Bach's performance of the St. Matthew Passion",
+        "A school in Queens during the Iraq War",
+        "The courtroom of the Mosaic Law"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Opening",
+          "van_wereld": "Modern Cathedral",
+          "naar_wereld": "Ancient Roman Execution Site",
+          "effectiviteit": "High; creates a 'shock' effect to disrupt aesthetic comfort."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Christus Victor",
+          "hoe_versterkt": "Depicting Sin as an 'autonomous, enslaving Power' that requires a cosmic battle/exchange."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Life Coach / Aesthetic God",
+          "verstoring_strategie": "Contrast between the 'beautiful cathedral' and the 'obscenely barbarous' death.",
+          "vervangend_schema": "God as the Accursed Substitute"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligned with Good Friday liturgy and the 'Reproaches'."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'Penal Substitution' and 'Christus Victor' frameworks. It relies heavily on the JURIDICAL domain (Curse, Law, Judgment) to explain the 'why' of the Cross, while using the ECONOMIC domain (Slavery, Redemption) to explain the 'how' of the effect on the believer. The preacher successfully avoids a purely transactional view by emphasizing the 'willingness' of the Son.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SIN IS SIN (Capital S)",
+        "huidige_status": "Abstract and potentially 'dead' to modern ears.",
+        "suggestie": "Use the 'Dictatorship' or 'Infection' imagery more consistently to show how it bypasses individual 'misdeeds'.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Sin as a 'regime' that occupies the heart like an invading army."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The tension between God's wrath and God's love in the act of forsaking.",
+        "resolutie_strategie": "Utilize the 'Relational' domain (Father/Son) more deeply to explain that the 'forsaking' is an act of shared agony, not just a judge striking a criminal."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SIN IS SLAVERY",
+        "problematisch_entailment": "If we are slaves, we are victims without guilt.",
+        "aanbeveling": "Balance with the 'Moral Agent' metaphor to ensure the call to repentance remains sharp."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "The preacher mentions the cathedral shape; this could be expanded to show how the Cross is the 'cornerstone' that holds the weight of human history.",
+        "doel_concept": "The Centrality of the Atonement"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A profound use of CMT to bridge the gap between 18th-century music, 1st-century execution, and 21st-century politics."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would focus on Bach's music as 'beautiful,' CMT reveals the music as a cognitive tool to map the 'removal of the divine presence'.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT focuses on the underlying conceptual structures (Source/Target) that make the experience of 'forsakenness' intelligible.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using the 'Container' schema (being 'under' the law or 'in' Christ) to explain the transition from one spiritual state to another."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Halo of strings",
+      "Plumbs the most profound depths",
+      "Tied and bound by the chain",
+      "Prisoners of Sin",
+      "Dictatorship of Sin",
+      "Absorbed the curse",
+      "Exchanged God for Godlessness"
+    ],
+    "woord_frequentie_analyse": {
+      "curse": "9",
+      "sin": "14",
+      "forsaken": "5",
+      "law": "8",
+      "power": "6"
+    },
+    "notities": "The preacher uses 'Sin' with a capital S to signal a shift from the 'Action' schema to the 'Entity/Power' schema."
+  }
+}

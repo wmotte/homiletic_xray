@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "titel_preek": "The Sinner's Friend",
+    "bijbeltekst": "Luke 7:34 / Matthew 11:19",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus Christ, the Son of God, intentionally identifies with, seeks out, and dies for outcasts and sinners to transform their status from 'servants' to 'friends'.",
+      "subject": {
+        "identificatie": "Jesus Christ (The Son of God)",
+        "tekstueel_bewijs": [
+          "Jesus accepted the label",
+          "He took his stand among the outcasts",
+          "He, the Son of God, was born of a peasant woman",
+          "He stated his intention again and again",
+          "Christ died for us"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The salvation and friendship of sinners",
+        "tekstueel_bewijs": [
+          "I have called you friends",
+          "to set at liberty them that are bruised",
+          "thy sins be forgiven thee"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Spirit of the Lord / Divine Love",
+        "tekstueel_bewijs": [
+          "The Spirit of the Lord is upon me, because he hath anointed me"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'ragtag circle' of sinners (including the hearer)",
+        "tekstueel_bewijs": [
+          "for us sinners and for me",
+          "the common people heard him gladly"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Gospel message",
+        "tekstueel_bewijs": [
+          "The Spirit of the Lord is upon me",
+          "Remember the gospel!"
+        ],
+        "rol_van_god": "God is both Subject (Christ) and Helper (Spirit)",
+        "rol_van_geest": "External help and anointing power"
+      },
+      "tegenstander": {
+        "identificatie": "The Critics / Slanderers / Sin and Death",
+        "tekstueel_bewijs": [
+          "the finger pointers wagged their heads",
+          "the poisoned tongue",
+          "death's trying hour"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "While the sermon begins with social gossip, it escalates to the 'death stroke' of Calvary and the 'dark night' of the soul, requiring a divine sacrifice."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's response of repentance and emotional melting in light of Christ's work.",
+      "subject": "The Hearer",
+      "object": "Repentance and gratitude",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The hearer's response is presented as the necessary and natural consequence of Christ's primary action."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Spirit of the Lord → Friendship/Forgiveness → Sinners",
+      "helper_subject_tegenstander": "Holy Spirit → Jesus Christ ← Critics/Sin/Death",
+      "subject_naar_object": "Jesus Christ → Redemption of the Outcast"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "Christ loved us and loves us still.",
+        "He made the libel his label!",
+        "He stated his intention again and again."
+      ],
+      "voorbeelden_mens_subject": [
+        "You young people particularly need to be careful.",
+        "We look for common people.",
+        "We may take it to our friend in prayer."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "You young people particularly need to be careful."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "What hardness of spirit some of us must have that we do not break down."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Tell John what things ye have seen and heard."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "He is a friend who all our sins does bear.",
+          "He... stood in your sinful place."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on Christ's 'ability' to save and his 'power' to identify with sinners, rather than the hearer's 'obligation' to perform."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Friendship",
+      "s2": "Judgment/Slander",
+      "niet_s1": "Asceticism/Legalism",
+      "niet_s2": "Acceptance of the Outcast"
+    },
+    "beweging_in_preek": "From Slander (S2) to Legalistic Asceticism (~S1), finally resolving in Christ's Grace (S1) which embraces the Outcast (~S2).",
+    "theologische_resolutie": "Christ absorbs the Slander (S2) to provide Friendship (S1).",
+    "ernst_van_s2": "High; the 'poisoned whisper' and 'death stroke' are treated as lethal threats to Christ's mission."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is overwhelmingly theocentric. Christ is the primary actor in almost every soteriological sentence. The hearer is positioned as a passive, thankful recipient of an objective historical act (Calvary).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Initial focus on behavioral advice for youth",
+        "tekstueel_bewijs": "Flee people who have no aim as a plague!",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christ as Subject of salvation",
+        "tekstueel_bewijs": "He... suffered and died in your sinful stead.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Unconditional nature of grace",
+        "tekstueel_bewijs": "No matter what you and I have done... Christ died for us.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (John the Baptist) are used as contrasts to Christ, not as models for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: Christ is the unique Friend that John could not be."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief, gratitude, and emotional 'melting'.",
+      "theologische_implicatie": "Justification is by Christ's identification with the sinner, not the sinner's improvement."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "The transition from the 'moral' opening about bad company to the 'grace' core is handled via a 'reversal' logic (the saying is not always true).",
+      "spanning_punten": [
+        "The opening advice to 'flee' bad company slightly clashes with the later praise of Jesus for 'staying' among them, though the preacher distinguishes between influence and mission."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "took his place at your side and in your stead",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit anoints Christ for his mission."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Severe; described as 'loathsome' and 'shameful', requiring death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains Christ as the Subject of the Axis of Desire. The hearer is correctly positioned as the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Vouloir (emotional response) at the end.",
+      "voorgestelde_balans": "Maintain the current focus on Christ's Pouvoir.",
+      "concrete_suggestie": "Ensure the 'melting heart' is seen as a gift of the Spirit, not a work of the hearer."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Opponents are mostly human critics.",
+      "voorgestelde_intensivering": "Connect the 'critics' more explicitly to the 'Accuser of the Brethren' (Satan).",
+      "theologische_rationale": "To show that Christ's friendship overcomes cosmic alienation, not just social gossip."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "voorgestelde_structuur": "The current structure (Soteriology as the foundation) is excellent."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in theocentric preaching. The preacher uses a common moral trope only to subvert it with the radical agency of Christ."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'bad apple' metaphor, semiotics reveals that the 'bad apple' (Sinner) is actually the Object of the Hero's (Christ) quest.",
+    "verschil_met_exegese": "Semiotics highlights the functional role of the 'Critics' as the Opponent that validates the Subject's identity.",
+    "unieke_inzichten_greimas": "Reveals that the sermon's power comes from the 'Subject-Switch' where Christ takes the place of the Sinner on the Axis of Power."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus accepted",
+      "He took",
+      "He began",
+      "Christ died",
+      "He knows"
+    ],
+    "volledige_object_lijst": [
+      "the label",
+      "his stand",
+      "his life",
+      "our sins"
+    ],
+    "werkwoord_frequentie": {
+      "died": {
+        "count": "6",
+        "primair_subject": "God"
+      },
+      "loved": {
+        "count": "3",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon starts with a 'Law' tone but quickly shifts into a 'Pure Gospel' actantial structure."
+  }
+}

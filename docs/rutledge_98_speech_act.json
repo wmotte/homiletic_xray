@@ -1,0 +1,319 @@
+{
+  "metadata": {
+    "titel_preek": "The Baptism of Jesus: Epiphany and Recapitulation",
+    "bijbeltekst": "Matthew 3:13-17, Isaiah 42:1-10, Romans 6:1-11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A comprehensive historical and liturgical explanation of Jesus' baptism, focusing on the transition from the Old Testament prophetic tradition to the New Testament manifestation of the Messiah.",
+      "exegetische_kwaliteit": "High. Detailed exploration of 'dikaiosyne', the role of John the Baptist, and the concept of recapitulation.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily teaching and explaining. The preacher acts as an instructor of liturgical history and biblical theology.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "9",
+      "voorbeelden": [
+        "It is widely accepted that...",
+        "Understanding the baptism of Jesus requires us to...",
+        "The point being made here is that..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer understands the theological significance of the Epiphany season and the depth of baptismal imagery.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned as a topic of the text, but not as the active agent of the current preaching event.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "recognize",
+        "learn",
+        "appreciate"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The inaugural event of Jesus’ public ministry was his coming to John.",
+        "John is quite specifically linked to the Old Testament prophets."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "shows",
+        "indicates"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Repeat that question to yourself, reader.",
+        "Notice especially the interplay between justice and righteousness."
+      ],
+      "dominante_werkwoorden": [
+        "notice",
+        "repeat",
+        "look",
+        "should"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "We can only wonder at what must have been...",
+        "It is therefore an exceptionally dramatic and significant tableau."
+      ],
+      "dominante_werkwoorden": [
+        "wonder",
+        "admire"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "He will faithfully bring forth justice (quoted from Isaiah)."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "promises"
+      ],
+      "kwaliteit": "Weak. Promises are mostly quoted as past-tense biblical facts rather than present-tense offers to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "New things I now declare (quoted from Isaiah)."
+      ],
+      "dominante_werkwoorden": [
+        "declare"
+      ],
+      "autoriteit": "Low. The preacher describes declarations made by God in the text but does not perform a declaration (e.g., Absolution) in the sermon."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'It is widely accepted'",
+        "Historical-critical and liturgical-historical framing",
+        "Third-person description of Jesus' inner mind"
+      ],
+      "effect_op_hoorder": "The hearer becomes an informed spectator of a historical drama rather than a participant in a saving event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct address of grace",
+        "Present-tense promise",
+        "Sacramental declaration"
+      ],
+      "effect_op_hoorder": "Intellectual satisfaction without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "Non-existent as a direct homiletical act.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Mostly 'we' as a scholarly or liturgical collective ('As we shall see')."
+      },
+      "tweede_persoon": {
+        "frequentie": "4",
+        "gebruik": "Addressing the 'reader' as a student of the text.",
+        "performatieve_context": "None. Used for pedagogical instructions."
+      },
+      "derde_persoon": {
+        "frequentie": "180",
+        "gebruik": "Dominant. Talking about Jesus, John, Paul, and the Church.",
+        "distantie_effect": "High. Creates a 'lecturing' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical narrative of the baptism."
+      },
+      "tijdloos_present": {
+        "frequentie": "35%",
+        "gebruik": "Theological definitions and liturgical facts."
+      },
+      "actueel_present": {
+        "frequentie": "5%",
+        "gebruik": "Directives to the reader."
+      }
+    },
+    "adressering_effectiviteit": "3"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The text moves from Assertive (explanation of baptism) to Directive (how we should view the sacrament) without a Commissive/Declarative bridge.",
+      "voorbeelden": [
+        "Teaching about the meaning of the sacrament should be the first order of the day."
+      ],
+      "probleem": "It remains a lecture about a sacrament rather than being sacramental itself."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "None"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "It is imperative to understand... (The imperative is directed at the intellect, not the will/faith)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The text is an essay or a lecture on homiletics and liturgy rather than a sermon. It talks *about* the need for epiphany but does not *perform* the epiphany.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The analysis of 'dikaiosyne' as both justice and righteousness.",
+        "effect": "Deepens the hearer's conceptual knowledge."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The use of 'the reader' instead of 'you'.",
+        "probleem": "Objectification of the hearer.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": "2",
+    "gebeuren_toelichting": "Nothing 'happens' between God and the hearer; information is merely transferred.",
+    "sacramentele_kracht": "1",
+    "sacramentele_toelichting": "The sermon describes the sacrament but refuses to use the keys of the kingdom (Declaratives)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the sentences, not the speaker of the sermon.",
+      "prediker_als_mandataris": "No. The preacher acts as a scholar/commentator.",
+      "tekstueel_bewijs": [
+        "The New Testament allows no speculation..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Only as a historical fact in Jesus' life.",
+      "perlocutie_theologie": "Absent.",
+      "tekstueel_bewijs": [
+        "with the dove of the Spirit alight on his head"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a preparation for the sacrament, not a means of grace itself.",
+      "epifanisch_taalgebruik": "No. It is descriptive, not epiphanic.",
+      "tekstueel_bewijs": [
+        "Teaching about the meaning of the sacrament should be the first order..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is paralyzed by 'to be' and 'to mean'. It needs 'to give', 'to forgive', and 'to promise'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus brings us in baptism through death into life.",
+          "voorgestelde_revisie": "In this baptism, Jesus Christ brings YOU from death to life.",
+          "verschil": "Shifts from a general truth to a personal promise."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace of the baptism is described as a historical event for Jesus, not a current gift for the hearer.",
+      "suggestie": "Incorporate a direct promise based on Romans 6.",
+      "voorbeeldzinnen": [
+        "Today, Christ declares over you: Your old life is buried, and I give you my life."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Use of 'the reader' and 'the congregation'.",
+      "suggestie": "Use 'You' and 'We'.",
+      "voorbeeldzinnen": [
+        "You are the ones for whom the heavens open today."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperatives are 'should' statements about church practice.",
+      "suggestie": "Base imperatives on the declarative: 'Because you are forgiven, walk in light!'"
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The theological content is rich, but it must be 'unlocked' through performative language to become a true homiletical event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation'; SAT reveals the lack of 'Creative Word' (Declarative).",
+    "verschil_met_retoriek": "Rhetorically, it is a good essay; homiletically (SAT), it fails to perform the act of proclamation.",
+    "unieke_inzichten_SAT": "SAT exposes that even 'orthodox' content can be non-sacramental if it remains in the Assertive mode."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "accepted",
+        "maintained",
+        "shows",
+        "means",
+        "describes"
+      ],
+      "directief": [
+        "notice",
+        "repeat",
+        "should",
+        "look"
+      ],
+      "expressief": [
+        "wonder",
+        "astonished"
+      ],
+      "commissief": [
+        "will bring forth",
+        "will not fail"
+      ],
+      "declaratief": [
+        "declare"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Understanding the baptism of Jesus involves some understanding of the prophetic tradition.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Teaching",
+        "effectiviteit": "Low (Constative surplus)"
+      }
+    ],
+    "notities": "The text reads more like a chapter from a book on liturgy than a spoken sermon."
+  }
+}

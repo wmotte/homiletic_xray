@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "titel_preek": "Quail Stuffed Up Our Noses",
+    "bijbeltekst": "Numbers 11",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The journey from the consumerist empire of Pharaoh to the wilderness of reliance on God, where the Subject must learn to trust God's provision over their own anxious appetites.",
+      "subject": {
+        "identificatie": "The 'Odd People' / The Hearers (We)",
+        "tekstueel_bewijs": [
+          "If we leave the world of consumerism...",
+          "The Bible is the story of the odd people who have decided to go...",
+          "We who have signed on for the gospel..."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Life-giving reliance on God / Survival in the wilderness",
+        "tekstueel_bewijs": [
+          "rely instead on the goodness of God",
+          "an alternative life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Gospel / Jesus",
+        "tekstueel_bewijs": [
+          "Jesus called his disciples out",
+          "The story attests that God is indeed adequate"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Neighbor",
+        "tekstueel_bewijs": [
+          "love of the neighbor"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "God's Word / The Quail (Provision)",
+        "tekstueel_bewijs": [
+          "God sustained them in their anxiety",
+          "God has power and readiness to feed us"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Pharaoh / Consumerism / Anxiety",
+        "tekstueel_bewijs": [
+          "the regime of Pharaoh",
+          "the kingdom of greed, anxiety, and phony well-being"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as a 'system' or 'regime' that tempts the subject back into old habits of consumption."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's internal struggle with His own patience and the demonstration of His power to Moses.",
+      "subject": "God",
+      "object": "Vindication of Divine Power",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "God's action (Program 2) provides the 'Pouvoir' (Power) for the people's survival (Program 1)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Gospel → Reliance on God → The Neighbor",
+      "helper_subject_tegenstander": "God/Quail → The Hearer ← Pharaoh/Anxiety",
+      "subject_naar_object": "The Hearer → Alternative Life"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "58",
+      "ratio": "0.72",
+      "voorbeelden_god_subject": [
+        "God responds first to Moses",
+        "God has power and readiness to feed us",
+        "God birthed them"
+      ],
+      "voorbeelden_mens_subject": [
+        "If we leave the world of consumerism",
+        "We must take care not to ask for too many quail",
+        "They remembered that in the land of consumerism..."
+      ],
+      "rutledge_score": "6"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "we have to go or we will die",
+          "We must take care not to ask"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "every wish and every want that we crave",
+          "eagerness for quail"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we never know ahead of time",
+          "we wonder about the reliability"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Is the LORD’s power limited?",
+          "God is indeed adequate for us"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon begins with a heavy 'Devoir' (obligation to leave Egypt) but shifts to 'Pouvoir' (God's ability to provide) as the only solution to the Subject's failure."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Manna (Grace/Trust)",
+      "s2": "Pharaoh's Meat (Greed/Death)",
+      "niet_s1": "Anxiety (Lack of Trust)",
+      "niet_s2": "Wilderness (Freedom from Pharaoh)"
+    },
+    "beweging_in_preek": "From S2 (Egypt) to ~S2 (Wilderness), then falling into ~S1 (Anxiety), finally being rescued by S1 (Manna/Quail).",
+    "theologische_resolutie": "The tension is resolved by God's 'tantrum' which provides the object (meat) but as a judgment that leads back to the question of trust.",
+    "ernst_van_s2": "High; Pharaoh's world is described as a shriveling, violent death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While it uses God as the provider, the opening and closing frame the Christian life as a choice 'we' must make to leave consumerism, placing the initial agency on the human subject.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "If we leave the world of consumerism... we have to go or our lives will shrivel.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Initiative in Provision",
+        "tekstueel_bewijs": "God has power and readiness to feed us and sustain us.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Israelites' anxiety is used as a mirror for the modern consumer's anxiety.",
+      "bijbelse_figures_als_model": [
+        "Moses",
+        "Israelites"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who delivers from Pharaoh regardless of the people's desire to return."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to 'leave' the world to avoid spiritual shriveling.",
+      "theologische_implicatie": "Soteriology is contingent on the 'decision to go'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon oscillates between God's sovereignty and human effort to 'sign on'.",
+      "spanning_punten": [
+        "The 'have to go' vs. 'God birthed them' tension."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Leaving the regime of Pharaoh for an alternative kingdom.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not mentioned; competence is found in 'God's power' generally."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is seen as 'inordinate anxiety' and 'greed'—a failure of trust."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon starts with the Hearer as Subject (leaving Egypt) but ends with God as Subject (sustaining the Hearer).",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The opening 'If we leave' makes the hearer the primary mover.",
+      "voorgestelde_herpositionering": "Make God the one who pulls the people out of Egypt.",
+      "voorbeeld_revisie": "God has called us out of consumerism, so that we are no longer bound by Pharaoh."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'decider' to leave.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that the wilderness journey is God's project, not a human decision."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (God's enablement).",
+      "concrete_suggestie": "Focus more on how God's power enables the leaving, rather than the necessity of leaving."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Pharaoh is a strong, systemic opponent.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The social critique of consumerism is already robust."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (leaving consumerism) precedes Soteriology (God's provision).",
+      "voorgestelde_structuur": "God provides manna/quail, which frees us from the need for Pharaoh's goodies."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful narrative that captures the tension of the wilderness, though it occasionally burdens the hearer with the weight of the 'Exodus' decision."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Greimas reveals that despite the 'grace' language at the end, the narrative engine is driven by human 'leaving' at the start.",
+    "verschil_met_exegese": "Focuses on the roles of Pharaoh and God as actants rather than just historical figures.",
+    "unieke_inzichten_greimas": "Identifies the 'Quail' as a complex actant that functions as both Helper (food) and Opponent (judgment/suffocation)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (leave)",
+      "Jesus (called)",
+      "Moses (scolds)",
+      "God (responds)",
+      "God (gives)"
+    ],
+    "volledige_object_lijst": [
+      "Meat",
+      "Alternative life",
+      "Safety",
+      "Reliability of God's word"
+    ],
+    "werkwoord_frequentie": {
+      "leave": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": "12",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses a 'tantrum' as a narrative device to transition from Law to a strange form of Grace-as-Judgment."
+  }
+}

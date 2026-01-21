@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "titel_preek": "A God Not to Believe in",
+    "bijbeltekst": "Isaiah 40, 43, 52",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher contrasts the biblical God of Isaiah with modern 'therapeutic' deities, using the historical context of the Babylonian exile and contemporary examples (Liberia, Lincoln, NYC culture) to illustrate God's sovereignty.",
+      "exegetische_kwaliteit": "High. The preacher accurately situates Second Isaiah in the exile and uses the text to challenge modern theological drift.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is Assertive (describing God's nature) and Directive (challenging the congregation's witness), with a late shift toward Commissive through the reading of Scripture.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I believe you have some sense of that.",
+        "Isaiah reminds us...",
+        "Who is going to be the counter-voice?"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To provoke a sense of awe for God's transcendence and a call to social justice/witness.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "discern",
+        "rebel",
+        "witness",
+        "perceive",
+        "protest"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "The Lord is the everlasting God.",
+        "We live in Babylon-on-the-Hudson.",
+        "Mainline churches are going through troubles."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "wrote",
+        "says",
+        "believe",
+        "thinks"
+      ]
+    },
+    "directieven": {
+      "frequentie": "28",
+      "procent": "15%",
+      "voorbeelden": [
+        "Lift up your eyes.",
+        "Hear the Word of God.",
+        "Let's be sure we redefine the case."
+      ],
+      "dominante_werkwoorden": [
+        "hear",
+        "lift",
+        "see",
+        "protest",
+        "redefine"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "I rejoice to have some small part.",
+        "I am grateful to my parents."
+      ],
+      "dominante_werkwoorden": [
+        "rejoice",
+        "thank",
+        "grateful"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "I am about to do a new thing.",
+        "I will send to Babylon."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "promise"
+      ],
+      "kwaliteit": "The promises are largely quoted from the biblical text rather than spoken as a direct address from the preacher to the congregation."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "3%",
+      "voorbeelden": [
+        "You are my witnesses."
+      ],
+      "dominante_werkwoorden": [
+        "are"
+      ],
+      "autoriteit": "The preacher relies on the authority of the biblical quote rather than an inherent ministerial declaration."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'The preacher says', 'Lincoln thought', 'The magazine featured'.",
+        "Long anecdotes about New York Magazine and James Wood."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a lecture on theology and history rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the specific NYC context",
+        "Present-tense sacramental address"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential transformation."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 2,
+      "kwaliteit_toezeggen": "Weak; they are embedded in long Isaiah quotes.",
+      "voorbeelden": [
+        "I am about to do a new thing; now it springs forth, do you not perceive it?"
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Personal anecdotes and preacher's opinions."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Challenging the congregation's pride and asking rhetorical questions.",
+        "performatieve_context": "Mostly used in directives/challenges, not promises."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing Isaiah, Babylon, Lincoln, and the 'church ladies'.",
+        "distantie_effect": "High; creates a 'gallery' of examples to look at."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Historical exegesis and 20th-century anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "35%",
+        "gebruik": "General theological truths about God's nature."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The 'now' of the congregation's strategic position."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (God is sovereign) -> Directive (You must be a counter-voice).",
+      "voorbeelden": [
+        "God loves justice... Who if not the church [should protest]?"
+      ],
+      "probleem": "The 'ought' (Directive) is not preceded by a 'gift' (Commissive/Declarative) specifically for the hearer."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "God has placed you in a strategic position... the danger always lurks: Will you become proud?"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-level theological essay. It talks *about* God's power but rarely *exercises* that power through the word.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "Exegesis",
+        "tekstueel_bewijs": "The analysis of 'chutzpah' in Second Isaiah.",
+        "effect": "Provides a strong intellectual framework."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The long section on James Wood and New York Magazine.",
+        "probleem": "Delays the encounter with the text for too long.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is more of a 'talk' than an 'event'. The congregation is told that God does things, but they don't experience God doing something to them in the moment.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The sermon lacks the 'Toezegging' (Promise) that binds God to the hearer here and now."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the sentences, but rarely the speaker of the sermon.",
+      "prediker_als_mandataris": "The preacher acts more as a witness/reporter than a mandatory.",
+      "tekstueel_bewijs": [
+        "I believe you have some sense of that."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to human 'discernment'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a 'witness' rather than a 'means of grace'.",
+      "epifanisch_taalgebruik": "Limited to the quoted Isaiah passages.",
+      "tekstueel_bewijs": [
+        "identifying what God is doing in the world"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person past tense (Isaiah said) to 2nd person present (God says to you).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The prophecy of Isaiah reveals the God who creates...",
+          "voorgestelde_revisie": "Today, the God who created the stars names you and claims you.",
+          "verschil": "Moves from a description of a book to a present-tense act of God."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Grace is described as a historical fact for Liberia or Israel, not a promise for NYC.",
+      "suggestie": "Directly apply the 'new thing' of Isaiah 43 to the congregation's specific fears.",
+      "voorbeeldzinnen": [
+        "To you who feel like an exile in this city, God promises: I am doing a new thing in your life."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' (inclusive/vague) and 'they' (Babylonians/Liberians).",
+      "suggestie": "Use 'You' for the promise and 'I' for the ministerial declaration.",
+      "voorbeeldzinnen": [
+        "I declare to you: your warfare is ended."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to be a 'counter-voice' feels like a heavy burden because the 'gift' of God's presence isn't personally sealed first.",
+      "suggestie": "Base the 'Who will protest?' on the 'I have redeemed you' (Commissive)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually brilliant and rhetorically sophisticated, but it risks remaining a 'lecture about God' rather than a 'word from God'. Increasing the illocutionary force of the promises will turn this from a report into an event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his Episcopalian background); SAT focuses on whether the 'Declarative' actually changes the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetoric admires the Lincoln/Liberia illustrations; SAT asks if these illustrations serve as a 'Locution' for a 'Commissive' act.",
+    "unieke_inzichten_SAT": "SAT reveals that despite the 'high' theology, the sermon is linguistically 'low' on performative power, functioning primarily as an Assertive-Directive hybrid."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "wrote",
+        "destroyed",
+        "appeared",
+        "means",
+        "thinks",
+        "accusing"
+      ],
+      "directief": [
+        "lift",
+        "see",
+        "hear",
+        "protest",
+        "redefine",
+        "remember"
+      ],
+      "expressief": [
+        "rejoice",
+        "thank",
+        "grateful",
+        "admire"
+      ],
+      "commissief": [
+        "will send",
+        "will comfort",
+        "will do"
+      ],
+      "declaratief": [
+        "are [my witnesses]",
+        "is [God]"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I, I am the Lord, and besides me there is no savior.",
+        "categorie": "ASSERTIVE/DECLARATIVE",
+        "illocutionaire_kracht": "Strong (Scriptural)",
+        "effectiviteit": "High"
+      },
+      {
+        "zin": "Who is going to be the unpopular voice... if not the church?",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Moderate (Rhetorical question)",
+        "effectiviteit": "Creates guilt/obligation"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Mainline Excellence'—high locutionary value, but stuck in the constative surplus of 'talking about' the faith of others (Lincoln, Liberian women) rather than performing the faith for the present audience."
+  }
+}

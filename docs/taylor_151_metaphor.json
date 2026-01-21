@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "titel_preek": "Jesus Christ",
+    "bijbeltekst": "John 1:17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "followed the route these preachers took",
+          "faint in the way",
+          "our way and way maker",
+          "leads sages to bring their tribute"
+        ],
+        "conceptuele_metafoor": "FAITH IS A JOURNEY"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Magna Charta of our faith",
+          "letters patent of our royal connection",
+          "seal and sign of our salvation",
+          "our lawyer"
+        ],
+        "conceptuele_metafoor": "SALVATION IS LEGAL STANDING"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "He is my brother",
+          "made like unto his brethren",
+          "on his mother's side... on his Father's side",
+          "adoption of our humanity"
+        ],
+        "conceptuele_metafoor": "GOD IS KIN"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Touch the hem of the garment of this subject",
+        "brondomein": {
+          "naam": "CLOTHING/PHYSICAL CONTACT",
+          "concrete_elementen": [
+            "hem",
+            "garment",
+            "touching"
+          ],
+          "belichaamde_basis": "container/proximity"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Theological Understanding",
+          "doctrinale_traditie": "Ecumenical/Biblical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Edge of a robe",
+            "doel_element": "Surface level understanding of Christ"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The subject is vast and physical",
+            "Human effort is small compared to the object"
+          ],
+          "theologische_implicaties": [
+            "Divine incomprehensibility",
+            "Theology as a tactile, humble pursuit"
+          ],
+          "ethische_implicaties": [
+            "Humility in preaching"
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests we can never truly 'know' the center, only the fringe"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the biblical story of the woman with the issue of blood to describe the act of homiletics itself."
+      },
+      {
+        "metafoor_expressie": "God encapsulated in time and space",
+        "brondomein": {
+          "naam": "CONTAINER",
+          "concrete_elementen": [
+            "capsule",
+            "boundary",
+            "interior"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Incarnation",
+          "doctrinale_traditie": "Chalcedonian Christology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Capsule",
+            "doel_element": "Humanity of Jesus"
+          },
+          {
+            "bron_element": "Contents",
+            "doel_element": "Divine Essence"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God is 'inside' the man Jesus",
+            "The infinite is restricted by a shell"
+          ],
+          "theologische_implicaties": [
+            "Dual nature of Christ",
+            "Locatability of the Divine"
+          ],
+          "ethische_implicaties": [
+            "Sacredness of the physical world"
+          ],
+          "onbedoelde_consequenties": [
+            "Potential Nestorianism (separation of container and content)"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses scientific/technical language ('encapsulated') to explain a 4th-century dogma."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher balances the 'Low Christology' (Jesus as brother/man) with 'High Christology' (Christ as God/King) by using the metaphor of 'sides' (Mother's side vs Father's side), creating a coherent biographical frame.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "Jesus as 'Way'",
+          "metafoor_b": "Jesus as 'Stone'",
+          "conflict_beschrijving": "A way is something you travel on; a stone is something that blocks or supports.",
+          "entailment_conflict": "Movement vs. Stasis",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Description of the Sea of Galilee",
+          "gemengde_metaforen": [
+            "Man sleeping",
+            "God commanding pets"
+          ],
+          "blending_strategie": "Contrastive juxtaposition to highlight the Paradox of the Incarnation."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Physician' metaphor by grounding it in the historical figure of Galen and the city of Pergamos.",
+        "voorbeeld": "The physician Galen did his work there... his medical methods reigned supreme."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The 'Mother's side/Father's side' metaphor risks a biological literalism that complicates the Virgin Birth or the Trinity.",
+        "voorbeeld": "On his mother's side born of a woman... on his Father's side, Son of God.",
+        "potentiele_impact": "Congregation may view Jesus as a 50/50 hybrid rather than fully God/man.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "An artist's studio in Australia with a massive, unfinished canvas.",
+      "sub_worlds": [
+        "The ancient city of Pergamos",
+        "The heavenly courtroom where Jesus 'interprets' for the believer",
+        "The graveside of Lazarus"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Middle of sermon",
+          "van_wereld": "Modern Australia/Studio",
+          "naar_wereld": "Ancient Asia Minor",
+          "effectiviteit": "High; bridges the gap between 'artistic failure' and 'missionary success'."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Jesus as High Priest",
+          "hoe_versterkt": "By emphasizing the shared experience of temptation (sex, money, pride)."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Christian as Dunce",
+          "verstoring_strategie": "Direct confrontation and insult of the 'muddle-headed' secular view.",
+          "vervangend_schema": "Christianity as 'Earthy Faith' and intellectual robustness."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Name of Jesus' festivals or Christological focus."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is a rich tapestry of 'Verticality' (God coming down) and 'Relationality' (Jesus as brother). It successfully moves from the abstract 'subject' to the concrete 'person'. The dominant landscape is one of 'Vastness'—the preacher repeatedly uses metaphors of scale (mountains, massive canvases, broad sweeps) to emphasize the transcendence of the target domain.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Jesus as Bread",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Connect the 'Bread' to the 'Hungry Multitude' mentioned earlier in the sermon to deepen the source domain of physical starvation.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "He who felt the stomach-pangs of the desert is the very loaf that feeds the soul."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from Jesus as 'Brother' to 'King' is abrupt.",
+        "resolutie_strategie": "Use the 'Elder Brother' metaphor (common in African American homiletics) to bridge the familial and the authoritative."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Jesus as Lawyer",
+        "problematisch_entailment": "Suggests God the Father is a hostile prosecutor who needs to be convinced.",
+        "aanbeveling": "Clarify that the 'Lawyer' and the 'Judge' share the same 'Grace' (John 1:17)."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "Since the preacher mentions 'city planning' in Pergamos, using 'JESUS AS ARCHITECT' could link the social work of the church to the nature of Christ.",
+        "doel_concept": "Community Work/Social Justice"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using CMT to make high Christology accessible through embodied experience and vivid world-building."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'Australian landscape' story for its beauty, CMT reveals it as a 'Cognitive Map' for the limitations of human language (THEOLOGY IS ARTISTIC REPRESENTATION).",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT shows how the preacher uses 'Verticality' and 'Container' schemas to bypass logic and speak directly to the hearer's embodied sense of space.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher's use of 'Brother' isn't just a title, but a mapping of 'Shared Infirmity' that allows the hearer to conceptualize the Atonement as 'Empathy' rather than just 'Transaction'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Touch the hem of the garment",
+      "Sky touching the landscape",
+      "Godly failure",
+      "Light and life",
+      "Satan's seat",
+      "Fountainhead of law",
+      "Magna Charta of our faith",
+      "Letters patent",
+      "Seal and sign",
+      "Misty, thin, airy faith",
+      "Earthy faith",
+      "Tug and pull of temptation",
+      "God encapsulated",
+      "Bread from heaven",
+      "Winds and waves like pet dogs",
+      "Shadow of a great rock",
+      "Horn of salvation",
+      "Bright Morning Star",
+      "Way maker"
+    ],
+    "woord_frequentie_analyse": {
+      "Jesus": "28",
+      "Christ": "24",
+      "Name": "12",
+      "Man": "9",
+      "God": "11",
+      "Law": "5"
+    },
+    "notities": "The preacher (Gardner C. Taylor) utilizes 'Theological Inexpressibility' as a meta-metaphor to frame the entire discourse."
+  }
+}

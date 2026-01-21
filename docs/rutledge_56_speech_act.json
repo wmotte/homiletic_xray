@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "titel_preek": "The Little Church in the Wilderness—1 Kings 17",
+    "bijbeltekst": "1 Kings 17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon narrates the story of Elijah and the widow of Zarephath, interwoven with 19th-century commentary by Krummacher and a contemporary analysis of the American church landscape.",
+      "exegetische_kwaliteit": "Strong narrative flow, though heavily reliant on secondary homiletical sources (Krummacher) rather than direct textual exegesis.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting historical and theological facts, with a shift toward encouraging/exhorting the specific congregation at the end.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Elijah is big in every way.",
+        "I say that because more and more it seems to me that the Christian Church... is in danger of losing its soul.",
+        "This particular congregation is positioned to make a great difference."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the congregation feel a sense of unique identity and responsibility as a 'little church in the wilderness'.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned as a historical agent in the text, but not explicitly invoked as the agent of the current sermon event.",
+      "perlocutionaire_werkwoorden": [
+        "identify",
+        "reflect",
+        "persevere",
+        "recognize"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Elijah remains the figure in Israel’s history who carries around with him the atmosphere of the numinous.",
+        "The problem is that we start thinking that this human activity is what drives the engine of the church."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "seems",
+        "think",
+        "represents"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Listen to Krummacher.",
+        "Please don’t misunderstand me.",
+        "Let’s look once more at our little church."
+      ],
+      "dominante_werkwoorden": [
+        "listen",
+        "look",
+        "beware"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "I admire Billy Graham very much.",
+        "this visitor was very grateful.",
+        "I thank the Lord for him."
+      ],
+      "dominante_werkwoorden": [
+        "admire",
+        "thank",
+        "sense"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "I told them that I was going to put them into my Sunday sermon."
+      ],
+      "dominante_werkwoorden": [
+        "told (as promise)"
+      ],
+      "kwaliteit": "Virtually absent. There are no divine promises directly addressed to the hearer in the name of God."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "Praised be the living God!",
+        "AMEN."
+      ],
+      "dominante_werkwoorden": [
+        "praised",
+        "amen"
+      ],
+      "autoriteit": "The authority is primarily used to validate the congregation's social position rather than to absolve or recreate them."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 3rd person narrative.",
+        "Lengthy quotes from a 19th-century preacher (talking about talking about the text).",
+        "Sociological analysis of church categories."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a lecture on church history and sociology rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct divine promise (Toezegging)",
+        "Present-tense address of God's action toward the hearer."
+      ],
+      "effect_op_hoorder": "Intellectual agreement without sacramental transformation."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "None",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Personal anecdotes and preacher's opinions ('I see', 'I sense')."
+      },
+      "tweede_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Used to categorize the congregation ('you are prominent', 'you combine two things').",
+        "performatieve_context": "Used for complimenting/encouraging rather than promising grace."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Describing Elijah, the widow, and the 'mainline churches'.",
+        "distantie_effect": "Creates a 'lecture' atmosphere where the subject is 'out there'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Biblical narrative and Krummacher's era."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Sociological descriptions of the church today."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Closing encouragement."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Story/Sociology) -> Directive/Exhortation (Be this kind of church).",
+      "voorbeelden": [
+        "This congregation... may very well find itself called out... because of the Lord."
+      ],
+      "probleem": "The 'call' is based on the congregation's existing qualities rather than a new act of God in the sermon."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Because you combine two things... you may find yourself called out."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-level lecture on biblical narrative and ecclesiology. It talks *about* the living God but does not act as the *voice* of the living God.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Engagement",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The description of Elijah as an 'action figure'.",
+        "effect": "Keeps attention through vivid imagery."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire text.",
+        "probleem": "God never speaks a promise to the hearer.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an 'event' of sharing information and encouragement, but not a sacramental 'event' of God's intervention.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The sermon remains in the realm of 'talking about' (constative) rather than 'doing' (performative)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the sentences, not the speaker of the act.",
+      "prediker_als_mandataris": "The preacher acts more as a commentator/observer than a mandatory.",
+      "tekstueel_bewijs": [
+        "I see several groups of churches",
+        "I sense that a congregation like this one..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Only historically (in Krummacher's quote).",
+      "perlocutie_theologie": "Implicitly assumes the hearer will be motivated by the information.",
+      "tekstueel_bewijs": [
+        "the Spirit guided Elijah"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Not evident. The sermon is a means of instruction.",
+      "epifanisch_taalgebruik": "Low. The language is descriptive and analytical.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is dominated by 'is/was' and 'I think/I see'. It needs a shift to 'God gives/I declare'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The living God of Elijah does not seem to be in view.",
+          "voorgestelde_revisie": "This living God stands before you now, judging your silence and promising you His presence.",
+          "verschil": "Shifts from a critique of others to a direct address to the hearer."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace of the widow's story is described but not applied.",
+      "suggestie": "Directly promise the congregation that God will provide for their 'wilderness' moments.",
+      "voorbeeldzinnen": [
+        "To you, in your wilderness, God promises: your jar of oil shall not fail."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'They' (other churches).",
+      "suggestie": "Use 'You' in the context of God's action.",
+      "voorbeeldzinnen": [
+        "God is calling *you* today."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative is based on the congregation's 'tradition' rather than God's 'gift'.",
+      "suggestie": "Base the call to social justice on the declarative of God's mercy already given to the congregation."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and rhetorically sophisticated, but it remains a 'talk about God' rather than a 'word from God'. Increasing the illocutionary force of promise will turn this lecture into a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (her admiration for Graham); SAT reveals the lack of 'Divine Action' in the speech-act.",
+    "verschil_met_retoriek": "Rhetorically, it is excellent (metaphors like 'Trojan horse'); performatively, it is weak (no reality-changing declarations).",
+    "unieke_inzichten_SAT": "SAT exposes that despite 'God' being the subject of many sentences, He is not the 'Agent' of the sermon's current moment."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "seems",
+        "represents",
+        "identifies",
+        "thinks",
+        "acts",
+        "delivers"
+      ],
+      "directief": [
+        "listen",
+        "look",
+        "beware",
+        "don't misunderstand"
+      ],
+      "expressief": [
+        "admire",
+        "thank",
+        "sense",
+        "grateful"
+      ],
+      "commissief": [
+        "told"
+      ],
+      "declaratief": [
+        "praised",
+        "amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "As the Lord the God of Israel lives, before whom I stand.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Quoting a performative act from the past.",
+        "effectiviteit": "Informative but not performative for the current hearer."
+      }
+    ],
+    "notities": "The preacher uses Krummacher as a shield, allowing the 19th-century preacher to be more performative while the current preacher remains a commentator."
+  }
+}

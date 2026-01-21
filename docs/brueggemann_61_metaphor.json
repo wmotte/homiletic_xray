@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "titel_preek": "The Song of an Ex-Leper",
+    "bijbeltekst": "2 Kings 5, Mark 1, Psalm 30, Matthew 10:7-8",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1250"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "leprosy becomes a metaphor for all kinds of diseases and malfunctions",
+          "healing juices are under way",
+          "took off my hospital gown and dressed me for a party",
+          "the world is sick with leprosy"
+        ],
+        "conceptuele_metafoor": "SIN/BROKENNESS IS SICKNESS; SALVATION IS HEALING"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "4",
+        "kernfrasen": [
+          "he still wants to pay the healer",
+          "health is a commodity",
+          "poor investments and are very close to the edge"
+        ],
+        "conceptuele_metafoor": "GRACE IS A FREE GIFT (NON-TRANSACTIONAL)"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "3",
+        "kernfrasen": [
+          "on his way home",
+          "on its way to death",
+          "healing is on its way"
+        ],
+        "conceptuele_metafoor": "LIFE/HISTORY IS A PATH TOWARD A DESTINATION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The world is sick with leprosy.",
+        "brondomein": {
+          "naam": "Pathology/Epidemiology",
+          "concrete_elementen": [
+            "lesions",
+            "contagion",
+            "collapse of physical structure",
+            "stigma"
+          ],
+          "belichaamde_basis": "container (the body/world as a failing vessel)"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Original Sin / Cosmic Brokenness",
+          "doctrinale_traditie": "Neo-Orthodox / Reformed (Total Depravity)"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Leprosy (Physical decay)",
+            "doel_element": "Systemic injustice/Sin"
+          },
+          {
+            "bron_element": "Social isolation of leper",
+            "doel_element": "Alienation from God/Community"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The world is in a state of involuntary decline.",
+            "Human effort cannot 'wash' away the condition."
+          ],
+          "theologische_implicaties": [
+            "Sin is not just individual acts but a 'deep disorder' marking the world."
+          ],
+          "ethische_implicaties": [
+            "Compassion should replace judgment (one doesn't blame a leper for being sick)."
+          ],
+          "onbedoelde_consequenties": [
+            "May diminish the sense of moral agency or personal guilt."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the 'dead' biblical term by mapping it to HIV, failed marriages, and systemic racism."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The sermon maintains a strict focus on the Medical domain, using the 'Leper' as the primary cognitive anchor for all forms of human distress.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section III",
+          "metafoor_a": "Health as a Commodity (Naaman)",
+          "metafoor_b": "Health as a Gift (Jesus/Elisha)",
+          "conflict_beschrijving": "Naaman attempts to use an Economic schema for a Medical/Grace event.",
+          "entailment_conflict": "Transaction vs. Gratuity",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Section V",
+          "gemengde_metaforen": [
+            "Medical (Hospital gown)",
+            "Social/Relational (Party dress)"
+          ],
+          "blending_strategie": "Sequential transformation: The healing is not just the absence of disease but the presence of community (the party)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Takes the archaic 'leprosy' and maps it to modern anxieties (HIV, investments, phoniness).",
+        "voorbeeld": "Some of you figure you are a phony... a lot like leprosy."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By mapping 'bad investments' and 'failed marriages' to leprosy, sin risks being viewed purely as misfortune rather than rebellion.",
+        "voorbeeld": "Slot it all under 'L' for leprosy.",
+        "potentiele_impact": "Congregation may lose a sense of repentance for volitional sins.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A global hospital/quarantine zone where everyone is 'under threat'.",
+      "sub_worlds": [
+        "The Jordan River (Naaman's world)",
+        "The Mirror (The world of self-discovery)",
+        "The Party (The eschatological world of the Psalm)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Section IV",
+          "van_wereld": "Ancient Israel",
+          "naar_wereld": "The hearer's private life (marriage, bank account)",
+          "effectiviteit": "Highly effective 'bridge' building."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Healer",
+          "hoe_versterkt": "Repeated emphasis on 'healing juices' and 'restoration'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Transactional Creditor",
+          "verstoring_strategie": "Critiquing Naaman's desire to pay.",
+          "vervangend_schema": "God as Gracious Source"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits a service of healing or lament/thanksgiving."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is a masterclass in the Medical Domain. It successfully moves from a specific biblical condition to a universal human condition using CMT. The primary landscape is one of 'pathology and restoration'.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "LEPROSY",
+        "huidige_status": "Risk of being a 'Sunday School' cliché.",
+        "suggestie": "Deepen the sensory source domain.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Describe the loss of nerve endings—the inability to feel the pain of others."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'leprosy as personal struggle' to 'leprosy as systemic world-sickness'.",
+        "resolutie_strategie": "Use a 'Contagion' bridge to show how personal 'lesions' infect the 'social body'."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SIN IS SICKNESS",
+        "problematisch_entailment": "Sickness is often blameless; sin involves will.",
+        "aanbeveling": "Briefly introduce the 'Juridical' domain to balance responsibility."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To support the phrase 'structures are in collapse'.",
+        "doel_concept": "Social Justice/Ecclesiology"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful use of CMT to bridge the ancient text with contemporary psychological and social realities."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of just admiring the 'leper' imagery, CMT shows how the preacher uses it to restructure the hearer's self-perception as 'sick' rather than 'bad'.",
+    "verschil_met_kolb": "Moves beyond 'feeling' or 'thinking' to the cognitive mapping of 'healing' onto 'social justice'.",
+    "unieke_inzichten_CMT": "Reveals that the preacher uses the 'Container' schema (in/out of the community) to define salvation."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "leprosy of the soul",
+      "healing juices",
+      "hospital gown of mourning",
+      "party dress of praise",
+      "world is sick",
+      "structures collapsing"
+    ],
+    "woord_frequentie_analyse": {
+      "leper": "12",
+      "healing": "15",
+      "world": "9",
+      "power": "7"
+    },
+    "notities": "The preacher effectively uses 'Verticality' (drawn me up from the Pit) in the final section."
+  }
+}

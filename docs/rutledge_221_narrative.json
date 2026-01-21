@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "The Final Exit of the Baptized",
+    "bijbeltekst": "Romans 6:4–13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2200"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God through Christ and the Holy Spirit rescues the human subject from the 'dominion of death' and the illusion of self-justification, incorporating them into a life where death has already been defeated.",
+      "subject": {
+        "identificatie": "God / Christ / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "God has reserved to himself the right to determine the end of life",
+          "Christ being raised from the dead will never die again",
+          "Baptism is the gift of a new spirit... the Holy Spirit"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Eternal Life / Deliverance from Death's Dominion",
+        "tekstueel_bewijs": [
+          "brought from death to life",
+          "the goal to which it is his will to lead it"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Living God",
+        "tekstueel_bewijs": [
+          "arraigned... before the forum of God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Baptized / The Despairing / The Hearer",
+        "tekstueel_bewijs": [
+          "all of us who have been baptized",
+          "One who despairs of life can only be helped by the saving deed of another"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Church (Witnesses like Mary V.)",
+        "tekstueel_bewijs": [
+          "Baptism is the gift of a new spirit",
+          "The Master with whom my dear aunt walked"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Death / Stoic Self-Justification / Lack of Faith",
+        "tekstueel_bewijs": [
+          "Death has no more dominion",
+          "Suicide is the ultimate and extreme self-justification of man as man"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is treated not as a choice but as a 'dominion' and a power that only a divine act can break."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical response of the baptized: yielding oneself to God and honoring life even in suffering.",
+      "subject": "The Baptized Person",
+      "object": "Yielding to God / Honoring life",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The 'yielding' (Program 2) is only possible because the 'bringing from death to life' (Program 1) has already occurred."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Eternal Life → The Baptized",
+      "helper_subject_tegenstander": "Holy Spirit → Christ ← Death/Self-Justification",
+      "subject_naar_object": "God → Salvation of Man"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "God has reserved to himself the right",
+        "Christ being raised from the dead",
+        "The Holy Spirit bestows courage"
+      ],
+      "voorbeelden_mens_subject": [
+        "Yield yourselves to God",
+        "Jerzy did what he had to do",
+        "We Christians need to become much more intentional"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "If suicide must nevertheless be declared wrongful"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "someone who loved life too much to live it any other way"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Do you not know that all of us...",
+          "For we know that Christ..."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Death has no more dominion",
+          "One who despairs... can only be helped by the saving deed of another"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes the 'Pouvoir' (Power) of God over death, which compensates for the human lack of power in despair."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Life in Christ (Baptism)",
+      "s2": "Death/Self-Justification (Suicide)",
+      "niet_s1": "Stoicism (Noble but Godless)",
+      "niet_s2": "The 'Final Exit' as already accomplished"
+    },
+    "beweging_in_preek": "From the shock of S2 (Suicide) to the critique of ~S1 (Stoicism) to the resolution in S1 (Baptismal Life).",
+    "theologische_resolutie": "The tension is resolved by redefining death: for the baptized, the 'final exit' has already happened in Christ, making suicide a redundant 'self-justification'.",
+    "ernst_van_s2": "Extremely high; death is seen as a rival dominion."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places the agency of salvation and the definition of life in God's hands. Human action (yielding) is a response to a prior divine act (baptism/resurrection).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Call to intentionality",
+        "tekstueel_bewijs": "We Christians therefore need to become much more intentional about what we believe",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as active Subject of salvation",
+        "tekstueel_bewijs": "One who despairs of life can only be helped by the saving deed of another.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Death has no more dominion over him.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Mary V. is not presented as a moral hero to imitate, but as a witness to the 'Master's' presence.",
+      "bijbelse_figuren_als_model": [
+        "Mary",
+        "Martha",
+        "Lazarus"
+      ],
+      "alternatieve_lezing": "The characters in Mary V.'s story are recipients of Jesus' presence and power, not examples of moral effort."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of self-justification; comfort in the face of death.",
+      "theologische_implicatie": "Soteriology is monergistic (God's work) while ethics is the 'yielding' of the rescued."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The sermon masterfully integrates the cultural crisis (suicide), the theological text (Romans 6), and the personal narrative (Mary V.).",
+      "spanning_punten": [
+        "The tension between the 'heroic' Stoic suicide and the 'surrender' of the Christian."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Death has no more dominion over him.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit bestows the 'Pouvoir' (power/courage) that the Law cannot."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is seen as 'lack of faith' and 'self-justification'—a refusal to be a creature."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by God's victory over death. The human subject is the beneficiary of a 'final exit' already performed by Christ.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain this balance; it is the essence of the Gospel.",
+      "concrete_suggestie": "Continue to contrast the 'must' of the law with the 'can' of the Spirit."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Death is already treated as a cosmic enemy.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Baptism) → Ethics (Yielding)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a profound example of grace-oriented homiletics, using the Actantial Model to displace the human ego as the hero of the story."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the shock value of the bookstore window, Greimasian analysis reveals that the 'window' is a manifestation of the Opponent (Self-Justification).",
+    "verschil_met_exegese": "Exegesis explains Romans 6; semiotics shows how the sermon makes the hearer a 'Receiver' of the action described in Romans 6.",
+    "unieke_inzichten_greimas": "Reveals that the 'Stoic' and the 'Christian' are not just two different opinions, but two different actantial structures: one where Man is Subject/Sender, and one where God is Subject/Sender."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (reserved)",
+      "Christ (raised)",
+      "Spirit (bestows)",
+      "Death (dominion)",
+      "We (yield)"
+    ],
+    "volledige_object_lijst": [
+      "Life",
+      "Exit",
+      "Self-justification",
+      "New Spirit"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "die": {
+        "count": 12,
+        "primair_subject": "Christ/Man"
+      },
+      "yield": {
+        "count": 3,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses Rutledge's rule effectively by making God the subject of the most critical verbs (save, help, lead, reserve)."
+  }
+}

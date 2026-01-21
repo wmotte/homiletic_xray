@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "titel_preek": "Lachen und Essen – Das christliche Abendmahl",
+    "bijbeltekst": "1 Korinther 11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Mahlgemeinschaft auf der Basis der Familien",
+          "die Kirche sei für sie alle ein Stück Heimat",
+          "Teilhabe am Leibe Christi"
+        ],
+        "conceptuele_metafoor": "CHURCH IS A FAMILY/HOME"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "Schuldenfalle",
+          "Zins und Zinseszins",
+          "Vergib uns unsere Schuld, so wie wir vergeben unsern Schuldnern"
+        ],
+        "conceptuele_metafoor": "SIN IS DEBT / JUSTICE IS DEBT CANCELATION"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Akt des Teilens, ohne den es kein Heilen gibt",
+          "Heilung der Welt",
+          "Gott ereignet sich da, wo Teilen und Heilen geschieht"
+        ],
+        "conceptuele_metafoor": "SALVATION IS HEALING"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Zerstört den Leib Christi",
+        "brondomein": {
+          "naam": "Body",
+          "concrete_elementen": [
+            "limbs",
+            "organic unity",
+            "physical health",
+            "vulnerability"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Ecclesiology",
+          "doctrinale_traditie": "Pauline/Ecumenical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Physical injury",
+            "doel_element": "Social injustice/exclusion"
+          },
+          {
+            "bron_element": "Organic health",
+            "doel_element": "Communal solidarity"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "If one part suffers, the whole entity is sick."
+          ],
+          "theologische_implicaties": [
+            "The church is not an organization but a living organism."
+          ],
+          "ethische_implicaties": [
+            "Excluding the poor is a physical assault on Christ."
+          ],
+          "onbedoelde_consequenties": [
+            "Could imply that 'unhealthy' members should be excised."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preachers revitalize the 'Body of Christ' by linking it to specific physical acts like eating and political acts like debt relief."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The sermon masterfully bridges the gap between the physical act of eating (Source) and the abstract concept of justice (Target) through the 'Body' metaphor.",
+      "incoherentie_punten": [],
+      "succesvolle_blending": [
+        {
+          "locatie": "Section 5",
+          "gemengde_metaforen": [
+            "Economic Debt",
+            "Eucharistic Body"
+          ],
+          "blending_strategie": "The 'Lord's Prayer' serves as the bridge, where financial debt and spiritual guilt are treated as a single reality of 'un-freedom'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the dead metaphor of 'unworthy' communion by grounding it in the concrete social exclusion of Corinthian harbor workers.",
+        "voorbeeld": "Die Reichen... müssen zu Hause bleiben. Da können sie essen, was sie wollen."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By focusing heavily on 'healing' and 'joy', the transcendent/judgmental aspect of the divine might be lost.",
+        "voorbeeld": "Gott ereignet sich da, wo Teilen und Heilen geschieht.",
+        "potentiele_impact": "God becomes a function of human social action rather than a sovereign being.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A shared table where diverse people (refugees, homeless, LGBTQ+) eat together.",
+      "sub_worlds": [
+        "Ancient Corinthian harbor life",
+        "Silicon Valley/Palo Alto industrial toxicity",
+        "The 'Debt Trap' of a baby in Mozambique"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Section 2",
+          "van_wereld": "Modern Palo Alto",
+          "naar_wereld": "1st Century Corinth",
+          "effectiviteit": "Excellent; creates a 'historical mirror' for the congregation."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Justice as Solidarity",
+          "hoe_versterkt": "By linking the Eucharist to the 'Jubilee Year' and debt cancellation."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Sacrament as Individual Piety",
+          "verstoring_strategie": "Emphasizing that 'unworthy' eating is a social sin, not a private moral failing.",
+          "vervangend_schema": "Sacrament as Political Act"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly challenges the 'quiet/solemn' liturgy in favor of a 'joyful/noisy' meal."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'TABLE' and 'BODY' domains. It successfully moves from the concrete (eating/hunger) to the abstract (global justice/ecclesiology). The economic domain is used effectively to de-spiritualize the concept of 'sin' into 'debt/injustice'.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Eucharist as Sacrifice",
+        "huidige_status": "Under-emphasized in favor of 'Joyful Meal'.",
+        "suggestie": "Connect the 'broken bread' more deeply to the 'broken bodies' of the workers in Palo Alto East.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The bread we break is the dust of the silicon chips in the lungs of the workers."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The tension between 'God's Law' (Gottesrecht) and 'State Law'.",
+        "resolutie_strategie": "Use the 'Two Kingdoms' or 'Alternative Citizenship' metaphor to clarify the believer's role in 'City Hall'."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "CHURCH IS A HOSPITAL/HEALING",
+        "problematisch_entailment": "If the church is only for healing, what happens to the healthy?",
+        "aanbeveling": "Balance with the 'LABORATORY' or 'WORKSHOP' metaphor used earlier ('da wurde experimentiert')."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To bridge the gap between the 'Silicon Valley' technology and the 'Bread from the Earth' blessing.",
+        "doel_concept": "Creation Care"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A brilliant example of cognitive homiletics that uses 'Living Metaphors' to dismantle toxic religious schemas."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of just praising the 'beauty' of the meal, CMT shows how the meal re-maps the hearer's understanding of global economics.",
+    "verschil_met_kolb": "Moves beyond 'experience' into the cognitive structures of how 'Debt' and 'Grace' are mapped in the brain.",
+    "unieke_inzichten_CMT": "Reveals that the 'unworthy' (unwürdig) schema was a 'Dead Metaphor' causing psychological harm, which the preachers 're-live' through social mapping."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Leib Christi",
+      "Schuldenfalle",
+      "Heimat",
+      "Wüste blüht",
+      "Dünne Wand zwischen uns",
+      "Schule der Gerechtigkeit"
+    ],
+    "woord_frequentie_analyse": {
+      "Essen": "18",
+      "Gerechtigkeit": "12",
+      "Gemeinschaft": "15",
+      "Schulden": "9",
+      "Teilen": "10"
+    },
+    "notities": "The dialogue format between Sölle and Schottroff mirrors the 'Blending' of theory and practice."
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "The Condemned Man",
+    "bijbeltekst": "Romans 7:21–8:6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in the human courtroom of condemnation to reverse the verdict of 'Guilty' through the substitutionary death of Christ, moving the human from a state of 'death' to 'life'.",
+      "subject": {
+        "identificatie": "God / Jesus Christ",
+        "tekstueel_bewijs": [
+          "The verdict has been dramatically reversed by the only one who has the power to reverse it",
+          "Jesus gave himself up to death",
+          "He himself became 'The Judge Judged in Our Place'",
+          "He 'set us free from the law of sin and death'"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Acquittal / Freedom from Condemnation",
+        "tekstueel_bewijs": [
+          "There is now no condemnation",
+          "acquittal and life for all men"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The True Father / God",
+        "tekstueel_bewijs": [
+          "the answer that has been revealed to him by the true Father of us all"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Wretched Man / The Hearer",
+        "tekstueel_bewijs": [
+          "every single one of us is in the same group",
+          "set us free"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Spirit / The Law of the Spirit of Life",
+        "tekstueel_bewijs": [
+          "through Christ Jesus the law of the Spirit of life has set me free"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "The Law of Sin and Death / The Accusing Mother/Father",
+        "tekstueel_bewijs": [
+          "the law of sin and death",
+          "the terror of being undone by our parents",
+          "the message of the cut"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is described as an 'inexorable activity' like gravity, making it impossible for the human subject to overcome it alone."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The transformed life (Sanctification) where the believer lives according to the Spirit rather than the sinful nature.",
+      "subject": "The Believer (empowered by Christ)",
+      "object": "Transformation / Patience / Freedom from anger",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher explicitly states that God does not just guarantee innocence to let us go back to old ways; the acquittal (Program 1) enables the transformation (Program 2)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Acquittal → The Wretched Human",
+      "helper_subject_tegenstander": "The Spirit → Christ ← Law of Sin and Death",
+      "subject_naar_object": "Christ → Justification/Freedom"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 28,
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "Jesus gave himself up to death",
+        "God has not pronounced the verdict... solely in order to let us go back",
+        "He has brought us into the new sphere"
+      ],
+      "voorbeelden_mens_subject": [
+        "We can no more free ourselves",
+        "I can will the good, but I cannot do it",
+        "Dorothy... was now praying to the Lord"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "every human being has a perfect conception of what kind of character he should have"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "I can will the good, but I cannot do it"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "the knowledge that we are 'not good enough'"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "the only one who has the power to reverse it",
+          "gift of power",
+          "new sphere of power"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the total lack of human power (impotence) and the gift of divine power (competence) through Christ and the Spirit."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "No Condemnation (Grace)",
+      "s2": "Condemnation (Death)",
+      "niet_s1": "The Law (Judgment)",
+      "niet_s2": "Acquittal (Life)"
+    },
+    "beweging_in_preek": "Starts at S2 (Guilty!), moves to ~S1 (The Law's demand), then through Christ to ~S2 (Acquittal) and finally S1 (No Condemnation).",
+    "theologische_resolutie": "The tension is resolved by the 'Judge Judged in our place'—Christ absorbs S2 to grant S1.",
+    "ernst_van_s2": "Extremely high; the sermon uses psychological and cosmic imagery to establish the weight of guilt."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is a textbook example of grace-oriented homiletics. It identifies the human as an incompetent subject and God/Christ as the active Subject of salvation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in the 'Dorothy' story",
+        "tekstueel_bewijs": "She was now praying to the Lord to help her be more patient",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (Christ for the Wretched Man)",
+        "tekstueel_bewijs": "The Judge Judged in Our Place",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "inexorable activity... like the law of gravity",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (Paul) are used as examples of shared human misery and need, not as moral heroes to emulate.",
+      "bijbelse_figuren_als_model": [
+        "St. Paul (as the 'Wretched Man')"
+      ],
+      "alternatieve_lezing": "The sermon already treats Paul theocentrically."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief, gratitude, and a sense of being 'set free'.",
+      "theologische_implicatie": "Monergistic justification followed by synergistic sanctification."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The sermon perfectly integrates the psychological experience of guilt with the theological reality of the Atonement.",
+      "spanning_punten": [
+        "The tension between 'no condemnation' and the 'expectation to change' is handled via the 'new sphere' of the Spirit."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "he himself became 'The Judge Judged in Our Place'",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of 'Pouvoir-faire' (Power to do) where the human had only 'Vouloir' (Will)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total; compared to physical laws and inescapable parental dynamics."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is powered by God's action. The human is correctly positioned as the 'Wretched Man' who receives the 'Object' (Acquittal) from the 'Sender' (God) through the 'Subject' (Christ).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Power), which is appropriate for this text.",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (Sin/Death/Parental Judgment) is already sufficiently intensified.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Justification) → Ethics (Sanctification)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in maintaining God as the Subject of the active verbs while addressing deep human psychological needs."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the effective use of the 'New Yorker' cartoon, semiotics reveals that the cartoon functions as an 'Opponent' actant that only God can defeat.",
+    "verschil_met_exegese": "Exegesis explains Romans 8; semiotics shows how the sermon 're-stages' the courtroom of Romans 8 for the 1984 listener.",
+    "unieke_inzichten_greimas": "Greimas's model exposes that the 'power' of the sermon comes from the 'Subject-Switch'—the hearer is relieved of the burden of being the Subject of their own salvation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (reversed)",
+      "Jesus (gave himself)",
+      "Jesus (became)",
+      "Jesus (submitted)",
+      "Spirit (set free)",
+      "Paul (cried out)",
+      "We (cannot do)"
+    ],
+    "volledige_object_lijst": [
+      "Acquittal",
+      "No condemnation",
+      "Freedom",
+      "Transformation"
+    ],
+    "werkwoord_frequentie": {
+      "reverse": {
+        "count": 2,
+        "primair_subject": "God"
+      },
+      "set free": {
+        "count": 4,
+        "primair_subject": "God/Spirit"
+      },
+      "judge": {
+        "count": 6,
+        "primair_subject": "Man/God"
+      }
+    },
+    "notities": "The sermon uses secular literature (Camus, Conrad) to establish the 'Opponent' and 'Lack' before introducing the Divine Subject."
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "titel_preek": "Climbing Jacob's Ladder",
+    "bijbeltekst": "Genesis 28:10-22 (Implicitly through the spiritual)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A historical and sociological reflection on the African American experience, slavery, the Civil War, and the role of the Black Church in community building and identity formation.",
+      "exegetische_kwaliteit": "Low. The biblical text is used as a motif/metaphor rather than through direct exegesis. The focus is on historical narrative and social ethics.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts historical facts and social necessities, while occasionally testifying to personal memories.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "I say all of that... to remind you that the people who came out of that experience established little one-room churches.",
+        "Each of our churches must decide what it will do to redeem that particular community."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To instill a sense of historical pride, communal responsibility, and resilience in the face of social struggle.",
+      "pneumatologisch_bewustzijn": "Moderate. The preacher explicitly mentions the 'mystery of the Holy Spirit' in the context of 'slave glossolalia'.",
+      "perlocutionaire_werkwoorden": [
+        "remember",
+        "organize",
+        "persevere",
+        "identify"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "75%",
+      "voorbeelden": [
+        "Six hundred thousand lives were lost in the Civil War.",
+        "I was born fifty-five years after slavery.",
+        "Society is held together by those who carry on resistance."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "were",
+        "said",
+        "estimated"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "6%",
+      "voorbeelden": [
+        "African Americans ought never to forget...",
+        "Every black congregation... ought to develop a fund.",
+        "Keep on climbing."
+      ],
+      "dominante_werkwoorden": [
+        "ought",
+        "must",
+        "keep"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 18,
+      "procent": "10%",
+      "voorbeelden": [
+        "It is heart-rending to reflect upon...",
+        "I wish you could have known some of them.",
+        "I don't want to romanticize."
+      ],
+      "dominante_werkwoorden": [
+        "wish",
+        "reflect",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "2%",
+      "voorbeelden": [
+        "We gonna make it (quoted from spiritual)."
+      ],
+      "dominante_werkwoorden": [
+        "going to"
+      ],
+      "kwaliteit": "Weak. The promises are largely found in the quoted songs of the ancestors rather than the direct address of the preacher."
+    },
+    "declaratieven": {
+      "frequentie": 0,
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "The preacher speaks as a historian/witness but does not perform sacramental acts of declaration (e.g., absolution)."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical statistics (artificial limbs, state budgets).",
+        "Third-person descriptions of slave life.",
+        "Sociological analysis of Malcolm X vs. King."
+      ],
+      "effect_op_hoorder": "The hearer is informed and inspired by history but remains an observer of a past event rather than a participant in a present divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct promise of God's grace to the present listener.",
+        "Declarative word of forgiveness or empowerment.",
+        "Present-tense address of God's action."
+      ],
+      "effect_op_hoorder": "The hearer may feel the weight of historical 'oughts' without the 'is' of divine gift."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent in the preacher's own voice; only present in the quoted spirituals.",
+      "voorbeelden": [
+        "None from the preacher."
+      ],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 24,
+        "gebruik": "Personal reminiscence and subjective conviction ('I know', 'I remember')."
+      },
+      "tweede_persoon": {
+        "frequentie": 8,
+        "gebruik": "Used to address the collective 'you' regarding historical knowledge or local responsibility.",
+        "performatieve_context": "Low. Used mostly for 'I wish you could have known'."
+      },
+      "derde_persoon": {
+        "frequentie": 110,
+        "gebruik": "Dominant. Talking about 'slaves', 'Americans', 'churches', 'Frederick Douglass'.",
+        "distantie_effect": "High. Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "70%",
+        "gebruik": "Historical narrative of slavery and the Civil War."
+      },
+      "tijdloos_present": {
+        "frequentie": "20%",
+        "gebruik": "General truths about society and capitalism."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Occasional calls to local action."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History/Sociology) -> Directive (We must act locally).",
+      "voorbeelden": [
+        "The ex-slaves started grocery stores... Every black congregation ought to develop a fund."
+      ],
+      "probleem": "The imperative (action) is based on historical example rather than a present divine promise (commissive)."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the declarative/commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Because slaves were resilient (Indicative), we must build funds (Imperative)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a historical lecture with a moral application. It 'talks about' God and faith but does not 'speak from' God to the people.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Power",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The description of slave children being fed from a trough.",
+        "effect": "High emotional resonance and vivid imagery."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The entire section on community funds.",
+        "probleem": "Moralism without the foundation of a divine promise.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a historical event being remembered, but the sermon itself is not a sacramental event where God acts upon the hearer.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher acts as a historian/witness, not as a mandatory of the living Word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the slaves' faith, not the subject speaking through the preacher.",
+      "prediker_als_mandataris": "Weak. The preacher speaks as a community leader/historian.",
+      "tekstueel_bewijs": [
+        "I am convinced that the day of the dramatic... utterance is gone."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, but relegated to the past ('mystery of the Holy Spirit at work' in the slave gallery).",
+      "perlocutie_theologie": "The preacher acknowledges the Spirit's role in 'midair' but doesn't invoke it for the present moment.",
+      "tekstueel_bewijs": [
+        "It was the mystery of the Holy Spirit at work."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a means of social mobilization and historical remembrance.",
+      "epifanisch_taalgebruik": "No. The language is descriptive and analytical.",
+      "tekstueel_bewijs": [
+        "In a capitalist society, the only secret is that 'money makes money'."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is drowning in past-tense assertives. It needs a shift to present-tense commissives and declaratives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The glue that held the slaves together was their vision of who they were... in Jesus Christ.",
+          "voorgestelde_revisie": "Today, Jesus Christ declares to you: you are not defined by your struggle, but by My love.",
+          "verschil": "Shifts from a historical observation to a present-tense identity-shaping declaration."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise of 'making it' is only quoted from a song.",
+      "suggestie": "Directly promise the presence of Christ in the local struggle.",
+      "voorbeeldzinnen": [
+        "Christ promises to be the ladder you climb today."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' and 'them'.",
+      "suggestie": "Use 'you' to bridge the gap between the slave experience and the current congregation.",
+      "voorbeeldzinnen": [
+        "This same Christ who redeemed them is redeeming you now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'ought' of community work is not fueled by the 'is' of grace.",
+      "suggestie": "Base the call to community action on the declarative fact of the congregation's status in Christ."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically brilliant and historically vital, but homiletically 'stuck' in the past. To become an 'event,' it must move from talking about the slaves' faith to performing the Word of God for the living."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his memories). SAT reveals that despite the emotional appeal, the 'Creative Word' (Declarative) is missing.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is a 10/10. SAT reveals that its illocutionary force is almost entirely assertive, making it a lecture rather than a proclamation.",
+    "unieke_inzichten_SAT": "SAT exposes that the 'glossolalia' the preacher admires in the past is exactly what is missing in his own present-tense illocution: the performative 'Toezegging'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "said",
+        "is",
+        "was",
+        "were",
+        "lost",
+        "spent",
+        "contemplated",
+        "born",
+        "knew",
+        "estimated"
+      ],
+      "directief": [
+        "ought",
+        "must",
+        "decide",
+        "keep"
+      ],
+      "expressief": [
+        "wish",
+        "reflect",
+        "loathing",
+        "admiration"
+      ],
+      "commissief": [
+        "gonna"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Six hundred thousand lives were lost in the Civil War.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Fact-stating",
+        "effectiviteit": "Informative"
+      },
+      {
+        "zin": "Keep on climbing, we gonna make it.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "Promising (Quoted)",
+        "effectiviteit": "High (but borrowed authority)"
+      }
+    ],
+    "notities": "The sermon is a masterpiece of 'talking about' (constative) but lacks the 'event' character of 'proclaiming to' (performative)."
+  }
+}

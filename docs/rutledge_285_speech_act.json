@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "titel_preek": "Rules of the Freedom Game",
+    "bijbeltekst": "Exodus 20 (The Decalogue) / Galatians 2:16",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A historical and theological exploration of the Ten Commandments as a 'charter of freedom' rather than legalism. Uses personal anecdotes (Virginia upbringing) and contemporary examples (Andrew Young) to illustrate the Law's protective nature.",
+      "exegetische_kwaliteit": "Moderate. Focuses on the 'tonality' of the Law and the distinction between Law and Gospel, though it relies heavily on secondary commentators (Harrelson, Bonhoeffer) rather than direct textual exegesis.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting truths about the nature of the Law and explaining its function in the Christian life.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The gospel of Jesus Christ is not a rule of law.",
+        "The Decalogue is the revelation of the will of God.",
+        "I am apparently incapable of shoplifting."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To change the hearer's perspective on the Commandments from 'burden' to 'privilege' and to encourage a sense of freedom within boundaries.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the word's effect, though 'grace' is frequently cited.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "appreciate",
+        "reconsider",
+        "feel free",
+        "rejoice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The Ten Commandments have been in the news lately.",
+        "There is a difference between the Law and the Gospel.",
+        "God is not sentimentally permissive."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "says",
+        "thinks"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Let no one think...",
+        "Let us go forth to play the game with joy."
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "go",
+        "play"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "10%",
+      "voorbeelden": [
+        "I think it would be safe to say...",
+        "I have often thought of the heavy cost...",
+        "I found many more writings..."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "feel",
+        "found"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "God wants to protect us.",
+        "God is the one who has given us a place of grace."
+      ],
+      "dominante_werkwoorden": [
+        "wants",
+        "given"
+      ],
+      "kwaliteit": "Weak. The promises are mostly described as general theological facts (Assertive) rather than direct addresses to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "3%",
+      "voorbeelden": [
+        "Amen.",
+        "Lord, have mercy upon us (liturgical citation)."
+      ],
+      "dominante_werkwoorden": [
+        "amen"
+      ],
+      "autoriteit": "Low. The preacher acts as a teacher/essayist rather than a mandatory declaring God's present action."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive quoting of scholars (Harrelson, Bonhoeffer, Lehmann).",
+        "Lengthy personal anecdotes about shoplifting and Virginia heritage.",
+        "Third-person descriptions of 'the children of Israel' and 'Christian soldiers'."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a lecture on ethics rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Information about grace is provided, but grace is not 'given' through the speech act itself."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "Non-existent as a direct illocutionary act.",
+      "voorbeelden": [
+        "N/A"
+      ],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "High. Used for personal storytelling and scholarly reflection ('I think', 'I grew up')."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Low. Mostly used in hypothetical scenarios or quoting the Decalogue ('Thou shalt').",
+        "performatieve_context": "Minimal."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant. Talking about 'the church', 'the children of Israel', 'Andrew Young', and 'God'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where God is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and personal biography."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General theological truths and definitions of Law/Gospel."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Limited to the 'Amen' and the final call to 'go forth'."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon moves from Assertive (explanation of Law) to Directive (go play the game) without a central Declarative/Commissive bridge.",
+      "voorbeelden": [
+        "Explanation of freedom -> Let us go forth."
+      ],
+      "probleem": "The 'freedom' remains a concept explained rather than a reality bestowed."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the 'Toezegging' (Promise).",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Knowing the rules, let us go forth."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-quality theological essay or 'teaching' on the Decalogue. It successfully reframes the Law intellectually but fails to perform a sacramental act of proclamation.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Clarity",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The gospel of Jesus Christ is not a rule of law.",
+        "effect": "Clears away legalistic misconceptions."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "LOCUTION",
+        "tekstueel_bewijs": "I grew up in an old-line Virginia family...",
+        "probleem": "Too much focus on the preacher's biography (Expressive) rather than the hearer's situation.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a 'talk about' God and Law, not an 'event' where God speaks to the congregation.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not use his mandate to bind God to the hearer through a promise."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the sentences, not the speaker of the sermon.",
+      "prediker_als_mandataris": "Weak. The preacher acts as a commentator or witness, not a herald.",
+      "tekstueel_bewijs": [
+        "I began to understand...",
+        "I have tried to think of a way to illustrate..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly assumes that understanding the concept will lead to the effect.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, it is treated as a means of instruction.",
+      "epifanisch_taalgebruik": "No.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is overwhelmed by 'to be', 'to think', and 'to mean'. It needs 'to give', 'to forgive', and 'to promise'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Gospel is not like that at all. The righteousness based on faith is free and joyous.",
+          "voorgestelde_revisie": "Today, Christ gives you this righteousness. You are free; you are joyous because He has claimed you.",
+          "verschil": "Shifts from a description of a concept to a bestowal of a gift."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace of God is discussed in the third person.",
+      "suggestie": "Insert a direct promise based on the Decalogue's prologue.",
+      "voorbeeldzinnen": [
+        "Because God has brought you out of bondage, I declare to you: you are free from the need to prove yourself."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'They' (Israel/Andrew Young).",
+      "suggestie": "Use 'You' to bring the Law and Gospel into the pews.",
+      "voorbeeldzinnen": [
+        "God wants to protect *your* marriage; He offers *you* a charter of freedom."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'let us go' at the end is a weak imperative not directly tied to a preceding performative promise.",
+      "suggestie": "Base the 'playing of the game' on the 'absolution' of the failures mentioned."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and theologically sound in its 'Assertives', but it requires a shift toward 'Commissives' and 'Declaratives' to become a truly sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'Self-Revelation' (the Virginia stories). SAT reveals that these stories actually weaken the 'Illocutionary Force' by centering the human 'I' instead of the Divine 'I'.",
+    "verschil_met_retoriek": "Rhetorically, the shoplifting story is a good 'ethos' builder, but in SAT, it is a 'Constative' that fails to perform the Gospel.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Amen', the sermon never actually 'does' what it 'talks about' (bestowing freedom)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "reported",
+        "means",
+        "describes",
+        "declines",
+        "is not",
+        "calls"
+      ],
+      "directief": [
+        "let",
+        "go",
+        "play",
+        "read"
+      ],
+      "expressieven": [
+        "think",
+        "understand",
+        "found",
+        "misunderstand",
+        "mean"
+      ],
+      "commissief": [
+        "wants to protect",
+        "gave his son"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The gospel of Jesus Christ is not a rule of law.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Constative",
+        "effectiviteit": "High for teaching, low for encounter."
+      },
+      {
+        "zin": "I am apparently incapable of shoplifting.",
+        "categorie": "EXPRESSIVE/ASSERTIVE",
+        "illocutionaire_kracht": "Self-description",
+        "effectiviteit": "Distracting from the divine address."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' the Gospel (Constative) rather than 'proclaiming' the Gospel (Performative)."
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "titel_preek": "Farewell To A Friend",
+    "bijbeltekst": "Ecclesiastes 12:5",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A funeral eulogy for Marshall Shepard, detailing his character, career, and personal relationships.",
+      "exegetische_kwaliteit": "Minimal; the biblical text is used as a poetic descriptor of mortality rather than a source for theological exposition.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily commemorating and testifying to the life of the deceased, with a shift toward personal address and hope at the end.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I have come to express his denomination's immense sense of loss",
+        "Marshall Shepard was my friend",
+        "I know where Shep is"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Comforting the bereaved and honoring the memory of the deceased.",
+      "pneumatologisch_bewustzijn": "Low; the focus is on human friendship and memory rather than the Spirit's current work.",
+      "perlocutionaire_werkwoorden": [
+        "mourn",
+        "remember",
+        "hope",
+        "honor"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 42,
+      "procent": "75%",
+      "voorbeelden": [
+        "He was the jolliest of companions",
+        "He went about doing good",
+        "He had an intrepid courage"
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "met",
+        "traveled",
+        "knew"
+      ]
+    },
+    "directieven": {
+      "frequentie": 2,
+      "procent": "3%",
+      "voorbeelden": [
+        "Old Partner, wait awhile",
+        "Watch for my arrival"
+      ],
+      "dominante_werkwoorden": [
+        "wait",
+        "watch"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 8,
+      "procent": "12%",
+      "voorbeelden": [
+        "I come to weep and mourn",
+        "He loved this church"
+      ],
+      "dominante_werkwoorden": [
+        "mourn",
+        "love",
+        "thank"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 1,
+      "procent": "2%",
+      "voorbeelden": [
+        "we'll sit at a welcome table and talk"
+      ],
+      "dominante_werkwoorden": [
+        "will sit"
+      ],
+      "kwaliteit": "Weak; framed as a personal hope rather than a divine promise."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "3%",
+      "voorbeelden": [
+        "I come to witness his passing into the fullness of his inheritance"
+      ],
+      "dominante_werkwoorden": [
+        "witness"
+      ],
+      "autoriteit": "Moderate; based on the speaker's role as 'titular head' and 'fellow pastor'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive biographical narrative",
+        "Third-person descriptions of past events",
+        "Focus on 'who he was' rather than 'what God is doing now'"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a biography rather than a participant in a divine event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct proclamation of the Gospel to the living",
+        "Divine promise (Toezegging)"
+      ],
+      "effect_op_hoorder": "Nostalgia replaces eschatological encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "There is no direct 'Toezegging' of grace from God to the hearer.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 18,
+        "gebruik": "The 'I' of the preacher as a friend and witness."
+      },
+      "tweede_persoon": {
+        "frequentie": 12,
+        "gebruik": "Direct address to the family and the deceased.",
+        "performatieve_context": "Used for personal tribute, not for delivering a divine word."
+      },
+      "derde_persoon": {
+        "frequentie": 35,
+        "gebruik": "Describing Marshall Shepard's life and virtues.",
+        "distantie_effect": "Creates a historical distance; the subject is 'back then'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "70%",
+        "gebruik": "Dominates the narrative (biography)."
+      },
+      "tijdloos_present": {
+        "frequentie": "20%",
+        "gebruik": "General descriptions of character."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The closing vision of heaven."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Biography) -> Expressive (Grief). It lacks the move to a Declarative/Commissive act from God.",
+      "voorbeelden": [
+        "Marshall Shepard was my friend... I come to weep."
+      ],
+      "probleem": "The sermon stays within the horizontal plane of human relationship."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Absent"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The closing 'wait awhile' is an imperative to a dead man, not a gospel-founded imperative for the living."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon is a powerful human testimony and eulogy, but homiletically it functions as a 'talking about' the deceased rather than a 'proclaiming of' the Word.",
+    "sterke_punten": [
+      {
+        "aspect": "Direct Address",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Cille, dear wife, you were the fiber and muscle of his soul.",
+        "effect": "Creates deep emotional intimacy and recognition."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Marshall Shepard was my friend... He went about doing good.",
+        "probleem": "The sermon is 3rd person past tense, making it a lecture on a life rather than an event of grace.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a social event of mourning, but not a sacramental event of the Word because the illocutionary force is descriptive, not creative.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "God is almost entirely absent as an active speaker or promiser."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; the preacher is the primary speaker.",
+      "prediker_als_mandataris": "Partial; he speaks as 'titular head' but not explicitly as God's mouth.",
+      "tekstueel_bewijs": [
+        "I have come to express his denomination's sense of loss."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly relies on human emotion rather than the Spirit's work through the Word.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the sermon is a tribute.",
+      "epifanisch_taalgebruik": "Low; the 'light' comes from the deceased's character, not the Gospel.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The text is saturated with past-tense 'to be' and 'to do' verbs regarding the deceased. It needs present-tense 'to promise' and 'to declare' verbs regarding Christ.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "I know where Shep is.",
+          "voorgestelde_revisie": "Because Christ is risen, I declare to you that Marshall lives in Him.",
+          "verschil": "Shifts from a personal opinion (Assertive) to a sacramental declaration (Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The hope of heaven is described as a place, not promised as a gift from God to the hearers.",
+      "suggestie": "Incorporate a Commissive act where God promises the same 'inheritance' to the grieving.",
+      "voorbeeldzinnen": [
+        "God promises you today: death is not the end."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'you' is used for the family, but the 'you' of the congregation is ignored.",
+      "suggestie": "Address the congregation with the implications of the Gospel.",
+      "voorbeeldzinnen": [
+        "Do you see this hope? It is for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The only imperatives are directed at the deceased.",
+      "suggestie": "Base an imperative for the living on the indicative of Christ's victory."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A deeply moving tribute that succeeds as a eulogy but requires a shift from constative biography to performative proclamation to function as a sacramental sermon."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Relationship' ear (friendship), but SAT reveals the lack of 'Appeal' (Directive) and 'Self-Revelation' (Declarative) from God's side.",
+    "verschil_met_retoriek": "Rhetorically excellent (pathos), but SAT shows it lacks the illocutionary force of a divine act.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the emotional power, the preacher is 'talking about' God and Marshall rather than 'doing' something with God's Word."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "met",
+        "traveled",
+        "knew",
+        "merited",
+        "said",
+        "kept",
+        "went",
+        "talked"
+      ],
+      "directief": [
+        "wait",
+        "watch"
+      ],
+      "expressief": [
+        "weep",
+        "mourn",
+        "loved",
+        "thank"
+      ],
+      "commissief": [
+        "will sit"
+      ],
+      "declaratief": [
+        "witness"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Marshall Shepard was my friend.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Establishing a fact.",
+        "effectiviteit": "High for ethos, low for sacramental event."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the biography of the saint overshadows the proclamation of the Savior."
+  }
+}

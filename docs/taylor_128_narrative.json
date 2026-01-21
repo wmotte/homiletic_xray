@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "Laodicea, Part II: Lukewarmness Rejected",
+    "bijbeltekst": "Revelation 3:14-22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The believer must overcome spiritual indifference (lukewarmness) by choosing to take a stand in a cosmic/social battle and performing deeds of justice to secure eternal life.",
+      "subject": {
+        "identificatie": "The Hearer (The 'I' or 'We')",
+        "tekstueel_bewijs": [
+          "You and I can do some things.",
+          "How can I avoid this lukewarmness?",
+          "The Lord needs people to come on out and take a stand."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Spiritual Enthusiasm / Eternal Life / Social Justice",
+        "tekstueel_bewijs": [
+          "Your eternal destiny is to be decided by your attitude and your care and your deeds.",
+          "How can I get my enthusiasm?"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Lord as Judge/Counselor",
+        "tekstueel_bewijs": [
+          "He said he will divide the sheep from the goats. How? By deeds.",
+          "I counsel thee to buy of me gold."
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The Poor",
+        "tekstueel_bewijs": [
+          "Inasmuch as you have done it unto one of the least of these... ye have done it unto me."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Spiritual disciplines (Worship, Prayer, Meditation)",
+        "tekstueel_bewijs": [
+          "Be in divine worship... Pray often, meditate."
+        ],
+        "rol_van_god": "God is a merchant/helper whom the Subject 'does business' with.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Indifference / Prosperity / Lukewarmness",
+        "tekstueel_bewijs": [
+          "The problem is indifference. Nobody cares.",
+          "Prosperity was a problem also."
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily a psychological state or a social condition (poverty/racism) that the subject must choose to engage."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's cosmic war to win back the world.",
+      "subject": "The Lord",
+      "object": "The World / Acknowledgment of Sovereignty",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon mentions God's war but immediately pivots to the hearer's need to 'take a stand' as the decisive factor."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Judge → Eternal Life → The Obedient Hearer",
+      "helper_subject_tegenstander": "Worship/Prayer → The Hearer ← Indifference/Wealth",
+      "subject_naar_object": "The Hearer → Social Justice/Enthusiasm"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "42",
+      "ratio": "0.33",
+      "voorbeelden_god_subject": [
+        "The Lord is calling for people.",
+        "I will spew thee out of my mouth."
+      ],
+      "voorbeelden_mens_subject": [
+        "You can make telephone calls.",
+        "You must decide within your own mind.",
+        "How can I avoid this lukewarmness?"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "The Lord needs people to come on out and take a stand.",
+          "We ought not believe that they represent the beginning or end."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Where do you stand?",
+          "Nobody wants to get involved."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "You may not know it... there is a great fight going on."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "You and I can do some things."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir). It assumes the hearer has the power (Pouvoir) to change their state if they simply choose (Vouloir) to do so."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Enthusiasm/Action",
+      "s2": "Lukewarmness/Indifference",
+      "niet_s1": "Neutrality",
+      "niet_s2": "Taking a Stand"
+    },
+    "beweging_in_preek": "Moves from S2 (Lukewarmness) to ~S2 (Taking a stand) through the exercise of the will.",
+    "theologische_resolutie": "Resolution is found in human effort and 'doing business' with Jesus to acquire the necessary virtues.",
+    "ernst_van_s2": "S2 is treated as a moral failure of the will rather than a state of spiritual death requiring resurrection."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon functions on a 'quid pro quo' basis. Eternal destiny is explicitly tied to human deeds and the quality of one's 'enthusiasm.' God is the Judge and Merchant, but the Hearer is the primary Actor.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Salvation",
+        "tekstueel_bewijs": "Your eternal destiny is to be decided by your attitude and your care and your deeds.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Do business with the Lord if you want enthusiasm.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christ's Death",
+        "tekstueel_bewijs": "Christ did not just die for the world, he died for 'whosoever'.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Secular and biblical figures are used as models of the 'will' and 'standing up.'",
+      "bijbelse_figuren_als_model": [
+        "Luther ('Here I stand')",
+        "The 'Sheep' in Matthew 25"
+      ],
+      "alternatieve_lezing": "Instead of 'Be like the sheep,' the sermon could focus on 'Christ is the Shepherd who finds the lost sheep who have no power to save themselves.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; anxiety regarding the 'one vote' or 'one deed' that decides destiny.",
+      "theologische_implicatie": "Synergism bordering on Pelagianism."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The transition from social justice (civil rights) to personal piety (prayer/meditation) is rhetorically smooth but actantially disjointed.",
+      "spanning_punten": [
+        "The 'brutal war' of God vs. the 'doing business' with God as a merchant."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Our purpose at church should be to be alert and to be sensitized to what we ought to be.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer must 'buy' their own competence through disciplines."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'indifference' or 'not getting involved' rather than an ontological condition."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon casts the hearer as the Subject who must overcome the Opponent (indifference) to reach the Object (salvation/justice). God is relegated to the role of Helper or Judge.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of almost all active verbs regarding salvation.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who 'buys' the believer, rather than the believer 'buying' from Christ.",
+      "voorbeeld_revisie": "Instead of 'Buy of me gold,' use 'Christ has refined you in the fire of His own suffering to make you His treasure.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'one vote' that wins the war.",
+      "voorgestelde_identificatie": "Hearer as the 'blind and naked' one who is clothed by another.",
+      "strategie": "Emphasize the 'knowest not that thou art wretched' part of the text as the human condition, and Christ's intervention as the only solution."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God's Power)",
+      "concrete_suggestie": "Focus on how the Spirit grants the 'Pouvoir' (ability) to love the neighbor, which the hearer lacks."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Indifference is treated as a choice.",
+      "voorgestelde_intensivering": "Present lukewarmness as a terminal spiritual death that only a miracle can fix.",
+      "theologische_rationale": "To move from moral advice to Gospel proclamation."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Matthew 25) is making the Soteriology conditional.",
+      "voorgestelde_structuur": "Soteriology (Christ's work) → Ethics (Our response)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The passion for justice is commendable, but the structural engine of the sermon places the burden of salvation on the hearer's 'enthusiasm' rather than Christ's finished work."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the vivid metaphors (mosquitoes, football); Greimas reveals these metaphors serve a 'works-righteousness' structure.",
+    "verschil_met_exegese": "Exegesis might focus on the historical Laodicea; semiotics shows how the preacher re-actualizes the 'Subject' role for the modern hearer.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'doing business with Jesus' is actantially a commercial exchange, not a relationship of grace."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We are all for enthusiasm",
+      "The Lord rejects",
+      "You will have to decide",
+      "You can make telephone calls",
+      "He will divide"
+    ],
+    "volledige_object_lijst": [
+      "Enthusiasm",
+      "Gold tried in fire",
+      "Eternal destiny",
+      "Human rights"
+    ],
+    "werkwoord_frequentie": {
+      "stand": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "do": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "decide": {
+        "count": "3",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses the language of 'The Lord needs' which fundamentally shifts the Devoir from man to God, making God the lacking Subject and man the Helper."
+  }
+}

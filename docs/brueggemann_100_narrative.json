@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "Choking the Word",
+    "bijbeltekst": "Genesis 25 (Esau/Jacob), Psalm 119, Matthew 13 (Sower), Romans 8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human hearer is presented with a binary choice between immediate worldly satiation and long-term spiritual abundance, requiring a decision to 'choose otherwise' to avoid a life of death.",
+      "subject": {
+        "identificatie": "The Hearer / 'We'",
+        "tekstueel_bewijs": [
+          "we also can be in the process of making choices",
+          "We can choose otherwise",
+          "The church is a body of people who are to be intentional"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Abundance / Neighborly Future / Life",
+        "tekstueel_bewijs": [
+          "another kind of abundance",
+          "a neighborly future",
+          "long-term benefit"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Preacher / The Tradition",
+        "tekstueel_bewijs": [
+          "The tradition blames Esau",
+          "The summons of the poetry is",
+          "I judge, an acute one among us"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The Neighborhood",
+        "tekstueel_bewijs": [
+          "brings common abundance and well-being",
+          "our life belongs with the neighbors"
+        ],
+        "positie_hoorder": "SUBJECT_HERO"
+      },
+      "helper": {
+        "identificatie": "Torah / The Spirit (as a passive resource)",
+        "tekstueel_bewijs": [
+          "reading, studying, pondering, and keeping Torah is the source of life",
+          "a life received from God’s generosity"
+        ],
+        "rol_van_god": "INSTRUMENTAL",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Cares of the world / Lure of wealth / Briers",
+        "tekstueel_bewijs": [
+          "the cares of the world and lure of wealth choke the word",
+          "systemic greed"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as consumerism and social pressure—forces that can be overcome by 'intentional' choosing and 'understanding'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God/Jesus sowing the seed.",
+      "subject": "Jesus/God",
+      "object": "The Word/Seed",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon explicitly sidelines the Sower's action ('the primary concern... is not the sower or the seed, but the soil') to focus on the human subject's capacity to manage their own 'soil'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Tradition/Preacher → Abundance → The Intentional Church",
+      "helper_subject_tegenstander": "Torah/Spirit → The Hearer ← Consumerism/Greed",
+      "subject_naar_object": "The Hearer → Choosing the Neighborly Future"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 48,
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "Jesus, as God’s sower, is the one who offers the seed",
+        "God puts in front of us"
+      ],
+      "voorbeelden_mens_subject": [
+        "we also can be in the process of making choices",
+        "We can choose otherwise",
+        "The ones who hear and understand... are blessed"
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "The church is a body of people who are to be intentional",
+          "we ought to be"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "choose immediacy",
+          "willingness to give up long-term advantage",
+          "we want to be noticed"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "people who know, to the contrary, that our life belongs with the neighbors",
+          "the ones who hear and understand"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "the capacity of the soil to receive",
+          "we cannot breathe any more"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It assumes the hearer has the 'Pouvoir' (power) if they can only be persuaded to 'Vouloir' (will) the right choice."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Abundance/Spirit",
+      "s2": "Death/Flesh",
+      "niet_s1": "Briers/Greed",
+      "niet_s2": "Intentional Choosing"
+    },
+    "beweging_in_preek": "From S2 (Esau's hunger) to ~S2 (Jacob's shrewdness/Intentionality) to S1 (Abundance).",
+    "theologische_resolutie": "Resolution is achieved through human agency ('We can choose otherwise').",
+    "ernst_van_s2": "Moderate; death is a consequence of bad choices rather than an inescapable condition."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using biblical vocabulary, the engine of the sermon is the human will. God is the provider of options, but the Hearer is the decisive Subject of the salvation/transformation process.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "The ones who hear and understand... are blessed with abundance.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Anthropocentric Subject",
+        "tekstueel_bewijs": "We can choose otherwise, toward a neighborly future.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Gift Language",
+        "tekstueel_bewijs": "a life received from God’s generosity",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Esau and Jacob are used as archetypes of 'bad' and 'good' choosers.",
+      "bijbelse_figuren_als_model": [
+        "Esau",
+        "Jacob",
+        "The Sower (marginalized)"
+      ],
+      "alternatieve_lezing": "Jacob is not a 'shrewd' hero but a recipient of a promise he didn't deserve; God is the one who keeps the birthright for the unworthy."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; anxiety about whether one's 'soil' is currently 'brier-occupied'.",
+      "theologische_implicatie": "Pelagianism; salvation/abundance is a result of human receptivity."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "Highly coherent as a moral exhortation, but theologically incoherent regarding the Sower parable's focus on the seed's power.",
+      "spanning_punten": [
+        "The Spirit is mentioned as 'dwelling', but the sermon ends on 'We can choose'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The choice... is to choose immediacy... or to choose an alternative life.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is a 'life received' but functions as a synonym for 'gratitude' rather than an active agent."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'stupidity' or 'lack of receptivity' rather than a 'Heavy Opponent' like Death or the Devil."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Law' sermon where the Hearer is the Subject and God is the Object/Helper. The narrative engine is the human choice.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one who must 'un-choke' the word.",
+      "voorgestelde_herpositionering": "Make the Word/Seed the Subject that breaks through the briers.",
+      "voorbeeld_revisie": "The Word of God is so powerful that it breaks through our briers and creates the soil it needs."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Good Soil' or 'Shrewd Jacob'.",
+      "voorgestelde_identificatie": "Hearer as the 'Dead Soil' or 'Hungry Esau' who is rescued.",
+      "strategie": "Emphasize that we are all Esau, and God is the one who gives the birthright anyway."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominant Devoir/Vouloir (Must/Want).",
+      "voorgestelde_balans": "Increase Pouvoir (God's Power).",
+      "concrete_suggestie": "Focus on how God *enables* the choice rather than just *demanding* it."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Briers are social pressures.",
+      "voorgestelde_intensivering": "Sin as a power that we *cannot* choose our way out of.",
+      "theologische_rationale": "If the opponent is just 'consumerism', we don't need a Savior, just a better lifestyle coach."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has swallowed Soteriology (Program 1).",
+      "voorgestelde_structuur": "1. God saves the un-receptive (Grace). 2. Therefore, we are freed from greed (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically strong and socially relevant, but structurally moralistic. It places the burden of the 'neighborly future' entirely on the hearer's ability to choose wisely."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a brilliant call to social justice. Actantially, it is a Pelagian mandate.",
+    "verschil_met_exegese": "Exegesis of Matthew 13 usually highlights the Sower's prodigality; this analysis shows the sermon shifts focus to the soil's 'capacity'.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite mentioning 'God's generosity', God never actually *does* anything in the active verbs of the sermon's climax."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We make choices",
+      "Esau gives up",
+      "Jacob counts",
+      "The Psalm celebrates",
+      "Jesus offers",
+      "We can choose"
+    ],
+    "volledige_object_lijst": [
+      "Birthright",
+      "Abundance",
+      "Neighborly future",
+      "Immediate satiation"
+    ],
+    "werkwoord_frequentie": {
+      "choose": {
+        "count": 8,
+        "primair_subject": "Man"
+      },
+      "choke": {
+        "count": 5,
+        "primair_subject": "Briers"
+      },
+      "give": {
+        "count": 3,
+        "primair_subject": "God/Man"
+      }
+    },
+    "notities": "The sermon uses 'The Tradition' as a Sender, which distances the mandate from a personal God and makes it a historical/communal obligation."
+  }
+}

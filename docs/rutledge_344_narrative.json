@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "The Hour of Glory",
+    "bijbeltekst": "Various passages from the Gospel of John",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Christ, as the Lamb of God and Victorious Son, enters the domain of Sin and Death to take away the world's sin and liberate humanity from bondage.",
+      "subject": {
+        "identificatie": "Jesus Christ / The Son of God",
+        "tekstueel_bewijs": [
+          "He who has been without sin all his life is about to enter its prison-house.",
+          "Jesus will cast out the ruler of this world by entering his domain of Death.",
+          "He and he alone has its key."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Deliverance from bondage and the glorification of the Father",
+        "tekstueel_bewijs": [
+          "to take away the sin of the world",
+          "to give eternal life to all whom thou hast given him"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "thou hast given him power over all flesh",
+          "The Father's purpose is consummated."
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "All humanity / The 'Dearly Beloved'",
+        "tekstueel_bewijs": [
+          "Christ our Passover is sacrificed for us",
+          "to give eternal life to all whom thou hast given him"
+        ],
+        "positie_hoorder": "The hearer identifies as the Receiver (the one being washed/freed)."
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / Biblical Witnesses",
+        "tekstueel_bewijs": [
+          "shown to the church by the Holy Spirit what he says",
+          "reaffirm our trust in the Biblical witnesses"
+        ],
+        "rol_van_god": "God (as Son) is the Subject; God (as Spirit) is the Helper.",
+        "rol_van_geest": "Indwelling power that confirms the truth of the narrative."
+      },
+      "tegenstander": {
+        "identificatie": "The Ruler of this World (Satan), Sin, and Death",
+        "tekstueel_bewijs": [
+          "the ruler of this world be cast out",
+          "evil intelligence determined on its own supremacy"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not a psychological flaw but an 'evil intelligence' and a 'domain' that requires a divine invasion."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's response of belief and abiding in the love of Christ.",
+      "subject": "The Hearer / 'You'",
+      "object": "Abiding in love / Believing",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The hearer's action (believing) is a response to the completed work of Christ (It is finished)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Father → Salvation/Life → Humanity",
+      "helper_subject_tegenstander": "Holy Spirit → Christ ← Satan/Death",
+      "subject_naar_object": "Christ → Taking away the sin of the world"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "The Son makes you free.",
+        "He carries our sin to the Cross.",
+        "Jesus will cast out the ruler of this world."
+      ],
+      "voorbeelden_mens_subject": [
+        "We have come together to reaffirm our trust.",
+        "Take him into your heart.",
+        "I crucified thee."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "There is something that needs to be said."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Take him into your heart.",
+          "Abide in his love."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "These are written that you may believe.",
+          "That you may know the only true God."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "He gives power to become children of God.",
+          "If the Son makes you free, you will be free indeed.",
+          "Thou hast given him power over all flesh."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) of Christ to act where humans are 'slaves' (lacking power). Grace is presented as a transfer of competence."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Glory/Life",
+      "s2": "Judgment/Death",
+      "niet_s1": "Bondage/Sin",
+      "niet_s2": "Freedom/Forgiveness"
+    },
+    "beweging_in_preek": "The sermon moves from the hearer's complicity in S2 (I crucified thee) to Christ taking S2 upon himself, thereby moving the hearer from ~S1 (Bondage) to S1 (Life).",
+    "theologische_resolutie": "Christ resolves the tension by entering the domain of S2 to exhaust its power, making S1 available to the Receiver.",
+    "ernst_van_s2": "High. Death is treated as a 'domain' and a 'prison-house', not just a metaphor."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. God (in Christ) is the primary actant. Human action is consistently framed as a response to a prior, finished divine action.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Imperative at the end",
+        "tekstueel_bewijs": "Take him into your heart and your life.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "The Son makes you free.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "The ruler of this world be cast out.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (John the Baptist, the disciples) are witnesses or receivers, not models for imitation.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sermon already treats biblical figures as witnesses to Christ's unique work."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and assurance; the burden is shifted from the hearer to Christ.",
+      "theologische_implicatie": "Monergistic salvation where the human role is 'abiding' in what is already 'finished'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'I' who crucifies to the 'I' who is freed is perfectly mediated by Christ as the Subject who takes the burden.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "A real contest for lordship... victory over all evil.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Savoir' (knowing/trusting) the truth of the event."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; sin is a 'prison house' and 'bondage' that humans cannot escape alone."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is powered by Christ's agency. The hearer is positioned as a beneficiary of a cosmic victory.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Divine Power).",
+      "voorgestelde_balans": "Maintain current balance as it fits the Good Friday context.",
+      "concrete_suggestie": "The sermon successfully avoids the 'Devoir' (Must) trap."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly identified as the Devil/Ruler of this world.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ's work) strictly precedes and enables the secondary program (Believing/Abiding)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in grace-oriented preaching. It maintains God as the Subject of the active verbs and treats the Cross as a finished cosmic victory rather than a moral example."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric might focus on the emotional appeal of the 'I crucified thee' hymn, semiotics reveals that this 'I' is immediately replaced by Christ as the active Subject who carries that 'I's' burden.",
+    "verschil_met_exegese": "Exegesis explains John's use of 'the Jews'; semiotics shows how the preacher reassigns the actantial role of 'Opponent' from a specific ethnic group to 'all humanity' and then to 'Satan'.",
+    "unieke_inzichten_greimas": "Greimas's model exposes that the 'freedom' mentioned is not a human 'Vouloir' (choice) but a 'Pouvoir' (power) granted by an external Subject (the Son)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus takes away the sin",
+      "The Son makes you free",
+      "He stooped to me",
+      "He carries our sin",
+      "The Father has given power",
+      "Jesus reigns"
+    ],
+    "volledige_object_lijst": [
+      "The sin of the world",
+      "Eternal life",
+      "The ruler of this world (as object of casting out)",
+      "New human community"
+    ],
+    "werkwoord_frequentie": {
+      "makes free": {
+        "count": "3",
+        "primair_subject": "God"
+      },
+      "gives": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "crucified": {
+        "count": "2",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon utilizes the 'Subject-Switch' technique where the human speaker of the Psalm is replaced by Christ, making Christ the Subject of even the human cry of misery."
+  }
+}

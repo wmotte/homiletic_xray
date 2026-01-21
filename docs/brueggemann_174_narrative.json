@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Getting Your Sibilants Right: The Evangelical Shibboleth",
+    "bijbeltekst": "Judges 12:1-6; 1 Corinthians 1:18-31; 2 Corinthians 8:9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The church (Subject) must learn to correctly pronounce/practice the 'shibboleth' of the gospel—foolishness, weakness, and poverty—to distinguish itself from the deathly wisdom of the world and find life in Christ.",
+      "subject": {
+        "identificatie": "The Church / The Preacher / The Hearer",
+        "tekstueel_bewijs": [
+          "we have such a shibboleth that is known to insiders",
+          "We are called to live right in the midst of that contradiction",
+          "we embrace a metric other than that imposed upon us by the world"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The 'Correct Sibilant' (Evangelical Foolishness, Weakness, Poverty)",
+        "tekstueel_bewijs": [
+          "the true sibilant of the weakness of God",
+          "the faithful evangelical shibboleth"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Paul / The Gospel Tradition",
+        "tekstueel_bewijs": [
+          "Paul... gives us what is surely the most eloquent and authoritative presentation of our tribal code"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Neighborhood",
+        "tekstueel_bewijs": [
+          "to offer an alternative to the deathly way of the world",
+          "It is about the neighborhood"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "God / Christ / Exemplars (Mother Teresa, MLK, Pope Francis)",
+        "tekstueel_bewijs": [
+          "Jesus is an agent of such self-giving",
+          "He [God] is the source of our life in Christ Jesus"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Worldly Wisdom, Power, and Wealth",
+        "tekstueel_bewijs": [
+          "the dominant way of wisdom, power, and wealth",
+          "prudence, privilege, and parsimony"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as a 'deathly way' of social and economic organization that the church mistakenly imitates."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "God (Subject) chooses the foolish and weak (Object) to shame the wise (Opponent).",
+      "subject": "God",
+      "object": "The Church/The Lowly",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon oscillates between God choosing us (Soteriology) and us needing to pronounce the sibilant correctly (Ethics), often making the latter the condition for the former."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Paul/Gospel → Correct Sibilant → The World",
+      "helper_subject_tegenstander": "Christ/Exemplars → The Church ← Worldly Wisdom",
+      "subject_naar_object": "The Church → Correct Pronunciation/Practice"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "38",
+      "ratio": "0.36",
+      "voorbeelden_god_subject": [
+        "God chose what is foolish",
+        "He [God] is the source of our life",
+        "God has highly exalted him"
+      ],
+      "voorbeelden_mens_subject": [
+        "we have such a shibboleth",
+        "we tone down, we compromise",
+        "we embrace a metric",
+        "we can [pronounce it]... and we do!"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we are designated to lead",
+          "We are called to live",
+          "assignment is not for the sake of wisdom"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we bear them gladly"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "know and trust and believe and practice",
+          "get it right",
+          "ignorant of gospel truth"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "But we can . . . and we do!"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "The sermon assumes that 'knowing' the correct code (Savoir) and recognizing the 'call' (Devoir) enables the 'doing'. It is a gnostic-moralistic structure where correct linguistic/ideological alignment is the primary task."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Gospel Foolishness (Shibboleth)",
+      "s2": "Worldly Wisdom (Sibboleth)",
+      "niet_s1": "Prudence/Compromise",
+      "niet_s2": "Naive Vulnerability"
+    },
+    "beweging_in_preek": "From S2 (Worldly Wisdom) to Niet-S1 (Compromise) to S1 (The correct sibilant).",
+    "theologische_resolutie": "The tension is resolved by the Subject (the church) deciding to adopt the correct 'metric'.",
+    "ernst_van_s2": "Moderate; it is seen as a 'mess' but not as a total ontological death requiring a Savior-Subject."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Despite the high-frequency use of 'gospel' and 'Christ', the actantial subject is the Church. The 'Shibboleth' is treated as a tribal code we must get right to avoid the fate of the Ephraimites.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Identity",
+        "tekstueel_bewijs": "In order to trust their identity... they had to get the sibilant right.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumental Christology",
+        "tekstueel_bewijs": "Jesus is an agent of such self-giving... who could not possibly cut any ice in the real world.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Theocentric Source",
+        "tekstueel_bewijs": "He [God] is the source of our life in Christ Jesus",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Mother Teresa, MLK, and Pope Francis are used as 'all-stars' who successfully pronounced the sibilant.",
+      "bijbelse_figuren_als_model": [
+        "Paul",
+        "Jephthah (as negative/positive warning)"
+      ],
+      "alternatieve_lezing": "Christ is the only one who pronounced the Shibboleth perfectly on our behalf when we said 'Sibboleth'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform the 'correct' dialect of foolishness.",
+      "theologische_implicatie": "Salvation by correct ideological and ethical alignment."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The sermon struggles to reconcile the 'God chose us' (Passive) with 'We can and do get it right' (Active).",
+      "spanning_punten": [
+        "The Ephraimites were killed for failing; the preacher says 'we can' do what they couldn't."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Jesus is an agent of such self-giving... a totem for the truth.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The preacher assumes the hearer already has the 'Pouvoir' (ability) if they just have the 'Savoir' (knowledge)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is mispronouncing the gospel or being 'prudent' rather than 'foolish'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'linguistic law'. The gospel is reduced to a 'code' the church must master.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The church is the subject of 'getting it right'.",
+      "voorgestelde_herpositionering": "Christ as the Subject who speaks the Shibboleth for us.",
+      "voorbeeld_revisie": "Instead of 'We can pronounce it', use 'Christ pronounced the shibboleth of the cross when we were silent in our sin'."
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the successful Gileadite.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 42,000 who failed, and Christ as the one who saves the failures."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Savoir/Devoir",
+      "voorgestelde_balans": "Pouvoir (Grace as empowerment)",
+      "concrete_suggestie": "Focus on how the Spirit enables the foolishness that we cannot manufacture."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Worldly wisdom is a 'mess'.",
+      "voorgestelde_intensivering": "Death and the 'accuser' who uses the law (the test) to execute us.",
+      "theologische_rationale": "Without a lethal opponent, grace is just a 'better metric' rather than a rescue."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (the sibilant) precedes and conditions identity.",
+      "voorgestelde_structuur": "God's choice (Program 1) creates the new dialect (Program 2)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The rhetorical brilliance masks a deep structure of performance. Shift the 'active verbs' to God to move from a 'tribal code' to a 'living Gospel'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is masterful in its use of metaphor; semiotically, it is a legalistic mandate.",
+    "verschil_met_exegese": "Exegesis identifies the 'shibboleth' context, but semiotics reveals the preacher is using the text to impose a new linguistic law.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'foolishness' has become a 'work' (Object) that the Subject (Church) must perform to be 'insiders'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We have a dialect",
+      "Paul scolds",
+      "God chose",
+      "We appeal to a business model",
+      "We can [say it]... and we do"
+    ],
+    "volledige_object_lijst": [
+      "The right sibilant",
+      "Evangelical foolishness",
+      "Tribal code"
+    ],
+    "werkwoord_frequentie": {
+      "know": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "choose": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "pronounce/say": {
+        "count": "8",
+        "primair_subject": "Man"
+      }
+    },
+    "notnotes": "The sermon ends on a note of human capability ('we can... and we do'), which directly contradicts the 'weakness' it claims to champion."
+  }
+}

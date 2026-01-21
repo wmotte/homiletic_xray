@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "The Beautiful People",
+    "bijbeltekst": "John 17:22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The transformation of humanity from 'repulsive' and 'insecure' actors into 'beautiful people' through the bestowal of divine glory by Jesus Christ.",
+      "subject": {
+        "identificatie": "Jesus Christ / The Lord",
+        "tekstueel_bewijs": [
+          "the Lord can grant us his beauty",
+          "the glory which thou gavest me I have given them",
+          "Christ gives to us his glory",
+          "He sets us down at his table"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Divine Glory / Beauty / Communion with God",
+        "tekstueel_bewijs": [
+          "the divine character shedding its brilliant glow",
+          "the luminous, warm, bright blessedness of the divine person",
+          "spiritual privilege"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "the glory which thou gavest me",
+          "address his Father in heaven"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Believers / 'The People of Jesus'",
+        "tekstueel_bewijs": [
+          "I have given them",
+          "becomes ours by the gift of Jesus",
+          "we are beautiful in that spiritual privilege"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Prayer / The Word of Jesus",
+        "tekstueel_bewijs": [
+          "His was a constant communion with God",
+          "The word of Jesus previously cited haunts us still"
+        ],
+        "rol_van_god": "God is the Subject and the Source",
+        "rol_van_geest": "Implicit as the 'climate' of communion"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and the Illusion of Self-Sufficiency",
+        "tekstueel_bewijs": [
+          "Sin soils and sours our lives",
+          "death delivers the final, fatal blow",
+          "the illusion abroad that life can be made beautiful by the common sense of men"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not merely bad habits but ontological realities (Sin, Death) that humans cannot overcome alone."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human attempt to achieve beauty through wealth, power, or self-improvement (The 'Invictus' program).",
+      "subject": "The 'Idle Rich' / Power Brokers / The Self-Reliant Man",
+      "object": "Status, Appearance, Control",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "This program is presented as a failed precursor or a false alternative that leads to 'repulsiveness' rather than beauty."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God the Father → Divine Glory → The Believers",
+      "helper_subject_tegenstander": "Prayer/Communion → Jesus Christ ← Sin/Death/Self-Reliance",
+      "subject_naar_object": "Jesus Christ → Bestowal of Glory"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "the Lord can grant us his beauty",
+        "Christ has taken us in",
+        "He has made us princes and princesses"
+      ],
+      "voorbeelden_mens_subject": [
+        "we can all make ourselves better people",
+        "they are likely to be sniffing cocaine",
+        "we shall walk through the fire"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "We ought to have particular times set apart"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "wish that we could scamper hither and yon"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "When will we learn to differ intensely"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we cannot make ourselves beautiful",
+          "the Lord can grant us his beauty",
+          "We shall be able to turn back every enemy"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes human 'non-pouvoir' (inability) in contrast to the divine 'pouvoir' (power) granted as a gift."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Divine Glory (Beauty)",
+      "s2": "Sin/Death (Ugliness)",
+      "niet_s1": "Self-Made Appearance (Vanity)",
+      "niet_s2": "Pity/Compassion (Grace-state)"
+    },
+    "beweging_in_preek": "From ~S1 (the false beauty of the rich) to S2 (the reality of sin/death), then through the compassion of Jesus to S1 (true beauty).",
+    "theologische_resolutie": "Resolution is found in the 'gift' (Transmission) from Christ to the believer, bypassing human effort.",
+    "ernst_van_s2": "High; sin and death are described as 'final, fatal blows' that humans cannot escape."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon begins with social commentary, it pivots to a radical theocentricity where beauty is an ontological gift from Christ, not a moral achievement.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exhortation to 'stay close'",
+        "tekstueel_bewijs": "Stay close to him in sunshine and storm.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (God as Actor)",
+        "tekstueel_bewijs": "Christ gives to us his glory. He makes us joint heirs.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Total Human Inability",
+        "tekstueel_bewijs": "While we can all make ourselves better people, we cannot make ourselves beautiful people.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (Jesus) are not presented as examples to mimic by effort, but as the source of the climate believers are 'taken into'.",
+      "bijbelse_figuren_als_model": [
+        "Jesus (as the source, not just example)"
+      ],
+      "alternatieve_lezing": "N/A"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the 'desperate, losing battle' of self-creation; assurance.",
+      "theologische_implicatie": "Monergistic sanctification (God is the one who makes the person beautiful)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'ugly' reality of the world to the 'glory' of Christ is logically and narratively tight.",
+      "spanning_punten": [
+        "The tension between 'we cannot make ourselves beautiful' and the later exhortation to 'commune with him all of the time'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "Jesus moved in a climate full of the presence of God... The beautiful people are those who have been led by Jesus to live in God.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The 'glory' acts as the endowment of competence (Pouvoir-faire)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; described as a 'trap of the spirit' and 'repulsive'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God/Christ as the Subject of the primary narrative program. The hearer is positioned as the Receiver of a gift (Glory) rather than the Subject of a task.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The middle section on 'minority leaders' briefly shifts the hearer into a 'Judge' role.",
+      "voorgestelde_identificatie": "Maintain the 'Sheep without a shepherd' identification.",
+      "strategie": "Ensure the social critique always resolves back into the shared human 'lack' that only the Subject (Christ) fills."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Power/Ability).",
+      "voorgestelde_balans": "Slightly more Savoir (How to live in the glory).",
+      "concrete_suggestie": "Briefly expand on how the 'glory' practically manifests in the 'dull routine' mentioned."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Sin, Death, and the Devil are implied/stated).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ gives glory) correctly precedes and enables Ethics (We walk in peace)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in theocentric preaching that uses social observation to highlight a deep ontological need only met by the divine Subject."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the 'Beautiful People' metaphor; Greimas shows that the metaphor's power comes from the Subject-switch from Man to Christ.",
+    "verschil_met_exegese": "Exegesis explains John 17; semiotics explains how the 'Glory' functions as a modal competence (Pouvoir) for the hearer.",
+    "unieke_inzichten_greimas": "Reveals that the sermon's 'engine' is the Axis of Transmission (Sender to Receiver), making it a pure Grace narrative."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (gave)",
+      "The Lord (can grant)",
+      "Sin (soils)",
+      "Christ (has taken us in)",
+      "He (empties his blessing)"
+    ],
+    "volledige_object_lijst": [
+      "Glory",
+      "Beauty",
+      "Communion",
+      "Royal Robe"
+    ],
+    "werkwoord_frequentie": {
+      "give": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "make": {
+        "count": "8",
+        "primair_subject": "God (in the context of beauty)"
+      }
+    },
+    "notities": "The sermon avoids the 'Exemplarism' trap by making Jesus' prayer life the 'climate' we are invited into, rather than a checklist to perform."
+  }
+}

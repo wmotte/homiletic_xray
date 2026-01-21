@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "A Rich Complexity of Indispensable Pronouns",
+    "bijbeltekst": "Psalm 23, John 10:11-18, Acts 4:5-12, 1 John 3:16-24",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God (as Shepherd/Jesus) acts to provide safety, restoration, and life to the human subject, who responds in gratitude and imitation.",
+      "subject": {
+        "identificatie": "God/Jesus (The Good Shepherd)",
+        "tekstueel_bewijs": [
+          "He-God—restores my soul",
+          "I lay down my life for the sheep",
+          "I have power to take it up again"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Life, safety, and restoration for the sheep/humanity",
+        "tekstueel_bewijs": [
+          "make another life possible for us",
+          "leads me in good paths",
+          "new life alongside those who lack power"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Father / The Gospel Narrative",
+        "tekstueel_bewijs": [
+          "I know the Father",
+          "resurrection by the power of God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'I' of the Psalmist / The 'We' of the Church",
+        "tekstueel_bewijs": [
+          "sealed as Christ’s own forever",
+          "done for me what I could not do for myself"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit (implied via 'Easter power') and the Apostles",
+        "tekstueel_bewijs": [
+          "Easter power for new life",
+          "the name of Jesus Christ of Nazareth"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "The Roman Empire, Death, and Social Hostility",
+        "tekstueel_bewijs": [
+          "predatory power of the Roman Empire",
+          "valley of the shadow of death",
+          "authorities who intended to lock people into their disabilities"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is identified as systemic evil (Empire) and ontological reality (Death), requiring a divine Subject to overcome."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Church (We) responds to God's action by performing 'Easters' for neighbors.",
+      "subject": "The Church / The Hearer",
+      "object": "Neighborly care and healing",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The 'We' program is explicitly presented as a 'function of the I of Jesus'. Ethics follows Soteriology."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Father → Life/Restoration → Humanity",
+      "helper_subject_tegenstander": "Easter Power → Jesus ← Roman Empire/Death",
+      "subject_naar_object": "Jesus → Laying down life → Salvation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "28",
+      "mens_als_subject_count": "14",
+      "ratio": "2:1",
+      "voorbeelden_god_subject": [
+        "He-God—leads me beside still waters",
+        "Jesus lays down his life",
+        "God raised him from the dead"
+      ],
+      "voorbeelden_mens_subject": [
+        "We receive whatever we ask",
+        "we ought to lay down our lives",
+        "we obey his commandments"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we ought to lay down our lives"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "willing to give my life over to God’s good keeping"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "review what we know about pronouns"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "I have power to take it up again",
+          "capacity to generate new life",
+          "lack power for life themselves"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) of the Resurrection which enables the Subject to act, rather than mere obligation (Devoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Easter Power / Life",
+      "s2": "Empire / Death",
+      "niet_s1": "Disability / Dependence",
+      "niet_s2": "Unauthorized Healing / Freedom"
+    },
+    "beweging_in_preek": "From the threat of S2 (Empire/Death) to the intervention of S1 (Jesus' self-giving), leading to the negation of ~S1 (healing the lame man).",
+    "theologische_resolutie": "The tension is resolved by Jesus' 'authority' to take up life again, which breaks the lock of the authorities.",
+    "ernst_van_s2": "High; the 'predatory power' of Rome is treated as a real, lethal force."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently maintains God/Jesus as the primary active Subject of the salvific verbs. Human action is framed as a secondary response to a prior divine endowment of power.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional obedience",
+        "tekstueel_bewijs": "We receive... because we obey",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Initiative",
+        "tekstueel_bewijs": "God has done for me what I could not do for myself",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Christocentric Agency",
+        "tekstueel_bewijs": "The true story of our lives has at its center the self-giving 'I' of Jesus",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (Peter/John) are shown as conduits of Jesus' power rather than heroes to be imitated by human effort.",
+      "bijbelse_figuren_als_model": [
+        "Peter",
+        "John"
+      ],
+      "alternatieve_lezing": "Theocentric: Peter redirects the gaze from 'we' to the 'Name of Jesus'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Gratitude and relief; moving from 'despair' or 'arrogance' to 'joyful leaping'.",
+      "theologische_implicatie": "Justification precedes Sanctification."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'I' of Jesus to the 'We' of the church is logically and theologically seamless.",
+      "spanning_punten": [
+        "The tension between 'receiving whatever we ask' and the 'ought' of laying down life."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Contradict the predatory power of the Roman Empire",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit (Easter power) provides the 'Pouvoir-faire' (ability) that the lame man and the church lack."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is seen as 'disability and dependence' enforced by 'predatory powers'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in maintaining theocentric actantial roles while moving toward ethical application.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Savoir (grammar metaphor)",
+      "voorgestelde_balans": "Maintain the current focus on Pouvoir (Power).",
+      "concrete_suggestie": "Ensure the 'ought' in the final section is always grounded in the 'can' provided by Jesus."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Empire/Death)",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (I of Jesus) → Ethics (We of Church)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "The use of grammatical pronouns as a semiotic scaffold effectively anchors the hearer in a grace-oriented reality where God is the primary Actor."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'pronoun' metaphor, Greimas analysis reveals that these pronouns actually function as actantial slots that prevent the hearer from usurping God's role.",
+    "verschil_met_exegese": "Exegesis explains the text; this analysis shows how the sermon's 'engine' generates a specific type of Christian identity (the Receiver).",
+    "unieke_inzichten_greimas": "Reveals that the 'We' section is not a new story, but a 'Secondary Program' dependent on the 'Fundamental Program' of Jesus' 'I'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (leads, restores, prepares)",
+      "Jesus (lays down, takes up, knows)",
+      "Peter/John (give, heal - via Jesus' name)",
+      "We (receive, obey, lay down life - via Jesus' example/power)"
+    ],
+    "volledige_object_lijst": [
+      "Still waters",
+      "Soul restoration",
+      "New life",
+      "Healing for the lame"
+    ],
+    "werkwoord_frequentie": {
+      "lay down": {
+        "count": "6",
+        "primair_subject": "God/Jesus"
+      },
+      "lead": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "heal": {
+        "count": "3",
+        "primair_subject": "Man (as instrument)"
+      }
+    },
+    "notities": "The sermon avoids the 'Helper' trap by making God the Subject of the primary action rather than a tool for human self-improvement."
+  }
+}

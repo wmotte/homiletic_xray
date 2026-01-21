@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "Orphans Come Home",
+    "bijbeltekst": "Isaiah 49:8–16a; Psalm 131; Matthew 6:33",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God, acting as a nursing mother and providing father, rescues humanity from the 'orphan' state of displacement and anxiety, restoring their identity as beloved children.",
+      "subject": {
+        "identificatie": "God (Mother/Father)",
+        "tekstueel_bewijs": [
+          "I am your mother God who is more reliable...",
+          "God remembers destroyed Jerusalem.",
+          "God will gather the family."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Restoration of Identity/Homecoming",
+        "tekstueel_bewijs": [
+          "remind you of your real family",
+          "brings them all home to well-being"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Poet/Preacher (as messenger of the Divine Mandate)",
+        "tekstueel_bewijs": [
+          "I am the one who gets to remind you",
+          "the poet comes at them with a word from God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearers (Displaced/Anxious people)",
+        "tekstueel_bewijs": [
+          "addressed to people in severe displacement",
+          "the disciples constitute a microcosm of an anxious world"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Table (Sacrament) and the Poet's Word",
+        "tekstueel_bewijs": [
+          "On offer here at this table",
+          "the poem in Isaiah (through which we have access)"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "Anxiety/Orphan-mentality",
+        "tekstueel_bewijs": [
+          "we begin to imagine that we are orphans",
+          "vicious cycles of orphanness"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is primarily a false self-perception (anxiety) rather than an ontological power like Sin or Death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The 'Covenant Mandate': The restored children act in the world to redistribute resources and free prisoners.",
+      "subject": "The Hearers (Sons and Daughters)",
+      "object": "Social Justice/Reconfigured Community",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon explicitly states that once the 'self issues' are handled by God's care, the hearer is free to act for others."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Restoration of Identity → The Hearer",
+      "helper_subject_tegenstander": "The Table → God ← Anxiety/Orphanhood",
+      "subject_naar_object": "God → Gathering the Family"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "God has written your name on my hand.",
+        "God will gather the family.",
+        "God remembers destroyed Jerusalem."
+      ],
+      "voorbeelden_mens_subject": [
+        "We begin to imagine that we are orphans.",
+        "We leverage and muscle and calculate.",
+        "We can quit acting like motherless people."
+      ],
+      "rutledge_score": "7"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "where we Episcopalians are not supposed to read the second line",
+          "the mandate of being a covenant goes like this"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "we begin to think only of ourselves",
+          "in the hope that our self-centered efforts will make us safe"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "I am the one who gets to remind you",
+          "Jesus addresses his disciples... he travels light"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "those who have been honored... are able to get their minds off themselves",
+          "free to think about others"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the endowment of power (Pouvoir). By being loved by God, the hearer gains the 'competence' to stop being anxious and start serving."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Beloved Child (Home)",
+      "s2": "Orphan (Displacement)",
+      "niet_s1": "Anxious Scavenger",
+      "niet_s2": "Covenant Actor"
+    },
+    "beweging_in_preek": "Moves from S2 (Exile) to ~S1 (Anxious hoarding) to S1 (God's nursing care) to ~S2 (Covenant action).",
+    "theologische_resolutie": "Resolution is found in the 'Table' where the identity of the child is reaffirmed, negating the orphan status.",
+    "ernst_van_s2": "Moderate; S2 is treated as a psychological state of 'feeling' forgotten rather than a judicial state of being lost."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon maintains God as the primary Subject of the restoration. Human action is presented as a consequence of being 'resourced' by God.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Mandate",
+        "tekstueel_bewijs": "unless we have some intentionality, we begin to think that we are alone.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "I am your mother God who is more reliable... I will not forget you.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Indicative precedes Imperative",
+        "tekstueel_bewijs": "those who have been honored... are able to get their minds off themselves.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Biblical figures (Isaiah's exiles, disciples) are used as mirrors for the hearer's condition, not as moral heroes to emulate.",
+      "bijbelse_figuren_als_model": [
+        "Disciples",
+        "Exiles"
+      ],
+      "alternatieve_lezing": "N/A"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief of anxiety; empowerment for social concern.",
+      "theologische_implicatie": "Soteriology of adoption and providence."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'Mother/Father God' (Soteriology) to the 'Covenant Mandate' (Ethics) is logically tight and grounded in the modal shift of 'Pouvoir'.",
+      "spanning_punten": [
+        "The tension between the 'unconditional' love of God and the 'intentionality' required to not feel like an orphan."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "We depart the table fully loved and sent back... to be a covenant.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon attributes the endowment of power to the 'Mother/Father' directly through the Word/Sacrament."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "PSYCHOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Sin is viewed as 'orphan-anxiety' leading to narcissism, rather than rebellion against a holy God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is structurally sound, placing God as the Subject of the primary narrative and the human as the Receiver who then becomes a secondary Subject of ethics.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Savoir (reminding).",
+      "voorgestelde_balans": "Increase Pouvoir (the Spirit's enabling).",
+      "concrete_suggestie": "Explicitly mention the Holy Spirit as the one who internalizes the 'Mother-love' of God."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Opponent is mostly 'anxiety'.",
+      "voorgestelde_intensivering": "Frame the 'orphan-spirit' not just as a feeling but as a cosmic lie or a spiritual bondage.",
+      "theologische_rationale": "To make the 'rescue' by the Mother/Father God feel more miraculous and less like a therapeutic shift."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Maintain current order: God's Care -> Human Freedom -> Social Action."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in theocentric narrative. It avoids moralism by making God's character the 'engine' that drives human ethical response."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Mother/Father' metaphors, Greimas analysis shows how these metaphors function as Actants that provide the 'Pouvoir' for the hearer's 'Performance'.",
+    "verschil_met_exegese": "Exegesis would focus on the historical context of Isaiah 49; this analysis focuses on the functional role the Isaiah text plays in the preacher's current narrative economy.",
+    "unieke_inzichten_greimas": "Reveals that the 'Mandate' (Ethics) is only possible because the Subject (God) has first transformed the Receiver (Hearer) into a competent secondary Subject."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "I (Preacher) remind",
+      "God (Subject) remembers",
+      "Mother (Subject) nurses",
+      "Jesus (Subject) addresses",
+      "We (Subject) leverage"
+    ],
+    "volledige_object_lijst": [
+      "Real family",
+      "Well-being",
+      "Social turf",
+      "Covenant"
+    ],
+    "werkwoord_frequentie": {
+      "remembers": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "anxious": {
+        "count": "6",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon successfully uses the 'Axis of Transmission' to move values from God to the community through the hearer."
+  }
+}

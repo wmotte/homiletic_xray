@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "titel_preek": "Judgment and Grace",
+    "bijbeltekst": "Romans 14:10, 2 Corinthians 5:10",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement of the human person from a state of false security or dread before the judgment seat to a state of justified peace through the intercession of Christ.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit / Christ",
+        "tekstueel_bewijs": [
+          "God began through him",
+          "God, who is rich in mercy... made us alive",
+          "God justifies",
+          "Christ Jesus... indeed intercedes for us"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Justification / Deliverance from condemnation",
+        "tekstueel_bewijs": [
+          "freely justified in Christ",
+          "news of our deliverance from every form of condemnation"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father (as Source of Truth and Judge)",
+        "tekstueel_bewijs": [
+          "judgment seat of God",
+          "Almighty God, to whom all hearts are open"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Congregation / The 'Wretched Defendant'",
+        "tekstueel_bewijs": [
+          "I am the defendant. You are the defendant.",
+          "help thy servants whom thou hast redeemed"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit (Advocate) and the Blood of Christ",
+        "tekstueel_bewijs": [
+          "The Holy Spirit is the defense attorney",
+          "testifies to the Blood of Christ"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Advocate/Paraclete)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin / The 'Old Man' / The Faceless Judges (Condemnation)",
+        "tekstueel_bewijs": [
+          "our sinful self... will be destroyed",
+          "faceless figures of condemnation"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not merely bad habits but the ontological reality of sin and the 'Old Man' facing divine holiness."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The Christian community presenting itself for judgment to become tools for God's work.",
+      "subject": "The Church / The Believer",
+      "object": "Purification for service",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics/service) is explicitly grounded in the primary program (justification)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Judge) → Justification → The Sinner",
+      "helper_subject_tegenstander": "Holy Spirit → God (Saviour) ← Sin/Death",
+      "subject_naar_object": "God → Reconciliation of the Sinner"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God began through him",
+        "God made us alive together with Christ",
+        "God justifies"
+      ],
+      "voorbeelden_mens_subject": [
+        "We must all appear",
+        "we don’t have as much shared history",
+        "we take upon ourselves a work"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "We must all appear before the judgment seat"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "the reason I wanted to work here"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "The Church knows something the world does not know"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "enabled to present right offerings",
+          "God will give the power of final judgment"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes God's power to justify and the Spirit's power to advocate, rather than human obligation."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Acquittal",
+      "s2": "Judgment/Condemnation",
+      "niet_s1": "Legalism/Self-Justification",
+      "niet_s2": "Impunity/Cheap Grace"
+    },
+    "beweging_in_preek": "Moves from S1 (early intoxication) to S2 (the reality of judgment), then rejects ~S2 (denial of judgment) to find the resolution where S1 encloses S2.",
+    "theologische_resolutie": "The judgment (S2) is not bypassed but 'enclosed in mercy' (S1) through the work of Christ.",
+    "ernst_van_s2": "High; judgment is described as a 'refiner's fire' and 'divine Surgeon'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon maintains God as the primary actor and places the human hearer in the position of the 'wretched defendant' who receives an external righteousness.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential for 'taking upon ourselves a work'",
+        "tekstueel_bewijs": "Now is the time to take upon ourselves a work in which we are the first to be given into judgment",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Justification",
+        "tekstueel_bewijs": "It is God who justifies; who is to condemn?",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Our sinful self... will be destroyed",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Biblical figures like Paul or the Prophets are used as witnesses to truth, not as moral models to imitate.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric focus remains on God's action through Christ."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and 'holy fear' leading to gratitude.",
+      "theologische_implicatie": "Monergistic justification."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The tension between 'no condemnation' and 'judgment seat' is resolved narratively through the image of the Advocate.",
+      "spanning_punten": [
+        "The transition from the 'rapture' of early grace to the 'daily business' of being God's people."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Christ Jesus, who died... who indeed intercedes for us",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir' (legal standing) that the human lacks."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; requires destruction of the 'old man'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a robustly theocentric narrative where God is the Subject of both judgment and mercy.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Devoir in the middle section.",
+      "voorgestelde_balans": "Maintain the current focus on Pouvoir (God's ability).",
+      "concrete_suggestie": "Ensure the 'work' the church takes on is clearly defined as a response to the Spirit."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Strongly defined as the 'Old Man' and 'Sinful Self'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Purification for service)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of maintaining the 'Grammar of Grace' while taking the 'Law' (Judgment) seriously."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis might focus on the Daumier painting as an illustration, Greimassian analysis reveals the painting functions as the 'Actantial shift' where the Advocate replaces the Subject's incompetence.",
+    "verschil_met_exegese": "Exegesis explains Romans 14; semiotics shows how the sermon makes the hearer 'inhabit' the role of the defendant.",
+    "unieke_inzichten_greimas": "Reveals that the 'wrath' of the congregation in 1981 was a narrative refusal to accept the 'Opponent' actant, which the preacher successfully reintroduces without losing the 'Object' of Grace."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (began)",
+      "Christ (died)",
+      "Spirit (testifies)",
+      "We (appear)",
+      "I (arrived)"
+    ],
+    "volledige_object_lijst": [
+      "Justification",
+      "Freedom",
+      "Judgment",
+      "Deliverance"
+    ],
+    "werkwoord_frequentie": {
+      "justify": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "judge": {
+        "count": "9",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon successfully avoids the 'Exemplarism' trap by focusing on the 'Divine Surgeon' rather than 'Human Self-Improvement'."
+  }
+}

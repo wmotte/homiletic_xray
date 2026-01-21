@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Enough God",
+    "bijbeltekst": "Mark 4:37–39",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from having 'fake' or 'half' gods (inadequate objects of worship) to finding 'enough God' in Jesus Christ, who possesses both the empathy of humanity and the power of divinity to save.",
+      "subject": {
+        "identificatie": "Jesus Christ (as the 'Enough God')",
+        "tekstueel_bewijs": [
+          "He arose, and rebuked the wind",
+          "He spoke peace to my troubled soul",
+          "He'll say to it, 'Peace, let the purchase of my blood pass through'"
+        ],
+        "frequentie_score": 7
+      },
+      "object": {
+        "identificatie": "Peace/Security/Salvation (The 'Enough' quality of God)",
+        "tekstueel_bewijs": [
+          "a God who can get low enough to reach you and me",
+          "a God with power and with tenderness"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Human Need/The Father's Mandate",
+        "tekstueel_bewijs": [
+          "He sleeps because he has been doing the Father's work"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer/The Preacher ('You and me')",
+        "tekstueel_bewijs": [
+          "reach you and me and to understand who we are",
+          "wrote my name in the Lamb's fair Book of Life"
+        ],
+        "positie_hoorder": "The hearer identifies as the Receiver of God's action."
+      },
+      "helper": {
+        "identificatie": "Jesus' Humanity (The 'Pillow', the 'Tears')",
+        "tekstueel_bewijs": [
+          "he has some identification with my condition when I am weary",
+          "Jesus wept... that says more to me than simple words"
+        ],
+        "rol_van_god": "God is the Subject, but His humanity acts as the 'Helper' that makes His power accessible.",
+        "rol_van_geest": "UNCLEAR"
+      },
+      "tegenstander": {
+        "identificatie": "Counterfeit Gods/Death/The Storm",
+        "tekstueel_bewijs": [
+          "fake gods",
+          "half gods",
+          "the swelling of Jordan"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits, but the 'dreadful' reality of being 'duped' by a god that cannot save in the hour of death (Jordan)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical life of the believer (the 'prescription for sleeping well').",
+      "subject": "The Hearer",
+      "object": "A calm conscience/Good sleep",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The preacher suggests that treating people right leads to a clear conscience, which is then paralleled with Jesus' sleep, potentially blurring the line between Christ's inherent righteousness and the hearer's moral effort."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Father → Salvation/Peace → The Weary Sinner",
+      "helper_subject_tegenstander": "Humanity/Empathy → Jesus Christ ← Death/Fake Gods",
+      "subject_naar_object": "Jesus Christ → Peace in the Storm"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 35,
+      "ratio": "1.2:1",
+      "voorbeelden_god_subject": [
+        "He arose, and rebuked the wind",
+        "He spoke peace to my troubled soul",
+        "He understands my thoughts afar off"
+      ],
+      "voorbeelden_mens_subject": [
+        "You pull out some gold",
+        "You've got to pick up your god",
+        "Treat people right"
+      ],
+      "rutledge_score": 7
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "You've got to pick up your god",
+          "Don't dig ditches for other people"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "What we have to have is a God with power",
+          "I want to tell you what enough God is"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "Acquaint thyself with deity",
+          "We worship our machinery and our chrome-plated technology"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "a god who can get low enough",
+          "able to do what I cannot do",
+          "he can make old Jordan be still"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Ability' (Pouvoir) of God versus the 'Inability' of idols and humans. It is a sermon of empowerment through the Divine Subject."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Enough God (Jesus)",
+      "s2": "Death/Perishing (The Storm)",
+      "niet_s1": "Half Gods/Counterfeits",
+      "niet_s2": "Temporary Calm/Technology"
+    },
+    "beweging_in_preek": "Moves from ~S1 (Fake gods) to S2 (The threat of perishing) to S1 (The Enough God who speaks peace).",
+    "theologische_resolutie": "The tension is resolved by the 'Subject-switch': the human who has to 'carry' their god is replaced by a God who 'carries' the human through Jordan.",
+    "ernst_van_s2": "High. The 'swelling of Jordan' and the 'dreadful letdown' of fake gods are treated as existential crises."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "Despite a significant section of moral advice regarding 'sleeping well,' the deep structure is theocentric. The climax of the sermon rests entirely on Christ's ability to do what the hearer cannot.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Causal Moralism",
+        "tekstueel_bewijs": "You want a prescription for sleeping well? Treat people right.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "He spoke peace to my troubled soul, wrote my name in the Lamb's fair Book of Life.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "what will you do in the swelling of Jordan?",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus is used as an example of why one sleeps well (clear conscience), but this is quickly superseded by His role as the Divine Actor.",
+      "bijbelse_figuren_als_model": [
+        "Jesus (as a sleeper)"
+      ],
+      "alternatieve_lezing": "Jesus sleeps not just as a moral example of a clear conscience, but as the Sabbath-rest of God in the midst of chaos."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and assurance; shifting the burden of 'carrying' the god to being 'carried' by God.",
+      "theologische_implicatie": "Monergistic salvation in the face of death."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "The transition from the 'fake gods' of culture to the 'Enough God' of the Gospel is narratively smooth.",
+      "spanning_punten": [
+        "The 'prescription for sleep' section feels like a temporary lapse into a different narrative program (Self-Help) before returning to the Primary Program."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "He rebuked the wind... the wind heard the Savior's voice and ran back.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon focuses on Christ's competence rather than the Spirit's endowment."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Moderate to High; sin is seen as 'mistreating people' but also as the 'troubled soul' that needs peace."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully positions Christ as the Subject of the 'Pouvoir' (Power). The hearer is correctly positioned as the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer is briefly told to 'do' things to get 'sleep' (Object).",
+      "voorgestelde_identificatie": "Receiver of Christ's peace.",
+      "strategie": "Frame the 'good life' as a fruit of the 'Peace' Christ speaks, rather than a 'prescription' for it."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Devoir (Must) in the middle section.",
+      "voorgestelde_balans": "Link the 'Pouvoir' (Power) of Christ to the 'Pouvoir' of the believer.",
+      "concrete_suggestie": "Show how Christ's peace enables the believer to treat others well."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Jordan/Death).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The 'Secondary Program' (Ethics) is presented as a way to achieve the 'Object' (Sleep/Peace) independently of the 'Primary Program'.",
+      "voorgestelde_structuur": "Soteriology (Christ speaks peace) → Ethics (Therefore we can sleep/live well)."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful theocentric sermon that effectively uses the Actantial Model to expose the futility of idolatry and the sufficiency of Christ."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the preacher's use of irony and imagery (the 'thunder drums'); Greimas shows that the 'engine' of the sermon is the transfer of 'Pouvoir' from Christ to the helpless disciples.",
+    "verschil_met_exegese": "Exegesis would focus on the Sea of Galilee context; semiotics reveals the universal structure of the 'God-who-is-carried' vs. the 'God-who-carries'.",
+    "unieke_inzichten_greimas": "Greimas reveals that the 'fake god' is actually an 'Object' masquerading as a 'Subject'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (rebuked, said, arose, slept, wept)",
+      "The Prophet (ridicules, laughs)",
+      "You (pull out gold, pick up god, treat people right)",
+      "The Wind (heard, ran back)"
+    ],
+    "volledige_object_lijst": [
+      "Peace",
+      "Enough God",
+      "A calm conscience",
+      "The purchase of my blood"
+    ],
+    "werkwoord_frequentie": {
+      "carry": {
+        "count": 6,
+        "primair_subject": "Man"
+      },
+      "speak": {
+        "count": 8,
+        "primair_subject": "God"
+      },
+      "understand": {
+        "count": 7,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of Black Homiletic tradition where the 'Subject-switch' occurs at the 'turn' (the storm), moving from human effort to divine intervention."
+  }
+}

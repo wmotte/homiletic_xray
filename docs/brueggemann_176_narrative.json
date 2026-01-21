@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "Go Further",
+    "bijbeltekst": "Acts 15 / Psalm 122",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "550"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement of the church from safe, tribal boundaries into risky, inclusive territory through the breaking of old codes.",
+      "subject": {
+        "identificatie": "The Church / The Apostles / The Hearer",
+        "tekstueel_bewijs": [
+          "The apostles are the ones sent.",
+          "We now live in a time of going further in obedience.",
+          "Go further beyond ecclesial arrangements."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The 'Further' (New territory, risky truth, inclusion of Gentiles)",
+        "tekstueel_bewijs": [
+          "sent beyond safe territory for the risky truth of the gospel",
+          "reach to the Gentiles"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Spirit / God (via nightmares and summons)",
+        "tekstueel_bewijs": [
+          "God compelled him to go further",
+          "the Spirit is restless with our tribal closures"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Gentiles / The World / The Church",
+        "tekstueel_bewijs": [
+          "reach to the Gentiles",
+          "we will be saved through the grace"
+        ],
+        "positie_hoorder": "Subject (The one being told to go)"
+      },
+      "helper": {
+        "identificatie": "Grace / The Spirit / Ford Motor Company Mantra",
+        "tekstueel_bewijs": [
+          "empowered by the Spirit",
+          "bold reliance on God’s grace"
+        ],
+        "rol_van_god": "Helper (God empowers the human subject to act)",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Purity codes / Mothers / Tribalism / Safe territory",
+        "tekstueel_bewijs": [
+          "old purity rules of Judaism",
+          "your mother was wrong",
+          "safe tribalism"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily sociological and psychological—habits and traditions—rather than cosmic sin or death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The salvation of the church and Gentiles by grace.",
+      "subject": "The Lord Jesus",
+      "object": "Salvation",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The sermon uses the primary program (Ethics/Going) as the main engine, while the secondary program (Soteriology/Grace) is mentioned as a 'contrary' belief that supports the going."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Spirit → Risky Truth → The Gentiles",
+      "helper_subject_tegenstander": "Grace → The Church ← Purity Codes",
+      "subject_naar_object": "The Hearer → 'Go Further'"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "18",
+      "ratio": "0.22",
+      "voorbeelden_god_subject": [
+        "God compelled him to go further",
+        "the Spirit is restless"
+      ],
+      "voorbeelden_mens_subject": [
+        "The apostles are the ones sent",
+        "We now live in a time of going further",
+        "Go further in courage"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "voiced as an imperative",
+          "had to go further",
+          "requires apostolic preaching"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "intended to go",
+          "passionate exceptionalism"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Peter learned the purity codes"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "empowered by the Spirit",
+          "rely on many things other than grace"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is driven by obligation (Imperative). Grace is framed as a tool to fulfill the obligation rather than the power that has already accomplished the work."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Inclusion",
+      "s2": "Purity Codes/Exclusion",
+      "niet_s1": "Tribalism",
+      "niet_s2": "Breaking Habits"
+    },
+    "beweging_in_preek": "From S2 (Purity) to ~S2 (Breaking habits) toward S1 (Grace).",
+    "theologische_resolutie": "The tension is resolved through the human act of 'going further' prompted by a 'nightmare' from God.",
+    "ernst_van_s2": "S2 is treated as a social/psychological barrier rather than a state of spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Despite the frequent use of the word 'grace,' the actantial subject is consistently 'We' or 'The Church.' The sermon functions as a recruitment speech for social/ecclesial progress (Go further!) using God as the Sender/Helper.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Imperative as Mantra",
+        "tekstueel_bewijs": "That phrase, voiced as an imperative, might be a good mantra: Go further!",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of Grace",
+        "tekstueel_bewijs": "reliance on God’s grace that summons to new territory",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Soteriological Quote",
+        "tekstueel_bewijs": "we believe that we will be saved through the grace of the Lord Jesus",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Peter is used as the model for the hearer's own 'going further.'",
+      "bijbelse_figuren_als_model": [
+        "Peter",
+        "The Apostles"
+      ],
+      "alternatieve_lezing": "Focus on how Christ 'went further' from heaven to the cross to include those who could not go to Him."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; social activism motivation.",
+      "theologische_implicatie": "Sanctification is viewed as a series of human boundary-crossings."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The Ford metaphor and the Acts narrative are well-integrated rhetorically but logically prioritize the human 'Go' over the divine 'Done'.",
+      "spanning_punten": [
+        "The quote from Acts 15:11 (saved by grace) contradicts the 'Go further' imperative which implies we save the church/world by our movement."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The apostles are 'grounded in faith' and 'empowered' to take risks.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides the 'Vouloir' (restlessness) but the human must provide the 'Performance'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is identified as 'tribalism' and 'safety'—social errors rather than ontological separation."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is anthropocentric. The 'engine' is the human will responding to a divine imperative.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the subject of 'Go'.",
+      "voorgestelde_herpositionering": "Make Jesus the Subject who 'went further' into our death.",
+      "voorbeeld_revisie": "Instead of 'Go further in courage,' use 'Christ went further into the depths of our tribalism to pull us out.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as Apostle/Hero.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 'Gentiles' who are reached, rather than the 'Apostles' who reach."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Christ's power)",
+      "concrete_suggestie": "Focus on the 'restless Spirit' as the one who actually moves the church, rather than the church moving itself."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Weak (bad habits/mothers).",
+      "voorgestelde_intensivering": "Identify the 'purity codes' as a form of self-righteousness that kills.",
+      "theologische_rationale": "If the opponent is just a 'habit,' we don't need a Savior, just a better 'mantra'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Go!) precedes and dominates Soteriology (Grace).",
+      "voorgestelde_structuur": "Soteriology (Christ went further for us) → Ethics (Therefore, we find ourselves in new territory)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has high rhetorical energy but risks leaving the hearer exhausted by a new 'law' of progressiveness rather than comforted by the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the Ford metaphor is clever; semiotically, it reinforces a consumerist/performance-based 'Subject' role.",
+    "verschil_met_exegese": "Exegesis might focus on the Council of Jerusalem; Greimas shows the preacher has turned a descriptive history into a prescriptive law.",
+    "unieke_inzichten_greimas": "Reveals that 'Grace' is being used as a 'Helper' actant to fuel a 'Subject' who is actually the Hearer."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Apostles (sent)",
+      "Ford (implies)",
+      "We (live)",
+      "You (go)",
+      "Spirit (is restless)"
+    ],
+    "volledige_object_lijst": [
+      "Risky truth",
+      "Further",
+      "New territory",
+      "Gentiles"
+    ],
+    "werkwoord_frequentie": {
+      "Go": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "Sent": {
+        "count": "6",
+        "primair_subject": "Other"
+      },
+      "Save": {
+        "count": "1",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Ford' metaphor, which inherently suggests human-driven progress."
+  }
+}

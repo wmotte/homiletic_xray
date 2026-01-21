@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "Frodo and Free Will",
+    "bijbeltekst": "Romans 7:15–20; 8:2",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The liberation of the human will from the bondage of Sin and Death by an external 'Other Power' (God/Spirit), enabling the person to participate in God's pre-ordained purpose.",
+      "subject": {
+        "identificatie": "God / The Spirit of Life / 'Some other point of power'",
+        "tekstueel_bewijs": [
+          "God is at work in you, both to will and to work",
+          "The law of the Spirit of life in Christ Jesus has set me free",
+          "Aid has come to us from 'some other point of power'"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Freedom / The Human Will / Salvation",
+        "tekstueel_bewijs": [
+          "set me free from the law of sin and death",
+          "delivered from the rhetoric of his passions",
+          "bring them by Christ to everlasting salvation"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Eternal Decree)",
+        "tekstueel_bewijs": [
+          "God’s everlasting purpose before the foundation of the world",
+          "decreed ... to deliver from curse and damnation"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Believer / The Hearer / Frodo / Ransom",
+        "tekstueel_bewijs": [
+          "those whom he hath chosen in Christ",
+          "it does indeed seem like 'sweet, pleasant and unspeakable comfort' to me"
+        ],
+        "positie_hoorder": "The hearer is explicitly positioned as the Receiver of an action they cannot perform themselves."
+      },
+      "helper": {
+        "identificatie": "Christ / The Spirit / Grace",
+        "tekstueel_bewijs": [
+          "by the grace of God recognize that you... are unable to change yourself",
+          "in Christ there is a new will"
+        ],
+        "rol_van_god": "God is the Subject; Christ is the Mediator/Helper through whom the Subject acts.",
+        "rol_van_geest": "Indwelling power that 'sets free' the internal mechanism of the will."
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Death / The Ring / The Dark Lord / The Iron Will",
+        "tekstueel_bewijs": [
+          "sin which dwells within me",
+          "The enemy held my will, and he made a chain of it",
+          "a fierce eager will was there... it leaped towards him"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as an active, predatory power ('fierce eager will') that enslaves the subject, rendering human effort ('iron will') useless."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The ethical life: The freed person performing good works.",
+      "subject": "The Freed Believer",
+      "object": "Good works (visiting prisons, forgiving spouses, etc.)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical program is explicitly a consequence of the soteriological program. 'Then truly, you can do great things... because God is working his purpose out.'"
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Eternal Purpose) → Salvation/Freedom → The Chosen/Hearer",
+      "helper_subject_tegenstander": "The Spirit/Christ → God → Sin/Death/The Ring",
+      "subject_naar_object": "God → The Liberation of the Human Will"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "12",
+      "ratio": "2:1",
+      "voorbeelden_god_subject": [
+        "God has chosen in Christ",
+        "God is at work in you",
+        "The Spirit of life... has set me free"
+      ],
+      "voorbeelden_mens_subject": [
+        "I do not do what I want",
+        "I can choose a mustard",
+        "You can visit a prison"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I will do what I must",
+          "Work out your own salvation"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "I do not do what I want",
+          "God is at work in you, both to will..."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "I do not understand my own actions"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "I cannot do it",
+          "unable to change yourself by yourself",
+          "you can do great things... because God is working"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the total lack of human 'Pouvoir' (Power) and the gift of 'Vouloir' (Will) and 'Pouvoir' by God. It moves from 'I cannot' to 'God can'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Predestination (Freedom)",
+      "s2": "Sin/Bondage (The Ring)",
+      "niet_s1": "Free Will Illusion (Mustard choices)",
+      "niet_s2": "Moralism (God helps those who help themselves)"
+    },
+    "beweging_in_preek": "Moves from the illusion of Free Will (~S1) to the reality of Bondage (S2), then to the 'Other Power' of Grace (S1), which redefines Freedom as Predestination.",
+    "theologische_resolutie": "The paradox that 'Predestination and freedom were apparently identical.'",
+    "ernst_van_s2": "Extremely high; Sin is a 'fierce eager will' that makes a chain of the human will."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon systematically deconstructs human agency as the primary driver of salvation and replaces it with God's sovereign action.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "None found; the sermon explicitly attacks 'God helps those who help themselves.'",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject",
+        "tekstueel_bewijs": "The law of the Spirit of life in Christ Jesus has set me free.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Sin and Death decide things for us. We have no will left in the matter.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Frodo is not used as a moral example to follow, but as a narrative actant who experiences the same bondage and external rescue as the hearer.",
+      "bijbelse_figuren_als_model": [
+        "Paul (as victim of sin)",
+        "Frodo (as actant of 'another will')"
+      ],
+      "alternatieve_lezing": "Theocentric: God saves Frodo/Paul, and God saves you."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief, 'unspeakable comfort', and empowerment for service.",
+      "theologische_implicatie": "Monergistic sanctification: God works the 'will' and the 'doing'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the primary program (salvation) to the secondary (ethics) is perfectly handled via Philippians 2:12-13.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "The 'Other Power' overcoming the 'Fierce Eager Will' of the Dark Lord/Sin.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir' (Power) that the human subject lacks."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total depravity of the will ('no will left in the matter')."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in maintaining God as the Subject. It avoids the 'Exemplarist' trap by using Frodo as a mirror of human helplessness rather than a hero of human effort.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this imbalance is theologically intentional to counter American 'Free Will' moralism.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "High (Sin as a predatory power).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Correctly ordered)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a rare example of structural grace. It uses a popular culture reference not to distract, but to illuminate the deep semiotic struggle between the bondage of the will and the liberation of the Spirit."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the LOTR illustrations; Greimas shows that the LOTR characters are actually functional actants for the Spirit's work.",
+    "verschil_met_exegese": "Exegesis explains Romans 7; Greimas shows how the sermon's 'engine' actually moves the hearer from the position of 'Opponent' to 'Receiver'.",
+    "unieke_inzichten_greimas": "Reveals that the 'Free Will' debate is actually a conflict between two different 'Senders' (The Self vs. God)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (decreed)",
+      "The Spirit (set free)",
+      "Sin (dwells/decides)",
+      "The Ring (decided)",
+      "The Eye (leaped)",
+      "Another point of power (came)"
+    ],
+    "volledige_object_lijst": [
+      "The will",
+      "Salvation",
+      "Freedom",
+      "Good works"
+    ],
+    "werkwoord_frequentie": {
+      "set free": {
+        "count": "4",
+        "primair_subject": "God/Spirit"
+      },
+      "choose": {
+        "count": "8",
+        "primair_subject": "Man (as illusion)"
+      }
+    },
+    "notities": "The sermon successfully navigates the 'Rutledge Rule' by making God the subject of the transformative verbs."
+  }
+}

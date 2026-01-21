@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "titel_preek": "Transformation into Christ",
+    "bijbeltekst": "Romans 12:1–21",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God transforms a collective body of flawed and sinful people (the Church) into the image of Christ through the agency of the Holy Spirit, enabling them to live out an alternative mode of power.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "God is the chief actor, and what God begins, God brings to completion.",
+          "Saints are made in spite of themselves, by the action of the Holy Spirit.",
+          "God creates a different kind of person."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Transformation / Newness of Life / The Mind of Christ",
+        "tekstueel_bewijs": [
+          "be transformed by the renewing of your mind",
+          "walk in newness of life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Source of Mercy)",
+        "tekstueel_bewijs": [
+          "I appeal to you therefore... by the mercies of God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Church / The Saints (The Hearers)",
+        "tekstueel_bewijs": [
+          "this is a description of you. You are the saints."
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The 'Therefore' (The Gospel Logic)",
+        "tekstueel_bewijs": [
+          "by the power of the Holy Spirit in the Church",
+          "The word therefore holds the clue to everything that follows."
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Indwelling power"
+      },
+      "tegenstander": {
+        "identificatie": "Sin / The Flesh / The World / Human Predicament",
+        "tekstueel_bewijs": [
+          "the power of sin which dwells within me",
+          "the struggle of the godly person against his or her own worst impulses"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as an ontological power dwelling within the human that renders the human will (the flesh) incompetent."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The transformed saints serve the neighbor and the world (ethics).",
+      "subject": "The Saints (empowered by God)",
+      "object": "Service / Loving enemies / Feeding the hungry",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical program is a fruit or consequence of the primary soteriological transformation."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Mercy) → Transformation → The Church",
+      "helper_subject_tegenstander": "Holy Spirit → God ← Sin/Flesh",
+      "subject_naar_object": "God → Newness of Life in Man"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "High",
+      "mens_als_subject_count": "Low (mostly passive)",
+      "ratio": "4:1",
+      "voorbeelden_god_subject": [
+        "God intends it, God does it.",
+        "God has done what the law... could not do.",
+        "God creates a different kind of person."
+      ],
+      "voorbeelden_mens_subject": [
+        "I do not understand my own actions.",
+        "We want to have things set to rights."
+      ],
+      "rutledge_score": "10"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "It is more like a description than an exhortation."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I mean to be one too (critiqued as secondary)."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "The word therefore holds the clue."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "God is powerful to keep his promises.",
+          "This transformation... cannot be accomplished by an appeal to human will."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Ability' (Pouvoir) granted by God because the human 'Will' (Vouloir) and 'Obligation' (Devoir) are insufficient due to Sin."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Spirit",
+      "s2": "Sin/Death",
+      "niet_s1": "The Flesh (Inability)",
+      "niet_s2": "The Law (Requirement without power)"
+    },
+    "beweging_in_preek": "Moves from the Law's requirement (~S2) to the realization of human inability (~S1), then to God's intervention (S1) which overcomes Sin (S2).",
+    "theologische_resolutie": "Resolution is found in the 'Therefore'—God's action in Christ.",
+    "ernst_van_s2": "High; Sin is a dwelling power, not just a mistake."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly critiques anthropocentric 'I mean to' theology and insists on God as the active subject of transformation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Critique of the hymn 'I sing a song of the saints'",
+        "tekstueel_bewijs": "All the emphasis is on the 'I'... but this is not at all what our Scriptures tell us.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "God is the chief actor, and what God begins, God brings to completion.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical and contemporary figures are used as evidence of God's power, not as models for imitation through willpower.",
+      "bijbelse_figuren_als_model": [
+        "Paul",
+        "Rosa Parks",
+        "The bereaved mother"
+      ],
+      "alternatieve_lezing": "Theocentric: 'I guess I could if God made it happen.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and empowerment through dependence.",
+      "theologische_implicatie": "Monergistic sanctification (God works in us)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "Perfectly integrates the 'Therefore' of Romans, linking theology (1-11) to ethics (12).",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION / CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "God condemned sin in the flesh... in order that the just requirement of the law might be fulfilled in us.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir-faire' that the Law could not."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Severe; sin is an internal captor."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a masterclass in theocentric narrative structure, consistently placing God in the Subject position.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this corrects the usual moralistic imbalance.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Sufficiently intense (Sin as power).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (1-11) → Ethics (12)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "The sermon successfully avoids the trap of 'exemplarism' by treating the saints as witnesses to God's power rather than heroes of their own will."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric might focus on the use of the 'Rosa Parks' story for emotional impact, semiotics reveals the story's function as a proof of the 'Subject-Switch' from Man to God.",
+    "verschil_met_exegese": "Exegesis explains the Greek 'metamorphousthe'; semiotics shows that the passive voice is a structural necessity for a grace-oriented narrative.",
+    "unieke_inzichten_greimas": "Greimas's model exposes that the 'I' in the hymn is a false Subject that creates a moralistic engine, which the preacher systematically dismantles."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (intends, does, begins, brings to completion, creates, has done, condemned, calls)",
+      "The Holy Spirit (acts, renews)",
+      "Sin (dwells, overcomes)",
+      "We (were buried, walk, are raised - all passive)"
+    ],
+    "volledige_object_lijst": [
+      "Transformation",
+      "Newness of life",
+      "The mind of Christ",
+      "The saints"
+    ],
+    "werkwoord_frequentie": {
+      "transform": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "intend": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "do": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon explicitly utilizes the 'Rutledge Rule' by name, making it a self-aware example of theocentric homiletics."
+  }
+}

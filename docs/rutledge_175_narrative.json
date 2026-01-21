@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Easter Season Sermons: John 20 and Job 42",
+    "bijbeltekst": "John 20:1–18, 20:19–31; Job 38, 42:1–6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2400"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God invades the realm of Death and the vacuum of human doubt to restore life and faith through His own initiative.",
+      "subject": {
+        "identificatie": "God / The Risen Christ",
+        "tekstueel_bewijs": [
+          "He arose from the kingdom of Death and carried away its spoils.",
+          "The risen, living, reigning Christ says to us today...",
+          "God has entered our pain and been wounded by it... yet has been raised triumphant."
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Life and Faith (Restoration of the human Receiver)",
+        "tekstueel_bewijs": [
+          "receive the gift of eternal light and life in his name",
+          "that you may believe... and that, believing, you may have life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Sovereign Creator",
+        "tekstueel_bewijs": [
+          "Almighty God, who through thine only-begotten Son Jesus Christ overcame death"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / Humanity (Mary, Thomas, Job, the Congregation)",
+        "tekstueel_bewijs": [
+          "opened unto us the gate of everlasting life",
+          "blessed are they who do not see and yet believe"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Proclaimed Word",
+        "tekstueel_bewijs": [
+          "Through the Word of God the Holy Spirit creates such faith",
+          "the living Word of God, which is unique and trustworthy"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Death, Sin, and the 'Night' (Cosmic Powers)",
+        "tekstueel_bewijs": [
+          "the night in which Sin and Death reign",
+          "the power of darkness",
+          "the cold clasp of death"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is described as a 'kingdom' and 'merciless' power that human effort (spices, burial customs) cannot defeat."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human response of faith and confession following the divine encounter.",
+      "subject": "The Believer (Thomas/Job)",
+      "object": "Confession/Worship",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The human response (Secondary) is strictly a result of the Divine action (Primary). Thomas believes only because Christ appears."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Eternal Life → The Church",
+      "helper_subject_tegenstander": "Holy Spirit → Christ ← Death/Satan",
+      "subject_naar_object": "Christ → Salvation/Faith"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 15,
+      "ratio": "2.8:1",
+      "voorbeelden_god_subject": [
+        "He arose from the kingdom of Death.",
+        "God has entered our pain.",
+        "The Lord looks straight through Thomas... to you and to me."
+      ],
+      "voorbeelden_mens_subject": [
+        "Mary Magdalene came to the tomb.",
+        "We can choose a god who suits us.",
+        "Job simply sets aside all his great sufferings."
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "he must rise from the dead"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Job’s great longing is for revelation."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "they did not know the scripture"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "having power to grant his divine life",
+          "God... revealed himself as the one who was already present"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God's 'ability' to act where humans are 'unable' (dust). Grace is the endowment of life to the dead."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Life/Light (Resurrection)",
+      "s2": "Death/Night (The Tomb)",
+      "niet_s1": "Doubt/Dust (Human Limitation)",
+      "niet_s2": "Faith/Revelation (Gifted Sight)"
+    },
+    "beweging_in_preek": "From S2 (Night) through ~S1 (Doubt/Dust) to S1 (Resurrection) via the intervention of the Subject.",
+    "theologische_resolutie": "Christ passes through the 'linen bands' of death, moving the Receiver from the 'dust' to 'eternal life'.",
+    "ernst_van_s2": "Extremely high; death is 'irrevocable' and 'stark'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. God is the primary actor; humans are characterized by 'darkness', 'dust', and 'doubt' until acted upon.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional language (minimal)",
+        "tekstueel_bewijs": "If we don’t like the tornadoes... we can absolve our man-made gods.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "He arose from the kingdom of Death and carried away its spoils.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "The reign of Death is stark, merciless, irrevocable.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are used as 'Receivers' of God's action, not as moral models to imitate.",
+      "bijbelse_figuren_als_model": [
+        "Mary",
+        "Thomas",
+        "Job"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading: Thomas is not a model of doubt to overcome, but a recipient of Christ's gracious appearance."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and comfort in the face of mortality and doubt.",
+      "theologische_implicatie": "Monergistic: faith is a gift created by the Word, not a human work."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The narrative consistently places God in the position of Subject across Old and New Testament examples.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "He arose from the kingdom of Death and carried away its spoils.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit creates faith where it was absent."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is linked to the 'night' and 'death'—a state of being rather than just mistakes."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject. The 'engine' is grace-driven.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for Easter.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Already high (Death/Satan/Night).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology precedes and enables the response of faith."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in theocentric preaching, consistently making God the Subject of the resurrection narrative."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'night' imagery, Greimas shows that 'night' functions as a specific Actant (Opponent) that only a Divine Subject can overcome.",
+    "verschil_met_exegese": "Exegesis explains the Greek 'stolen body' theory; Greimas shows that Mary's role is a 'Receiver' whose 'Savoir' (knowledge) is corrected by the Subject's 'Performance'.",
+    "unieke_inzichten_greimas": "Reveals that the sermon avoids the 'Exemplarist' trap by treating Thomas and Job as passive beneficiaries of revelation rather than heroes of persistence."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (overcame)",
+      "Christ (arose)",
+      "Spirit (raises)",
+      "Mary (came)",
+      "Thomas (doubted)"
+    ],
+    "volledige_object_lijst": [
+      "Life",
+      "Faith",
+      "Spoils of Death",
+      "Revelation"
+    ],
+    "werkwoord_frequentie": {
+      "arose": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "revealed": {
+        "count": 5,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon follows Fleming Rutledge's grammar of grace perfectly."
+  }
+}

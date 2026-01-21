@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "Dwelling in Solidarity: Two Alternative Ways",
+    "bijbeltekst": "Psalm 133; Acts 2:45; Acts 4:34-5:11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The early church community must decide how to organize its common life and finances in response to their conviction of the risen Jesus, choosing between solidarity (life) or privatism (death).",
+      "subject": {
+        "identificatie": "The Hearer / The Church Member (represented by Barnabas or Ananias/Sapphira)",
+        "tekstueel_bewijs": [
+          "They had to make it up as they went along.",
+          "They had to decide how to organize their common life.",
+          "We, like Barnabas, may choose life!"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Solidarity / The Common Good / Life",
+        "tekstueel_bewijs": [
+          "dwelling in solidarity",
+          "practicing solidarity with the neighbors",
+          "choose life!"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Early Church / The Apostles (as guardians of the mandate)",
+        "tekstueel_bewijs": [
+          "Peter, on behalf of the church, leads the questioning.",
+          "The early church had demanding disciplines!"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Community / The Self",
+        "tekstueel_bewijs": [
+          "there was not a needy person among them",
+          "solidarity means good schools, good health care"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Example of Barnabas",
+        "tekstueel_bewijs": [
+          "sensed the gifts of energy and courage given by the Holy Spirit",
+          "interrupted by the model of the early church"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Fear / Privatism / Satan",
+        "tekstueel_bewijs": [
+          "We were afraid. We thought we would not have enough.",
+          "Such privatism... contradicts the good news."
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "While Satan is mentioned, the sermon frames the conflict primarily as a psychological struggle between fear/scarcity and trust/generosity."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's action in raising Jesus and sending the Spirit to create the church.",
+      "subject": "God",
+      "object": "The New Community",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "God's action is the historical 'setup' (the 'buoyancy'), but the sermon focuses on the human 'performance' of the mandate that follows."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Apostolic Mandate → Solidarity → The Needy/The Self",
+      "helper_subject_tegenstander": "Holy Spirit → Hearer ← Fear/Privatism",
+      "subject_naar_object": "Hearer → Choosing Life/Solidarity"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "1:4",
+      "voorbeelden_god_subject": [
+        "God’s good Spirit to be more powerful than Satan.",
+        "God’s gifts."
+      ],
+      "voorbeelden_mens_subject": [
+        "They had to decide how to organize their common life.",
+        "We may choose life!",
+        "He sold it and gave the money."
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "They had to decide...",
+          "They had to think about money...",
+          "It matters a lot if we live and act in solidarity."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "We could not bring ourselves to do that.",
+          "We wanted that, too."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Barnabas understood that...",
+          "We did not understand that in time."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Our fear blinded us... and made us vulnerable."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Having-to-do). It assumes that if the hearer understands the 'wake-up call,' they can and must choose the right path."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Solidarity (Life)",
+      "s2": "Privatism (Death)",
+      "niet_s1": "Withholding/Cheating",
+      "niet_s2": "Fearful Survival"
+    },
+    "beweging_in_preek": "Moves from the ideal (S1) to the failure (Not-S1) to the consequence (S2), then back to an appeal for S1.",
+    "theologische_resolutie": "Resolution is found in human choice: 'We... may choose life!'",
+    "ernst_van_s2": "High. Death is presented as a literal and social consequence of failing the mandate."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'gospel,' the engine of the sermon is human agency. The hearer is the Subject who must overcome fear to achieve solidarity. God is the source of 'buoyancy' but not the primary actor in the present moment of decision.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Life",
+        "tekstueel_bewijs": "When we refuse solidarity, we die.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Human-Centric Decision",
+        "tekstueel_bewijs": "They had to make it up as they went along.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Spirit as Power",
+        "tekstueel_bewijs": "I have found God’s good Spirit to be more powerful than Satan.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Barnabas is presented as the successful model to emulate, while Ananias is the warning.",
+      "bijbelse_figuren_als_model": [
+        "Barnabas",
+        "Ananias",
+        "Sapphira"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who creates the 'glad and generous heart' (S) in a community (O) that was previously dead in fear."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; fear of 'dying' socially or spiritually if one fails to be generous.",
+      "theologische_implicatie": "Soteriology is tied to economic performance and social solidarity."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is logically consistent but the 'Secondary Program' (Ethics) has completely swallowed the 'Primary Program' (Soteriology).",
+      "spanning_punten": [
+        "The Spirit is mentioned as a gift, but the outcome depends entirely on human 'trust' and 'choice'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "These two stories together might be for us a big wake-up call.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides 'buoyancy' and 'energy,' but the Subject must still 'choose' to use it."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Serious (leads to death), but framed as a 'refusal' or 'privatism' rather than an ontological bondage."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a recruitment narrative where the hearer is the Subject and Solidarity is the Object. God is relegated to a Helper role.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one who must 'choose life' and 'practice solidarity.'",
+      "voorgestelde_herpositionering": "God as the Subject who kills the 'old fearful self' and raises the 'new generous self.'",
+      "voorbeeld_revisie": "Instead of 'We may choose life,' use 'In Christ, God has chosen life for us, breaking the grip of fear that we could never escape on our own.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'hero' who can be like Barnabas.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 'needy' who receive the grace of the community, which is itself a gift from God."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Enabled by Grace)",
+      "concrete_suggestie": "Focus on how the Resurrection *enables* (Pouvoir) what the Law merely *demands* (Devoir)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Fear/Scarcity as a mindset.",
+      "voorgestelde_intensivering": "Sin as a power that makes generosity impossible apart from a miracle.",
+      "theologische_rationale": "If the opponent is just a 'bad mindset,' we don't need a Savior, just a 'wake-up call.'"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) is treated as the means of Soteriology (Program 1).",
+      "voorgestelde_structuur": "Proclaim the 'festival of well-being' as God's finished work in Christ, which then overflows into the community's budget."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong social conscience, but it risks leaving the hearer under the weight of a new law. By making God the Subject of the transformation, the 'solidarity' becomes a gift to be enjoyed rather than a task to be achieved."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the use of the Barnabas/Ananias contrast; Greimas reveals this contrast is built on a purely anthropocentric axis of performance.",
+    "verschil_met_exegese": "Exegesis notes the historical context of Acts; Greimas shows that the sermon's 'grammar' makes the hearer the savior of the community.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'God' and 'Spirit' are used as Helpers to a human Subject, rather than God being the Sovereign Actor."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "They (the church) had to decide",
+      "Barnabas acts out",
+      "Ananias kept back",
+      "We live in a society",
+      "We may choose life"
+    ],
+    "volledige_object_lijst": [
+      "solidarity",
+      "money",
+      "life",
+      "the proceeds"
+    ],
+    "werkwoord_frequentie": {
+      "choose": {
+        "count": "3",
+        "primair_subject": "Man"
+      },
+      "decide": {
+        "count": "2",
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": "6",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses the 'wake-up call' trope, which is a classic indicator of a Savoir-faire (Knowledge) modal focus leading to a Devoir-faire (Obligation) performance."
+  }
+}

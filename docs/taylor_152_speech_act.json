@@ -1,0 +1,456 @@
+{
+  "metadata": {
+    "titel_preek": "The Sinner's Friend",
+    "bijbeltekst": "Luke 7:34 (implied), Luke 4:18-19, John 15:13-15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the historical slander against Jesus as a 'friend of sinners,' contrasts his approach with John the Baptist, and explains the sacrificial nature of Christ's friendship through the cross.",
+      "exegetische_kwaliteit": "Moderate. The preacher uses biblical narratives (John's disciples, the woman in shame) to illustrate a thematic point rather than a verse-by-verse exposition.",
+      "omvang_procent": "65%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting historical and theological facts about Jesus' character, with a late shift toward testifying and inviting.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Jesus accepted the label, the slander, and turned it into the brightest jewel.",
+        "He began his public life with a declaration embracing the needy.",
+        "I speak not of the persuasive powers of any preacher."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To melt the heart of the hearer into thankful tears and repentance.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned in a quote (Luke 4), but not as the active agent of the current sermon event.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "repent",
+        "rejoice",
+        "feel welcome"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "84",
+      "procent": "70%",
+      "voorbeelden": [
+        "A person is known by the company he or she keeps.",
+        "Jesus had the opportunity to deal with this gossip.",
+        "He was born of a peasant woman."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "came",
+        "said"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "10%",
+      "voorbeelden": [
+        "Flee people who have no aim as a plague!",
+        "Forget the preacher!",
+        "Remember the gospel!"
+      ],
+      "dominante_werkwoorden": [
+        "flee",
+        "shun",
+        "forget",
+        "remember"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "10",
+      "procent": "8%",
+      "voorbeelden": [
+        "It is that which melts my heart.",
+        "I am a sinner and am glad.",
+        "I cannot understand how anybody... can remain cold."
+      ],
+      "dominante_werkwoorden": [
+        "melts",
+        "am glad",
+        "cannot understand"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "8",
+      "procent": "7%",
+      "voorbeelden": [
+        "He is a friend who all our sins does bear.",
+        "He will never find a friend so faithful who will our sorrow share."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "does bear"
+      ],
+      "kwaliteit": "Weakly addressed; mostly stated as general truths rather than direct promises to the 'you' in the moment."
+    },
+    "declaratieven": {
+      "frequentie": "6",
+      "procent": "5%",
+      "voorbeelden": [
+        "Rejoice, my sinful soul...",
+        "He bids us come to him."
+      ],
+      "dominante_werkwoorden": [
+        "rejoice",
+        "bids"
+      ],
+      "autoriteit": "The preacher quotes Jesus' declarations but rarely speaks as a mandatory of God to the congregation."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75%",
+    "performatief_percentage": "25%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 3rd person past tense (He did, He was, They said).",
+        "Long introductory anecdotes about 'household sayings' that delay the encounter."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical biography rather than a participant in a current event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise in the 2nd person present tense"
+      ],
+      "effect_op_hoorder": "Information about grace is provided, but the 'handover' of grace is delayed until the very end."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "General and poetic rather than specific and direct.",
+      "voorbeelden": [
+        "Christ died for us sinners and for me!",
+        "He is a friend who all our sins does bear."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Preacher's own feelings and testimony ('melts my heart')."
+      },
+      "tweede_persoon": {
+        "frequentie": "14",
+        "gebruik": "Warning young people; challenging the hearer's coldness.",
+        "performatieve_context": "Used more for moral warning than for the delivery of the promise."
+      },
+      "derde_persoon": {
+        "frequentie": "55",
+        "gebruik": "Describing Jesus, the critics, and 'the common people'.",
+        "distantie_effect": "High. Creates a historical 'then and there' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Narrating the life of Jesus and the gossip he faced."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General aphorisms and theological truths."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The closing appeal."
+      }
+    },
+    "adressering_effectiviteit": "5"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History of Jesus) -> Expressive (Preacher's feelings) -> Directive (Don't be cold).",
+      "voorbeelden": [
+        "Christ died for us... I cannot understand how anybody... can remain cold."
+      ],
+      "probleem": "The imperative to 'not be cold' is not preceded by a direct declarative 'I announce to you' or 'He promises you'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon lacks a clear transition from explanation to direct sacramental address.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Does the gospel... not touch you? What hardness of spirit some of us must have."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon relies heavily on the preacher's emotional reaction to the facts of the gospel to trigger a similar reaction in the hearer, rather than the performative power of the Word itself.",
+    "sterke_punten": [
+      {
+        "aspect": "Christological Focus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "He made the libel his label!",
+        "effect": "Strongly centers the content on the person of Christ."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "A doctor is likely to spend most of his time among the ill...",
+        "probleem": "Too much time spent on analogies and historical description.",
+        "ernst": "MODERATE"
+      },
+      {
+        "aspect": "Moralizing Perlocution",
+        "categorie": "Perlocution",
+        "tekstueel_bewijs": "What hardness of spirit some of us must have that we do not break down.",
+        "probleem": "Shames the hearer for not feeling enough instead of giving the promise that creates the feeling.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a lecture with a moving testimony at the end, but it rarely breaks into a 'God-speaking-now' event.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher describes the medicine but rarely administers it directly to the patient."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher speaks *about* God.",
+      "prediker_als_mandataris": "Weak. The preacher acts more as a witness/reporter.",
+      "tekstueel_bewijs": [
+        "I speak not of the persuasive powers of any preacher."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimal.",
+      "perlocutie_theologie": "The preacher seems to take responsibility for the 'melting' of hearts through rhetoric.",
+      "tekstueel_bewijs": [
+        "Does the gospel... not touch you?"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a reminder of grace, not the delivery of grace.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "Forget the preacher! Remember the gospel!"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is buried in past-tense 'was' and 'did'. It needs a shift to present-tense 'is' and 'gives'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Christ died for us sinners and for me!",
+          "voorgestelde_revisie": "Because Christ died for you, I declare to you today: your sins are gone.",
+          "verschil": "Moves from a general fact to a specific, reality-changing declaration."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is hidden in a hymn-like summary at the end.",
+      "suggestie": "Use the 'Toezegging' (Promise) as the bridge between the history of Jesus and the life of the hearer.",
+      "voorbeeldzinnen": [
+        "To you who feel like an outcast today, Christ says: 'I am your friend.'"
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'us' which dilutes the personal address.",
+      "suggestie": "Use 'you' (singular/plural) when delivering the promise.",
+      "voorbeeldzinnen": [
+        "He stands in your place."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'don't be cold' feels like a law because the indicative 'you are forgiven' isn't performatively spoken.",
+      "suggestie": "Declare the friendship of Jesus as a finished fact for the hearer first."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a warm heart and a clear focus on Christ, but it needs to move from 'talking about' the Friend to 'introducing' the Friend to the congregation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his tears). SAT focuses on the 'Declarative' act of God through the preacher.",
+    "verschil_met_retoriek": "Rhetoric seeks to move the emotions; SAT seeks to change the hearer's status before God via the Commissive act.",
+    "unieke_inzichten_SAT": "SAT reveals that the preacher's frustration with the audience's 'coldness' is a result of a performative deficit—he hasn't used the keys of the kingdom to open the heart."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "keeps",
+        "grew up",
+        "think",
+        "means",
+        "spent",
+        "applied",
+        "began",
+        "surprised",
+        "felt",
+        "peddled",
+        "wagged",
+        "spread",
+        "palming",
+        "went",
+        "knew",
+        "hanging out",
+        "held",
+        "poured",
+        "consumed",
+        "had",
+        "reports",
+        "heard",
+        "adds",
+        "come",
+        "languishing",
+        "ask",
+        "said",
+        "baptized",
+        "sends",
+        "makes",
+        "founded",
+        "seen",
+        "heard",
+        "see",
+        "walk",
+        "reflects",
+        "represented",
+        "sought",
+        "confront",
+        "passes",
+        "takes",
+        "twists",
+        "came",
+        "eating",
+        "drinking",
+        "seeing",
+        "twisted",
+        "shedding",
+        "entering",
+        "attending",
+        "have",
+        "debauched",
+        "drowned",
+        "wanted",
+        "thought",
+        "shot",
+        "meant",
+        "accepted",
+        "turned",
+        "made",
+        "took",
+        "come",
+        "throwing",
+        "claimed",
+        "holding",
+        "choosing",
+        "turning",
+        "stayed",
+        "announced",
+        "born",
+        "embracing",
+        "anointed",
+        "sent",
+        "stated",
+        "need",
+        "spoke",
+        "palsied",
+        "held",
+        "felt",
+        "bow",
+        "weep",
+        "sensed",
+        "saw",
+        "turn",
+        "calling",
+        "connected",
+        "happened",
+        "bathes",
+        "loved",
+        "loves",
+        "died",
+        "done",
+        "doing",
+        "remarked",
+        "attracted",
+        "replied",
+        "look",
+        "meant",
+        "took",
+        "numbered",
+        "enrolled",
+        "stood",
+        "suffered",
+        "made",
+        "does",
+        "knows"
+      ],
+      "directief": [
+        "flee",
+        "shun",
+        "tell",
+        "forget",
+        "remember",
+        "rejoice",
+        "take",
+        "come"
+      ],
+      "expressief": [
+        "melts",
+        "am glad",
+        "cannot understand",
+        "care for none"
+      ],
+      "commissief": [
+        "will share",
+        "does bear",
+        "will find"
+      ],
+      "declaratief": [
+        "bids",
+        "call",
+        "forgiven"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He made the libel his label!",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong description",
+        "effectiviteit": "High for understanding, low for encounter."
+      },
+      {
+        "zin": "I am a sinner and am glad, so glad that Christ died for me.",
+        "categorie": "EXPRESSIVE",
+        "illocutionaire_kracht": "Testimony",
+        "effectiviteit": "Moves the preacher, but doesn't necessarily move the hearer's status."
+      },
+      {
+        "zin": "He bids us come to him.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Invitation",
+        "effectiviteit": "The most performative moment, though weakened by the 3rd person 'He'."
+      }
+    ],
+    "notities": "The sermon is homiletically 'warm' but linguistically 'cold' (constative). It talks about the event of the cross rather than making the sermon the event of the cross."
+  }
+}

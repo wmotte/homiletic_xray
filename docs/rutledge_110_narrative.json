@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "7. Access to Power",
+    "bijbeltekst": "2 Samuel 12:7",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in human history through the Word of the prophet to bring the sinner to repentance, thereby enabling restoration and redemption.",
+      "subject": {
+        "identificatie": "God / The Word of the Lord",
+        "tekstueel_bewijs": [
+          "God’s continual overriding of our failures to accomplish his purpose",
+          "Human frailty cannot prevent God from recapturing the world",
+          "The word of the Lord came to Elijah",
+          "God’s judgment is an instrument of his mercy"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Redemption / New Life / Recapturing the world",
+        "tekstueel_bewijs": [
+          "royal road to redemption and new life",
+          "recapturing the world that he loves",
+          "a future and a hope"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as Source of Truth and Mercy)",
+        "tekstueel_bewijs": [
+          "the Father kept all his promises"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / 'Fellow bad characters'",
+        "tekstueel_bewijs": [
+          "So, fellow bad characters, there is absolutely nothing that you can do that is so terrible that God cannot overcome it."
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Prophet (Nathan/Elijah/Jeremiah) / The Word / Jesus Christ",
+        "tekstueel_bewijs": [
+          "Nathan said to David, Thou art the man",
+          "the Lord Jesus Christ himself was called the Son of David"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Prophetic Word)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Human Frailty / False Prophets (Access-seekers) / Pride",
+        "tekstueel_bewijs": [
+          "David, like various presidents... contrives to cover up his sin",
+          "preachers withhold the word of accountability in order to preserve access",
+          "without defenses, without pretensions"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is presented not just as a mistake but as a 'sordid mess' that requires divine intervention to 'overcome' and 'recapture'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human response of confession and repentance as the 'royal road' to the primary program's goal.",
+      "subject": "The Hearer / David",
+      "object": "Confession / Repentance",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (human response) is triggered by the primary program (God's judgment/mercy via the prophet)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Redemption → The Hearer",
+      "helper_subject_tegenstander": "Prophetic Word → God ← Sin/Pride",
+      "subject_naar_object": "God → Recapturing the World"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "God’s continual overriding of our failures",
+        "Human frailty cannot prevent God from recapturing the world",
+        "God’s judgment is an instrument of his mercy"
+      ],
+      "voorbeelden_mens_subject": [
+        "The man who can acknowledge his sin",
+        "We wish this had not happened",
+        "David promptly arranges to marry Bathsheba"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "preachers must take such positions"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "We wish this had never come to light",
+          "What preachers want nowadays"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "discerning the sin that lies embedded there"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "nothing that you can do that is so terrible that God cannot overcome it",
+          "True access to power"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) of God to overcome sin, contrasting it with the false power of political access."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Mercy/Grace",
+      "s2": "Judgment/Accountability",
+      "niet_s1": "Access/Cover-up (Cheap Grace)",
+      "niet_s2": "Impunity/Silence"
+    },
+    "beweging_in_preek": "Moves from the silence of churches (~S2) to the necessity of Judgment (S2) as the only vehicle to reach true Mercy (S1).",
+    "theologische_resolutie": "Judgment is redefined as an 'instrument of mercy,' resolving the tension between S1 and S2.",
+    "ernst_van_s2": "High; judgment is presented as essential for salvation."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon calls for human action (confession), it frames this action as a response to God's prior and overriding initiative. God is the primary actor who 'recaptures' and 'overcomes'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus on human capacity for strength",
+        "tekstueel_bewijs": "It is not a weakness to acknowledge that one has been wrong; it is a sign of strength.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of salvation",
+        "tekstueel_bewijs": "Human frailty cannot prevent God from recapturing the world that he loves.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Unconditional foundation",
+        "tekstueel_bewijs": "His purpose toward you is unconditionally loving. That is the foundation on which we stand.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "David is used as an example, but specifically as an example of a 'bad character' whom God uses and who responds to God's initiative.",
+      "bijbelse_figuren_als_model": [
+        "David",
+        "Nathan",
+        "Jeremiah"
+      ],
+      "alternatieve_lezing": "The sermon already leans theocentric by emphasizing God's use of 'bad characters'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and security coupled with a call to honesty.",
+      "theologische_implicatie": "Justification by grace through faith, including the 'simul iustus et peccator' reality."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from political commentary to biblical narrative to personal application is seamless and structurally consistent.",
+      "spanning_punten": [
+        "The tension between 'strength' in confession and 'powerlessness' before God."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "coming before the throne of God without defenses... in the secure knowledge that the Father kept all his promises",
+      "menselijke_role_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Word acts as the external endowment of competence (Savoir/Pouvoir)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Severe; sin is a 'sordid mess' that requires divine confrontation."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative program (Salvation/Recapturing), while placing the human in the role of Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer might identify with the 'strength' of David's confession rather than the 'mercy' of God's initiative.",
+      "voorgestelde_identificatie": "The 'poor man' with the lamb (Receiver of injustice/mercy).",
+      "strategie": "Emphasize that even the 'strength' to confess is a gift of the Spirit."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Devoir (Must confess) at the end.",
+      "voorgestelde_balans": "Increase Pouvoir (God enables the confession).",
+      "concrete_suggestie": "Explicitly state that God's grace gives us the power to blush again."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly identified as Sin/Pride.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's mercy) → Ethics (Our confession)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of using a 'Heavy Opponent' (Sin) to highlight the 'Supreme Subject' (God) without falling into moralism."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the use of the Clinton anecdote; Greimas reveals that the anecdote serves as a 'Negative Sender' (Worldly values) contrasted with the 'Divine Sender'.",
+    "verschil_met_exegese": "Exegesis explains David's sin; Greimas shows that David is an actant (Receiver) in a larger program of God's 'recapturing'.",
+    "unieke_inzichten_greimas": "Reveals that 'Access' is the false Object of the Opponent, while 'Redemption' is the true Object of the Subject (God)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (overriding)",
+      "Human frailty (cannot prevent)",
+      "Nathan (said)",
+      "David (sinned)",
+      "Jesus (demonstrating)"
+    ],
+    "volledige_object_lijst": [
+      "Purpose for good",
+      "The world",
+      "A future and a hope",
+      "Redemption"
+    ],
+    "werkwoord_frequentie": {
+      "overcome": {
+        "count": 2,
+        "primair_subject": "God"
+      },
+      "forgive": {
+        "count": 6,
+        "primair_subject": "God/Man"
+      }
+    },
+    "notities": "The sermon avoids moralism by making the 'act of confession' a response to a 'divine confrontation' rather than a self-generated work."
+  }
+}

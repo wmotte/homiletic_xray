@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "titel_preek": "The Scroll That Would Not Be Shredded",
+    "bijbeltekst": "2 Kings 22-23, Jeremiah 36",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Historical narrative of King Josiah and King Jehoiakim's response to the scrolls; historical reference to Martin Luther; contemporary critique of Western capitalism and anxiety.",
+      "exegetische_kwaliteit": "High. Strong narrative arc connecting OT history to Reformation history and current social ethics.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher is primarily asserting historical and social truths to persuade the hearer of the need for reform.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I want to tell you the story...",
+        "The reason these scrolls will not be shredded is that they are truth-telling scrolls.",
+        "It is rather about the church in our time being deformed."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Awareness of social deformation and a desire for 'neighborliness'.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of change; the focus is on the 'staying power' of the word itself.",
+      "perlocutionaire_werkwoorden": [
+        "recognize",
+        "imagine",
+        "trust",
+        "obey",
+        "give away"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Josiah’s grandfather, Manasseh, had been king for a very long time.",
+        "The church among us is distorted.",
+        "Jesus is allied with the neighbor."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "tells",
+        "means",
+        "saw"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Walk in this light (implied)",
+        "If you cannot love... (conditional directive)"
+      ],
+      "dominante_werkwoorden": [
+        "love",
+        "give",
+        "be"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "I imagine that the deformation...",
+        "I believe, is the word of re-form."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "believe",
+        "dreads"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "God’s love is free to all those who trust."
+      ],
+      "dominante_werkwoorden": [
+        "is (as promise)",
+        "poured out"
+      ],
+      "kwaliteit": "Weak. The promises are stated as general theological facts rather than direct divine commitments to the listener."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "That word cannot be shredded!"
+      ],
+      "dominante_werkwoorden": [
+        "cannot"
+      ],
+      "autoriteit": "Moderate. The preacher declares the endurance of the Word but stops short of sacramental absolution or direct blessing."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical retelling (Josiah, Jehoiakim, Luther).",
+        "Third-person descriptions of 'the church' and 'society'.",
+        "Theological definitions of 'good news' rather than the act of proclaiming it."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of history and a social critic, rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct address of grace (Toezegging).",
+        "First-person divine speech (God saying 'I').",
+        "Present-tense sacramental declaration."
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential 'event'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "N/A",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Preacher's perspective ('I imagine', 'I believe')."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Mostly conditional ('If you cannot love') or general ('you cannot get rid of').",
+        "performatieve_context": "Low. Not used for direct blessing."
+      },
+      "derde_persoon": {
+        "frequentie": "120+",
+        "gebruik": "Dominant. Talking about Josiah, Luther, the church, the greed system.",
+        "distantie_effect": "High. It creates a lecture-like distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Narrating OT and Reformation history."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Describing the 'greed system' and 'the church' in general terms."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Concluding emphasis on the Word's endurance."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History/Social Critique) -> Directive (Implied: Be a neighbor).",
+      "voorbeelden": [
+        "The gospel takes the world as a neighborhood... we are the ones who believe..."
+      ],
+      "probleem": "Lacks the middle step of a Commissive/Declarative 'Promise' that enables the Directive."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "If you do not love your neighbor... you cannot love God (Law without Gospel foundation)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant socio-rhetorical lecture. It informs the hearer about the nature of the Word and the state of the church but fails to 'do' something to the hearer in God's name.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary depth",
+        "categorie": "Exegesis",
+        "tekstueel_bewijs": "The contrast between Josiah and Jehoiakim.",
+        "effect": "Engages the mind and imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary force",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "The sermon lacks a 'Thus says the Lord to YOU' moment.",
+        "probleem": "No encounter.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "3",
+    "gebeuren_toelichting": "It is a 'talking about' the event of the scroll, rather than the scroll becoming an event for the listener.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "Lacks declarative authority; the preacher speaks as an analyst, not a mandatory."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the scroll, but not the active speaker in the pulpit.",
+      "prediker_als_mandataris": "The preacher acts as a social commentator/historian.",
+      "tekstueel_bewijs": [
+        "I imagine that the deformation..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly relies on the 'truth' of the words to cause change.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, the sermon is treated as an 'impetus' for reform.",
+      "epifanisch_taalgebruik": "Low",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'is/was' (Assertives). Need for 'promise/forgive/bless' (Commissives/Declaratives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God’s love is free to all those who trust.",
+          "voorgestelde_revisie": "In the name of Jesus, I declare to you: God's love is yours today, free of charge.",
+          "verschil": "Moves from a general truth to a specific gift."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'Good News' is defined as a concept, not delivered as a promise.",
+      "suggestie": "Use 'I promise you' or 'God promises you' language.",
+      "voorbeeldzinnen": [
+        "God promises you that the greed system does not have the final word over your life."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' and 'the church'.",
+      "suggestie": "Use 'You' to implicate the hearer in both the crisis and the grace.",
+      "voorbeeldzinnen": [
+        "You are the ones God is re-forming right now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to love the neighbor feels like a heavy burden because it isn't preceded by the declaration of being loved.",
+      "suggestie": "Declare the hearer as 'beloved' before commanding 'neighborliness'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and prophetically sharp, but it needs to shift from 'talking about' the scroll to 'unrolling' the scroll over the heads of the congregation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of anxiety; SAT focuses on the lack of a 'Declarative' act that changes the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, this is excellent (metaphor of shredding); Homiletically (SAT), it is weak because it lacks illocutionary 'event' character.",
+    "unieke_inzichten_SAT": "SAT reveals that despite the 'prophetic' tone, the preacher is still just 'asserting' facts about the world rather than 'performing' the Kingdom."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "found",
+        "read",
+        "said",
+        "meant",
+        "tells",
+        "refuses",
+        "insists"
+      ],
+      "directief": [
+        "love",
+        "give",
+        "be",
+        "re-form"
+      ],
+      "expressief": [
+        "imagine",
+        "believe",
+        "dreads",
+        "interests"
+      ],
+      "commissief": [
+        "poured out",
+        "is free"
+      ],
+      "declaratief": [
+        "cannot be shredded"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The church among us is distorted.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Diagnosis",
+        "effectiviteit": "Informative"
+      },
+      {
+        "zin": "Jesus is allied with the neighbor.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Theological definition",
+        "effectiviteit": "Educational"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Prophetic Constative'—it speaks truth *about* the world but fails to speak the Word *into* the hearer."
+  }
+}

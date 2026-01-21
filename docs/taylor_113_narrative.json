@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "Farewell To A Friend",
+    "bijbeltekst": "Ecclesiastes 12:5",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The eulogizing of Marshall Shepard as a 'Master-Friend' whose life of service and friendship secures him a place in the 'long home' of eternal rest.",
+      "subject": {
+        "identificatie": "Marshall Shepard (The Deceased)",
+        "tekstueel_bewijs": [
+          "He went about doing good.",
+          "Marshall Shepard kept smiling and... went fishing.",
+          "He merited what was said... 'word of man shall praise the Master-Friend'."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Legacy, Friendship, and Eternal Rest",
+        "tekstueel_bewijs": [
+          "the fullness of his inheritance",
+          "a welcome table",
+          "his denomination's immense sense of loss"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "Human Virtue / Friendship",
+        "tekstueel_bewijs": [
+          "because he was my friend, and I his, I come to weep"
+        ],
+        "rol_interpretatie": "OTHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearers (Family, Church, Friends)",
+        "tekstueel_bewijs": [
+          "Cille, dear wife, you were the fiber and muscle of his soul.",
+          "Philadelphia, he loved you... and served your civic welfare."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Lucille (Wife), Lorenza (Son), and Friends",
+        "tekstueel_bewijs": [
+          "You were the fiber and muscle of his soul.",
+          "Lorenza, you will never know how much you helped your father."
+        ],
+        "rol_van_god": "God is largely absent as an active actant; God is a background setting.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Weariness, Prejudice, and Mortality",
+        "tekstueel_bewijs": [
+          "where weariness does not come",
+          "prejudice never poisons",
+          "the grasshopper shall be a burden"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The 'opponents' are the physical and social hardships Shepard overcame through his own character and the support of his family."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The preacher's own journey of friendship and grief.",
+      "subject": "Gardner C. Taylor (The Preacher)",
+      "object": "Commemoration and closure",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "The preacher uses his own friendship to validate the Subject's (Shepard's) status."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Human Virtue → Legacy/Rest → The Mourners",
+      "helper_subject_tegenstander": "Family/Friends → Marshall Shepard ← Weariness/Death",
+      "subject_naar_object": "Marshall Shepard → Doing Good/Eternal Inheritance"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "0",
+      "mens_als_subject_count": "42",
+      "ratio": "0:42",
+      "voorbeelden_god_subject": [],
+      "voorbeelden_mens_subject": [
+        "He went about doing good.",
+        "He merited what was said.",
+        "He loved this church.",
+        "He had an intrepid courage."
+      ],
+      "rutledge_score": "1"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "I must not linger upon this."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "he secretly was ready and anxious",
+          "he loved you with a schoolboy's ardor"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "knowing he had done no wrong"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "He never would have made safe port... without you.",
+          "he leaned upon you and never found you to fail him."
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the Subject's will (love, ardor, courage) and the power (Pouvoir) provided by human helpers. Salvation is presented as the natural 'inheritance' of a life well-willed."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Friendship/Life",
+      "s2": "Loneliness/Death",
+      "niet_s1": "Prejudice/Weariness",
+      "niet_s2": "Legacy/Memory"
+    },
+    "beweging_in_preek": "From S1 (Friendship) through ~S1 (Weariness/Prejudice) to ~S2 (Legacy/Memory) and finally back to a sentimentalized S1 (The Welcome Table).",
+    "theologische_resolutie": "Resolution is achieved through human endurance and the 'merit' of a good life.",
+    "ernst_van_s2": "Death is treated as a 'long home' or 'weariness' rather than a theological enemy requiring divine intervention."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While appropriate for a eulogy, homiletically this is pure anthropocentric moralism. The 'engine' of the story is Shepard's character and his family's support. God is not an actor in the text.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism",
+        "tekstueel_bewijs": "He merited what was said... Marshall Shepard was a master friend.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Human Subjectivity",
+        "tekstueel_bewijs": "He went about doing good.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Inheritance Language",
+        "tekstueel_bewijs": "witness his passing into the fullness of his inheritance",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Shepard is presented as the 'Master-Friend' and an 'intrepid' hero to be emulated and praised.",
+      "bijbelse_figuren_als_model": [
+        "Beowulf (Non-biblical hero used as the primary archetype)"
+      ],
+      "alternatieve_lezing": "God as the 'Master-Friend' who sustained Shepard through the valley of the shadow of death."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Sentimental comfort based on human merit.",
+      "theologische_implicatie": "Salvation is a reward for civic and personal virtue."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "Highly coherent as a secular/civic eulogy; completely lacks a primary soteriological program where God acts.",
+      "spanning_punten": [
+        "The use of 'He went about doing good' (traditionally applied to Jesus) is applied here exclusively to Shepard."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "OTHER",
+      "tekstueel_bewijs": "He merited what was said...",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "Competence is derived from the wife ('fiber and muscle of his soul') rather than the Spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is absent; only 'prejudice' (external) and 'weariness' (physical) exist."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative is driven by human actants (Shepard, Wife, Son, Friend). God is the 'Object' to be reached or the 'Location' of the end, but never the 'Subject' of the verbs.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "Shepard is the subject of 'doing good', 'meriting praise', and 'keeping courage'.",
+      "voorgestelde_herpositionering": "Make God the Subject who called, sustained, and now receives Shepard.",
+      "voorbeeld_revisie": "Instead of 'He went about doing good,' use 'The Christ who went about doing good took hold of Marshall Shepard and worked through him.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearers identify with the admirers of a great man.",
+      "voorgestelde_identificatie": "Hearers as fellow-sinners dependent on the same Grace that Shepard required.",
+      "strategie": "Shift focus from Shepard's 'intrepid courage' to God's faithfulness to a weary servant."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Vouloir (Shepard's will) and Pouvoir (Family's power).",
+      "voorgestelde_balans": "Pouvoir (God's power to resurrect).",
+      "concrete_suggestie": "Focus on God's 'Pouvoir-faire' in the face of the 'Opponent' (Death)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Death is just 'weariness' and 'winter's chill'.",
+      "voorgestelde_intensivering": "Present death as the 'last enemy' that only Christ can defeat.",
+      "theologische_rationale": "Without a heavy opponent, the 'inheritance' becomes a wage rather than a gift."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "The secondary program (Shepard's service) has replaced the primary program (God's salvation).",
+      "voorgestelde_structuur": "God's grace (Soteriology) → Shepard's friendship (Ethics)."
+    },
+    "overall_beoordeling": "WEAK",
+    "slotopmerking": "While rhetorically beautiful and deeply moving as a tribute, the sermon lacks the actantial structure of the Gospel. It celebrates the 'Master-Friend' rather than the 'Master of the Friend'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of pathos and ethos. Actantially, it is a vacuum of divine agency.",
+    "verschil_met_exegese": "Exegesis of Ecclesiastes 12:5 is used as a poetic descriptor of aging rather than a theological entry point into the human condition before God.",
+    "unieke_inzichten_greimas": "Greimas reveals that the 'Helper' role is entirely occupied by humans (Lucille, Lorenza), leaving no functional room for the Holy Spirit."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "I (Preacher) come to express",
+      "He (Shepard) went about doing good",
+      "He (Shepard) merited",
+      "He (Shepard) loved",
+      "He (Shepard) had courage",
+      "You (Lucille) were the fiber",
+      "You (Lorenza) helped"
+    ],
+    "volledige_object_lijst": [
+      "immense sense of loss",
+      "fullness of inheritance",
+      "doing good",
+      "safe port",
+      "civic welfare"
+    ],
+    "werkwoord_frequentie": {
+      "loved": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "knew": {
+        "count": "5",
+        "primair_subject": "Man"
+      },
+      "went": {
+        "count": "3",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon functions as a 'Canonization' of the deceased rather than a 'Proclamation' of the Gospel."
+  }
+}

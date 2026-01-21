@@ -1,0 +1,335 @@
+{
+  "metadata": {
+    "titel_preek": "Lent and Holy Week: Psalm 51 & Psalm 19",
+    "bijbeltekst": "Psalm 51; Psalm 19; Romans 5:8; 2 Cor 5:21",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Exegesis of Psalm 51 and 19 focusing on the theological nature of sin, the universality of human fallenness, and the substitutionary work of Christ.",
+      "exegetische_kwaliteit": "High. Distinguishes between ethical and theological concepts of sin and contextualizes the 'line of evil' through Solzhenitsyn and Tolkien.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting theological truths and explaining the nature of repentance, with a shift toward promising grace in the final sections.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Sin is only understood to be sin when God is understood to be God.",
+        "The recognition of sin is our response to God’s holiness.",
+        "God sees you as you really are, and he loves you."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Humility, cessation of self-defense, and trust in the mercy of God.",
+      "pneumatologisch_bewustzijn": "Implicit in the prayers, but the sermon text itself focuses more on Christological substitution than the Spirit's current agency.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "trust",
+        "cease pretense",
+        "acknowledge",
+        "receive mercy"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "Sin, at bottom, is not an ethical concept at all.",
+        "The enemy lines are hard to find.",
+        "Jesus, the Son of God, has voluntarily taken our place."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "wrote",
+        "reveals",
+        "means",
+        "demonstrated"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Look at the psalm again.",
+        "Let me be clear.",
+        "Beware of drawing lines between ourselves and others."
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "beware",
+        "let",
+        "see"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "5%",
+      "voorbeelden": [
+        "Thanks be to God.",
+        "We do not need to live out an exhausting charade."
+      ],
+      "dominante_werkwoorden": [
+        "thanks",
+        "need",
+        "lament"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "22",
+      "procent": "12%",
+      "voorbeelden": [
+        "God sees you as you really are, and he loves you.",
+        "He has wrought the salvation of his enemies."
+      ],
+      "dominante_werkwoorden": [
+        "loves",
+        "has wrought",
+        "extends",
+        "forgives"
+      ],
+      "kwaliteit": "Strong theological grounding, though often phrased in the 3rd person (God loves) rather than the 1st person mandatory (I announce to you)."
+    },
+    "declaratieven": {
+      "frequentie": "6",
+      "procent": "3%",
+      "voorbeelden": [
+        "In the Christian community, we can let ourselves be seen as the sinners we really are.",
+        "Perfect remission and forgiveness [in prayer]."
+      ],
+      "dominante_werkwoorden": [
+        "can",
+        "forgive",
+        "nullified"
+      ],
+      "autoriteit": "The authority is primarily derived from the biblical text rather than the preacher's office as a direct speaker for God in the moment."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of literary and historical anecdotes (Tolkien, Solzhenitsyn).",
+        "Theological definitions of sin ('Sin is not an ethical concept').",
+        "Describing the psalmist's experience rather than the hearer's current state."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological truth rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise (Toezegging) in the 2nd person singular/plural."
+      ],
+      "effect_op_hoorder": "The hearer knows *about* God's mercy but may not feel *addressed* by it."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "High theological quality, but often descriptive (Assertive) rather than Commissive.",
+      "voorbeelden": [
+        "God sees you as you really are, and he loves you."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Inclusive 'we' to group preacher and congregation under sin."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Used toward the end to apply the love of God.",
+        "performatieve_context": "Used in the final comfort section."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant. Talking about 'the psalmist', 'the Germans', 'the human being'.",
+        "distantie_effect": "Creates a lecture-like atmosphere for the first two-thirds."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and 20th-century anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "Theological definitions of sin and grace."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The 'now' of the Lenten season and the final address."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A - The sermon avoids moralistic legalism.",
+      "voorbeelden": [],
+      "probleem": "None"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from the reality of sin (Assertive) to the work of Christ (Commissive) to the call to live without pretense (Directive).",
+      "voorbeelden": [
+        "God sees you... and loves you... we do not need to lie."
+      ],
+      "kwaliteit": "Theologically sound, but the 'Declarative' link (I forgive you) is replaced by an 'Assertive' link (God loves you)."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because 'There is Another who has taken the sentence', therefore 'We do not need to surround ourselves with defenses'."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a masterful exposition of the Gospel that moves from the depth of sin to the height of grace, but it remains largely in the realm of 'talking about' the Gospel until the very end.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Sin is only understood to be sin when God is understood to be God.",
+        "effect": "Corrects shallow moralism."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The first 10 paragraphs are almost entirely 3rd person descriptions.",
+        "probleem": "Delayed encounter.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 7,
+    "gebeuren_toelichting": "It becomes an event in the final third when the address shifts to 'you'.",
+    "sacramentele_kracht": 6,
+    "sacramentele_toelichting": "Strong on the 'Promise' (Toezegging) but weak on the 'Declaration' (Absolution)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, God speaks through the text, but the preacher acts more as a witness than a herald.",
+      "prediker_als_mandataris": "Moderate. The preacher explains God's view.",
+      "tekstueel_bewijs": [
+        "The Bible teaches us to see ourselves as God sees us."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Only in the formal prayers.",
+      "perlocutie_theologie": "Not explicitly discussed.",
+      "tekstueel_bewijs": [
+        "through Jesus Christ... who liveth and reigneth with thee and the Holy Spirit."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the sermon aims to 'lift up and do away with' sin.",
+      "epifanisch_taalgebruik": "Moderate.",
+      "tekstueel_bewijs": [
+        "the goodness of the Lord is precisely the place where all our sin is lifted up."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'was' verbs; needs more 'I promise' and 'He declares'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God sees you as you really are, and he loves you.",
+          "voorgestelde_revisie": "I announce to you today: God sees you as you really are, and He loves you right now.",
+          "verschil": "Shifts from a general truth to a present-tense event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried under historical anecdotes.",
+      "suggestie": "Bring the 'Toezegging' (Promise) into the middle of the sermon, not just the end.",
+      "voorbeeldzinnen": [
+        "Hear this promise: Christ has taken your sentence."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'the psalmist' and 'the human being'.",
+      "suggestie": "Use 'you' (plural) to address the congregation directly as the subjects of the Psalm.",
+      "voorbeeldzinnen": [
+        "You are the ones who no longer need to lie."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually quite good.",
+      "suggestie": "Maintain the current foundation."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A deeply theological and comforting sermon that successfully avoids moralism, but could gain 'event-character' by increasing direct performative address."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT identifies that the preacher isn't just sending a 'message' about sin, but performing a 'judgment' and 'promise' on behalf of God.",
+    "verschil_met_retoriek": "The power here is in the Commissive (God's binding promise) rather than just the pathos of the Tolkien story.",
+    "unieke_inzichten_SAT": "SAT reveals that the 'Constative Surplus' in the first half risks making the cross a 'fact of the past' rather than a 'declaration for the present'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "wrote",
+        "reveals",
+        "understood",
+        "demonstrated",
+        "knows"
+      ],
+      "directief": [
+        "look",
+        "beware",
+        "let",
+        "repent"
+      ],
+      "expressief": [
+        "thanks",
+        "lament",
+        "hope"
+      ],
+      "commissief": [
+        "loves",
+        "extends",
+        "forgives",
+        "wrought"
+      ],
+      "declaratief": [
+        "nullified",
+        "cleansed",
+        "justified"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "God sees you as you really are, and he loves you.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "High - this is the turning point of the sermon."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'indicative' of the Gospel, which is its greatest strength."
+  }
+}

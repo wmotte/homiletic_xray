@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "Believing And Seeing",
+    "bijbeltekst": "John 11:40",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God (in Christ) confronts the finality of death and human refusal of communion to restore life and fellowship.",
+      "subject": {
+        "identificatie": "Jesus/God",
+        "tekstueel_bewijs": [
+          "He summons Lazarus from the grave.",
+          "Jesus makes a request — or was it a command?",
+          "God made us — with the high honor of choice."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The Glory of God / Life / Communion",
+        "tekstueel_bewijs": [
+          "thou shouldest see the glory of God",
+          "someone with whom he would have communion",
+          "access to capability"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Eternal/God's Nature",
+        "tekstueel_bewijs": [
+          "the principle teaching of the New Testament is that of a God whose ways are like Jesus'"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Lazarus / The Hearer / Humanity",
+        "tekstueel_bewijs": [
+          "we shall find ourselves conquerors",
+          "God made us"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Grace / The Holy Spirit (implied in benediction)",
+        "tekstueel_bewijs": [
+          "It takes nothing short of grace to get us... in sync",
+          "the grace of the Lord Jesus Christ"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Death (Finality) and Human Resistance (The Grain)",
+        "tekstueel_bewijs": [
+          "Kaput! Finis! The end!",
+          "cuts against the grain of what we are all about",
+          "Our refusal of God's company"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but 'finality' (death) and an ontological 'grain' that resists God."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The human response of believing in order to see.",
+      "subject": "The Hearer",
+      "object": "Seeing the glory of God",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The human 'believing' is presented as the condition for 'seeing', but this is nested within God's primary action of overcoming death."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Eternal → Glory/Life → Humanity",
+      "helper_subject_tegenstander": "Grace → Jesus ← Death/The Grain",
+      "subject_naar_object": "Jesus → Resurrection/Communion"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "He summons Lazarus from the grave.",
+        "Jesus makes a request.",
+        "God can suffer."
+      ],
+      "voorbeelden_mens_subject": [
+        "we will discover, we will be aware",
+        "we decide against the God who made us",
+        "we shall find ourselves conquerors"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "we must never believe that there are circumstances... beyond authority"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "God wanted someone with whom he would have communion",
+          "Christ sadly longed for Calvary"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we will discover, we will be aware"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "access to capability",
+          "authority and ability of the eternal God",
+          "it takes nothing short of grace to get us in sync"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Pouvoir' (Power/Ability) of God vs the 'Incompetence' of man. Grace is the endowment of power to a subject who 'cuts against the grain'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Life/Glory",
+      "s2": "Death/Finality",
+      "niet_s1": "Stench/Decomposition",
+      "niet_s2": "Believing/Seeing"
+    },
+    "beweging_in_preek": "From S2 (Finality) to ~S1 (Stench) to ~S2 (Believing) and finally S1 (Glory).",
+    "theologische_resolutie": "The tension is resolved by Christ's 'imperious word' which breaks the finality of S2.",
+    "ernst_van_s2": "High. The preacher emphasizes 'Kaput! Finis!' to ensure the miracle is not trivialized."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is fundamentally theocentric. While it calls for belief, it identifies the human condition as 'against the grain' and 'helpless,' requiring God's initiative and power.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional logic in the introduction",
+        "tekstueel_bewijs": "if we will look squarely at ourselves... we will discover",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as the Subject of the crux",
+        "tekstueel_bewijs": "He summons Lazarus from the grave.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "utter, total helplessness... decomposition",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Lazarus is not a model to follow, but a recipient of a miracle. Martha is a representative of human limitation, not a moral hero.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: God is the one who acts upon the dead."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe at God's capability.",
+      "theologische_implicatie": "Monergistic undertones; salvation is God's work."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The sermon moves logically from human incapacity to divine capacity.",
+      "spanning_punten": [
+        "The tension between 'If thou wouldest believe' (Human Subject) and 'He summons' (Divine Subject)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "authority and ability of the eternal God... conquerors",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "Grace is described as the force that 'gets us in sync'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; it is a 'grain' that must be cut across."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by God's 'Pouvoir' overcoming the 'Opponent' of Death. The hearer is correctly positioned as the Receiver.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_problem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Devoir (must believe) in the conclusion.",
+      "voorgestelde_balans": "Ensure 'believing' is seen as a gift (Pouvoir) rather than a work.",
+      "concrete_suggestie": "Frame 'believing' as the Spirit opening the eyes rather than a human venture."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Excellent use of 'decomposition' and 'stench'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "N/A",
+      "voorgestelde_structuur": "Soteriology (God raises Lazarus) correctly precedes Ethics (We venture forth)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of theocentric preaching that takes the 'Heavy Opponent' of death seriously to magnify the 'Pouvoir' of God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'grain' metaphor; Greimas shows the 'grain' is an Actantial Opponent.",
+    "verschil_met_exegese": "Exegesis explains the Greek; Greimas explains why the story feels 'final' before the miracle.",
+    "unieke_inzichten_greimas": "Reveals that the sermon's power comes from the Subject-switch from Martha's helplessness to Jesus' command."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus saith",
+      "Lord Jesus attracts",
+      "He says",
+      "Jesus wept",
+      "He summons",
+      "God made us"
+    ],
+    "volledige_object_lijst": [
+      "glory of God",
+      "Lazarus",
+      "communion",
+      "capability"
+    ],
+    "werkwoord_frequentie": {
+      "summons": {
+        "count": "1",
+        "primair_subject": "God"
+      },
+      "cuts": {
+        "count": "3",
+        "primair_subject": "God/Jesus"
+      },
+      "believe": {
+        "count": "4",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon successfully avoids the 'Helper-God' trap by making God the 'Subject' of the resurrection."
+  }
+}

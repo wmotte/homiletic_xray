@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Jesus Will Show",
+    "bijbeltekst": "Matthew 25:31-46",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The Cosmic Judge (Christ) returns to separate humanity, vindicating the 'least' and those who served them, ultimately swallowing the 'Old Adam' in the victory of Christ's righteousness.",
+      "subject": {
+        "identificatie": "Jesus Christ (The Son of Man/King)",
+        "tekstueel_bewijs": [
+          "he will sit on his glorious throne",
+          "he will separate them one from another",
+          "the One who will preside over it is the One who was crucified"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "The Redemption/Transformation of Humanity (The Receiver)",
+        "tekstueel_bewijs": [
+          "inherit the kingdom prepared for you",
+          "all in Christ shall all be made alive"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "blessed of my Father",
+          "kingdom prepared for you from the foundation of the world"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'Least', the Church, and the Hearer",
+        "tekstueel_bewijs": [
+          "Inasmuch as ye have done it unto one of the least of these my brethren",
+          "we will be there"
+        ],
+        "positie_hoorder": "The hearer identifies as the Receiver (the one needing mercy/the one surprised by grace)."
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Church's Witness",
+        "tekstueel_bewijs": [
+          "by his indwelling Spirit he will make us",
+          "the church exists... to testify to the truth"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Indwelling power"
+      },
+      "tegenstander": {
+        "identificatie": "The 'Old Adam' (Sin/Death) and Skepticism",
+        "tekstueel_bewijs": [
+          "the old Adam is right there underneath the surface",
+          "enslaved to sin",
+          "Jesus didn’t show (skepticism)"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad behavior but an ontological state ('Old Adam') that requires death and resurrection, not just moral effort."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The life of discipleship: serving the 'least' as a fruit of faith.",
+      "subject": "The Believer (in Christ)",
+      "object": "Acts of mercy (feeding, clothing, visiting)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly described as an 'unconscious' fruit of the primary program (soteriology)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God the Father → Kingdom → The Redeemed",
+      "helper_subject_tegenstander": "Holy Spirit → Jesus Christ ← Sin/Old Adam",
+      "subject_naar_object": "Jesus Christ → Salvation of the 'Least'"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 18,
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "Jesus Christ will be the Judge",
+        "He has compensated for our too-short list",
+        "the Master who does a lot more than just beckon"
+      ],
+      "voorbeelden_mens_subject": [
+        "we look both backward and forward",
+        "we bear our witness",
+        "one can never be said to have done one’s share"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "how they should conduct themselves"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "what we are intended to feel is... awe"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "Paul helps us understand",
+          "This is the beginning of wisdom"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "in Christ things can happen in me that I cannot do alone",
+          "by his indwelling Spirit he will make us"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes the inability of the human subject (Adam) and the enabling power (Pouvoir) of Christ/Spirit."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Life (In Christ)",
+      "s2": "Judgment/Death (In Adam)",
+      "niet_s1": "Moralism (Self-congratulation)",
+      "niet_s2": "Skepticism (Jesus didn't show)"
+    },
+    "beweging_in_preek": "Moves from the negation of skepticism (~S2) to the failure of moralism (~S1), landing on the substitutionary work of Christ (S1 taking the place of S2).",
+    "theologische_resolutie": "The 'Judge judged in our place' resolves the tension between human failure and divine holiness.",
+    "ernst_van_s2": "High; the 'eternal fire' and 'doomed' state of the self are explicitly mentioned."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places God/Christ as the active Subject of salvation and transformation, treating human works as an unconscious byproduct rather than a condition.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in McCain story",
+        "tekstueel_bewijs": "John McCain... recalled to my faith",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (Substitution)",
+        "tekstueel_bewijs": "the Judge judged in our place",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Critique of Self-Reliance",
+        "tekstueel_bewijs": "There is no human merit anywhere to bail us out.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are not used as models to imitate, but as participants in a cosmic drama.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sheep are surprised by their own actions, emphasizing that the action was Christ in them, not their own imitation."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe; moving from the 'Old Adam' to being 'In Christ'.",
+      "theologische_implicatie": "Monergistic sanctification (God works in the believer)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "Strong integration of the 'already' of the cross and the 'not yet' of the return.",
+      "spanning_punten": [
+        "The transition to the 'Pledge Sunday' feels slightly forced actantially, though theologically grounded in 'gratitude'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "covering our unrighteousness with his righteousness... the Judge judged in our place",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir-faire' (ability) that the Law merely demands."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Fatal; 'In Adam all die'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of theocentric narrative structure. Christ is the Subject of both the judgment and the fulfillment of the law.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Grace).",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "The current balance effectively counters the 'Devoir' (Moralism) of the culture."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The 'Old Adam' is a sufficiently heavy opponent.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ's reign) → Ethics (unconscious fruit)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful homiletical movement that avoids the trap of turning the Sheep/Goats parable into a new law."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the use of the Robert Hughes anecdote, semiotics reveals how Hughes functions as a 'Negative Sender' of values.",
+    "verschil_met_exegese": "Exegesis explains the sheep/goats; semiotics shows that the 'surprise' of the sheep is the key to the Subject-Object relationship (Grace).",
+    "unieke_inzichten_greimas": "Greimas's model exposes that the 'Old Adam' is a sub-actant within the hearer that must be defeated by the primary Subject (Christ)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus will show",
+      "He will separate",
+      "He has compensated",
+      "Spirit will make us"
+    ],
+    "volledige_object_lijst": [
+      "The Kingdom",
+      "Righteousness",
+      "New Life"
+    ],
+    "werkwoord_frequentie": {
+      "judge": {
+        "count": 8,
+        "primair_subject": "God"
+      },
+      "save": {
+        "count": 3,
+        "primair_subject": "God"
+      },
+      "do": {
+        "count": 12,
+        "primair_subject": "Man (often in failure or surprise)"
+      }
+    },
+    "notities": "The sermon explicitly critiques moralism, making the semiotic analysis align perfectly with the preacher's stated intent."
+  }
+}

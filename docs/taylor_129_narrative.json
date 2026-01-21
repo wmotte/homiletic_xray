@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "titel_preek": "Laodicea, Part III: The Door Of The Soul",
+    "bijbeltekst": "Revelation 3:20 (with 3:16-19)",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The Subject (Hearer) must exercise their unique sovereignty to open the door of the heart to Jesus, who is knocking but cannot enter without human permission.",
+      "subject": {
+        "identificatie": "The Hearer / Individual Soul",
+        "tekstueel_bewijs": [
+          "You are in control of something that not even God... can countermand.",
+          "You control that!",
+          "Why don't we open?"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation / Opening the Door / A Philosophy of Life",
+        "tekstueel_bewijs": [
+          "your soul's salvation",
+          "let the Lord in",
+          "something to give meaning to your years"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as a combination of Judgment and Mercy)",
+        "tekstueel_bewijs": [
+          "The mercy and the judgment, united here in the words of Christ"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The Preacher",
+        "tekstueel_bewijs": [
+          "He will bless your life!",
+          "I thank God that fifty-odd years ago I heard the Lord knocking"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Memory, Conscience, Mind, Events, and Jesus (as the one knocking)",
+        "tekstueel_bewijs": [
+          "the Lord knocks on the door of memory",
+          "Christ makes sense to the mind!",
+          "He'll give you friends, and he'll put food on your table!"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Human Indifference / Pride / 'Living in the back of the house'",
+        "tekstueel_bewijs": [
+          "maybe they live in the back of the house",
+          "protect itself pridefully",
+          "spotted and confused"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is not a cosmic power like Sin or Death, but rather a human failure to respond or a lack of focus."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The pursuit of worldly wealth and 'reality' without philosophy.",
+      "subject": "The 'Fool' / Secretary of Treasury",
+      "object": "Money / Reality without meaning",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The preacher uses secular success as a foil to spiritual success, but both remain centered on the Subject's choice."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Judgment/Mercy) → Salvation → The Hearer",
+      "helper_subject_tegenstander": "Memory/Jesus → The Hearer ← Indifference",
+      "subject_naar_object": "The Hearer → Opening the Door"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "42",
+      "ratio": "0.33",
+      "voorbeelden_god_subject": [
+        "God will put our sins behind his back.",
+        "He will bless your life!",
+        "God knocks."
+      ],
+      "voorbeelden_mens_subject": [
+        "You control that!",
+        "You are in command of that.",
+        "Why don't we open?",
+        "I thank God that I heard it and I answered it."
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "We had better not play loose with this.",
+          "conscience is that part of us which says you ought"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "if we will let him",
+          "Why don't they open?",
+          "Let him in!"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Christ makes sense to the mind!",
+          "Your sense will tell you that, won't it?"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "You are in control of something that not even God... can countermand.",
+          "You control that!",
+          "Christ says not only 'you ought,' but also 'you can.'"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a recruitment of the will. It assumes the hearer has the 'Pouvoir' (power) and merely needs the 'Vouloir' (motivation) to act."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Mercy / Opening",
+      "s2": "Judgment / Spewing",
+      "niet_s1": "Indifference / Closed Door",
+      "niet_s2": "Cheap Grace / Heine's Raisins"
+    },
+    "beweging_in_preek": "From S2 (Judgment) to ~S2 (Warning against cheap grace) to S1 (The invitation to open).",
+    "theologische_resolutie": "The tension is resolved by the human act of opening the door, which triggers the transition from Judgment to Mercy.",
+    "ernst_van_s2": "High. The 'spewing' and 'last knock' are used as rhetorical leverage."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using high Christological language, the deep structure is anthropocentric. The hearer is the primary Subject of the salvation event, and God is rendered passive, waiting on human permission.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Human Sovereignty over God",
+        "tekstueel_bewijs": "God is not in control of your decision about your soul's salvation. You are in command of that.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "He'll give you friends, and he'll put food on your table!",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Substitutionary Hint",
+        "tekstueel_bewijs": "someone who takes our part... someone who takes up for us.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The preacher's own conversion and the rancher's response serve as models for the hearer's required action.",
+      "bijbelse_figuren_als_model": [
+        "The Penitent Thief"
+      ],
+      "alternatieve_lezing": "Focus on Christ as the one who breaks down the door (Harrowing of Hell) rather than the one who waits for it to be opened."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform the 'act of opening'; anxiety regarding the 'last knock'.",
+      "theologische_implicatie": "Synergism where the human will is the decisive factor."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The sermon is rhetorically powerful but structurally incoherent regarding God's omnipotence vs. human will.",
+      "spanning_punten": [
+        "God as Judge vs. God as helpless knocker.",
+        "Salvation as a gift vs. salvation as a result of 'not playing loose'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "He says his grandmother's face came back before him, because the Lord knocks on the door of memory.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is replaced by 'Memory' and 'Conscience' as psychological helpers."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Serious, but treatable by a change of mind/will."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Law' sermon even when speaking of 'Mercy' because Mercy is presented as a conditional reward for the Subject's decision.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the Subject of 'opening' and 'saving'.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who 'opens the heart' (as in the case of Lydia in Acts).",
+      "voorbeeld_revisie": "Instead of 'You must open,' use 'Christ is so persistent that He breaks through our defenses to sup with us.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the one in control.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize the 'deadness' of the soul (Ephesians 2) so that only God can act."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominant Vouloir (Will).",
+      "voorgestelde_balans": "Increase Pouvoir (God's Power).",
+      "concrete_suggestie": "Focus on how God enables the hearing of the knock in the first place."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Trivial (living in the back of the house).",
+      "voorgestelde_intensivering": "Sin as a deadbolt that only Christ can remove.",
+      "theologische_rationale": "To move away from Pelagianism."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (opening/deciding) precedes Soteriology.",
+      "voorgestelde_structuur": "God's entry (Soteriology) creates the response (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has immense rhetorical warmth and 'heart,' but it risks leaving the hearer in despair by making God's grace contingent upon the hearer's psychological state."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the pathos and storytelling; Greimas reveals the hearer is doing all the work.",
+    "verschil_met_exegese": "Exegesis might miss that 'opening the door' has been turned from a metaphor into a legal requirement.",
+    "unieke_inzichten_greimas": "Greimas exposes the 'Subject-switch' where God is demoted from Sovereign to a polite visitor."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "You (control)",
+      "You (command)",
+      "We (open)",
+      "I (thank)",
+      "He (knocks)",
+      "He (blesses)"
+    ],
+    "volledige_object_lijst": [
+      "salvation",
+      "door",
+      "philosophy",
+      "meaning"
+    ],
+    "werkwoord_frequentie": {
+      "open": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "knock": {
+        "count": "15",
+        "primair_subject": "God"
+      },
+      "control": {
+        "count": "3",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Decisionism' where the narrative engine is powered by human volition."
+  }
+}

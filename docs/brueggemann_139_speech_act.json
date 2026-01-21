@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "titel_preek": "Awaiting the Verdict",
+    "bijbeltekst": "John 18-19; Isaiah 53",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "950"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A narrative retelling of the trial of Jesus before Pilate, contrasting imperial power (Pilate) with covenantal justice (Jesus). It uses the Isaiah 53 'Man of Sorrows' motif and concludes with the disciples' meal.",
+      "exegetische_kwaliteit": "Strong narrative exegesis; focuses on the sociopolitical dimensions of the Johannine trial and the characterization of the 'God of the covenant'.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting historical and theological truths to set a scene, with a late shift toward inviting a decision.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "He is a stand-in for Caesar.",
+        "This is the God who showed up as the emancipator.",
+        "The trial is being reenacted again in our midst."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the hearer feel the weight of the 'pivot point' and to force a choice between two types of power.",
+      "pneumatologisch_bewustzijn": "Low; the sermon relies on the 'drama' and the hearer's 'decision' rather than an explicit invocation of the Spirit's work.",
+      "perlocutionaire_werkwoorden": [
+        "decide",
+        "wonder",
+        "recognize",
+        "participate"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "He is the Roman governor.",
+        "Jesus stands in the courtroom.",
+        "It is a trial we get to remember."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "stands",
+        "appears",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "We have to decide.",
+        "Do you know what they ate?"
+      ],
+      "dominante_werkwoorden": [
+        "decide",
+        "know"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "I suppose for us...",
+        "I imagine one of them said..."
+      ],
+      "dominante_werkwoorden": [
+        "suppose",
+        "imagine",
+        "wonder"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "The verdict will not be long in coming."
+      ],
+      "dominante_werkwoorden": [
+        "will be"
+      ],
+      "kwaliteit": "Weak; the 'promise' is framed as an impending event rather than God binding Himself to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent; the preacher describes the event but does not perform the event (e.g., no absolution or direct blessing)."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive 3rd person descriptions of Pilate and Jesus.",
+        "Lengthy lists of what God 'is' or 'did' in the past.",
+        "The sermon 'talks about' the trial as a drama to be observed."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical/theological drama rather than a participant in a current encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct address of grace (Toezegging)",
+        "Declarative forgiveness",
+        "Commissives where God's promise is applied to the 'you'."
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'verdict' to make themselves, rather than receiving a verdict from God."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "None; the sermon ends on a question and a demand for a decision.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Mostly 'we' (inclusive of the congregation as observers) and 'I imagine'."
+      },
+      "tweede_persoon": {
+        "frequentie": "4",
+        "gebruik": "Very low; used mostly in rhetorical questions ('Do you know?').",
+        "performatieve_context": "Not used for promises."
+      },
+      "derde_persoon": {
+        "frequentie": "120",
+        "gebruik": "Dominant; describing Jesus, Pilate, the crowd, and the disciples.",
+        "distantie_effect": "High; creates a 'theatre' effect where the action is 'over there' and 'back then'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Narrating the Passion story."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Describing the character of God (Assertives)."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final call to 'decide the verdict'."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (The story of the trial) -> Directive (You must decide the verdict).",
+      "voorbeelden": [
+        "The trial is being reenacted... we get to decide the verdict."
+      ],
+      "probleem": "It bypasses the Commissive/Declarative. God does not act; the human hearer is the final actor."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the 'Promise' (Toezegging) that links the cross to the hearer's life.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We are left... with the haunting question... the verdict will not be long in coming."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While theologically rich, the sermon functions as a 'call to choose' between two systems of power. Because it lacks a declarative word of grace, it places the burden of the 'verdict' on the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Locution",
+        "categorie": "Locutie",
+        "tekstueel_bewijs": "The contrast between Pilate's 'whole loaf' and Jesus' 'broken bread'.",
+        "effect": "Creates a vivid mental image of the two kingdoms."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocutie",
+        "tekstueel_bewijs": "Entirety of Section IV.",
+        "probleem": "No promise is given to the hearer; only questions are asked.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "The sermon is a lecture about a trial rather than the trial itself breaking into the present. The 'event' is deferred to the hearer's decision.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The mention of bread and wine is constative (talking about what they ate) rather than performative (offering the body/blood now)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; God is the subject of the talk, not the speaker of the word.",
+      "prediker_als_mandataris": "Weak; the preacher acts more as a narrator/commentator.",
+      "tekstueel_bewijs": [
+        "I imagine...",
+        "We have to decide."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is attributed to human 'courage' and 'decision' rather than the Spirit.",
+      "tekstueel_bewijs": [
+        "He lacks the courage to recognize..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the sermon is a 'context for truth' but not the 'delivery of grace'.",
+      "epifanisch_taalgebruik": "Low; the language is descriptive/analytical.",
+      "tekstueel_bewijs": [
+        "It is a trial we get to observe."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Overwhelming dominance of 'is' and 'was'. Complete absence of 'I declare' or 'He promises you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus stands in the courtroom... wounded for our transgressions.",
+          "voorgestelde_revisie": "Tonight, Jesus stands here for you; He is wounded for your transgressions so that you may be free.",
+          "verschil": "Shifts from a general fact to a direct address/gift."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The sermon ends with a 'haunting question' instead of a 'sure promise'.",
+      "suggestie": "Incorporate the 'Verdict of God' (Justification) as a declarative act.",
+      "voorbeeldzinnen": [
+        "The verdict is already in: In Christ, you are acquitted."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' and 'they', not enough 'you'.",
+      "suggestie": "Use the 2nd person to apply the Isaiah 53 text directly.",
+      "voorbeeldzinnen": [
+        "He was held of no account for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative ('decide') is not founded on a declarative gift.",
+      "suggestie": "Declare the victory of the 'broken bread' before asking for a decision."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually and narratively engaging, but it stays in the 'courtroom of the mind'. To become an 'event', it must move from describing the trial to delivering the verdict of grace to the listener."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' (Sachebene) of the sermon; SAT reveals that the 'appeal' is actually a legalistic burden because the 'Declarative' (the work of God) is missing.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (metaphors, structure). SAT shows that despite good rhetoric, the illocutionary force is stagnant (Assertive surplus).",
+    "unieke_inzichten_SAT": "SAT identifies that the preacher has 'objectified' the Passion, making the hearer a judge of Jesus rather than Jesus the Savior of the hearer."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "appears",
+        "stands",
+        "means",
+        "was",
+        "carried",
+        "paid",
+        "valued"
+      ],
+      "directief": [
+        "decide",
+        "wait",
+        "look"
+      ],
+      "expressief": [
+        "imagine",
+        "wonder",
+        "suppose"
+      ],
+      "commissief": [
+        "will (not) be long"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "We get to decide the verdict.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Urging",
+        "effectiviteit": "Low; creates pressure rather than peace."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'homiletical midrash'—it retells the story well but fails to 'perform' the Gospel as a present-tense event."
+  }
+}

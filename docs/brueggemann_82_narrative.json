@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "On the Road Again! PSALM 121",
+    "bijbeltekst": "Psalm 121, Romans 4, John 3",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1050"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The journey of faith from safe, controlled places toward a new neighborhood of shalom, sustained by a reliable Guardian.",
+      "subject": {
+        "identificatie": "The Hearer/Believer ('We')",
+        "tekstueel_bewijs": [
+          "We are on the road again",
+          "we... must also travel beyond safe places",
+          "we are left to decide to stay or to go"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Generative Newness / The Neighborhood of Shalom",
+        "tekstueel_bewijs": [
+          "the neighborhood of shalom",
+          "moving into the generative newness given by God"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The God of all travel / The Self-Starter",
+        "tekstueel_bewijs": [
+          "dispatched by God",
+          "the God who calls into existence the things that do not exist"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The World/The Neighbor",
+        "tekstueel_bewijs": [
+          "to be a blessing to the others around them",
+          "love the neighbor whom we have seen"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "God (as Keeper/Guardian)",
+        "tekstueel_bewijs": [
+          "The LORD is your keeper",
+          "My help comes from the LORD"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "The Old Self / Conventional Privilege",
+        "tekstueel_bewijs": [
+          "world of privilege, entitlement, power, and wealth",
+          "greedy, anxious anti-neighborliness"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily the socio-economic status quo and the psychological 'stubborn refusal' of the hearer."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "God's own journey to Jerusalem and the cross to provide for the world.",
+      "subject": "God/Jesus",
+      "object": "The World",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "God's performance (Easter) provides the 'traveling mercies' that enable the human journey."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Shalom → The Neighbor",
+      "helper_subject_tegenstander": "God (Keeper) → Hearer ← Greed/Privilege",
+      "subject_naar_object": "Hearer → New Life/Justice"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "22",
+      "mens_als_subject_count": "34",
+      "ratio": "0.65",
+      "voorbeelden_god_subject": [
+        "God intends",
+        "God calls into existence",
+        "The LORD will keep you"
+      ],
+      "voorbeelden_mens_subject": [
+        "We are on the road again",
+        "we must also travel",
+        "we are left to decide"
+      ],
+      "rutledge_score": "5"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "we... must also travel",
+          "departure now required"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Nicodemus does not want to go",
+          "willingness of Abraham"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "awareness that our conventional way of life"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "we may journey to a new self",
+          "we may consider where we are summoned"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the recruitment of the will (Willingness vs. Refusal)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Departure (Faith)",
+      "s2": "Staying (Privilege/Death)",
+      "niet_s1": "Dropping Out (Nicodemus)",
+      "niet_s2": "Traveling Mercies (Grace)"
+    },
+    "beweging_in_preek": "From the safety of S2, through the failure of ~S1 (Nicodemus), toward the risk of S1, supported by ~S2.",
+    "theologische_resolutie": "The tension is resolved by God's character as 'Keeper' who makes the risky journey possible.",
+    "ernst_van_s2": "High; staying is equated with death and 'anti-neighborliness'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While God is the source of power, the narrative engine is driven by the human decision to 'go' or 'stay'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Narrative",
+        "tekstueel_bewijs": "if we linger... we drop out of the narrative",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Subject-Switch to Hearer",
+        "tekstueel_bewijs": "we are left to decide to stay or to go",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Sole Self-Starter",
+        "tekstueel_bewijs": "This God is the only self-starter",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Grace as Provision",
+        "tekstueel_bewijs": "we will receive gestures of that self-giving God",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Abraham is the model of willingness; Nicodemus is the model of refusal.",
+      "bijbelse_figuren_als_model": [
+        "Abraham",
+        "Nicodemus"
+      ],
+      "alternatieve_lezing": "Focus on God who calls Abraham out of nothingness, rather than Abraham's trust as the catalyst."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to choose correctly; anxiety regarding 'dropping out'.",
+      "theologische_implicatie": "Synergism: God provides the road and the protection, but the human must walk it to remain in the narrative."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The ethical program (justice/neighborliness) is well-integrated as the destination of the journey.",
+      "spanning_punten": [
+        "God as 'only self-starter' vs. 'we are left to decide'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "participation or dropping out",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "Help (God as 'Keeper' alongside the traveler)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Moderate; sin is 'self-indulgent consumerism' and 'anxiety'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a 'Recruitment' narrative. It uses God as a Helper to facilitate a Human Subject's journey.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the one who must 'move' to stay in God's story.",
+      "voorgestelde_herpositionering": "Make God the Subject who 'carries' or 'moves' the traveler.",
+      "voorbeeld_revisie": "Instead of 'we must travel,' use 'The God who called Abraham now carries us beyond our safe places.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'decider' between life and death.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that we are the 'Object' of God's keeping before we are the 'Subject' of the walking."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Vouloir (Willingness)",
+      "voorgestelde_balans": "Pouvoir (Empowerment)",
+      "concrete_suggestie": "Focus more on how the 'Self-giving God' creates the ability to leave privilege."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Social/Psychological",
+      "voorgestelde_intensivering": "Frame the 'old self' as a dead end that only a resurrection (not just a journey) can fix.",
+      "theologische_rationale": "To move from moral improvement to radical grace."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "The hierarchy of 'Gift then Task' is present but the 'Task' dominates the verbs."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a strong prophetic edge and beautiful imagery, but risks turning the Gospel into a 'summons to travel' rather than 'news of a rescue'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'we' creates community; actantially, it places the burden of the narrative on the congregation.",
+    "verschil_met_exegese": "Exegesis shows Psalm 121 is about God's protection; Greimas shows the sermon uses that protection to fuel a human ethical journey.",
+    "unieke_inzichten_greimas": "Reveals that Nicodemus is cast as a 'failed subject' which creates a conditional soteriology."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (are on the road)",
+      "Abraham (went)",
+      "God (dispatched)",
+      "Nicodemus (does not want to go)",
+      "The LORD (is your keeper)"
+    ],
+    "volledige_object_lijst": [
+      "New land",
+      "New self",
+      "Neighborhood of shalom",
+      "Traveling mercies"
+    ],
+    "werkwoord_frequentie": {
+      "travel/go": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "keep": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon leans heavily on the 'Journey' metaphor which naturally privileges human agency."
+  }
+}

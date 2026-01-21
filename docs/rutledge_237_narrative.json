@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Preaching without Distinction",
+    "bijbeltekst": "Romans 10:5–13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God bridges the gap between His holiness and human failure by drawing near through the Word to bestow righteousness as a gift.",
+      "subject": {
+        "identificatie": "God / The Word of Faith",
+        "tekstueel_bewijs": [
+          "it pleased God through the foolishness of what we preach to save",
+          "He comes to find you",
+          "God makes it happen"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Righteousness / Salvation / '5.0 Rating'",
+        "tekstueel_bewijs": [
+          "the righteousness based on faith",
+          "bestows his riches upon all",
+          "you will be saved"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "it is God’s gift to you",
+          "the promise of the Almighty Father"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (without distinction)",
+        "tekstueel_bewijs": [
+          "bestows his riches upon all who call upon him",
+          "needy people redeemed"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Preacher / The Message of Christ",
+        "tekstueel_bewijs": [
+          "the message comes from the preaching of Christ",
+          "the word of faith which we preach"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (The Word drawing near)"
+      },
+      "tegenstander": {
+        "identificatie": "The Law / The 'Rating' System / Sin",
+        "tekstueel_bewijs": [
+          "the fear of not measuring up",
+          "righteousness based on law",
+          "archaic religious concerns called sins"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is the objective standard of a Holy God which humans cannot meet, resulting in a 'minus-point-one' status."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The human attempt to ascend to God through moral or religious performance.",
+      "subject": "The Human / The 'In-group'",
+      "object": "Self-justification / Merit",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon identifies this program as a 'futility of flailings' that must be abandoned for the primary program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Righteousness → Needy People",
+      "helper_subject_tegenstander": "Preaching → God ← The Law/Sin",
+      "subject_naar_object": "God → Salvation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has chosen",
+        "He comes to find you",
+        "God makes it happen",
+        "God is calling forth this response"
+      ],
+      "voorbeelden_mens_subject": [
+        "we labor under the fear",
+        "we can measure our worth",
+        "if you confess"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "the man who practices... shall live by it"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "striving never ends",
+          "desperate journeys"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "decipher these archaic religious concerns"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "the power of God for salvation",
+          "there is nothing you can do to add to this"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) of God to save, contrasting it with the human lack of power to 'ascend' or 'descend'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace (Righteousness by Faith)",
+      "s2": "Judgment (The 2.4 Rating/Sin)",
+      "niet_s1": "Legalism (Righteousness by Law)",
+      "niet_s2": "Impunity (Fuzzy God/Suit ourselves)"
+    },
+    "beweging_in_preek": "Moves from ~S2 (denial of sin) to S2 (the fear of the 2.4 rating) to ~S1 (religious striving) and finally to S1 (radical grace).",
+    "theologische_resolutie": "Christ takes the S2 position, allowing the hearer to receive S1 as a gift.",
+    "ernst_van_s2": "High; the 'pit of the stomach' fear and the 'minus-point-one' rating take the holiness of God seriously."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places God as the active Subject of salvation and defines righteousness as an external gift rather than a human achievement.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional language (If/Then)",
+        "tekstueel_bewijs": "if you confess... you will be saved",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as active Subject",
+        "tekstueel_bewijs": "You do not go to find Jesus; he comes to find you.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Unconditional Gift",
+        "tekstueel_bewijs": "it is God’s gift to you, not your gift to him.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Biblical and contemporary figures are used as examples of the *failure* of human righteousness or as fellow 'needy people', not as models to imitate.",
+      "bijbelse_figuren_als_model": [
+        "Moses (as writer of Law)",
+        "Thomas Merton (as fellow sinner)"
+      ],
+      "alternatieve_lezing": "Theocentric: God justifies the ungodly (Merton, the preacher, and the hearer)."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the anxiety of 'measuring up'.",
+      "theologische_implicatie": "Monergistic salvation; God is the sole author of the '5.0 rating'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The narrative of human striving is completely subordinated to the narrative of God's 'hard news'.",
+      "spanning_punten": [
+        "The tension between the 'arrogance' of preaching and the 'pleasure' of God using it."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "by the merits of Jesus Christ you are receiving a five-point rating",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Word 'awakens' faith, providing the competence (Pouvoir) the hearer lacks."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Critical; described as a 'dire predicament' and a 'minus-point-one' rating."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of a theocentric actantial structure where God is the Subject and the hearer is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominant Pouvoir (God's power)",
+      "voorgestelde_balans": "Maintain current balance",
+      "concrete_suggestie": "The sermon correctly identifies that 'knowing' (Savoir) and 'must' (Devoir) are useless without 'power' (Pouvoir)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Strongly defined as the 'holy scrutiny' of God.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The seriousness of the opponent makes the grace 'hard news' rather than 'cheap'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Program 1) is the exclusive focus."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful deconstruction of moralism that maintains God as the Subject of the active verbs throughout."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'People' magazine hook, Greimas shows the hook serves to establish the 'Opponent' (Sin/Judgment).",
+    "verschil_met_exegese": "Exegesis explains Romans 10; semiotics shows how the sermon *performs* the 'nearness' of the Word described in the text.",
+    "unieke_inzichten_greimas": "Reveals that the 'preacher' is not the Subject but a 'Helper' to the Word's own agency."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (chooses, preaches, saves, draws near, bestows, calls forth)",
+      "The Word (is near, happens)",
+      "We (labor, strive, fail, confess)"
+    ],
+    "volledige_object_lijst": [
+      "Righteousness",
+      "Salvation",
+      "The 5.0 Rating",
+      "Hard News"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "6",
+        "primair_subject": "God"
+      },
+      "preach": {
+        "count": "8",
+        "primair_subject": "God/Preacher"
+      },
+      "strive": {
+        "count": "3",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses the 'rating' metaphor to bridge the gap between archaic language and modern experience without losing the 'Heavy Opponent' of God's holiness."
+  }
+}

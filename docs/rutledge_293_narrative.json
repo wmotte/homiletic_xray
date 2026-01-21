@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Strange Ending, Unthinkable Beginning",
+    "bijbeltekst": "Mark 16:8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in a dying world to raise Jesus from the dead, an act that is qualitatively different from nature and human expectation, creating a new reality that the church witnesses to.",
+      "subject": {
+        "identificatie": "God (The Creator/The Lord)",
+        "tekstueel_bewijs": [
+          "something utterly new and unlooked for has been done by God",
+          "God who 'calls into existence the things that do not exist'",
+          "the risen Lord was going before them... creating the new conditions"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Resurrection (The reversal of death/The New Creation)",
+        "tekstueel_bewijs": [
+          "the resurrection of the dead",
+          "an unlooked-for reversal of everything",
+          "world-overturning power"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Biblical Decree",
+        "tekstueel_bewijs": [
+          "God decreed death... But the decree has been set aside"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity / The Church / The Hearer",
+        "tekstueel_bewijs": [
+          "Christ has entered death... for our sakes",
+          "the gift of the God"
+        ],
+        "positie_hoorder": "The hearer identifies as the Receiver (the one who is terrified and then gifted)."
+      },
+      "helper": {
+        "identificatie": "The Witnesses / The Angel / The Preacher",
+        "tekstueel_bewijs": [
+          "the message of the young man",
+          "I trust the witnesses",
+          "the preacher is... one who testifies"
+        ],
+        "rol_van_god": "God is the Subject; Christ is the Mediator/First-fruits.",
+        "rol_van_geest": "Implicitly the power that enables faith/trust in the witness."
+      },
+      "tegenstander": {
+        "identificatie": "Death, Nature, and Human Misunderstanding (Generic Easter)",
+        "tekstueel_bewijs": [
+          "the furrows of the grave",
+          "resistance to the real message... is deeply entrenched",
+          "generic Easter"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is treated as an ontological wall that nature cannot scale; only a 'mighty event from beyond nature' can overcome it."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's transition from fear/anesthetization to witnessing and trust.",
+      "subject": "The Hearer/The Church",
+      "object": "Faith/Witness",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (witnessing) is entirely dependent on the primary program (God's act of raising Jesus)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Resurrection → Humanity",
+      "helper_subject_tegenstander": "Witnesses → God ← Death/Nature",
+      "subject_naar_object": "God → New Creation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has done something utterly new.",
+        "The risen Lord was already creating the new conditions.",
+        "God decreed death... the decree has been set aside [by God]."
+      ],
+      "voorbeelden_mens_subject": [
+        "The women fled from the tomb.",
+        "We have no human right to hope for it.",
+        "I trust the witnesses."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "we are just going to have to get used to this"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we no longer hear it as it was meant to be heard"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "I don't 'know' it exactly... it is a gift of faith"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "Christ... has wrested supremacy away from them forever.",
+          "God who calls into existence the things that do not exist."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God's 'ability' (Pouvoir) to do what is impossible for man. It rejects the 'Devoir' (moralism) of self-improvement."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Resurrection (New Creation)",
+      "s2": "Death (The Grave/Nature)",
+      "niet_s1": "Generic Easter (Bunnies/Spring)",
+      "niet_s2": "Immortality of the Soul (Natural survival)"
+    },
+    "beweging_in_preek": "Moves from ~S1 (Generic Easter) to S2 (The reality of the grave) to S1 (The radical act of God).",
+    "theologische_resolutie": "Resolution is found only in the 'unlooked-for reversal' by God, not in natural cycles.",
+    "ernst_van_s2": "Extremely high; death is described as a 'torment' and 'furrows'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. God is the primary actor; the human role is reduced to 'trembling' and 'witnessing.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "None found",
+        "tekstueel_bewijs": "N/A",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "God has done something utterly new.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Christ has entered death and descended into hell... and has wrested supremacy away.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The women are not models of faith to emulate, but models of human inadequacy in the face of God's power.",
+      "bijbelse_figuren_als_model": [
+        "The women (as terrified witnesses)"
+      ],
+      "alternatieve_lezing": "The sermon already provides the theocentric reading: their fear proves the magnitude of God's act."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe; the burden of 'saving oneself' or 'renewing oneself' is removed.",
+      "theologische_implicatie": "Monergistic salvation: God acts, man receives."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The narrative is perfectly integrated; the 'strange ending' of Mark serves the theological point of God's transcendence.",
+      "spanning_punten": [
+        "The tension between 'knowing' and 'trusting' is the only friction point."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "wrested supremacy away from them forever",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Spirit is not mentioned by name, but the 'gift of faith' implies the Spirit's work."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin/Death is a decree that only God can set aside."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject and the Resurrection as a divine intrusion rather than a human potential.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for an Easter sermon.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as the 'furrows of the grave'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's act) correctly precedes and grounds the secondary program of Witness."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in theocentric preaching that avoids the trap of moralistic 'renewal' language."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Easter card' metaphor, Greimasian analysis reveals that the metaphor serves to distinguish between two different Subjects (Nature vs. God).",
+    "verschil_met_exegese": "Exegesis explains Mark 16:8; semiotics shows how the preacher uses that 'fear' to strip the hearer of actantial agency, making them a pure Receiver.",
+    "unieke_inzichten_greimas": "Reveals that 'Generic Easter' is a narrative where Nature is the Subject, whereas 'Real Easter' is a narrative where God is the Subject."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (acts)",
+      "Christ (enters death)",
+      "The Women (flee)",
+      "The Preacher (witnesses)"
+    ],
+    "volledige_object_lijst": [
+      "Resurrection",
+      "New Creation",
+      "Victory over death"
+    ],
+    "werkwoord_frequentie": {
+      "raised": {
+        "count": "8",
+        "primair_subject": "God"
+      },
+      "fled": {
+        "count": "3",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a perfect example of Rutledge's grammar of grace."
+  }
+}

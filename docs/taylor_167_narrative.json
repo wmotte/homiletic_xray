@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "True Worship",
+    "bijbeltekst": "Psalm 95:6-7; 2 Chronicles 25:14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from false worship (idolatry/racism) to true worship (adoration/submission) through the recognition of God as Creator.",
+      "subject": {
+        "identificatie": "The Hearer/Worshiper",
+        "tekstueel_bewijs": [
+          "O come, let us worship and bow down",
+          "You must make your own list",
+          "we all ought to know and observe"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "True Worship (Adoration and Submission)",
+        "tekstueel_bewijs": [
+          "True worship means adoration of and submission to the God who has made us"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Preacher/The Law of Creation",
+        "tekstueel_bewijs": [
+          "That brings us to a serious principle which we all ought to know",
+          "He is Creator and Owner and therefore has a right to make demands"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "God (as the recipient of praise) and the Worshiper (as the one edified)",
+        "tekstueel_bewijs": [
+          "I would bless and praise thee",
+          "excitement can be ours"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Sacred Memory and Aesthetic Environment",
+        "tekstueel_bewijs": [
+          "the testimony of gallant souls who have lived and died here",
+          "the glory and grandeur of the temple"
+        ],
+        "rol_van_god": "God is the Object of worship, not the Helper of the act.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Idolatry, Racism, and Spiritual Apathy",
+        "tekstueel_bewijs": [
+          "the filth of racism and the idolatry of color",
+          "dull prospect void of any enthusiasm"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "Sin is viewed primarily as a 'misuse' of relationship or a 'dullness' of spirit rather than a cosmic bondage."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The historical/biblical examples of worshipers (Israel, Amaziah, Pusey) serving as models.",
+      "subject": "Biblical/Historical Figures",
+      "object": "Proper/Improper Worship",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary programs serve as exemplars to motivate the primary subject (the hearer)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Creator God → True Worship → God/Self",
+      "helper_subject_tegenstander": "Sacred Memory → Worshiper ← Racism/Apathy",
+      "subject_naar_object": "Worshiper → Adoration"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "42",
+      "ratio": "1:3",
+      "voorbeelden_god_subject": [
+        "God has made us",
+        "God owns all that is",
+        "his hands formed the dry land"
+      ],
+      "voorbeelden_mens_subject": [
+        "we all ought to know",
+        "we witness false worship",
+        "you must make your own list",
+        "we come to God's house"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we all ought to know and observe",
+          "You must make your own list",
+          "He... has a right to make demands"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "excitement can be ours",
+          "singing eagerness in the soul"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "If you want a test of what is false worship",
+          "so seeing and so understanding"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "found strength to go out of here"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes the hearer has the inherent ability (Pouvoir) but lacks the obligation (Devoir) or the right perspective (Savoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "True Worship (Adoration)",
+      "s2": "False Worship (Idolatry/Racism)",
+      "niet_s1": "Apathy (Dullness)",
+      "niet_s2": "Sincerity (Exhibitionism)"
+    },
+    "beweging_in_preek": "From S2 (Racism) to ~S1 (Dullness) to S1 (Adoration).",
+    "theologische_resolutie": "Resolution is achieved through the human act of 'bowing down' in response to the fact of Creation.",
+    "ernst_van_s2": "S2 is treated as a moral abomination, but primarily as a human error of valuation."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is anthropocentric; the primary actor is the worshiper who must choose to worship correctly. God is the static Object of worship, not the active Subject of grace.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Spirituality",
+        "tekstueel_bewijs": "If we come to God's house with no eagerness... then it is almost inevitable that nothing will happen.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "True worship means adoration of and submission to the God who has made us.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Objective Reality of God",
+        "tekstueel_bewijs": "The earth is the Lord's... The banner of the Creator flies over the whole earth.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Biblical and historical figures are used as models for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [
+        "Amaziah (Negative)",
+        "Israelite Pilgrims (Positive)",
+        "Jacob (Positive)",
+        "E.B. Pusey (Positive)"
+      ],
+      "alternatieve_lezing": "Instead of 'Be like the pilgrims,' the sermon could focus on 'God who draws the pilgrims to Himself.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to generate 'eagerness' and 'excitement' through self-preparation.",
+      "theologische_implicatie": "Worship is a human work offered to God rather than a response to God's prior work."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically bifurcated between God's ownership of the world and man's duty to acknowledge it.",
+      "spanning_punten": [
+        "The tension between God's absolute ownership and the 'inevitable' failure of worship if man is not prepared."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The preciousness of anything is the measurement of how awful can be its misuse.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer provides their own 'eagerness'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'filth' and 'abomination' but is solved by human 'submission' and 'reverence'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'call to action' where the hearer is the Subject and God is the Object. It lacks a Fundamental Program of Grace where God is the Subject.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is responsible for the 'excitement' and 'success' of the worship event.",
+      "voorgestelde_herpositionering": "Make God the Subject who summons, prepares, and enables the worshiper.",
+      "voorbeeld_revisie": "Instead of 'If we come with no preparation, nothing happens,' use 'God prepares our hearts to see His glory even when we come dull and tired.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Hero' who must avoid the 'mistake' of Amaziah.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the sheep being led by the Shepherd (Psalm 95:7) rather than the sheep's duty to be excited."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy Devoir (Must) and Savoir (Know).",
+      "voorgestelde_balans": "Increase Pouvoir (God's power enabling us).",
+      "concrete_suggestie": "Emphasize that we *cannot* worship truly without the Spirit's help."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Sin is a 'misuse' or 'dullness'.",
+      "voorgestelde_intensivering": "Present racism and idolatry as powers that only the Gospel can break, not just things we 'ought' to avoid.",
+      "theologische_rationale": "Deepens the need for a Savior-Subject."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The sermon starts with the ethics of worship before the grace of the Gospel.",
+      "voorgestelde_structuur": "1. God's act of creation/redemption. 2. Our response of worship."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically powerful and socially courageous regarding racism, but it risks leaving the hearer in a cycle of self-generated religious effort."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of persuasion; semiotically, it is a legalistic mandate.",
+    "verschil_met_exegese": "Exegesis identifies the 'Creator' theme; semiotics identifies that the 'Creator' is used as a Lawgiver rather than a Deliverer.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'joyful' language, the 'engine' of the sermon is human performance (Devoir-faire)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (witness)",
+      "You (must make)",
+      "I (will not worship)",
+      "God (made)",
+      "Soul (mounts up)"
+    ],
+    "volledige_object_lijst": [
+      "True worship",
+      "False gods",
+      "Excitement",
+      "Submission"
+    ],
+    "werkwoord_frequentie": {
+      "worship": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "made": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Axis of Desire' (Man wanting to worship) but lacks the 'Axis of Transmission' (God giving the grace to do so)."
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "titel_preek": "Sardis: Words About Death And Life",
+    "bijbeltekst": "Revelation 3:1-6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in the state of human and ecclesiastical death to bring about resurrection life through the historical and cosmic event of Christ's victory.",
+      "subject": {
+        "identificatie": "God / The Risen Christ",
+        "tekstueel_bewijs": [
+          "God did raise him from the dead.",
+          "God brought him forth.",
+          "He took the sting away from death."
+        ],
+        "frequentie_score": 7
+      },
+      "object": {
+        "identificatie": "Resurrection Life / Victory over Death",
+        "tekstueel_bewijs": [
+          "He lives, and we shall walk with him in white",
+          "the power of God... which can raise the dead"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Risen Lord / The Spirit",
+        "tekstueel_bewijs": [
+          "the spirit of the risen Lord said",
+          "this is a logic that comes down from above"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Church at Sardis / The Hearer",
+        "tekstueel_bewijs": [
+          "He lives, and we shall walk with him in white"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Gospel / The Word of the Risen Lord",
+        "tekstueel_bewijs": [
+          "the lexicon of faith",
+          "the power of God in Jesus Christ"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Death (Physical, Spiritual, Nominalism)",
+        "tekstueel_bewijs": [
+          "thou hast a name that thou livest, and art dead",
+          "wicked men plotted against his life",
+          "the night of death"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is presented as an ontological state that renders human effort ('animal energy') useless."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The call for the dead/nominal church to 'be watchful' and 'strengthen what remains'.",
+      "subject": "The Hearer / The Church",
+      "object": "Watchfulness / Authenticity",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher explicitly states that the human action (Watchfulness) is impossible for the 'Dead' unless the Supralogical Subject (God) acts first."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Resurrection → The Hearer",
+      "helper_subject_tegenstander": "The Word → God ← Death/Sin",
+      "subject_naar_object": "God → Raising Christ/The Church"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 35,
+      "ratio": "1.2",
+      "voorbeelden_god_subject": [
+        "God did raise him from the dead.",
+        "God brought him forth.",
+        "He took the sting away from death."
+      ],
+      "voorbeelden_mens_subject": [
+        "We strive in vain to look beyond the heights.",
+        "You have become momentarily alert.",
+        "We carry our people to graves."
+      ],
+      "rutledge_score": 8
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "Be watchful, and strengthen the things which remain."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "A hope in us... flames up with warmth."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "We know some of the wistful hope.",
+          "I know thy works."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "God did raise him from the dead.",
+          "Only Christ can talk like that.",
+          "There is no human resource that can deal with us at that level."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) of God to overcome the 'Inability' of the dead human subject."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Resurrection Life",
+      "s2": "Death (The Grave)",
+      "niet_s1": "Nominalism (Name of life, but dead)",
+      "niet_s2": "Watchfulness (The 'Dead' waking up)"
+    },
+    "beweging_in_preek": "The sermon moves from S2 (Physical death) to ~S1 (Nominalism/Spiritual death), then declares the impossibility of moving to S1 by human means, finally resolving in S1 through God's act in Christ.",
+    "theologische_resolutie": "The tension is resolved by the 'Supralogical' intervention of God who bridges the gap between 'Dead' and 'Watchful'.",
+    "ernst_van_s2": "High; death is described as an absolute barrier to human speech and effort."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon contains imperatives, they are framed as 'God's talk' to the dead, making God the primary actor in the resurrection event.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Political Exemplarism",
+        "tekstueel_bewijs": "The discussion of Jesse Jackson and the presidential campaign.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Subjectivity",
+        "tekstueel_bewijs": "Everything was against him except God... God brought him forth.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The preacher explicitly rejects human examples as the 'hinge' of faith.",
+      "bijbelse_figuren_als_model": [
+        "None"
+      ],
+      "alternatieve_lezing": "Christ is not an example to follow but the Subject of a victory we receive."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe; moving from the 'wailing cry' of the grave to the 'garments of victory'.",
+      "theologische_implicatie": "Monergistic; salvation is a work of God upon a passive/dead subject."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The transition from the 'dead' state of Sardis to the 'resurrection' of Christ is logically and narratively tight.",
+      "spanning_punten": [
+        "The sudden shift to the 1984 presidential campaign momentarily breaks the actantial flow of the cosmic narrative."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "He took the sting away from death, and in that victory he stood in resurrection power.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon attributes the power to the 'Spirit of the Risen Lord' as an external voice that awakens the dead."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Critical; sin is 'death'—a state of total inability and lack of awareness."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative (Resurrection), relegating human effort to a secondary, responsive role.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "N/A",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The political section risks making the hearer the Subject of 'choosing a new vision'.",
+      "voorgestelde_identificatie": "The hearer as the one upon whom the 'winds of God' blow.",
+      "strategie": "Frame social change as a fruit of the Spirit's resurrection power rather than a political choice."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain current balance; it serves the Easter theme well.",
+      "concrete_suggestie": "Keep emphasizing that 'Be watchful' is only possible because 'He lives'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Death is already treated as a cosmic, insurmountable opponent.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God raises Christ) → Ethics (We walk in white)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful example of grace-oriented preaching that refuses to turn the Gospel into a 'how-to' manual for the dead."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the use of the Ingersoll and Pilate anecdotes; Greimas shows these function as 'Opponents' (silence/forgetfulness) to the 'Sender's' message.",
+    "verschil_met_exegese": "Exegesis would focus on the historical Sardis; Greimas reveals the 'Dead/Watchful' paradox as a modal conflict between Devoir and Pouvoir.",
+    "unieke_inzichten_greimas": "Greimas exposes that the preacher's 'oxymoron' (Dead/Watchful) is actually a shift in Actantial Subjects—the human cannot watch, but the God-in-human can."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (raised)",
+      "Christ (lives)",
+      "We (strive)",
+      "Pilate (forgot)",
+      "The sun (refused)"
+    ],
+    "volledige_object_lijst": [
+      "Life",
+      "Victory",
+      "White garments",
+      "The sting of death"
+    ],
+    "werkwoord_frequentie": {
+      "raise": {
+        "count": 8,
+        "primair_subject": "God"
+      },
+      "dead": {
+        "count": 15,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic 'theocentric' model where human inability is the backdrop for divine capacity."
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "The Salt Of The Earth",
+    "bijbeltekst": "Matthew 5:13, Isaiah 40:3",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "750"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "AGRARIAN",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Ye are the salt of the earth",
+          "if the salt have lost his savour"
+        ],
+        "conceptuele_metafoor": "CHURCH IS SEASONING/PRESERVATIVE"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "sounding drums of destiny",
+          "aggressive compulsions",
+          "alert political aggressiveness",
+          "targets"
+        ],
+        "conceptuele_metafoor": "PROTESTANT WITNESS IS WARFARE"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "historic stance",
+          "build in the desert of our day a highway for our God",
+          "brightest days can be ahead"
+        ],
+        "conceptuele_metafoor": "FAITH IS A COLLECTIVE MARCH"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Ye are the salt of the earth",
+        "brondomein": {
+          "naam": "Salt/Preservation",
+          "concrete_elementen": [
+            "mineral",
+            "flavor",
+            "preservation",
+            "distinctiveness"
+          ],
+          "belichaamde_basis": "container/balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Ecclesiology/Witness",
+          "doctrinale_traditie": "Mainline Protestant"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Saltiness",
+            "doel_element": "Theological distinctiveness"
+          },
+          {
+            "bron_element": "Food/Earth",
+            "doel_element": "Secular Society"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The church exists for the sake of the world, not itself.",
+            "If the church is identical to the world, it is useless."
+          ],
+          "theologische_implicaties": [
+            "Common grace is preserved through the presence of the faithful."
+          ],
+          "ethische_implicaties": [
+            "Believers must maintain a 'peculiar' lifestyle."
+          ],
+          "onbedoelde_consequenties": [
+            "Elitism; the idea that the 'earth' is rotting without the 'salt'."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A biblical idiom that risks being a 'dead' metaphor unless the preacher emphasizes the 'savour' or 'sting' of salt."
+      },
+      {
+        "metafoor_expressie": "Build in the desert of our day a highway for our God",
+        "brondomein": {
+          "naam": "Civil Engineering/Journey",
+          "concrete_elementen": [
+            "desert",
+            "highway",
+            "construction",
+            "arrival"
+          ],
+          "belichaamde_basis": "path"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Eschatology/Social Justice",
+          "doctrinale_traditie": "Social Gospel/Prophetic"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Desert",
+            "doel_element": "Contemporary secular/moral void"
+          },
+          {
+            "bron_element": "Highway",
+            "doel_element": "Ethical and political structures"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Faith requires manual labor and structural change."
+          ],
+          "theologische_implicaties": [
+            "God's arrival is facilitated by human preparation."
+          ],
+          "ethische_implicaties": [
+            "Political activism is a form of spiritual road-building."
+          ],
+          "onbedoelde_consequenties": [
+            "Works-righteousness; God is dependent on human engineering."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-contextualizes Isaiah 40:3 into the 'desert' of modern New York City."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully bridges the 'Minority Status' (Sociological) with 'Salt' (Biblical) and 'Prophetic Voice' (Theological). The tension between being 'called out' and 'building a highway' is resolved through the concept of the 'Covenant Community'.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Paragraph 4 vs Paragraph 6",
+          "metafoor_a": "Homelessness/Contempt",
+          "metafoor_b": "Political Aggressiveness/Positions in Government",
+          "conflict_beschrijving": "The call to be 'homeless' and 'off' conflicts with the call to occupy 'structures of government'.",
+          "entailment_conflict": "One entails marginalization, the other entails institutional power.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Visionaries",
+            "Practitioners"
+          ],
+          "blending_strategie": "Synthesis of the mystical and the pragmatic."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Transforms the 'Minority' status from a source of shame to a source of prophetic power.",
+        "voorbeeld": "God has now, by that minority status, put us in a position to speak prophetically."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "MILITARY",
+        "beschrijving": "Use of 'aggressive compulsions' and 'targets' can frame the gospel as a power struggle.",
+        "voorbeeld": "Roman Catholic community... possessed of the inevitable aggressive compulsions of a minority.",
+        "potentiele_impact": "May encourage a combative rather than a servant-hearted witness.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A post-Protestant America where the 'melody' of the past is fading.",
+      "sub_worlds": [
+        "The urban landscape of New York City",
+        "The biblical 'Desert' being paved into a highway"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 1 to 3",
+          "van_wereld": "Nostalgic past (Anglo-Saxon memory)",
+          "naar_wereld": "Pluralistic present (New York City)",
+          "effectiviteit": "High; creates a sense of urgency."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "The Prophetic Remnant",
+          "hoe_versterkt": "By framing the minority status as a 'new and excellent position'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Protestantism as Cultural Majority",
+          "verstoring_strategie": "Declaring the 'song is ended'.",
+          "vervangend_schema": "Protestantism as 'Peculiar People' (Salt)."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with a 'Call to Action' or 'Sending' liturgy."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the transition from 'Majority/Caretaker' to 'Minority/Salt'. It uses the agrarian metaphor of salt to provide a biblical foundation for a sociopolitical shift. The landscape is one of movement—from the 'silent centuries' to the 'drums of destiny'.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Salt",
+        "huidige_status": "Conventional/Borderline Dead",
+        "suggestie": "Connect the 'sting' of salt to the 'contempt' mentioned in the text.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Salt doesn't just flavor; it stings the open wounds of a city's injustice."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "Homelessness vs. Government Positions",
+        "resolutie_strategie": "Use the 'Ambassador' metaphor to bridge being 'in' but not 'of' the power structures."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "The song is ended",
+        "problematisch_entailment": "Suggests the 'music' (Gospel) is over rather than just the 'arrangement' (Cultural Hegemony).",
+        "aanbeveling": "Clarify that the 'Singer' (God) remains the same."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To strengthen the 'building a highway' and 'structure of government' imagery.",
+        "doel_concept": "Structural Justice"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to reframe a sociological crisis as a theological opportunity."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "CMT reveals that 'Salt' is not just a pretty image but a cognitive map for minority-identity survival.",
+    "verschil_met_kolb": "While Kolb might focus on the 'experience' of the city, CMT focuses on the 'mapping' of the city as a 'desert' requiring a 'highway'.",
+    "unieke_inzichten_CMT": "CMT identifies the 'Military' undercurrents (drums, targets) that explain the preacher's call for 'political aggressiveness'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "melody lingers on",
+      "song is ended",
+      "spawned a giant",
+      "dirge of demise",
+      "drums of destiny",
+      "peculiar people",
+      "salt of the earth",
+      "lost his savour",
+      "galvanized",
+      "coddling",
+      "stifle and stagnate",
+      "mute their prophetic note",
+      "fatal flaw",
+      "caretaker of society",
+      "highway for our God"
+    ],
+    "woord_frequentie_analyse": {
+      "Protestant": "15",
+      "community": "8",
+      "city": "6",
+      "minority": "4",
+      "prophetic": "4"
+    },
+    "notities": "The sermon is a classic example of using CMT to shift a congregation's 'Text World' from a 19th-century memory to a 20th-century reality."
+  }
+}

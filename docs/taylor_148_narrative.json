@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "A Sound Word For A New Year",
+    "bijbeltekst": "Daniel 12:11-13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The faithful believer must endure a period of historical and personal 'abomination' (crisis) by waiting and trying, until God's final vindication and rest are achieved.",
+      "subject": {
+        "identificatie": "The Hearer / The 'Christian Person'",
+        "tekstueel_bewijs": [
+          "It is our job to try on and pray on.",
+          "Blessed is he that waiteth.",
+          "We must rise and try again."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Endurance/Rest/Vindication",
+        "tekstueel_bewijs": [
+          "Thou shalt rest, and stand in thy lot at the end of the days."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as the one who sets the 'lot' and the timeline)",
+        "tekstueel_bewijs": [
+          "God's great hour is sure to strike.",
+          "God still holds the reins of the world."
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Weary/The Faithful",
+        "tekstueel_bewijs": [
+          "God has a place for each of us."
+        ],
+        "positie_hoorder": "The hearer identifies as the Subject who must perform the 'waiting'."
+      },
+      "helper": {
+        "identificatie": "Christ / The Word of the Lord",
+        "tekstueel_bewijs": [
+          "And we have Christ to go with us to the end.",
+          "He says, 'I will be with you.'"
+        ],
+        "rol_van_god": "God is primarily the Sender/Goal; Christ is the Helper accompanying the Subject.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "The 'Abomination of Desolation' (Historical chaos, political corruption, personal despair)",
+        "tekstueel_bewijs": [
+          "The screaming hurricanes of evil blow down the temples of our faith.",
+          "The fist of evil may seem to hold the world in a remorseless grip."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is described as a 'world gone mad' and 'passing tyranny' that threatens the very core of faith."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The quest for national/social renewal (1955-1965) which failed.",
+      "subject": "The Nation / Civil Rights Movement",
+      "object": "Liberty and Freedom",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The failure of the social program (Program 2) necessitates the spiritual endurance program (Program 1)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Rest/Vindication → The Weary Pilgrim",
+      "helper_subject_tegenstander": "Christ → The Hearer ← The Abomination of Desolation",
+      "subject_naar_object": "The Hearer → Waiting/Trying → The End of Days"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "32",
+      "ratio": "0.43",
+      "voorbeelden_god_subject": [
+        "God still holds the reins.",
+        "God shall wipe away all tears.",
+        "God knows we get tired."
+      ],
+      "voorbeelden_mens_subject": [
+        "We must rise and try again.",
+        "You weary one, try on, pray on, work on.",
+        "One braves the future by deciding."
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "We must rise and try again.",
+          "Go thou thy way."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "The Christian person wants to know.",
+          "One longs for the day."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "We seem in the grip of worldwide forces which we do not understand."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "We seem powerless to deal.",
+          "They shall renew their strength."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon emphasizes the obligation to endure (Devoir) despite a lack of power (Pouvoir), framing faith as a 'hard business' of the will."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Vindication/Rest",
+      "s2": "Abomination/Desolation",
+      "niet_s1": "Weariness/Trying",
+      "niet_s2": "Waiting/Endurance"
+    },
+    "beweging_in_preek": "From S2 (the grim 1975) to ~S2 (Waiting) toward the hope of S1.",
+    "theologische_resolutie": "Resolution is eschatological; the tension is held by the human act of 'trying' until God intervenes.",
+    "ernst_van_s2": "Very high; the 'abomination' is treated as a crushing reality."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the sermon ends with a strong theocentric appeal for Christ to 'come and save,' the middle section is heavily moralistic, defining faith as the human effort to 'try on' and 'hold on.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Faith as Human Effort",
+        "tekstueel_bewijs": "Lord, I've tried, Lord, I've really tried.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christ as Companion/Deliverer",
+        "tekstueel_bewijs": "Come, Lord Jesus, and deliver us.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Daniel and the Hasidim are used as models of 'deciding' to brave the future.",
+      "bijbelse_figuren_als_model": [
+        "Daniel",
+        "The Hasidim"
+      ],
+      "alternatieve_lezing": "Focus on how God preserved Daniel in the lion's den despite Daniel's powerlessness."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Exhaustion; the hearer is told they are already tired, then given more work (trying/waiting).",
+      "theologische_implicatie": "Synergism; God's 'hour' strikes only for those who 'try on'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon successfully links historical anxiety to biblical text, but the transition from 'trying' (human subject) to 'Christ saving' (divine subject) is abrupt.",
+      "spanning_punten": [
+        "The 'Lord I've tried' song vs. 'Come Lord Jesus and save us else we perish'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "God still holds the reins... superrules.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not mentioned as the source of 'Pouvoir' (power)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "High; sin is an 'abomination' that desolates the soul."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon shifts the Subject role to the hearer ('I've tried') for the majority of the application, only returning the Subject role to God in the final doxological movement.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'trying' and 'holding on'.",
+      "voorgestelde_herpositionering": "Make God the subject of 'holding' the believer.",
+      "voorbeeld_revisie": "Instead of 'Lord, I've tried,' say 'Lord, you have held me when I could not try.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'hero' who waits.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that 'waiting' is not a work but a state of being carried."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir (Must try)",
+      "voorgestelde_balans": "Pouvoir (God gives power)",
+      "concrete_suggestie": "Expand on the Isaiah 40:31 quote to show God as the source of the strength."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly developed.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The preacher effectively uses the 'abomination' to describe the weight of the world."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (trying) precedes the full declaration of Grace (Christ's coming).",
+      "voorgestelde_structuur": "Proclaim Christ's presence first, then the 'waiting' as a fruit of that presence."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically powerful and deeply empathetic to the human condition, but it risks crushing the 'weary' hearer by making their effort the primary engine of endurance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'Lord I've tried' section is a climax; actantially, it is a lapse into moralism.",
+    "verschil_met_exegese": "Exegesis focuses on the 1290 days; semiotics focuses on who is acting during those days.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'grace' language at the end, the 'engine' of the sermon is the hearer's willpower."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (must rise)",
+      "One (braves)",
+      "God (holds)",
+      "Christ (says)",
+      "I (have tried)"
+    ],
+    "volledige_object_lijst": [
+      "Rest",
+      "Strength",
+      "The Morning Star",
+      "Vindication"
+    ],
+    "werkwoord_frequentie": {
+      "try": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "wait": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "come": {
+        "count": "7",
+        "primair_subject": "God/Christ"
+      }
+    },
+    "notities": "The sermon reflects the transition from Civil Rights optimism to mid-70s malaise."
+  }
+}

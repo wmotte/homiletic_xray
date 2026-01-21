@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "Philadelphia: The Open Door",
+    "bijbeltekst": "Revelation 3:7-8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The preacher presents a narrative where the believer must initiate effort and works to activate God's provision of an 'open door' (opportunity, success, and status).",
+      "subject": {
+        "identificatie": "The Hearer/Believer",
+        "tekstueel_bewijs": [
+          "Our effort must come first.",
+          "If you've got the faith, you can walk in.",
+          "Trust God and try."
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "The Open Door (Success, Education, Social Status, Spirituality)",
+        "tekstueel_bewijs": [
+          "a piece of the pie",
+          "getting an education",
+          "steps of holiness and powers of consecration"
+        ],
+        "aard_van_object": "THERAPEUTIC/ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Preacher/Lawgiver (interpreting God's requirements)",
+        "tekstueel_bewijs": [
+          "I read nowhere where it says, Find and then seek. It says very clearly, 'Seek, and ye shall find'."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (as the one who earns/receives the door)",
+        "tekstueel_bewijs": [
+          "The Lord takes the yearnings of our heart... and accepts that."
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "God/Jesus Christ",
+        "tekstueel_bewijs": [
+          "The Lord can and will open doors for you.",
+          "He can help the helpless."
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Social obscurity, poverty, and human critics",
+        "tekstueel_bewijs": [
+          "rescued from oblivion",
+          "never mind what anybody says about you",
+          "twenty devils or twenty thousand cannot keep you down"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The 'opponents' are primarily horizontal: people who say 'you can't' or the threat of being 'unnoticed' by history."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's cosmic victory over death and hell.",
+      "subject": "Jesus Christ",
+      "object": "The Keys of Hell and Death",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The cosmic power of Christ (Primary Program in Scripture) is used here as a rhetorical 'guarantee' for the hearer's personal success (Secondary Program)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Preacher/Law → Open Door → Successful Believer",
+      "helper_subject_tegenstander": "God → Hearer ← Critics/Obscurity",
+      "subject_naar_object": "Hearer → Effort/Works → Open Door"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 14,
+      "mens_als_subject_count": 32,
+      "ratio": "0.43",
+      "voorbeelden_god_subject": [
+        "He performs miracles in our lives.",
+        "I have set before thee an open door."
+      ],
+      "voorbeelden_mens_subject": [
+        "Our effort must come first.",
+        "We put it backwards.",
+        "If you've got the faith, you can walk in."
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "Our effort must come first.",
+          "We must know that this is no neophyte speaking."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "what we are willing to attempt",
+          "sincere desire to be well pleasing"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "If I can ever understand the gospel, I will believe."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "If the Lord says you can, you can!"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon emphasizes the obligation of the human subject to act first (Devoir) to trigger the divine power (Pouvoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The Open Door (Success/Notice)",
+      "s2": "Oblivion (Obscurity/Failure)",
+      "niet_s1": "The Closed Door (Lack of effort)",
+      "niet_s2": "Being Noticed (Human recognition)"
+    },
+    "beweging_in_preek": "From the fear of Oblivion (~S1) to the requirement of Effort (S1) to reach the Open Door.",
+    "theologische_resolutie": "Resolution is found in human 'trying' which God then 'accepts' as success.",
+    "ernst_van_s2": "Low; S2 is defined as social obscurity rather than spiritual death or judgment."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon explicitly reverses the order of grace, stating that human effort must precede divine opening.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Reversal of Grace/Prioritizing Human Action",
+        "tekstueel_bewijs": "Our effort must come first. That is faith.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Synergistic Conditionality",
+        "tekstueel_bewijs": "If you've got the faith, you can walk in.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Initiative (Surface level)",
+        "tekstueel_bewijs": "I have set before thee an open door.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "David and the Preacher's own life are used as models of how 'trying' leads to God opening doors.",
+      "bijbelse_figuren_als_model": [
+        "David",
+        "The Miner"
+      ],
+      "alternatieve_lezing": "God preserves Philadelphia despite their 'little strength' solely because of His faithfulness to His name."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform/try harder to ensure God 'opens the door'.",
+      "theologische_implicatie": "Soteriology is contingent upon human 'willingness to attempt'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 5,
+      "coherentie_beschrijving": "The sermon starts with Christ's power but shifts to a 'quid pro quo' logic of human effort.",
+      "spanning_punten": [
+        "The text says 'I have set' (Perfect tense, completed action), but the preacher says 'Our effort must come first'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Think how much worse we would be if it were not for Jesus Christ.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not mentioned as the source of 'Pouvoir'; rather, the human 'Vouloir' (will) is the engine."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is treated as 'being bad' or 'rough', rather than a state of death.",
+      "tekstueel_bewijs": "Christians not being as good as they ought... how much worse we would be."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a motivational speech where God is a 'Helper' to the human 'Subject' who seeks social and personal advancement.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'seeking', 'knocking', and 'effort'.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who opens the door precisely because the hearer has 'little strength'.",
+      "voorbeeld_revisie": "Because you are weak and cannot open the door, Christ has already opened it for you."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'attempter'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the 'little strength' of the Philadelphians as the reason for grace, not their 'works'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must try)",
+      "voorgestelde_balans": "POUVOIR (Christ's power given to the weak)",
+      "concrete_suggestie": "Replace 'Our effort must come first' with 'Christ's gift comes first'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Critics and obscurity.",
+      "voorgestelde_intensivering": "Define the 'shut door' as Sin and Death which no human effort can budge.",
+      "theologische_rationale": "Only a heavy opponent justifies a Divine Subject."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (trying) is placed before Soteriology (the door).",
+      "voorgestelde_structuur": "1. Christ opens the door (Grace). 2. We walk through (Response)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has high rhetorical energy but structurally undermines the Gospel of Grace by making human effort the prerequisite for divine action."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is encouraging; actantially, it is a burden of performance.",
+    "verschil_met_exegese": "Exegesis shows the door is opened by Christ's authority; the sermon claims it is opened by our knocking.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite using the name of 'Jesus', the 'Subject' of the engine is 'Me'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We come",
+      "I speak",
+      "You are thinking",
+      "Our effort must come first",
+      "You and I will never do enough",
+      "He (Christ) performs miracles"
+    ],
+    "volledige_object_lijst": [
+      "Philadelphia",
+      "The open door",
+      "A piece of the pie",
+      "Education",
+      "Furniture"
+    ],
+    "werkwoord_frequentie": {
+      "try": {
+        "count": 6,
+        "primair_subject": "Man"
+      },
+      "open": {
+        "count": 12,
+        "primair_subject": "God"
+      },
+      "must": {
+        "count": 4,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon contains a blatant theological error: 'I read nowhere where it says, It shall be open unto you, then knock.' In fact, the text of Rev 3:8 says the door is ALREADY set/opened before the works are mentioned."
+  }
+}

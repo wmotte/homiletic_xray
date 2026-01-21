@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "titel_preek": "Balm In Gilead",
+    "bijbeltekst": "Jeremiah 8:22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from a state of terminal spiritual sickness (sin) to a state of wholeness through the arrival and sacrifice of a 'foreign' healer (Christ).",
+      "subject": {
+        "identificatie": "God / Christ (The Healer)",
+        "tekstueel_bewijs": [
+          "God sent his Son",
+          "Christ came here from a great distance",
+          "heals all our disease and takes away the awful sickness of sin"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Salvation / Healing of the soul",
+        "tekstueel_bewijs": [
+          "the health of the daughter of my people recovered",
+          "wholeness for our brokenness"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "In the fullness of time... God sent his Son"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'Sin-sick soul' / Humanity",
+        "tekstueel_bewijs": [
+          "save his people from their sins",
+          "healing for all of our spiritual sickness"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The 'Balm' (The Blood/Sacrifice of Christ)",
+        "tekstueel_bewijs": [
+          "his broken body... has opened the way",
+          "with his stripes we are healed"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Implicitly the means of grace)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin (as a fatal disease)",
+        "tekstueel_bewijs": [
+          "terrible and fatal disease — sin",
+          "destroys the nervous system of conscience"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a 'fatal malady' that no earthly power (education, wealth, culture) can cure."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human attempt to find earthly cures for the soul's sickness.",
+      "subject": "Humanity / Israel",
+      "object": "Political security / Moral improvement",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The secondary program is presented as a failed attempt (Savoir-faire without Pouvoir-faire) that necessitates the Primary Program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation → Sin-sick Humanity",
+      "helper_subject_tegenstander": "The Cross → Christ ← Sin/Death",
+      "subject_naar_object": "Christ → Healing"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5:1",
+      "voorbeelden_god_subject": [
+        "God sent his Son",
+        "Christ came here from a great distance",
+        "He shall save his people"
+      ],
+      "voorbeelden_mens_subject": [
+        "We are manipulated and victimized",
+        "We keep looking for pretty, attractive healers",
+        "The people had slid back"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "whereby we must be saved"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "want to be healed",
+          "generations sighed for some such cure"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "when we know what is right, we will do what is right (cited as false knowledge)"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "beyond the power of the ancient doctors",
+          "no human cure which will get to the seat of the disease",
+          "the one who could and does heal us"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the total lack of human 'Pouvoir' (ability) and the external endowment of 'Pouvoir' through Christ."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Healing",
+      "s2": "Sin/Death",
+      "niet_s1": "Earthly Cures (Education/Politics)",
+      "niet_s2": "Hypocrisy/Censored Sin"
+    },
+    "beweging_in_preek": "From S2 (Sin's symptoms) to ~S1 (False cures) to S1 (The Balm/Christ).",
+    "theologische_resolutie": "The tension is resolved by the 'importation' of the Balm from outside the system (Gilead/Heaven).",
+    "ernst_van_s2": "Extremely high; sin is treated as an ontological and fatal reality."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It explicitly rejects human agency (education, wealth, politics) as a means of salvation and positions Christ as the sole active Subject who must be 'bruised' to provide the 'Pouvoir' for healing.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "None found",
+        "tekstueel_bewijs": "N/A",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (God as Actor)",
+        "tekstueel_bewijs": "God sent his Son... Christ heals all.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "fatal disease — sin — which destroys the nervous system of conscience",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Jeremiah is used as a 'witness' to the pain, not as a moral example to be emulated for salvation.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: Jeremiah's grief reflects God's heart for the sick."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and surrender; moving from self-effort to receiving the 'Balm'.",
+      "theologische_implicatie": "Monergistic healing; salvation is entirely of God."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The metaphor of the Balm is perfectly integrated with the actantial roles of Christ and the condition of the hearer.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "bruised for our iniquities, wounded for our transgressions",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The 'healing fluid' acts as the endowment of power."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Terminal; sin is a 'fatal malady' beyond human reach."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon maintains a consistent structure where Christ is the Subject and the hearer is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Ability) of Christ.",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "The sermon successfully avoids the Devoir (Must) trap."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Opponent (Sin) is already sufficiently intensified.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology is the absolute foundation."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in grace-oriented preaching that uses a biblical metaphor to strip the hearer of self-reliance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'Balm' metaphor's beauty, Greimas reveals the 'Balm' as the essential Helper/Object that shifts the Subject from Man to God.",
+    "verschil_met_exegese": "Exegesis might focus on the historical Gilead; semiotics focuses on the functional necessity of an 'external' actant to solve the 'internal' lack.",
+    "unieke_inzichten_greimas": "The analysis proves that the sermon's power comes from its 'Subject-Switch'—the hearer is never asked to heal themselves, only to receive the Healer."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (sent)",
+      "Christ (came, heals, saves, was bruised)",
+      "Jeremiah (spoke, saw, cried)",
+      "Sin (destroys, wrecks)",
+      "Education/Wealth (fails to heal)"
+    ],
+    "volledige_object_lijst": [
+      "Healing",
+      "Salvation",
+      "The sin-sick soul",
+      "Wholeness"
+    ],
+    "werkwoord_frequentie": {
+      "heal": {
+        "count": "14",
+        "primair_subject": "God/Christ"
+      },
+      "save": {
+        "count": "6",
+        "primair_subject": "God/Christ"
+      },
+      "sin": {
+        "count": "18",
+        "primair_subject": "Opponent"
+      }
+    },
+    "notities": "The sermon avoids 'Exemplarism' by treating Jeremiah as a witness to the problem rather than the solution."
+  }
+}

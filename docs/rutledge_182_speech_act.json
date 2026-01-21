@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "titel_preek": "Trinity Sunday and De Profundis",
+    "bijbeltekst": "2 Corinthians 13 / Psalm 130",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher provides a psychological analogy of parental love to explain Paul's context in Corinth and an exegetical/liturgical history of Psalm 130 and the Book of Common Prayer.",
+      "exegetische_kwaliteit": "High. Strong historical-critical and liturgical context regarding the 'miserable offenders' clause and Trinitarian formulas.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The force is primarily assertive (explaining the nature of God) with a transition toward commissive in the benediction.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "7",
+      "voorbeelden": [
+        "The inmost being of God is a dynamic interrelatedness.",
+        "This is no dry scholarly doctrine.",
+        "The fear of the Lord is founded on his absolute goodness."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from a sense of self-reliance to a reliance on divine mercy; to evoke awe for the Trinity.",
+      "pneumatologisch_bewustzijn": "Moderate. The Spirit is mentioned as a doctrinal subject, but rarely as the active agent of the sermon's current effect.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "confess",
+        "trust",
+        "adore"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "God’s love spends itself to the very last drop.",
+        "The Corinthian church has gone completely off the rails.",
+        "Human love is a glimmer of the full radiance of God’s love."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "has",
+        "means",
+        "shows"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Imagine for a moment...",
+        "Reflect on your own life.",
+        "Think about those people..."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "reflect",
+        "think"
+      ],
+      "fundament_check": "true"
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "We offer worship and praise.",
+        "I may leave you today with renewed confidence."
+      ],
+      "dominante_werkwoorden": [
+        "offer",
+        "praise",
+        "hope"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "5",
+      "procent": "3%",
+      "voorbeelden": [
+        "The grace of the Lord Jesus Christ... be with you all.",
+        "He shall redeem Israel from all his iniquities."
+      ],
+      "dominante_werkwoorden": [
+        "be",
+        "shall redeem"
+      ],
+      "kwaliteit": "The promises are largely quoted from scripture rather than original illocutions by the preacher."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "I leave you today... invoking the apostolic blessing."
+      ],
+      "dominante_werkwoorden": [
+        "leave",
+        "invoke"
+      ],
+      "autoriteit": "The preacher leans on the authority of the 'Apostolic blessing' rather than a direct declarative 'I forgive you'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": "true",
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of 'Imagine' and 'Think of' (Directives to think, not acts of grace).",
+        "Long sections describing the history of the Prayer Book.",
+        "Third-person descriptions of God's nature ('God is...')."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a beautiful theological truth rather than a participant in a saving event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": "true",
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise to the specific 'you' of the congregation in the present tense."
+      ],
+      "effect_op_hoorder": "Intellectual agreement without the 'shock' of a personal encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": "true",
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Scriptural and formal, but lacks the 'I-Thou' immediacy until the very end.",
+      "voorbeelden": [
+        "The grace of the Lord Jesus Christ... be with you all."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Used to describe the preacher's intent ('I may leave you') or collective identity ('We have erred')."
+      },
+      "tweede_persoon": {
+        "frequentie": "22",
+        "gebruik": "Used primarily to prompt the hearer's imagination ('Imagine that you are...') rather than to deliver a promise.",
+        "performatieve_context": "Low"
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant mode: talking about Paul, the Corinthians, the Psalmist, and God's nature.",
+        "distantie_effect": "Creates a lecture-like distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical context of Paul and the Prayer Book."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions of God's love."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final blessing."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": "true",
+      "beschrijving": "Moves from Assertive (God is love) to Directive (Think of your life).",
+      "voorbeelden": [
+        "God is love... Reflect on your own life."
+      ],
+      "probleem": "The reflection is a psychological work for the hearer rather than a reception of a gift."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": "true",
+      "beschrijving": "The end of the sermon attempts a move from the indicative of the Psalm to the promise of redemption.",
+      "voorbeelden": [
+        "With the Lord there is mercy... and he shall redeem Israel."
+      ],
+      "kwaliteit": "Strong scriptural foundation, but the preacher remains a commentator on the promise rather than the 'mandatary' delivering it."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": "true",
+      "imperatief_gefundeerd": "true",
+      "voorbeelden_goede_verhouding": [
+        "There is forgiveness with you; therefore you shall be feared."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "Imagine... you would do anything... (Hypothetical imperative without immediate indicative)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a high-quality theological essay that explains the 'why' and 'what' of the Trinity and Sin, but stays in the 'talking about' (constative) mode for the majority of the text.",
+    "sterke_punten": [
+      {
+        "aspect": "Analogy",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The parent of a child on the verge of self-destruction.",
+        "effect": "Creates deep emotional resonance."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The removal of this line has robbed us of a powerful buttress...",
+        "probleem": "Liturgical history replaces the actual act of confession.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": "5",
+    "gebeuren_toelichting": "It is an event of learning and reflection, but not a sacramental event of 'happening' until the final benediction.",
+    "sacramentele_kracht": "4",
+    "sacramentele_toelichting": "The preacher describes the means of grace (the Prayer Book, the Psalm) more than using the sermon itself as a means of grace."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the talk, but rarely the direct speaker through the preacher.",
+      "prediker_als_mandataris": "The preacher acts as a teacher/guide rather than a mandatory.",
+      "tekstueel_bewijs": [
+        "I may leave you today with renewed confidence."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as the third person of the Trinity.",
+      "perlocutie_theologie": "Implicitly left to the hearer's reflection.",
+      "tekstueel_bewijs": [
+        "The fellowship of the Holy Spirit be with you all."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon functions as an 'explanation' of grace.",
+      "epifanisch_taalgebruik": "Low. The language is descriptive and analytical.",
+      "tekstueel_bewijs": [
+        "This is no dry scholarly doctrine."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'was' verbs; needs more 'give', 'forgive', and 'promise' verbs addressed to the 'you'.",
+    "performatieve_intensivering": {
+      "nodig": "true",
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God’s love spends itself to the very last drop.",
+          "voorgestelde_revisie": "Today, God pours out that love for you, to the very last drop.",
+          "verschil": "Moves from a general truth to a present-tense event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": "true",
+      "probleem": "The promise is quoted as a 'formula' rather than spoken as a 'word'.",
+      "suggestie": "Break the formula and speak the promise directly.",
+      "voorbeeldzinnen": [
+        "Because Christ died, I declare to you: you are not a 'miserable offender' anymore, but a beloved child."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": "true",
+      "probleem": "Too much 'we' and 'the psalmist'.",
+      "suggestie": "Use 'you' for the application of the Gospel.",
+      "voorbeeldzinnen": [
+        "You are the one out of the depths; God is reaching for you now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": "false",
+      "probleem": "The foundation is actually quite good, just too descriptive.",
+      "suggestie": "Shorten the 'explanation' of the indicative and lengthen the 'proclamation' of it."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is theologically rich and homiletically skilled in its use of imagery, but it would gain sacramental power by shifting from 'talking about' the Trinity to 'delivering' the Triune God to the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-disclosure' of the preacher's empathy for parents; SAT focuses on the 'Declarative' power of the blessing.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'parent' metaphor; SAT asks if that metaphor actually 'does' something to the hearer's status before God.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's 'event-character' is hindered by its focus on liturgical history (constative) rather than liturgical action (performative)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "finds",
+        "writes",
+        "sounds",
+        "means",
+        "bears"
+      ],
+      "directief": [
+        "imagine",
+        "reflect",
+        "think",
+        "notice"
+      ],
+      "expressief": [
+        "offer",
+        "praise",
+        "adore"
+      ],
+      "commissief": [
+        "be",
+        "shall redeem"
+      ],
+      "declaratief": [
+        "invoke",
+        "leave"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The church that was breaking his heart is the one that gets the full Trinitarian blessing.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a past event.",
+        "effectiviteit": "Good for teaching, low for 'event'."
+      }
+    ],
+    "notities": "The preacher is clearly influenced by a high liturgical tradition, which provides a safety net of performative language in the liturgy itself, but the sermon text remains largely explanatory."
+  }
+}

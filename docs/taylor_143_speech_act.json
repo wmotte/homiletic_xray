@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "titel_preek": "The Word Moses Could Not Say",
+    "bijbeltekst": "Exodus 32:32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher recounts the narrative of the Golden Calf, Moses' intercession, and the grammatical 'blank' in the Hebrew text of Exodus 32:32, identifying 'Jesus' as the missing word.",
+      "exegetische_kwaliteit": "Strong narrative flow, though the 'missing word' is treated more as a homiletical device than a strictly philological exegesis of the aposiopesis.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts historical/theological facts and expresses personal devotion, moving toward a declaration of the Name of Jesus at the climax.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Moses is dealing with the profoundest question.",
+        "I know the missing word.",
+        "Shame! A thousand times shame!"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To evoke a sense of conviction (shame) followed by relief and devotional fervor through the name of Jesus.",
+      "pneumatologisch_bewustzijn": "Low; the focus is on the Name and the preacher's personal experience rather than the Spirit's current agency.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "revere",
+        "trust",
+        "feel"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "Moses was the lawgiver.",
+        "The people in the valley became skittish.",
+        "God is a Spirit."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "says",
+        "represents"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "Look at them!",
+        "Look back a bit.",
+        "I will ask: How many have been the occasions..."
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "ask",
+        "pray"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "28",
+      "procent": "14%",
+      "voorbeelden": [
+        "I hang my head.",
+        "I like to call his name.",
+        "Shame! Shame!"
+      ],
+      "dominante_werkwoorden": [
+        "hang",
+        "like",
+        "thank"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "He will not put my soul to shame.",
+        "He shall save his people."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "shall"
+      ],
+      "kwaliteit": "Weak; the promises are mostly quoted as general truths (Assertive-Commissives) rather than direct 'I promise you' address."
+    },
+    "declaratieven": {
+      "frequentie": "16",
+      "procent": "8%",
+      "voorbeelden": [
+        "I know the missing word. It is 'Jesus'.",
+        "I know a name that can change the leper's spots."
+      ],
+      "dominante_werkwoorden": [
+        "know",
+        "call"
+      ],
+      "autoriteit": "The preacher speaks with personal testimony authority rather than sacramental/office authority."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Long historical descriptions of Moses, Horton, and Sinai.",
+        "Extensive 'talking about' what Moses was dealing with (sin, guilt, etc.) without actually dealing with it for the hearer."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of Moses' drama and the preacher's memories rather than a participant in a current event of grace."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct promise to the hearer",
+        "Sacramental 'I' to 'You' address"
+      ],
+      "effect_op_hoorder": "The hearer is told that Jesus saves, but is not directly 'saved' by the word spoken in the moment."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Indirect; the promise is framed as a general biblical truth or a personal experience of the preacher.",
+      "voorbeelden": [
+        "He will not put my soul to shame."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "High use of 'I' to share personal testimony and scholarly background."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Used mostly for rhetorical questions and shaming ('you and I have found something else').",
+        "performatieve_context": "Rarely used for grace; mostly used for law/indictment."
+      },
+      "derde_persoon": {
+        "frequentie": "120+",
+        "gebruik": "Dominant mode; describing Moses, Israel, and 'the people'.",
+        "distantie_effect": "Creates a historical-narrative distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Recounting Exodus and the preacher's education."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological definitions of sin and the nature of God."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final naming of Jesus."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History) -> Directive (Shame/Look) -> Assertive (Jesus is the word).",
+      "voorbeelden": [
+        "Look at them! ... Shame! ... I know the name."
+      ],
+      "probleem": "The sermon moves from historical description to moral indictment without a declarative bridge of grace for the hearer."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the direct 'Toezegging' (Promise) to the listener.",
+      "voorbeelden": null,
+      "kwaliteit": "Low"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Shame! ... I will ask: How many have been the occasions..."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon functions as a powerful personal testimony and historical lecture, but it 'talks about' the solution (Jesus) rather than 'handing over' the solution to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Locution",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The description of Moses rushing down the mountain.",
+        "effect": "Engages the imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Moses is dealing with... Moses is dealing with...",
+        "probleem": "Objectifies the struggle rather than addressing the hearer's struggle.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is an event of rhetoric and memory, but not a sacramental event where the hearer is 're-created' by a declarative word.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher remains the subject of the verbs ('I know', 'I hear'), leaving the hearer as an observer of the preacher's knowledge."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is spoken about as a character in the past, not as the one speaking through the preacher now.",
+      "prediker_als_mandataris": "The preacher acts more as a witness/testifier than a mandatory.",
+      "tekstueel_bewijs": [
+        "I know the name Moses could not call."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimal; mentioned in a quote (John 4:24) but not as the agent of the sermon.",
+      "perlocutie_theologie": "The effect is sought through emotional appeal (Shame/Joy) rather than the Spirit's work through the Word.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a pointer to grace, not the means of grace itself.",
+      "epifanisch_taalgebruik": "The naming of Jesus at the end has epiphanic potential but is limited by the 'I know' frame.",
+      "tekstueel_bewijs": [
+        "I know the missing word."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'Moses is dealing with' (Assertive) to 'Christ deals with you' (Declarative).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Moses is dealing with the offended majesty of God.",
+          "voorgestelde_revisie": "Today, through this Word, God meets you in your rebellion.",
+          "verschil": "Moves from historical description to present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace is kept in the third person ('He shall save').",
+      "suggestie": "Use the second person to apply the work of Jesus directly.",
+      "voorbeeldzinnen": [
+        "Because of Jesus, your sins are forgiven.",
+        "He promises you today that He will not let your hope be lost."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'They' (Israel).",
+      "suggestie": "Increase 'You' (Hearer) in the context of the Gospel.",
+      "voorbeeldzinnen": [
+        "Jesus is the word spoken for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'Shame' (Imperative/Directive) comes before the 'Jesus' (Indicative/Commissive).",
+      "suggestie": "Declare the grace of the Name first, then invite the hearer to leave their idols."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has high emotional and narrative power, but it risks leaving the hearer as a spectator of the preacher's devotion. By shifting from 'talking about' Jesus to 'giving' Jesus to the hearer, the sermon would achieve true sacramental force."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'Self-Disclosure' (his education, his mother); SAT reveals this as a 'Constative Surplus' that blocks the 'Declarative' act of God.",
+    "verschil_met_retoriek": "Rhetorically, the 'missing word' is a brilliant trope; homiletically (SAT), it remains a 'Locutionary' cleverness until it becomes a 'Commissive' promise.",
+    "unieke_inzichten_SAT": "SAT exposes that saying 'I know the name' is an Assertive about the preacher, whereas 'In His name, you are saved' is a Declarative that changes the hearer."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "said",
+        "represents",
+        "summarized",
+        "left",
+        "addresses",
+        "see",
+        "rested",
+        "summoned"
+      ],
+      "directief": [
+        "look",
+        "ask",
+        "shame",
+        "pray"
+      ],
+      "expressief": [
+        "thank",
+        "hang",
+        "like",
+        "love"
+      ],
+      "commissief": [
+        "shall save",
+        "will not put"
+      ],
+      "declaratief": [
+        "know",
+        "call"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I know the missing word. It is Jesus.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Informative",
+        "effectiviteit": "Strong rhetorically, weak performatively (it describes the preacher's knowledge)."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Preaching as Testimony' which often stays in the Constative realm."
+  }
+}

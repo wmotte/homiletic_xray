@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "titel_preek": "index_split_010: The Third Word from the Cross",
+    "bijbeltekst": "John 19:25-27",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explains the scene at the cross, provides two personal anecdotes (Luba and the Catholic rectory), and offers a Johannine exegesis of 'Woman' and 'Behold thy son'.",
+      "exegetische_kwaliteit": "High. Distinguishes between the literal/historical and the symbolic/Johannine meaning of the text.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting facts about the text and the nature of the church, with a shift to expressive prayer at the conclusion.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "In John's Gospel, she plays a symbolic role.",
+        "The saying is not about being nice to your mother.",
+        "By rewriting the covenant in his own blood, Jesus has done something completely new."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should understand the church as a spiritual family transcending blood ties.",
+      "pneumatologisch_bewustzijn": "Moderate; mentioned as the agent of the new community, but not explicitly invoked as the power of the sermon itself until the end.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "reconsider",
+        "appreciate",
+        "belong"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "80%",
+      "voorbeelden": [
+        "Saint John tells us that Jesus...",
+        "There is something more at stake here.",
+        "The Christian community has a quality..."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "tells",
+        "means",
+        "represents",
+        "says"
+      ]
+    },
+    "directieven": {
+      "frequentie": 8,
+      "procent": "5%",
+      "voorbeelden": [
+        "Behold thy mother!",
+        "May we who belong to Christ be newly committed..."
+      ],
+      "dominante_werkwoorden": [
+        "behold",
+        "repent",
+        "be committed"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 15,
+      "procent": "10%",
+      "voorbeelden": [
+        "I will carry that memory around with me...",
+        "My heart aches for the pain of the Catholic Church."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "ache",
+        "enjoy",
+        "learn"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 2,
+      "procent": "2%",
+      "voorbeelden": [
+        "Jesus has done something completely new [implied promise of new life]."
+      ],
+      "dominante_werkwoorden": [
+        "has done"
+      ],
+      "kwaliteit": "Weak. The promises are described as historical facts rather than offered as current guarantees to the listener."
+    },
+    "declaratieven": {
+      "frequentie": 3,
+      "procent": "3%",
+      "voorbeelden": [
+        "May God deliver the whole Church...",
+        "May his blessed Holy Spirit come afresh..."
+      ],
+      "dominante_werkwoorden": [
+        "may deliver",
+        "may come"
+      ],
+      "autoriteit": "The preacher shifts to optative (wishing) rather than declarative (pronouncing) authority."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive storytelling (Luba, Rectory) that illustrates but does not 'do'.",
+        "Academic correction of common misinterpretations.",
+        "Third-person description of what Jesus did 'then'."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a beautiful idea rather than a participant in a new reality."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise ('Christ creates this family for YOU now')",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "Inspiration without encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The 'Toezegging' is missing; it is replaced by 'explanation' of a past toezegging.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 45,
+        "gebruik": "Personal anecdotes and homiletical 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": 5,
+        "gebruik": "Mostly quoting the Bible ('you are all one') or hypothetical ('you have been to Ephesus').",
+        "performatieve_context": "Low."
+      },
+      "derde_persoon": {
+        "frequentie": 120,
+        "gebruik": "Describing Jesus, Mary, the Church, and the world.",
+        "distantie_effect": "High. Creates a 'lecture' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Narrating the cross and personal stories."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological definitions of community."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The closing prayer."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Story/Exegesis) -> Assertive (Theology) -> Directive/Optative (Closing prayer).",
+      "voorbeelden": [
+        "Jesus is calling people... May we be newly committed."
+      ],
+      "probleem": "The 'event' of the new community is talked about as a concept, then the hearer is asked to be committed to it, without the sermon itself performing the 'calling'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The Christian community... comes into being... May we be newly committed."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is an excellent lecture on the Johannine theology of the cross, but it remains 'about' the text rather than becoming the 'Word of God' to the listener.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "It does not seem to fit the theology of John's Gospel at all...",
+        "effect": "Clears away sentimentalism."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The saying is not about being nice to your mother.",
+        "probleem": "Defines what it is NOT, but doesn't DO what it IS.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "The sermon informs the mind but does not 'happen' to the hearer. The hearer is not 'brought into' the family by the word, but told that such a family exists.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'I-Thou' address of the Mandatory."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher is the narrator of God's past actions.",
+      "prediker_als_mandataris": "Weakly. The preacher acts as an expert witness rather than an ambassador.",
+      "tekstueel_bewijs": [
+        "Saint John tells us...",
+        "We see happening here..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as a theological category.",
+      "perlocutie_theologie": "Partially. The closing prayer leaves the effect to the Spirit.",
+      "tekstueel_bewijs": [
+        "May his blessed Holy Spirit come afresh..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a reflection on the means of grace (the Cross), not the means itself.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "What we do see happening here..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 3rd person singular 'is' and 'was' verbs. Needs 2nd person plural 'receive' and 'are'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus is calling people into a new relationship.",
+          "voorgestelde_revisie": "Today, from this cross, Jesus calls YOU into this family.",
+          "verschil": "Shifts from a general truth to a present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in historical description.",
+      "suggestie": "Use the 'Toezegging' (Promise) to bind the hearer to the cross.",
+      "voorbeeldzinnen": [
+        "In Christ's blood, I declare that you are no longer a stranger, but a member of God's household."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'we' is too general; the 'you' is absent.",
+      "suggestie": "Address the congregation directly as the 'new family'.",
+      "voorbeeldzinnen": [
+        "Look at the person next to you; Christ gives them to you as a brother."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative ('be committed') lacks the fuel of a present indicative ('you are made new').",
+      "suggestie": "Declare the new reality before asking for commitment."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The exegesis is brilliant and the stories are moving, but the sermon needs to move from 'talking about' the cross to 'speaking from' the cross."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' in the stories; SAT focuses on the lack of a 'Declarative' act from God.",
+    "verschil_met_retoriek": "Rhetorically, the stories are effective 'pathos'. In SAT, they are 'locutionary surplus' that delays the 'illocutionary' strike.",
+    "unieke_inzichten_SAT": "SAT reveals that despite the orthodox content, the sermon functions as a lecture because it lacks Commissive and Declarative force."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "tells",
+        "means",
+        "represents",
+        "illustrates",
+        "portrays",
+        "calls",
+        "sounds",
+        "was",
+        "is",
+        "have",
+        "comes",
+        "has"
+      ],
+      "directief": [
+        "behold",
+        "repent",
+        "be committed"
+      ],
+      "expressief": [
+        "learn",
+        "enjoy",
+        "ache",
+        "feel"
+      ],
+      "commissief": [
+        "promises (implied)",
+        "has done"
+      ],
+      "declaratief": [
+        "may deliver",
+        "may come"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The saying is not about being nice to your mother.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Corrective",
+        "effectiviteit": "Good for clarity, bad for event-character."
+      }
+    ],
+    "notities": "The preacher is highly skilled in locution, but hesitant in illocutionary authority."
+  }
+}

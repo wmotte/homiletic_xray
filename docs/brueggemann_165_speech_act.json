@@ -1,0 +1,438 @@
+{
+  "metadata": {
+    "titel_preek": "Trouble from Insiders",
+    "bijbeltekst": "Luke 17:11-19; 2 Kings 5",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Detailed narrative retelling of Naaman the Syrian and Gehazi, framed by the healing of the ten lepers. Focuses on the 'odd calculus' of outsider gratitude vs. insider entitlement.",
+      "exegetische_kwaliteit": "High. Strong narrative arc, historical-political contextualization, and thematic linking between OT and NT texts.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the nature of God's grace through storytelling, with a late shift toward directing the congregation to mimic God's generosity.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The story is about the prophet and his transformative power.",
+        "He performed God’s grace in plenty.",
+        "Give it away; it’s free."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from a mindset of scarcity/entitlement to one of gratitude and radical generosity.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the 'event' or the transformation.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "give",
+        "trust",
+        "relinquish"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "Jesus healed ten lepers.",
+        "The general is transformed by this nobody.",
+        "He is an extortioner."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "healed",
+        "knows",
+        "tells"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Imagine the church as the most generous place.",
+        "Give it away.",
+        "Don’t get leprosy!"
+      ],
+      "dominante_werkwoorden": [
+        "give",
+        "imagine",
+        "don't",
+        "act"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "Don’t you wonder why...?",
+        "Will you wonder with me?"
+      ],
+      "dominante_werkwoorden": [
+        "wonder",
+        "fear",
+        "believe"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "4%",
+      "voorbeelden": [
+        "More healing gifts will be given."
+      ],
+      "dominante_werkwoorden": [
+        "will be given"
+      ],
+      "kwaliteit": "Weak. The promises are mostly generalized observations about God's character rather than direct 'I promise you' addresses."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "3%",
+      "voorbeelden": [
+        "The former leper is free to go in peace."
+      ],
+      "dominante_werkwoorden": [
+        "is free"
+      ],
+      "autoriteit": "Moderate. The preacher declares the state of the biblical character but hesitates to declare the hearer's state directly."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive narrative retelling (Sections I, II, III)",
+        "Third-person analysis of Gehazi's psychology",
+        "Generalizations about 'folks like us'"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical drama rather than a participant in a current encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the specific 'you' of the listener",
+        "Sacramental 'now'"
+      ],
+      "effect_op_hoorder": "The hearer receives information about grace but is not necessarily 'hit' by the act of grace."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The 'toezegging' is replaced by a 'description' of God's generosity.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "14",
+        "gebruik": "Inclusive 'we' to group preacher and congregation as 'insiders'."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Mostly rhetorical questions or late-sermon imperatives.",
+        "performatieve_context": "Low. Used more for moral exhortation than sacramental promise."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominates the text through the retelling of Naaman, Elisha, and Gehazi.",
+        "distantie_effect": "High. Creates a 'once upon a time' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical narrative retelling."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about 'insiders' and 'scarcity'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final call to 'give it away'."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Story of Gehazi) -> Directive (Don't be like Gehazi/Give it away).",
+      "voorbeelden": [
+        "Gehazi... screwed it all up... So we are called to act faithfully."
+      ],
+      "probleem": "The imperative (Directive) is not preceded by a specific promise (Commissive) to the hearer, making it feel like moral advice."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the central 'I declare to you' or 'God promises you' bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Because we have been witnesses... we are called to act faithfully."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant narrative lecture on the dangers of entitlement, but it stays 'behind the glass' of the biblical text.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Locution",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The retelling of the 'co-pay' and 'political realism'.",
+        "effect": "Engages the imagination and makes the ancient text relatable."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Commissive Deficit",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The lack of 'God promises you today...'",
+        "probleem": "No sacramental 'event' occurs where the hearer is addressed by God.",
+        "ernst": "HIGH"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is an 'event' of storytelling, but not a sacramental 'event' of encounter.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher remains a narrator rather than a mandatory of the living Word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the story, not the speaker of the sermon.",
+      "prediker_als_mandataris": "Limited. The preacher acts as a commentator.",
+      "tekstueel_bewijs": [
+        "The story is about the prophet..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly assumes that hearing the story will lead to change.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Low. Sermon is treated as a vehicle for a 'lesson'.",
+      "epifanisch_taalgebruik": "Minimal.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense assertives. Needs present-tense commissives and declaratives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Healing is free and the general is restored.",
+          "voorgestelde_revisie": "Today, Christ declares you restored; his healing is yours, free of charge.",
+          "verschil": "Moves from a fact about Naaman to a performative act for the hearer."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace is described as a 'business model' rejection rather than a personal gift.",
+      "suggestie": "Insert a direct promise after the Gehazi section.",
+      "voorbeeldzinnen": [
+        "You do not have to earn this.",
+        "God promises you that His abundance will never run out for you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Over-reliance on 'we' and 'the general'.",
+      "suggestie": "Use 'You' to break the distance.",
+      "voorbeeldzinnen": [
+        "You, like Naaman, are being called to the water."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'Give it away' command feels like a heavy burden because the 'You are forgiven' was never spoken.",
+      "suggestie": "Ground the 'Give it away' in the 'You have received'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The narrative power is excellent, but don't just tell the story—let the story happen to the people through your words."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' (Directive) and 'self-revelation' (Expressive). SAT reveals that the 'Declarative' (the missing piece) is what actually creates the reality of grace.",
+    "verschil_met_retoriek": "Rhetoric would praise the vivid imagery; SAT critiques the lack of illocutionary force.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'Constative Surplus' (too much storytelling) prevents the sermon from becoming a 'Commissive Event'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "healed",
+        "were",
+        "is",
+        "knew",
+        "refers",
+        "sees",
+        "recognizes",
+        "suffers",
+        "goes",
+        "thinks",
+        "knows",
+        "says",
+        "accuses",
+        "enters",
+        "tells",
+        "expects",
+        "persuade",
+        "immerses",
+        "was restored",
+        "smells",
+        "means",
+        "is transformed",
+        "voices",
+        "bears",
+        "is",
+        "evokes",
+        "utters",
+        "proposes",
+        "refuses",
+        "knows",
+        "uses",
+        "has to",
+        "requires",
+        "understands",
+        "hopes",
+        "means",
+        "is",
+        "is trying",
+        "asks",
+        "is",
+        "witnessed",
+        "watched",
+        "is not persuaded",
+        "thinks",
+        "has refused",
+        "goes",
+        "catches up",
+        "lies",
+        "has made",
+        "believes",
+        "sets",
+        "is",
+        "does not blink",
+        "is",
+        "had offered",
+        "agrees",
+        "doubles",
+        "carried",
+        "understood",
+        "believe",
+        "contradict",
+        "try",
+        "is quizzed",
+        "tells",
+        "didn't go",
+        "monitored",
+        "know",
+        "have done",
+        "is reassigned",
+        "is",
+        "gets",
+        "distorted",
+        "messed",
+        "screwed",
+        "could not trust",
+        "are",
+        "come",
+        "think",
+        "own",
+        "become",
+        "lives",
+        "believed",
+        "did not need",
+        "showed",
+        "performed",
+        "have come",
+        "fear",
+        "are called",
+        "must have been",
+        "squeezed",
+        "got",
+        "know",
+        "is",
+        "is not subject"
+      ],
+      "directief": [
+        "Don’t you wonder",
+        "will you wonder with me",
+        "Notice",
+        "Make a joyful noise",
+        "sing",
+        "give",
+        "Say",
+        "Come",
+        "see",
+        "Please accept",
+        "may the LORD pardon",
+        "Go in peace",
+        "Imagine",
+        "act",
+        "Give it away",
+        "be grateful",
+        "don’t get leprosy"
+      ],
+      "expressief": [
+        "wonder",
+        "appalled",
+        "upset",
+        "disappointment",
+        "offended",
+        "angered",
+        "indignation",
+        "fear",
+        "anxiety"
+      ],
+      "commissief": [
+        "will be given"
+      ],
+      "declaratief": [
+        "is free",
+        "Shalom"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Jesus healed ten lepers.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Reporting a past fact.",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "Go in peace.",
+        "categorie": "DIRECTIVE/DECLARATIVE",
+        "illocutionaire_kracht": "Quoting a blessing.",
+        "effectiviteit": "Strong, but limited to the character in the story."
+      },
+      {
+        "zin": "Give it away; it’s free.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Exhortation.",
+        "effectiviteit": "Moralistic because the 'free gift' hasn't been performatively handed to the hearer yet."
+      }
+    ],
+    "notities": "The sermon is intellectually stimulating and narratively rich, but it functions more as a 'talking about' the event of grace rather than being the 'event' itself."
+  }
+}

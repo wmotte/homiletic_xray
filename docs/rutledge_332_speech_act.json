@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "titel_preek": "The Common Criminal",
+    "bijbeltekst": "Matthew 11:6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon uses three narrative illustrations (John the Baptist, Jane, and Sally) to explore the offense of the Cross and the human resistance to identifying as a sinner.",
+      "exegetische_kwaliteit": "Minimal. The biblical text (Matt 11:6) serves as a thematic hook rather than a deep exegetical foundation. The focus is on psychological/anecdotal narrative.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts facts about human nature and narrates past events. Only in the final two paragraphs does the force shift to addressing the hearer.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "I have often thought, since, how terribly sad that was.",
+        "Sally was able to tell the department store police who she was.",
+        "When you reflect upon Jesus Christ... you understand the depth and weight of human sin."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Self-recognition as a sinner and subsequent comfort in God's love.",
+      "pneumatologisch_bewustzijn": "Low. The role of the Spirit in 'opening eyes' is implied but not explicitly invoked or acknowledged as the agent of the event.",
+      "perlocutionaire_werkwoorden": [
+        "recognize",
+        "identify",
+        "understand",
+        "know",
+        "rejoice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "John the Baptist was languishing in prison.",
+        "The store in question is fashionable and elegant.",
+        "She considered herself a person of superior virtue."
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "said",
+        "is",
+        "told",
+        "could not"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "picture the department store",
+        "picture Sally"
+      ],
+      "dominante_werkwoorden": [
+        "picture",
+        "look"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "I have often thought... how terribly sad that was.",
+        "To my amazement she said..."
+      ],
+      "dominante_werkwoorden": [
+        "thought",
+        "felt",
+        "amazed"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "5%",
+      "voorbeelden": [
+        "you will also come to know the depth of your own participation in sin.",
+        "you will come to know the true reality... of the good news."
+      ],
+      "dominante_werkwoorden": [
+        "will come to know"
+      ],
+      "kwaliteit": "Weak. They are phrased as future predictions of the hearer's experience rather than God's current binding promise to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher describes the possibility of forgiveness but does not pronounce it."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive storytelling about third parties (Sally/Jane).",
+        "Lengthy descriptions of past conversations.",
+        "Theological truths presented as general observations ('How do we measure...')."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of other people's spiritual failures rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Information about the Cross is provided, but the Cross is not 'done' to the hearer."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon talks *about* the promise of salvation but does not *deliver* it as a 'Toezegging'.",
+      "voorbeelden": [
+        "the good news of salvation in Jesus Christ our Lord"
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "28",
+        "gebruik": "Narrative 'I' (The preacher as a character in the stories)."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Used only in the conclusion to draw a lesson.",
+        "performatieve_context": "Used for cognitive application ('you understand') rather than sacramental impartation."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominates the sermon through the stories of John, Sally, and Jane.",
+        "distantie_effect": "High. It creates a 'lecture' feel where the hearer analyzes others."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "70%",
+        "gebruik": "Anecdotal history."
+      },
+      "tijdloos_present": {
+        "frequentie": "20%",
+        "gebruik": "General principles about sin and love."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'Now' of the sermon's conclusion."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Stories of others) -> Assertive (General truths about sin) -> Directive/Cognitive (You will know).",
+      "voorbeelden": [
+        "Sally could not hear... but perhaps you can hear it today."
+      ],
+      "probleem": "The 'perhaps' makes the event conditional on the hearer's ability rather than God's act."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "When you really come to know... then you will also come to know..."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a moral and psychological lesson on the nature of sin and the offense of the cross, using others as negative examples.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Engagement",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The story of the department store alarm.",
+        "effect": "Keeps attention and illustrates the concept of 'shame' effectively."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Performative Force",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "I was unable to put this across.",
+        "probleem": "The preacher remains in a state of 'trying to explain' rather than 'proclaiming'.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a talk *about* an event (the Cross) rather than the sermon *being* an event of the Cross.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not use his mandate to declare forgiveness or bind God to the hearer."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher is the primary speaker/narrator.",
+      "prediker_als_mandataris": "Low. The preacher acts more as a witness or observer of Sally and Jane.",
+      "tekstueel_bewijs": [
+        "I suggested that she try...",
+        "I have often thought..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is treated as a psychological realization ('you will come to know').",
+      "tekstueel_bewijs": [
+        "perhaps you can hear it today"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a preparation for understanding, not the means of grace itself.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "you understand the depth and weight of human sin"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is buried in past-tense narrative verbs. It needs a shift to present-tense performative verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus became like a common criminal for our sake.",
+          "voorgestelde_revisie": "Today, Christ stands in your place as the common criminal so that you may stand before God as righteous.",
+          "verschil": "Shifts from a historical fact (Assertive) to a present reality for the hearer (Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace is 'out there' in the story, not 'in here' for the hearer.",
+      "suggestie": "Use Commissives to bind God's love to the specific congregation.",
+      "voorbeeldzinnen": [
+        "I promise you on the authority of Christ: His shame is your glory."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'Sally' and 'Jane', not enough 'You'.",
+      "suggestie": "Reduce the anecdotes by 50% and use the saved time for direct address.",
+      "voorbeeldzinnen": [
+        "You are the one shouting 'Crucify Him', and He is the one dying for your shout."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The indicative is historical, making the imperative feel like a psychological 'should'.",
+      "suggestie": "Make the indicative a present-tense declaration."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically clever and psychologically insightful, but it lacks the 'sacramental punch' of a performative event. It talks about the medicine without administering it."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-disclosure' of the preacher's sadness; SAT focuses on the lack of a 'Declarative' act from God.",
+    "verschil_met_retoriek": "Rhetorically, the stories are excellent; homiletically (SAT), they create a constative surplus that prevents the 'event'.",
+    "unieke_inzichten_SAT": "SAT reveals that the preacher's inability to 'put it across' to Sally is mirrored in the sermon's own illocutionary weakness."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "sent",
+        "asking",
+        "replied",
+        "said",
+        "told",
+        "suggested",
+        "exclaimed",
+        "appeared",
+        "knew",
+        "made",
+        "considered",
+        "participated",
+        "shouted",
+        "is",
+        "measure"
+      ],
+      "directief": [
+        "picture",
+        "look",
+        "reflect"
+      ],
+      "expressief": [
+        "thought",
+        "amazement",
+        "sad",
+        "moving"
+      ],
+      "commissief": [
+        "will come to know"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Jesus became like a common criminal for our sake.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Describing a substitutionary fact.",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "I was unable to put this across.",
+        "categorie": "Expressive/Assertive",
+        "illocutionaire_kracht": "Admitting failure.",
+        "effectiviteit": "Creates a sense of powerlessness in the word itself."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'preaching about preaching' or 'preaching about the difficulty of hearing the gospel' rather than simply 'preaching the gospel'."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "titel_preek": "The Apostolic Adventure",
+    "bijbeltekst": "Psalm 122; Acts 15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "550"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "apostolic adventure",
+          "go where the tradition had never gone before",
+          "go into new territory",
+          "open-ended venture"
+        ],
+        "conceptuele_metafoor": "FAITH IS AN ADVENTUROUS JOURNEY"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "walled city",
+          "wagons in a circle",
+          "foundation-shaking",
+          "citadel of shalom"
+        ],
+        "conceptuele_metafoor": "TRADITION IS A FORTIFIED BUILDING"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "4",
+        "kernfrasen": [
+          "haunted by the vision",
+          "haunting memory",
+          "haunting heavenly voice"
+        ],
+        "conceptuele_metafoor": "DIVINE REVELATION IS A HAUNTING/GHOST"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Wagons in a circle",
+        "brondomein": {
+          "naam": "Frontier Defense",
+          "concrete_elementen": [
+            "wagons",
+            "circle",
+            "enclosure",
+            "defensive posture"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Ecclesial Protectionism",
+          "doctrinale_traditie": "Mainline/Progressive"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Wagons",
+            "doel_element": "Church members/Traditions"
+          },
+          {
+            "bron_element": "Circle",
+            "doel_element": "Exclusionary boundaries"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The outside world is a threat/enemy territory."
+          ],
+          "theologische_implicaties": [
+            "Ecclesiology is primarily about preservation rather than mission."
+          ],
+          "ethische_implicaties": [
+            "Resistance to outsiders is a survival instinct."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that the church is under siege and fragile."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the American frontier mythos to critique modern church insularity."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully pits the 'Static Container' (Jerusalem/Wagons) against the 'Dynamic Path' (Adventure/New Territory).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "Peace (Shalom)",
+          "metafoor_b": "Adventure/Daring",
+          "conflict_beschrijving": "Peace usually entails rest/stability, while adventure entails risk/unrest.",
+          "entailment_conflict": "Can one have the 'peace of a walled city' while being in an 'open-ended venture'?",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Mid-sermon",
+          "gemengde_metaforen": [
+            "Tradition",
+            "Shredding/Shaking"
+          ],
+          "blending_strategie": "The preacher uses destructive metaphors (shredding) to clear space for the journey metaphor."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Uses the 'haunting' metaphor to describe the Holy Spirit, moving away from 'dove' or 'wind' to something more psychologically disruptive.",
+        "voorbeeld": "The early church must have been haunted by the vision."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The 'adventure' metaphor can minimize the actual trauma of cultural displacement.",
+        "voorbeeld": "Apostolic adventure",
+        "potentiele_impact": "Congregants may view serious theological shifts as mere 'traveling' rather than sacrificial change.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A contested Jerusalem where walls are being breached.",
+      "sub_worlds": [
+        "The kitchen with 'two pots' (Domestic/Legalistic world)",
+        "The American frontier (Wagons in a circle)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 2",
+          "van_wereld": "Ancient Jerusalem",
+          "naar_wereld": "Modern English critic's kitchen",
+          "effectiviteit": "High; makes the abstract 'purity laws' concrete and absurd."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Disruptor",
+          "hoe_versterkt": "God is the source of the 'haunting' that prevents comfort."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Tradition as Safety",
+          "verstoring_strategie": "Mapping safety to 'stagnation' and 'exclusion'.",
+          "vervangend_schema": "Tradition as a Launchpad for Adventure."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly utilizes the Lectionary's pairing of Psalm 122 and Acts."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY and ARCHITECTURAL domains. It effectively uses the tension between 'The Wall' (exclusion) and 'The Road' (inclusion). The use of 'haunting' as a source domain for divine guidance is a sophisticated cognitive move that disrupts the 'God as Comforter' schema.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Tradition",
+        "huidige_status": "Viewed as a static building (foundation-shaking).",
+        "suggestie": "Map tradition to a 'Map' or 'Compass' rather than a 'Building'.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Tradition is not the ground we stand on, but the compass that points us toward the territory we haven't yet mapped."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "Peace vs. Adventure",
+        "resolutie_strategie": "Define 'Peace' not as the absence of movement, but as the 'rhythm of the march'."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Adventure",
+        "problematisch_entailment": "Adventures are often for the privileged/strong.",
+        "aanbeveling": "Ensure the 'adventure' includes the vulnerability of the 'other' mentioned (poor, Muslim, etc.)."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "BIOLOGICAL/EVOLUTIONARY",
+        "rationale": "The mention of 'morphing' and 'emergent' suggests growth rather than just travel.",
+        "doel_concept": "Ecclesiology"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to deconstruct defensive ecclesiology. The 'wagons in a circle' image is particularly potent for a North American context."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'haunting' imagery; CMT reveals it as a cognitive shift in how the hearer perceives divine agency.",
+    "verschil_met_kolb": "Unlike Kolb's learning styles, CMT shows how the 'Adventure' metaphor provides the actual logic for the 'Active Experimentation' stage.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using 'Jerusalem' not as a location, but as a CONTAINER schema that must be broken."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "haunted by the vision",
+      "facts on the ground",
+      "compute Jewish requirements",
+      "citadel of shalom",
+      "walled city",
+      "wagons in a circle",
+      "foundation-shaking",
+      "ideology-shattering",
+      "shred the tradition",
+      "apostolic adventure",
+      "shatters our comfort zones",
+      "open up futures"
+    ],
+    "woord_frequentie_analyse": {
+      "Jerusalem": "7",
+      "tradition": "6",
+      "adventure": "3",
+      "haunting": "4",
+      "disrupt": "3"
+    },
+    "notities": "The preacher uses 'haunting' as a bridge between the Medical (psychological) and Supernatural domains."
+  }
+}

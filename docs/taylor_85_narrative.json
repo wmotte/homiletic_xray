@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "Spiritual Success",
+    "bijbeltekst": "Psalm 16:8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject seeks 'spiritual success' (calm, poise, strength) by intentionally positioning God as a focal point to achieve stability and growth.",
+      "subject": {
+        "identificatie": "The Individual Believer (The 'I')",
+        "tekstueel_bewijs": [
+          "I have set the Lord always before me",
+          "We need to be challenged to rise higher",
+          "We need to set the Lord always before us"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Spiritual Success / Stability / Character Growth",
+        "tekstueel_bewijs": [
+          "how the success was attained",
+          "source of his strength of soul",
+          "I shall not be moved"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Preacher/Moral Tradition",
+        "tekstueel_bewijs": [
+          "The Lord has called us to higher things",
+          "We desperately need the presence of God to convict us"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Self (The Hearer)",
+        "tekstueel_bewijs": [
+          "satisfying us spiritually",
+          "give us a sense of well-being"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "God / The Bible",
+        "tekstueel_bewijs": [
+          "because he is at my right hand, I shall not be moved",
+          "the Bible is a mirror in which we may see ourselves"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Spiritual Sloth / Aging / Pride",
+        "tekstueel_bewijs": [
+          "to slump and to quit",
+          "morally flabby",
+          "shocks and batterings of life"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is primarily internal stagnation or the weariness of life, rather than cosmic sin or death requiring a Savior."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The 'Soteriological' background where God restores the soul, though it is framed as a result of the primary program's discipline.",
+      "subject": "God",
+      "object": "The Soul's Restoration",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon fluctuates between God acting (Psalm 23) and the human 'setting' God (Psalm 16), making God's action conditional on human focus."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Preacher → Spiritual Maturity → The Hearer",
+      "helper_subject_tegenstander": "God (as Tool) → The Believer ← Sloth/Aging",
+      "subject_naar_object": "The Believer → Spiritual Success"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "38",
+      "ratio": "0.36",
+      "voorbeelden_god_subject": [
+        "The Lord has called us",
+        "He leadeth me",
+        "God has a story"
+      ],
+      "voorbeelden_mens_subject": [
+        "I have set the Lord",
+        "We need to pray",
+        "We must take things into our own hand"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "We desperately need to...",
+          "You and I need to pray...",
+          "We need to be challenged..."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "this is what we want",
+          "holy desire in the Psalms"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "how the success was attained",
+          "how it is done"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "enabled by constant vision of God"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir). It assumes that if the hearer knows 'how' (Savoir) and is told they 'must' (Devoir), they will achieve the result."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Spiritual Success (Stability)",
+      "s2": "Spiritual Failure (Slump/Moving)",
+      "niet_s1": "Stagnation (Halfway house)",
+      "niet_s2": "Self-Justification"
+    },
+    "beweging_in_preek": "From S2 (Failure/Slump) through ~S2 (Conviction/Mirror) toward S1 (Success/Psalm 23).",
+    "theologische_resolutie": "Resolution is found in the human act of 'setting' God before the self to trigger God's helping presence.",
+    "ernst_van_s2": "Moderate; sin is seen as 'loathsome' but primarily as a barrier to personal growth rather than an ontological death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using biblical language, the 'engine' of the sermon is anthropocentric. God is the 'Helper' (Adjuvant) used by the human 'Subject' to achieve the 'Object' of spiritual stability.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "We do need the Lord ever before us to correct us.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Stability",
+        "tekstueel_bewijs": "because he is at my right hand, I shall not be moved.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Acknowledgment of Sin",
+        "tekstueel_bewijs": "see ourselves as loathsome creatures",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The Psalmist is presented as a 'successful' spiritual athlete whose 'technique' (setting the Lord) we should emulate.",
+      "bijbelse_figuren_als_model": [
+        "The Psalmist",
+        "Isaiah",
+        "C.H. Dodd"
+      ],
+      "alternatieve_lezing": "God is the one who sets Himself before us in the Incarnation when we were unable to look up."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform spiritual disciplines to ensure God's presence.",
+      "theologische_implicatie": "Synergism where human initiative precedes divine support."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The sermon starts with secular success and tries to map that logic onto the spiritual life, creating a clash between 'achievement' and 'mercy'.",
+      "spanning_punten": [
+        "The 'jigger of gin' anecdote frames success as a human habit, which clashes with the later 'mercy of God' language."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "we need also to be challenged to rise higher as living souls",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is a resource for the subject's growth rather than the primary actor of new birth."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'slouching' or 'slumping'—a lack of effort."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'how-to' guide for spiritual maintenance where the human is the Subject and God is the Tool.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the one 'setting' God.",
+      "voorgestelde_herpositionering": "Make God the Subject who 'sets' His Son before us.",
+      "voorbeeld_revisie": "Instead of 'We must set the Lord before us,' use 'In Christ, the Lord has set Himself before us so that we cannot be moved.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'successful athlete' of faith.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the hearer as the lost sheep in Psalm 23 rather than the one who 'attains' the Shepherd."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God's Power)",
+      "concrete_suggestie": "Focus on how God's grace gives the power to change, rather than the duty to change."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Weak (slumping/flabby).",
+      "voorgestelde_intensivering": "Describe sin as a power we cannot escape by 'setting' anything.",
+      "theologische_rationale": "A stronger opponent necessitates a stronger Savior (Subject switch)."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (rising higher) precedes or replaces Soteriology.",
+      "voorgestelde_structuur": "Proclaim God's finished work (Psalm 23) as the ground that allows the response of Psalm 16."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong pastoral heart but relies too heavily on the 'success' metaphor, which inadvertently turns grace into a reward for focus."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is engaging; semiotically, it is a work-plan.",
+    "verschil_met_exegese": "Exegesis of Psalm 16 is accurate, but the homiletical application shifts the 'weight' of the verbs to the hearer.",
+    "unieke_inzichten_greimas": "Greimas reveals that God is functionally a 'Helper' actant here, which subordinates the Divine to human goals."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "I (Subject) have set (Verb)",
+      "We (Subject) need (Verb)",
+      "The Lord (Subject) has called (Verb)"
+    ],
+    "volledige_object_lijst": [
+      "Spiritual power",
+      "Success",
+      "Consolation"
+    ],
+    "werkwoord_frequentie": {
+      "set": {
+        "count": "5",
+        "primair_subject": "Man"
+      },
+      "need": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "leadeth": {
+        "count": "2",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The use of 'Success' in the title sets a secular-competitive actantial frame that persists throughout."
+  }
+}

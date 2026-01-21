@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "The Sinner's Friend",
+    "bijbeltekst": "Luke 7:34 (implied), Luke 4:18-19, John 15:13-15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "A person is known by the company he or she keeps",
+          "friend of publicans and sinners",
+          "I have called you friends",
+          "Greater love than this hath no man... lay down his life for his friends"
+        ],
+        "conceptuele_metafoor": "GOD IS A FAITHFUL FRIEND"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Flee people... as a plague",
+          "They that are whole need not a physician; but they that are sick",
+          "sick way other cultures have debauched",
+          "sickened class"
+        ],
+        "conceptuele_metafoor": "SIN IS SICKNESS / JESUS IS PHYSICIAN"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "victim of such underhanded slander",
+          "made the libel his label",
+          "numbered with the transgressors",
+          "enrolled himself by your sinful name"
+        ],
+        "conceptuele_metafoor": "SALVATION IS LEGAL IDENTIFICATION WITH THE ACCUSED"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "One bad apple can spoil a barrel",
+        "brondomein": {
+          "naam": "Agrarian/Food Decay",
+          "concrete_elementen": [
+            "apple",
+            "rot",
+            "barrel",
+            "contagion"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Moral Influence/Sin",
+          "doctrinale_traditie": "General Christian/Moralist"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Rotten apple",
+            "doel_element": "Sinner/Bad influence"
+          },
+          {
+            "bron_element": "Barrel",
+            "doel_element": "Social circle/Youth group"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Moral failure is contagious and irreversible"
+          ],
+          "theologische_implicaties": [
+            "The need for separation from the world to maintain purity"
+          ],
+          "ethische_implicaties": [
+            "Avoidance of 'sinners' to protect one's own character"
+          ],
+          "onbedoelde_consequenties": [
+            "Contradicts the later image of Jesus entering the 'barrel' without rotting"
+          ]
+        },
+        "vitaliteit_status": "DEAD",
+        "vitaliteit_toelichting": "A common cliché used as a 'ground clearing' device."
+      },
+      {
+        "metafoor_expressie": "He made the libel his label",
+        "brondomein": {
+          "naam": "Legal/Commercial Branding",
+          "concrete_elementen": [
+            "libel (legal charge)",
+            "label (identification tag)"
+          ],
+          "belichaamde_basis": "object"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement/Incarnation",
+          "doctrinale_traditie": "Substitutionary Atonement"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "False accusation",
+            "doel_element": "Christ's identity"
+          },
+          {
+            "bron_element": "Wearing a tag",
+            "doel_element": "Embracing the sinner's status"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God intentionally adopts the shame of the human condition"
+          ],
+          "theologische_implicaties": [
+            "The Cross is the ultimate subversion of worldly judgment"
+          ],
+          "ethische_implicaties": [
+            "Believers should not fear social stigma when following Christ"
+          ],
+          "onbedoelde_consequenties": [
+            "Might suggest God's identity is reactive to human slander"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Wordplay (libel/label) re-activates the concept of social identity."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MIXED",
+      "coherentie_verklaring": "The preacher starts with a 'separationist' schema (bad apples, flee the plague) to establish moral norms, then intentionally disrupts it with the 'incarnational' schema of Jesus as the Friend of Sinners. While rhetorically effective for 'ground clearing,' the entailments of the first half (avoid sinners) and the second half (embrace sinners) remain in unresolved tension.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Introduction vs. Conclusion",
+          "metafoor_a": "SIN IS A PLAGUE (Avoidance)",
+          "metafoor_b": "SINNERS ARE FRIENDS (Proximity)",
+          "conflict_beschrijving": "The preacher tells youth to flee 'riff-raff' but praises Jesus for 'hanging out' with them.",
+          "entailment_conflict": "If sin is a contagious plague, Jesus' proximity is suicidal; if Jesus is the model, the advice to 'flee' is un-Christlike.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Middle",
+          "gemengde_metaforen": [
+            "Medical and Relational"
+          ],
+          "blending_strategie": "Jesus is the Physician (Medical) whose medicine is Friendship (Relational)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Takes the 'Friend of Sinners' cliché and grounds it in the concrete social risks of gossip and slander.",
+        "voorbeeld": "The finger pointers wagged their heads... the venomed word ran on."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By focusing heavily on 'Friendship,' the holiness and transcendence of God may be diminished.",
+        "voorbeeld": "He is a friend who all our sins does bear.",
+        "potentiele_impact": "Congregation may view God as a peer rather than Lord.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A 1st-century dinner party filled with 'riff-raff' and whispering critics.",
+      "sub_worlds": [
+        "A modern household with parents warning children",
+        "The scene at Calvary",
+        "A courtroom where 'libel' is being discussed"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to Calvary",
+          "van_wereld": "Social gossip in Galilee",
+          "naar_wereld": "Cosmic sacrifice at the Cross",
+          "effectiviteit": "High; connects social friendship to sacrificial love."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Substitutionary Atonement",
+          "hoe_versterkt": "Using the language of 'standing in your stead' and 'enrolled by your name.'"
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Aloof/Holy",
+          "verstoring_strategie": "Contrasting Jesus with the asceticism of John the Baptist.",
+          "vervangend_schema": "God as Table-Companion"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly fits a service focused on Grace or Communion."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the Relational domain (Friendship), supported by Medical and Juridical sub-metaphors. It successfully moves from a 'Moralist' source domain to a 'Gospel' source domain, though the transition creates some cognitive dissonance regarding how the believer should treat 'bad company.'",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SIN IS SICKNESS",
+        "huidige_status": "Conventional",
+        "suggestie": "Describe the specific 'symptoms' of the 'riff-raff' to make the healing more concrete.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The fever of greed, the paralysis of shame."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The 'Bad Apple' vs. 'Friend of Sinners' tension.",
+        "resolutie_strategie": "Clarify that Jesus is the 'Anti-Rot'—he doesn't catch the decay; he infects the decay with life."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOD IS FRIEND",
+        "problematisch_entailment": "Friends are equals; God is not our equal.",
+        "aanbeveling": "Balance with the 'King' or 'Lord' domain to maintain verticality."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To show how Jesus builds a new 'house' for the outcasts.",
+        "doel_concept": "The Church as a community of the 'broken'."
+      }
+    ],
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful use of CMT to subvert moralism, though the introductory metaphors need tighter integration with the Christological conclusion."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the alliteration of 'libel/label'; CMT shows how this wordplay actually re-maps the hearer's understanding of Christ's social identity.",
+    "verschil_met_kolb": "Kolb would focus on the 'Friend' as a relational role; CMT focuses on how the 'Friend' source domain dictates the logic of the Atonement (sacrifice for friends).",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher uses 'Verticality' (looking up vs. talking down) to establish a moral hierarchy before Jesus 'levels' the field through proximity."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Bad apple/barrel",
+      "Flee as a plague",
+      "Finger pointers",
+      "Poisoned whisper",
+      "Venomed word",
+      "Dagger/death stroke",
+      "Jewel in the crown",
+      "Dump-heap/garbage-pile folk",
+      "Melts my heart",
+      "Bathes my eyes"
+    ],
+    "woord_frequentie_analyse": {
+      "friend": "15",
+      "sinner": "12",
+      "gossip/rumor": "6",
+      "died": "5"
+    },
+    "notities": "The preacher uses 'common people' as a synonym for 'sinners,' which is a fascinating cultural-linguistic mapping of class onto morality."
+  }
+}

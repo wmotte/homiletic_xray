@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "titel_preek": "The Soul's Desperate Plea",
+    "bijbeltekst": "Psalm 19:1, 7, 13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the dual movement of worship: praise for God's creation/law and petition for personal holiness. It uses Psalm 19 as a template, weaving in historical anecdotes (David, American Democracy) and philosophical references (Kant).",
+      "exegetische_kwaliteit": "High. The preacher engages with the structure of the Psalm, the nature of the Hebrew law, and the metaphorical language of the sun and stars.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily describes the Psalmist's actions and the nature of praise, occasionally shifting into a collective yearning.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "The heavens declare the glory of God",
+        "Praise is the soul's instinctive language",
+        "The psalmist was moved with awe"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To inspire a sense of awe and a desire for personal cleansing and God-centeredness.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the 'event'; the focus is on the 'soul's' movement.",
+      "perlocutionaire_werkwoorden": [
+        "praise",
+        "yearn",
+        "plead",
+        "consider",
+        "measure"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "The heavens declare the glory of God",
+        "Praise is worship with sunshine upon it",
+        "God's law does not change"
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "declared",
+        "said",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "9%",
+      "voorbeelden": [
+        "Let that blessed day come",
+        "Let us walk in the God way",
+        "Let me say loud and clear"
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "must",
+        "stop"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "25",
+      "procent": "12%",
+      "voorbeelden": [
+        "I like the way he goes about it",
+        "I do yearn to breathe in the God atmosphere",
+        "Poor indeed is any service..."
+      ],
+      "dominante_werkwoorden": [
+        "yearn",
+        "like",
+        "long",
+        "thank"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "God will protect us"
+      ],
+      "dominante_werkwoorden": [
+        "will"
+      ],
+      "kwaliteit": "Weak. Promises are stated as general theological facts (Assertives) rather than direct address to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher describes the Psalmist's prayer but does not pronounce absolution or blessing in the present moment."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Let the psalmist talk on",
+        "The psalmist was moved",
+        "There is a telling scene"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of the Psalmist's piety rather than a participant in God's current action."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct promise (Toezegging)",
+        "Absolution (Declarative)",
+        "Direct address from God to the 'You'"
+      ],
+      "effect_op_hoorder": "Information about God's law and nature is provided, but no sacramental encounter is facilitated."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent. The sermon describes the need for mercy but does not deliver it.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "42",
+        "gebruik": "Mostly 'I' (the preacher's opinions/yearning) or 'We' (general humanity)."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Used rhetorically ('Do you not want...') or in general truths ('God's law does not change for you').",
+        "performatieve_context": "Low. Not used for promising."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant. Talking about the Psalmist, David, Kant, and 'people'.",
+        "distantie_effect": "High. It creates a historical and descriptive distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions and general principles."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The preacher's current yearning at the end."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of Law/Praise) -> Directive (Let us walk in the God way).",
+      "voorbeelden": [
+        "God's law remains forever... Let us walk in the God way."
+      ],
+      "probleem": "It bypasses the Promise (Commissive) and the Act of Grace (Declarative), leading to moralistic yearning."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of the Toezegging.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The law of the Lord is perfect... Let that blessed day come when all people shall obey."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a high-quality lecture on the themes of Psalm 19, but it remains 'about' the text rather than becoming an 'event' of the text.",
+    "sterke_punten": [
+      {
+        "aspect": "Imagery",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Night stretches its sable shroud over a pausing and resting earth",
+        "effect": "Aesthetic engagement"
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Let the psalmist talk on",
+        "probleem": "The preacher abdicates his role as a mandatory of God, deferring to a dead author.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a meditation on a religious event (the Psalm), not a religious event in itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "No grace is communicated; only the need for grace is described."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of talk, not the subject of the speech act.",
+      "prediker_als_mandataris": "Weak. The preacher acts as a commentator.",
+      "tekstueel_bewijs": [
+        "Let me retire for a moment and let the psalmist speak"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly psychological rather than pneumatological.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a 'service' or 'article of worship' but not a means of grace.",
+      "epifanisch_taalgebruik": "Limited to poetic description of nature.",
+      "tekstueel_bewijs": [
+        "The heavens declare the glory of God"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is paralyzed by 'is' and 'was'. It needs 'I promise' and 'You are'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The law of the Lord is perfect... It revives the soul.",
+          "voorgestelde_revisie": "Tonight, God’s perfect law confronts you, not to crush you, but to revive your soul.",
+          "verschil": "Shifts from a general truth to a direct address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The preacher asks for mercy but never grants it in God's name.",
+      "suggestie": "Insert a Commissive/Declarative after the petition.",
+      "voorbeeldzinnen": [
+        "Because Christ bore your secret faults, I declare to you: you are clean."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'The Psalmist' and 'We'.",
+      "suggestie": "Use 'You' to bring the hearer into the presence of God.",
+      "voorbeeldzinnen": [
+        "You, who struggle with presumptuous sins, hear God's promise..."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'Let us walk' is based on a yearning, not a gift.",
+      "suggestie": "Base the 'walk' on the 'cleansing' already declared."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and biblically grounded, but it lacks the 'sacramental punch' of a direct performative act. Move from talking about the Psalmist to speaking for God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of yearning; SAT reveals the lack of a 'Declarative' that actually changes the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, this is excellent (alliteration, rhythm); homiletically (SAT), it is a 'constative surplus' that fails to perform the gospel.",
+    "unieke_inzichten_SAT": "SAT exposes that 'Letting the psalmist talk' is actually a locutionary retreat that weakens the illocutionary force of the sermon."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "declare",
+        "was",
+        "announced",
+        "means",
+        "remains",
+        "are"
+      ],
+      "directief": [
+        "keep",
+        "cleanse",
+        "save",
+        "let",
+        "stop"
+      ],
+      "expressief": [
+        "yearn",
+        "long",
+        "thank",
+        "praise"
+      ],
+      "commissief": [
+        "will protect"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Let the psalmist talk on!",
+        "categorie": "Directive (to self/text)",
+        "illocutionaire_kracht": "Weak",
+        "effectiviteit": "Creates distance; the preacher becomes a spectator."
+      }
+    ],
+    "notities": "The sermon ends in a 'mystical yearning' (Expressive) rather than a 'sacramental arrival' (Declarative)."
+  }
+}

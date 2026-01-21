@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "titel_preek": "Easter as Future-Opening",
+    "bijbeltekst": "Psalm 16; Acts 2:24; John 20",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The God of Life overcomes the cosmic Power of Death to open a closed future for humanity.",
+      "subject": {
+        "identificatie": "The God of Life / Jesus",
+        "tekstueel_bewijs": [
+          "God... freed him from death",
+          "The God of life pushes against the closed door of death",
+          "He breathed on them and gave them new life"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "An open future (Life/New Possibility)",
+        "tekstueel_bewijs": [
+          "the door to the future is open",
+          "giving futures to people who thought they had no life-future"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The God of Life",
+        "tekstueel_bewijs": [
+          "the power of life that comes from God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity / The Apostles / The Hearer",
+        "tekstueel_bewijs": [
+          "leaves it open for us to walk through",
+          "restored their bodies"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / Scripture / Acts of Defiance",
+        "tekstueel_bewijs": [
+          "God has poured out the Holy Spirit",
+          "The Bible brings people to faith"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "The Power of Death (Empire, Fear, Scarcity, Greed, Violence)",
+        "tekstueel_bewijs": [
+          "The power of death wants to talk us out of our lives",
+          "the coercive power of fear, scarcity, greed, or violence"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is described as an active, personified negation 'loose in the world' that humans cannot change themselves."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer decides to act in accordance with the new reality of the open future.",
+      "subject": "The Hearer / The Church",
+      "object": "Acts of the Apostles / Moving bodies into the neighborhood",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The primary program (God opening the door) enables the secondary program (walking through the door)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Open Future → Humanity",
+      "helper_subject_tegenstander": "Holy Spirit → God/Jesus ← Power of Death",
+      "subject_naar_object": "God → Resurrection/New Life"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "God... freed him from death",
+        "He breathed on them",
+        "He healed people"
+      ],
+      "voorbeelden_mens_subject": [
+        "we can act",
+        "we decide for the power of life",
+        "we must limit and ration"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "we must protect against that"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "deciding whether the truth of our life is..."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "the way to walk into God’s power... is by acting"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "it was impossible for him to be held",
+          "we can walk through the door"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Impossible' becoming 'Possible' through God's power, shifting the hearer from impotence to agency."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Power of Life",
+      "s2": "Power of Death",
+      "niet_s1": "Docility/Impotence",
+      "niet_s2": "Defiance/Acts"
+    },
+    "beweging_in_preek": "S2 (Death) → ~S1 (Impotence) → S1 (Resurrection) → ~S2 (Defiance/Acts)",
+    "theologische_resolutie": "The tension is resolved by God's 'bodily assertion' which breaks the 'impossible' grip of death.",
+    "ernst_van_s2": "High; death is not just a funeral but a systemic, cosmic negation."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon maintains God as the primary actant of the resurrection and the 'opening of the door,' while human action is framed as a response to an already-opened future.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Decision-centric language",
+        "tekstueel_bewijs": "deciding whether the truth of our life is the power of death... or the power of Easter",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of the 'Impossible'",
+        "tekstueel_bewijs": "God... freed him from death. It was impossible for him to be held.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures (Apostles) are shown as fearful/impotent until God acts upon them.",
+      "bijbelse_figuren_als_model": [
+        "Apostles",
+        "Thomas"
+      ],
+      "alternatieve_lezing": "Theocentric: Jesus stands among the fearful; the Spirit blows them to newness."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of 'closing the future' and empowerment to move.",
+      "theologische_implicatie": "Soteriology precedes ethics; the 'Acts' are a result of the 'Breathed life'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "Strong integration of the cosmic battle (Death vs Life) with the personal/social response.",
+      "spanning_punten": [
+        "The transition from 'God acts' to 'We decide' carries a slight risk of making the decision the final actant."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "The God of life pushes against the closed door of death, forces it open.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir' (Power) to go beyond habits and controls."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Death is a power of negation that 'talks us out of our lives'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully positions God as the Subject of the primary narrative (Resurrection) and the human as the Subject of the secondary narrative (Ethics/Acts).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on 'Vouloir' (deciding) in the third section.",
+      "voorgestelde_balans": "Ensure the 'deciding' is framed as a 'being convinced' by the Spirit.",
+      "concrete_suggestie": "Emphasize that the Spirit 'blows us' into the decision."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly personified and systemic.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God opens door) -> Ethics (We walk through)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of theocentric preaching that uses the 'Christus Victor' motif to ground human agency in divine victory."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the four-point list of death's tools; semiotics reveals these as 'Opponents' to God's 'Object'.",
+    "verschil_met_exegese": "Exegesis explains Psalm 16; semiotics shows how the Psalm functions as an 'Act of Defiance' (Helper) for the Subject.",
+    "unieke_inzichten_greimas": "Reveals that 'Death' is the true Opponent, making the sermon's grace 'heavy' rather than 'cheap'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God freed",
+      "Jesus came",
+      "He breathed",
+      "We act",
+      "Death wants"
+    ],
+    "volledige_object_lijst": [
+      "Future",
+      "Life",
+      "Peace",
+      "Newness"
+    ],
+    "werkwoord_frequentie": {
+      "open": {
+        "count": "6",
+        "primair_subject": "God"
+      },
+      "act": {
+        "count": "5",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon avoids the 'Exemplarism' trap by showing the Apostles as initially failed subjects."
+  }
+}

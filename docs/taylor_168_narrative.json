@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "titel_preek": "Down Payment And Will Call",
+    "bijbeltekst": "Ephesians 1:12-14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The execution of a commercial contract where humans must first perform the 'responsibility' of hearing and believing to trigger God's 'down payment' (Holy Spirit) until the final 'will call' (redemption).",
+      "subject": {
+        "identificatie": "The Human/The Hearer",
+        "tekstueel_bewijs": [
+          "No, there is a part we must play in the plan of salvation",
+          "Somebody is called upon to make God's Word 'hearable'",
+          "The first human responsibility occurs in this... transaction"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Salvation/The Full Possession",
+        "tekstueel_bewijs": [
+          "the redemption of the purchased possession",
+          "the gospel of your salvation"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Commercial Law/Contractual Necessity",
+        "tekstueel_bewijs": [
+          "this transaction, this exchange of values which is, I take it, the meaning of a contract"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Human (as the 'purchased possession')",
+        "tekstueel_bewijs": [
+          "he will at last possess us completely"
+        ],
+        "positie_hoorder": "The hearer identifies as the Subject who must act to secure the Object."
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Bible / Preachers",
+        "tekstueel_bewijs": [
+          "he seals us with the Spirit... who corrects us... comforts us"
+        ],
+        "rol_van_god": "God is largely a Helper or a secondary Subject who responds to human initiative.",
+        "rol_van_geest": "External help/seal that marks the human as 'paid for'."
+      },
+      "tegenstander": {
+        "identificatie": "Human Unbelief / Silence / Physical Infirmity",
+        "tekstueel_bewijs": [
+          "if you fail to tell the story",
+          "the world shakes us",
+          "all that weakens us"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is not Sin or Death as cosmic powers, but rather human failure to communicate or believe."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Church's mission to make the word 'hearable'.",
+      "subject": "The Church (You and I)",
+      "object": "A 'hearable' Gospel",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (witnessing) is presented as the necessary prerequisite for the primary program (salvation) to function."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Contractual Law → Salvation → The Believer",
+      "helper_subject_tegenstander": "Holy Spirit → The Human → Unbelief/Silence",
+      "subject_naar_object": "The Human → Faith/Witness → Salvation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 14,
+      "mens_als_subject_count": 42,
+      "ratio": "0.33",
+      "voorbeelden_god_subject": [
+        "God has equipped us to breathe.",
+        "He gives us the seal of the Holy Spirit."
+      ],
+      "voorbeelden_mens_subject": [
+        "We must play a part in the plan of salvation.",
+        "You and I are called upon... to make the gospel hearable.",
+        "You must go to 'Will Call' and pick it up."
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "There is a part we must play.",
+          "Somebody is called upon to make God's Word hearable."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Whosoever will, let him come."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "The trouble with our modern people is we are so 'unsmart'."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "There is something that God will not do for us... God cannot do for us."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is driven by obligation (Devoir). It assumes the hearer has the power (Pouvoir) and merely needs to be told their duty."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Contractual Reward (Salvation)",
+      "s2": "Contractual Failure (Damnation)",
+      "niet_s1": "Negligence (Silence/Unbelief)",
+      "niet_s2": "Natural Goodness (Breathed air/Water)"
+    },
+    "beweging_in_preek": "Moves from the threat of Predestination (S2) to Human Responsibility (~S1) to reach the Reward (S1).",
+    "theologische_resolutie": "Resolution is found in human performance of the contract.",
+    "ernst_van_s2": "Low; S2 is dismissed as 'not gibing with the New Testament' rather than being overcome by Christ."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon explicitly states God 'cannot' or 'will not' act without human initiative, making man the primary Subject of the salvation narrative.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "There is a part we must play in the plan of salvation.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "God as Instrumental Helper",
+        "tekstueel_bewijs": "He gives us the spirit in us as the mark that we belong to him!",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Assurance of completion",
+        "tekstueel_bewijs": "He will claim us from 'will call'.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The niece with the mink coat serves as the model for how the believer relates to God's 'down payment'.",
+      "bijbelse_figuren_als_model": [
+        "Paul (as one who 'put in his hands')"
+      ],
+      "alternatieve_lezing": "Christ is the one who pays the price and Christ is the one who keeps the deposit; the believer is the passive treasure."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; anxiety regarding whether they have made the word 'hearable' enough.",
+      "theologische_implicatie": "Synergism bordering on Pelagianism."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 6,
+      "coherentie_beschrijving": "The commercial metaphor is coherent but theologically clashes with the concept of 'gift'.",
+      "spanning_punten": [
+        "The claim that God 'cannot' do things vs the claim that God is 'good' and 'provides'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "He touched you... then he said to us, Now that you've got it, let the infection of grace spread.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is a 'seal' or 'mark' rather than the source of the power to believe."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as being 'out of fix' or 'bent', requiring a 'straightening out' rather than a resurrection."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God (at the very end, but triggered by man)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is human-centric. God is the merchant, but the human is the customer who must initiate the transaction.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "Man is the subject of 'making the word hearable' and 'believing'.",
+      "voorgestelde_herpositionering": "God is the one who speaks and God is the one who creates faith.",
+      "voorbeeld_revisie": "Instead of 'We must make the word hearable,' use 'God breaks through our silence to make His voice heard.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the contract-fulfiller.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that the 'purchased possession' does nothing to purchase itself."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God's Power)",
+      "concrete_suggestie": "Focus on how the Spirit gives the power to believe when we are unable."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Weak (bad habits/silence).",
+      "voorgestelde_intensivering": "Describe Sin as a dead-end that only a resurrection can solve.",
+      "theologische_rationale": "If the opponent is small, the Savior is small."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (witnessing) is making Soteriology (salvation) possible.",
+      "voorgestelde_structuur": "Salvation is accomplished by Christ; witnessing is the overflow."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The commercial metaphor is engaging, but ensure the 'Free Gift' of the Gospel isn't turned into a 'Layaway Plan' where we pay the installments of faith."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the mink coat story is effective; semiotically, it destroys the concept of unmerited grace.",
+    "verschil_met_exegese": "Exegesis of Ephesians 1 usually emphasizes God's 'will' and 'pleasure', which this sermon explicitly limits.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite using the word 'grace', the actantial roles are strictly legalistic."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (subject) must play (verb)",
+      "Somebody (subject) is called (verb)",
+      "God (subject) has equipped (verb)",
+      "He (subject) will claim (verb)"
+    ],
+    "volledige_object_lijst": [
+      "The plan of salvation",
+      "The mink coat",
+      "The word of truth"
+    ],
+    "werkwoord_frequentie": {
+      "must": {
+        "count": 6,
+        "primair_subject": "Man"
+      },
+      "believe": {
+        "count": 12,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Will Call' metaphor which necessitates a human subject to 'pick up' the item."
+  }
+}

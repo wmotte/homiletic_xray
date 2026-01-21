@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "titel_preek": "Back To Bethel",
+    "bijbeltekst": "Genesis 35:1–3",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the narrative of Jacob's life, focusing on his deception of Esau, his encounter at Bethel, his years with Laban, and his eventual return to Bethel as a response to family crisis.",
+      "exegetische_kwaliteit": "Narrative-driven. The preacher uses the historical narrative as a psychological and spiritual mirror for the listener's life.",
+      "omvang_procent": "70%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts the reality of human failure and the necessity of returning to God, while occasionally moving into an invitational directive.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Jacob, you see, was a rascal.",
+        "What a striking similarity this man has to so many who listen to me now.",
+        "God draws us back to Bethel."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Nostalgia leading to repentance; a desire to return to a previous state of spiritual fervor.",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is not explicitly invoked as the agent of the 'event', though God's 'drawing' is mentioned.",
+      "perlocutionaire_werkwoorden": [
+        "remembering",
+        "returning",
+        "repenting",
+        "acknowledging"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "75%",
+      "voorbeelden": [
+        "Jacob was a real smart, smooth, slick operator.",
+        "The world leads us that way.",
+        "It has been so long since some of you have heard clearly the voice of God."
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "is",
+        "seemed",
+        "realized"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "8%",
+      "voorbeelden": [
+        "Why don't you get smart and realize...?",
+        "Let us all arise... and come back to God's house.",
+        "Put aside the idols."
+      ],
+      "dominante_werkwoorden": [
+        "realize",
+        "arise",
+        "put aside",
+        "come"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 15,
+      "procent": "10%",
+      "voorbeelden": [
+        "How precious was that hour!",
+        "Thank God when trouble is on our trail.",
+        "I need thee, O I need thee."
+      ],
+      "dominante_werkwoorden": [
+        "need",
+        "thank",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 8,
+      "procent": "5%",
+      "voorbeelden": [
+        "God will hear, God will answer me, God will help me.",
+        "I am with thee, and will keep thee (Quoted Scripture)."
+      ],
+      "dominante_werkwoorden": [
+        "will hear",
+        "will answer",
+        "will help"
+      ],
+      "kwaliteit": "The promises are largely future-tense and general, rather than immediate 'toezeggingen' (bestowals) in the present moment."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "2%",
+      "voorbeelden": [
+        "I mean we sit in church houses, but we are not experiencing the fiery presence of the living God."
+      ],
+      "dominante_werkwoorden": [
+        "am",
+        "declare"
+      ],
+      "autoriteit": "Low. The preacher describes the state of the hearer but rarely uses the authority of the office to declare a new reality (e.g., 'Your sins are forgiven')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive retelling of the Jacob story (3rd person past).",
+        "Generalizing about 'New Yorkers' and 'modern life'.",
+        "Describing the feeling of Bethel rather than bestowing the grace of Bethel."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of Jacob's life and a judge of their own nostalgia, but is not necessarily 'hit' by a present Word."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct present-tense promise",
+        "Sacramental declaration"
+      ],
+      "effect_op_hoorder": "Hearer is left with a 'to-do' list (go back) rather than a 'done' reality (God has found you)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 4,
+      "kwaliteit_toezeggen": "The promises are mostly quoted from the past (God to Jacob) or projected into the future (God will help).",
+      "voorbeelden": [
+        "God will hear, God will answer me."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 22,
+        "gebruik": "Preacher uses 'I' for personal anecdotes and 'We' for collective identification."
+      },
+      "tweede_persoon": {
+        "frequentie": 18,
+        "gebruik": "Direct address used to challenge the hearer's current spiritual state ('Some of you').",
+        "performatieve_context": "Mostly used in Assertives (describing the hearer's failure) rather than Commissives."
+      },
+      "derde_persoon": {
+        "frequentie": 60,
+        "gebruik": "Dominant mode. Talking about Jacob, Laban, Esau, and 'the world'.",
+        "distantie_effect": "Creates a narrative distance where God is a character in a story rather than a speaker in the room."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical history and personal history."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about how 'the world leads us'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The call to 'come home' at the very end."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Jacob's story/Your failure) -> Directive (You must go back to Bethel).",
+      "voorbeelden": [
+        "Jacob went back... Let us all arise and come back."
+      ],
+      "probleem": "The 'return' is presented as a human work/decision rather than a response to a present declarative act of God."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the clear link of a present-tense Commissive/Declarative.",
+      "voorbeelden": [],
+      "kwaliteit": "Weak"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Why don't you get smart and realize that it never is going to work out until God works it out?"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While evangelical in tone, the sermon functions by appealing to the hearer's will to 'go back' to a previous experience, making the 'event' dependent on human memory and movement.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative identification",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Jacob, you see, was a rascal...",
+        "effect": "Hearers see themselves in the text."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The entire middle section describing Jacob's dealings with Laban.",
+        "probleem": "Information about Jacob replaces an encounter with God.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "The sermon talks *about* an event (Bethel) but struggles to *be* an event because it remains in the third person and past tense for too long.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'I forgive you' or 'God promises you here and now' force."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is a character who spoke in the past.",
+      "prediker_als_mandataris": "The preacher acts more as a witness/exhorter than a mandatory.",
+      "tekstueel_bewijs": [
+        "We can go back in Spirit and start over where we left God."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimal.",
+      "perlocutie_theologie": "The effect is sought through psychological appeal to nostalgia.",
+      "tekstueel_bewijs": [
+        "We mustn't confuse sentimental feeling with a true religious experience."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is a 'pointer' to a means of grace, not the means itself.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "Let me go to Bethel — to where God can talk to me."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense assertives. Needs a shift to present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God draws us back to Bethel.",
+          "voorgestelde_revisie": "In this moment, God is calling your name and bringing you home.",
+          "verschil": "Shifts from a general truth to a present action."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Grace is conditional on the hearer 'going back'.",
+      "suggestie": "Proclaim that God has already come to the hearer in their 'Shechem'.",
+      "voorbeeldzinnen": [
+        "I announce to you today: the gate of heaven is open for you right now."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'Jacob' and not enough 'You'.",
+      "suggestie": "Reduce the narrative detail of Genesis 27-30 and increase direct address in the present.",
+      "voorbeeldzinnen": [
+        "You are the one who has been running."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'Come home' lacks a present-tense indicative foundation.",
+      "suggestie": "Establish that God has already found the hearer before asking them to move."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically strong and emotionally resonant, but theologically 'stuck' in the constative. By shifting from 'talking about Bethel' to 'bestowing Bethel,' the preacher can move from lecture to sacrament."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' as a fellow traveler; SAT reveals the preacher's failure to use the Declarative key to unlock the hearer's present reality.",
+    "verschil_met_retoriek": "Rhetorically, the 'rascal' imagery is excellent; however, SAT shows this imagery serves an Assertive (descriptive) rather than a Performative (transformative) end.",
+    "unieke_inzichten_SAT": "SAT identifies that the sermon's 'power' is currently located in the hearer's memory rather than the preacher's proclamation."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "said",
+        "found",
+        "needed",
+        "is",
+        "deceived",
+        "fled",
+        "prosper",
+        "faded"
+      ],
+      "directief": [
+        "arise",
+        "go",
+        "make",
+        "put away",
+        "be clean",
+        "change",
+        "realize",
+        "come"
+      ],
+      "expressief": [
+        "need",
+        "thank",
+        "vowed",
+        "hoped"
+      ],
+      "commissief": [
+        "will keep",
+        "will hear",
+        "will answer",
+        "will help"
+      ],
+      "declaratief": [
+        "I mean",
+        "I say"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "God draws us back to Bethel.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a divine habit.",
+        "effectiviteit": "Medium - it informs but doesn't necessarily execute the drawing."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'Jacob' archetype to do the work that the illocutionary force should be doing."
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "A Mighty Oak Is Fallen",
+    "bijbeltekst": "Revelation 2:10 (1 Samuel 3:38 paraphrase)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The narrative of a heroic individual (Samuel Proctor) who, through innate nobility and tireless effort, fulfills a mandate of faithfulness to earn a heavenly reward.",
+      "subject": {
+        "identificatie": "Samuel Proctor (The Hero)",
+        "tekstueel_bewijs": [
+          "He never gave up",
+          "He traversed the land",
+          "He was faithful unto death",
+          "He bypassed Beulah... He went directly to see the King"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Crown of Life / Divine Recognition",
+        "tekstueel_bewijs": [
+          "I will give thee a crown of life",
+          "to claim his reward",
+          "I will measure your service"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Resurrected Spirit/Jesus (as Judge/Rewarder)",
+        "tekstueel_bewijs": [
+          "I will measure your service. I will take account of what you have been."
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "Samuel Proctor (and by extension, the 'grateful republic')",
+        "tekstueel_bewijs": [
+          "I will reward you",
+          "on behalf of a grateful republic... thank you for your willingness to make him available"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Nature/Spirit (as inoculation)",
+        "tekstueel_bewijs": [
+          "gifts of nature",
+          "vaccinated against racism by the Spirit of Christ"
+        ],
+        "rol_van_god": "God is instrumental; a provider of 'inoculation' and 'gifts' that the Subject then uses.",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "The Foe/Trials of Life",
+        "tekstueel_bewijs": [
+          "he fell facing the foe",
+          "trials of this life",
+          "scent of the battle"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as social injustice (racism) and the physical exhaustion of service, rather than radical sin or spiritual death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The preacher's own journey to meet Proctor at the 'arrival gate'.",
+      "subject": "The Preacher",
+      "object": "Reunion with Proctor/Jesus",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher's future performance is modeled on Proctor's completed performance."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Jesus (Judge) → Crown of Life → Samuel Proctor",
+      "helper_subject_tegenstander": "Gifts of Nature → Samuel Proctor ← Trials/The Foe",
+      "subject_naar_object": "Samuel Proctor → Faithfulness/Service"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God be thanked",
+        "I [Jesus] will reward you",
+        "I will measure your service"
+      ],
+      "voorbeelden_mens_subject": [
+        "He never gave up",
+        "He traversed the land",
+        "He was faithful",
+        "He went directly to see the King"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "where more is given more is required",
+          "Be thou faithful"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "his confidence",
+          "burning in his heart",
+          "purposeful, intentional"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "preached... with clarity and power"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "capacities and potentialities in the least of us",
+          "nation's capacity to rise up"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon is a celebration of human 'Pouvoir' (capacity). Grace is seen as an 'inoculation' that activates latent human potential."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Faithfulness/Life",
+      "s2": "Failure/Death",
+      "niet_s1": "Despairing",
+      "niet_s2": "Trial/Battle"
+    },
+    "beweging_in_preek": "From S2 (Death of the Oak) to S1 (Crown of Life) via the Subject's intentionality (Faithfulness).",
+    "theologische_resolutie": "Resolution is achieved through the Subject's 'performance' which merits the transition from trial to reward.",
+    "ernst_van_s2": "Death is treated as a transition for the hero, not a 'wages of sin' to be overcome by God."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While framed as a eulogy, the theological engine is purely anthropocentric. Proctor is the Subject of almost all salvific verbs; God is the paymaster who rewards human faithfulness.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Merit-based salvation",
+        "tekstueel_bewijs": "I will measure your service... I will reward you.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Anthropocentric potentiality",
+        "tekstueel_bewijs": "potentialities in the least of us to reach toward the stars",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Spirit as source of character",
+        "tekstueel_bewijs": "vaccinated against racism by the Spirit of Christ",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Proctor is presented as a 'meteor' and 'prince' whose faithfulness is the standard for the hearer.",
+      "bijbelse_figuren_als_model": [
+        "The Church at Smyrna (as a proxy for Proctor)"
+      ],
+      "alternatieve_lezing": "God's faithfulness to a dying man, sustaining him despite the 'foe'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Inspiration mixed with a sense of inadequacy ('rough gingham in the presence of rich brocade').",
+      "theologische_implicatie": "Salvation is a 'flight' one must catch through purposeful living."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "Highly coherent as a heroic narrative, but theologically incoherent regarding the 'Gospel' which usually posits human inability.",
+      "spanning_punten": [
+        "The claim of being 'not competent' at the start vs. the celebration of Proctor's 'competence' throughout."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Be thou faithful... and I will give thee a crown.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides an 'inoculation' (preventative) rather than a resurrection (creative)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is primarily 'racism' or 'despair', which can be overcome by 'confidence' and 'potentiality'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Commendation of Man' rather than a 'Proclamation of God'. Proctor is the Subject; God is the Receiver of Proctor's service.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "Proctor is the subject of 'reaching the stars' and 'going to see the King'.",
+      "voorgestelde_herpositionering": "God as the one who 'carried' Proctor and 'opened' the gates.",
+      "voorbeeld_revisie": "Instead of 'He went directly to see the King,' use 'The King reached down and drew His faithful servant home.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as 'rough gingham' trying to be 'brocade'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the 'Crown of Life' as a gift of grace rather than a wage for service."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "POUVOIR (Human capacity)",
+      "voorgestelde_balans": "POUVOIR (Divine power in human weakness)",
+      "concrete_suggestie": "Highlight how Proctor's 'loneliness' and 'fears' were the site of God's strength, not just his 'potentiality'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Vague 'foe' or 'trials'.",
+      "voorgestelde_intensivering": "Death as the 'Last Enemy' that only Christ can defeat.",
+      "theologische_rationale": "Without a heavy opponent, the 'Crown' becomes a mere trophy rather than a rescue."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Proctor's work) has swallowed Soteriology (God's work).",
+      "voorgestelde_structuur": "God's faithfulness (Program 1) → Proctor's response (Program 2)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The rhetoric is majestic and the tribute is moving, but the 'grammar of grace' is absent. To move from a eulogy to a sermon, God must become the Subject of the active verbs."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of epideictic oratory. Actantially, it is a legalistic contract.",
+    "verschil_met_exegese": "Exegesis of Rev 2:10 usually emphasizes the 'gift' (I will give), but here the focus is on the 'merit' (I will measure).",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'Spirit' and 'Jesus' being mentioned, they function only as the 'Sender' of a law and the 'Rewarder' of its fulfillment, not as the 'Subject' of salvation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "I [Preacher] was summoned",
+      "He [Proctor] was faithful",
+      "He [Proctor] traversed",
+      "He [Proctor] never gave up",
+      "I [Jesus] will reward"
+    ],
+    "volledige_object_lijst": [
+      "Crown of life",
+      "Service",
+      "Potentiality",
+      "The King"
+    ],
+    "werkwoord_frequentie": {
+      "faithful": {
+        "count": "14",
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notnotes": "The sermon relies heavily on the 'Hero's Journey' archetype, which inherently struggles with theocentricity."
+  }
+}

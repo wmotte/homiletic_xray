@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "The Power Of His Resurrection",
+    "bijbeltekst": "Philippians 3:1-11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from human earthly credentials (refuse) to the spiritual knowledge and power of Christ's resurrection which secures the believer's future.",
+      "subject": {
+        "identificatie": "God / Christ",
+        "tekstueel_bewijs": [
+          "God did not leave his soul in hell",
+          "God raised Christ from the dead",
+          "He comes back to get his people"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The Power of the Resurrection / Justification / Eternal Life",
+        "tekstueel_bewijs": [
+          "the power of his resurrection",
+          "raised again for our justification",
+          "victory over death"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "there is a God above who judges and rules",
+          "God raised Christ"
+        ],
+        "rol_interpretatie": "JUDGE/SOVEREIGN"
+      },
+      "ontvanger": {
+        "identificatie": "The Believer / The Church",
+        "tekstueel_bewijs": [
+          "raised again for our justification",
+          "prepare a place for us"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Risen Christ / The Holy Spirit (implied in worship)",
+        "tekstueel_bewijs": [
+          "Christ keeps believers alive",
+          "He lives to guide us"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Death, Sin, Evil Oppressors, Earthly Pedigree",
+        "tekstueel_bewijs": [
+          "Death is swallowed up in victory",
+          "every evil character... must go down",
+          "rotten refuse of the body"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not merely bad habits but the 'last enemy' (Death) and systemic evil (Bigotry/Oppression)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer's response to the gospel: counting earthly gains as loss to know Christ.",
+      "subject": "The Believer (Paul/Hearer)",
+      "object": "Knowledge of Christ",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The believer's 'counting as loss' is a response to the 'excellency' of what God has already done in Christ."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Resurrection Life → The Church",
+      "helper_subject_tegenstander": "The Spirit → God/Christ ← Death/Sin",
+      "subject_naar_object": "Christ → Justification/Victory"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "God did not leave his soul in hell",
+        "Christ keeps believers alive",
+        "He comes back to get his people"
+      ],
+      "voorbeelden_mens_subject": [
+        "I count all things but loss",
+        "We may fall sometimes",
+        "I do not know politics"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "It is a Christian's part to be hopeful"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "That I may know him",
+          "I only want to know that Christ is there"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I know he knows the way"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "capacity and ability to do",
+          "power that makes for righteousness",
+          "lives to save us"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Dunamis' (Power) of God which provides the competence the human subject lacks."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Resurrection Life",
+      "s2": "Death/Refuse",
+      "niet_s1": "Earthly Pedigree/Flesh",
+      "niet_s2": "Justification"
+    },
+    "beweging_in_preek": "From the 'flesh' (~S1) to the 'refuse' (S2) to the 'power' (S1) through Christ's action.",
+    "theologische_resolutie": "Christ's resurrection swallows up the contrary (Death).",
+    "ernst_van_s2": "High; death and 'putrid excrement' are used to describe the alternative to Christ."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places the agency of salvation and the overcoming of death in the hands of Christ. Human effort is described as 'dung' compared to the 'power' of the resurrection.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Minor exhortation to 'struggle toward our feet'",
+        "tekstueel_bewijs": "something within makes us struggle toward our feet",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (Christ as Actor)",
+        "tekstueel_bewijs": "Believers do not keep Christ alive; Christ keeps believers alive.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Death is swallowed up in victory.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Paul is used as a witness of faith, not a moral hero to be emulated by effort.",
+      "bijbelse_figuren_als_model": [
+        "Paul",
+        "Timothy",
+        "Epaphroditus"
+      ],
+      "alternatieve_lezing": "Paul's life is a testimony to the sufficiency of Christ's power."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Assurance and hope in the face of death.",
+      "theologische_implicatie": "Monergistic comfort; salvation is entirely God's work."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from Paul's biography to the cosmic victory of Christ is seamless.",
+      "spanning_punten": [
+        "The brief mention of 'struggling to our feet' slightly jars with the 'dung' metaphor of human effort."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "up from the grave he arose, with a mighty shout over his foes",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The power is Christological rather than explicitly Pneumatological."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT/ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; described as putrid waste."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "Strongly theocentric structure with Christ as the primary Subject of all salvific verbs.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "High Pouvoir (Power)",
+      "voorgestelde_balans": "Maintain current balance",
+      "concrete_suggestie": "The emphasis on 'Power' is appropriate for a resurrection sermon."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Death and Sin are already treated as cosmic enemies.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Resurrection) → Ethics (Hope/Confidence)"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in grace-oriented preaching that keeps the focus on the 'Dunamis' of God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'diminuendo' and 'takeoff' metaphors; actantial analysis reveals these are movements of the Subject toward the Object.",
+    "verschil_met_exegese": "Exegesis explains the Greek 'skubala'; actantial analysis explains why 'skubala' functions as the Opponent to the Subject's mission.",
+    "unieke_inzichten_greimas": "Reveals that the 'power' (Pouvoir) is not a human capacity but a modal endowment from the Risen Christ."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (raised)",
+      "Christ (lives)",
+      "Paul (counted)",
+      "Death (swallowed)"
+    ],
+    "volledige_object_lijst": [
+      "Justification",
+      "Refuse",
+      "Power",
+      "Victory"
+    ],
+    "werkwoord_frequentie": {
+      "lives": {
+        "count": "12",
+        "primair_subject": "God/Christ"
+      },
+      "raised": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses a 'Subject-Switch' where the preacher's own inability to know politics or the 'how' of resurrection is replaced by God's absolute 'Pouvoir'."
+  }
+}

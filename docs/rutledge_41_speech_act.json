@@ -1,0 +1,325 @@
+{
+  "metadata": {
+    "titel_preek": "The Sign of Immanu-el",
+    "bijbeltekst": "Isaiah 7:14 / Luke 22:29–30",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "750"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the historical and political context of Isaiah's prophecy to King Ahaz, the linguistic debate over 'virgin/young woman', and the connection to Jesus' words in Luke regarding his kingdom.",
+      "exegetische_kwaliteit": "High. It bridges historical-critical concerns (Raymond Brown) with theological typology.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is testifying to a personal journey of faith and explaining the biblical text. It functions largely as a 'testimony-lecture'.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "I remember vividly the days...",
+        "The prophet Isaiah was to go out to meet King Ahaz...",
+        "The juxtaposition... seems peculiar at first glance."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellectual reassurance and the fostering of a 'simple faith' that reconciles scholarship and devotion.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "assent",
+        "appreciate",
+        "reconcile"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "42",
+      "procent": "80%",
+      "voorbeelden": [
+        "There are a few verses of Scripture that have achieved...",
+        "The sign of the child... is given in a context...",
+        "It is in Jesus’s words... that we find that astonishing duality."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "remember",
+        "seems",
+        "concluded"
+      ]
+    },
+    "directieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "15%",
+      "voorbeelden": [
+        "I am always amazed and perplexed...",
+        "It never ceases to stagger the imagination..."
+      ],
+      "dominante_werkwoorden": [
+        "amazed",
+        "stagger",
+        "wonder"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "1",
+      "procent": "2%",
+      "voorbeelden": [
+        "God says I am not against you: I am with you"
+      ],
+      "dominante_werkwoorden": [
+        "says (quoted)"
+      ],
+      "kwaliteit": "Weak. The promise is quoted as a general historical/theological fact rather than a direct address to the present congregation."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "3%",
+      "voorbeelden": [
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "Low. The preacher remains in the role of a witness/observer rather than a mandatory of the Divine Word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "95%",
+    "performatief_percentage": "5%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive autobiographical reflection on scholarship",
+        "Historical description of Isaiah's meeting with Ahaz",
+        "Analysis of Handel's Messiah audiences"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of the preacher's faith journey rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise to the 'you'",
+        "Sacramental command"
+      ],
+      "effect_op_hoorder": "Information about God's presence is provided, but God's presence is not enacted through the speech act."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The only 'promise' is a third-person description of what God says in general.",
+      "voorbeelden": [
+        "it is still an hour in which God says I am not against you"
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Dominant. Used for personal anecdotes and scholarly journey ('I remember', 'I attempted')."
+      },
+      "tweede_persoon": {
+        "frequentie": "0",
+        "gebruik": "None. The congregation is never directly addressed as 'you'."
+      },
+      "derde_persoon": {
+        "frequentie": "25",
+        "gebruik": "Used for 'the early Christians', 'King Ahaz', 'Handel', and 'God'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Biblical history and personal memoir."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological truths about the Word and the Season."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Limited to the very end of the sermon."
+      }
+    },
+    "adressering_effectiviteit": 2
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History/Scholarship) -> Assertive (Theology). It never reaches the performative 'Toezegging'.",
+      "voorbeelden": [
+        "Isaiah went to meet Ahaz... The Word holds the future."
+      ],
+      "probleem": "It remains a lecture about the possibility of faith."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the transition to direct address.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The sermon lacks an imperative because it lacks a direct performative indicative."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a 'homily' in the sense of a brief commentary or personal reflection. It informs the mind about the preacher's reconciliation with the text but does not perform the text upon the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Intellectual Integrity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Reference to Raymond Brown and the 'young woman' debate.",
+        "effect": "Builds trust with an academic audience."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire text.",
+        "probleem": "The 'you' (hearer) is never spoken to.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a 'talk about' an event (the Incarnation/Isaiah's prophecy) rather than being an event itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not use the keys of the kingdom to bind or loose, but rather describes the keys."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is a character in the text being described, not the active speaker in the pulpit.",
+      "prediker_als_mandataris": "The preacher acts as a 'witness' or 'academic', not a mandatory.",
+      "tekstueel_bewijs": [
+        "I was the only nonacademic at this meeting."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly left to the 'imagination' or 'music', not the Spirit through the Word.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a 'testimony' (subjective) rather than a 'means of grace' (objective).",
+      "epifanisch_taalgebruik": "Low. It describes epiphanies of others.",
+      "tekstueel_bewijs": [
+        "somewhere, an angel has just opened his wings"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is paralyzed by past-tense and first-person singular verbs. It needs a shift to second-person present-tense performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "it is still an hour in which God says I am not against you",
+          "voorgestelde_revisie": "In this hour, God says to you: I am not against you; I am for you.",
+          "verschil": "Shifts from a general theological claim to a direct illocutionary promise."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is hidden in a quote at the very end.",
+      "suggestie": "Move the 'Immanuel' promise to the center and address it to the specific anxieties of the listeners.",
+      "voorbeeldzinnen": [
+        "Today, in your 'invasion and siege', Christ comes to you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The hearer is an invisible spectator.",
+      "suggestie": "Use 'You' and 'We' in a way that includes the hearer in the biblical drama.",
+      "voorbeeldzinnen": [
+        "You may feel like Ahaz today, trapped by shifting alliances..."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "There is no imperative because the indicative is not applied.",
+      "suggestie": "After declaring God's presence, command the hearer to 'Behold' or 'Trust'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and personally warm, but it requires a 'performative turn' to move from a lecture about faith to a sacramental event of the Word."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-Disclosure' of the preacher's academic struggle; SAT reveals this as a 'Constative Surplus' that blocks the 'Appeal' (Directive) and 'Declaration'.",
+    "verschil_met_retoriek": "Rhetorically, the Handel anecdote is a good 'hook', but in SAT, it remains a locutionary ornament that doesn't advance the illocutionary force.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Amen', the sermon never actually 'does' anything to the hearer; it only 'tells' the hearer about what has been done elsewhere."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "achieved",
+        "amazed",
+        "attend",
+        "known",
+        "implant",
+        "become",
+        "find",
+        "imagine",
+        "told",
+        "implied",
+        "attempted",
+        "happened",
+        "concluded",
+        "given",
+        "deemed",
+        "was",
+        "find",
+        "holds",
+        "shapes"
+      ],
+      "directief": [],
+      "expressief": [
+        "amazed",
+        "perplexed",
+        "stagger",
+        "wonder"
+      ],
+      "commissief": [
+        "assign (quoted)"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I remember vividly the days...",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Personal testimony",
+        "effectiviteit": "Low (creates distance)"
+      },
+      {
+        "zin": "God says I am not against you.",
+        "categorie": "ASSERTIVE/COMMISSIVE",
+        "illocutionaire_kracht": "Reporting a promise",
+        "effectiviteit": "Medium (lacks direct address)"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' the Word rather than 'delivering' the Word."
+  }
+}

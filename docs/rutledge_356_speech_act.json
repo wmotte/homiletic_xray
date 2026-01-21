@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "titel_preek": "My Taste Was Me",
+    "bijbeltekst": "John 21:17 (Acts 5:30)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the restoration of Peter after his denial, contextualized within modern issues of betrayal (police silence, school shootings) and the history of anti-Semitism.",
+      "exegetische_kwaliteit": "High. Connects the Johannine text with Acts and the broader theological theme of universal guilt versus specific blame.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher moves from historical/ethical assertion to a direct address of comfort and commission.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "\"I am thrilled to be with you again.\"",
+        "\"Peter was guilty of one of the worst things a human being can do.\"",
+        "\"Listen, dear people of St. Joseph's... you are already safe in the hands of the One who died for you.\""
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from the 'bitter taste' of self-guilt to the assurance of being 'new creatures' in Christ.",
+      "pneumatologisch_bewustzijn": "Implicit. Mentioned via the 'power of the living Word' at the conclusion.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "repent",
+        "receive",
+        "love",
+        "arise"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "\"The disciples must have been in a state of shock.\"",
+        "\"Jesus was condemned by church and state.\"",
+        "\"Crucifixion was a strictly Roman form of execution.\""
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "says",
+        "wrote",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "\"Let us turn our attention to today's story.\"",
+        "\"Listen, dear people of St. Joseph's.\"",
+        "\"Come now to receive the Sacrament.\""
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "listen",
+        "come",
+        "stop"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "9%",
+      "voorbeelden": [
+        "\"I still regard that occasion as one of the greatest privileges.\"",
+        "\"I am thrilled to be with you again.\"",
+        "\"That amazed me.\""
+      ],
+      "dominante_werkwoorden": [
+        "regard",
+        "thrilled",
+        "amazed",
+        "wish"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "\"You are already safe in the hands of the One who died for you.\"",
+        "\"His sacrifice for you is complete and perfect.\""
+      ],
+      "dominante_werkwoorden": [
+        "are",
+        "is",
+        "gives"
+      ],
+      "kwaliteit": "Strong toward the end; the preacher binds God's grace to the specific audience."
+    },
+    "declaratieven": {
+      "frequentie": "7",
+      "procent": "4%",
+      "voorbeelden": [
+        "\"Through the power of the living Word... our Lord asks you this question.\"",
+        "\"You are already incorporate in his risen, divine life.\""
+      ],
+      "dominante_werkwoorden": [
+        "are",
+        "asks"
+      ],
+      "autoriteit": "The preacher assumes the role of a mandatory, speaking the 'living Word' directly to the congregation."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical reporting on the Pope, Bishop Belo, and Charlie Ward.",
+        "Long biographical descriptions of Peter's personality."
+      ],
+      "effect_op_hoorder": "The hearer is an observer of history and biography for the first 15 minutes before being addressed."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "LOW",
+      "missende_elementen": [
+        "Direct absolution",
+        "Earlier second-person address"
+      ],
+      "effect_op_hoorder": "Delayed encounter; the 'event' only happens in the final three paragraphs."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "High theological density, moving from 'Peter' to 'You'.",
+      "voorbeelden": [
+        "\"You are already safe in the hands of the One who died for you.\""
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Personal anecdotes and homiletical 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Direct address to the 'People of St. Joseph's' at the climax.",
+        "performatieve_context": "Used to apply the atonement specifically to the listeners."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Talking about Peter, the Pope, and cultural critics.",
+        "distantie_effect": "Creates a lecture-like atmosphere for the majority of the text."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical narrative and recent news events."
+      },
+      "tijdloos_present": {
+        "frequentie": "25%",
+        "gebruik": "Theological truths about sin and the world."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The 'Now' of the sacrament and the living Word."
+      }
+    },
+    "adressering_effectiviteit": "7"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "n/a",
+      "voorbeelden": [],
+      "probleem": "n/a"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from the Assertive (Peter's guilt) to the Declarative (You are safe) to the Directive (Come to the Sacrament).",
+      "voorbeelden": [
+        "\"If you know that bitter taste... you are already safe.\""
+      ],
+      "kwaliteit": "The transition is late but powerful, effectively linking the indicative of grace to the imperative of the table."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "\"You are already incorporate... go forth as new creatures.\""
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "SACRAMENTAL_CREATIVE",
+    "diagnose_toelichting": "Despite a heavy constative start, the sermon successfully pivots into a performative event by the end, where the preacher speaks as a mandatory of Christ.",
+    "sterke_punten": [
+      {
+        "aspect": "Commissive Force",
+        "categorie": "Toezegging",
+        "tekstueel_bewijs": "\"You are already safe in the hands of the One who died for you.\"",
+        "effect": "Provides ontological security to the hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The long section on Charlie Ward and the Knicks.",
+        "probleem": "Distracts from the immediate illocutionary goal.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 8,
+    "gebeuren_toelichting": "The final address 'Listen, dear people...' transforms the sermon from a talk into an encounter.",
+    "sacramentele_kracht": 9,
+    "sacramentele_toelichting": "The explicit link to the Eucharist at the end seals the performative nature of the word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, explicitly claimed in the final section.",
+      "prediker_als_mandataris": "Yes, the preacher acts as the one through whom the 'living Word' asks the question.",
+      "tekstueel_bewijs": [
+        "\"Through the power of the living Word at this very moment, our Lord asks you this question.\""
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Implicitly through the 'power of the Word'.",
+      "perlocutie_theologie": "Yes, the preacher leaves the 'answering' to the hearer's heart.",
+      "tekstueel_bewijs": [
+        "\"There is not one person here today who cannot answer...\""
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the sermon is the gateway to the Supper.",
+      "epifanisch_taalgebruik": "Yes, 'raised from the dead', 'man recreated'.",
+      "tekstueel_bewijs": [
+        "\"Come now to receive the Sacrament... in complete confidence.\""
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is verb-heavy in the past tense (Assertive) for 80% of the duration, then shifts to present-tense performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "\"The church is tackling the error on many fronts.\"",
+          "voorgestelde_revisie": "\"I declare to you today: the blood of Christ is not a curse upon a people, but a promise for you.\"",
+          "verschil": "Shifts from reporting on the church to acting as the church."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": false,
+      "probleem": "None",
+      "suggestie": "Maintain the current strength but introduce it earlier.",
+      "voorbeeldzinnen": [
+        "\"Even as I tell you of Peter, know that Christ is looking at you with the same eyes of mercy.\""
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' and 'they' in the middle.",
+      "suggestie": "Interweave the 'you' throughout the narrative of Peter.",
+      "voorbeeldzinnen": [
+        "\"Like Peter, you have tasted the bitterness of your own failure.\""
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "Well balanced.",
+      "suggestie": "None."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in moving from the 'bitter taste' of the law to the 'complete and perfect' sacrifice of the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about her own taste; SAT focuses on the 'Declarative' act that changes the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetoric would praise the use of the Hopkins quote; SAT values the quote only as it serves the 'Commissive' of God's decree.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power isn't in the Charlie Ward story, but in the shift to the 2nd person present tense in the final paragraphs."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "said",
+        "visited",
+        "watched",
+        "inserted",
+        "attended",
+        "caused",
+        "reports"
+      ],
+      "directief": [
+        "let",
+        "turn",
+        "stop",
+        "think",
+        "multiply",
+        "remember",
+        "listen",
+        "come"
+      ],
+      "expressief": [
+        "regard",
+        "thrilled",
+        "envy",
+        "wish",
+        "amazed"
+      ],
+      "commissief": [
+        "are",
+        "died",
+        "gives",
+        "is"
+      ],
+      "declaratief": [
+        "asks",
+        "forgiven",
+        "made",
+        "justified",
+        "recreated"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "\"You are already safe in the hands of the One who died for you.\"",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Sacramental event"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'delayed performativity'—building a massive constative foundation to make the final declaration unshakeable."
+  }
+}

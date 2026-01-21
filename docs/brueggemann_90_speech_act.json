@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "titel_preek": "Voices against Monologue",
+    "bijbeltekst": "Psalm 4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explores the theme of 'monologue' vs 'dialogue' through the lens of social movements and the structure of Psalm 4, treating the Psalm as a script for human complexity.",
+      "exegetische_kwaliteit": "Strong thematic exegesis; treats the text as a psychological and social map rather than a historical artifact.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is ASSERTING (describing the nature of the Psalm and the human condition) with occasional DIRECTIVES to 'imagine' or 'hear'.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The Psalms take God very seriously",
+        "My purpose now is to invite you to hear",
+        "Faith is the voice of urgent asking"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel validated in their emotional complexity and encouraged to speak to God.",
+      "pneumatologisch_bewustzijn": "Low; the focus is on the human act of speaking rather than the Spirit's act of enabling or transforming.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "identify",
+        "feel heard",
+        "reconsider"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "Monologue is almost always top-down",
+        "We are watching the breakup of many monologues",
+        "The speaker knows more is needed"
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "watching",
+        "knows",
+        "exhibits"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Imagine addressing God with imperatives",
+        "Think about how these voices swirl",
+        "Imagine that in your dealing with your neighbor"
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "think",
+        "notice"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "22",
+      "procent": "12%",
+      "voorbeelden": [
+        "I thought about monologue",
+        "I think that breakup leaves many of us uneasy"
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "feel",
+        "hope"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "This is good news for us"
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "kwaliteit": "Weak; the 'good news' is stated as a fact (assertive) rather than a personal promise from God to the hearer (commissive)."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "My purpose now is to invite you"
+      ],
+      "dominante_werkwoorden": [
+        "invite"
+      ],
+      "autoriteit": "Low; the preacher invites participation but does not declare God's action over the hearer."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive description of social movements",
+        "Analysis of the Psalmist's psychology (3rd person)",
+        "Theological definitions of monologue"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of the Psalmist's faith rather than a participant in God's grace."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Divine Address"
+      ],
+      "effect_op_hoorder": "Information about prayer is given, but the 'event' of being addressed by God is absent."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes the possibility of safety but does not perform the act of bestowing it.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Preacher's observations and thoughts ('I think', 'I thought')."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Invitations to 'imagine' or 'notice'."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing the Psalmist, the world, and social groups."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Biblical context and social history."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "General truths about monologue and faith."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate preaching moment."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of Psalm) -> Directive (Imagine/Think).",
+      "voorbeelden": [
+        "The Psalmist exhibits... So imagine..."
+      ],
+      "probleem": "The 'So' leads to a mental exercise for the hearer rather than a response to a divine promise."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The Psalm shows... imagine that in your dealing with your neighbor..."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant lecture on the psychology of the Psalms and the sociology of voice, but it remains 'talking about' God and the text.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "Exegesis",
+        "tekstueel_bewijs": "The breakdown of the six accents of faith.",
+        "effect": "Provides a clear intellectual framework."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "The sermon ends with 'This is good news' rather than 'God promises you safety'.",
+        "probleem": "Lacks sacramental delivery.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an educational event, but not a sacramental encounter where God acts upon the hearer.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher remains a commentator rather than a mandatory."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the listener/addressee, but rarely the speaker in the sermon.",
+      "prediker_als_mandataris": "The preacher acts as an analyst of the text.",
+      "tekstueel_bewijs": [
+        "The Psalms tell all of our secrets to God."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is sought through cognitive 'imagining'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, it is treated as a 'map' for health.",
+      "epifanisch_taalgebruik": "Low",
+      "tekstueel_bewijs": [
+        "a map and a generator for health and healing"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'is', 'watching', and 'shows'. Needs 'give', 'forgive', 'promise'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The speaker knows more is needed from God.",
+          "voorgestelde_revisie": "You are in a tight place, and God is here to give you room.",
+          "verschil": "Shifts from 3rd person description to 2nd person performative address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'good news' is a conclusion of an argument, not a gift bestowed.",
+      "suggestie": "Use the final verse of the Psalm to pronounce peace over the congregation.",
+      "voorbeeldzinnen": [
+        "In the name of Christ, I tell you: you may lie down in peace."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' (inclusive/vague) and 'the Psalmist' (distant).",
+      "suggestie": "Address the 'you' of the congregation directly with the promises of the Psalm.",
+      "voorbeeldzinnen": [
+        "God hears when *you* call."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperatives are 'imagine' (mental) rather than 'believe' or 'rest' (existential).",
+      "suggestie": "Base the call to 'honor the neighbor' on the fact that God has already 'honored' the hearer."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A profound intellectual analysis that would be transformed into a powerful 'event' by shifting from describing the Psalmist's faith to proclaiming God's promise to the listener."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about monologue; SAT reveals the lack of 'Creative Word' (Declarative).",
+    "verschil_met_retoriek": "Rhetorically excellent (metaphors of collage/monologue), but illocutionarily flat (mostly Assertives).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'urgent' content of the Psalm, the sermon's force is merely 'descriptive'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "are",
+        "watching",
+        "knows",
+        "exhibits",
+        "shows",
+        "tells",
+        "means"
+      ],
+      "directief": [
+        "imagine",
+        "think",
+        "notice",
+        "hear",
+        "invite"
+      ],
+      "expressief": [
+        "thought",
+        "feel",
+        "hope",
+        "uneasy"
+      ],
+      "commissief": [
+        "is (good news)"
+      ],
+      "declaratief": [
+        "invite"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The Psalms take God very seriously.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a literary fact.",
+        "effectiviteit": "Low performativity."
+      },
+      {
+        "zin": "You alone, O Lord, make me lie down in safety.",
+        "categorie": "ASSERTIVE (in context)",
+        "illocutionaire_kracht": "Quoting the text rather than applying it.",
+        "effectiviteit": "Informative."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' the gospel (Constative Surplus) rather than 'doing' the gospel (Performative)."
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Christmas / Holy Innocents",
+    "bijbeltekst": "Luke 1:26–38; Matthew 2:13–23",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in a world of darkness and monsters to establish an everlasting kingdom through the birth of Jesus, despite human incapacity and cosmic evil.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "God has acted. God has intervened.",
+          "The Lord God will give to him the throne.",
+          "God himself has entered this world."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation / The New Kingdom / Lasting Peace",
+        "tekstueel_bewijs": [
+          "a Savior, who is Christ the Lord",
+          "a new kingdom where no evil and no disappointment can ever enter"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (The Source of the Promise)",
+        "tekstueel_bewijs": [
+          "Gabriel was sent from God",
+          "the voice from beyond ourselves"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Human Race / The Forlorn / The Victims",
+        "tekstueel_bewijs": [
+          "save his people from their sins",
+          "it spoke to my heart"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Angel Gabriel / The Virgin Mary / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "The Holy Spirit will come upon you",
+          "led and protected by a splendidly luminous star"
+        ],
+        "rol_van_god": "God is both Subject and the source of the Helper (Spirit).",
+        "rol_van_geest": "Indwelling power and overshadowing presence."
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Death / Herod (Monsters) / Human Incapacity",
+        "tekstueel_bewijs": [
+          "the human race is utterly incapable of turning itself around",
+          "monsters who kill in the night",
+          "the paranoia of King Herod"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but 'monsters' and 'the gruesome grimace of famine'—powers that humanity cannot defeat alone."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The church/believer holding onto faith and lamenting with victims until the second coming.",
+      "subject": "The Believer / The Church",
+      "object": "Tenacity / Faith / Standing for humanity",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics/tenacity) is a response to the primary program (God's intervention)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Kingdom → The Suffering World",
+      "helper_subject_tegenstander": "Holy Spirit → God in Christ ← Herod/Sin/Death",
+      "subject_naar_object": "God → Redemption of the Human Race"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has acted.",
+        "God has intervened.",
+        "God himself has entered this world.",
+        "He comes to make his blessings known."
+      ],
+      "voorbeelden_mens_subject": [
+        "We can send Christmas cards.",
+        "We must listen to this objection.",
+        "We need a little Christmas."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "We must listen to this objection.",
+          "We must keep Ivan Karamazov’s protest in our minds."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Magic is what we want.",
+          "what inarticulate longing."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "even though we know, we know there isn’t."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "the human race is utterly incapable of turning itself around.",
+          "Only God is able to give true and lasting peace.",
+          "with God, nothing will be impossible."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon centers on human 'non-pouvoir' (incapacity) met by divine 'pouvoir' (omnipotence/grace)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Kingdom",
+      "s2": "Monsters/Herod/Sin",
+      "niet_s1": "Magic/Illusion (Sentimentalism)",
+      "niet_s2": "Lament/Rachel's Grief"
+    },
+    "beweging_in_preek": "From ~S1 (Illusion) to S2 (The Reality of Monsters) to ~S2 (Lament) and finally to S1 (God's Intervention).",
+    "theologische_resolutie": "The tension is resolved not by human effort, but by God entering the 'S2' space (suffering) to establish 'S1'.",
+    "ernst_van_s2": "Extremely high; the 'monsters' and 'starving children' are not minimized."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It explicitly denies human capacity and identifies God as the sole actor of salvation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "None found",
+        "tekstueel_bewijs": "N/A",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "God has acted. God has intervened.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "monsters who kill in the night",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Mary is not an example of faith to follow, but a recipient of God's 'overshadowing' power.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: God chooses the obscure to manifest His glory."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope in the face of despair.",
+      "theologische_implicatie": "Monergistic salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'magic' of Christmas to the 'monsters' of Herod is perfectly integrated into the need for a Divine Savior.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "the part where evil is defeated conclusively and forever",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'pouvoir' (power) that Mary/humanity lacks."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is seen as a 'curse' and 'monsters' that humanity cannot turn around."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is powered by God's agency. The human subject is correctly positioned as the beneficiary of a rescue operation.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "None",
+      "voorgestelde_balans": "Maintain focus on Pouvoir (Divine Power).",
+      "concrete_suggestie": "The sermon already balances the 'must' of lament with the 'can' of God."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Sufficiently intense.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The 'monsters' provide the necessary contrast for 'mighty reversal'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God acts) → Ethics (We stand for humanity)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in grace-oriented homiletics. It refuses to let the hearer become the hero of their own salvation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Nutcracker' imagery, Greimasian analysis reveals that the imagery serves to establish the 'Axis of Power'.",
+    "verschil_met_exegese": "Exegesis explains the Rachel quote; semiotics shows how the Rachel quote functions as a 'Heavy Opponent' to validate the 'Subject's' victory.",
+    "unieke_inzichten_greimas": "Reveals that the 'magic' is a false 'Helper' (illusion) replaced by the 'Holy Spirit' as the true 'Helper'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God has acted",
+      "God has intervened",
+      "The Spirit will come",
+      "He will reign",
+      "We need",
+      "I saw"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "Kingdom",
+      "Peace",
+      "Magic"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "3",
+        "primair_subject": "God"
+      },
+      "reign": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon follows Fleming Rutledge's own 'Grammar of Grace' perfectly."
+  }
+}

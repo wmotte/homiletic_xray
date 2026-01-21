@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "A Way Out of No Way",
+    "bijbeltekst": "Exodus 14-15; Romans 4:17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God delivers His people from an impossible situation (the cul-de-sac of the Red Sea/Death) through His own sovereign power, regardless of the people's lack of faith.",
+      "subject": {
+        "identificatie": "God (The Lord)",
+        "tekstueel_bewijs": [
+          "The Lord will fight for you",
+          "God is doing this... because he is a God of deliverance",
+          "the God who gives life to the dead"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Deliverance/Life from Death",
+        "tekstueel_bewijs": [
+          "the salvation of the Lord",
+          "a way out of no way",
+          "heaven is won today"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God as the Sovereign Deliverer",
+        "tekstueel_bewijs": [
+          "I will get glory over Pharaoh",
+          "the Egyptians shall know that I am the Lord"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Israel / The Church / The Hearer",
+        "tekstueel_bewijs": [
+          "God has brought his Israel into joy",
+          "which he will work for you today"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Moses (as instrument) / The East Wind / Jesus (implied as the Resurrection power)",
+        "tekstueel_bewijs": [
+          "Moses is only an instrument",
+          "the Lord drove the sea back by a strong east wind"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Pharaoh / Death / Sin / The 'No Way' (Impossibility)",
+        "tekstueel_bewijs": [
+          "Pharaoh’s bitter yoke",
+          "the last word... will be death",
+          "bondage to sin, evil, and death"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not a moral failing but the ontological reality of death and the 'cul-de-sac' of human existence."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human response of praise and singing following the deliverance.",
+      "subject": "The Redeemed (Miriam/The Church)",
+      "object": "Ecstatic praise and witness",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Praise is the consequence of the primary act of God; it does not cause the deliverance."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation → The Church",
+      "helper_subject_tegenstander": "Moses/Wind → God ← Pharaoh/Death",
+      "subject_naar_object": "God → A Way Out of No Way"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has brought his Israel into joy",
+        "The Lord will fight for you",
+        "God makes a way out of no way",
+        "the God who gives life to the dead"
+      ],
+      "voorbeelden_mens_subject": [
+        "we are going to sing",
+        "Israel failed to believe",
+        "we still live in a world of bondage"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "you have only to be still"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "We think we want it [freedom]"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Episcopalians have only the vaguest idea"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "10",
+        "voorbeelden": [
+          "The Lord is able",
+          "God makes a way",
+          "powerlessness paralyzes people"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon is entirely focused on the 'Ability' of God in the face of human 'Inability'. It is a theology of Power (Grace) rather than Obligation (Law)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Life/Deliverance",
+      "s2": "Death/Pharaoh",
+      "niet_s1": "Bondage/Cul-de-sac",
+      "niet_s2": "The Way Out"
+    },
+    "beweging_in_preek": "Moves from the 'No Way' (Not-S2) of the wilderness to the 'Death' (S2) of the Red Sea, only to be resolved by God's 'Life' (S1).",
+    "theologische_resolutie": "God creates a third path (The Way Out) that bypasses human effort entirely.",
+    "ernst_van_s2": "Extremely high; death is described as the 'last word' for the hearer."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly rejects human agency as the cause of salvation, emphasizing that Israel was saved despite their lack of faith.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in Moses",
+        "tekstueel_bewijs": "I have drawn upon this verse in my own life",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as sole Subject",
+        "tekstueel_bewijs": "The Lord will fight for you, and you have only to be still",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Rejection of Faith as Work",
+        "tekstueel_bewijs": "Israel was not saved because of her faith. Rather, Israel failed to believe right up until the moment of her deliverance.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Moses is explicitly demoted from 'Hero' to 'Instrument'.",
+      "bijbelse_figuren_als_model": [
+        "Moses"
+      ],
+      "alternatieve_lezing": "Moses is only an instrument; the power is the Lord's."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope; the burden of 'making a way' is removed.",
+      "theologische_implicatie": "Monergistic salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The Exodus narrative and the Easter event are perfectly fused through the actantial role of God as the one who 'makes a way'.",
+      "spanning_punten": [
+        "The tension between the 'already' of the Red Sea and the 'not yet' of Kosovo."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Hell today is vanquished, heaven is won today!",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses on the Father/Son's external act of deliverance."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is a 'yoke' and a 'wilderness' that shuts us in; it is an inescapable condition."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of a grace-oriented narrative where God is the Subject and the human is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy on Pouvoir (Power)",
+      "voorgestelde_balans": "Maintain as is; appropriate for Easter.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Opponent is sufficiently cosmic (Death/Pharaoh).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God saves) → Doxology (Miriam sings)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon masterfully avoids the trap of 'faith as a condition' by grounding deliverance in God's character and power alone."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the use of the 'Way out of no way' metaphor, semiotics reveals that the metaphor functions as a 'Subject-switch' from human effort to divine power.",
+    "verschil_met_exegese": "Exegesis might focus on the 'East Wind' as a natural phenomenon; semiotics identifies it as a 'Helper' actant under the Subject's control.",
+    "unieke_inzichten_greimas": "Greimas' model exposes the husband's 'we made a way' comment as a structural heresy (Subject-Object confusion) which the preacher correctly diagnoses."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (brought)",
+      "The Lord (said)",
+      "I (will harden)",
+      "The Lord (will fight)",
+      "God (makes)",
+      "God (gives life)"
+    ],
+    "volledige_object_lijst": [
+      "Israel (into joy)",
+      "Salvation",
+      "A way out",
+      "Jesus (from the grave)"
+    ],
+    "werkwoord_frequentie": {
+      "fight": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "make": {
+        "count": "6",
+        "primair_subject": "God"
+      },
+      "deliver": {
+        "count": "3",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the 'Prince of Egypt' quote to explicitly contrast moralism (believing makes miracles) with grace (God acts despite unbelief)."
+  }
+}

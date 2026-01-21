@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "titel_preek": "God Made Jesus to Be Sin",
+    "bijbeltekst": "2 Corinthians 5:21; Psalm 22; Psalm 38",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explains the Cry of Dereliction through the lens of the Psalms and Paul's theology of substitutionary atonement.",
+      "exegetische_kwaliteit": "High. Strong focus on the intertextuality between the Psalms and the Passion narrative.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily explaining and describing the historical and theological reality of Christ's suffering.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Paul was making this connection when he wrote to the Corinthians.",
+        "The Crucifixion had not been a horrible mistake after all."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should understand the gravity of sin and the depth of Christ's love.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the word's effect.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "realize",
+        "ponder",
+        "appreciate"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "God made him to be sin who knew no sin.",
+        "The Psalms were Jesus' prayer book."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "indicates",
+        "wrote",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "Imagine yourself as one of the disciples.",
+        "We need to weigh the Cross."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "need to",
+        "consider"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "I feel very inadequate to the task.",
+        "I have often been disappointed in these interpretations."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "pondered",
+        "disappointed"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "He took it so that it would be removed from us."
+      ],
+      "dominante_werkwoorden": [
+        "would be",
+        "determined to"
+      ],
+      "kwaliteit": "Weak. The promises are mostly described in the third person rather than directly addressed."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher does not speak 'in persona Christi' to change the hearer's status."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Imagine yourself...",
+        "One of the first things that happened...",
+        "Paul was making this connection..."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical/theological drama rather than a participant in a current event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise (I promise you in Christ's name)",
+        "Present-tense address of the Gospel to the 'You'"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without the 'shock' of a personal encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Theological description of a promise, but no actual act of promising.",
+      "voorbeelden": [
+        "He took it so that it would be removed from us."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Preacher's personal reflection and inadequacy."
+      },
+      "tweede_persoon": {
+        "frequentie": "22",
+        "gebruik": "Mostly used to invite the hearer to 'imagine' or 'consider' (cognitive directives).",
+        "performatieve_context": "Low. Used for mental exercises, not for receiving grace."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Describing Jesus, the Disciples, Paul, and 'Sin'.",
+        "distantie_effect": "High. It treats the atonement as an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical narrative of the Cross and the early church."
+      },
+      "tijdloos_present": {
+        "frequentie": "35%",
+        "gebruik": "Theological truths about the nature of sin."
+      },
+      "actueel_present": {
+        "frequentie": "5%",
+        "gebruik": "The physical act of the service."
+      }
+    },
+    "adressering_effectiveness": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Theology of the Cross) -> Directive (Imagine/Consider).",
+      "voorbeelden": [
+        "Looking at the Cross... we see the gravity... I don't know if I can do justice to this."
+      ],
+      "probleem": "It moves from information to a request for mental effort, skipping the declarative 'event'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of 'Toezegging' (Promise).",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "If Jesus suffered... then that is an indication to us... (Logical inference rather than sacramental gift)"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-level theological meditation. It explains the 'why' and 'how' of the Cross but fails to 'deliver' the Cross to the hearer as a present-tense act of God.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The discovery that the Crucifixion was in the Old Testament.",
+        "effect": "Provides deep biblical grounding."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Declaratives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "He took it so that it would be removed from us.",
+        "probleem": "Uses third person 'He' and 'Us' instead of 'I (God) forgive YOU'.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a lecture about an event, not the event itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The language remains descriptive (constative) rather than creative (performative)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the object of the sermon, not the active speaker.",
+      "prediker_als_mandataris": "The preacher speaks as a humble interpreter ('I feel inadequate'), not as a mandatory of the King.",
+      "tekstueel_bewijs": [
+        "I have pondered these words...",
+        "It often seems to me..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly relies on the hearer's imagination/intellect.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, it is treated as a 'meditation'.",
+      "epifanisch_taalgebruik": "Low. The language is analytical.",
+      "tekstueel_bewijs": [
+        "We need to weigh the Cross..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/was' to 'gives/forgives/promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "He took it so that it would be removed from us.",
+          "voorgestelde_revisie": "Because He took this burden, I declare to you: your sins are removed.",
+          "verschil": "Moves from a general truth to a specific, reality-changing declaration."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace is described as a historical fact for 'the world' or 'us'.",
+      "suggestie": "Address the hearer directly with the promise of Psalm 38/22.",
+      "voorbeeldzinnen": [
+        "In this moment, Christ says to you: I have borne your abandonment so you will never be alone."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'Imagine yourself' (mental work).",
+      "suggestie": "Use 'You' as the recipient of the action, not just the observer.",
+      "voorbeeldzinnen": [
+        "You are the one God looks upon with love."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative is 'imagine' (cognitive) rather than 'believe/rejoice' (responsive).",
+      "suggestie": "Ground the call to prayer in the finished declaration of forgiveness."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically rich and exegetically sound, but needs to transition from 'talking about' the Cross to 'bestowing' the Cross."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of inadequacy; SAT reveals that this inadequacy hinders the illocutionary force of the divine mandate.",
+    "verschil_met_retoriek": "Rhetoric would praise the imagery of 'criminal scum'; SAT notes that these images remain Assertive and do not perform a Commissive act.",
+    "unieke_inzichten_SAT": "SAT identifies that the preacher's humility ('I feel inadequate') actually functions as a constative barrier to the declarative authority of the Word."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "contains",
+        "indicates",
+        "wrote",
+        "meant",
+        "foreshadowed"
+      ],
+      "directief": [
+        "imagine",
+        "consider",
+        "weigh",
+        "look"
+      ],
+      "expressief": [
+        "pondered",
+        "disappointed",
+        "feel"
+      ],
+      "commissief": [
+        "determined to",
+        "would be"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "God made him to be sin who knew no sin.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Strong theological claim.",
+        "effectiviteit": "High for teaching, low for sacramental encounter."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher's own struggle with the text takes center stage over the text's direct address to the congregation."
+  }
+}

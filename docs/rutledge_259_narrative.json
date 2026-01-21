@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Advent Begins in the Dark",
+    "bijbeltekst": "Isaiah 64:5-9; Psalm 80:4-5; Mark 13:33-37",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God breaks into a world ruled by sin and death to deliver a people who are incapable of saving themselves.",
+      "subject": {
+        "identificatie": "God / The Master of the House",
+        "tekstueel_bewijs": [
+          "God will come, and his justice will prevail",
+          "he will destroy evil and pain",
+          "The day will dawn on us from on high"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Salvation / Light / Justice",
+        "tekstueel_bewijs": [
+          "to give light to those that sit in darkness",
+          "comfort ye, my people"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God's own character/Promise",
+        "tekstueel_bewijs": [
+          "the promise that, against all the evidence, there is a God who cares"
+        ],
+        "rol_interpretatie": "JUDGE/LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The least, the last, and the lost / The Church",
+        "tekstueel_bewijs": [
+          "those who sit in darkness and in the shadow of death"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ (The Wounded Surgeon)",
+        "tekstueel_bewijs": [
+          "the One who hung on the tree, accursed for our sake"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, Iniquity, and Human Illusion",
+        "tekstueel_bewijs": [
+          "delivered us into the hand of our iniquities",
+          "the world ruled by sin and death"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a power that delivers humans into captivity, and death is a shadow that only a 'burst of transcendent power' can break."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The Church/Hearer waits and watches in the darkness, refusing cheap comforts.",
+      "subject": "The Believer / The Church",
+      "object": "Watchfulness / Solidarity with the suffering",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (watching) is only possible because of the primary program (the promise of the Master's return)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Promise → Salvation → The Lost",
+      "helper_subject_tegenstander": "Christ (Wounded Surgeon) → God → Sin/Death",
+      "subject_naar_object": "God → Deliverance"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "God will come",
+        "He will destroy evil",
+        "Thou hast delivered us"
+      ],
+      "voorbeelden_mens_subject": [
+        "We have all become like one who is unclean",
+        "We confess our own [sin]",
+        "The church refuses cheap comfort"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "commands the doorkeeper to be on the watch"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "the more you will want to immerse yourself"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Advent teaches us to delay Christmas"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "shall we be saved?",
+          "human race cannot expect to receive any lasting comfort from this world"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes human 'non-pouvoir' (inability) in the face of sin and death, making God's 'pouvoir' (transcendent power) the only solution."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Light",
+      "s2": "Wrath/Darkness",
+      "niet_s1": "Cheap Comfort/Scented Candles",
+      "niet_s2": "Fearless Inventory/Watching"
+    },
+    "beweging_in_preek": "Moves from S2 (Darkness) through the negation of ~S1 (refusal of cheap comfort) toward S1 (The Burst of Light).",
+    "theologische_resolutie": "The tension is resolved eschatologically: God breaks in from the outside.",
+    "ernst_van_s2": "Extremely high; S2 is treated as an ontological reality, not just a mood."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It identifies the human condition as one of total helplessness ('delivered into the hand of iniquities') and places the agency of rescue entirely on God's 'burst of power.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in the Pan Am widow",
+        "tekstueel_bewijs": "she has given herself in service to others",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Salvation",
+        "tekstueel_bewijs": "God will come, and his justice will prevail",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "world ruled by sin and death",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Biblical figures (Isaiah, the Doorkeeper) are used to describe a state of being or a posture of waiting, not as moral models to emulate for salvation.",
+      "bijbelse_figuren_als_model": [
+        "Isaiah",
+        "The Doorkeeper"
+      ],
+      "alternatieve_lezing": "Theocentric: The doorkeeper waits because the Master is the one with the power to return."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief through the acknowledgement of reality; hope based on external rescue.",
+      "theologische_implicatie": "Monergistic rescue in the primary program."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The ethical program of 'watching' and 'solidarity' is perfectly nested within the soteriological reality of the 'Time Between.'",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "he will destroy evil and pain in all its forms, once and for ever",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses more on the Christological and Father-centric 'breaking in' than the internal work of the Spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; sin is a dungeon and a hand that holds us."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative engine is driven by God's future action upon a helpless present. The actantial roles are correctly assigned for a theology of grace.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Inability vs. God's Power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for Advent I.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Already cosmic and heavy.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's coming) → Ethics (Our watching)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in grace-oriented preaching that does not flinch from the Law's diagnosis of the human condition."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'darkness' imagery, semiotics reveals that the darkness is an 'Opponent' that only a 'Subject' from outside the system can defeat.",
+    "verschil_met_exegese": "Exegesis might focus on the historical context of Isaiah; semiotics shows how the preacher uses Isaiah to establish the 'Receiver' status of the modern hearer.",
+    "unieke_inzichten_greimas": "Greimas's model exposes that the 'scented candles' are false 'Helpers' that fail to provide the 'Pouvoir' needed to overcome the 'Opponent' of death."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (will come)",
+      "God (will destroy)",
+      "The Master (leaves home)",
+      "We (have become unclean)",
+      "Isaiah (depicts)"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "Light",
+      "Justice",
+      "Cheap comfort (rejected)"
+    ],
+    "werkwoord_frequentie": {
+      "come": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "save": {
+        "count": "3",
+        "primair_subject": "God"
+      },
+      "watch": {
+        "count": "5",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon follows Fleming Rutledge's own homiletical theory perfectly, as she is the author."
+  }
+}

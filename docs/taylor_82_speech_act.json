@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "titel_preek": "Prayer Of Thanksgiving",
+    "bijbeltekst": "Habakkuk 3:2",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explores the 'minor prophets', the concept of theodicy in Habakkuk, and the tension between the 'Monday-morning side of resurrection' and the grim realities of racial injustice and personal exhaustion.",
+      "exegetische_kwaliteit": "Strong historical-contextual awareness regarding the Minor Prophets and the theological definition of theodicy.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting theological truths and historical facts, shifting toward the end into a communal petition (Expressive/Directive) and a concluding promise (Commissive).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I take that 'make known' to be elliptical.",
+        "The just shall live by faith.",
+        "O Lord, revive thy work!"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from despair over current 'bad news' to a state of hopeful persistence through prayer.",
+      "pneumatologisch_bewustzijn": "Implicit; the Spirit is the implied agent of the 'revival' requested, though not explicitly named as the perlocutionary agent.",
+      "perlocutionaire_werkwoorden": [
+        "trust",
+        "persevere",
+        "pray",
+        "hope"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "Habakkuk deals with what the theologians call theodicy.",
+        "We have seen truth incarnate.",
+        "Sixty percent of our black children are born out of wedlock."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "wrote",
+        "says"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Call him.",
+        "Ask him to help.",
+        "Let all the earth keep silence."
+      ],
+      "dominante_werkwoorden": [
+        "ask",
+        "call",
+        "let",
+        "pray"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "22",
+      "procent": "12%",
+      "voorbeelden": [
+        "I never like to keep things on a broad scale.",
+        "I apologize to Senator Moynihan.",
+        "Thanks be to God!"
+      ],
+      "dominante_werkwoorden": [
+        "apologize",
+        "like",
+        "feel",
+        "thank"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "He will give his angels charge over you.",
+        "The Lord shall renew their strength.",
+        "He will be all and all."
+      ],
+      "dominante_werkwoorden": [
+        "shall",
+        "will",
+        "promises"
+      ],
+      "kwaliteit": "Strong but delayed; the promises are used as a climax rather than the structural foundation."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "I take that 'make known' to be elliptical.",
+        "Thanks be to God, the 'no' got wiped out."
+      ],
+      "dominante_werkwoorden": [
+        "take",
+        "declare"
+      ],
+      "autoriteit": "Low; the preacher acts more as a witness/intercessor than a sacramental officer pronouncing reality."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Lengthy introduction on the definition of 'minor prophets'.",
+        "Detailed sociological statistics from Bill Moyers.",
+        "Historical anecdotes about Clarence Darrow and Bernie Resnick."
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and intellectually engaged but remains an observer of the 'bad news' for the majority of the sermon."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct address of God's promise to the specific congregation in the 2nd person."
+      ],
+      "effect_op_hoorder": "The 'event' of the sermon is deferred to the final few paragraphs."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "5",
+      "kwaliteit_toezeggen": "High emotional resonance, though largely based on future-tense biblical quotes.",
+      "voorbeelden": [
+        "He will give his angels charge over you to keep you in all your ways."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Autobiographical anecdotes and preacher's perspective."
+      },
+      "tweede_persoon": {
+        "frequentie": "28",
+        "gebruik": "Direct address regarding the 'middle years' and the call to prayer.",
+        "performatieve_context": "Used to apply the struggle of Habakkuk to the listener's life."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing Habakkuk, history, and social statistics.",
+        "distantie_effect": "Creates a lecture-like atmosphere in the first half."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Old Testament history and 20th-century civil rights history."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological definitions and sociological trends."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The concluding call to prayer and the 'now' of the struggle."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Social Crisis) -> Directive (We must pray).",
+      "voorbeelden": [
+        "70 percent of our children will be in single-parent families. How we do need to pray..."
+      ],
+      "probleem": "The imperative to pray is grounded in a crisis rather than a specific promise of God's presence."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Resurrection) -> Commissive (He will give angels charge) -> Directive (Call him).",
+      "voorbeelden": [
+        "He will give his angels charge over you... Call him, ask him to help."
+      ],
+      "kwaliteit": "Effective in the final movement of the sermon."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Thanks be to God that they that so cry have the assurance... Call him."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "It is a major crisis... How we do need to pray."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon functions as a bridge between a lecture on theodicy and a pastoral encouragement to pray amidst social and personal decay.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Framing",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The 'Monday-morning side of resurrection Sunday'.",
+        "effect": "Provides a powerful cognitive framework for faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertives",
+        "tekstueel_bewijs": "The long section on the definition of 'Minor Prophets'.",
+        "probleem": "Delays the performative encounter.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It becomes an event in the final third when the preacher stops 'talking about' Habakkuk and starts 'praying with' the congregation.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "Lacks the 'I pronounce' declarative authority, opting for the 'We should ask' directive."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the promises quoted, but the preacher speaks 'about' God more than 'for' God.",
+      "prediker_als_mandataris": "The preacher acts as a fellow-traveler and witness.",
+      "tekstueel_bewijs": [
+        "I take that 'make known' to be..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Low; the Spirit is mentioned once near the end.",
+      "perlocutie_theologie": "The effect is sought through the preacher's emotional appeal and biblical quotes.",
+      "tekstueel_bewijs": [
+        "One day, his word, his spirit, will cover the earth."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a source of encouragement (paraclesis) rather than a creative word that effects what it says.",
+      "epifanisch_taalgebruik": "Limited to the final poetic section.",
+      "tekstueel_bewijs": [
+        "Stand by me; stand by me."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is' and 'was' to 'gives' and 'does'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Habakkuk deals with what the theologians call theodicy.",
+          "voorgestelde_revisie": "Today, God answers your 'Why?' with His presence.",
+          "verschil": "Moves from a definition to an encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often quoted as a general biblical truth rather than a direct address.",
+      "suggestie": "Use the 2nd person singular to apply the promise of strength.",
+      "voorbeeldzinnen": [
+        "To you who are bruised and bleeding, the Lord says: I will renew your strength."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' and 'He' (Habakkuk).",
+      "suggestie": "Increase 'You' (the hearer) in the middle section.",
+      "voorbeeldzinnen": [
+        "You are in the middle years right now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to pray is sometimes a response to the 'bad news' rather than God's 'Yes'.",
+      "suggestie": "Ground the prayer in the finished work of Christ more explicitly."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A deeply moving homily that successfully transitions from the head to the heart, though it carries a heavy load of informative 'talking about' before reaching the performative 'event'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the preacher isn't just 'sending a message' about hope, but attempting to 'enact' hope through the Commissive force of the Word.",
+    "verschil_met_retoriek": "While rhetorically powerful (pathos), the SAT analysis shows the sermon's sacramental weakness lies in its lack of Declarative verbs.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'crisis of the black family' section functions as a 'Directive-trigger' that risks moralism if not immediately met by a 'Commissive' promise."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "realized",
+        "means",
+        "deals",
+        "exist",
+        "thrive",
+        "wrote",
+        "happened"
+      ],
+      "directief": [
+        "pray",
+        "ask",
+        "call",
+        "let",
+        "look",
+        "turn"
+      ],
+      "expressieven": [
+        "apologize",
+        "like",
+        "feel",
+        "outraged",
+        "thanks"
+      ],
+      "commissief": [
+        "will",
+        "shall",
+        "promises",
+        "stand by"
+      ],
+      "declaratief": [
+        "take",
+        "declare",
+        "wiped out"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The just shall live by faith.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "High - establishes the theological ground."
+      },
+      {
+        "zin": "O Lord, revive thy work.",
+        "categorie": "DIRECTIVE/PETITION",
+        "illocutionaire_kracht": "Moderate",
+        "effectiviteit": "High - serves as the recurring 'refrain' of the event."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'preacher as storyteller' persona, which increases locutionary interest but can dilute illocutionary directness."
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "To Die For",
+    "bijbeltekst": "Romans 5:6–11; Luke 18:11–14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "justified by his blood",
+          "declaration of 'not guilty'",
+          "ultimate courtroom",
+          "acquits us"
+        ],
+        "conceptuele_metafoor": "SALVATION IS A LEGAL ACQUITTAL"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "comrades in arms",
+          "soldiers",
+          "while we were his enemies",
+          "reconciled to God"
+        ],
+        "conceptuele_metafoor": "RECONCILIATION IS A PEACE TREATY BETWEEN ENEMIES"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "make progress toward being sinless",
+          "path to God’s righteousness",
+          "sequence of salvation"
+        ],
+        "conceptuele_metafoor": "SANCTIFICATION IS A JOURNEY"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "We are tied and bound with the chain of our sins.",
+        "brondomein": {
+          "naam": "Imprisonment/Bondage",
+          "concrete_elementen": [
+            "chains",
+            "binding",
+            "restriction of movement"
+          ],
+          "belichaamde_basis": "force/restraint"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Total Depravity/Inability",
+          "doctrinale_traditie": "Anglican/Reformed"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Chains",
+            "doel_element": "Habitual Sin"
+          },
+          {
+            "bron_element": "Inability to move",
+            "doel_element": "Inability to save oneself"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The hearer feels trapped and unable to escape through effort."
+          ],
+          "theologische_implicaties": [
+            "Sin is an ontological state, not just a series of bad choices."
+          ],
+          "ethische_implicaties": [
+            "Humility and reliance on an external liberator."
+          ],
+          "onbedoelde_consequenties": [
+            "May lead to fatalism or a lack of agency in moral growth."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A classic liturgical metaphor from the Book of Common Prayer; familiar but still carries weight."
+      },
+      {
+        "metafoor_expressie": "Christ... stepped into a lethal situation—between you and your certain death—and died instead of you.",
+        "brondomein": {
+          "naam": "Human Shield/Heroic Sacrifice",
+          "concrete_elementen": [
+            "physical barrier",
+            "lethal threat",
+            "substitution"
+          ],
+          "belichaamde_basis": "balance/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Substitutionary Atonement",
+          "doctrinale_traditie": "Evangelical/Protestant"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Lethal threat",
+            "doel_element": "Wrath of God/Consequence of Sin"
+          },
+          {
+            "bron_element": "The person stepping in",
+            "doel_element": "Jesus Christ"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Gratitude toward a hero who took a bullet for the hearer."
+          ],
+          "theologische_implicaties": [
+            "Christ's death was a functional substitution."
+          ],
+          "ethische_implicaties": [
+            "A life of debt-driven devotion to the savior."
+          ],
+          "onbedoelde_consequenties": [
+            "Can frame God the Father as the 'shooter' or the source of the lethal threat."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Revitalized by the contemporary reference to Flight 93 and soldiers."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully links the juridical 'justification' with the relational 'reconciliation' by framing both as acts of God's unilateral initiative.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section on Justification",
+          "metafoor_a": "Legal Acquittal (Not Guilty)",
+          "metafoor_b": "Transformative Righteousness (Making Right)",
+          "conflict_beschrijving": "The preacher admits the tension between a 'legal fiction' and 'actual transformation'.",
+          "entailment_conflict": "Acquittal implies a change in status; transformation implies a change in nature.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Medical (Wounds/Healing)",
+            "Military (Enemies/Reconciled)"
+          ],
+          "blending_strategie": "The preacher uses the 'Life of Christ' as the bridge that encompasses both the healing of the person and the peace between parties."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Uses the colloquialism 'to die for' to re-examine the gravity of the atonement.",
+        "voorbeeld": "this is 'to die for.' Then I started wondering... what it really meant to die for something."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "Comparing Christ's death to Flight 93 might over-simplify the cosmic nature of the cross into a mere heroic act.",
+        "voorbeeld": "those heroic passengers of Flight 93 died for us all.",
+        "potentiele_impact": "Congregation may view the Cross as merely a tragic but noble human sacrifice.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A modern American landscape of spring blooms, Flight 93, and Enron courtrooms.",
+      "sub_worlds": [
+        "The Temple (Pharisee and Tax Collector)",
+        "The Roman Secretary's office (Paul dictating)",
+        "The Garden of Eden (Adam hiding)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Middle of sermon",
+          "van_wereld": "Modern America (Enron)",
+          "naar_wereld": "The Temple",
+          "effectiviteit": "High; bridges the gap between modern 'self-justification' and biblical justification."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Initiator",
+          "hoe_versterkt": "Emphasizing that God seeks Adam, rather than Adam seeking God."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God helps those who help themselves",
+          "verstoring_strategie": "Directly labeling it the 'American Gospel' and contrasting it with the 'Bible'.",
+          "vervangend_schema": "God saves the helpless/ungodly."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligned with Holy Week (Triduum) and the BCP confession."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by Juridical and Military domains, focusing on status change (enemy to friend, guilty to justified). It avoids the Medical domain until the very end, keeping the focus on the 'scandal' of the cross rather than just its therapeutic benefits.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SIN IS DEBT",
+        "huidige_status": "Implicit in the 'tax collector' and 'Enron' references but not fully developed.",
+        "suggestie": "Connect the Enron financial fraud more explicitly to the 'debt' of sin to deepen the Economic domain.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Just as Enron's books were cooked, we try to balance our moral ledgers, but the debt is unpayable."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "Acquittal vs. Transformation",
+        "resolutie_strategie": "Use the metaphor of 'Adoption' to show how a legal change in status (Acquittal) leads to a new environment for growth (Transformation)."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "CHRIST IS A SOLDIER/HERO",
+        "problematisch_entailment": "Implies God the Father is the 'enemy' or 'threat' the hero protects us from.",
+        "aanbeveling": "Clarify that the 'wrath' is the logical consequence of sin, and that God the Father sent the Son out of love."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To balance the 'helplessness' with the 'growth' mentioned regarding the Holy Spirit.",
+        "doel_concept": "Sanctification"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to deconstruct the 'American Gospel' and reconstruct a Pauline theology of grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'Flight 93' illustration for its emotional weight, CMT reveals how it functions as a substitutionary mapping for the Atonement.",
+    "verschil_met_kolb": "Unlike Kolb's learning styles, CMT focuses on the cognitive structures (schemas) being overwritten by the preacher.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using 'Verticality' (God seeking Adam) to subvert the 'Path' metaphor (Humans seeking God)."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "to die for",
+      "thoughts tumble over each other",
+      "carried a lot of freight",
+      "flunked the Covenant",
+      "tied and bound with the chain",
+      "Pharisees of one sort",
+      "American gospel",
+      "justified by his blood",
+      "legal fiction",
+      "plunged the creation into Sin",
+      "ultimate courtroom",
+      "acquits us",
+      "path to God's righteousness",
+      "standing before God",
+      "stepped into a lethal situation",
+      "taking your place",
+      "wounds we are healed"
+    ],
+    "woord_frequentie_analyse": {
+      "died": "12",
+      "sinners": "8",
+      "justified": "6",
+      "enemies": "5",
+      "ungodly": "4"
+    },
+    "notities": "The sermon relies heavily on the 'Container' schema (In Christ, In the Bible) and 'Force' schema (tied and bound)."
+  }
+}

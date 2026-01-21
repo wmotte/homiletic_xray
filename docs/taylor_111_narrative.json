@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "Climbing Jacob's Ladder",
+    "bijbeltekst": "Genesis 28:10-22 (Implicit)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The historical and ongoing struggle of the African American community to achieve dignity, institutional stability, and social redemption through the 'climbing' of faith and social action.",
+      "subject": {
+        "identificatie": "The African American Community (Collective 'We')",
+        "tekstueel_bewijs": [
+          "African Americans ought never to forget...",
+          "We became the test...",
+          "The ex-slaves started grocery stores...",
+          "We are climbing Jacob's ladder."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Dignity, Stature, and Community Redemption",
+        "tekstueel_bewijs": [
+          "redemption of our communities",
+          "sense of worth",
+          "in Jesus Christ, they had stature"
+        ],
+        "aard_van_object": "ETHICAL/SOCIAL"
+      },
+      "zender": {
+        "identificatie": "The Heritage/God (as Mandator)",
+        "tekstueel_bewijs": [
+          "accepting an assignment from God",
+          "That is the heritage out of which we have come"
+        ],
+        "rol_interpretatie": "LAWGIVER/HISTORICAL_CONSCIENCE"
+      },
+      "ontvanger": {
+        "identificatie": "The Community/The Nation",
+        "tekstueel_bewijs": [
+          "community strengthening",
+          "the nation might be far, far different"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit/Jesus Christ (as source of stature)",
+        "tekstueel_bewijs": [
+          "mystery of the Holy Spirit at work",
+          "in Jesus Christ, they had stature"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Slavery, Racism, and Local Apathy",
+        "tekstueel_bewijs": [
+          "harsh, dark night of slavery",
+          "pushed back and pushed down",
+          "we were not prepared at local levels"
+        ],
+        "ernst_tegenstander": "COSMIC/SOCIAL",
+        "toelichting_ernst": "The opponent is the systemic and historical weight of white supremacy and its physical/psychological effects."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The specific local church initiatives (housing, schools, funds) as concrete sub-tasks of the primary climb.",
+      "subject": "The Local Congregation",
+      "object": "Institutional success (housing, schools)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The primary program of 'climbing' is realized through the secondary program of local institutional building."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God/Heritage → Redemption/Stature → The Community",
+      "helper_subject_tegenstander": "Holy Spirit → African American Community ← Slavery/Racism",
+      "subject_naar_object": "The Community → Community Strengthening"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God has set it [the community]",
+        "mystery of the Holy Spirit at work"
+      ],
+      "voorbeelden_mens_subject": [
+        "We have continued to serve",
+        "The ex-slaves started grocery stores",
+        "Every black congregation... ought to develop a fund"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "African Americans ought never to forget",
+          "Each of our churches must decide"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "those who sought to become a part",
+          "refusing to collapse"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "learn to put interest from that money to work"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "It can be done, and it has been done"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir) and the demonstration of human capacity (Pouvoir) based on historical precedent."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Dignity/Stature",
+      "s2": "Slavery/Degradation",
+      "niet_s1": "Apathy/Loss of Institutions",
+      "niet_s2": "Resistance/Accommodation"
+    },
+    "beweging_in_preek": "From S2 (Slavery) to ~S2 (Resistance) to S1 (Stature), with a warning against falling into ~S1 (Losing schools/institutions).",
+    "theologische_resolutie": "Resolution is found in the 'stature' provided by Christ which enables the 'climb'.",
+    "ernst_van_s2": "Extremely high; the physical and historical reality of S2 is the sermon's anchor."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the surface language is deeply spiritual, the actantial engine is 'Exemplarist Moralism.' The ancestors are the Subjects; the hearers are called to imitate their Subject-hood. God is the Helper who provides the 'stature' for the human climb.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Subject-hood",
+        "tekstueel_bewijs": "Every black congregation in America ought to develop a fund...",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Theocentric Stature",
+        "tekstueel_bewijs": "in Jesus Christ, they had stature",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The ex-slaves and Civil War veterans are presented as the ultimate models of 'resistance within accommodation' and spiritual resilience.",
+      "bijbelse_figuren_als_model": [
+        "Nat Turner (as a Christ-figure/model)",
+        "Jacob (implied via the ladder)"
+      ],
+      "alternatieve_lezing": "A theocentric reading would focus on God descending the ladder to a sleeping, helpless Jacob, rather than the community climbing it."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Inspiration coupled with heavy burden of historical debt.",
+      "theologische_implicatie": "Sanctification (the climb) is the primary lens through which Justification (stature in Christ) is viewed."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "The integration of historical struggle with current institutional needs is masterfully done, though theologically it risks collapsing the Gospel into a program for social uplift.",
+      "spanning_punten": [
+        "The tension between 'it is the mystery of the Holy Spirit' and 'we must develop a fund'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The example of the ancestors and the stature found in Christ motivates the current community to act.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides 'glossolalia'—a cognitive/spiritual reinterpretation that empowers the Subject."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "High; sin is seen in the systemic 'crushing' of a people."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Recruitment' narrative. It moves the hearer from a state of 'not doing' to 'having to do' by using the 'Helper' (Christ/Spirit) to overcome the 'Opponent' (historical trauma).",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The community is the subject of 'climbing' and 'redeeming'.",
+      "voorgestelde_herpositionering": "Make God the subject of the 'climb' (descending in the Incarnation).",
+      "voorbeeld_revisie": "Instead of 'We are climbing,' use 'God has reached down the ladder to pull us up from the pit.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Soldier of the Cross' who must perform.",
+      "voorgestelde_identificatie": "Hearer as the 'Receiver' of the stature Christ already won.",
+      "strategie": "Emphasize that 'stature' is a gift before it is a motivation."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir (Must)",
+      "voorgestelde_balans": "Pouvoir (Power as Gift)",
+      "concrete_suggestie": "Focus more on how the Spirit *enables* what is otherwise impossible, rather than just the duty to do it."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (Slavery/Racism) is already vividly and appropriately intensified.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon excels in its hamartology of social sin."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The secondary program (social action) often eclipses the primary program (soteriology).",
+      "voorgestelde_structuur": "Ensure the 'stature in Christ' is the foundation that *results* in the fund-raising, not just a 'thought' that accompanies it."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A powerful rhetorical achievement that uses narrative semiotics to build identity, though it leans heavily on human agency for the 'redemption of the community'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would praise the pathos of the slave stories; Greimassian analysis reveals those stories function as 'modal competence' builders for human action.",
+    "verschil_met_exegese": "Exegesis would note the lack of the Genesis text; semiotics shows the 'Ladder' is used as a functional tool for the axis of desire.",
+    "unieke_inzichten_greimas": "Reveals that 'Jesus Christ' functions here as a 'Helper' actant rather than the 'Subject' of the salvation narrative."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "African Americans (ought)",
+      "We (became)",
+      "Ex-slaves (started)",
+      "Congregation (subsidized)",
+      "God (set)",
+      "Spirit (worked)"
+    ],
+    "volledige_object_lijst": [
+      "Schools",
+      "Artificial limbs",
+      "Redemption",
+      "Stature",
+      "Jacob's ladder"
+    ],
+    "werkwoord_frequentie": {
+      "climb": {
+        "count": 4,
+        "primair_subject": "Man"
+      },
+      "redeem": {
+        "count": 2,
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": 3,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Liberation Exemplarism' where the Gospel provides the psychological power for social Subject-hood."
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "titel_preek": "Death Sentence, Life Sentence",
+    "bijbeltekst": "Romans 5:18, 6:3-4; Matthew 10:34-38",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon contrasts the 'Old Adam' (universal sin) with the 'New Christ' (universal acquittal), using contemporary examples like the death penalty, Tibetan exiles, and dental care for the poor.",
+      "exegetische_kwaliteit": "Strong. The preacher accurately captures Paul's corporate anthropology and the indicative-imperative structure of Romans 6.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the reality of sin and the work of Christ, culminating in a declarative address to the congregation.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Paul draws a picture of sin...",
+        "I am going to say something about dentists...",
+        "You have not received a death sentence."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from self-righteousness to a reliance on Christ's righteousness; to provide comfort through the assurance of life.",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is not explicitly named as the agent of the word, though 'miraculous gift of God' is mentioned.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "repent",
+        "trust",
+        "identify",
+        "relinquish"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "82",
+      "procent": "70%",
+      "voorbeelden": [
+        "Adam is the name Paul gives to sinful humanity.",
+        "The news accounts from the Balkans this week confirm what we were saying."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "writes",
+        "says",
+        "means",
+        "illustrates"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "7%",
+      "voorbeelden": [
+        "Think about what you or I would do.",
+        "Let him who boasts, boast of the Lord."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "boast",
+        "consider"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "10%",
+      "voorbeelden": [
+        "I have had a passion for Tibet all my life.",
+        "I was complaining because I had jury duty."
+      ],
+      "dominante_werkwoorden": [
+        "admire",
+        "complain",
+        "passion"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "5",
+      "procent": "4%",
+      "voorbeelden": [
+        "Be assured that there is good news today.",
+        "We shall certainly be united with him."
+      ],
+      "dominante_werkwoorden": [
+        "assured",
+        "shall"
+      ],
+      "kwaliteit": "High theological weight but low frequency until the conclusion."
+    },
+    "declaratieven": {
+      "frequentie": "10",
+      "procent": "9%",
+      "voorbeelden": [
+        "You are not in Adam.",
+        "You are in Christ.",
+        "You have received a sentence to eternal life."
+      ],
+      "dominante_werkwoorden": [
+        "are",
+        "received"
+      ],
+      "autoriteit": "High. The preacher shifts from 'talking about' to 'bestowing upon' in the final paragraph."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of news stories (Hartford paper, Tibet, Time magazine, NYT) to illustrate the concept of sin.",
+        "Long sections explaining Paul's theology in the 3rd person."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological argument rather than a participant in a divine encounter for the first 15 minutes."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "LOW",
+      "missende_elementen": [
+        "Direct absolution",
+        "Immediate sacramental address in the body of the sermon"
+      ],
+      "effect_op_hoorder": "Delayed encounter; the 'event' is back-loaded to the conclusion."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "Extremely direct and personal (2nd person).",
+      "voorbeelden": [
+        "You are in Christ.",
+        "You have received a sentence to eternal life."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Anecdotal and inclusive ('we')."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Direct address, mostly in the conclusion and rhetorical questions.",
+        "performatieve_context": "Strongly performative in the final blessing."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing Paul, Adam, Christ, and news figures.",
+        "distantie_effect": "Creates a lecture-like atmosphere for the majority of the text."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and news reports."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "Theological truths about Adam and sin."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The 'now' of the proclamation in the final paragraph."
+      }
+    },
+    "adressering_effectiviteit": "7"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Avoids simple moralism (Assertive -> Directive).",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Sin/Adam) -> Declarative (You are in Christ) -> Directive (Walk in newness).",
+      "voorbeelden": [
+        "The movement from the 'old Adam' to the 'new creation' address at the end."
+      ],
+      "kwaliteit": "The pattern is correct but the assertive phase is disproportionately long."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "The death he died he died to sin... So you also must consider yourselves dead to sin."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "SACRAMENTAL_CREATIVE",
+    "diagnose_toelichting": "Despite the constative surplus, the sermon successfully transitions into a declarative event in its climax, functioning as a 'Toezegging' (Promise).",
+    "sterke_punten": [
+      {
+        "aspect": "Declarative Climax",
+        "categorie": "Declaratieven",
+        "tekstueel_bewijs": "You are not in Adam. You are in Christ.",
+        "effect": "Creates a sacramental moment of identity shift."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illustrative Overload",
+        "categorie": "Assertieven",
+        "tekstueel_bewijs": "The long section on Tibet and dentists.",
+        "probleem": "Theological point is buried in 'talking about' the world.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 8,
+    "gebeuren_toelichting": "The final paragraph rescues the sermon from being a lecture, turning it into a 'Life Sentence' pronounced over the hearer.",
+    "sacramentele_kracht": 7,
+    "sacramentele_toelichting": "The preacher acts as a mandatory of God by the end, changing the hearer's status."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, through the 'Life Sentence' metaphor.",
+      "prediker_als_mandataris": "Strongly evident in the conclusion.",
+      "tekstueel_bewijs": [
+        "Be assured that there is good news today."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Low visibility.",
+      "perlocutie_theologie": "Implicit in the 'Amen'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the sermon is framed as the delivery of the 'Life Sentence'.",
+      "epifanisch_taalgebruik": "The contrast between the Hartford paper and the Gospel creates an epiphanic tension.",
+      "tekstueel_bewijs": [
+        "In Christ, we have all received a life sentence."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person descriptive verbs to 2nd person performative verbs earlier in the text.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Paul draws a picture of sin and its companion, death...",
+          "voorgestelde_revisie": "The Word of God exposes the 'old Adam' in us today...",
+          "verschil": "Moves from historical description to present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": false,
+      "probleem": "None",
+      "suggestie": "The toezegging is the strongest part; keep it central.",
+      "voorbeeldzinnen": [
+        "I announce to you: your death sentence is revoked."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' (Paul/Adam) and not enough 'you'.",
+      "suggestie": "Interweave the 'you' throughout the illustrations.",
+      "voorbeeldzinnen": [
+        "You, like the dentist in the story, are caught in Adam's grip."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "Well balanced.",
+      "suggestie": "Maintain the indicative priority."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful example of how a sermon can move from 'talking about' the news to 'performing' the Good News."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about jury duty; SAT focuses on the 'Declarative' act of the Life Sentence.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'dentist' analogy for its vividness; SAT values it only as a precursor to the illocutionary act of promise.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power is concentrated in the final 100 words where the illocutionary force shifts to 'Declaring'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "reads",
+        "sells",
+        "heard",
+        "gives",
+        "draws",
+        "understands"
+      ],
+      "directief": [
+        "think",
+        "consider",
+        "boast",
+        "listen"
+      ],
+      "expressief": [
+        "admire",
+        "complaining",
+        "passion",
+        "hope"
+      ],
+      "commissief": [
+        "assured",
+        "shall",
+        "promise"
+      ],
+      "declaratief": [
+        "are",
+        "received",
+        "united"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "You are in Christ.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Reality-changing",
+        "effectiviteit": "Maximum"
+      }
+    ],
+    "notities": "The sermon is a classic 'homiletical bridge'—it spends a long time on the 'human side' (Adam/News) before crossing over to the 'divine side' (Christ/Promise)."
+  }
+}

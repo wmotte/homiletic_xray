@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Bibelarbeit zu Psalm 118",
+    "bijbeltekst": "Psalm 118",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from the 'constriction' (Angst/Enge) of a neoliberal, death-driven world to the 'wide space' (weiter Raum) of God's justice through the act of liturgical singing and political resistance.",
+      "subject": {
+        "identificatie": "The Praying Community / The 'I' (Beter/Wir)",
+        "tekstueel_bewijs": [
+          "Ich liebe die Texte und die Lieder dieser Tradition",
+          "Ich werde nicht sterben. Ich werde leben.",
+          "Wir sollten Globalisierung endlich 'von unten' wagen"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Life/Justice (Das Tor der Gerechtigkeit/Weite)",
+        "tekstueel_bewijs": [
+          "das Leben preist",
+          "das Tor der Gerechtigkeit",
+          "den weiten Raum"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Tradition/The Dead (Die Toten/Tradition)",
+        "tekstueel_bewijs": [
+          "Die Toten verleihen ihre Sprache",
+          "gewaschen von den Hoffnungen und von den Tränen der Toten"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The World/The Next Generation",
+        "tekstueel_bewijs": [
+          "Beteiligung am Weitergehen des Lebens auf unserer wunderbaren Erde"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "God/The Psalm/The Poor",
+        "tekstueel_bewijs": [
+          "Gott ist meine Stärke und mein Lied",
+          "Die Musik der Landlosen in Brasilien"
+        ],
+        "rol_van_god": "Is God Subject, Helper, or absent?",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Neoliberalism/Globalisation from above/Death",
+        "tekstueel_bewijs": [
+          "die multinationalen Konzerne",
+          "TINA-Syndrom",
+          "der Tod"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is identified as a systemic logic of death that commodifies life itself."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Political resistance as a consequence of liturgical speech.",
+      "subject": "The Church/Protest Movement",
+      "object": "Deregulation of the 'World-Owners'",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The primary program (singing the Psalm) provides the competence for the secondary program (political action)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Tradition → Justice/Life → The World",
+      "helper_subject_tegenstander": "God/Psalm → The 'I' ← Neoliberalism/Death",
+      "subject_naar_object": "The Praying 'I' → The Wide Space"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 45,
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "Er hat es gehört und mich befreit",
+        "Gott wird angeredet, nachdem er gegeben, gehandelt... hat"
+      ],
+      "voorbeelden_mens_subject": [
+        "Ich werde nicht sterben",
+        "Wir sollten Globalisierung endlich 'von unten' wagen",
+        "Ich singe gegen den Tod"
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Das soll Israel nachsprechen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "Ich will hinein zu Ihm",
+          "Lachen werd ich gegen ihn"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "loben ohne zu lügen lernen",
+          "Die Psalmen lieben lernen"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "wir können mitbauen?",
+          "können wir das noch, fröhlich und gewiss aussprechen"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It focuses on awakening the desire (Vouloir) to resist death and enter the 'wide space' through the technology of the Psalm."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Wide Space (Life/Justice)",
+      "s2": "Constriction (Death/Neoliberalism)",
+      "niet_s1": "Trivial Fundamentalism (False Praise)",
+      "niet_s2": "Trivial Atheism (Silent Despair)"
+    },
+    "beweging_in_preek": "From S2 (Angst) through ~S2 (Lament) to S1 (Justice/Praise).",
+    "theologische_resolutie": "The tension is resolved through 'Tradition'—the individual hides behind the collective song of the dead to find a voice they don't yet possess.",
+    "ernst_van_s2": "Very high; S2 is systemic and structural."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While theologically rooted in the 'givenness' of the Psalm, the actantial subject is overwhelmingly the human 'I' who decides to resist, sing, and act. God is often the object of praise or the helper of the resister rather than the primary actor.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Subject of Resistance",
+        "tekstueel_bewijs": "Ich muss sterben aber das ist auch alles was ich für den tod tun werde",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Prevenient Grace in Tradition",
+        "tekstueel_bewijs": "Die Toten verleihen ihre Sprache... Keiner muss nur er selber sein",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The 'Landless in Brazil' and 'Luther' serve as actantial models for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [
+        "Israel",
+        "Aaron",
+        "The 'I' of the Psalm"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who breaks the 'TINA-syndrom' rather than the human 'daring' to walk into the space."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Empowerment/Activation",
+      "theologische_implicatie": "Synergism: God provides the 'wide space', but the human must 'dare to enter'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 7,
+      "coherentie_beschrijving": "The transition from liturgical lament to anti-globalization protest is coherent but risks collapsing the eschatological 'wide space' into a political program.",
+      "spanning_punten": [
+        "The tension between 'God is my song' and 'I will sing against death'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Lachen werd ich gegen ihn... wie man ihn überlistet hat",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The 'Tradition' functions as the surrogate for the Spirit's endowment of power."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Severe; Sin is identified with global systemic injustice."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "Man (with God's help)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully avoids trivial moralism by placing the individual in a larger narrative of 'Tradition'. However, the 'I' remains the primary grammatical and actantial subject of the verbs of liberation.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The 'I' is the hero of the resistance against the 'World-Owners'.",
+      "voorgestelde_herpositionering": "Make God the subject of the 'deregulation' of death.",
+      "voorbeeld_revisie": "Instead of 'We should dare to enter', use 'God has torn open the gates of the wide space and carries us through'."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Resister'.",
+      "voorgestelde_identificatie": "Hearer as the 'Receiver' of the miracle (V. 23).",
+      "strategie": "Emphasize the 'Wunder' (miracle) as something that happens *to* us."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Vouloir (Willing/Desiring)",
+      "voorgestelde_balans": "Pouvoir (Being enabled by Grace)",
+      "concrete_suggestie": "Focus more on how the Psalm *gives* the power it demands."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Excellent",
+      "voorgestelde_intensivering": "n/a",
+      "theologische_rationale": "The sermon already treats the opponent with cosmic seriousness."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Globalisation protest) sometimes precedes or overshadows Soteriology.",
+      "voorgestelde_structuur": "Ensure the 'Wunder' of the Eckstein (V. 22-23) is the engine for the 'Tanz' (V. 27)."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful, politically engaged sermon that uses the Actantial Model of 'Tradition' to move the hearer, though it leans heavily on human agency in its final application."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the use of poetry and Buber quotes; Greimas reveals that the 'I' of the poet replaces the 'God' of the text as the primary actor.",
+    "verschil_met_exegese": "Exegesis would explain the 'House of Aaron'; Greimas shows how the 'House of Aaron' functions as a 'Sender' of values to the modern hearer.",
+    "unieke_inzichten_greimas": "Reveals the 'TINA-syndrom' as a narrative Opponent that requires a Subject-switch to be defeated."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Ich (liebe, habe Angst, singe, widerstehe)",
+      "Gott (hilft, hört, befreit, ist)",
+      "Die Toten (verleihen)",
+      "Wir (wagen, suchen, feiern)"
+    ],
+    "volledige_object_lijst": [
+      "Gerechtigkeit",
+      "Weite",
+      "Das Leben",
+      "Gottes Freundschaft"
+    ],
+    "werkwoord_frequentie": {
+      "handeln/tun": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "singen/loben": {
+        "count": 14,
+        "primair_subject": "Man"
+      },
+      "retten/helfen": {
+        "count": 6,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Political Theology' where the narrative engine is the human appropriation of divine promises."
+  }
+}

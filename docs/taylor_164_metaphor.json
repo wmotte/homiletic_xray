@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "titel_preek": "The Greatest Love Affair",
+    "bijbeltekst": "1 John 4:19 (implied), Matthew 13:33, Luke 6:48",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "God's love affair with us",
+          "love of the father who watched so long for his boy",
+          "Savior-brother who loves us",
+          "home where some day we shall all be together"
+        ],
+        "conceptuele_metafoor": "GOD IS THE ULTIMATE LOVER/FATHER"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "door marked 'private' inside of us",
+          "locked tight against them",
+          "the heart within waits eagerly"
+        ],
+        "conceptuele_metafoor": "THE SOUL IS A SECURE DWELLING"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "Christian pilgrims midway through their journey home",
+          "peering down the road his youngster had taken",
+          "form of his boy facing home"
+        ],
+        "conceptuele_metafoor": "FAITH IS A JOURNEY HOMEWARD"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "There is a door marked 'private' inside of us through which no armaments of force... can find entrance.",
+        "brondomein": {
+          "naam": "The Private Room",
+          "concrete_elementen": [
+            "door",
+            "lock",
+            "private sign",
+            "threshold"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Human Will/Volition",
+          "doctrinale_traditie": "Arminian/Liberal-Evangelical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Locked Door",
+            "doel_element": "Human Will"
+          },
+          {
+            "bron_element": "Intruder/Force",
+            "doel_element": "Coercive Power (State/Church)"
+          },
+          {
+            "bron_element": "Invited Guest",
+            "doel_element": "Divine Love"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The individual has absolute autonomy over their inner life."
+          ],
+          "theologische_implicaties": [
+            "God respects human freedom; salvation is not coercive."
+          ],
+          "ethische_implicaties": [
+            "Faith must be a 'glad yes' rather than external obedience."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests a Pelagian capability to keep God out indefinitely."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the 'heart' metaphor by adding specific architectural details like the 'private' sign and the failure of 'armaments' to enter."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon is tightly bound by the overarching 'Love' domain, moving from Eros to Philia to Agape. It successfully blends the Relational and Journey domains.",
+      "incoherentie_punten": [
+        {
+          "locatie": "The section on the 'Town Idiot' and the 'Noble Lad'",
+          "metafoor_a": "GOD IS A LOVING FATHER (Relational)",
+          "metafoor_b": "SINNER IS TRASH (Value/Economic)",
+          "conflict_beschrijving": "The preacher uses the term 'trash' to emphasize grace, but this conflicts with the 'Child of God' metaphor established earlier.",
+          "entailment_conflict": "If humans are 'trash,' the 'Father's heartbreak' over the lost son is less logically grounded than if they are inherently valuable.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "The conclusion",
+          "gemengde_metaforen": [
+            "Family (Father/Brother)",
+            "Journey (Home)"
+          ],
+          "blending_strategie": "The 'Home' serves as the destination of the journey and the location of the family, unifying the two domains."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'Prodigal Son' narrative by imagining the specific sights of the carpenter shop and the father's face.",
+        "voorbeeld": "People waiting in the carpenter shop... recounted to each other how day by day the father could be seen peering down the road."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The use of 'Love Affair' and 'Eros' risks reducing the holiness of God to human romantic sentimentality.",
+        "voorbeeld": "God's love affair with us as similar to that of an eager young man who woos and entices a maiden.",
+        "potentiele_impact": "Congregation may view God as a peer or a romantic partner rather than Sovereign.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A small-town Nazareth/Detroit hybrid where God is a neighborly father and the church is a community of friends.",
+      "sub_worlds": [
+        "The 'Private Room' of the soul",
+        "The cosmic 'Oceans of Space' (10 billion light years)",
+        "The political landscape of Brooklyn/Atlanta"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 11",
+          "van_wereld": "Biblical/Theological abstraction",
+          "naar_wereld": "Political Brooklyn",
+          "effectiviteit": "High; it grounds the abstract 'Agape' in concrete social justice."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Source",
+          "hoe_versterkt": "Repeated emphasis on 'He first loved' as the causal origin of all things."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Coercive Power",
+          "verstoring_strategie": "Contrasting God's love with 'tanks, rockets, and nuclear warfare.'",
+          "vervangend_schema": "God as the one who waits at the 'private door' of the heart."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Baptismal' and 'Viaticum' (deathbed) schemas of the church life cycle."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is a masterclass in the Relational/Familial domain. It avoids the coldness of the Economic domain (Debt/Transaction) by focusing almost entirely on the 'Drive toward reunion.' However, it relies heavily on 19th-century sentimentalist imagery which may feel 'Conventional' to modern ears.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "God is Love",
+        "huidige_status": "Bordering on 'Dead' due to over-familiarity.",
+        "suggestie": "Use the 'Galaxy/Light Year' imagery more extensively to create a 'Cosmic Love' schema.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The love of God is the gravity that holds the 10-billion-light-year galaxy in its orbit."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The 'Worm/Trash' imagery vs. 'Beloved Child' imagery.",
+        "resolutie_strategie": "Frame the 'unworthiness' not as lack of value, but as 'disorientation' or 'sickness' to maintain the Medical/Relational coherence."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "LOVE IS A BRIDGE",
+        "problematisch_entailment": "Bridges are static and require the traveler to walk across them.",
+        "aanbeveling": "Clarify that God is both the Bridge and the one who carries the traveler."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To connect with the 'Yeast' and 'Seed' parables mentioned briefly.",
+        "doel_concept": "The growth of love in a community."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A deeply moving use of CMT that successfully bridges the gap between cosmic theology and local political action."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'beauty' of the love language, CMT reveals that these metaphors function as the cognitive 'bridge' for the hearer to understand the Trinity.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT shows how the preacher uses 'Embodied Cognition' (the door, the road, the stride) to bypass intellectual resistance.",
+    "unieke_inzichten_CMT": "CMT highlights the 'Force' dynamics—how Love is presented as a 'Potent' force that paradoxically refuses to use 'Force' (coercion)."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Love affair",
+      "Strayed from the fold",
+      "Door marked private",
+      "Oceans of space",
+      "Bridge to the church",
+      "Worm as I",
+      "Death's awful waters",
+      "Central sun",
+      "Warming and healing rays"
+    ],
+    "woord_frequentie_analyse": {
+      "love": "42",
+      "first": "18",
+      "father": "12",
+      "home": "9"
+    },
+    "notities": "The sermon effectively uses the 'Container' schema to describe the inner life and the 'Path' schema for the return to God."
+  }
+}

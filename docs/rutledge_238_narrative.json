@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "The Order of the Sentence",
+    "bijbeltekst": "Romans 10:14–20",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God reveals Himself and awakens faith through His own performative Word (the message), bypassing human seeking or spiritual capacity.",
+      "subject": {
+        "identificatie": "God / The Word of Christ",
+        "tekstueel_bewijs": [
+          "I have been found by those who did not seek me",
+          "I have shown myself to those who did not ask for me",
+          "the message itself, unleashed, was racing around... on its own power"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Faith / Revelation / The Hearer",
+        "tekstueel_bewijs": [
+          "faith is awakened by the message",
+          "I have shown myself"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as the source of the Evangel)",
+        "tekstueel_bewijs": [
+          "the message that awakens it comes through the word of Christ"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / Humanity (specifically those not seeking)",
+        "tekstueel_bewijs": [
+          "those who did not seek me",
+          "those who did not ask for me"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Preacher / The Message (akoē)",
+        "tekstueel_bewijs": [
+          "How are they to believe... without a preacher?",
+          "faith comes from what is heard"
+        ],
+        "rol_van_god": "God is the Subject acting through the Word.",
+        "rol_van_geest": "External help (The Word as a power outside the self)."
+      },
+      "tegenstander": {
+        "identificatie": "Human 'Spiritual' Activity / Moralism / Disbelief",
+        "tekstueel_bewijs": [
+          "human 'spiritual' capacity",
+          "mere disbelief or by any other human obstacle",
+          "worry about not having a sufficient amount of faith"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is the human attempt to replace God's agency with 'spiritual journeys' or 'inner dispositions,' which Rutledge views as a total eclipse of the Gospel."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The preacher's mandate to deliver the message entrusted to them.",
+      "subject": "The Preacher (Seminarians)",
+      "object": "The Message (delivered to the ends of the earth)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher's action is a participation in the primary program; they are the 'feet' of the message that God is already 'racing' around the world."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → The Word of Christ → Those who did not seek",
+      "helper_subject_tegenstander": "The Preacher → The Word/God ← Human Moralism/Spiritualism",
+      "subject_naar_object": "God → Awakening Faith"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 15,
+      "ratio": "2.8:1",
+      "voorbeelden_god_subject": [
+        "God says: I have been found",
+        "The message... was racing around",
+        "The story is about God"
+      ],
+      "voorbeelden_mens_subject": [
+        "we like to read about heroic survival",
+        "the speaker... had been raised Roman Catholic",
+        "clergy... give every impression of not believing in God"
+      ],
+      "rutledge_score": 10
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "It is that news... which is now being entrusted to you."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "those who did not seek me",
+          "those who did not ask for me"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "Everything depends on... how it is understood"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "the power that removes human 'spiritual' capacity to the margins",
+          "faith which could not be stopped"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) of the Word itself. It explicitly deconstructs 'Devoir' (moral obligation) and 'Vouloir' (human seeking) as the basis for faith."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The Message (God's Act)",
+      "s2": "Human Spiritual Activity (Moralism)",
+      "niet_s1": "Silence/Disbelief",
+      "niet_s2": "Passive Reception (Faith)"
+    },
+    "beweging_in_preek": "The sermon moves from S2 (the 'Tibetan' model of human doing) to ~S2 (the realization that we don't seek) to S1 (the Word finding us).",
+    "theologische_resolutie": "Faith is not a human work (~S2) but a creation of the Word (S1).",
+    "ernst_van_s2": "Very high; S2 is identified as the 'dull thud' of modern preaching."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is a meta-critique of moralism. It explicitly demands that God be the subject of the sentence and defines grace as God's performative action that precedes human response.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (Critiqued)",
+        "tekstueel_bewijs": "the story celebrated Noah’s capacity to overcome",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "The story isn’t about Noah! It’s about God!",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Unconditional Election/Finding",
+        "tekstueel_bewijs": "I have been found by those who did not seek me",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The sermon explicitly attacks exemplarism (the Noah example).",
+      "bijbelse_figuren_als_model": [
+        "Noah (rejected as model)"
+      ],
+      "alternatieve_lezing": "Noah's story is about God's judgment and preservation, not Noah's strength."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of 'producing' faith; shift from self-examination to Christ-proclamation.",
+      "theologische_implicatie": "Monergistic awakening of faith."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "Perfectly integrated; the rhetorical form (the sermon) matches the theological content (the power of the Word).",
+      "spanning_punten": [
+        "The tension between the 'human activity' of preaching and the 'divine power' of the message."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "the evangel, understood as victorious power... racing around... on its own power",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Word bestows the 'Pouvoir' (Power) to believe where none existed."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Sin is seen as a total incapacity to seek God, requiring God to 'show Himself' to the unasking."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully positions God as the sole Subject of the primary narrative program (Salvation/Revelation).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy emphasis on Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain as is; this is a corrective sermon.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (moralism/self-help) is clearly identified and defeated.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God finds us) → Ethics (We preach the news)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in theocentric preaching, providing a structural antidote to the 'anthropocentric' drift in contemporary homiletics."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on her anecdotes, Greimas' model shows these anecdotes are actantial 'Opponents' to the Gospel.",
+    "verschil_met_exegese": "Goes beyond the meaning of 'akoē' to show how that word functions as the 'Subject' of the narrative engine.",
+    "unieke_inzichten_greimas": "Reveals that the 'dull thud' of the Tibetan lecture is a structural failure where the Subject (Man) lacks the Object (God) because the Sender is missing."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (says)",
+      "The message (was racing)",
+      "Faith (comes)",
+      "My friend (bore witness)"
+    ],
+    "volledige_object_lijst": [
+      "Faith",
+      "The message",
+      "Noah",
+      "God (as object of seeking - critiqued)"
+    ],
+    "werkwoord_frequentie": {
+      "awakened": {
+        "count": 3,
+        "primair_subject": "God/Message"
+      },
+      "found": {
+        "count": 2,
+        "primair_subject": "God"
+      },
+      "do": {
+        "count": 4,
+        "primair_subject": "Man (critiqued)"
+      }
+    },
+    "notities": "Sermon preached by Fleming Rutledge; embodies her 'Grammar of Grace' theory."
+  }
+}

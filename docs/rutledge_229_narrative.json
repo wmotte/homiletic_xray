@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Heirs of God",
+    "bijbeltekst": "Romans 8:9–17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God adopts human beings as heirs, granting them a secure identity and future through the Holy Spirit and Christ, which transcends earthly instability.",
+      "subject": {
+        "identificatie": "God / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "God has adopted him as his heir",
+          "the Holy Spirit himself is the guarantor of our inheritance",
+          "God hears him"
+        ],
+        "frequentie_score": "7"
+      },
+      "object": {
+        "identificatie": "The Inheritance (Security, Glory, and Suffering)",
+        "tekstueel_bewijs": [
+          "an inheritance for him that nothing can destroy",
+          "fellow-heirs with him in his resurrection"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "Come, O blessed of my father, inherit the kingdom"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Believer / The Hearer",
+        "tekstueel_bewijs": [
+          "Children and heirs of God! That, incredibly, is what we are."
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ and the Holy Spirit",
+        "tekstueel_bewijs": [
+          "Jesus Christ himself is the fore-runner",
+          "the Spirit speaking for him"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Earthly Instability and Sinful Despair",
+        "tekstueel_bewijs": [
+          "Moths and rust",
+          "confiscated in a coup d’état",
+          "however sinful the petitioner"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent includes death, inflation, and the 'shaky economy' of the world, but ultimately the 'nothingness' that the inheritance overcomes."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The heir, empowered by the security of the inheritance, lives a reckless, revolutionary life of sacrifice and stewardship.",
+      "subject": "The Believer (The Heir)",
+      "object": "Reckless Love / Sacrifice / Risk",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly fueled by the competence gained in the primary program (soteriology)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Eternal Kingdom → The Believer",
+      "helper_subject_tegenstander": "Holy Spirit → God (as Subject of Adoption) ← Sin/Death",
+      "subject_naar_object": "The Heir → Reckless Risk-taking"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "38",
+      "ratio": "0.63",
+      "voorbeelden_god_subject": [
+        "God has adopted him as his heir",
+        "the Spirit speaking for him",
+        "He has scattered the proud"
+      ],
+      "voorbeelden_mens_subject": [
+        "I want to behave like a fellow-heir",
+        "Let us be reckless",
+        "She went right on taking in the alcoholics"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "The pain of the world must lie... close to a Christian’s heart."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "I want to behave like a fellow-heir of Christ"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "He knows he can send his children to Princeton"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "People who have an inheritance can be more free",
+          "People who have a legacy coming can afford to be reckless"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) granted by the inheritance. It is not about what we must do to get the inheritance, but what we are now able to do because we have it."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Inheritance (Security/Glory)",
+      "s2": "Disinheritance (Suffering/Loss)",
+      "niet_s1": "Anxiety/Fear (Weakling)",
+      "niet_s2": "Recklessness (Risk-taking)"
+    },
+    "beweging_in_preek": "From the anxiety of earthly loss (~S1) to the security of the inheritance (S1), which then paradoxically embraces suffering (S2) through reckless love (~S2).",
+    "theologische_resolutie": "The tension is resolved by redefining suffering not as the loss of the inheritance, but as part of the inheritance itself.",
+    "ernst_van_s2": "High. Suffering is presented as an essential half of the gospel."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly grace-oriented because it establishes the identity of the 'Heir' as a gift from God (Primary Program) before calling for any action (Secondary Program). The action is a 'reckless' response to a pre-existing security.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism in the grandmother story",
+        "tekstueel_bewijs": "She went right on handing out money and taking risks",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as the active Subject of adoption",
+        "tekstueel_bewijs": "God has adopted him as his heir",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Unconditional nature of the legacy",
+        "tekstueel_bewijs": "however sinful the petitioner... guaranteeing that his hope is not in vain",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The grandmother and Mr. Victorius are used as models of how an 'heir' behaves.",
+      "bijbelse_figuren_als_model": [
+        "Francis of Assisi",
+        "William Bradford",
+        "Beyers Naudé"
+      ],
+      "alternatieve_lezing": "Theocentric focus: God's grace was so sufficient for these figures that they were freed from self-preservation."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Security and liberation from fear.",
+      "theologische_implicatie": "Justification by grace through faith leads to the freedom of a Christian."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the comfort of the inheritance to the 'recklessness' of the Christian life is logically and theologically tight.",
+      "spanning_punten": [
+        "The tension between the 'comfort' of the text and the 'revolutionary' nature of the cross."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "fellow-heirs with him in his resurrection and will share his glory",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir' (Power) to cry Abba and to risk earthly security."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Moderate; sin is seen as that which makes us 'fearful, temporizing weaklings'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Sender and Subject of the primary gift, positioning the hearer as a Receiver who is then transformed into a secondary Subject of ethical action.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Pouvoir (Power/Ability).",
+      "voorgestelde_balans": "Maintain the current balance as it serves the 'Grace' diagnosis.",
+      "concrete_suggestie": "Ensure the 'Devoir' (Must) of suffering is always grounded in the 'Pouvoir' of the Spirit."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "The opponent is often economic or social.",
+      "voorgestelde_intensivering": "Intensify the 'Opponent' as the power of Death and the 'Old Adam' that resists adoption.",
+      "theologische_rationale": "To make the 'Revolution' of the gospel even more stark against the total claim of Sin."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Correctly ordered)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in avoiding moralism while maintaining a high ethical call. By grounding 'reckless' behavior in the 'guaranteed inheritance,' the preacher avoids the 'if/then' trap of legalism."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the effective use of the 'inheritance' metaphor, Greimas shows how the metaphor functions as a modal endowment of Power.",
+    "verschil_met_exegese": "Exegesis explains what Paul meant by 'heirs'; semiotics shows how the preacher uses that meaning to move the hearer from a state of Lack to a state of Competence.",
+    "unieke_inzichten_greimas": "Greimas reveals that the 'Revolution' the preacher speaks of is actually a Subject-switch: the hearer stops being the subject of their own security and becomes a receiver of God's security."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (adopts)",
+      "Spirit (guarantees/speaks)",
+      "Jesus (leaves/inherits)",
+      "Heir (takes risks/gives)"
+    ],
+    "volledige_object_lijst": [
+      "Inheritance",
+      "Security",
+      "Glory",
+      "Suffering"
+    ],
+    "werkwoord_frequentie": {
+      "inherit": {
+        "count": "12",
+        "primair_subject": "Man (as Receiver)"
+      },
+      "give": {
+        "count": "6",
+        "primair_subject": "Man (as response)"
+      }
+    },
+    "notities": "The sermon uses Rutledge's rule effectively by making God the subject of the primary salvific verbs (adopt, guarantee, prepare)."
+  }
+}

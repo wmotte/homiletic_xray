@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "The Thankful Life",
+    "bijbeltekst": "Psalm 79:13, Psalm 100, Psalm 106",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God establishes a covenant relationship through acts of salvation, and the people respond by enthroning Him on their praises, transforming duty into delight.",
+      "subject": {
+        "identificatie": "God (The Lord)",
+        "tekstueel_bewijs": [
+          "It is he that hath made us",
+          "Many times God delivered them",
+          "He remembered for their sake his covenant",
+          "God enabled me to be of assistance"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "A life of praise/The Glory of God",
+        "tekstueel_bewijs": [
+          "The purpose of salvation is that we might give him thanks",
+          "The meaning of life is grounded in the praise of God"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as the Giver of all things)",
+        "tekstueel_bewijs": [
+          "He is the giver, and we are the recipients",
+          "Learning that all these things are gifts from God"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Covenant People / The Hearer",
+        "tekstueel_bewijs": [
+          "We thy people, the flock of thy pasture",
+          "Save us... that we may give thanks"
+        ],
+        "positie_hoorder": "The hearer identifies as the Receiver of salvation who becomes the Subject of praise."
+      },
+      "helper": {
+        "identificatie": "The Psalms / The Holy Spirit (implied through 'enabling')",
+        "tekstueel_bewijs": [
+          "The Psalms teach us the purpose and goal of praise",
+          "God enabled me to be of assistance"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help that becomes internal motivation."
+      },
+      "tegenstander": {
+        "identificatie": "Secularism, Unfaithfulness, and Legalistic Duty",
+        "tekstueel_bewijs": [
+          "All references to God had been excised",
+          "they were rebellious in their purposes",
+          "dogged sense of duty"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad manners, but the 'unfaithfulness' of the people and the 'ether' of a world without God."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer (S) keeps the commandments (O) out of gratitude.",
+      "subject": "The Believer",
+      "object": "The Commandments / Service to neighbor",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Gratitude (the result of the primary program) becomes the fuel for the secondary program of ethics."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Gifts → The People",
+      "helper_subject_tegenstander": "The Psalms → God ← Human Unfaithfulness",
+      "subject_naar_object": "God → A People for His Praise"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "God our Maker doth provide",
+        "God delivered them",
+        "He remembered his covenant",
+        "God enabled me"
+      ],
+      "voorbeelden_mens_subject": [
+        "we will recount thy praise",
+        "we gather together",
+        "we keep the commandments"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I knew I was supposed to do this — it was my duty"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "something I wanted to do, not something I had to do",
+          "Instead of duty, there is delight"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "The Psalms teach us the purpose",
+          "Learning that all these things are gifts"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "God enabled me to be of assistance",
+          "Gratitude is liberating"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon moves the hearer from Devoir (Law) to Vouloir (Gospel) by showing how God's grace changes the heart's motivation."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Gratitude (Grace)",
+      "s2": "Iniquity/Judgment",
+      "niet_s1": "Duty/Legalism",
+      "niet_s2": "Generic Secularism (Impunity)"
+    },
+    "beweging_in_preek": "From the 'Generic' (Not-S2) to the 'Duty' (Not-S1), then through the 'Iniquity' (S2) which God remembers no more, arriving at 'Gratitude' (S1).",
+    "theologische_resolutie": "God's faithfulness in spite of unfaithfulness (S2) creates the ground for S1.",
+    "ernst_van_s2": "High; it mentions being 'brought low through iniquity'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly rejects moralism (duty) in favor of a response to God's prior action. God is the primary actor in salvation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Initial focus on 'art form' of thankfulness",
+        "tekstueel_bewijs": "Being thankful is to some extent an art form.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-switch from human effort to divine gift",
+        "tekstueel_bewijs": "Learning that all these things are gifts from God, and not our own achievement.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Soteriological priority",
+        "tekstueel_bewijs": "The purpose of salvation is that we might give him thanks.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The widow and the friend are used as models, but they are models of *redirection*—turning praise back to God.",
+      "bijbelse_figuren_als_model": [
+        "Israel"
+      ],
+      "alternatieve_lezing": "The sermon already provides this by focusing on God's delivery of Israel."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Liberation from the burden of 'having to' into the joy of 'wanting to'.",
+      "theologische_implicatie": "Sanctification is a fruit of justification/gratitude."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'duty' of caring for the widow to the 'delight' of gratitude perfectly mirrors the theological move from Law to Gospel.",
+      "spanning_punten": [
+        "The tension between 'thankfulness as an art form' (skill) and 'thankfulness as a gift' (grace)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "Our praise and thanksgiving is actually envisioned as the throne of God.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit (implied) provides the 'Pouvoir' (ability) to move from duty to delight."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Serious; described as rebellion and being brought low."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is structurally sound, placing God as the Sender and Subject of the primary program (Salvation) and the human as the Receiver who then becomes the Subject of the secondary program (Praise).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Vouloir (motivation).",
+      "voorgestelde_balans": "Maintain the current balance as it serves the 'Thanksgiving' context well.",
+      "concrete_suggestie": "Ensure the 'Pouvoir' (God's power) is always the source of the 'Vouloir' (our desire)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "The opponent is somewhat external (secular cards).",
+      "voorgestelde_intensivering": "Deepen the internal opponent—the 'unthankful heart' that persists even in believers.",
+      "theologische_rationale": "To highlight the radical nature of the 'Subject-switch' God performs."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Gratitude → Ethics."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in moving from a human experience (Thanksgiving) to a deep theological structure where God is the primary Subject."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the anecdotes, Greimas reveals that the anecdotes function as 'modal shifts' from Devoir to Vouloir.",
+    "verschil_met_exegese": "Exegesis explains the Psalm; semiotics shows how the Psalm's structure is being 're-performed' in the lives of the congregation.",
+    "unieke_inzichten_greimas": "Greimas exposes that the 'widow' story is not just an illustration, but a narrative 'competence' shift that validates the sermon's entire theological claim."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (made, delivered, remembered, relented, enabled)",
+      "We (give thanks, recount, gather, keep)",
+      "Gratitude (creates, liberates)"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "Praise",
+      "Commandments",
+      "The Throne of God"
+    ],
+    "werkwoord_frequentie": {
+      "give thanks": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "save/deliver": {
+        "count": "5",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon successfully avoids the 'Exemplarism' trap by making the human examples transparent to God's grace."
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "titel_preek": "Why Jesus Had to Die: Because of What He Said!",
+    "bijbeltekst": "Luke 19:41-48 (implied)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus enters Jerusalem to expose the predatory ideology of the status quo through prophetic speech, leading to a confrontation with the authorities.",
+      "subject": {
+        "identificatie": "Jesus (as Prophet/Teacher)",
+        "tekstueel_bewijs": [
+          "He came to Jerusalem",
+          "He condemned not only the city, but the temple",
+          "He invokes the voices of the ancient prophets",
+          "He imagined the unimaginable"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Truth-telling/Exposing Ideology (Shalom)",
+        "tekstueel_bewijs": [
+          "the things that make for peace",
+          "proper inclusiveness of temple",
+          "unvarnished truth about the religious ideology"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Prophetic Tradition (Isaiah/Jeremiah)",
+        "tekstueel_bewijs": [
+          "demonstrating what a faithful child of scripture he is",
+          "he let Isaiah speak",
+          "he let Jeremiah speak"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'Common Folk' / The Hearer",
+        "tekstueel_bewijs": [
+          "the people who were excluded and exploited took heart",
+          "it is left open for us"
+        ],
+        "positie_hoorder": "The hearer identifies with the 'spellbound' crowd who must now 'decide'."
+      },
+      "helper": {
+        "identificatie": "The Old Testament Prophets",
+        "tekstueel_bewijs": [
+          "he invokes the voices of the ancient prophets",
+          "old prophetic sounds ringing in our ears"
+        ],
+        "rol_van_god": "God is largely absent as an active Subject; God is the 'Holy One' housed in the temple, but not the one acting in the verbs.",
+        "rol_van_geest": "Absent."
+      },
+      "tegenstander": {
+        "identificatie": "The Urban Leadership / Predatory Economy",
+        "tekstueel_bewijs": [
+          "chief priests and scribes",
+          "military apparatus of the Roman Empire",
+          "the power of predatory ideology"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as a socio-political and economic system rather than a cosmic or ontological force of sin/death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer must decide whether to join the 'spellbound' people and receive 'new historical possibility' or remain in the status quo.",
+      "subject": "The Hearer",
+      "object": "Decision/Fresh Courage",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon ends with an appeal to the hearer to complete the action Jesus started by making a choice."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Prophetic Tradition → Truth/Shalom → The Excluded/Hearers",
+      "helper_subject_tegenstander": "Isaiah/Jeremiah → Jesus ← Chief Priests/Scribes",
+      "subject_naar_object": "Jesus → Exposing Ideology"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 2,
+      "mens_als_subject_count": 45,
+      "ratio": "0.04",
+      "voorbeelden_god_subject": [
+        "God’s house, will be for all peoples",
+        "the land that I gave of old"
+      ],
+      "voorbeelden_mens_subject": [
+        "He came to Jerusalem",
+        "He condemned not only the city",
+        "He was dangerous because he remembers",
+        "We have to decide"
+      ],
+      "rutledge_score": 2
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "they would have to keep Torah",
+          "requirements of shalom"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "they wanted to silence him",
+          "we have to decide"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "he could see so much",
+          "he was a scriptural genius",
+          "exposed ideology that had been passed off as the truth"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "They could not find anything they could do",
+          "receive new historical possibility"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "The sermon is primarily about 'seeing' and 'knowing' (Savoir). Jesus is the one who knows the truth, and the hearers are invited to share in this knowledge to gain the 'Vouloir' (will) to act."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Prophetic Inclusion (Shalom)",
+      "s2": "Predatory Ideology (Exclusion)",
+      "niet_s1": "Safe-house Religion (Piety without Justice)",
+      "niet_s2": "Dangerous Truth-telling"
+    },
+    "beweging_in_preek": "From S2 (Jerusalem's status quo) to ~S1 (the temple as a den of robbers) to S1 (Isaiah's vision), ending in the tension of ~S2 (the dangerous speech that leads to death).",
+    "theologische_resolutie": "Unresolved. The sermon explicitly states 'Luke leaves the matter unresolved... it is left open for us.'",
+    "ernst_van_s2": "High in a social sense, but S2 is treated as a correctable ideology rather than an inescapable condition."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses the name of Jesus, the underlying structure is 'Moral Influence.' Jesus is the Subject who models prophetic courage, and the hearer is called to follow this example. The 'engine' of the sermon is human decision and socio-political awareness.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Jesus as Example (Exemplarism)",
+        "tekstueel_bewijs": "He was dangerous because he remembers... we also know...",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Covenant",
+        "tekstueel_bewijs": "It is all based on the 'if' of covenantal obedience.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Inclusion of the excluded",
+        "tekstueel_bewijs": "no restriction or exclusion based on gender or race",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus is presented as a 'scriptural genius' and a 'dangerous guy' whose primary function is to expose ideology and invite others to 'fresh courage.'",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Isaiah",
+        "Jeremiah"
+      ],
+      "alternatieve_lezing": "A theocentric reading would focus on God's judgment and God's act of reclaiming the temple through Christ's sacrifice, rather than Jesus's rhetorical skill."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to 'decide' and 'have courage' based on the example of Jesus.",
+      "theologische_implicatie": "Soteriology is reduced to social liberation and intellectual enlightenment."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "The sermon is highly coherent as a call to social justice, but the narrative hierarchy is flattened—the 'Fundamental Program' (God's salvation) is replaced by the 'Secondary Program' (Human response).",
+      "spanning_punten": [
+        "The title 'Why Jesus Had to Die' suggests a theological necessity, but the body of the sermon treats it as a political consequence."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "He had to be silenced! ... for us, the story is left open.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer has the 'Pouvoir' (power) to decide if they are given the 'Savoir' (knowledge)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is defined as 'predatory ideology' and 'willful greed'—social ills rather than a broken relationship with God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'call to action' where Jesus is the protagonist of a social drama. God is the Sender of values but not the Subject of the action.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "Jesus is the subject of political action, but God is not the subject of salvation.",
+      "voorgestelde_herpositionering": "Make God the Subject who sends Jesus to reclaim His house.",
+      "voorbeeld_revisie": "Instead of 'Jesus condemned the temple,' use 'In Jesus, God Himself entered the temple to judge the injustice that broke His heart.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the one who must 'decide' to make the story end well.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Position the hearer as the one who is 'robbed' by sin and 'rescued' by Christ's death."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive Savoir (Knowledge) and Vouloir (Will).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as Power).",
+      "concrete_suggestie": "Emphasize that we *cannot* see the truth unless the Spirit opens our eyes."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Opponent is 'the authorities' (external).",
+      "voorgestelde_intensivering": "Identify the 'predatory ideology' as a power of Sin that dwells within the hearer's heart, not just 'the city.'",
+      "theologische_rationale": "Without a 'Heavy Opponent,' the death of Jesus is a tragedy of bad politics rather than a victory over Sin."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has swallowed Soteriology (Program 1).",
+      "voorgestelde_structuur": "Establish that Jesus' death *actually* accomplished peace (Soteriology) before calling us to live out that peace (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically powerful and socially insightful, but it risks leaving the hearer with a 'new law' of prophetic courage rather than the 'good news' of a finished work."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the use of Isaiah/Jeremiah; Greimas reveals that this use subordinates God to human scriptural 'genius.'",
+    "verschil_met_exegese": "Exegesis might focus on the 'den of robbers' context; Greimas shows that the sermon's 'engine' is fueled by human decision rather than divine act.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'leaving the story open' is a semiotic move that shifts the burden of the Gospel from Christ to the Hearer."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (came, moved, confronted, wept, condemned, invokes, speaks, remembers, imagined)",
+      "The authorities (monitoring, watched, listened, received, knew, looking for a way to kill)",
+      "The people (took heart, took courage, were spellbound)",
+      "We (know, have to decide)"
+    ],
+    "volledige_object_lijst": [
+      "The city",
+      "The temple",
+      "Shalom",
+      "Ideology",
+      "Truth",
+      "Decision"
+    ],
+    "werkwoord_frequentie": {
+      "said": {
+        "count": 12,
+        "primair_subject": "Jesus"
+      },
+      "know": {
+        "count": 6,
+        "primair_subject": "Man"
+      },
+      "decide": {
+        "count": 2,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Prophetic Moralism' where the Gospel is framed as a call to socio-political awareness."
+  }
+}

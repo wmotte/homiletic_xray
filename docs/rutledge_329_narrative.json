@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "The Lord Looked at Peter",
+    "bijbeltekst": "Luke 22:59-62",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The Lord Jesus Christ initiates a gaze that unmasks the sinner (Peter/Hearer) not to destroy them, but to judge and simultaneously rehabilitate them through His sacrifice.",
+      "subject": {
+        "identificatie": "The Lord (Jesus Christ)",
+        "tekstueel_bewijs": [
+          "The Lord turned and looked at Peter.",
+          "The Lord found him with that look.",
+          "The judge himself... is taking the judgment upon himself."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Rehabilitation/Rectification of the sinner",
+        "tekstueel_bewijs": [
+          "the beginning of his rehabilitation",
+          "the discovery that saves, the exposure that purifies"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Holy Trinity / The Father",
+        "tekstueel_bewijs": [
+          "comes from the depths of the Holy Trinity",
+          "our Father in heaven offer his own life to us"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Peter and the Hearers (The 'Family')",
+        "tekstueel_bewijs": [
+          "In that look is Peter's salvation and ours."
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Word and Sacrament / The Cross",
+        "tekstueel_bewijs": [
+          "known to us in the Word and the Sacrament",
+          "in his Cross we see the height, breadth, and depth of his mercy"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "Human Denial and the 'Fraud' of Self-Righteousness",
+        "tekstueel_bewijs": [
+          "various defenses that you and I use... to deceive ourselves",
+          "perpetual denial about their own faults"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just a mistake but an ontological 'fraud' that requires a divine 'rectification' (cosmic realignment)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The family/church community modeling the forgiveness they have received.",
+      "subject": "The Hearer/Parents",
+      "object": "Forgiving one another",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The ethical program of family forgiveness is presented as a 'crucible' where the primary program's values are lived out."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Holy Trinity → Salvation/Rectification → Peter/Hearer",
+      "helper_subject_tegenstander": "Cross/Sacrament → Jesus → Human Denial/Sin",
+      "subject_naar_object": "Jesus → Rehabilitation of the Fraudulent Human"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "The Lord turned and looked at Peter.",
+        "Jesus washes his disciples' feet.",
+        "The judge himself... is taking the judgment upon himself."
+      ],
+      "voorbeelden_mens_subject": [
+        "Peter followed at a distance.",
+        "We have examined ourselves.",
+        "You and I have all said our versions of..."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "you also ought to wash one another's feet."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I am motivated by my wish not to disappoint him."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "now you know, and you know that I know."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "How can we survive this piercing look? The answer is, we can't.",
+          "pretend that we are able to stand in our own moral superiority."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes the human 'Non-Pouvoir' (inability) to withstand judgment or save oneself, making the divine 'Pouvoir' (power to rectify) the central theme."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Rectification/Grace",
+      "s2": "Judgment/Death",
+      "niet_s1": "Denial/Fraud",
+      "niet_s2": "Exposure/Repentance"
+    },
+    "beweging_in_preek": "From Denial (~S1) to Exposure (~S2), then revealing that in the Look of Christ, S2 (Judgment) is absorbed by the Subject to grant S1 (Rectification).",
+    "theologische_resolutie": "The tension is resolved by the 'Judge taking the judgment,' merging S1 and S2 in the person of Christ.",
+    "ernst_van_s2": "High. The look is described as 'scary' and 'piercing'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. While it uses 'family' and 'example' language, it anchors the human ability to act entirely in the prior, unilateral action of Christ's gaze and sacrifice.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism (Foot washing)",
+        "tekstueel_bewijs": "I have given you an example, that you also should do as I have done.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (God as Actor)",
+        "tekstueel_bewijs": "The judge himself... is taking the judgment upon himself.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "archetypal unmasking of the guilty human being",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Peter is used as an example of failure, and Jesus' foot washing as an example of service, but both are subordinated to the 'Look' that saves.",
+      "bijbelse_figuren_als_model": [
+        "Peter (as failure)",
+        "Jesus (as servant)"
+      ],
+      "alternatieve_lezing": "The sermon already provides this: Peter is not a model to follow, but a recipient of a grace he could not produce."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief through the collapse of self-justification.",
+      "theologische_implicatie": "Monergistic sanctification (God starts the rehabilitation)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'Look' (Soteriology) to 'Family Forgiveness' (Ethics) is well-integrated.",
+      "spanning_punten": [
+        "The comparison between the Father's look and the earthly father's look risks domesticating the divine gaze."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "The judge himself... is taking the judgment upon himself.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The gaze itself acts as the endowment of competence."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; described as a 'fraud' that requires a 'two-edged sword' to pierce."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative program. The 'Look' is the engine of the story.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Divine) vs Non-Pouvoir (Human).",
+      "voorgestelde_balans": "Maintain as is; this is the 'Grammar of Grace'.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Opponent (Sin/Denial) is sufficiently heavy.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "voorgestelde_structuur": "Soteriology (The Look) → Ethics (Family Forgiveness)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in keeping God as the Subject while dealing honestly with human failure."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'family' metaphor; Greimas reveals that the 'family' is actually the Receiver of a unilateral Divine act.",
+    "verschil_met_exegese": "Exegesis explains Peter's denial; Greimas explains the functional 'rehabilitation' of the human actant by the Divine actant.",
+    "unieke_inzichten_greimas": "Reveals that the 'Look' is not just a detail, but the 'Subject's weapon' against the 'Opponent' (Denial)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "The Lord turned",
+      "The Lord looked",
+      "Jesus washes",
+      "The judge takes",
+      "The look penetrates"
+    ],
+    "volledige_object_lijst": [
+      "Peter",
+      "Salvation",
+      "Rehabilitation",
+      "Remission of sin"
+    ],
+    "werkwoord_frequentie": {
+      "look": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "save": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses Rutledge's 'Grammar of Grace' effectively by making the 'Look' the active force."
+  }
+}

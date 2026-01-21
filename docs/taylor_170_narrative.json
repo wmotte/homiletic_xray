@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "titel_preek": "Rumor Of Life",
+    "bijbeltekst": "Ecclesiastes 12; Luke 24; Matthew 28",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The universal human intuition of life after death (the 'rumor') is validated and transformed into historical certainty through the resurrection of Jesus.",
+      "subject": {
+        "identificatie": "God / Jesus (The Risen Lord)",
+        "tekstueel_bewijs": [
+          "One who had died was no longer dead",
+          "He is risen",
+          "God took him",
+          "Christ is Lord indeed"
+        ],
+        "frequentie_score": 7
+      },
+      "object": {
+        "identificatie": "Victory over Death / Confirmation of Hope",
+        "tekstueel_bewijs": [
+          "The word of life",
+          "Death's ultimate power is vanquished",
+          "The grandest news the world has ever heard"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God / The Creator",
+        "tekstueel_bewijs": [
+          "Remember our Creator",
+          "If God be God and truth be truth"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "All Humanity (The Hearer)",
+        "tekstueel_bewijs": [
+          "In this rumor of life we all have a stake",
+          "We have now a hope in Jesus"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Women / The Disciples / Nature / Cultural Traditions",
+        "tekstueel_bewijs": [
+          "some women brought to those who mourned",
+          "Plants and flowers repeat the rumor",
+          "Philosophy, religion, and ethics bring their testimony"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (The Rumor)"
+      },
+      "tegenstander": {
+        "identificatie": "Death / Decay / Injustice / Cynicism",
+        "tekstueel_bewijs": [
+          "The grave which lies at the end of the road",
+          "The grasshopper shall be a burden",
+          "Sneer with the cynic"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is presented as an inescapable, biological, and ontological reality that affects all of creation, requiring a divine intervention."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical struggle for justice and decent living as a response to the hope of immortality.",
+      "subject": "The Believer / Christian People",
+      "object": "Justice / Decent Lives / Education",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Ethical action is presented as a 'prostitution' if it replaces hope, but a necessary fruit of believing that humans are immortal souls."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Resurrection/Life → Humanity",
+      "helper_subject_tegenstander": "The Women/Nature → Jesus/God ← Death/Decay",
+      "subject_naar_object": "Jesus → Vanquishing Death"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 58,
+      "ratio": "0.72",
+      "voorbeelden_god_subject": [
+        "God took him",
+        "He is risen",
+        "Christ is Lord indeed",
+        "The Lord lives"
+      ],
+      "voorbeelden_mens_subject": [
+        "We never halt till we stumble into the grave",
+        "The American Indians placed arrowheads",
+        "We must fight for what is right"
+      ],
+      "rutledge_score": 8
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Fight for what is right we must",
+          "Remember our Creator"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "The notion of life being stronger than death is an old one",
+          "We all wonder if this be all"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "I know that my redeemer liveth",
+          "The rumor had not passed beyond hearsay"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "Death's ultimate power is vanquished",
+          "He is risen",
+          "One who had died was no longer dead"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' (Pouvoir) of God to overcome the 'Inability' of man facing death. It is a sermon of divine capability."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Resurrection (Life)",
+      "s2": "The Grave (Death)",
+      "niet_s1": "The Rumor (Hearsay/Idle Tale)",
+      "niet_s2": "The 'Not Yet' (Injustice/Infirmity)"
+    },
+    "beweging_in_preek": "From ~S1 (Rumor) through S2 (The reality of the grave/Ecclesiastes) to S1 (The Fact of Resurrection).",
+    "theologische_resolutie": "The tension between the 'Rumor' and the 'Grave' is resolved by the historical 'Actuality' of the Risen Christ.",
+    "ernst_van_s2": "High. The description of physical decay in Ecclesiastes 12 is given significant weight."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is fundamentally theocentric. While it acknowledges human effort, the 'engine' of the story is God's action in the resurrection, which humans merely receive and witness.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism in ethics",
+        "tekstueel_bewijs": "Christian people are far and away ahead in trying to live decent lives... set good examples",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of the Resurrection",
+        "tekstueel_bewijs": "He is risen... God took him",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Human as passive receiver of life",
+        "tekstueel_bewijs": "The grandest news... is now confirmed by the risen Lord",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures like Job or the women are witnesses/receivers, not models of performance.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The women are messengers of an act they did not perform."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Comfort and hope in the face of mortality.",
+      "theologische_implicatie": "Soteriology is monergistic; God acts, man hears and believes."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The transition from the 'universal rumor' to the 'specific gospel' is logically and narratively sound.",
+      "spanning_punten": [
+        "The shift from the 'decent lives' of Christians back to the 'helplessness' of the dying man."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Death's ultimate power is vanquished",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The 'word' or 'rumor' acts as the external means of grace."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Death is the primary 'opponent' rather than personal guilt."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God/Christ as the Subject of the primary salvific action. The hearer is correctly positioned as the Receiver of a 'rumor' that becomes 'fact'.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Devoir (Must) in the middle section regarding justice.",
+      "voorgestelde_balans": "Ensure the 'Must' of justice is clearly rooted in the 'Can' of the Resurrection.",
+      "concrete_suggestie": "Explicitly state that we fight for justice *because* the Risen Christ has already claimed the world."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly portrayed through the imagery of Ecclesiastes.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The 'Heavy Opponent' (Death) makes the 'Subject' (Christ) necessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "voorgestelde_structuur": "N/A"
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of a theocentric sermon that uses human experience as a bridge to divine action without falling into moralism."
+  },
+  "comparatiele_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the evocative imagery of the 'grasshopper'; Greimassian analysis shows this imagery serves to establish the 'Opponent' (Death) to necessitate the 'Subject' (Christ).",
+    "verschil_met_exegese": "Exegesis would focus on the meaning of Ecclesiastes 12; this analysis focuses on how the preacher uses that text to move the hearer from 'Subject of their own life' to 'Receiver of God's life'.",
+    "unieke_inzichten_greimas": "Reveals that the 'Rumor' functions as a 'Helper' that prepares the 'Receiver' for the 'Object' (Resurrection)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God took him",
+      "He is risen",
+      "The Lord lives",
+      "Christ is Lord",
+      "We stumble",
+      "Women brought",
+      "Indians placed"
+    ],
+    "volledige_object_lijst": [
+      "Word of life",
+      "Resurrection",
+      "Justice",
+      "Hope",
+      "Rumor"
+    ],
+    "werkwoord_frequentie": {
+      "risen": {
+        "count": 8,
+        "primair_subject": "God/Jesus"
+      },
+      "buried": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "lives": {
+        "count": 4,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses a 'Subject-Switch' where the human subject (trying to live/burying dead) is replaced by the Divine Subject (raising the dead) at the climax."
+  }
+}

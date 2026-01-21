@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "titel_preek": "Clint’s Got It",
+    "bijbeltekst": "Romans 11:32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explores the uniqueness of the Christian concept of universal disobedience and mercy using cultural touchstones (Clint Eastwood, Shakespeare, Schindler's List) and Pauline theology.",
+      "exegetische_kwaliteit": "Strong focus on the 'radical' nature of Romans 11:32, though it functions more as a thematic exploration than a verse-by-verse exposition.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the reality of human sinfulness to prepare for a declaration of mercy.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I have yet another theme in mind.",
+        "That is a uniquely Christian idea.",
+        "We are speaking today of an important point of difference."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To lead the hearer to a state of 'happy' relief through the admission of guilt.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly mentioned as the agent of the word's effect.",
+      "perlocutionaire_werkwoorden": [
+        "relieve",
+        "liberate",
+        "humble",
+        "comfort"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 82,
+      "procent": "70%",
+      "voorbeelden": [
+        "There is no distinction.",
+        "This motif pops up in the most unlikely places.",
+        "It can’t be said too often that this puts 'religion' out of business."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "find",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": 8,
+      "procent": "7%",
+      "voorbeelden": [
+        "Take, for example...",
+        "Take to heart this great text!",
+        "I urge you to get the book."
+      ],
+      "dominante_werkwoorden": [
+        "take",
+        "urge",
+        "look"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": 12,
+      "procent": "10%",
+      "voorbeelden": [
+        "I have been meditating upon it for many years.",
+        "I am pretty certain about this.",
+        "I think it is our Christian duty."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "meditate",
+        "know"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "3%",
+      "voorbeelden": [
+        "God has consigned all men... that he may have mercy upon all."
+      ],
+      "dominante_werkwoorden": [
+        "may have",
+        "offers"
+      ],
+      "kwaliteit": "The promises are largely quoted from Scripture rather than directly uttered by the preacher to the congregation."
+    },
+    "declaratieven": {
+      "frequentie": 10,
+      "procent": "10%",
+      "voorbeelden": [
+        "Thou wilt be condemned into everlasting redemption!",
+        "You and I... are 'condemned into everlasting redemption.'",
+        "There is nothing else... like this declaration of freedom."
+      ],
+      "dominante_werkwoorden": [
+        "condemn",
+        "pardon",
+        "liberate"
+      ],
+      "autoriteit": "Moderate; the preacher uses literary quotes to mediate the declaration rather than direct 'I' language."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of movie and literary analysis to describe a concept.",
+        "Third-person descriptions of Paul's theology.",
+        "Talking about the 'uniqueness' of the idea rather than enacting the idea."
+      ],
+      "effect_op_hoorder": "Intellectual agreement with the 'idea' of grace, but potentially lacking the 'event' of being forgiven."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise ('I tell you today...')",
+        "First-person performative verbs"
+      ],
+      "effect_op_hoorder": "The hearer remains an observer of a 'theme' rather than a participant in a 'covenant'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 3,
+      "kwaliteit_toezeggen": "Strongly grounded in the text of Romans, but framed as a 'message' or 'theme' rather than a direct address.",
+      "voorbeelden": [
+        "You and I... are 'condemned into everlasting redemption.'"
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 25,
+        "gebruik": "Preacher's personal reflections and opinions ('I think', 'I have been meditating')."
+      },
+      "tweede_persoon": {
+        "frequentie": 15,
+        "gebruik": "Direct address to the congregation, especially regarding their feelings of inadequacy.",
+        "performatieve_context": "Used well in the diagnosis of the 'righteous' person's fear."
+      },
+      "derde_persoon": {
+        "frequentie": 60,
+        "gebruik": "Discussing Clint Eastwood, Oskar Schindler, Paul, and 'theologians'.",
+        "distantie_effect": "Creates a lecture-like atmosphere for the first two-thirds of the sermon."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical and cinematic examples."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "General theological truths about the nature of Christianity."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The 'now' of the congregation's liberation."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon moves from the Assertive (we are all sinners) to the Declarative (we are condemned to redemption) to the Directive (be happy/reconcile).",
+      "voorbeelden": [
+        "We all have it coming (Assertive) -> You are condemned into redemption (Declarative) -> Happy is the family where forgiveness is offered (Directive)."
+      ],
+      "kwaliteit": "The movement is correct, but the Declarative section is brief compared to the Assertive buildup."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Freedom from condemnation... not on account of our deserving, but on account of God's mercy."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a masterful 'talking about' the gospel that breaks into a 'proclamation of' the gospel in the final third. It uses culture to illustrate a theological truth (Assertive) before applying it to the soul (Declarative).",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Depth",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "God has consigned all men to disobedience that he may have mercy upon all.",
+        "effect": "Establishes a solid, non-moralistic foundation."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Take, for example, the Clint Eastwood movie...",
+        "probleem": "Spends significant time on illustration rather than the act of preaching.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 7,
+    "gebeuren_toelichting": "The sermon becomes an event when it moves from 'Clint's idea' to 'Your redemption'.",
+    "sacramentele_kracht": 6,
+    "sacramentele_toelichting": "The authority is somewhat diffused through literary characters (Dogberry, Clint) rather than the preacher speaking as a mandatory of Christ."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, through the 'declaration of freedom'.",
+      "prediker_als_mandataris": "The preacher acts as a witness to a 'theme' more than a herald of a King.",
+      "tekstueel_bewijs": [
+        "The role of the church is to stand forward and take the first place in line."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The preacher assumes the 'liberating message' will naturally free the hearer.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, in the final section where the word 'condemns' the hearer to life.",
+      "epifanisch_taalgebruik": "Yes, the phrase 'condemned into everlasting redemption' is epiphanic.",
+      "tekstueel_bewijs": [
+        "There is nothing else in all the world like this declaration of freedom."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is' (descriptive) to 'gives/declares' (performative).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "That is a uniquely Christian idea.",
+          "voorgestelde_revisie": "This Word of God strikes us all down today so that it may raise us all up.",
+          "verschil": "Moves from an intellectual observation to a present-tense encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often attributed to 'the text' or 'the theme' rather than being spoken directly to the 'you'.",
+      "suggestie": "Use more direct commissives.",
+      "voorbeeldzinnen": [
+        "In Christ's name, I declare to you: you are free."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' (Schindler, Clint, Paul) and not enough 'you'.",
+      "suggestie": "Shorten the illustrations to increase the time spent in direct address.",
+      "voorbeeldzinnen": [
+        "You, sitting in this pew, have it coming—and God gives you mercy anyway."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually quite good; the imperatives are well-grounded in the indicative of mercy.",
+      "suggestie": "Maintain this gospel-centered structure."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A brilliant theological essay that successfully transitions into a sermon. To reach 'Sacramental' status, reduce the 'talking about' the movie and increase the 'doing' of the word."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about meditating for years; SAT focuses on the 'Declarative' power of the word to change the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetoric would praise the clever use of Clint Eastwood; SAT asks if the 'Promise' (Commissive) was actually delivered.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power isn't in the 'Clint' analogy, but in the shift to the 2nd person 'You are condemned to redemption'—the moment the illocutionary force changes from Assertive to Declarative."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "remains",
+        "pops up",
+        "contains",
+        "says",
+        "means"
+      ],
+      "directief": [
+        "take",
+        "urge",
+        "look",
+        "ask"
+      ],
+      "expressieven": [
+        "think",
+        "meditate",
+        "know",
+        "feel"
+      ],
+      "commissief": [
+        "offers",
+        "promises (implied)",
+        "may have"
+      ],
+      "declaratief": [
+        "condemn",
+        "pardon",
+        "liberate",
+        "free"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "We all have it coming.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "Excellent diagnostic of the human condition."
+      },
+      {
+        "zin": "Thou wilt be condemned into everlasting redemption!",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Supreme",
+        "effectiviteit": "The sacramental heart of the sermon."
+      }
+    ],
+    "notities": "The sermon relies heavily on 'borrowed' performativity (Shakespeare/Eastwood) to do the heavy lifting."
+  }
+}

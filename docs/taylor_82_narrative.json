@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Prayer Of Thanksgiving",
+    "bijbeltekst": "Habakkuk 3:2",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from the 'Monday-morning side of resurrection' into the 'middle years' of suffering and social decay, where the believer seeks a manifestation of God's power to endure.",
+      "subject": {
+        "identificatie": "God (as the ultimate restorer) and the Believer (as the one praying/wrestling).",
+        "tekstueel_bewijs": [
+          "O Lord, revive thy work",
+          "God said 'yes' on Sunday morning",
+          "He will give his angels charge over you"
+        ],
+        "frequentie_score": "7"
+      },
+      "object": {
+        "identificatie": "Revival/Strength/Theodicy (Making God's ways intelligible and His power felt).",
+        "tekstueel_bewijs": [
+          "make known thy power",
+          "renew my strength",
+          "make God's doings intelligible"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Minor Prophets / Salvation History (The Cross and Resurrection).",
+        "tekstueel_bewijs": [
+          "We have the pivotal events of our salvation history upon which our faith is founded"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The Black Community / The Suffering Individual.",
+        "tekstueel_bewijs": [
+          "rescue us from despair",
+          "deliver us from fear"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / Faith / The 'Yes' of Resurrection.",
+        "tekstueel_bewijs": [
+          "his spirit will cover the earth",
+          "the just shall live by faith"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Evil, Apartheid, Social Decay (Single-parent families, prison rates), and Death.",
+        "tekstueel_bewijs": [
+          "the last enemy to be destroyed is death",
+          "the entrenchments of evil",
+          "the grim outlook before us"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but systemic injustice and the ontological reality of death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Ethical and financial obligations of the believer as a response to God's law.",
+      "subject": "The Hearer",
+      "object": "Justice, Mercy, Tithes",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher establishes the 'obligation' (Micah/Malachi) but pivots to the 'necessity of grace' (Habakkuk) when human strength fails."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Salvation History → Revival/Strength → The Suffering Church",
+      "helper_subject_tegenstander": "Resurrection Power → God ← Cosmic Evil/Social Decay",
+      "subject_naar_object": "God → Reviving His Work"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "38",
+      "ratio": "1.1",
+      "voorbeelden_god_subject": [
+        "God said 'yes' on Sunday morning.",
+        "He will give his angels charge over you.",
+        "The Lord shall renew their strength."
+      ],
+      "voorbeelden_mens_subject": [
+        "We marched towards the building.",
+        "I realized it was a mistake.",
+        "We have no choice except to trust."
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "What doth the Lord require of thee",
+          "our monetary duty"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "we have a vision of a world that might be"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "making God's doings intelligible"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "What is there to do when our own strength gives out?",
+          "He is able to stop it",
+          "give us strength"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon moves from Devoir (obligation) to a crisis of Pouvoir (inability), concluding that only God possesses the Pouvoir-faire to revive the work."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Resurrection/Yes",
+      "s2": "Friday/No/Death",
+      "niet_s1": "Despair/Middle Years",
+      "niet_s2": "Faith/Trust"
+    },
+    "beweging_in_preek": "From S2 (Friday) to S1 (Sunday), then acknowledging the tension of ~S1 (the middle years) and calling for a return to S1.",
+    "theologische_resolutie": "The 'Yes' of God in the Resurrection overrides the 'No' of human evil.",
+    "ernst_van_s2": "High; the preacher explicitly names systemic racism and social collapse."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon begins with moral requirements, it centers on human exhaustion and the necessity of God as the primary actor who 'revives' and 'stands by'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Fiscal/Monetary Duty focus",
+        "tekstueel_bewijs": "our monetary duty, our fiscal duty, our financial obligation to God",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch to God in crisis",
+        "tekstueel_bewijs": "What is there to do when our own strength gives out? ... ask him to give you strength.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Martin Luther King Jr. and Clarence Darrow are used, but primarily to show the 'residue' of faith or the weight of the struggle rather than simple 'be like them' moralism.",
+      "bijbelse_figuren_als_model": [
+        "Hosea",
+        "Amos",
+        "Habakkuk"
+      ],
+      "alternatieve_lezing": "Habakkuk is not a hero of faith but a 'wrestler' who receives God's answer."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and empowerment through dependence.",
+      "theologische_implicatie": "Monergistic revival; God must act for the church to survive."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'Minor Prophets' as law-givers to Habakkuk as the seeker of grace is masterfully handled.",
+      "spanning_punten": [
+        "The tension between 'we have no choice but to trust' (obligation) and 'when strength gives out' (inability)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "the last enemy to be destroyed is death... he shall reign forever",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of Pouvoir (strength) to the weary."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Severe; sin is seen in systemic apartheid and the 'sinister coalition' of Calvary."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully shifts the Subject role from the 'marching' church to the 'reviving' God.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "Maintain God as the subject of 'revive' and 'renew'.",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "The 'bruised and bleeding' receiver.",
+      "strategie": "Continue using the 'middle years' metaphor."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Devoir in the introduction.",
+      "voorgestelde_balans": "Ensure the 'tithe' and 'justice' requirements are explicitly grounded in the 'revival' power.",
+      "concrete_suggestie": "Link the ability to 'do justly' directly to the 'renewed strength' of the conclusion."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly identified as systemic and cosmic.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon already avoids trivializing evil."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The opening lists duties (Micah/Malachi) before the Gospel (Habakkuk/Romans).",
+      "voorgestelde_structuur": "Soteriology (God's 'Yes') → Ethics (Our 'Walk')."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful example of theocentric preaching that takes social reality seriously while keeping God as the primary Actant."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'middle years' metaphor, Greimas reveals that the 'middle years' is actually a state of modal incompetence (lack of Pouvoir).",
+    "verschil_met_exegese": "Exegesis explains Habakkuk's context; semiotics explains how the preacher uses Habakkuk to re-assign the role of 'Hero' from the listener to God.",
+    "unieke_inzichten_greimas": "The 'Subject-Switch' at the point of exhaustion is the structural engine of the sermon's grace-orientation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (revive)",
+      "God (make known)",
+      "God (said 'yes')",
+      "We (have no choice)",
+      "Strength (gives out)"
+    ],
+    "volledige_object_lijst": [
+      "Revival",
+      "Strength",
+      "Justice",
+      "The Kingdom"
+    ],
+    "werkwoord_frequentie": {
+      "revive": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "triumph": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notnotes": "The sermon uses the 'Minor Prophets' as a foil to move from Law to Gospel."
+  }
+}
