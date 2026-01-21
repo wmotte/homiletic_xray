@@ -793,6 +793,36 @@ These correspond to Orthodoxy (Logos), Orthopathy (Pathos), and Orthopraxy (Etho
 
 It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemish, etc.), and maps the Drama Triangle (Rescuer, Persecutor, Victim). The goal: game-free, Adult-Adult communication.`,
             link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_transactional.md'
+        },
+        'speech_act': {
+            text: `Speech Act Theory (Austin/Searle) analyzes the sermon as a performative event. It distinguishes:
+
+• **Locution** – What is said (exegetical content)
+• **Illocution** – What is done in saying it (asserting, promising, commanding)
+• **Perlocution** – What effect is achieved (conviction, comfort, action)
+
+The analysis evaluates the balance between constative (descriptive) and performative (event-creating) speech, and checks for genuine Gospel promises.`,
+            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_speech_act.md'
+        },
+        'metaphor': {
+            text: `Conceptual Metaphor Theory (Lakoff/Johnson) analyzes the metaphorical structure of sermons:
+
+• **Source Domains** – Concrete experiential domains (journey, building, family)
+• **Target Domains** – Abstract theological concepts (salvation, church, God)
+• **Mappings** – Systematic correspondences between source and target
+
+The analysis evaluates metaphor coherence, vitality (dead vs. living metaphors), and theological implications of metaphorical reasoning.`,
+            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_metaphor.md'
+        },
+        'narrative': {
+            text: `Narrative Semiotics (Greimas) analyzes the deep narrative structure of sermons:
+
+• **Actantial Model** – Subject, Object, Sender, Receiver, Helper, Opponent
+• **Semiotic Square** – S1/S2 oppositions and their negations
+• **Modal Analysis** – Devoir (must), Vouloir (will), Savoir (know), Pouvoir (can)
+
+The Rutledge Score measures whether God or humans are the grammatical subject of salvation verbs, distinguishing grace-centered from moralistic preaching.`,
+            link: 'https://github.com/wmotte/homiletic_feedback/blob/main/prompts/analyze_narrative.md'
         }
     };
 
@@ -841,8 +871,10 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
     }
 
     async function discoverJSONFiles(forceRefresh = false) {
-        const CACHE_KEY = 'homiletic_files_cache';
-        const CACHE_TIMESTAMP_KEY = 'homiletic_files_cache_timestamp';
+        // Version 2: Added speech_act, metaphor, narrative analysis types
+        const CACHE_VERSION = 'v2';
+        const CACHE_KEY = `homiletic_files_cache_${CACHE_VERSION}`;
+        const CACHE_TIMESTAMP_KEY = `homiletic_files_cache_timestamp_${CACHE_VERSION}`;
         const CACHE_DURATION = 5 * 60 * 1000; // 5 minutes
 
         // Try to load from cache first (unless forcing refresh)
@@ -974,7 +1006,7 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
             const theologian = parts[0];
 
             // Known analysis types (including multi-part ones)
-            const KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek', 'transactional'];
+            const KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek', 'transactional', 'speech_act', 'metaphor', 'narrative'];
 
             // Find where the analysis type starts by looking for known analysis types
             let analysisStartIdx = null;
@@ -1081,7 +1113,10 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
                 'esthetiek': 'Esthetics',
                 'kolb': 'Kolb Cycle',
                 'schulz_von_thun': 'Schulz von Thun',
-                'transactional': 'Transactional Analysis'
+                'transactional': 'Transactional Analysis',
+                'speech_act': 'Speech Act Theory',
+                'metaphor': 'Conceptual Metaphor',
+                'narrative': 'Narrative Semiotics'
             };
 
             Array.from(availableFiles.analyses[key]).sort().forEach(analysis => {
@@ -1171,6 +1206,9 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
             else if (type === 'schulz_von_thun') renderSchulz(data, container);
             else if (type === 'esthetiek') renderEsthetiek(data, container);
             else if (type === 'transactional') renderTransactional(data, container);
+            else if (type === 'speech_act') renderSpeechAct(data, container);
+            else if (type === 'metaphor') renderMetaphor(data, container);
+            else if (type === 'narrative') renderNarrative(data, container);
         } catch (e) {
             console.error(e);
             container.innerHTML = '<div class="card full-width">Rendering error. Ensure the uploaded JSON matches the selected model.</div>';
@@ -1630,6 +1668,436 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
         container.innerHTML = html;
     }
 
+    function renderSpeechAct(data, container) {
+        const meta = data.metadata || {};
+        const diagnose = data.constatief_performatief_diagnose || {};
+        const eval_data = data.diagnostische_evaluatie || {};
+        const werkwoord = data.werkwoord_analyse || {};
+        const structuur = data.drievoudige_structuur_analyse || {};
+        const aanbev = data.aanbevelingen || {};
+
+        const classificatie = diagnose.primaire_classificatie || 'Unknown';
+        const gebeuren = eval_data.gebeuren_score || 0;
+        const sacramenteel = eval_data.sacramentele_kracht || 0;
+        const gebeurenClass = gebeuren >= 7 ? 'score-high' : gebeuren >= 4 ? 'score-mid' : 'score-low';
+        const sacramenteelClass = sacramenteel >= 7 ? 'score-high' : sacramenteel >= 4 ? 'score-mid' : 'score-low';
+
+        let html = `<div class="card full-width">
+            <div class="card-header">
+                <span class="card-title">💬 Speech Act Theory (Austin/Searle)</span>
+                <span class="score-badge ${classificatie.includes('PERFORMATIEF') ? 'score-high' : classificatie.includes('SURPLUS') ? 'score-low' : 'score-mid'}">${classificatie}</span>
+            </div>
+            <div class="text-content">
+                <p><strong>Constative:</strong> ${diagnose.constatief_percentage || '?'}% | <strong>Performative:</strong> ${diagnose.performatief_percentage || '?'}%</p>
+                <div style="font-family: var(--font-mono); font-size: 0.85rem; background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.75rem;">
+                    <strong>⚡ Event Score:</strong> ${'█'.repeat(gebeuren) + '░'.repeat(10 - gebeuren)} <span class="score-badge ${gebeurenClass}" style="font-size: 0.75rem; padding: 0.15rem 0.5rem;">${gebeuren}/10</span><br>
+                    <strong>🕊️ Sacramental:</strong> ${'█'.repeat(sacramenteel) + '░'.repeat(10 - sacramenteel)} <span class="score-badge ${sacramenteelClass}" style="font-size: 0.75rem; padding: 0.15rem 0.5rem;">${sacramenteel}/10</span>
+                </div>
+            </div>
+        </div>`;
+
+        // Werkwoord Analyse (Searle's Taxonomy)
+        const categories = [
+            {key: 'assertieven', label: 'Assertives (Constative)', emoji: '📖'},
+            {key: 'directieven', label: 'Directives (Imperative)', emoji: '➡️'},
+            {key: 'expressieven', label: 'Expressives', emoji: '❤️'},
+            {key: 'commissieven', label: 'Commissives (Promise)', emoji: '🤝'},
+            {key: 'declaratieven', label: 'Declaratives (Creative)', emoji: '✨'}
+        ];
+
+        let werkwoordHTML = '';
+        categories.forEach(cat => {
+            const catData = werkwoord[cat.key] || {};
+            const freq = catData.frequentie || 0;
+            const pct = catData.procent || '0%';
+            const examples = catData.voorbeelden || [];
+
+            werkwoordHTML += `
+                <div style="margin-bottom: 0.75rem; background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <strong>${cat.emoji} ${cat.label}</strong>
+                        <span style="font-family: var(--font-mono); font-weight: bold; color: var(--primary-color);">${freq} (${pct})</span>
+                    </div>
+                    ${examples.length > 0 ? `<p style="font-size: 0.8rem; color: var(--text-muted); margin: 0.4rem 0 0 0; font-style: italic;">"${formatText(examples[0])}"</p>` : ''}
+                </div>`;
+        });
+
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Speech Act Analysis (Searle)</span></div>
+            <div class="text-content">${werkwoordHTML}</div>
+        </div>`;
+
+        // Threefold Structure (Austin)
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Threefold Structure (Austin)</span></div>
+            <div class="text-content">
+                <div style="margin-bottom: 1rem;">
+                    <strong>Locution:</strong>
+                    <p style="font-size: 0.85rem; margin: 0.5rem 0;">${formatText(structuur.locutie?.beschrijving || '')}</p>
+                    <p style="font-size: 0.8rem; color: var(--text-muted);">Extent: ${structuur.locutie?.omvang_procent || '?'}% | Exegetical Quality: ${structuur.locutie?.exegetische_kwaliteit || '?'}</p>
+                </div>
+                <div style="margin-bottom: 1rem;">
+                    <strong>Illocution (Primary Force):</strong>
+                    <p style="font-size: 0.85rem; margin: 0.5rem 0;">${formatText(structuur.illocutie?.beschrijving || '')}</p>
+                    <p style="font-size: 0.8rem; color: var(--primary-color);">Force: ${structuur.illocutie?.primaire_kracht || '?'} | Clarity: ${structuur.illocutie?.helderheid_score || '?'}/10</p>
+                </div>
+                <div>
+                    <strong>Perlocution (Intended Effect):</strong>
+                    <p style="font-size: 0.85rem; margin: 0.5rem 0;">${formatText(structuur.perlocutie?.beoogd_effect || '')}</p>
+                </div>
+            </div>
+        </div>`;
+
+        // Promise Check
+        const toezeg = diagnose.toezegging_check || {};
+        const toezegAanwezig = toezeg.toezegging_aanwezig || false;
+
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Promise Check</span></div>
+            <div class="text-content">
+                <div style="padding: 0.75rem; border-radius: 6px; border-left: 3px solid ${toezegAanwezig ? 'var(--success-color)' : 'var(--danger-color)'}; background: var(--bg-element);">
+                    <strong style="color: ${toezegAanwezig ? 'var(--success-color)' : 'var(--danger-color)'};">
+                        ${toezegAanwezig ? '✅ Promises Present' : '❌ Promises Absent'}
+                    </strong>
+                    ${toezegAanwezig ? `<p style="margin: 0.5rem 0 0 0;">Count: ${toezeg.aantal_toezeggen || 0}</p>` : ''}
+                    <p style="font-size: 0.85rem; margin: 0.5rem 0 0 0;">${formatText(toezeg.kwaliteit_toezeggen || '')}</p>
+                </div>
+            </div>
+        </div>`;
+
+        // Recommendations
+        const perfIntens = aanbev.performatieve_intensivering || {};
+        let suggestiesHTML = '';
+        if (perfIntens.specifieke_suggesties && perfIntens.specifieke_suggesties.length > 0) {
+            suggestiesHTML = '<h4 style="margin-top: 1rem;">Suggested Revisions:</h4>';
+            perfIntens.specifieke_suggesties.forEach(sug => {
+                suggestiesHTML += `
+                    <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-bottom: 0.75rem;">
+                        <p style="margin: 0 0 0.5rem 0;"><strong>Current:</strong> "${formatText(sug.huidige_formulering)}"</p>
+                        <p style="margin: 0; color: var(--success-color);"><strong>Proposed:</strong> "${formatText(sug.voorgestelde_revisie)}"</p>
+                        <p style="margin: 0.5rem 0 0 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">${formatText(sug.verschil)}</p>
+                    </div>`;
+            });
+        }
+
+        html += `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Recommendations</span><span class="score-badge ${aanbev.overall_beoordeling === 'EXCELLENT' ? 'score-high' : 'score-mid'}">${aanbev.overall_beoordeling || 'N/A'}</span></div>
+            <div class="text-content">
+                <p><strong>Verb Audit:</strong> ${formatText(aanbev.werkwoord_audit_samenvatting || '')}</p>
+                ${suggestiesHTML}
+                <div class="advice-box">👉 ${formatText(aanbev.slotopmerking || '')}</div>
+            </div>
+        </div>`;
+
+        container.innerHTML = html;
+    }
+
+    function renderMetaphor(data, container) {
+        const meta = data.metadata || {};
+        const primair = data.primaire_analyse || {};
+        const diag = data.diagnostische_evaluatie || {};
+        const aanbev = data.aanbevelingen || {};
+
+        const overall = aanbev.overall_beoordeling || 'Unknown';
+        const coherentie = diag.coherentie_analyse?.overall_coherentie || 'Unknown';
+
+        let html = `<div class="card full-width">
+            <div class="card-header">
+                <span class="card-title">🧠 Conceptual Metaphor Theory (Lakoff/Johnson)</span>
+                <span class="score-badge ${overall === 'EXCELLENT' ? 'score-high' : overall.includes('GOED') ? 'score-mid' : 'score-low'}">${overall}</span>
+            </div>
+            <div class="text-content">
+                <p><strong>Coherence:</strong> ${coherentie}</p>
+                <p>${formatText(diag.coherentie_analyse?.coherentie_verklaring || '')}</p>
+            </div>
+        </div>`;
+
+        // Dominant Domains
+        const domeinen = primair.dominante_domeinen || [];
+        let domeinenHTML = '';
+        domeinen.forEach(domein => {
+            const score = parseInt(domein.prominentie_score) || 0;
+            const scoreClass = score >= 8 ? 'score-high' : score >= 5 ? 'score-mid' : 'score-low';
+            domeinenHTML += `
+                <div style="margin-bottom: 0.75rem; background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.4rem;">
+                        <strong>${domein.domein_type}</strong>
+                        <span class="score-badge ${scoreClass}" style="font-size: 0.75rem; padding: 0.15rem 0.5rem;">${score}/10</span>
+                    </div>
+                    <p style="font-size: 0.85rem; font-style: italic; margin: 0.4rem 0;">${formatText(domein.conceptuele_metafoor || '')}</p>
+                    <p style="font-size: 0.8rem; color: var(--text-muted); margin: 0;">Key phrases: ${(domein.kernfrasen || []).join(', ')}</p>
+                </div>`;
+        });
+
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Dominant Metaphorical Domains</span></div>
+            <div class="text-content">${domeinenHTML}</div>
+        </div>`;
+
+        // Metaphor Inventory
+        const metaforen = primair.metafoor_inventaris || [];
+        let metafoorHTML = '';
+        metaforen.forEach((meta, idx) => {
+            const vitaliteit = meta.vitaliteit_status || 'UNKNOWN';
+            const vitaliteitColor = vitaliteit === 'LEVEND' || vitaliteit === 'LIVING' ? 'var(--success-color)' : vitaliteit === 'DOOD' || vitaliteit === 'DEAD' ? 'var(--danger-color)' : 'var(--warning-color)';
+
+            let mappingHTML = '';
+            if (meta.mapping_structuur && meta.mapping_structuur.length > 0) {
+                mappingHTML = '<p style="margin: 0.25rem 0; font-size: 0.8rem; color: var(--text-muted);">';
+                mappingHTML += meta.mapping_structuur.map(m => `${formatText(m.bron_element)} → ${formatText(m.doel_element)}`).join('; ');
+                mappingHTML += '</p>';
+            }
+
+            metafoorHTML += `
+                <div style="margin-bottom: 0.75rem; padding-bottom: 0.75rem; ${idx < metaforen.length - 1 ? 'border-bottom: 1px solid var(--border-color);' : ''}">
+                    <p style="font-weight: bold; margin-bottom: 0.25rem; font-size: 0.9rem;">"${formatText(meta.metafoor_expressie)}"</p>
+                    <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Source:</strong> ${formatText(meta.brondomein?.naam || 'Unknown')} → <strong>Target:</strong> ${formatText(meta.doeldomein?.theologisch_concept || 'Unknown')}</p>
+                    ${mappingHTML}
+                    <p style="margin: 0.25rem 0; font-size: 0.8rem; color: ${vitaliteitColor};"><strong>Vitality:</strong> ${vitaliteit} — <span style="font-style: italic; color: var(--text-muted);">${formatText(meta.vitaliteit_toelichting || '')}</span></p>
+                </div>`;
+        });
+
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Metaphor Inventory</span></div>
+            <div class="text-content">${metafoorHTML}</div>
+        </div>`;
+
+        // Strengths and Risks
+        const sterktes = diag.sterktes || [];
+        const risicos = diag.risicos || [];
+
+        let evalHTML = '';
+        if (sterktes.length > 0) {
+            evalHTML += '<h4 style="color: var(--success-color); margin-top: 0;">Strengths</h4>';
+            sterktes.forEach(s => {
+                evalHTML += `<div style="margin-bottom: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid var(--success-color);">
+                    <p style="margin: 0;">${formatText(s.beschrijving)}</p>
+                </div>`;
+            });
+        }
+
+        if (risicos.length > 0) {
+            evalHTML += '<h4 style="color: var(--warning-color); margin-top: 1rem;">Risks</h4>';
+            risicos.forEach(r => {
+                const ernstColor = r.ernst === 'ERNSTIG' || r.ernst === 'SEVERE' ? 'var(--danger-color)' : 'var(--warning-color)';
+                evalHTML += `<div style="margin-bottom: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid ${ernstColor};">
+                    <p style="margin: 0;"><strong>${r.risico_type || 'Risk'}</strong> (${r.ernst}): ${formatText(r.beschrijving)}</p>
+                </div>`;
+            });
+        }
+
+        if (evalHTML) {
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Evaluation</span></div>
+                <div class="text-content">${evalHTML}</div>
+            </div>`;
+        }
+
+        // Recommendations
+        html += `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Recommendations</span></div>
+            <div class="text-content">
+                <p>${formatText(aanbev.metafoor_audit_samenvatting || '')}</p>
+                <div class="advice-box">👉 ${formatText(aanbev.slotopmerking || '')}</div>
+            </div>
+        </div>`;
+
+        container.innerHTML = html;
+    }
+
+    function renderNarrative(data, container) {
+        const meta = data.metadata || {};
+        const actant = data.actantiele_analyse || {};
+        const gramm = data.grammaticale_analyse || {};
+        const diag = data.diagnostische_evaluatie || {};
+        const vierkant = data.semiotisch_vierkant_analyse || {};
+        const theo = data.theologische_diepte_analyse || {};
+        const aanbev = data.aanbevelingen || {};
+
+        const classificatie = diag.primaire_classificatie || 'Unknown';
+        const rutledge = gramm.subject_check?.rutledge_score || 0;
+        const rutledgeClass = rutledge >= 7 ? 'score-high' : rutledge >= 4 ? 'score-mid' : 'score-low';
+
+        let html = `<div class="card full-width">
+            <div class="card-header">
+                <span class="card-title">🎭 Narrative Semiotics (Greimas)</span>
+                <span class="score-badge ${classificatie === 'GENADE' || classificatie === 'GRACE' ? 'score-high' : classificatie === 'MORALISME' || classificatie === 'MORALISM' ? 'score-low' : 'score-mid'}">${classificatie}</span>
+            </div>
+            <div class="text-content">
+                <div style="font-family: var(--font-mono); font-size: 0.85rem; background: var(--bg-element); padding: 0.75rem; border-radius: 6px;">
+                    <strong>Rutledge Score:</strong> ${'█'.repeat(rutledge) + '░'.repeat(10 - rutledge)} <span class="score-badge ${rutledgeClass}" style="font-size: 0.75rem; padding: 0.15rem 0.5rem; margin-left: 0.5rem;">${rutledge}/10</span>
+                </div>
+                <p style="margin-top: 0.75rem;">${formatText(diag.classificatie_toelichting || '')}</p>
+            </div>
+        </div>`;
+
+        // Actantial Model
+        const primair = actant.primair_narratief_programma || {};
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Primary Narrative Program</span></div>
+            <div class="text-content">
+                <p><strong>Description:</strong> ${formatText(primair.beschrijving || '')}</p>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-top: 0.75rem;">
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
+                        <strong style="color: var(--primary-color);">Subject</strong>
+                        <p style="font-size: 0.85rem; margin: 0.4rem 0;">${primair.subject?.identificatie || 'Unknown'}</p>
+                        <p style="font-size: 0.75rem; color: var(--text-muted); margin: 0;">Score: ${primair.subject?.frequentie_score || 0}</p>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
+                        <strong style="color: var(--primary-color);">Object</strong>
+                        <p style="font-size: 0.85rem; margin: 0.4rem 0;">${primair.object?.identificatie || 'Unknown'}</p>
+                        <p style="font-size: 0.75rem; color: var(--text-muted); margin: 0;">${primair.object?.aard_van_object || ''}</p>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
+                        <strong style="color: var(--accent-color);">Sender</strong>
+                        <p style="font-size: 0.85rem; margin: 0.4rem 0;">${primair.zender?.identificatie || 'Unknown'}</p>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
+                        <strong style="color: var(--accent-color);">Receiver</strong>
+                        <p style="font-size: 0.85rem; margin: 0.4rem 0;">${primair.ontvanger?.identificatie || 'Unknown'}</p>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
+                        <strong style="color: var(--success-color);">Helper</strong>
+                        <p style="font-size: 0.85rem; margin: 0.4rem 0;">${primair.helper?.identificatie || 'Unknown'}</p>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
+                        <strong style="color: var(--danger-color);">Opponent</strong>
+                        <p style="font-size: 0.85rem; margin: 0.4rem 0;">${primair.tegenstander?.identificatie || 'Unknown'}</p>
+                        <p style="font-size: 0.75rem; color: var(--text-muted); margin: 0;">${primair.tegenstander?.ernst_tegenstander || ''}</p>
+                    </div>
+                </div>
+            </div>
+        </div>`;
+
+        // Subject Check
+        const subjectCheck = gramm.subject_check || {};
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Subject Check (God vs. Human)</span></div>
+            <div class="text-content">
+                <div style="display: flex; gap: 0.5rem; margin-bottom: 1rem; font-size: 0.9rem;">
+                    <div style="background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; flex: 1;">
+                        <strong>God as subject:</strong> ${subjectCheck.god_als_subject_count || 0}
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; flex: 1;">
+                        <strong>Human as subject:</strong> ${subjectCheck.mens_als_subject_count || 0}
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; flex: 1;">
+                        <strong>Ratio:</strong> ${subjectCheck.ratio || '0'}
+                    </div>
+                </div>
+                <h4 style="margin-top: 1rem;">Examples (God as subject):</h4>
+                <ul class="summary-list">${(subjectCheck.voorbeelden_god_subject || []).map(v => `<li>${formatText(v)}</li>`).join('')}</ul>
+            </div>
+        </div>`;
+
+        // Modal Analysis
+        const modale = gramm.modale_analyse || {};
+        const modaliteiten = [
+            {key: 'devoir_faire', label: 'Devoir (must)', color: 'var(--danger-color)'},
+            {key: 'vouloir_faire', label: 'Vouloir (will)', color: 'var(--warning-color)'},
+            {key: 'savoir_faire', label: 'Savoir (know)', color: 'var(--primary-color)'},
+            {key: 'pouvoir_faire', label: 'Pouvoir (can)', color: 'var(--success-color)'}
+        ];
+
+        let modaleHTML = '';
+        modaliteiten.forEach(mod => {
+            const modData = modale[mod.key] || {};
+            const score = parseInt(modData.prominentie) || 0;
+            const voorbeelden = modData.voorbeelden || [];
+
+            modaleHTML += `
+                <div style="margin-bottom: 0.5rem; background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; border-left: 3px solid ${mod.color};">
+                    <div style="display: flex; justify-content: space-between; align-items: center;">
+                        <span style="font-size: 0.9rem;"><strong>${mod.label}</strong></span>
+                        <span style="font-family: var(--font-mono); font-weight: bold; color: ${mod.color}; font-size: 0.85rem;">${score}/10</span>
+                    </div>
+                    ${voorbeelden.length > 0 ? `<p style="font-size: 0.75rem; color: var(--text-muted); margin: 0.25rem 0 0 0; font-style: italic;">"${formatText(voorbeelden[0])}"</p>` : ''}
+                </div>`;
+        });
+
+        html += `<div class="card">
+            <div class="card-header"><span class="card-title">Modal Analysis (Greimas)</span></div>
+            <div class="text-content">
+                ${modaleHTML}
+                <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.5rem; font-size: 0.9rem;">
+                    <strong>Dominant:</strong> ${modale.dominante_modaliteit || 'Unknown'}
+                    <p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: var(--text-muted);">${formatText(modale.modale_interpretatie || '')}</p>
+                </div>
+            </div>
+        </div>`;
+
+        // Semiotic Square
+        const tegenstelling = vierkant.primaire_tegenstelling || {};
+        html += `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Semiotic Square (Greimas)</span></div>
+            <div class="text-content">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1rem;">
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px; border-left: 3px solid var(--success-color);">
+                        <strong style="color: var(--success-color); font-size: 0.85rem;">S1</strong>
+                        <p style="margin: 0.25rem 0 0 0; font-size: 0.9rem;">${tegenstelling.s1 || ''}</p>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px; border-left: 3px solid var(--danger-color);">
+                        <strong style="color: var(--danger-color); font-size: 0.85rem;">S2</strong>
+                        <p style="margin: 0.25rem 0 0 0; font-size: 0.9rem;">${tegenstelling.s2 || ''}</p>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px; border-left: 3px solid var(--warning-color);">
+                        <strong style="color: var(--warning-color); font-size: 0.85rem;">not-S1</strong>
+                        <p style="margin: 0.25rem 0 0 0; font-size: 0.9rem;">${tegenstelling.niet_s1 || ''}</p>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px; border-left: 3px solid var(--primary-color);">
+                        <strong style="color: var(--primary-color); font-size: 0.85rem;">not-S2</strong>
+                        <p style="margin: 0.25rem 0 0 0; font-size: 0.9rem;">${tegenstelling.niet_s2 || ''}</p>
+                    </div>
+                </div>
+                <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.5rem; font-size: 0.9rem;">
+                    <p style="margin: 0;"><strong>Movement:</strong> ${formatText(vierkant.beweging_in_preek || '')}</p>
+                    <p style="margin: 0.5rem 0 0 0;"><strong>Resolution:</strong> ${formatText(vierkant.theologische_resolutie || '')}</p>
+                </div>
+            </div>
+        </div>`;
+
+        // Indicators
+        const genade = diag.indicatoren_genade || [];
+        const moralisme = diag.indicatoren_moralisme || [];
+
+        let indicatorenHTML = '';
+        if (genade.length > 0) {
+            indicatorenHTML += '<h4 style="color: var(--success-color); margin-top: 0;">Grace Indicators</h4><ul class="summary-list">';
+            genade.forEach(g => {
+                const color = g.sterkte === 'ZEER_STERK' || g.sterkte === 'VERY_STRONG' ? 'var(--success-color)' : 'var(--primary-color)';
+                indicatorenHTML += `<li><strong>${g.indicator}</strong> <span style="color: ${color};">(${g.sterkte})</span>: "${formatText(g.tekstueel_bewijs)}"</li>`;
+            });
+            indicatorenHTML += '</ul>';
+        }
+
+        if (moralisme.length > 0) {
+            indicatorenHTML += '<h4 style="color: var(--warning-color); margin-top: 1rem;">Moralism Indicators</h4><ul class="summary-list">';
+            moralisme.forEach(m => {
+                const color = m.ernst === 'ERNSTIG' || m.ernst === 'SEVERE' ? 'var(--danger-color)' : 'var(--warning-color)';
+                indicatorenHTML += `<li><strong>${m.indicator}</strong> <span style="color: ${color};">(${m.ernst})</span>: "${formatText(m.tekstueel_bewijs)}"</li>`;
+            });
+            indicatorenHTML += '</ul>';
+        }
+
+        if (indicatorenHTML) {
+            html += `<div class="card full-width">
+                <div class="card-header"><span class="card-title">Diagnostic Indicators</span></div>
+                <div class="text-content">${indicatorenHTML}</div>
+            </div>`;
+        }
+
+        // Recommendations
+        html += `<div class="card full-width">
+            <div class="card-header"><span class="card-title">Recommendations</span><span class="score-badge ${aanbev.overall_beoordeling === 'EXCELLENT' || aanbev.overall_beoordeling === 'GENADE' ? 'score-high' : 'score-mid'}">${aanbev.overall_beoordeling || 'N/A'}</span></div>
+            <div class="text-content">
+                <p><strong>Actantial Audit:</strong> ${formatText(aanbev.actantiele_audit_samenvatting || '')}</p>
+                <div class="advice-box">👉 ${formatText(aanbev.slotopmerking || '')}</div>
+            </div>
+        </div>`;
+
+        container.innerHTML = html;
+    }
+
     // --- STATISTICS TAB ---
     let statisticsData = null;  // Precomputed statistics from statistics.json
 
@@ -2004,7 +2472,10 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
             'esthetiek': 'Aesthetic Turn',
             'kolb': 'Kolb Learning Cycle',
             'schulz_von_thun': 'Schulz von Thun',
-            'transactional': 'Transactional Analysis'
+            'transactional': 'Transactional Analysis',
+            'speech_act': 'Speech Act Theory',
+            'metaphor': 'Conceptual Metaphor',
+            'narrative': 'Narrative Semiotics'
         };
 
         let currentAnalysis = null;
@@ -2014,6 +2485,8 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
             let analysisType;
             if (parts[0] === 'schulz' && parts[1] === 'von' && parts[2] === 'thun') {
                 analysisType = 'schulz_von_thun';
+            } else if (parts[0] === 'speech' && parts[1] === 'act') {
+                analysisType = 'speech_act';
             } else {
                 analysisType = parts[0];
             }
@@ -2345,7 +2818,10 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
             'esthetiek': 'Aesthetic Turn',
             'kolb': 'Kolb Learning Cycle',
             'schulz_von_thun': 'Schulz von Thun',
-            'transactional': 'Transactional Analysis'
+            'transactional': 'Transactional Analysis',
+            'speech_act': 'Speech Act Theory',
+            'metaphor': 'Conceptual Metaphor',
+            'narrative': 'Narrative Semiotics'
         };
 
         let currentAnalysis = null;
@@ -2354,6 +2830,8 @@ It also analyzes transaction styles, detects psychological games (NIGYSOB, Blemi
             let analysisType;
             if (parts[0] === 'schulz' && parts[1] === 'von' && parts[2] === 'thun') {
                 analysisType = 'schulz_von_thun';
+            } else if (parts[0] === 'speech' && parts[1] === 'act') {
+                analysisType = 'speech_act';
             } else {
                 analysisType = parts[0];
             }

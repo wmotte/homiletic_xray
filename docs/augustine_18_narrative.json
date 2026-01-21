@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "The Two Roads",
+    "bijbeltekst": "Matthew 7:13–14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The hearer must navigate a treacherous landscape of two paths to secure eternal life and avoid eternal damnation through moral effort and choice.",
+      "subject": {
+        "identificatie": "The Hearer (Man)",
+        "tekstueel_bewijs": [
+          "flee the road to death and choose the road to life",
+          "keep off the broad road",
+          "Bypass the road of drunkenness",
+          "Follow the small number of the just",
+          "Merit eternal life with the few"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Eternal Life / The Heavenly Kingdom",
+        "tekstueel_bewijs": [
+          "so that you may live eternally",
+          "possess the heavenly and eternal kingdom",
+          "merit eternal life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Savior (as Lawgiver/Teacher)",
+        "tekstueel_bewijs": [
+          "the Lord teaches that there are two roads",
+          "our Savior warns",
+          "our Savior is teaching us"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (Self-beneficiary)",
+        "tekstueel_bewijs": [
+          "so that you may live eternally"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Virtues and Diligence",
+        "tekstueel_bewijs": [
+          "faith shows him the way",
+          "alms and charitable deeds",
+          "seek with zeal and good will"
+        ],
+        "rol_van_god": "Absent (God is the goal/judge, not the helper)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Vices, Passions, and the Majority (Society)",
+        "tekstueel_bewijs": [
+          "swarms of people who indulge in vice",
+          "example of the majority",
+          "hordes who gleefully dive into it"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as bad examples and personal lack of discipline rather than an ontological power like Sin or Death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The acquisition of virtues (Alms, Chastity, Faith) as a prerequisite to finding the road.",
+      "subject": "The Hearer",
+      "object": "Virtues/Merit",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The secondary program (ethics) is fused with the primary (salvation), making the ethical life the cause rather than the consequence of salvation."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Savior (Teacher) → Eternal Life → The Hearer",
+      "helper_subject_tegenstander": "Virtues/Zeal → The Hearer ← Vices/The Crowd",
+      "subject_naar_object": "The Hearer → Eternal Life (via Merit)"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 4,
+      "mens_als_subject_count": 28,
+      "ratio": "0.14",
+      "voorbeelden_god_subject": [
+        "the Lord teaches",
+        "our Savior warns",
+        "our Savior lamented"
+      ],
+      "voorbeelden_mens_subject": [
+        "flee the road to death",
+        "choose the road to life",
+        "keep off the broad road",
+        "Merit eternal life",
+        "you must love and faithfully safeguard"
+      ],
+      "rutledge_score": 2
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "you must love and faithfully safeguard",
+          "if you don’t want to perish... flee"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "those who seek with zeal",
+          "ardently desired and sought out"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "the Lord teaches",
+          "the narrow way is concealed"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "Unless you believe, you will not understand"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes the hearer has the inherent power (Pouvoir) to act if they are given the command (Devoir) and the motivation (Vouloir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Life (Eternal)",
+      "s2": "Death (Damnation)",
+      "niet_s1": "Vice/Broad Road",
+      "niet_s2": "Virtue/Narrow Road"
+    },
+    "beweging_in_preek": "The sermon moves from S2 (threat of death) to ~S2 (avoiding vice) to reach S1 (meriting life).",
+    "theologische_resolutie": "Resolution is achieved through human merit and 'equal diligence.'",
+    "ernst_van_s2": "S2 is used as a rhetorical threat to enforce Devoir-faire."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is structurally anthropocentric. The human is the active Subject of salvation, while God is reduced to a Teacher (Sender) and a Rewarder (Object).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Merit-based salvation",
+        "tekstueel_bewijs": "Merit eternal life with the few",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Synergistic conditionality",
+        "tekstueel_bewijs": "if you don’t want to perish... choose the road to life",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Faith as a guide",
+        "tekstueel_bewijs": "faith shows him the way",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The 'just' and the 'few' are used as a collective model to be imitated against the 'multitude.'",
+      "bijbelse_figuren_als_model": [
+        "The 'few' (anonymous)"
+      ],
+      "alternatieve_lezing": "Christ is the only one who walked the narrow road perfectly, and we enter life through union with Him."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Anxiety regarding whether they are 'diligent enough' or 'searching with enough zeal.'",
+      "theologische_implicatie": "Pelagianism; the human will is the decisive factor in salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "The sermon is highly coherent as a moral exhortation but lacks theological integration of the Gospel.",
+      "spanning_punten": [
+        "The quote 'Almsgiving saves one from death' clashes with the biblical role of Christ as Savior."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The Savior teaches and warns, but the hearer performs the escape.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "None; the hearer is assumed to have the competence already."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is a 'road' one can simply choose to 'bypass' through effort."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'manual for self-salvation.' Christ is the narrator, not the protagonist.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'finding,' 'choosing,' and 'meriting.'",
+      "voorgestelde_herpositionering": "Christ is the one who finds the lost and carries them on the narrow road.",
+      "voorbeeld_revisie": "Instead of 'Choose the road to life,' use 'Christ has become the Way for you when you were lost on the broad road.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'diligent seeker.'",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the one who is 'found' by the Shepherd."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive Devoir (Must).",
+      "voorgestelde_balans": "Focus on Pouvoir (Grace as power).",
+      "concrete_suggestie": "Emphasize that we *cannot* find the road, so Christ came to be the Road."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Vices are externalized habits.",
+      "voorgestelde_intensivering": "Sin as a power that binds the will, making 'choosing' impossible without intervention.",
+      "theologische_rationale": "To make Grace necessary rather than just helpful."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has replaced Soteriology (Program 1).",
+      "voorgestelde_structuur": "1. Christ opens the gate (Soteriology). 2. We walk in gratitude (Ethics)."
+    },
+    "overall_beoordeling": "WEAK",
+    "slotopmerking": "The sermon uses biblical language to construct a non-biblical engine of self-justification. To move toward grace, the preacher must make Christ the Subject of the active verbs of rescue."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is persuasive and organized. Actantially, it is a legalistic trap.",
+    "verschil_met_exegese": "The exegesis ignores the context of the Sermon on the Mount as a 'crushing of the law' to lead to grace.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'The Savior' in this text actually functions as a 'Taskmaster' rather than a 'Deliverer'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Hearer (flee, choose, live, keep off, bypass, merit, fear, love, safeguard)",
+      "Savior (tells, teaches, warns, reminds, remarks, lamented)"
+    ],
+    "volledige_object_lijst": [
+      "Eternal life",
+      "The narrow gate",
+      "The broad road",
+      "Virtues"
+    ],
+    "werkwoord_frequentie": {
+      "bypass": {
+        "count": 4,
+        "primair_subject": "Man"
+      },
+      "find": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "teaches": {
+        "count": 2,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Exemplarism' where the 'few' are the heroes and the hearer is exhorted to join their ranks through sheer will."
+  }
+}

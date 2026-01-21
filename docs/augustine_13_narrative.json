@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "On Deferring Conversion",
+    "bijbeltekst": "Ezekiel 18:21-23, James 2:14-17, Sirach 5:8-9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1200"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The sinner must move from a state of procrastination/sin to a state of conversion/penance to avoid sudden judgment.",
+      "subject": {
+        "identificatie": "The Hearer (The Sinner)",
+        "tekstueel_bewijs": [
+          "convert right now!",
+          "you who always put off doing penance",
+          "strive for a happy medium",
+          "heal your souls with the remedies of penitence"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Conversion/Penance (as a means to escape Damnation)",
+        "tekstueel_bewijs": [
+          "guaranteeing an eternal reward",
+          "the remedy for all your ills",
+          "crowned with immortality"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God as Judge/Lawgiver",
+        "tekstueel_bewijs": [
+          "God speaks, condemning their faithlessness",
+          "his wrath will suddenly blaze forth",
+          "he will reject you on the day of his vengeance"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Sinner (Self-preservation)",
+        "tekstueel_bewijs": [
+          "so that you may present yourselves... not to be condemned"
+        ],
+        "positie_hoorder": "SUBJECT_HERO"
+      },
+      "helper": {
+        "identificatie": "Fear and Almsgiving",
+        "tekstueel_bewijs": [
+          "fear of divine judgment",
+          "remedies of penitence and almsgiving"
+        ],
+        "rol_van_god": "God is the Sender of the mandate and the Judge of the result, but the Hearer is the Subject of the action.",
+        "rol_van_geest": "Absent/Unclear"
+      },
+      "tegenstander": {
+        "identificatie": "Procrastination (Cras/Tomorrow) and Presumption",
+        "tekstueel_bewijs": [
+          "the cawing of a crow",
+          "false sense of security",
+          "sudden death"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The primary enemy is the hearer's own psychology—the habit of delay—rather than an ontological power like Sin or Death that only God can conquer."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "God's past action in creation and redemption (The Cross).",
+      "subject": "God/Christ",
+      "object": "The Sinner",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "God's past action (Program 1) is used as a rhetorical motivation (Vouloir-faire) to compel the sinner's current action (Program 2). The sermon focuses on the sinner's response as the deciding factor."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Judge) → Salvation/Escape → The Sinner",
+      "helper_subject_tegenstander": "Fear/Alms → The Sinner ← Procrastination",
+      "subject_naar_object": "The Sinner → Conversion"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "38",
+      "ratio": "0.36",
+      "voorbeelden_god_subject": [
+        "God willed your death",
+        "he found you through the blood of his Son",
+        "he will reject you"
+      ],
+      "voorbeelden_mens_subject": [
+        "you postpone conversion",
+        "you who always put off doing penance",
+        "heal your souls",
+        "strive for a happy medium"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "They should heed these words",
+          "Do not delay your conversion"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "why you’re in no hurry to receive what you yourself agree is good"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Our frequent exhortations... have taught us"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "with the grace of God, heal your souls"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes the hearer has the 'Pouvoir' (Power) and 'Savoir' (Knowledge) but lacks 'Vouloir' (Will) and 'Devoir' (Sense of Obligation). It is a recruitment to action."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Conversion/Life",
+      "s2": "Damnation/Death",
+      "niet_s1": "Procrastination (Cras)",
+      "niet_s2": "Presumption (False Security)"
+    },
+    "beweging_in_preek": "The sermon moves from Niet-S1 (Procrastination) and Niet-S2 (Presumption) toward S1 (Conversion) by using S2 (Judgment) as a threat.",
+    "theologische_resolutie": "Resolution is found in the human act of penance (S1) to avoid the divine act of judgment (S2).",
+    "ernst_van_s2": "High. S2 is the primary engine of the sermon's urgency."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon mentions the blood of Christ, the functional Subject of the narrative is the Sinner. Grace is treated as an available 'remedy' that the human must apply to themselves.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "on the day a sinner turns away... I will not remember",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "heal your souls... so that you may present yourselves... to be crowned",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Prevenient Creation/Redemption",
+        "tekstueel_bewijs": "when you lost your soul... he went searching for you",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The Crow and the Dove are used as behavioral models for the hearer to imitate or avoid.",
+      "bijbelse_figuren_als_model": [
+        "The Crow (Procrastinator)",
+        "The Dove (Prompt convert)"
+      ],
+      "alternatieve_lezing": "Christ as the true Dove who returns to the Father on our behalf when we were lost crows."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Anxiety and pressure to perform penance immediately.",
+      "theologische_implicatie": "Salvation is synergism where the human 'turn' is the decisive trigger for divine forgiveness."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "The sermon is highly coherent as a call to action, but theologically incoherent regarding the sufficiency of Christ's work versus the necessity of almsgiving for 'healing'.",
+      "spanning_punten": [
+        "God found you through the blood of His Son vs. You must heal your own soul with almsgiving."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SATISFACTION",
+      "tekstueel_bewijs": "guaranteeing an eternal reward for good deeds",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not mentioned as the source of the 'Pouvoir-faire'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as a series of debts (10 sins, 15 sins) rather than a dead state."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Law' narrative where the Hearer is the Subject and God is the Judge/Object. Grace is a background condition rather than the active force.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The sinner is the one 'healing' the soul.",
+      "voorgestelde_herpositionering": "Make Christ the Subject of the healing.",
+      "voorbeeld_revisie": "Instead of 'Heal your souls with remedies,' use 'Christ, the Great Physician, has come to heal your soul; submit to His treatment.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'Crow' who must become a 'Dove'.",
+      "voorgestelde_identificatie": "Hearer as the 'Dead Man' whom God brings to life.",
+      "strategie": "Focus on the Ezekiel text: 'I do not wish the death of the sinner' as God's active pursuit."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (God's Power).",
+      "concrete_suggestie": "Emphasize that the desire to convert is itself a gift from God, not a human work."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Procrastination.",
+      "voorgestelde_intensivering": "Sin as a bondage that the sinner cannot break alone.",
+      "theologische_rationale": "If the opponent is just 'waiting till tomorrow,' the solution is just 'willpower.' If the opponent is 'Death,' the solution must be 'God.'"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "The secondary program (Ethics/Alms) is fused with the primary (Salvation).",
+      "voorgestelde_structuur": "Salvation (God's act) → Gratitude (Human response)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has strong rhetorical urgency but risks leaving the hearer in a cycle of self-reliance and anxiety."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of persuasion; semiotically, it is a legalistic engine.",
+    "verschil_met_exegese": "Exegesis might focus on the context of Ezekiel; Greimas shows how the text is used to assign 'Subject' status to the hearer.",
+    "unieke_inzichten_greimas": "Reveals that 'Grace' is used as a modal competence (Savoir) for a human performance, rather than the performance itself."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "You postpone",
+      "God speaks",
+      "You didn't exist",
+      "I created",
+      "You admit",
+      "He found you",
+      "He redeemed you"
+    ],
+    "volledige_object_lijst": [
+      "Conversion",
+      "Eternal reward",
+      "Forgiveness",
+      "Immortality"
+    ],
+    "werkwoord_frequentie": {
+      "convert": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "forgive": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the 'Cras' (Crow) metaphor to create a psychological opponent, effectively shifting the focus from the Cross to the Hearer's calendar."
+  }
+}

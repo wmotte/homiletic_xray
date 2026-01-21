@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "titel_preek": "First Sermon for Easter: The Day the Lord has Made",
+    "bijbeltekst": "Ps 117:24, 2 Co 5:17, Jn 6:51, Lk 24:36, Ps 22:4, Ps 29:12, 2 Co 3:18, Rm 13:12, Ps 43:4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the events of Easter: the resurrection of Christ, the harrowing of hell, the rising of the dead, and the renewal of the believer through the 'sacred waters' (baptism). It focuses on the transition from darkness to light.",
+      "exegetische_kwaliteit": "High. Uses a catena of scriptures to weave a tapestry of salvation history, connecting the Old Law's veil to the New Life in Christ.",
+      "omvang_procent": "60%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher moves between describing the cosmic shift of Easter (Assertive) and inviting the congregation into the liturgical 'now' of that joy (Directive/Expressive).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Today, the chains of hell have burst asunder.",
+        "Let us all say: This is the day of light.",
+        "Our sins are forgiven."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from mourning to 'dancing' and to elicit a communal 'Alleluia'.",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is not named frequently, but the 'spiritual light' and 'source of living water' imply the Spirit's work.",
+      "perlocutionaire_werkwoorden": [
+        "rejoice",
+        "thrill",
+        "bestir",
+        "convert",
+        "exult"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "42",
+      "procent": "65%",
+      "voorbeelden": [
+        "A dazzling light shines for us today.",
+        "The Lord of the angels has risen.",
+        "Jesus’ death tore the Temple veil in two."
+      ],
+      "dominante_werkwoorden": [
+        "shines",
+        "has risen",
+        "is",
+        "tore",
+        "brought"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "18%",
+      "voorbeelden": [
+        "Let us all say...",
+        "Let no one ever again desire earthly bread.",
+        "Come, O Lord."
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "say",
+        "contemplate",
+        "come"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "6",
+      "procent": "10%",
+      "voorbeelden": [
+        "The vast assembly brims with joy.",
+        "The celestial spirits were enraptured."
+      ],
+      "dominante_werkwoorden": [
+        "brims",
+        "rejoices",
+        "exulted"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "3%",
+      "voorbeelden": [
+        "Whoever perseveres... will merit the grace of delighting eternally."
+      ],
+      "dominante_werkwoorden": [
+        "will merit",
+        "will possess"
+      ],
+      "kwaliteit": "Weak. The promises are largely conditional on the hearer's perseverance rather than God's unilateral binding."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "4%",
+      "voorbeelden": [
+        "Our sins are forgiven.",
+        "The chains of each and every sin do likewise [burst asunder]."
+      ],
+      "dominante_werkwoorden": [
+        "are forgiven",
+        "burst"
+      ],
+      "autoriteit": "Moderate. The preacher declares the state of the congregation based on the day, but often retreats into 'Let us say' (Directive) rather than 'I declare to you' (Declarative)."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75%",
+    "performatief_percentage": "25%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive description of what happened to the 'dead' and 'Apostles' in the past tense.",
+        "Third-person descriptions of the Church's joy."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a cosmic drama rather than a participant in a present event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of Christ to the specific 'You' of the listener."
+      ],
+      "effect_op_hoorder": "Inspiration without immediate sacramental encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "General and collective.",
+      "voorbeelden": [
+        "Our sins are forgiven."
+      ],
+      "moment_in_preek": "Middle and End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Mostly 'We' (inclusive plural) to create a sense of shared liturgical space."
+      },
+      "tweede_persoon": {
+        "frequentie": "4",
+        "gebruik": "Very low. Used mostly in quoting 'Peace be with you' or addressing the Lord directly.",
+        "performatieve_context": "Low."
+      },
+      "derde_persoon": {
+        "frequentie": "45",
+        "gebruik": "Dominant. Describing 'the dead', 'the Church', 'the Lord', 'the Apostles'.",
+        "distantie_effect": "Creates a grand historical/mythic distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Recounting the Passion and Resurrection events."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General theological truths about the 'Day of the Lord'."
+      },
+      "actueel_present": {
+        "frequentie": "30%",
+        "gebruik": "The 'Today' of the Easter liturgy."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Christ rose) -> Directive (Let us rejoice).",
+      "voorbeelden": [
+        "The Lord of the angels has risen... Hence, we all cry out: Let us rejoice!"
+      ],
+      "probleem": "The joy is commanded as a duty rather than being the natural perlocutionary effect of a declarative promise."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (The day is made) -> Declarative (Sins are forgiven) -> Directive (Go to the altar).",
+      "voorbeelden": [
+        "Our sins are forgiven... Let us, then, say anew..."
+      ],
+      "kwaliteit": "Stronger in Section 3, where the declaration of forgiveness precedes the call to the altar."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because of our Redeemer’s innocence, he merited salvation for us... So this is a day of mercy."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "May no one be saddened if he feels pressured to celebrate life."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is highly celebratory and focuses on the objective change in the world, but relies heavily on the congregation 'joining in' the joy rather than the word 'doing' the joy to them.",
+    "sterke_punten": [
+      {
+        "aspect": "Liturgical 'Today'",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "A dazzling light shines for us today.",
+        "effect": "Collapses the time gap between the event and the hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Direct Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "May no one be saddened...",
+        "probleem": "Uses the third person 'no one' instead of the second person 'You'.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 7,
+    "gebeuren_toelichting": "The repetition of 'This is the day' creates a rhythmic, incantatory event-character.",
+    "sacramentele_kracht": 6,
+    "sacramentele_toelichting": "Strong on the 'means of grace' (bread, water), but the preacher acts more as a narrator than a mandatory of the present Christ."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is quoted, but the preacher does not explicitly speak in persona Christi.",
+      "prediker_als_mandataris": "The preacher acts as a liturgical leader ('Let us').",
+      "tekstueel_bewijs": [
+        "Come, O Lord, and say: Peace be with you."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Low. The Spirit is the 'spiritual light' but not the primary agent of the sermon's success.",
+      "perlocutie_theologie": "The effect is attributed to the 'Day' and the 'Redeemer'.",
+      "tekstueel_bewijs": [
+        "suffused our faces with spiritual light"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon points to the Altar and the Water as the primary means.",
+      "epifanisch_taalgebruik": "Yes, very high use of light/darkness metaphors.",
+      "tekstueel_bewijs": [
+        "partake of the table of God’s mysteries"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on 'is' and 'was' (Assertive) and 'let us' (Directive). It needs more 'I give' and 'You are' (Declarative/Commissive).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Our sins are forgiven.",
+          "voorgestelde_revisie": "By the authority of the Risen Christ, I declare that your sins are forgiven this day.",
+          "verschil": "Shifts from a fact 'about' the world to an act 'upon' the hearer."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often buried in the third person.",
+      "suggestie": "Address the 'You' directly with the benefits of the resurrection.",
+      "voorbeeldzinnen": [
+        "Christ promises you today that your chains are broken."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'We' and 'They', not enough 'You'.",
+      "suggestie": "Break the 'We' to speak directly to the individual conscience.",
+      "voorbeeldzinnen": [
+        "You, who walk in the shadow of death, do not fear."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The foundation is generally good.",
+      "suggestie": "Ensure the 'Let us' always flows from a 'You are'."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A beautiful, high-rhetoric Easter proclamation that successfully creates a sense of 'Today', though it could gain sacramental 'bite' by using more direct second-person performatives."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of joy; SAT focuses on the preacher's 'Declarative' power to actually forgive sins.",
+    "verschil_met_retoriek": "Rhetoric seeks to persuade the hearer to feel happy; SAT seeks to perform the act of making the hearer new through the Word.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's power isn't in the description of the empty tomb, but in the 'Commissive' act where God binds Himself to the hearer in the present moment."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "shines",
+        "has entered",
+        "have risen",
+        "has triumphed",
+        "is",
+        "has passed",
+        "has begun",
+        "was",
+        "suffered",
+        "merited"
+      ],
+      "directief": [
+        "contemplate",
+        "see",
+        "cry out",
+        "let us rejoice",
+        "let us say",
+        "bestir",
+        "convert"
+      ],
+      "expressief": [
+        "brims",
+        "rejoice",
+        "thrill",
+        "happiness",
+        "enraptured"
+      ],
+      "commissief": [
+        "will merit",
+        "will possess"
+      ],
+      "declaratief": [
+        "are forgiven",
+        "burst asunder",
+        "canceled"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Today, the chains of hell have burst asunder.",
+        "categorie": "ASSERTIVE/DECLARATIVE",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "High - creates the 'event' of the sermon."
+      },
+      {
+        "zin": "Let us all say: This is the day the Lord has made.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Moderate",
+        "effectiviteit": "Liturgical, but places the burden of 'doing' on the congregation."
+      }
+    ],
+    "notities": "The sermon relies on the 'liturgical present' to bridge the gap between constative history and performative event."
+  }
+}

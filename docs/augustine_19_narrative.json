@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "Sermon 65: On Doing Penance for Our Sins",
+    "bijbeltekst": "Mt 4:17; Jon 3:4-6; 1 Jn 1:8; Jb 14:4",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject must perform acts of penance and satisfaction to avert the impending wrath of God and recover lost spiritual standing.",
+      "subject": {
+        "identificatie": "The Hearer / The Sinner",
+        "tekstueel_bewijs": [
+          "let’s avert God’s wrath by confessing our sins",
+          "we must expiate the causes of our negligence",
+          "we may correct our failings and make reparation"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Forgiveness / Satisfaction / Averting Wrath",
+        "tekstueel_bewijs": [
+          "recover through penitence what we’ve lost",
+          "make satisfaction",
+          "escape the penalty for his pride"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God as Judge / The Law",
+        "tekstueel_bewijs": [
+          "his judgment seat, where we’d receive nothing but sheer justice",
+          "total, strictest equity"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Sinner / The Soul",
+        "tekstueel_bewijs": [
+          "saving himself in sackcloth",
+          "bring mercy down upon the guilty"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Humility / Fasting / Examples (Nineveh)",
+        "tekstueel_bewijs": [
+          "sought refuge in the arms of humility",
+          "fasting earned salvation for the guilty"
+        ],
+        "rol_van_god": "God is the target of the action (Receiver of satisfaction) rather than the Subject of the saving act.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Negligence / Shame / Denial of Sin",
+        "tekstueel_bewijs": [
+          "what we’ve lost through negligence",
+          "If shame holds you back",
+          "failing to recognize one’s sins"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is primarily the human internal resistance to performing the required penance."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "false",
+      "beschrijving": "There is no distinct ethical program for the neighbor; the focus remains entirely on the subject's own reconciliation.",
+      "subject": "The Hearer",
+      "object": "Personal Purity",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The 'good works' (penance) are not the fruit of salvation but the prerequisite for it."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Judge) → Forgiveness → The Sinner",
+      "helper_subject_tegenstander": "Humility/Penance → The Sinner ← Shame/Negligence",
+      "subject_naar_object": "The Sinner → Satisfaction/Averting Wrath"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "34",
+      "ratio": "0.35",
+      "voorbeelden_god_subject": [
+        "He warns us ahead of time",
+        "God understands how unstable and frail our humanity is",
+        "he prescribes penance"
+      ],
+      "voorbeelden_mens_subject": [
+        "let’s avert God’s wrath",
+        "we must expiate the causes",
+        "we may correct our failings",
+        "he sought refuge in the arms of humility"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "doing penance is obligatory for us",
+          "we must expiate the causes"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "he wants us to expiate our failings"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "let’s at least understand this truth",
+          "needs only to know God’s law"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "all-powerful to heal our weaknesses"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily law-oriented, focusing on the obligation (Devoir) of the human subject to act."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Penance/Life",
+      "s2": "Judgment/Death",
+      "niet_s1": "Negligence/Impunity",
+      "niet_s2": "Mercy/Forgiveness"
+    },
+    "beweging_in_preek": "Moves from the threat of S2 (Judgment) to the necessity of S1 (Penance) to avoid S2.",
+    "theologische_resolutie": "Resolution is achieved through human performance (satisfaction) rather than divine substitution.",
+    "ernst_van_s2": "S2 is presented as a looming threat that can be managed by human effort."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon's engine is anthropocentric. While it mentions God's mercy, mercy is the reward for the human subject's successful performance of penance.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "If our God wants us to weep over our sins, it’s to help us recover through penitence what we’ve lost.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Synergistic Satisfaction",
+        "tekstueel_bewijs": "we shouldn’t be any the less anxious to make satisfaction.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Awareness",
+        "tekstueel_bewijs": "God understands how unstable and frail our humanity is.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The King of Nineveh is used as a model of successful self-salvation through humility.",
+      "bijbelse_figuren_als_model": [
+        "King of Nineveh",
+        "Jonah"
+      ],
+      "alternatieve_lezing": "God relented from the disaster He had threatened because of His own character, using Nineveh to show His sovereignty over the nations."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Anxiety and pressure to perform adequate 'weeping' and 'satisfaction'.",
+      "theologische_implicatie": "Salvation is a wage for the work of penitence."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "The sermon is internally consistent in its moralism; it clearly links human action to divine reaction.",
+      "spanning_punten": [
+        "The claim that we are 'assured of his forgiveness' clashes with the command to be 'anxious to make satisfaction'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SATISFACTION",
+      "tekstueel_bewijs": "make reparation for our faults... make satisfaction.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The subject is expected to find the 'vouloir' and 'pouvoir' within their own conscience."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Serious but treatable through human effort."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a manual for human self-repair rather than a proclamation of divine rescue.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The sinner is the subject of 'saving', 'recovering', and 'averting'.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who averts the wrath and performs the satisfaction.",
+      "voorbeeld_revisie": "Instead of 'let's avert God's wrath', use 'Christ has turned away the wrath of God on our behalf'."
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the hero of their own repentance.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Position the hearer as the one who receives the 'robe of righteousness' rather than the one who 'casts off royal purple'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir (Obligation)",
+      "voorgestelde_balans": "Pouvoir (Gospel Empowerment)",
+      "concrete_suggestie": "Focus on how the Spirit gives the power to repent, rather than the duty to do so."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Sin is a 'wound' or 'negligence'.",
+      "voorgestelde_intensivering": "Present sin as a 'death' from which the subject cannot raise themselves.",
+      "theologische_rationale": "If the opponent is just 'negligence', the subject doesn't need a Savior, just a coach."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Penance) is the prerequisite for Soteriology (Forgiveness).",
+      "voorgestelde_structuur": "Forgiveness (Program 1) must precede and empower Penance (Program 2)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong sense of the seriousness of sin, but it leaves the hearer burdened with the impossible task of making their own satisfaction."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis might praise the vivid imagery of Nineveh; a semiotic analysis reveals that Nineveh is used to displace Christ as the source of salvation.",
+    "verschil_met_exegese": "Exegesis might focus on the historical context of Jonah; Greimas shows how the text's 'grammar' functions to create a legalistic framework.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'mercy' in this sermon is actually a 'counter-gift' in a transaction, not a free gift."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (avert)",
+      "We (expiate)",
+      "We (correct)",
+      "King (cast off)",
+      "King (sought refuge)"
+    ],
+    "volledige_object_lijst": [
+      "God's wrath",
+      "forgiveness",
+      "satisfaction",
+      "salvation"
+    ],
+    "werkwoord_frequentie": {
+      "expiate": {
+        "count": "3",
+        "primair_subject": "Man"
+      },
+      "warns": {
+        "count": "1",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon reflects a late-antique/medieval penitential framework where the 'grammar of grace' is often subsumed under the 'grammar of debt'."
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "titel_preek": "Sermon 34: A Prayer to the Holy Spirit",
+    "bijbeltekst": "Various (Lk 24:29, Rv 3:7, Ps 143:10, Tt 3:5)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A sustained prayer-sermon addressed to the Holy Spirit, recounting salvation history (Peter, Mary Magdalene, Dismas) and pleading for personal indwelling and sanctification.",
+      "exegetische_kwaliteit": "Theological rather than exegetical; uses biblical figures as archetypes of grace rather than analyzing specific texts.",
+      "omvang_procent": "30%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is Petitional (Directive toward God) and Expressive (Confession), with embedded Assertives about God's nature.",
+      "primaire_kracht": "EXPRESSING",
+      "helderheid_score": "9",
+      "voorbeelden": [
+        "Come, then, sweetest Spirit",
+        "I remember, though, how your grace once sufficed",
+        "I therefore ask for nothing but you"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To evoke a sense of desperate dependency and hope in the hearer by modeling a soul's return to God.",
+      "pneumatologisch_bewustzijn": "Extremely high; the Spirit is both the subject and the enabler of the speech act.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "yearn",
+        "surrender",
+        "trust"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "45",
+      "procent": "40",
+      "voorbeelden": [
+        "You are everything we call good.",
+        "Your mercy is preferable to any life style.",
+        "No one experiences tranquility unless he labors for you."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "remains",
+        "sustains"
+      ]
+    },
+    "directieven": {
+      "frequentie": "38",
+      "procent": "35",
+      "voorbeelden": [
+        "Come, then, sweetest Spirit.",
+        "O my sinful soul, get up, stand straight.",
+        "Touch my soul."
+      ],
+      "dominante_werkwoorden": [
+        "come",
+        "touch",
+        "give",
+        "listen",
+        "get up"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "22",
+      "procent": "20",
+      "voorbeelden": [
+        "I long for you and throw myself into your arms.",
+        "I blush with shame and confusion.",
+        "I vividly recall the happiness I tasted."
+      ],
+      "dominante_werkwoorden": [
+        "long",
+        "blush",
+        "recall",
+        "desire"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3",
+      "voorbeelden": [
+        "I will trust in your mercy.",
+        "I will not fear what mortal man can do to me."
+      ],
+      "dominante_werkwoorden": [
+        "will trust",
+        "will not fear"
+      ],
+      "kwaliteit": "Low frequency of God-to-human promises; high frequency of human-to-God commitment."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2",
+      "voorbeelden": [
+        "I return to my earlier innocence (as a result of your touch).",
+        "Leniency is what makes you declare: 'I take no pleasure in the death of sinners'."
+      ],
+      "dominante_werkwoorden": [
+        "return",
+        "declare"
+      ],
+      "autoriteit": "The preacher speaks as a beggar, not as a mandatory; the declarative force is deferred to God's direct action."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "PERFORMATIVE_ADEQUATE",
+    "constatief_percentage": "40",
+    "performatief_percentage": "60",
+    "constatief_surplus_analyse": {
+      "aanwezig": "false",
+      "ernst": "LOW",
+      "indicatoren": [
+        "The 'talking about' sections are immediately converted into 'talking to' (prayer)."
+      ],
+      "effect_op_hoorder": "The hearer is drawn into a dialogue rather than a lecture."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": "true",
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Sacramental Declaratives (Absolution)",
+        "Direct Commissives (God's 'I promise you')"
+      ],
+      "effect_op_hoorder": "The hearer remains in the position of a petitioner rather than a recipient of a finished work."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": "true",
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "Indirect; the promise is quoted from Scripture rather than enacted by the preacher.",
+      "voorbeelden": [
+        "I take no pleasure in the death of sinners... so that they may live."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "52",
+        "gebruik": "The 'I' of the preacher as a representative sinner/petitioner."
+      },
+      "tweede_persoon": {
+        "frequentie": "48",
+        "gebruik": "Addressing the Holy Spirit (You) and the Soul (thou)."
+      },
+      "derde_persoon": {
+        "frequentie": "15",
+        "gebruik": "Examples of biblical saints."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "20",
+        "gebruik": "Recounting biblical mercy."
+      },
+      "tijdloos_present": {
+        "frequentie": "30",
+        "gebruik": "Theological definitions of the Spirit."
+      },
+      "actueel_present": {
+        "frequentie": "50",
+        "gebruik": "The immediate act of prayer and the 'Now' of the soul's need."
+      }
+    },
+    "adressering_effectiviteit": "9"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": "false",
+      "beschrijving": "It avoids the moralistic Assertive -> Directive trap.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": "true",
+      "beschrijving": "Assertive (God's mercy) -> Directive (Soul, get up) -> Commissive (I will trust).",
+      "voorbeelden": [
+        "Leniency is what makes you declare... Therefore... I will trust."
+      ],
+      "kwaliteit": "Strongly evocative but lacks the 'I forgive you' declarative peak."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": "true",
+      "imperatief_gefundeerd": "true",
+      "voorbeelden_goede_verhouding": [
+        "Since your salvation resides in this person alone, consecrate all your powers to him."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon is a 'Soliloquy/Prayer' where the preacher models the event of encounter. It is performative as a 'lament' and 'plea' rather than a 'proclamation of authority'.",
+    "sterke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Directives to God",
+        "tekstueel_bewijs": "Come back, O kindly Spirit; take pity on this traitor.",
+        "effect": "Creates a high-stakes spiritual atmosphere."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Mandatory Authority",
+        "categorie": "Declaratives",
+        "tekstueel_bewijs": "I am not qualified... I really do not know.",
+        "probleem": "The preacher abdicates the role of God's mouthpiece in favor of being a fellow-sufferer.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": "8",
+    "gebeuren_toelichting": "The sermon is an event because it *is* a prayer, not a talk *about* prayer.",
+    "sacramentele_kracht": "6",
+    "sacramentele_toelichting": "Lacks the 'Ex-Opere-Operato' certainty of a declarative word from God to the hearer."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the desired speaker, but the preacher is hesitant to claim the mandate.",
+      "prediker_als_mandataris": "Low; the preacher feels unqualified.",
+      "tekstueel_bewijs": [
+        "Could I utter a single word unless you come into me, in order to take my place?"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Total recognition; the Spirit is the primary agent.",
+      "perlocutie_theologie": "Explicitly left to the Spirit.",
+      "tekstueel_bewijs": [
+        "Speak to yourself for me and listen to yourself within me."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is a 'torn sack' waiting to be filled.",
+      "epifanisch_taalgebruik": "High; uses sensory language (oil, wine, myrrh, wounds).",
+      "tekstueel_bewijs": [
+        "Touch me with the finger that pours wine, oil and purest myrrh."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from asking God to do something (Directives to God) to announcing that God is doing something (Declaratives to the people).",
+    "performatieve_intensivering": {
+      "nodig": "true",
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "It is impossible for you to withhold your mercy from me.",
+          "voorgestelde_revisie": "By the authority of Christ, I declare that His mercy is not withheld from you today.",
+          "verschil": "Moves from a logical deduction about God to a sacramental gift from God."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": "true",
+      "probleem": "The promise is framed as a wish.",
+      "suggestie": "Use the 'I-Thou' address to the congregation.",
+      "voorbeeldzinnen": [
+        "The Spirit promises you: I will not leave you as orphans."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": "false",
+      "probleem": "None",
+      "suggestie": "Maintain the direct address but pivot to the congregation more often.",
+      "voorbeeldzinnen": [
+        "You, who feel like a 'torn sack', hear this..."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": "false",
+      "probleem": "Well-balanced.",
+      "suggestie": "Ensure the 'Get up' is based on the 'I have healed you'."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A profound example of performative prayer that avoids the 'talking about' trap by becoming a 'talking to'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would see this as 'Self-Revelation' (Sender); SAT sees it as a 'Divine-Human Encounter' (Illocution).",
+    "verschil_met_retoriek": "It does not seek to persuade the hearer of a point, but to invoke a Presence.",
+    "unieke_inzichten_SAT": "SAT reveals that the preacher's hesitation is a locutionary choice that risks weakening the illocutionary force of the office."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "are",
+        "belongs",
+        "sufficed",
+        "ranks",
+        "outweigh"
+      ],
+      "directief": [
+        "come",
+        "listen",
+        "give",
+        "touch",
+        "get up",
+        "stand",
+        "knock",
+        "open"
+      ],
+      "expressief": [
+        "want",
+        "hesitate",
+        "long",
+        "blush",
+        "recall",
+        "desire"
+      ],
+      "commissief": [
+        "will trust",
+        "will not fear",
+        "consecrate"
+      ],
+      "declaratief": [
+        "return",
+        "declare"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Come, then, sweetest Spirit.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Invocation",
+        "effectiviteit": "High"
+      }
+    ],
+    "notities": "The sermon functions as a 'Liturgy of the Heart'."
+  }
+}

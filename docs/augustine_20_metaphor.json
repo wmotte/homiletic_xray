@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "titel_preek": "Sermon 66: On Fasting",
+    "bijbeltekst": "Joel 1:14, 1 Corinthians 6:13, 1 Corinthians 11:21, Psalm 17:14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "750"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "preach about healing",
+          "remedy for listlessness",
+          "weakening the sinner’s constitution",
+          "remedy for all the ills of both soul and body",
+          "sign of illness, not digestion"
+        ],
+        "conceptuele_metafoor": "SIN IS SICKNESS; FASTING IS MEDICINE"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "returned from battle victorious",
+          "overcome Satan",
+          "Armed with fasting",
+          "beheaded Holofernes"
+        ],
+        "conceptuele_metafoor": "SPIRITUAL DISCIPLINE IS WARFARE"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "atones for the faults",
+          "burdening our conscience",
+          "incurred guilt",
+          "had to be avenged"
+        ],
+        "conceptuele_metafoor": "SIN IS A CRIME; FASTING IS PENAL SATISFACTION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Fasting is the most effective remedy for listlessness.",
+        "brondomein": {
+          "naam": "Medicine/Pharmacy",
+          "concrete_elementen": [
+            "remedy",
+            "dosage",
+            "healing",
+            "physician"
+          ],
+          "belichaamde_basis": "balance/homeostasis"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sanctification/Asceticism",
+          "doctrinale_traditie": "Patristic/Early Medieval"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Medicine",
+            "doel_element": "Fasting"
+          },
+          {
+            "bron_element": "Disease",
+            "doel_element": "Sin/Laziness"
+          },
+          {
+            "bron_element": "Health",
+            "doel_element": "Spiritual Devotion"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The hearer views spiritual apathy as a biological malfunction rather than a moral choice."
+          ],
+          "theologische_implicaties": [
+            "Salvation is restorative (Christus Victor/Healing) rather than purely forensic."
+          ],
+          "ethische_implicaties": [
+            "Self-care and spiritual discipline are identical."
+          ],
+          "onbedoelde_consequenties": [
+            "If fasting is medicine, those who feel 'healthy' may feel they don't need it."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher re-activates the medical domain by comparing the 'smell of intemperance' to bad digestion, making the metaphor visceral."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon successfully bridges the Medical and Military domains by framing the body as a site of both infection and battle.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section 2 vs Section 3",
+          "metafoor_a": "FASTING IS PURIFICATION (Philosophical)",
+          "metafoor_b": "FASTING IS A WEAPON (Military)",
+          "conflict_beschrijving": "The shift from internal cleansing to external decapitation (Judith) creates a jarring transition in the purpose of the fast.",
+          "entailment_conflict": "Cleansing implies a passive removal of stains; weaponry implies active aggression.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Section 1",
+          "gemengde_metaforen": [
+            "Medical and Juridical"
+          ],
+          "blending_strategie": "Fasting is presented as a 'legitimate' (juridical) remedy (medical) for the 'ills' of the soul."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Uses the physical sensation of smell to make the abstract concept of 'intemperance' concrete and repulsive.",
+        "voorbeeld": "Why... do you exhale the smell of your intemperance?"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LOSS_OF_RESPONSIBILITY",
+        "beschrijving": "By framing sin as a 'debility' or 'illness,' the preacher may inadvertently suggest that the sinner is a victim of a condition rather than a responsible agent.",
+        "voorbeeld": "sinner’s constitution... remedy for all the ills",
+        "potentiele_impact": "Congregants may seek 'treatment' rather than 'repentance.'",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Clinic/Hospital: A space where the body is being diagnosed and treated.",
+      "sub_worlds": [
+        "The Battlefield (David/Judith)",
+        "The Courtroom (Jonathan/Saul)",
+        "The Philosophical School"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Section 3",
+          "van_wereld": "The present congregation",
+          "naar_wereld": "Ancient Nineveh/Biblical History",
+          "effectiviteit": "High; creates a sense of historical continuity in the 'efficacy' of the tool."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Asceticism as Power",
+          "hoe_versterkt": "By linking fasting to military victory and survival in fire."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Fasting as Deprivation",
+          "verstoring_strategie": "Reframing it as 'well-spring of health'.",
+          "vervangend_schema": "Fasting as Empowerment/Medicine"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits the Lenten or Ember Day schema of communal discipline."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is heavily grounded in the Medical Domain, which provides a strong embodied basis for the argument. It successfully moves from the physical stomach to the spiritual soul using the 'Container' schema (the body as a vessel that can be stuffed or purified). However, it relies on a somewhat dated 'Military' domain in the second half that risks losing the therapeutic focus established early on.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "FASTING IS A WEAPON",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Deepen the source domain by describing the 'training' or 'armor' aspects of the fast.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Fasting is the whetstone that sharpens the dull blade of the spirit."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'Fasting as Medicine' to 'Fasting as Legal Vengeance' (Jonathan story).",
+        "resolutie_strategie": "Frame the legal requirement as a 'public health mandate' to maintain the medical consistency."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SIN IS SICKNESS",
+        "problematisch_entailment": "Sickness is often blameless.",
+        "aanbeveling": "Clarify that this is a 'self-inflicted' illness caused by 'voluptuous living'."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To bridge the 'Nineveh herds' example with the human experience of growth.",
+        "doel_concept": "Pruning the soul for better fruit."
+      }
+    ],
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful use of embodied cognition to turn a potentially 'legalistic' topic into a 'therapeutic' necessity."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'rhetorical questions,' CMT reveals the underlying 'Medicine' logic that makes those questions persuasive.",
+    "verschil_met_kolb": "Unlike Kolb's focus on the 'four-fold sense,' CMT focuses on the cognitive mapping from the stomach to the conscience.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using the 'Body as Container' schema to argue that spiritual 'fullness' requires physical 'emptiness'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "remedy for listlessness",
+      "sinner’s constitution",
+      "slaves of their belly",
+      "stains incurred by their flesh",
+      "well-spring of health",
+      "armed with fasting",
+      "burdening our conscience"
+    ],
+    "woord_frequentie_analyse": {
+      "fasting": "18",
+      "body": "7",
+      "remedy": "3",
+      "soul": "3",
+      "illness": "2"
+    },
+    "notities": "The preacher uses the 'Philosophers' as a secondary source domain to provide intellectual 'authority' to the medical claims."
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "Sermon 66: On Fasting",
+    "bijbeltekst": "Joel 1:14; 1 Cor 6:13; 1 Cor 11; Ps 17:14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "750"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The believer must utilize the technology of fasting to achieve physical health, moral purification, and divine favor/victory.",
+      "subject": {
+        "identificatie": "The Hearer / The Believer",
+        "tekstueel_bewijs": [
+          "we make it our duty to exhort you to observe them faithfully",
+          "Fast for God, then, when he ordains it",
+          "As for me, I shall satisfy myself with fasting"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Healing, atonement, and victory",
+        "tekstueel_bewijs": [
+          "remedy for all the ills of both soul and body",
+          "atones for the faults burdening our conscience",
+          "earned the privilege of conversing with him"
+        ],
+        "aard_van_object": "THERAPEUTIC/ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Preacher/The Church (as Lawgiver)",
+        "tekstueel_bewijs": [
+          "whenever we designate fast days... we make it our duty to exhort you"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (as beneficiary of their own effort)",
+        "tekstueel_bewijs": [
+          "fasting will cure",
+          "he will hear you"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Biblical Examples (Moses, Elijah, Judith)",
+        "tekstueel_bewijs": [
+          "Numerous facts will better attest to the precious effects of fasting"
+        ],
+        "rol_van_god": "God is the Judge/Reactor who responds to the Subject's fasting.",
+        "rol_van_geest": "Absent (only mentioned as a reward for fasting in §3)."
+      },
+      "tegenstander": {
+        "identificatie": "Laziness, Sensuality, and Physical Weakness",
+        "tekstueel_bewijs": [
+          "many among you are... lazy",
+          "slaves of their belly",
+          "imaginary debility"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is framed as a lack of willpower or a physical appetite that can be mastered by human discipline."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "false",
+      "beschrijving": "There is no distinct secondary program; the ethical/ascetic act is the primary means of salvation/blessing.",
+      "subject": "N/A",
+      "object": "N/A",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "Soteriology is collapsed into the ascetic performance."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Preacher/Law → Healing/Atonement → The Hearer",
+      "helper_subject_tegenstander": "Biblical Examples → The Hearer ← Laziness/Appetite",
+      "subject_naar_object": "The Hearer → Fasting → Divine Favor"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "28",
+      "ratio": "0.14",
+      "voorbeelden_god_subject": [
+        "he will hear you",
+        "the Lord... spared their metropolis"
+      ],
+      "voorbeelden_mens_subject": [
+        "you designate fast days",
+        "you refuse to fast",
+        "Judith beheaded Holofernes",
+        "Moses fasted to receive God’s law"
+      ],
+      "rutledge_score": "2"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we make it our duty to exhort you",
+          "fasts which they are commanded to observe"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "foster your devotion",
+          "lest your disobedience may be deemed sacrilegious"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Numerous facts will better attest",
+          "Sacred Scriptures provide numerous examples"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "even the weak can hardly rule them out"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes the hearer has the inherent power (Pouvoir) and only needs the obligation (Devoir) and the information (Savoir) to act."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Fasting/Purity",
+      "s2": "Intemperance/Illness",
+      "niet_s1": "Laziness/Neglect",
+      "niet_s2": "Physical Health/Medicine"
+    },
+    "beweging_in_preek": "From S2 (Illness/Sin) through ~S2 (Medical/Philosophical fasting) to S1 (Sacred Fasting).",
+    "theologische_resolutie": "Resolution is achieved through human effort (fasting) which forces a change in state.",
+    "ernst_van_s2": "S2 is treated as a manageable physical or moral stain rather than a cosmic condition."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is a classic example of Pelagian-leaning moralism where the human is the primary actor and God is a reactive paymaster.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Elijah fasted to appease God, and he obtained a saving rainfall.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "The Ninevites... merited forgiveness by their fasting.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christ as Example",
+        "tekstueel_bewijs": "Christ Jesus... fasted in order to overcome Satan.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Biblical figures are used exclusively as 'success stories' to prove that the technique of fasting works.",
+      "bijbelse_figures_als_model": [
+        "Moses",
+        "Elijah",
+        "Judith",
+        "Esther",
+        "Ninevites"
+      ],
+      "alternatieve_lezing": "God sustained Moses; God showed mercy to the Ninevites despite their sin."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; pride if successful, despair if 'lazy'.",
+      "theologische_implicatie": "Salvation is a wage for ascetic labor."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "Highly coherent as a motivational speech, but theologically disconnected from the Gospel.",
+      "spanning_punten": [
+        "The use of Christ as a Subject who fasts to 'overcome' rather than a Savior who fasts on our behalf."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "It atones for the faults burdening our conscience, it suppresses sin.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is a reward for fasting, not the enabler of it."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is equated with 'laziness' or 'intemperance'—a lack of self-control."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'how-to' manual for self-improvement where God is the audience rather than the Actor.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the subject of 'atone', 'appease', and 'merit'.",
+      "voorgestelde_herpositionering": "Christ as the Subject of the fast in the wilderness for us.",
+      "voorbeeld_revisie": "Christ fasted in our place to overcome the temptation we could not master."
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as Judith/Moses (Heroes).",
+      "voorgestelde_identificatie": "Hearer as the 'weak' who are sustained by God's grace.",
+      "strategie": "Focus on the Ninevites' helplessness rather than their 'proofs of repentance'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir (Must)",
+      "voorgestelde_balans": "Pouvoir (Power from the Spirit)",
+      "concrete_suggestie": "Emphasize that the Spirit gives the power to fast, rather than fasting earning the Spirit."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Trivial (Laziness).",
+      "voorgestelde_intensivering": "Sin as a bondage of the will that no amount of skipped meals can break.",
+      "theologische_rationale": "To make the Cross necessary rather than just 'fasting' as a remedy."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Fasting) precedes and causes Soteriology (Atonement).",
+      "voorgestelde_structuur": "God's atonement (Primary) enables our devotion (Secondary)."
+    },
+    "overall_beoordeling": "WEAK",
+    "slotopmerking": "The sermon effectively uses biblical examples but lacks the 'Grammar of Grace' necessary for a Christian homily."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is persuasive; semiotically, it is anthropocentric.",
+    "verschil_met_exegese": "Exegesis might find these verses, but the actantial model shows the 'engine' is human effort.",
+    "unieke_inzichten_greimas": "Reveals that God is merely a 'Receiver' of human action rather than the 'Subject' of the Gospel."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (preachers) designate",
+      "You (hearers) observe",
+      "Many (hearers) lack devotion",
+      "Doctors order",
+      "Fasting atones",
+      "Judith beheaded",
+      "Christ fasted"
+    ],
+    "volledige_object_lijst": [
+      "fast days",
+      "healing",
+      "medicine",
+      "God's law",
+      "forgiveness"
+    ],
+    "werkwoord_frequentie": {
+      "fast": {
+        "count": "18",
+        "primair_subject": "Man"
+      },
+      "heal": {
+        "count": "4",
+        "primair_subject": "Fasting (Instrument)"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Axis of Power' (fasting vs. laziness) while neglecting the 'Axis of Transmission' (Grace from God)."
+  }
+}

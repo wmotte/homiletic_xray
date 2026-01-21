@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Sermon 67: On Fasting",
+    "bijbeltekst": "Isaiah 1:13, Isaiah 58:5–9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "550"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The believer must perform specific moral and ascetic actions to secure God's favor and presence.",
+      "subject": {
+        "identificatie": "The Hearer / The Believer",
+        "tekstueel_bewijs": [
+          "If you see to it that your soul doesn’t remain weighed down",
+          "Force your heart to abstain",
+          "Perform the works of mercy",
+          "Feed the poor"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "God's favor, hearing of prayers, and entry into the Kingdom",
+        "tekstueel_bewijs": [
+          "your fasts will be most acceptable to God",
+          "obtaining whatever you pray for",
+          "God may receive you into his kingdom"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Holy Spirit / God as Lawgiver",
+        "tekstueel_bewijs": [
+          "the Holy Spirit reprimands people",
+          "the fasting which pleases the Most High"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (conditional upon performance)",
+        "tekstueel_bewijs": [
+          "you’ll acquire a stronger title to God’s favor",
+          "you’ll sense that God is favorably disposed toward you"
+        ],
+        "positie_hoorder": "SUBJECT_HERO"
+      },
+      "helper": {
+        "identificatie": "The Body (sanctified) and Good Works",
+        "tekstueel_bewijs": [
+          "your soul may then receive the help of your sanctified body",
+          "genuinely pious works are added"
+        ],
+        "rol_van_god": "God is the Object/Rewarder, not the Helper.",
+        "rol_van_geest": "The Spirit is the Sender of the mandate, not the indwelling power."
+      },
+      "tegenstander": {
+        "identificatie": "Vices, Passions, and Concupiscence",
+        "tekstueel_bewijs": [
+          "allurements of vice",
+          "fire of your passions",
+          "flames of avarice"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponents are internal passions that the Subject is assumed to have the power to 'smother' or 'extinguish' through willpower."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The social-ethical program of helping the poor as a means to the primary program.",
+      "subject": "The Believer",
+      "object": "The Neighbor (Poor/Naked/Homeless)",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The ethical program is a 'sub-task' required to achieve the primary goal of pleasing God. Charity is instrumentalized."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Holy Spirit → Acceptance/Kingdom → The Performer",
+      "helper_subject_tegenstander": "Sanctified Body → The Believer ← Internal Passions",
+      "subject_naar_object": "The Believer → God's Favor"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "28",
+      "ratio": "0.14",
+      "voorbeelden_god_subject": [
+        "God may receive you",
+        "God is favorably disposed",
+        "the Holy Spirit reprimands"
+      ],
+      "voorbeelden_mens_subject": [
+        "You must also renounce your vices",
+        "Force your heart to abstain",
+        "you’ll acquire a stronger title",
+        "you can be confident of obtaining"
+      ],
+      "rutledge_score": "2"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "you must also renounce your vices",
+          "violated the duty of charity"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "spirit of piety that moves you",
+          "sincere devotion"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "true understanding of the virtue of religion"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "your soul may then receive the help of your sanctified body"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes the hearer already possesses the 'Pouvoir' (Power) to change; it only provides the 'Devoir' (Obligation) and 'Savoir' (Knowledge)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Acceptable Fasting (Virtue)",
+      "s2": "Disgust/Judgment (Sin)",
+      "niet_s1": "Hypocritical Fasting (Ritual without virtue)",
+      "niet_s2": "Impunity (Not addressed)"
+    },
+    "beweging_in_preek": "Moves from Niet-S1 (Hypocrisy) to S1 (Virtue) via human effort.",
+    "theologische_resolutie": "Resolution is achieved through the Subject's performance of good works.",
+    "ernst_van_s2": "High. God is described as 'positively filled with disgust'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is a classic example of 'If-Then' theology. Grace is the reward for performance, not the source of it.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "Your fasts will please him only if you cleanse your conscience.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "you can be confident of obtaining whatever you pray for.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Trinitarian Doxology",
+        "tekstueel_bewijs": "through Christ Jesus our Lord",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Isaiah's description of the 'true faster' is used as a direct behavioral template.",
+      "bijbelse_figuren_als_model": [
+        "The 'Man' in Isaiah 58"
+      ],
+      "alternatieve_lezing": "God is the one who unties the thongs of the yoke (Christ as the true Subject of Isaiah 58)."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Anxiety (if they fail) or Pride (if they succeed).",
+      "theologische_implicatie": "Pelagian anthropology; the human will is the hinge of salvation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "Highly coherent as a moral manifesto, but theologically incoherent regarding the Gospel.",
+      "spanning_punten": [
+        "The 'Amen' and 'Through Christ' at the end clash with the merit-based logic of the body."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "you’ll acquire a stronger title to God’s favor",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides the 'Devoir' (reprimand) but not the 'Pouvoir'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as a series of 'vices' to be cut out, rather than a condition of death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (by performing works to enter the kingdom)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Contract Narrative' where the human is the Subject and God is the Paymaster.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The human is the subject of 'cleansing', 'renouncing', and 'obtaining'.",
+      "voorgestelde_herpositionering": "God as the Subject who cleanses the heart so that the believer can fast in gratitude.",
+      "voorbeeld_revisie": "Instead of 'Force your heart to abstain,' use 'Christ has broken the power of sin in your heart, so that you are now free to abstain.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the Hero of their own sanctification.",
+      "voorgestelde_identificatie": "Hearer as the Receiver of God's mercy (the 'oppressed' in Isaiah 58).",
+      "strategie": "Identify the hearer with the one being freed by God, not the one doing the freeing."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Over-reliance on Devoir (Must).",
+      "voorgestelde_balans": "Focus on Pouvoir (God's power given to the weak).",
+      "concrete_suggestie": "Preach the 'Gospel-Can' before the 'Moral-Must'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Passions are treated as easily conquerable.",
+      "voorgestelde_intensivering": "Acknowledge sin as a power we cannot break ourselves.",
+      "theologische_rationale": "If the opponent is weak, the Savior is unnecessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) is the condition for Soteriology (Program 1).",
+      "voorgestelde_structuur": "Soteriology (God saves) → Ethics (Therefore, we fast)."
+    },
+    "overall_beoordeling": "WEAK",
+    "slotopmerking": "The sermon is rhetorically powerful but structurally Pelagian. To move toward grace, the preacher must make God the Subject of the transformation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, it is persuasive and uses scripture well; semiotically, it is a works-righteousness engine.",
+    "verschil_met_exegese": "Exegesis of Isaiah 58 often misses that God is the ultimate Liberator; Greimas exposes this by looking at actantial roles.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'Christ' is only a tag at the end, not an actant in the story's engine."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "You (renounce)",
+      "You (extinguish)",
+      "You (break)",
+      "You (subdue)",
+      "You (smother)",
+      "You (broaden)",
+      "You (donate)"
+    ],
+    "volledige_object_lijst": [
+      "God's favor",
+      "Healing",
+      "Kingdom",
+      "Answered prayer"
+    ],
+    "werkwoord_frequentie": {
+      "fast": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "cleanse": {
+        "count": "2",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses the 'language' of the Spirit but the 'logic' of the ladder."
+  }
+}

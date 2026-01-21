@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "titel_preek": "The Two Roads",
+    "bijbeltekst": "Matthew 7:13–14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "An exposition of the metaphor of the two roads, identifying the broad road with specific vices (drunkenness, greed, impurity) and the narrow road with specific virtues (faith, chastity, almsgiving).",
+      "exegetische_kwaliteit": "Literal and allegorical; focuses on moral categorization rather than historical-critical context.",
+      "omvang_procent": "45%"
+    },
+    "illocutie": {
+      "beschrijving": "The sermon primarily functions as a series of warnings and moral exhortations based on the description of the two paths.",
+      "primaire_kracht": "COMMANDING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Flee the road to death",
+        "Choose the road to life",
+        "Bypass the road of drunkenness",
+        "Follow the small number of the just"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Fear of judgment and a resolve to change moral behavior (ascetic effort).",
+      "pneumatologisch_bewustzijn": "Low; the focus is on human 'diligence' and 'zeal' rather than the Spirit's enabling power.",
+      "perlocutionaire_werkwoorden": [
+        "fear",
+        "repent",
+        "strive",
+        "avoid",
+        "obey"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 42,
+      "procent": "50%",
+      "voorbeelden": [
+        "The Lord teaches that there are two roads",
+        "The broad way leads to damnation",
+        "The narrow path is difficult to find"
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "teaches",
+        "leads",
+        "means",
+        "reminds"
+      ]
+    },
+    "directieven": {
+      "frequentie": 28,
+      "procent": "35%",
+      "voorbeelden": [
+        "Flee the road to death",
+        "Choose the road to life",
+        "Bypass that road",
+        "Don’t let yourselves be tempted"
+      ],
+      "dominante_werkwoorden": [
+        "flee",
+        "choose",
+        "bypass",
+        "follow",
+        "merit"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 4,
+      "procent": "5%",
+      "voorbeelden": [
+        "My dearly beloved brothers",
+        "My dear friends"
+      ],
+      "dominante_werkwoorden": [
+        "love",
+        "desire"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 2,
+      "procent": "5%",
+      "voorbeelden": [
+        "Success is promised only to those who seek",
+        "He who follows this route will enter into eternal light"
+      ],
+      "dominante_werkwoorden": [
+        "promised",
+        "will enter"
+      ],
+      "kwaliteit": "Conditional promises; the promise is contingent upon human merit rather than God's unilateral binding."
+    },
+    "declaratieven": {
+      "frequentie": 1,
+      "procent": "5%",
+      "voorbeelden": [
+        "Amen"
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "Low; the preacher describes the state of the hearer but does not enact a change of state (e.g., absolution)."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive descriptions of what the roads 'are'",
+        "Third-person analysis of 'many people' and 'vast throngs'",
+        "Definitions of vices as road markers"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a moral map rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Unconditional Promise",
+        "Direct address of God's action for the hearer"
+      ],
+      "effect_op_hoorder": "Moral exhaustion; the hearer is told what to do but not given the 'Word' that does it."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent; the 'promises' mentioned are conditional rewards for virtue, not illocutionary acts of grace.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 5,
+        "gebruik": "Used to refer to the Savior's words or the preacher's introductory remarks."
+      },
+      "tweede_persoon": {
+        "frequentie": 12,
+        "gebruik": "Used primarily for imperatives (Directives).",
+        "performatieve_context": "Used to demand action, not to deliver grace."
+      },
+      "derde_persoon": {
+        "frequentie": 45,
+        "gebruik": "Dominant mode; describing 'the road', 'the crowd', 'the unchaste'.",
+        "distantie_effect": "Creates a high degree of distance; the sermon feels like a lecture on spiritual geography."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "20%",
+        "gebruik": "Referring to what the Lord said in the Gospel."
+      },
+      "tijdloos_present": {
+        "frequentie": "70%",
+        "gebruik": "General moral truths and definitions of vice/virtue."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Direct appeals to the brothers to 'flee' now."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of the road) -> Directive (So, you must walk it).",
+      "voorbeelden": [
+        "The road is wide... So, bypass the road of drunkenness."
+      ],
+      "probleem": "Lacks the 'Promissory' middle step; there is no power given to fulfill the command."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "None",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Merit eternal life with the few (Imperative without Indicative of Grace)"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "The sermon is a moral appeal that relies on the hearer's willpower. It describes the 'what' (Assertive) and demands the 'how' (Directive) without the 'event' of the Gospel (Commissive/Declarative).",
+    "sterke_punten": [
+      {
+        "aspect": "Clarity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Bypass the road of drunkenness... greed... impurity.",
+        "effect": "Hearers know exactly which sins are being targeted."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Success is promised only to those who seek with zeal.",
+        "probleem": "The promise is turned into a law.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a lecture on morality rather than a sacramental event where God acts upon the hearer.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The Word is used as information and instruction, not as a creative force that brings about what it says."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is a past speaker (in the text) but not an active present speaker in the sermon.",
+      "prediker_als_mandataris": "The preacher acts more as a moral guide than a mandatory of Christ.",
+      "tekstueel_bewijs": [
+        "It’s our Savior himself who tells us"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is attributed to human 'zeal' and 'diligence'.",
+      "tekstueel_bewijs": [
+        "Success is promised only to those who seek with zeal"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the sermon is a means of instruction.",
+      "epifanisch_taalgebruik": "No; it is descriptive and hortatory.",
+      "tekstueel_bewijs": [
+        "These statements prove that..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' (Assertive) and 'must' (Directive) verbs; almost no 'I give/promise' (Commissive/Declarative).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The unchaste don’t attain to life.",
+          "voorgestelde_revisie": "In Christ, I declare you cleansed from all impurity so that you may walk in newness of life.",
+          "verschil": "Shifts from a threat to a creative declaration of identity."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is conditional.",
+      "suggestie": "Ground the ability to walk the narrow road in God's promise to hold the believer.",
+      "voorbeeldzinnen": [
+        "Christ promises to be the road beneath your feet."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'talking about' the roads.",
+      "suggestie": "Address the hearer as the one currently being rescued by Christ.",
+      "voorbeeldzinnen": [
+        "Today, Christ is pulling you off the broad road."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative (Choose!) lacks an indicative of grace (You are chosen!).",
+      "suggestie": "Start with the declarative of God's grace before demanding the response."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is clear and earnest, but it risks leaving the hearer in despair by presenting the narrow road as a work of human merit rather than a gift of divine grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Appealing' side of the message; SAT reveals that the 'Appealing' (Directive) is hollow because it lacks the 'Declarative' authority of God.",
+    "verschil_met_retoriek": "Rhetorically, the sermon uses good antithesis, but SAT shows it fails as an 'event' because it stays in the constative mode.",
+    "unieke_inzichten_SAT": "SAT exposes that 'promising' in this sermon is actually a 'threat' in disguise because of its conditional nature."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "teaches",
+        "tells",
+        "leads",
+        "reminds",
+        "proves",
+        "seems",
+        "appears"
+      ],
+      "directief": [
+        "flee",
+        "choose",
+        "keep off",
+        "bypass",
+        "follow",
+        "merit",
+        "fear",
+        "safeguard"
+      ],
+      "expressief": [
+        "beloved",
+        "dear",
+        "love"
+      ],
+      "commissief": [
+        "promised",
+        "will enter"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Flee the road to death and choose the road to life.",
+        "categorie": "Directive",
+        "illocutionaire_kracht": "Command",
+        "effectiviteit": "Weak, because it provides no power to do so."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' leading to legalism."
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Sermon 67: On Fasting",
+    "bijbeltekst": "Isaiah 1:13, Isaiah 58:5–9",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "550"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "your wound will be quickly healed",
+          "cleanse your conscience",
+          "exhaust yourself by depriving your body",
+          "nourish your soul"
+        ],
+        "conceptuele_metafoor": "SIN IS SICKNESS/IMPURITY; VIRTUE IS HEALTH"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "extinguish the fire of your passions",
+          "break the impetuosity of your spirit",
+          "subdue the ardors of concupiscence",
+          "smother the flames of avarice",
+          "break against the strength of your soul"
+        ],
+        "conceptuele_metafoor": "MORAL LIFE IS WARFARE"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "acquire a stronger title to God’s favor",
+          "donate your excess wealth",
+          "increasing your inheritance",
+          "piling up sins"
+        ],
+        "conceptuele_metafoor": "MORAL INTERACTION IS COMMERCIAL TRANSACTION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "soul doesn’t remain weighed down with sin",
+        "brondomein": {
+          "naam": "PHYSICAL WEIGHT",
+          "concrete_elementen": [
+            "heavy objects",
+            "burden",
+            "gravity"
+          ],
+          "belichaamde_basis": "balance/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "SIN",
+          "doctrinale_traditie": "Patristic/Catholic"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Heavy load",
+            "doel_element": "Guilt/Sin"
+          },
+          {
+            "bron_element": "Sinking/Exhaustion",
+            "doel_element": "Spiritual stagnation"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Sin is a physical pressure that prevents upward movement."
+          ],
+          "theologische_implicaties": [
+            "Grace or fasting acts as a lifting force or removal of weight."
+          ],
+          "ethische_implicaties": [
+            "The believer must actively 'shed' behaviors to move freely."
+          ],
+          "onbedoelde_consequenties": [
+            "Sin might be viewed as an external attachment rather than an internal corruption."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "The image of sin as a weight is a standard biblical and liturgical trope."
+      },
+      {
+        "metafoor_expressie": "extinguish the fire of your passions... smother the flames of avarice",
+        "brondomein": {
+          "naam": "FIRE",
+          "concrete_elementen": [
+            "heat",
+            "destruction",
+            "uncontrolled growth",
+            "suffocation"
+          ],
+          "belichaamde_basis": "force/temperature"
+        },
+        "doeldomein": {
+          "theologisch_concept": "CONCUPISCENCE/DESIRE",
+          "doctrinale_traditie": "Asceticism"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Heat/Flame",
+            "doel_element": "Unordered desire"
+          },
+          {
+            "bron_element": "Water/Smothering",
+            "doel_element": "Ascetic discipline"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Desire is dangerous and self-consuming if not put out."
+          ],
+          "theologische_implicaties": [
+            "The soul is a site of volatile energy that requires suppression."
+          ],
+          "ethische_implicaties": [
+            "Self-control is a form of spiritual firefighting."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that all intense emotion or desire is inherently destructive."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher uses active verbs (extinguish, smother) to re-energize the image of desire as a physical hazard."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon maintains a strong focus on the internal-external axis, using the body as a container for the soul's intentions.",
+      "incoherentie_punten": [
+        {
+          "locatie": "§1 vs §3",
+          "metafoor_a": "Fasting as 'humiliating the soul' (Military/Relational)",
+          "metafoor_b": "Fasting as 'nourishing the soul' (Medical/Biological)",
+          "conflict_beschrijving": "Fasting is described both as a deprivation/attack on the self and as a source of nutrition.",
+          "entailment_conflict": "Can a soul be simultaneously starved (humiliated) and fed (nourished) by the same act?",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "§1",
+          "gemengde_metaforen": [
+            "Physical Fasting",
+            "Moral Cleansing"
+          ],
+          "blending_strategie": "The preacher uses the physical act of 'cutting food' to map onto 'cutting out evil deeds,' creating a unified theory of asceticism."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the dead metaphor of 'fasting' by connecting it to the concrete social actions of Isaiah 58.",
+        "voorbeeld": "“releasing those unjustly bound, untying the thongs of the yoke”"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "The use of 'title to God's favor' suggests a merit-based transaction.",
+        "voorbeeld": "“acquire a stronger title to God’s favor”",
+        "potentiele_impact": "Congregation may view God as a debtor who owes them for their good works.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A courtroom or temple where a sacrifice (the fast) is being evaluated for its 'acceptability' by a Judge/God.",
+      "sub_worlds": [
+        "The inner world of the heart (a battlefield of passions)",
+        "The social world of the poor (the street/hospital)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "§2",
+          "van_wereld": "The listener's current practice",
+          "naar_wereld": "The prophetic vision of Isaiah",
+          "effectiviteit": "Strong; it uses the 'Then' of the scripture to create a future-oriented mental space."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Judge/Observer",
+          "hoe_versterkt": "Repeated emphasis on what 'pleases' or 'disgusts' God."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Ritualism as sufficient",
+          "verstoring_strategie": "Juxtaposing physical deprivation with moral failure.",
+          "vervangend_schema": "Holistic Piety (Body + Soul + Neighbor)"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Perfectly aligned with Lenten or penitential seasons."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'MORAL LIFE IS WARFARE' and 'SIN IS IMPURITY' domains. It successfully moves from the individual body to the social body, using the medical domain to bridge the two. However, there is a lingering transactional tone that risks a 'works-righteousness' interpretation.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Fasting as 'humiliation'",
+        "huidige_status": "Lacks contemporary resonance; sounds purely negative.",
+        "suggestie": "Deepen the source domain of 'space-making'.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Fasting is clearing the 'clutter' of the soul to make room for a guest."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'torturing the body' to 'sanctified body'.",
+        "resolutie_strategie": "Clarify that the body is not the enemy, but a 'vessel' that needs tuning."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Sin as 'disgust' to God",
+        "problematisch_entailment": "God is seen as fragile or easily repulsed, potentially distancing the sinner.",
+        "aanbeveling": "Balance with the 'Physician' metaphor where God approaches the 'stench' to heal it."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To soften the military edge; fasting as 'pruning' for growth.",
+        "doel_concept": "Sanctification"
+      }
+    ],
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful call to integrated discipleship that uses vivid, high-stakes metaphors to bridge the gap between ritual and ethics."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'fire' imagery for its passion, CMT reveals it as a cognitive tool for categorizing desire as an external threat.",
+    "verschil_met_kolb": "Unlike Kolb's experiential cycle, CMT shows how the preacher uses the 'Source' of physical hunger to map the 'Target' of spiritual longing.",
+    "unieke_inzichten_CMT": "CMT identifies the 'Container' logic: the preacher treats the soul as a vessel that must be emptied of 'vices' before it can be filled with 'graces'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "weighed down with sin",
+      "allurements of vice",
+      "cleanse your conscience",
+      "piling up sins",
+      "extinguish the fire",
+      "smother the flames",
+      "break the impetuosity",
+      "wound will be healed",
+      "nourish your soul",
+      "clothe the naked/sins covered"
+    ],
+    "woord_frequentie_analyse": {
+      "fast": "14",
+      "soul": "7",
+      "sin": "6",
+      "body": "6",
+      "passions": "3"
+    },
+    "notities": "The preacher relies heavily on the 'UP/DOWN' verticality schema—God 'leaning down' vs. the 'Most High'."
+  }
+}

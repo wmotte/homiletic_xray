@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "titel_preek": "Third Sermon for the Easter Season",
+    "bijbeltekst": "Mt 5:15, Rm 9:5, Rm 10:15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "750"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon describes the mysteries of the Easter season, the passion of Christ, his descent to the netherworld, and his future role as Judge and King. It uses rich metaphorical imagery (gems, crowns, lamps).",
+      "exegetische_kwaliteit": "Strongly allegorical and typological. The text uses Scripture as a palette for painting a cosmic picture of Christ rather than a verse-by-verse exposition.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is describing the nature and work of Christ (Asserting) with a concluding exhortation (Commanding).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Christ Jesus painted it on our minds",
+        "He is our light",
+        "He will return to judge"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Awe, intellectual assent to the mysteries, and a sense of fear/reverence regarding the second coming.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "recognize",
+        "merit",
+        "hold fast"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "42",
+      "procent": "80%",
+      "voorbeelden": [
+        "The mysteries were contained in the books of Scripture.",
+        "He is our light.",
+        "The patriarchs compose the crown."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "were",
+        "remained",
+        "represents",
+        "came"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "8%",
+      "voorbeelden": [
+        "Let no one imagine...",
+        "Notice that when teaching...",
+        "Let us hold fast to this belief."
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "notice",
+        "hold fast"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "2",
+      "procent": "4%",
+      "voorbeelden": [
+        "How beautiful are the feet..."
+      ],
+      "dominante_werkwoorden": [
+        "are"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "4%",
+      "voorbeelden": [
+        "To us also he has promised resurrection and an eternal reward."
+      ],
+      "dominante_werkwoorden": [
+        "promised",
+        "gives"
+      ],
+      "kwaliteit": "Weak. The promise is reported as a past-tense fact ('He has promised') rather than a present-tense act of the preacher binding God to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "2%",
+      "voorbeelden": [
+        "God commands us to celebrate this great day."
+      ],
+      "dominante_werkwoorden": [
+        "commands"
+      ],
+      "autoriteit": "Low. The preacher describes God's command rather than exercising the keys of the kingdom to absolve or set apart."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 3rd person descriptions of Christ's attire.",
+        "Historical recounting of the passion events.",
+        "Theological definitions (He is reason, He is law)."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a beautiful 'painting' rather than a participant in a saving event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Present-tense promise ('I promise you in His name')",
+        "Direct address of the hearer's current situation"
+      ],
+      "effect_op_hoorder": "Information about salvation is provided, but the 'delivery' of salvation is deferred."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "1",
+      "kwaliteit_toezeggen": "Indirect and generalized.",
+      "voorbeelden": [
+        "To us also he has promised resurrection..."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "8",
+        "gebruik": "Mostly 'we' (inclusive of preacher and congregation as observers)."
+      },
+      "tweede_persoon": {
+        "frequentie": "0",
+        "gebruik": "None. No direct 'You' address.",
+        "performatieve_context": "N/A"
+      },
+      "derde_persoon": {
+        "frequentie": "35",
+        "gebruik": "Describing Christ, the Jews, the Patriarchs.",
+        "distantie_effect": "High. It creates a 'theatre' effect where the audience watches Christ."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "History of the passion and descent."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Ontological statements about who Christ is."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The current celebration."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Christ's glory) -> Directive (Hold fast to merit).",
+      "voorbeelden": [
+        "§4: He... triumphed... To us he has promised... My brothers, let us hold fast... so that we may merit."
+      ],
+      "probleem": "The indicative is treated as information, and the imperative (meriting) becomes the bridge to the effect, rather than the promise itself."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Let us hold fast... so that we may merit to live eternally."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a mystagogical lecture. It explains the 'what' of the mysteries but fails to 'do' the mysteries to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Imagery",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The sash formed by the prophets.",
+        "effect": "Creates a vivid mental icon of Christ."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entirety of §3.",
+        "probleem": "No 'You' (2nd person).",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a talk about an event (the Resurrection), not a resurrection-event for the hearer.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The word remains 'outside' the hearer as a description."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher speaks about God.",
+      "prediker_als_mandataris": "Weak. The preacher acts as an art critic/historian of the divine.",
+      "tekstueel_bewijs": [
+        "Christ Jesus painted it on our minds."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is tied to human 'merit' and 'holding fast' rather than the Spirit's work through the word.",
+      "tekstueel_bewijs": [
+        "so that we may merit to live eternally."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a preparation for or explanation of the season, not a means of grace in itself.",
+      "epifanisch_taalgebruik": "Yes, in locution (imagery), but not in illocution (address).",
+      "tekstueel_bewijs": [
+        "gleaming with all the splendor of gold."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is paralyzed by 'to be' and 'to have' in the 3rd person.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "To us also he has promised resurrection.",
+          "voorgestelde_revisie": "Today, Christ promises you: You will rise with Him.",
+          "verschil": "Shifts from a reported fact to a present-tense Commissive."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in the past tense.",
+      "suggestie": "Use the 'I-You' format to deliver the Easter grace.",
+      "voorbeeldzinnen": [
+        "Because He lives, you shall live also."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Total absence of the second person singular/plural.",
+      "suggestie": "Break the descriptive flow to address the 'you' of the congregation.",
+      "voorbeeldzinnen": [
+        "Do you see this light? It shines for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Legalistic 'merit' conclusion.",
+      "suggestie": "Base the 'holding fast' on the 'being held' by the promise."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "While rhetorically beautiful, the sermon remains a 'talking about' the mystery. To become an 'event,' it must move from the third person to the second, and from description to proclamation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-Revelation' of the preacher's awe; SAT reveals the lack of 'Declarative' authority.",
+    "verschil_met_retoriek": "Rhetorically, the metaphors are excellent; illocutionarily, they are inert.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'holy' vocabulary, the sermon acts as a lecture because it lacks Commissive and Declarative verbs."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "were contained",
+        "remained",
+        "shrouded",
+        "managed",
+        "painted",
+        "are concentrated",
+        "becomes",
+        "is",
+        "says",
+        "was placed",
+        "will arrive",
+        "shines",
+        "believe",
+        "came",
+        "will return",
+        "know",
+        "compose",
+        "wrote",
+        "is",
+        "represent",
+        "see",
+        "carries",
+        "won",
+        "triumphed"
+      ],
+      "directief": [
+        "let no one imagine",
+        "notice",
+        "let us hold fast"
+      ],
+      "expressief": [
+        "how beautiful"
+      ],
+      "commissief": [
+        "has promised",
+        "gives"
+      ],
+      "declaratief": [
+        "commands"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He will return to judge.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Warning (Constative)",
+        "effectiviteit": "Moderate"
+      },
+      {
+        "zin": "To us also he has promised resurrection.",
+        "categorie": "Commissive (Reported)",
+        "illocutionaire_kracht": "Information",
+        "effectiviteit": "Low"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the beauty of the language masks the lack of performative address."
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "titel_preek": "Sermon 11: The Birth of Christ",
+    "bijbeltekst": "Ph 2:7, Ps 87:5, Col 1:26, Lk 1:34-38, Lk 12:37, Rm 9:23",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the mystery of the Incarnation, focusing on the dialogue between Gabriel and Mary and the theological paradox of Christ's dual nature.",
+      "exegetische_kwaliteit": "High. Uses a catena of scriptures to establish the ontological reality of the God-man.",
+      "omvang_procent": "65"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher alternates between describing the mystery (Assertive) and calling for specific emotional responses (Directive/Expressive).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Let slaves rejoice (Directive/Jussive)",
+        "He became man, yet never ceased being God (Assertive)",
+        "I joyfully bow before your angelic voice (Expressive - via Mary)"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Awe, theological clarity, and a shared joy in the mystery of the virgin birth.",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is mentioned as the agent of the Incarnation, but not explicitly as the agent of the sermon's current efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "rejoice",
+        "believe",
+        "visualize",
+        "exult"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "45",
+      "procent": "60",
+      "voorbeelden": [
+        "The birth of Jesus Christ means redemption.",
+        "He vested himself in our humanity.",
+        "He built for himself the very temple."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "means",
+        "became",
+        "vested",
+        "remained"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "15",
+      "voorbeelden": [
+        "Let slaves rejoice.",
+        "Let all Christians acclaim him.",
+        "Try to visualize the scene."
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "visualize",
+        "rejoice"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "10",
+      "voorbeelden": [
+        "Oh, how happy is Mary!",
+        "Rejoice, O sacred virginity!"
+      ],
+      "dominante_werkwoorden": [
+        "rejoice",
+        "exult"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "5",
+      "voorbeelden": [
+        "Everyone who believes in him may have eternal life."
+      ],
+      "dominante_werkwoorden": [
+        "have",
+        "will"
+      ],
+      "kwaliteit": "Weak. Promises are largely reported as past events or general possibilities rather than direct address."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2",
+      "voorbeelden": [
+        "May he transform the children of wrath into vessels of mercy."
+      ],
+      "dominante_werkwoorden": [
+        "transform"
+      ],
+      "autoriteit": "Moderate. The preacher uses the optative 'May he' rather than the authoritative 'I declare'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75",
+    "performatief_percentage": "25",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive explanation of the hypostatic union.",
+        "Long narrative retelling of the Gabriel/Mary dialogue."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a past mystery rather than a participant in a present event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct sacramental promise to the 'You' in the pews."
+      ],
+      "effect_op_hoorder": "Intellectual assent without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "General and third-person.",
+      "voorbeelden": [
+        "Redemption sprouted for those who believe."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "5",
+        "gebruik": "Used primarily in the voice of Mary or Gabriel."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Used to address Mary or the 'dear brothers' collectively.",
+        "performatieve_context": "Mostly used for directives (visualize, understand)."
+      },
+      "derde_persoon": {
+        "frequentie": "65",
+        "gebruik": "Describing Christ, Mary, and the mechanics of the Incarnation.",
+        "distantie_effect": "Creates a historical/theological distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50",
+        "gebruik": "Historical narrative of the birth."
+      },
+      "tijdloos_present": {
+        "frequentie": "40",
+        "gebruik": "Dogmatic truths about Christ's nature."
+      },
+      "actueel_present": {
+        "frequentie": "10",
+        "gebruik": "The 'Now' of the celebration."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon often moves from 'Christ was born' (Assertive) directly to 'Let us rejoice' (Directive) without a personal Commissive.",
+      "voorbeelden": [
+        "This is the day of the Lord’s birth, so let slaves rejoice."
+      ],
+      "probleem": "The joy is commanded rather than evoked by a personal promise."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Lacks a clear Declarative bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Low"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "It’s the birth of the Physician, so let the sick rejoice."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "Don’t be unbelieving, but believing (addressed to Mary, not the hearer)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a 'mystagogical' lecture, explaining the depths of the Incarnation, but stays largely in the third person.",
+    "sterke_punten": [
+      {
+        "aspect": "Dogmatic Precision",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "He vested himself in our humanity without divesting himself of his divinity.",
+        "effect": "Provides a solid intellectual foundation for faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Direct Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Redemption sprouted from virginity.",
+        "probleem": "It describes redemption as a fact rather than offering it as a gift.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is more of a 'talking about' the event of the birth than the birth 'happening' in the ears of the listeners.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher does not use his mandate to declare 'Today Christ is born for YOU'."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the sentences, but rarely the speaker of the sermon.",
+      "prediker_als_mandataris": "Low. The preacher acts as a narrator/teacher.",
+      "tekstueel_bewijs": [
+        "My brothers, try to visualize the scene."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, in the context of Mary's conception.",
+      "perlocutie_theologie": "No, the preacher does not explicitly leave the effect to the Spirit.",
+      "tekstueel_bewijs": [
+        "The Holy Spirit will come upon you."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Weak. The sermon is a reminder of grace, not a means of grace.",
+      "epifanisch_taalgebruik": "Moderate. The descriptions of light and mystery are evocative.",
+      "tekstueel_bewijs": [
+        "Let the heavens thrill, and earth exult."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'He was' and 'He did' to 'He is' and 'He gives to you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The birth of Jesus Christ means redemption for sinners.",
+          "voorgestelde_revisie": "In this birth, Christ redeems you, a sinner.",
+          "verschil": "Moves from a definition to a declarative act."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in the narrative of Mary.",
+      "suggestie": "Apply Gabriel's promise directly to the congregation.",
+      "voorbeeldzinnen": [
+        "As the Spirit came upon Mary, so He comes upon you now through this Word."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much time spent addressing Mary (apostrophe).",
+      "suggestie": "Address the 'You' of the listener.",
+      "voorbeeldzinnen": [
+        "You, who are sick, your Physician is here."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperatives (rejoice) feel like duties.",
+      "suggestie": "Make the indicative so present that the imperative is a natural response."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is theologically rich and beautifully written, but it functions more as a portrait of Christ than an encounter with Him. Increasing the use of Commissives will turn this lecture into a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'. SAT reveals that the preacher's authority is to perform a divine act (Declaration), which is missing here.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (parallelism, imagery). SAT shows that despite the beauty, the illocutionary force remains largely assertive.",
+    "unieke_inzichten_SAT": "SAT identifies that the preacher is 'talking about' the mystery (Constative) rather than 'bestowing' the mystery (Performative)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "means",
+        "came",
+        "was",
+        "emptied",
+        "became",
+        "ceased",
+        "vested",
+        "remained",
+        "built",
+        "reigned"
+      ],
+      "directief": [
+        "let",
+        "acclaim",
+        "understand",
+        "visualize",
+        "listen",
+        "believe",
+        "rest"
+      ],
+      "expressief": [
+        "rejoice",
+        "exult",
+        "thrill",
+        "bow"
+      ],
+      "commissief": [
+        "will (future tense promises)",
+        "may have"
+      ],
+      "declaratief": [
+        "may he transform"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He became man, yet never ceased being God.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Teaching/Defining",
+        "effectiviteit": "Strong for instruction, weak for encounter."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'voice' of Gabriel to deliver performative content, but fails to translate that into the preacher's own voice toward the congregation."
+  }
+}

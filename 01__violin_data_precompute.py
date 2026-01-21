@@ -13,12 +13,13 @@ Usage:
 import json
 from pathlib import Path
 from collections import defaultdict
-from statistics import median, quantiles
+from statistics import median, quantiles, stdev
 
 # Configuration
 DOCS_DIR = Path("docs")
 INPUT_DIR = DOCS_DIR  # JSON analysis files are in docs/
 OUTPUT_FILE = DOCS_DIR / "violin_data.json"
+STATISTICS_FILE = DOCS_DIR / "statistics.json"
 
 
 def parse_filename(filename: str) -> tuple[str, str, str] | None:
@@ -40,7 +41,7 @@ def parse_filename(filename: str) -> tuple[str, str, str] | None:
     theologian = parts[0]
 
     # Known analysis types (including multi-part ones)
-    KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek', 'transactional']
+    KNOWN_ANALYSIS_TYPES = ['aristoteles', 'dekker', 'kolb', 'schulz_von_thun', 'esthetiek', 'transactional', 'speech_act', 'metaphor', 'narrative']
 
     # Find where the analysis type starts by looking for known analysis types
     analysis_start_idx = None
@@ -233,6 +234,96 @@ def extract_scores(data: dict, analysis_type: str, detailed: bool = False) -> di
         if conclusion.get('psychological_health_score'):
             add_score('Overall', conclusion['psychological_health_score'])
 
+    elif analysis_type == 'speech_act':
+        # Diagnostic evaluation scores
+        diag = data.get('diagnostische_evaluatie', {})
+        if diag.get('gebeuren_score'):
+            add_score('Event Score', diag['gebeuren_score'])
+        if diag.get('sacramentele_kracht'):
+            add_score('Sacramental Power', diag['sacramentele_kracht'])
+
+        # Illocution clarity score
+        structuur = data.get('drievoudige_structuur_analyse', {})
+        if structuur.get('illocutie', {}).get('helderheid_score'):
+            add_score('Illocution Clarity', structuur['illocutie']['helderheid_score'])
+
+        if detailed:
+            # Werkwoord analysis percentages (convert to 0-10 scale)
+            werkwoord = data.get('werkwoord_analyse', {})
+            for cat_key, cat_label in [('assertieven', 'Assertives'), ('directieven', 'Directives'),
+                                        ('expressieven', 'Expressives'), ('commissieven', 'Commissives'),
+                                        ('declaratieven', 'Declaratives')]:
+                cat_data = werkwoord.get(cat_key, {})
+                if cat_data.get('procent'):
+                    # Convert percentage string to score (e.g., "60%" -> 6.0)
+                    pct_str = str(cat_data['procent']).replace('%', '')
+                    try:
+                        pct_val = float(pct_str) / 10  # Convert to 0-10 scale
+                        if 0 <= pct_val <= 10:
+                            add_score(cat_label, pct_val)
+                    except ValueError:
+                        pass
+
+    elif analysis_type == 'metaphor':
+        # Coherence analysis
+        diag = data.get('diagnostische_evaluatie', {})
+        coherence = diag.get('coherentie_analyse', {})
+        coherence_status = coherence.get('overall_coherentie', '')
+        # Map coherence status to score
+        coherence_map = {'FULLY_COHERENT': 10, 'MOSTLY_COHERENT': 8, 'COHERENT': 7,
+                         'PARTIALLY_COHERENT': 5, 'INCOHERENT': 2}
+        if coherence_status in coherence_map:
+            add_score('Coherence', coherence_map[coherence_status])
+
+        if detailed:
+            # Dominant domains prominence scores
+            primair = data.get('primaire_analyse', {})
+            for i, domein in enumerate(primair.get('dominante_domeinen', [])[:3]):
+                if domein.get('prominentie_score'):
+                    try:
+                        score = int(domein['prominentie_score'])
+                        if 0 <= score <= 10:
+                            add_score(f"Domain {i+1} Prominence", score)
+                    except ValueError:
+                        pass
+
+    elif analysis_type == 'narrative':
+        # Rutledge score (God vs. human as subject)
+        gramm = data.get('grammaticale_analyse', {})
+        subject_check = gramm.get('subject_check', {})
+        if subject_check.get('rutledge_score'):
+            try:
+                score = int(subject_check['rutledge_score'])
+                if 0 <= score <= 10:
+                    add_score('Rutledge Score', score)
+            except ValueError:
+                pass
+
+        # Subject frequency score
+        actant = data.get('actantiele_analyse', {})
+        primair = actant.get('primair_narratief_programma', {})
+        if primair.get('subject', {}).get('frequentie_score'):
+            try:
+                score = int(primair['subject']['frequentie_score'])
+                if 0 <= score <= 10:
+                    add_score('Subject Frequency', score)
+            except ValueError:
+                pass
+
+        if detailed:
+            # Modal analysis prominences
+            modale = gramm.get('modale_analyse', {})
+            for mod_key, mod_label in [('devoir_faire', 'Devoir'), ('vouloir_faire', 'Vouloir'),
+                                        ('savoir_faire', 'Savoir'), ('pouvoir_faire', 'Pouvoir')]:
+                mod_data = modale.get(mod_key, {})
+                if mod_data.get('prominentie'):
+                    try:
+                        score = int(mod_data['prominentie'])
+                        if 0 <= score <= 10:
+                            add_score(mod_label, score)
+                    except ValueError:
+                        pass
+
     return scores
 
 
@@ -315,6 +406,29 @@ def aggregate_scores(all_data: list[dict], detailed: bool = False) -> dict:
                 result[metric_key][theologian] = violin_data
 
     return result
+
+
+def convert_violin_to_statistics(violin_data: dict) -> dict:
+    """
+    Convert violin plot data to statistics format (mean, stdDev, count).
+    This is used for the Statistics (I) tab which expects this simpler format.
+    """
+    stats_data = {}
+
+    for metric_key, theologian_data in violin_data.items():
+        stats_data[metric_key] = {}
+        for theologian, data in theologian_data.items():
+            values = data.get('values', [])
+            if len(values) > 0:
+                mean_val = sum(values) / len(values)
+                std_dev = stdev(values) if len(values) > 1 else 0.0
+                stats_data[metric_key][theologian] = {
+                    'mean': round(mean_val, 2),
+                    'stdDev': round(std_dev, 2),
+                    'count': len(values)
+                }
+
+    return stats_data
 
 
 def load_all_data() -> list[dict]:
@@ -417,11 +531,29 @@ def main():
     # Ensure docs directory exists
     DOCS_DIR.mkdir(exist_ok=True)
 
-    # Write output
+    # Write violin data output
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
     print(f"\nViolin plot data saved to {OUTPUT_FILE}")
+
+    # Generate and write statistics.json (for Statistics I tab)
+    print("\nGenerating statistics.json...")
+    summary_stats = convert_violin_to_statistics(summary_violin)
+    detailed_stats = convert_violin_to_statistics(detailed_violin)
+
+    stats_output = {
+        'generated_at': __import__('datetime').datetime.now().isoformat(),
+        'theologians': theologians,
+        'sermon_counts': sermon_counts,
+        'summary': summary_stats,
+        'detailed': detailed_stats
+    }
+
+    with open(STATISTICS_FILE, 'w', encoding='utf-8') as f:
+        json.dump(stats_output, f, indent=2, ensure_ascii=False)
+
+    print(f"Statistics data saved to {STATISTICS_FILE}")
 
     # Print summary
     print(f"\nSummary:")
