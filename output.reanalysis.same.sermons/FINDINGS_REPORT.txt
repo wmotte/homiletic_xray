@@ -1,0 +1,74 @@
+================================================================================
+REANALYSIS COMPARISON: RUN A vs RUN B
+D. Sölle Sermons - Model Output Variability Analysis
+================================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+This analysis compares two independent LLM analysis runs (A and B) on the same
+set of D. Sölle sermons across 6 analytical domains to quantify model output
+variability and assess reliability.
+
+OVERALL STATISTICS
+------------------
+Total paired comparisons: 1512
+Mean absolute difference: 0.327 points
+SD of absolute difference: 0.564 points
+Median absolute difference: 0 points
+Maximum absolute difference: 4 points
+
+AGREEMENT METRICS
+-----------------
+Exact matches (difference = 0): 1047 (69.2%)
+Within 1 point: 1456 (96.3%)
+Overall correlation (Pearson r): 0.927
+Overall ICC: 0.927 [0.919-0.934] - Excellent
+
+DOMAIN-LEVEL FINDINGS
+---------------------
+Ranked by mean absolute difference (highest variability first):
+
+1. transactional: Mean |diff| = 0.43, Correlation = 0.917, Exact matches = 71.9%
+2. schulz_von_thun: Mean |diff| = 0.34, Correlation = 0.817, Exact matches = 66.4%
+3. esthetiek: Mean |diff| = 0.34, Correlation = 0.867, Exact matches = 62.3%
+4. dekker: Mean |diff| = 0.33, Correlation = 0.921, Exact matches = 71.4%
+5. aristoteles: Mean |diff| = 0.33, Correlation = 0.847, Exact matches = 67.9%
+6. kolb: Mean |diff| = 0.27, Correlation = 0.938, Exact matches = 72.3%
+
+KEY INSIGHTS
+------------
+1. CONSISTENCY LEVEL: The overall ICC of 0.927 indicates excellent agreement between runs, suggesting the LLM produces relatively consistent scores
+   when analyzing the same sermon content.
+
+2. SYSTEMATIC BIAS: The mean difference (B - A) of -0.007 suggests no systematic bias between runs.
+
+3. DOMAIN VARIABILITY: transactional shows the highest variability (0.43 mean |diff|), while kolb is most stable (0.27 mean |diff|).
+
+4. SCORE TYPE VARIABILITY: Some specific score types within domains show notably
+   higher variability than others (see heatmap and summary_by_score_type.csv).
+
+5. PRACTICAL INTERPRETATION: With 96.3% of scores within 1 point
+   difference, the model shows acceptable reliability for comparative analysis
+   across sermons, though individual scores should be interpreted with caution
+   (typical uncertainty of ~0.3 points).
+
+RECOMMENDATIONS
+---------------
+- When comparing sermons, focus on differences > 1.1 points for confidence
+- Consider averaging multiple runs for high-stakes analyses
+- Domain-specific findings should weight reliability levels appropriately
+- Absolute scores are less reliable than relative rankings
+
+OUTPUT FILES
+------------
+- paired_comparison_data.csv: Raw paired comparison data
+- summary_overall.csv: Overall summary statistics
+- summary_by_domain.csv: Domain-level summary
+- summary_by_score_type.csv: Score type-level summary
+- icc_summary.csv: Intraclass correlation coefficients
+- plot_*.pdf: Various visualization files
+
+================================================================================
+Analysis completed: 2026-01-21 09:42:38
+================================================================================
+
