@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "titel_preek": "A Question Out Of The Darkness",
+    "bijbeltekst": "Luke 7:18–22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon narrates the story of John the Baptist's doubt in prison, Jesus' response through miracles, and parallels this with modern experiences of suffering and 'darkness'.",
+      "exegetische_kwaliteit": "Narrative-driven. Focuses on the psychological state of John and the historical context of his imprisonment.",
+      "omvang_procent": "65%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts historical/psychological facts and directs the hearer to look for evidence of God's work in their own lives.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "John the Baptist would have excited your imagination.",
+        "Jesus' answer is characteristic.",
+        "Look around now and you will see..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To comfort the hearer and encourage them to persevere through doubt by looking at past blessings.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of faith or the one who makes the word effective.",
+      "perlocutionaire_werkwoorden": [
+        "persevere",
+        "remember",
+        "trust",
+        "reconsider"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "His eyes were ablaze with a strange, intense fire.",
+        "Jesus was the answer.",
+        "God will not be put on trial."
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "is",
+        "talked",
+        "believed",
+        "states"
+      ]
+    },
+    "directieven": {
+      "frequentie": "28",
+      "procent": "15%",
+      "voorbeelden": [
+        "Look around now.",
+        "Let him first feel the warming sun.",
+        "Never forget the old psalm."
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "let",
+        "remember",
+        "forget"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "I like what John did.",
+        "I think there is abundant evidence."
+      ],
+      "dominante_werkwoorden": [
+        "like",
+        "think",
+        "wonder"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "5",
+      "procent": "3%",
+      "voorbeelden": [
+        "Be confident that God will accept whatever it is.",
+        "He will make it serve his purpose."
+      ],
+      "dominante_werkwoorden": [
+        "will accept",
+        "will make"
+      ],
+      "kwaliteit": "Weak. They are presented as general theological certainties rather than direct promises from God to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "So to present to God... is our right as his people."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Low. The preacher describes rights rather than exercising the keys of the kingdom (e.g., 'I declare to you')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive narrative description of John's appearance.",
+        "Detailed psychological speculation on John's feelings.",
+        "Third-person reporting of Jesus' actions."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical drama rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of Christ's presence in the hearer's specific darkness",
+        "Sacramental 'I' of the preacher acting for God"
+      ],
+      "effect_op_hoorder": "The hearer is left with the 'work' of remembering their own blessings to sustain faith."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "General and conditional.",
+      "voorbeelden": [
+        "He will make it serve his purpose and our good."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Anecdotal ('I once talked with a man') or homiletic 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": "24",
+        "gebruik": "Rhetorical questions and moral appeals ('Is it that way with you?').",
+        "performatieve_context": "Rarely. Mostly used to diagnose the hearer's problem rather than deliver the solution."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant. Narrating John, Jesus, and 'a man', 'a woman'.",
+        "distantie_effect": "High. It creates a 'talking about' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical narrative and personal anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about God and human nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Direct appeals at the end."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (John's story) -> Directive (Look at your life/Remember).",
+      "voorbeelden": [
+        "If a soul must doubt... let him first feel the warming sun."
+      ],
+      "probleem": "The 'solution' to doubt is a human act of remembering/observing rather than a divine act of promising."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the central Commissive/Declarative bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Look around now and you will see... signs that God is at work."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a narrative lesson. It provides information about doubt and encourages a psychological shift in the hearer, but fails to perform a sacramental act of grace.",
+    "sterke_punten": [
+      {
+        "aspect": "Vivid Imagery",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "His eyes were ablaze with a strange, intense fire.",
+        "effect": "Engages the imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The first 4 paragraphs are entirely descriptive.",
+        "probleem": "The sermon stays in the past tense too long.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a lecture on doubt rather than an encounter with the Deliverer.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not speak 'in persona Christi' to change the hearer's reality."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of discussion.",
+      "prediker_als_mandataris": "Weak. The preacher acts as a storyteller/advisor.",
+      "tekstueel_bewijs": [
+        "I think there is abundant evidence..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is attributed to the hearer's effort to 'remember' and 'look'.",
+      "tekstueel_bewijs": [
+        "If a woman must doubt... let her first remember..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a means of encouragement.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is buried in past-tense assertives. It needs a shift to present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus was the answer.",
+          "voorgestelde_revisie": "Jesus is here now as your answer.",
+          "verschil": "Shifts from historical fact to present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'toezegging' is hidden in a hymn quote.",
+      "suggestie": "Directly promise Christ's presence to the suffering hearer.",
+      "voorbeeldzinnen": [
+        "In your darkness, Christ promises: I will never leave you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' (John) and not enough 'you' (Hearer) in the light of the Gospel.",
+      "suggestie": "Use the second person to deliver the benefits of Christ.",
+      "voorbeeldzinnen": [
+        "To you, who are imprisoned by grief, Christ says: 'The prison doors are open'."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative ('Look around') is based on human observation, not divine promise.",
+      "suggestie": "Base the call to trust on the finished work of Christ declared now."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful but homiletically 'stuck' in the past. To become an 'event', it must move from talking about John's doubt to performing Christ's deliverance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of his own doubts; SAT reveals the lack of a 'Declarative' act that changes the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetoric admires the 'fire' and 'thunder' descriptions; SAT notes these are merely locutionary flourishes that lack illocutionary 'bite'.",
+    "unieke_inzichten_SAT": "SAT exposes that the sermon asks the hearer to do the work (Perlocution) that the preacher failed to do (Illocution: Promising)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "roared",
+        "ate",
+        "became",
+        "talked",
+        "is",
+        "states"
+      ],
+      "directief": [
+        "look",
+        "let",
+        "remember",
+        "forget",
+        "brace"
+      ],
+      "expressief": [
+        "like",
+        "think",
+        "wonder"
+      ],
+      "commissief": [
+        "will accept",
+        "will make"
+      ],
+      "declaratief": [
+        "is (our right)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Tell John what you have seen and heard.",
+        "categorie": "ASSERTIVE/DIRECTIVE",
+        "illocutionaire_kracht": "Reporting",
+        "effectiviteit": "Medium - it reports a performative act but isn't one itself."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'warming sun' and 'history' as evidence for God, which is a natural theology approach rather than a kerygmatic one."
+  }
+}

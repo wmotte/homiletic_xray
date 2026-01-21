@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "titel_preek": "Wem gehört eigentlich Weihnachten?",
+    "bijbeltekst": "Lukas 2 (Weihnachtsgeschichte)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon contextualizes the Christmas story within the Vietnam War (1972) and social injustice. It critiques traditional 'bourgeois' Christmas models (Bach/Family) in favor of a 'Liberation' model.",
+      "exegetische_kwaliteit": "Socio-political exegesis. The text is used as a mirror for contemporary suffering rather than a grammatical-historical analysis.",
+      "omvang_procent": "70%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily accusing and identifying. The preacher seeks to shatter false security and align the hearer with the oppressed.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Wir können Weihnachten nicht mehr... feiern",
+        "Wem gehört eigentlich Weihnachten?",
+        "Es sind die Machtlosen..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Solidarity, political awakening, and a sense of shared guilt/responsibility.",
+      "pneumatologisch_bewustzijn": "Low. The 'Spirit of Liberation' is invoked more as a human/political mindset than a transcendent agent.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "solidarize",
+        "rethink",
+        "mourn"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "85",
+      "procent": "75%",
+      "voorbeelden": [
+        "In Vietnam habe ich eine andere Erfahrung gemacht.",
+        "Der Gott der Bibel ist der Gott der Armen.",
+        "Es gibt sehr verschiedene Arten, von Weihnachten zu sprechen."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "haben",
+        "gehört"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "10%",
+      "voorbeelden": [
+        "Lasst uns von diesem tapferen asiatischen Volk lernen.",
+        "Lasst uns Bachs Freude hören."
+      ],
+      "dominante_werkwoorden": [
+        "lasst uns",
+        "müssen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "7%",
+      "voorbeelden": [
+        "Ich habe mich schwer getan mit dieser Ansprache.",
+        "Wir wunderten uns."
+      ],
+      "dominante_werkwoorden": [
+        "hoffen",
+        "wundern",
+        "freuen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "denen Weihnachten versprochen ist"
+      ],
+      "dominante_werkwoorden": [
+        "versprechen"
+      ],
+      "kwaliteit": "Weak. The promise is mentioned as a theological fact (assertive) rather than being enacted in the moment."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "Dann werden wir mit den Engeln singen lernen."
+      ],
+      "dominante_werkwoorden": [
+        "singen lernen"
+      ],
+      "autoriteit": "Low. The declaration is conditional ('If... then')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive reporting on Vietnam",
+        "Analysis of Bach's musicology",
+        "Sociological description of the 'bourgeois family'"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a political/cultural analysis rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct promise of grace",
+        "Sacramental 'I' addressing 'You'"
+      ],
+      "effect_op_hoorder": "Moral weight and guilt without the performative release of the Gospel."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The 'Toezegging' is missing; it is replaced by a 'Condition' (If we are with them, then...)",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Mostly 'Wir' (inclusive guilt/solidarity) or 'Ich' (preacher's experience)."
+      },
+      "tweede_persoon": {
+        "frequentie": "2",
+        "gebruik": "Virtually absent. No direct 'You' (Du/Ihr) address of the hearer.",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "50+",
+        "gebruik": "Talking about 'the people', 'the Vietnamese', 'the poor', 'the family'.",
+        "distantie_effect": "High. It creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Vietnam reportage and Bach's history."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about God and society."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The 'Now' of the political crisis."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Vietnam/Bach) -> Directive (We must learn/solidarize).",
+      "voorbeelden": [
+        "Wir können Weihnachten nicht mehr... feiern... Lasst uns lernen."
+      ],
+      "probleem": "The 'Indicative' is a law-indicative (guilt) rather than a grace-indicative, leading to a moralistic imperative."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of the Promise (Commissive).",
+      "voorbeelden": [],
+      "kwaliteit": "None"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "If we work against them... no Christmas. If we are with them... yes."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While politically radical, the sermon functions homiletically as Law. It describes a state of affairs and demands a response without the performative mediation of grace.",
+    "sterke_punten": [
+      {
+        "aspect": "Contextualization",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Maria und Josef tragen vietnamesische Züge",
+        "effect": "High relevance and emotional impact."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Missing Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "N/A",
+        "probleem": "God never speaks a promise to the hearer.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is an 'event' of political provocation, but not a 'sacramental event' of the Word.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher acts as a social critic, not as a mandatory of the creative Word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of talk.",
+      "prediker_als_mandataris": "No. Preacher is a witness/reporter.",
+      "tekstueel_bewijs": [
+        "Der Gott der Bibel ist..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimal. 'Geist der Befreiung' is used metaphorically.",
+      "perlocutie_theologie": "The effect is sought through emotional/political pressure.",
+      "tekstueel_bewijs": [
+        "aus dem Geist der Befreiung"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. Sermon as a call to action.",
+      "epifanisch_taalgebruik": "No.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 3rd person 'is/are' and 1st person plural 'we must'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Dem Gott der Bibel gehört Weihnachten.",
+          "voorgestelde_revisie": "Im Namen dieses Gottes sage ich euch: Er befreit euch heute von eurer Blindheit.",
+          "verschil": "Shifts from description to a declarative act."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is conditional on human solidarity.",
+      "suggestie": "Proclaim Christ's birth as a finished act for the hearer.",
+      "voorbeeldzinnen": [
+        "Euch ist heute der Retter geboren."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', no 'you'.",
+      "suggestie": "Address the congregation directly with the implications of the Gospel.",
+      "voorbeeldzinnen": [
+        "Hören Sie: Gott steht auf Ihrer Seite."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative (solidarity) precedes the indicative (grace).",
+      "suggestie": "Start with the gift of the Liberator, then move to the task."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A powerful prophetic speech, but homiletically stuck in the constative surplus of 'talking about' the poor rather than 'performing' the Gospel for the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on Sölle's 'Self-disclosure' (her struggle). SAT reveals the lack of 'Declarative' authority.",
+    "verschil_met_retoriek": "Rhetorically brilliant (pathos), but illocutionarily flat (mostly assertives).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the radical content, the linguistic structure remains a 'lecture' (constative) rather than an 'encounter' (performative)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "sind",
+        "war",
+        "hat",
+        "gibt",
+        "heißt",
+        "nennt"
+      ],
+      "directief": [
+        "müssen",
+        "lasst uns",
+        "sollte"
+      ],
+      "expressief": [
+        "habe mich schwer getan",
+        "wunderten uns"
+      ],
+      "commissief": [
+        "versprochen ist"
+      ],
+      "declaratief": [
+        "singen lernen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Wem gehört eigentlich Weihnachten?",
+        "categorie": "ASSERTIVE (Interrogative)",
+        "illocutionaire_kracht": "Questioning",
+        "effectiviteit": "High for engagement, low for proclamation."
+      }
+    ],
+    "notities": "Classic example of Political Homiletics where the 'Prophetic' (Law) overshadows the 'Priestly' (Gospel/Promise)."
+  }
+}

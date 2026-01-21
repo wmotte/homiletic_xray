@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "titel_preek": "Face To Face With Fear",
+    "bijbeltekst": "Psalm 25:14-15; Matthew 8:23-27 (implied)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the nature of fear, contrasting primitive superstition with legitimate modern anxieties, and uses the narrative of Jesus calming the storm to propose faith as the antidote.",
+      "exegetische_kwaliteit": "Moderate. The text uses the Sea of Galilee narrative as an illustrative archetype rather than a rigorous verse-by-verse exposition.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is describing the human condition and the character of God, with a secondary force of encouraging a shift in perspective.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "6",
+      "voorbeelden": [
+        "Fear continues as one of the strongest instincts known to humanity.",
+        "God is not a God of whim and caprice.",
+        "Faith drives fear forth."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To comfort the hearer and inspire a transition from anxiety to trustful 'faith'.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of this transformation within the sermon body.",
+      "perlocutionaire_werkwoorden": [
+        "trust",
+        "calm",
+        "believe",
+        "endure"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "Primitive man's life was surrounded by terrors.",
+        "In him... there are no variables.",
+        "Fear was its keynote."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "says",
+        "stands"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "Help us to remember...",
+        "Give us therefore the glorious liberty...",
+        "We might all learn from Jesus."
+      ],
+      "dominante_werkwoorden": [
+        "help",
+        "give",
+        "learn"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "We confess that we have not loved...",
+        "The heart sort of stands at attention."
+      ],
+      "dominante_werkwoorden": [
+        "confess",
+        "admire",
+        "hold"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "He will shew them his covenant.",
+        "He'll fight my battle (quoted)."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "promise"
+      ],
+      "kwaliteit": "Weak. Promises are mostly quoted from the Bible or hymns as general truths rather than being directly 'proffered' to the listener by the preacher."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher describes the possibility of peace but does not pronounce it."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical and psychological descriptions of fear.",
+        "Third-person analysis of the disciples' psychology.",
+        "Generalizations about 'people' and 'humanity'."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a lecture on fear rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "The hearer is left with the 'what' (faith) but not the 'event' of being given that faith."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The sermon talks *about* promises but does not *execute* a promise to the specific congregation.",
+      "voorbeelden": [
+        "Faith is leaning on his promises (Assertive about Commissives)."
+      ],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "28",
+        "gebruik": "Mostly 'we' (inclusive/general) or 'I' (anecdotal)."
+      },
+      "tweede_persoon": {
+        "frequentie": "2",
+        "gebruik": "Extremely low; only in hypothetical 'if you do not admit...'",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant. Talking about 'Primitive man', 'The disciples', 'A person'.",
+        "distantie_effect": "High. Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "45%",
+        "gebruik": "Biblical narrative and historical anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about fear and God's character."
+      },
+      "actueel_present": {
+        "frequentie": "5%",
+        "gebruik": "Limited to the opening prayer."
+      }
+    },
+    "adressering_effectiviteit": "2"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of fear) -> Directive (We might learn/Faith is the answer).",
+      "voorbeelden": [
+        "Faith is the answer to fear... Faith is trusting ourselves in his hands."
+      ],
+      "probleem": "It tells the hearer what faith is but does not provide the ground (Commissive) for the hearer to actually have it."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Faith is trusting ourselves... (This is an assertive definition, not a performative gift)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a psychological and theological essay on fear. It describes the 'mechanics' of faith without 'operating' the word of God upon the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Intellectual Clarity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "God is not a God of whim and caprice.",
+        "effect": "Provides a stable mental image of God."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "A person cannot be an adult believing Christian...",
+        "probleem": "Third-person objectification.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "3",
+    "gebeuren_toelichting": "It is a talk *about* an event (the storm) rather than being an event itself.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that binds God to the hearer in the present moment."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of discussion, not the subject of the speech act.",
+      "prediker_als_mandataris": "Weak. The preacher speaks as an analyst, not an ambassador.",
+      "tekstueel_bewijs": [
+        "The wise old book speaks..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly assumes that understanding the logic of faith will lead to having faith.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. It is treated as a means of instruction.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is saturated with 'is/was' (Assertives). It needs a shift to 'I promise/God declares' (Commissives/Declaratives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Faith is trusting ourselves in his hands.",
+          "voorgestelde_revisie": "Today, God places you in His hands; you can rest there.",
+          "verschil": "Shifts from a definition to a gift."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is hidden in quotes about the past.",
+      "suggestie": "Directly address the congregation's specific fears with God's present-tense promise.",
+      "voorbeeldzinnen": [
+        "To you who fear the 'atomic death' mentioned earlier: Christ promises that your life is hid with Him in God."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' and 'people'.",
+      "suggestie": "Use 'You' and 'We' (as a present community).",
+      "voorbeeldzinnen": [
+        "You are not orphans beneath the sky."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to 'have faith' lacks the declarative 'you are forgiven/held'.",
+      "suggestie": "Declare God's hold on the hearer before asking the hearer to hold onto God."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is intellectually sound but homiletically 'stuck' in the constative. By shifting to direct address and present-tense promises, it can move from a lecture to a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'. SAT reveals the lack of a 'creative word' that changes the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is good (metaphors, flow). SAT reveals that despite good rhetoric, it fails to 'do' anything.",
+    "unieke_inzichten_SAT": "SAT exposes that 'talking about faith' is not the same as 'eliciting faith' through a performative word."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "continues",
+        "walked",
+        "speaks",
+        "states",
+        "enters",
+        "take",
+        "comes",
+        "dart",
+        "shift",
+        "decrease",
+        "said",
+        "was",
+        "seeks",
+        "tends",
+        "crossed",
+        "attempt",
+        "hated",
+        "carries",
+        "wiped",
+        "stands",
+        "rests"
+      ],
+      "directief": [
+        "help",
+        "give",
+        "remember",
+        "learn",
+        "let us not admit",
+        "close",
+        "imagine",
+        "stop"
+      ],
+      "expressief": [
+        "hold",
+        "confess",
+        "loved",
+        "trusted",
+        "admire",
+        "hated"
+      ],
+      "commissief": [
+        "will shew",
+        "shall pluck",
+        "will fight"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Faith is trusting ourselves in his hands.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Defining",
+        "effectiviteit": "Low - informative but not transformative."
+      },
+      {
+        "zin": "Help us to remember that we are not orphans.",
+        "categorie": "DIRECTIVE/EXPRESSIVE",
+        "illocutionaire_kracht": "Petitionary",
+        "effectiviteit": "Moderate - sets a prayerful tone."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'illustrative power' of the Sea of Galilee story but fails to bridge the 'then' of the text with the 'now' of the congregation through a performative 'Toezegging'."
+  }
+}

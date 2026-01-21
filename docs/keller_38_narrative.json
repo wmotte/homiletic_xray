@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Scripture",
+    "bijbeltekst": "Luke 4:1-13",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus defeats the Devil in the wilderness through the Word of God, serving as the substitute who passes the test man fails, thereby breaking the power of temptation and accusation.",
+      "subject": {
+        "identificatie": "Jesus Christ",
+        "tekstueel_bewijs": [
+          "Jesus answered, 'It is written...'",
+          "Jesus Christ... was passing the test not as your example but as your substitute"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Defeat of evil/Salvation of the hearer",
+        "tekstueel_bewijs": [
+          "He came not to be served but to serve and to give his life.",
+          "Jesus Christ died for you so even when you screw up God still loves you"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Holy Spirit",
+        "tekstueel_bewijs": [
+          "led by the Spirit into the wilderness",
+          "he knew he was about to have to drink the big cup of divine wrath"
+        ],
+        "rol_interpretatie": "JUDGE/LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (New York City context)",
+        "tekstueel_bewijs": [
+          "that ends your temptation",
+          "there is no condemnation for those who are in Jesus Christ"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Scripture (The Word of God)",
+        "tekstueel_bewijs": [
+          "how to defeat it using the Scripture",
+          "the Scripture went down in there and showed those lies to be what they were"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help and indwelling power"
+      },
+      "tegenstander": {
+        "identificatie": "The Devil (Supernatural Evil)",
+        "tekstueel_bewijs": [
+          "assaulted by the Devil",
+          "supernatural darkness and personal, supernatural evil of the demonic"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The preacher explicitly rejects psychological/sociological reductions of evil, insisting on a supernatural, personal opponent that 'magnifies' human sin."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The believer's use of Scripture to resist daily temptation and accusation.",
+      "subject": "The Hearer",
+      "object": "Spiritual stability/Resisting lies",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics/discipline) is explicitly grounded in the primary program (soteriology). The hearer can only use Scripture effectively if they first see Jesus as Savior, not just Example."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation/Victory → The Hearer",
+      "helper_subject_tegenstander": "Scripture → Jesus ← The Devil",
+      "subject_naar_object": "Jesus → Defeat of Evil"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "38",
+      "ratio": "1.1",
+      "voorbeelden_god_subject": [
+        "Jesus answered...",
+        "Jesus Christ was passing the test...",
+        "Jesus had to die."
+      ],
+      "voorbeelden_mens_subject": [
+        "how we can [use Scripture], too",
+        "you’ll be aligning yourself with the forces of evil",
+        "you decide to get rid of God"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I urge you to change your worldview."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Satan is not asking Jesus to break one of the Ten Commandments."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "we’re going to learn the depth and complexity of evil",
+          "how this Scripture actually functions in our lives"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Jesus Christ... was passing the test not as your example but as your substitute",
+          "that ends your temptation"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Pouvoir' (Power) of Christ's finished work which provides the competence the hearer lacks."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Substitution",
+      "s2": "Judgment/Accusation",
+      "niet_s1": "Exemplarism/Self-Salvation",
+      "niet_s2": "Overconfidence/Temptation"
+    },
+    "beweging_in_preek": "Moves from the reality of S2 (Evil/Devil) to the failure of ~S1 (Moralism) to the victory of S1 (Christ as Substitute).",
+    "theologische_resolutie": "Christ takes the 'cup of divine wrath' (S2), satisfying the law so that the hearer moves from accusation to grace.",
+    "ernst_van_s2": "Very high; the sermon spends significant time establishing the 'depth and complexity' of evil to make grace necessary."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon explicitly warns against 'exemplarism' and centers on Christ as the substitute who accomplishes what the hearer cannot.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential for 'Be like Jesus' in Scripture use",
+        "tekstueel_bewijs": "how Jesus uses the Scripture and how we can, too",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Rejection of Exemplarism",
+        "tekstueel_bewijs": "As long as Jesus is only your example, Satan has you right where he wants you.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Substitutionary Atonement",
+        "tekstueel_bewijs": "Jesus Christ, who is passing the test not as your example but as your substitute",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "The preacher explicitly deconstructs exemplarism as a 'trap of the Devil'.",
+      "bijbelse_figures_als_model": [
+        "Jesus (rejected as primary model, affirmed as substitute)"
+      ],
+      "alternatieve_lezing": "Jesus as the Second Adam who succeeds where we fail."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the 'one-two punch' of temptation and accusation.",
+      "theologische_implicatie": "Justification by faith alone."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'depth of evil' to the 'work of Christ' is logically and narratively tight.",
+      "spanning_punten": [
+        "The tension between Jesus as 'Example' (how he used Scripture) and 'Substitute' (what he did for us)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "passing the test not as your example but as your substitute",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit leads Jesus; the Word (Spirit-breathed) empowers the believer."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; evil is described as a 'supernatural darkness' that humans cannot manage."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God/Christ as the Subject of the primary narrative of salvation.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Savoir (Knowing the strategies of evil).",
+      "voorgestelde_balans": "Maintain the current focus on Pouvoir (Christ's power).",
+      "concrete_suggestie": "Ensure the application of 'using Scripture' doesn't devolve into a new 'Devoir' (Law)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Strongly intensified.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The preacher correctly identifies that a weak opponent leads to a weak Savior."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Scripture use as a response to grace)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in avoiding moralism while preaching a text that is frequently used for moralistic 'tips for living'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the FDR illustration; semiotics reveals that FDR is an actant for 'Human Incompetence'.",
+    "verschil_met_exegese": "Exegesis explains the Greek word for 'test'; semiotics explains why that 'test' requires a Subject-switch from Man to Christ.",
+    "unieke_inzichten_greimas": "Reveals the 'one-two punch' of the Devil as a functional shift between the actants of Helper (false) and Opponent."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (answered)",
+      "The Devil (led)",
+      "FDR (did not believe)",
+      "Christ (died)",
+      "The Word (remains)"
+    ],
+    "volledige_object_lijst": [
+      "Bread",
+      "Kingdoms",
+      "Salvation",
+      "Truth"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "use": {
+        "count": "8",
+        "primair_subject": "Man/Jesus"
+      }
+    },
+    "notities": "The sermon uses a 'Christus Victor' framework nested within a 'Penal Substitution' logic."
+  }
+}

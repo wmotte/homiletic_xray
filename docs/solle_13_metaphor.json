@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "titel_preek": "Eine Meditation zu Karfreitag",
+    "bijbeltekst": "Johannes 11,50-52",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Geschwister",
+          "Kind der Liebe",
+          "zerstreuten Kinder Gottes",
+          "Vatertheologie"
+        ],
+        "conceptuele_metafoor": "GOD IS A SOLIDARY FAMILY MEMBER"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Bankschulden",
+          "Güte, die nicht rechnet",
+          "vom Tod eines Unschuldigen profitieren",
+          "Sühne"
+        ],
+        "conceptuele_metafoor": "SALVATION IS NON-TRANSACTIONAL GENEROSITY"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "Wanderung zwischen Glauben und Zweifeln",
+          "mit ihrem Volk auf dem Weg",
+          "dem Untergang zurasenden Welt"
+        ],
+        "conceptuele_metafoor": "FAITH IS A PERPETUAL WANDERING"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Wir hüllen uns ein in diesen Satz wie in einen warmen Mantel.",
+        "brondomein": {
+          "naam": "CLOTHING/SHELTER",
+          "concrete_elementen": [
+            "Mantel",
+            "Wärme",
+            "Einhüllen"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "DOGMA/CONFESSION",
+          "doctrinale_traditie": "Existentialist/Liberal"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Mantel",
+            "doel_element": "Glaubenssatz (The world is redeemed)"
+          },
+          {
+            "bron_element": "Kälte der Welt",
+            "doel_element": "Absurdität/Tod"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Doctrine is not a factual truth to be proven, but a protective layer for survival."
+          ],
+          "theologische_implicaties": [
+            "The function of dogma is psychological and existential comfort rather than ontological definition."
+          ],
+          "ethische_implicaties": [
+            "The believer is allowed to 'wear' a truth they do not fully understand for the sake of endurance."
+          ],
+          "onbedoelde_consequenties": [
+            "Faith could be seen as mere escapism or a 'security blanket' (infantilization)."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the 'dead' concept of dogma by mapping it to the sensory experience of warmth and protection against a cold environment."
+      },
+      {
+        "metafoor_expressie": "Güte, die nicht rechnet, die sich verschenkt.",
+        "brondomein": {
+          "naam": "ANTI-ECONOMICS",
+          "concrete_elementen": [
+            "Geschenk",
+            "Nicht-Rechnen"
+          ],
+          "belichaamde_basis": "balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "GRACE/ATONEMENT",
+          "doctrinale_traditie": "Post-Liberal/Critical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Accounting/Calculation",
+            "doel_element": "Legalistic Atonement"
+          },
+          {
+            "bron_element": "Gift",
+            "doel_element": "Jesus' Sacrifice"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God does not keep a ledger of sins."
+          ],
+          "theologische_implicaties": [
+            "Rejection of Anselmian satisfaction theory (Sühne)."
+          ],
+          "ethische_implicaties": [
+            "Radical generosity without expectation of return."
+          ],
+          "onbedoelde_consequenties": [
+            "Potential loss of the concept of justice or moral accountability."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Common in modern homiletics to contrast 'calculating' law with 'free' grace."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon maintains coherence by consistently rejecting transactional/juridical metaphors in favor of relational/solidarity metaphors. However, it struggles with the tension between the 'Caiaphas logic' (utilitarian sacrifice) and 'Christ logic' (solidarity sacrifice).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "GOD IS A VERRÜCKTER GOTT (Solidarity)",
+          "metafoor_b": "ES IST BESSER... (Utilitarianism)",
+          "conflict_beschrijving": "The preacher rejects the Caiaphas quote throughout the sermon but ends by adopting it as a 'hold' for life.",
+          "entailment_conflict": "If sacrifice is a 'mad love' (non-utilitarian), it cannot be 'better' (utilitarian calculation) for the people.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Simone Weil story",
+          "gemengde_metaforen": [
+            "POLITICAL RESISTANCE",
+            "IMITATIO CHRISTI"
+          ],
+          "blending_strategie": "The preacher uses the concrete historical figure of Weil to bridge the gap between the abstract 'death of Jesus' and modern ethical solidarity."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The use of Simone Weil as a 'living metaphor' for the cross prevents the sermon from falling into 'dead' dogmatic language.",
+        "voorbeeld": "Sie ist verhungert... Versagen des Herzens infolge Unterernährung."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By framing dogma as a 'warm coat' and a 'stuttering' against tears, the objective reality of the Resurrection is reduced to a psychological coping mechanism.",
+        "voorbeeld": "Dinge sagen, die man nicht versteht, die wir aber zum Leben brauchen.",
+        "potentiele_impact": "Congregation may view faith as a helpful fiction rather than truth.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A world of political occupation and utilitarian decisions (Jerusalem under Rome).",
+      "sub_worlds": [
+        "The world of Simone Weil (WWII, Resistance, Hunger).",
+        "The world of the 'Third World' (Debt, Cross of Banks).",
+        "The inner world of the 'Wanderer' (Doubt and Faith)."
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Middle",
+          "van_wereld": "Ancient Jerusalem",
+          "naar_wereld": "1940s England/France",
+          "effectiviteit": "Highly effective in making the 'sacrifice' concept tangible."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Co-Sufferer",
+          "hoe_versterkt": "Repeated emphasis on God being 'nowhere else' but where life is desecrated."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Angry Judge/Accountant",
+          "verstoring_strategie": "Direct critique of 'Vatertheologie' and 'Sühne'.",
+          "vervangend_schema": "God as 'Verrückte Liebe' (Mad Love)."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits the Good Friday solemnity but disrupts traditional satisfaction-theory expectations."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'SOLIDARITY IS PRESENCE' metaphor, effectively moving away from 'SALVATION IS TRANSACTION'. It successfully uses the 'JOURNEY' domain to validate the hearer's doubt. The landscape is intellectually rigorous but leans heavily on existentialist categories.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Redemption (Erlösung)",
+        "huidige_status": "Abstract/Weak",
+        "suggestie": "Deepen the 'Warm Coat' metaphor into a 'Home' or 'Anchor' to provide more stability than just 'warmth'.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Erlösung ist der Boden unter den Füßen, wenn das Meer der Tränen steigt."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The use of 'Es ist besser...' at the end.",
+        "resolutie_strategie": "Explicitly distinguish between the 'Better' of Caiaphas (Calculation) and the 'Better' of Love (Self-giving) to avoid moral confusion."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOD IS A MADMAN (Verrückter Gott)",
+        "problematisch_entailment": "Implies God is irrational or unreliable.",
+        "aanbeveling": "Clarify that this 'madness' is the logic of the Cross, which is 'wisdom to those being saved'."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To counter the 'Wandering/Doubt' domain with a sense of 'Foundation' (Gründen).",
+        "doel_concept": "Certainty of Faith"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A profound cognitive-homiletical exercise that successfully deconstructs toxic 'transactional' schemas while offering a 'solidarity' schema that resonates with modern experience."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'warm coat' imagery for its beauty, CMT reveals it as a cognitive strategy to redefine the function of dogma.",
+    "verschil_met_kolb": "Unlike Kolb's learning cycles, CMT focuses on the mapping of the 'Simone Weil' source domain onto the 'Christ' target domain to create new theological meaning.",
+    "unieke_inzichten_CMT": "CMT identifies the 'Accounting' metaphor in the mention of 'Bankschulden' as a brilliant mapping of ancient sin-debt onto modern economic suffering."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Wanderung zwischen Glauben und Zweifeln",
+      "Warmen Mantel",
+      "Meer von Tränen",
+      "Kreuz der Bankschulden",
+      "Hineinzementiert in Schuld",
+      "Verrückter Gott",
+      "Kind der Liebe"
+    ],
+    "woord_frequentie_analyse": {
+      "Tod": "18",
+      "Volk": "12",
+      "Liebe": "7",
+      "Gott": "9",
+      "Unschuldig": "4"
+    },
+    "notities": "The preacher uses 'Vatertheologie' as a pejorative source domain for 'Authoritarianism'."
+  }
+}

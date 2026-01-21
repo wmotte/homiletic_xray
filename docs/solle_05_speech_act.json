@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "titel_preek": "Lass mich Dein Esel sein, Christus",
+    "bijbeltekst": "Matthäus 21:1-11 (Palmsonntag)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon uses the metaphor of the donkey from the entry into Jerusalem, mediated through a prayer by Dom Helder Camara, to discuss humility, the relationship between humans and animals, and the role of the believer in Christ's coming.",
+      "exegetische_kwaliteit": "Low. The text explicitly states this is 'not an interpretation' or 'exegesis' but an 'appropriation' (Aneignung). It bypasses historical-critical work for existential identification.",
+      "omvang_procent": "40%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is reflective and expressive, attempting to invite the listener into a specific self-understanding (the 'donkey' role).",
+      "primaire_kracht": "EXPRESSING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Lass mich Dein Esel sein (Expressive/Petitionary)",
+        "Das ist keine Auslegung (Assertive/Negative)",
+        "Christus kommt auch heute eher auf einem Fahrrad (Assertive/Metaphorical)"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel a sense of humble pride and solidarity with creation, seeing themselves as a vehicle for Christ.",
+      "pneumatologisch_bewustzijn": "Explicitly mentioned ('Heiligen Geist im Spiel vermuten'), but the Spirit is treated as a cause for the preacher's observation rather than the agent of the sermon's current effect.",
+      "perlocutionaire_werkwoorden": [
+        "identifizieren",
+        "einstimmen",
+        "demütig werden",
+        "mitarbeiten"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 28,
+      "procent": "70%",
+      "voorbeelden": [
+        "Das hat Dom Helder Camara gesagt.",
+        "Demut ist etwas äußerst Seltenes.",
+        "Christus kommt nicht anders als durch solche Esel."
+      ],
+      "dominante_werkwoorden": [
+        "sein",
+        "haben",
+        "sagen",
+        "denken"
+      ]
+    },
+    "directieven": {
+      "frequentie": 2,
+      "procent": "5%",
+      "voorbeelden": [
+        "Lass mich Dein Esel sein (Indirect directive/Prayer)",
+        "Ich will die Deutschen an die gegenwärtige Hauptbedeutung erinnern."
+      ],
+      "dominante_werkwoorden": [
+        "lassen",
+        "erinnern"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 8,
+      "procent": "20%",
+      "voorbeelden": [
+        "Manchmal möchte ich die Katze des Muhammed sein.",
+        "Das macht das Predigen so schwierig."
+      ],
+      "dominante_werkwoorden": [
+        "möchten",
+        "wollen",
+        "fühlen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 1,
+      "procent": "2%",
+      "voorbeelden": [
+        "Die Befreiung kommt in den abrahamitischen Minoritäten."
+      ],
+      "dominante_werkwoorden": [
+        "kommen"
+      ],
+      "kwaliteit": "Weak. The promise is generalized and sociological rather than a direct 'I promise you' from God."
+    },
+    "declaratieven": {
+      "frequentie": 0,
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher speaks as a reflective observer, not as a mandatory of the Word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Talking about the prayer of another person (Camara).",
+        "Talking about the difficulty of preaching.",
+        "Talking about the nature of humility."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a spiritual reflection rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Inspiration without transformation; information about a 'new role' without the creative word that bestows it."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "None. The 'coming of Christ' is described as a possibility or a general truth, not a promised event for the hearer.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 12,
+        "gebruik": "Subjective reflection ('Ich denke', 'Ich möchte')."
+      },
+      "tweede_persoon": {
+        "frequentie": 2,
+        "gebruik": "Generic 'du' ('Esel wie dich und mich').",
+        "performatieve_context": "Low. It is used to illustrate a point, not to address the soul."
+      },
+      "derde_persoon": {
+        "frequentie": 25,
+        "gebruik": "Describing Dom Helder, animals, and Christ.",
+        "distantie_effect": "High. The sermon feels like a literary or biographical essay."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Narrating Camara's story and biblical background."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "Generalizing about humility and animals."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Brief mention of Christ coming 'today'."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of a prayer) -> Assertive (Description of humility) -> Implicit Directive (Be like the donkey).",
+      "voorbeelden": [
+        "Christus kommt... durch uns. (Assertive) -> Implicit: So be available."
+      ],
+      "probleem": "It lacks the 'Toezegging' (Promise) that bridges the indicative and imperative."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "None"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The 'indicative' is a human prayer (Camara), not God's act, making the foundation anthropocentric."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon functions as a spiritual testimony or an essay on a prayer. It 'talks about' the event of preaching rather than being the event.",
+    "sterke_punten": [
+      {
+        "aspect": "Metaphorical depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Lass mich Dein Esel sein",
+        "effect": "Creates a memorable image for the listener."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Illocutionary Force",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Das macht das Predigen so schwierig.",
+        "probleem": "Meta-talk about preaching replaces the act of preaching.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a lecture on a prayer. The 'event' happened to Dom Helder; the preacher is merely reporting it.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "No declarative or commissive acts are performed in the name of God."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher is the speaker talking about a speaker (Camara).",
+      "prediker_als_mandataris": "Weak. The preacher acts as a cultural/spiritual commentator.",
+      "tekstueel_bewijs": [
+        "Ich denke nicht...",
+        "Zumindest will ich die Deutschen erinnern..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, but as a hypothesis ('vermuten').",
+      "perlocutie_theologie": "No, the preacher tries to manage the effect through psychological identification.",
+      "tekstueel_bewijs": [
+        "da muss man ja tatsächlich den Heiligen Geist im Spiel vermuten!"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is an 'Aneignung' (appropriation) rather than a 'Gnadenmittel' (means of grace).",
+      "epifanisch_taalgebruik": "Low. It is more ethical/existential than epiphanic.",
+      "tekstueel_bewijs": [
+        "Es ist die einfache Geste eines neuen Verstehens der eigenen Rolle."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is paralyzed by 3rd person descriptions and 1st person subjective desires. It lacks 2nd person performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Christus kommt auch heute eher auf einem Fahrrad.",
+          "voorgestelde_revisie": "Christus kommt heute zu dir; er nimmt dich in seinen Dienst.",
+          "verschil": "Shifts from a general observation to a direct address/promise."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'coming of Christ' is a theory, not a promise.",
+      "suggestie": "Use the authority of the office to promise Christ's presence.",
+      "voorbeeldzinnen": [
+        "Im Namen Christi sage ich dir: Er will dich gebrauchen."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (the preacher) and 'He' (Camara).",
+      "suggestie": "Address the congregation as 'You' (Ihr/Sie).",
+      "voorbeeldzinnen": [
+        "Ihr seid die Esel, auf denen er in diese Stadt einzieht."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The indicative is based on a human example (Camara) rather than God's act.",
+      "suggestie": "Ground the sermon in the fact that Christ *has chosen* the lowly."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The metaphor is beautiful, but don't just talk about the donkey—be the voice that calls the listeners into Christ's service."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-disclosure' of the preacher (his struggle with preaching). SAT reveals this as a failure of the 'Appeal' and 'Declaration' functions.",
+    "verschil_met_retoriek": "Rhetorically, the Camara story is a good 'exemplum'. SAT shows it fails because it remains an 'exemplum' instead of becoming a 'sacrament'.",
+    "unieke_inzichten_SAT": "SAT exposes that the preacher is talking *about* the difficulty of preaching instead of actually *preaching* (performing the word)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "hat gesagt",
+        "sollte",
+        "ist",
+        "geht",
+        "macht",
+        "zielt",
+        "kann",
+        "haben",
+        "arbeiten",
+        "kommt"
+      ],
+      "directief": [
+        "lass",
+        "erinnern"
+      ],
+      "expressief": [
+        "möchte",
+        "will",
+        "vermuten",
+        "denke"
+      ],
+      "commissief": [
+        "kommt (as promise)"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Lass mich Dein Esel sein, Christus.",
+        "categorie": "EXPRESSIVE/PETITION",
+        "illocutionaire_kracht": "Medium",
+        "effectiviteit": "Good as a hook, but remains a quote of someone else's prayer."
+      },
+      {
+        "zin": "Das macht das Predigen so schwierig.",
+        "categorie": "ASSERTIVE (Meta-talk)",
+        "illocutionaire_kracht": "Weak",
+        "effectiviteit": "Distracting; breaks the homiletical event."
+      }
+    ],
+    "notities": "The sermon suffers from 'homiletical narcissism'—talking about the act of preaching rather than performing it."
+  }
+}

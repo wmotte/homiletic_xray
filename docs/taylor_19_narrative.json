@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "The Christmas Mystery",
+    "bijbeltekst": "Luke 2:10–11",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God invades the human time-sphere through the mystery of infancy to offer a new start and identify with human suffering.",
+      "subject": {
+        "identificatie": "God / The Christmas Mystery",
+        "tekstueel_bewijs": [
+          "God has never given up on the world",
+          "God has visited it in Jesus Christ",
+          "The eternal had got inside of time"
+        ],
+        "frequentie_score": "7"
+      },
+      "object": {
+        "identificatie": "A fresh start / Newness / Identification",
+        "tekstueel_bewijs": [
+          "a fresh start and out of oldness bringing newness",
+          "the ultimate act of identification and love"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as the source of the 'Invasion')",
+        "tekstueel_bewijs": [
+          "God giving a fresh start",
+          "God's arrival"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity / The Hearer",
+        "tekstueel_bewijs": [
+          "unto you is born",
+          "to all people",
+          "the children of the world"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Christ Child / The Mystery of Infancy",
+        "tekstueel_bewijs": [
+          "He is the way to a new birth",
+          "He is empowered to say, 'Thy sins be forgiven'"
+        ],
+        "rol_van_god": "God is the Subject who acts through the Helper (Christ).",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "The Mystery of Iniquity / Herod / Sin",
+        "tekstueel_bewijs": [
+          "sin reared its ugly head",
+          "Herod inserted his vulgar ambitions",
+          "Satan goes forth to and fro"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a 'mystery' woven into the fiber of humanity, requiring 'war every day'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human response to the mystery: fighting against social and personal sin.",
+      "subject": "The Hearer / 'We'",
+      "object": "Victory over sin/social justice",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon moves from what God has done (Primary) to the obligation of the hearer to fight iniquity (Secondary)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → New Life → Humanity",
+      "helper_subject_tegenstander": "Christ → God ← Iniquity/Herod",
+      "subject_naar_object": "God → Identification/Redemption"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "18",
+      "ratio": "0.77",
+      "voorbeelden_god_subject": [
+        "God has never given up on the world.",
+        "God has visited it in Jesus Christ.",
+        "God himself looked around... and said, 'It is good.'"
+      ],
+      "voorbeelden_mens_subject": [
+        "We must fight the war against sin.",
+        "We must make war every day.",
+        "We have no right to let the tinsel... blind us."
+      ],
+      "rutledge_score": "7"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Against the power of evil we must make war every day.",
+          "We must fight the war against sin."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "The mystery baffles us but wins us.",
+          "I want my child to have a better chance."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "knowing little of the theological terms, we feel God is near."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "He is empowered to say, 'Thy sins be forgiven'.",
+          "God's power is not exhausted."
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the 'winsome' nature of the mystery to evoke desire (Vouloir) and then transitions to the obligation (Devoir) to fight sin."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Newness/Invasion (Grace)",
+      "s2": "Iniquity/Herod (Judgment/Sin)",
+      "niet_s1": "Oldness/Hardened Bones (Stagnation)",
+      "niet_s2": "Tinsel/Trimmings (Impunity/Blindness)"
+    },
+    "beweging_in_preek": "Moves from ~S1 (Oldness) to S1 (Newness), then acknowledges S2 (Iniquity) to warn against ~S2 (Tinsel-blindness).",
+    "theologische_resolutie": "Resolution is found in God's 'ultimate act of identification' which bridges the gap between time and eternity.",
+    "ernst_van_s2": "High. Sin is not a mistake but a 'mystery' and a 'loathsome word'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The deep structure identifies God as the primary actor who initiates the 'invasion.' While there is a strong moral imperative at the end, it is grounded in the prior action of God's arrival.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Subject-Switch in Ethics",
+        "tekstueel_bewijs": "Against the power of evil we must make war every day.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject of Salvation",
+        "tekstueel_bewijs": "God has never given up on the world... God has visited it.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Satan goes forth to and fro seeking whom he may devour.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The 'parents in hut and hovel' and the 'child in the nursery' are used as archetypes of hope, but Christ is not merely an example; He is the 'Way' and 'Empowered' one.",
+      "bijbelse_figuren_als_model": [
+        "The child in the nursery (as a type of new beginning)"
+      ],
+      "alternatieve_lezing": "Christ is the only one who can truly 'pull down the middle wall of partition,' which no human child can do."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Awe and then mobilization.",
+      "theologische_implicatie": "Soteriology precedes and enables Ecclesiology/Ethics."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "The transition from the 'Mystery of Infancy' to the 'Mystery of Iniquity' is logically sound, though the 'Mystery of Iniquity' section leans heavily on human effort.",
+      "spanning_punten": [
+        "The tension between 'God does his best' and 'iniquity arises' suggests a slight limitation on God's sovereignty."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "God has come among men and women as one of them in the ultimate act of identification.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The 'Mystery' itself provides the competence."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Severe; sin is 'woven into the fiber and stuff of our humanity'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God (Invasion) and Man (Warfare)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the 'Christmas Mystery' but shifts the Subject to 'We' when discussing the battle against sin.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The 'war against sin' is presented as a human performance (We must fight).",
+      "voorgestelde_herpositionering": "Present the battle against sin as the Spirit of Christ acting through the believer.",
+      "voorbeeld_revisie": "Because Christ has invaded our world, His light now fights the darkness within and among us."
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Maintain the focus on the hearer as the beneficiary of the 'Invasion'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "High Devoir (Must) in the second half.",
+      "voorgestelde_balans": "Increase Pouvoir (Power/Ability) derived from the Mystery.",
+      "concrete_suggestie": "Emphasize that the 'New Creature' has the power to fight sin, not just the obligation."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon already treats sin as a cosmic mystery (Satan/Herod)."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The ethical program (fighting sin) feels slightly detached from the soteriological program (the birth).",
+      "voorgestelde_structuur": "Explicitly link the 'New Birth' to the 'New Battle'."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful, theocentric sermon that avoids the trap of 'cheap grace' by taking sin seriously, while keeping God as the primary actor in the Incarnation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'mystery' imagery; Greimas reveals that 'Mystery' functions as the Subject/Sender of change.",
+    "verschil_met_exegese": "Exegesis would focus on the Lukan text; Greimas shows how the preacher uses the text to construct a narrative of 'Invasion'.",
+    "unieke_inzichten_greimas": "Reveals the 'Subject-switch' in the middle of the sermon where the hearer moves from a passive receiver to a warrior."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (visited, identified, gave)",
+      "Christ (is born, offers, says)",
+      "Sin/Iniquity (reared, spoke, arises)",
+      "We (recognize, admit, must fight)"
+    ],
+    "volledige_object_lijst": [
+      "A fresh start",
+      "The world",
+      "Newness",
+      "Reconciliation"
+    ],
+    "werkwoord_frequentie": {
+      "born": {
+        "count": "6",
+        "primair_subject": "Christ"
+      },
+      "fight/war": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "visited/invaded": {
+        "count": "3",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses 'Mystery' almost as a personified actant that performs the action of softening hearts."
+  }
+}

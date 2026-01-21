@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "titel_preek": "David’s Mercy",
+    "bijbeltekst": "1 Samuel 26",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "3200"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Exegesis of David sparing Saul in the wilderness of Ziph. The sermon explains the concept of the 'Lord's Anointed' and the Imago Dei.",
+      "exegetische_kwaliteit": "High. Connects the narrative of 1 Samuel to broader biblical theology (Genesis, James, Peter).",
+      "omvang_procent": "65%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily teaching and explaining (Assertive), transitioning into moral appeal (Directive) and Christological grounding (Commissive).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I’m going to recount the story.",
+        "The Lord commands us to do good to all.",
+        "Jesus Christ lost his life in order to forgive us."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer feels humbled by their own sin and empowered by Christ's sacrifice to forgive others.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of change, though the 'power' is sought in the Gospel.",
+      "perlocutionaire_werkwoorden": [
+        "forgive",
+        "repent",
+        "renounce",
+        "trust",
+        "confront"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "70%",
+      "voorbeelden": [
+        "David has been anointed by God.",
+        "Saul is a fool.",
+        "Jesus paid that infinite price."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "means",
+        "tells"
+      ]
+    },
+    "directieven": {
+      "frequentie": 28,
+      "procent": "15%",
+      "voorbeelden": [
+        "You must never try to give people what they deserve.",
+        "Forgive them. Full stop.",
+        "Use this and go do it."
+      ],
+      "dominante_werkwoorden": [
+        "must",
+        "should",
+        "do",
+        "forgive"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": 12,
+      "procent": "5%",
+      "voorbeelden": [
+        "It’s pretty amazing to me.",
+        "We thank you, Father."
+      ],
+      "dominante_werkwoorden": [
+        "thank",
+        "feel",
+        "amazed"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 15,
+      "procent": "7%",
+      "voorbeelden": [
+        "He gives you two things you have to have.",
+        "God promises to value your life (implied through David's type)."
+      ],
+      "dominante_werkwoorden": [
+        "gives",
+        "enables",
+        "will"
+      ],
+      "kwaliteit": "Strongly Christocentric but often framed as 'The Gospel gives' rather than 'I promise you in God's name'."
+    },
+    "declaratieven": {
+      "frequentie": 3,
+      "procent": "3%",
+      "voorbeelden": [
+        "I tell you if you confront somebody out of love...",
+        "We thank you for giving us..."
+      ],
+      "dominante_werkwoorden": [
+        "tell",
+        "thank"
+      ],
+      "autoriteit": "The preacher acts as an expert teacher/herald rather than a sacramental priest pronouncing absolution."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75%",
+    "performatief_percentage": "25%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of 'What I’m going to do is...'",
+        "Long quotes from Calvin and C.S. Lewis used to describe reality.",
+        "Third-person narrative dominates the first half."
+      ],
+      "effect_op_hoorder": "The hearer gains a deep intellectual understanding of forgiveness but may remain a spectator of the 'event'."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct sacramental address ('I announce to you...')",
+        "Present-tense commissives"
+      ],
+      "effect_op_hoorder": "The hearer is told *how* to get power, but the sermon doesn't always *mediate* that power directly."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 4,
+      "kwaliteit_toezeggen": "Theological and grounded in the work of Christ.",
+      "voorbeelden": [
+        "Jesus Christ lost his life in order to forgive us and reclaim us.",
+        "He gives you two things you have to have to forgive."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 45,
+        "gebruik": "Homiletic 'we' and personal 'I' as a teacher."
+      },
+      "tweede_persoon": {
+        "frequentie": 62,
+        "gebruik": "Direct application and challenging the hearer.",
+        "performatieve_context": "Used mostly in directives ('You must') rather than declaratives."
+      },
+      "derde_persoon": {
+        "frequentie": 110,
+        "gebruik": "Describing David, Saul, and theological concepts.",
+        "distantie_effect": "Creates a narrative distance that is only closed in the final third."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Recounting the story of David."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "Explaining how forgiveness works and what the Bible says."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "Direct address to the congregation's current situation."
+      }
+    },
+    "adressering_effectiviteit": 7
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "It avoids pure moralism by grounding the 'must' in the 'is' of the Gospel.",
+      "voorbeelden": [],
+      "probleem": "None"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Story) -> Assertive (Theology) -> Commissive (Christ's work) -> Directive (Go and do).",
+      "voorbeelden": [
+        "Jesus paid that price... that will enable you to do all of the love we’re talking about."
+      ],
+      "kwaliteit": "Strong theological link, but the 'Declarative' step is often replaced by an 'Assertive' explanation of the Gospel."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "When you see the anointed one loving you... you’ll be able to love other people."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a masterclass in evangelical teaching—explaining the 'why' and 'how' of the Gospel. It leans heavily on Assertives to build a case for the hearer's heart.",
+    "sterke_punten": [
+      {
+        "aspect": "Christological Grounding",
+        "categorie": "Commissief",
+        "tekstueel_bewijs": "Jesus Christ lost his life in order to forgive us.",
+        "effect": "Provides the necessary 'power' for the difficult task of forgiveness."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertief",
+        "tekstueel_bewijs": "What I’m going to do is kind of recount the story...",
+        "probleem": "The preacher spends a lot of time 'talking about' the text before 'doing' something with it.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 7,
+    "gebeuren_toelichting": "It becomes an event in the final third when the logic of the Gospel is applied directly to the hearer's conscience.",
+    "sacramentele_kracht": 6,
+    "sacramentele_toelichting": "The sermon functions as a 'means of grace' by explaining grace, but rarely by 'pronouncing' it with declarative authority."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicit. The preacher speaks *about* God's commands.",
+      "prediker_als_mandataris": "The preacher acts as an authorized teacher of the Word.",
+      "tekstueel_bewijs": [
+        "The Word of the Lord.",
+        "The gospel comes to you and says..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is attributed to 'seeing' and 'believing' the Gospel logic.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, it aims to provide 'power' through the Word.",
+      "epifanisch_taalgebruik": "Moderate. The comparison between David and Jesus creates an epiphanic 'aha' moment.",
+      "tekstueel_bewijs": [
+        "Jesus Christ, the ultimate anointed one..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'means' verbs. Need more 'I promise' and 'God declares'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus Christ lost his life in order to forgive us.",
+          "voorgestelde_revisie": "Because Jesus gave his life for you, I declare to you today: your sins are forgiven.",
+          "verschil": "Moves from a fact about history to a present-tense reality for the hearer."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often buried in a conditional 'if/then' logic.",
+      "suggestie": "Use more direct Commissives.",
+      "voorbeeldzinnen": [
+        "In Christ, God promises you the wealth of heaven."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": false,
+      "probleem": "The 'you' address is already quite strong.",
+      "suggestie": "Maintain the 'you' but shift from 'You must' to 'God gives you'.",
+      "voorbeeldzinnen": [
+        "God gives you the humility you need right now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is good.",
+      "suggestie": "Ensure the Declarative (absolution) precedes the Directive (forgiveness of others)."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A very strong teaching sermon that successfully avoids moralism, though it could gain sacramental 'event-character' by increasing declarative force."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "Unlike SvT, this analysis focuses on the divine authority of the speech act rather than the psychological state of the sender.",
+    "verschil_met_retoriek": "Focuses on what the words *do* (illocution) rather than just how they *persuade* (perlocution).",
+    "unieke_inzichten_SAT": "Reveals that even 'Gospel-centered' preaching can become constative if it only describes the Gospel instead of enacting it."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "means",
+        "says",
+        "tells",
+        "recounts",
+        "explains",
+        "reflects"
+      ],
+      "directief": [
+        "must",
+        "should",
+        "do",
+        "forgive",
+        "look",
+        "remember",
+        "confront"
+      ],
+      "expressief": [
+        "thank",
+        "feel",
+        "amazed",
+        "love"
+      ],
+      "commissief": [
+        "gives",
+        "enables",
+        "will",
+        "promises"
+      ],
+      "declaratief": [
+        "tell",
+        "declare",
+        "bless"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Jesus Christ lost his life in order to forgive us.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Stating a fact of the Gospel.",
+        "effectiviteit": "High for teaching, low for sacramental encounter."
+      }
+    ],
+    "notities": "The sermon is highly effective as a 'teaching event' but leans on the hearer's cognitive processing of the Gospel to create the effect."
+  }
+}

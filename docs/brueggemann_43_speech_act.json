@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "titel_preek": "Shrill Faith for the Nighttime",
+    "bijbeltekst": "Psalm 30 / Luke 18:1",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explains the structure of Psalm 30, contrasting day and night, and relates it to the national 'nightmare' of political trauma and personal crises (cancer, job loss).",
+      "exegetische_kwaliteit": "High. Detailed focus on Hebrew contrasts (anger/favor) and the structure of the lament/thanksgiving cycle.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is describing the experience of the psalmist to validate the hearer's experience, but it remains largely in the realm of reporting.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "6",
+      "voorbeelden": [
+        "I want to think about the special resources...",
+        "The speaker of Psalm 30 is a person of immense faith...",
+        "God does indeed get angry..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel understood in their anxiety and be encouraged to pray more boldly.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event' or the prayer.",
+      "perlocutionaire_werkwoorden": [
+        "trust",
+        "pray",
+        "hope",
+        "persist"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Nighttime is an odd time in human life.",
+        "The bad stuff is real.",
+        "The speaker says, 'Let me tell you about the first day'."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "means",
+        "happened"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Pray always.",
+        "Do not lose heart.",
+        "Imagine my surprise."
+      ],
+      "dominante_werkwoorden": [
+        "pray",
+        "lose",
+        "imagine"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "It interests me greatly.",
+        "I am rather astonished at myself.",
+        "I am so glad."
+      ],
+      "dominante_werkwoorden": [
+        "interests",
+        "astonished",
+        "glad"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "God reliably gives [the morning] that overrides every season of nightmare."
+      ],
+      "dominante_werkwoorden": [
+        "gives",
+        "overrides"
+      ],
+      "kwaliteit": "Weak. The promises are described as general theological principles rather than direct addresses to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "That is a good word to a society..."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Low. The preacher quotes the Bible's declarations but rarely speaks 'in persona Christi' to change the hearer's reality."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "The speaker says...",
+        "Let me tell you about...",
+        "The psalmist says it this way..."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of the Psalmist's faith rather than a participant in an encounter with God."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of God's presence to the specific congregation",
+        "Sacramental 'I' address"
+      ],
+      "effect_op_hoorder": "Information about God's reliability is provided, but the reliability is not 'enacted' for the hearer."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The sermon describes the concept of a promise but does not deliver one directly.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Preacher as narrator/analyst ('I want to think', 'I share')."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "General address or hypothetical ('When you are desperate').",
+        "performatieve_context": "Rarely used for direct grace."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "The Psalmist, God, the Speaker, the World.",
+        "distantie_effect": "High. The sermon is a report about a third party's experience."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and the Psalmist's story."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological truths about how God works."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate moment of preaching."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of Psalm) -> Directive (So pray always).",
+      "voorbeelden": [
+        "The way is with a God who has power... Jesus says: Pray always."
+      ],
+      "probleem": "The 'imperative' to pray is not founded on a 'declarative' act of grace in the sermon itself."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the middle step of the Commissive/Declarative 'Toezegging'.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "If we tough it out in silence, we will lose heart... But Jesus says: Pray always."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-level lecture on the theology of lament. It explains the mechanics of faith without triggering the event of faith.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The speaker makes four contrasts: anger/favor, beat/lifetime...",
+        "effect": "Provides intellectual clarity."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The speaker of Psalm 30 is a person of immense faith...",
+        "probleem": "The preacher hides behind the 'speaker' of the Psalm.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "3",
+    "gebeuren_toelichting": "It is a 'talking about' the event of the Psalmist, not a 'happening' for the congregation.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "No 'Verbum Externum' is directed at the hearer to change their status."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the Psalmist's speech.",
+      "prediker_als_mandataris": "Weak. Preacher acts as an analyst/teacher.",
+      "tekstueel_bewijs": [
+        "I want to consider with you one psalm..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly left to the hearer's willpower to 'not lose heart'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. Sermon as a resource/instruction.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "the Bible has resources that are much needed..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'says' and 'is'; zero 'I promise you' or 'God says to you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God’s favor toward us lasts a lifetime.",
+          "voorgestelde_revisie": "In the name of Jesus Christ, I declare to you: God’s favor is yours this morning and for your whole life.",
+          "verschil": "Shifts from a general truth to a specific gift (Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is kept in the 3rd person.",
+      "suggestie": "Directly address the 'nightmares' mentioned (cancer, job loss) with a Commissive.",
+      "voorbeeldzinnen": [
+        "To you who received that diagnosis: God promises He will not hide His face from you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Over-reliance on 'The Psalmist'.",
+      "suggestie": "Eliminate the 'The Psalmist says' buffer.",
+      "voorbeeldzinnen": [
+        "When you cry out tonight, God hears you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The command to pray feels like a burden because the grace isn't given first.",
+      "suggestie": "Declare God's presence first, then invite prayer."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The exegesis is brilliant, but the delivery is too detached. Turn the lecture into a proclamation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his interest in Ford); SAT reveals the lack of 'Creative Word' (Declarative).",
+    "verschil_met_retoriek": "Rhetorically, the imagery is strong; illocutionarily, the 'action' is missing.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'bold' topic, the preacher's speech acts are timidly assertive rather than declaratively authoritative."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "said",
+        "meant",
+        "interests",
+        "indicates",
+        "cope",
+        "happened",
+        "know",
+        "understood"
+      ],
+      "directief": [
+        "sing",
+        "give",
+        "join",
+        "imagine",
+        "pray",
+        "lose"
+      ],
+      "expressief": [
+        "interests",
+        "astonished",
+        "glad",
+        "delight"
+      ],
+      "commissief": [
+        "overrides",
+        "gives"
+      ],
+      "declaratief": [
+        "is (a good word)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Weeping may linger for the night, but joy comes with the morning.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a biblical principle.",
+        "effectiviteit": "Informative but not yet performative for the hearer."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' faith rather than 'performing' faith."
+  }
+}

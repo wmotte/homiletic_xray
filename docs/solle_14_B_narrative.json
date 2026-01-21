@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "titel_preek": "Unser täglich Brot gib uns heute",
+    "bijbeltekst": "Matthäus 6,11 (Vaterunser)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The restoration of the 'Age of Bread' where bread is recognized as a divine gift and shared communally to overcome the spiritual and physical death of materialism.",
+      "subject": {
+        "identificatie": "The Human 'We' (Collective humanity/Church)",
+        "tekstueel_bewijs": [
+          "Wir beteiligen uns an diesem Gottesbrot, indem wir essen, backen und sattmachen.",
+          "Wir müssen den langen Weg von der Beziehung... bis zur Einen Welt ohne Hunger gehen."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Shared Bread / Justice / Spiritual Vitality",
+        "tekstueel_bewijs": [
+          "Gott ist geteiltes Brot",
+          "Ein Stück Hoffnungsbrot"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "God as 'The Baker' (Die Bäckerin) / The Mystical Good",
+        "tekstueel_bewijs": [
+          "Gott ist das gemeinschaftlich Gute",
+          "Gott ist die Bäckerin, Gott verteilt"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The 'One World' / The Hungry / The Soul of the Rich",
+        "tekstueel_bewijs": [
+          "Die Erde hat auch heute noch genug Brot für alle Kinder."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Small acts of resistance / Political movements / Hope",
+        "tekstueel_bewijs": [
+          "eine kleine Gruppe, die den ungerechten Kaffee nicht mehr trinkt",
+          "Gott segne die Revolution"
+        ],
+        "rol_van_god": "God is instrumentalized as the 'Bread' itself or the 'Baker' who provides the material for human distribution.",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Materialism / Individualism / The Market",
+        "tekstueel_bewijs": [
+          "Der Materialismus ist tödlich",
+          "Den Markt interessiert das nicht"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily a socio-economic mindset and a lack of political imagination."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The individual's struggle for 'Hope-bread' amidst personal despair.",
+      "subject": "The Preacher/Individual 'I'",
+      "object": "Encouragement (Ermutigung)",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "The personal lack of hope mirrors the global lack of bread; both require a 'Subject-switch' to God's daily provision."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Baker) → Shared Bread → The One World",
+      "helper_subject_tegenstander": "Revolution/Hope → We (Humanity) ← Materialism/Market",
+      "subject_naar_object": "We → Distribution/Sharing"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "Gott fragt nach den Bedürfnissen der Menschen",
+        "Gott gibt mir kein Stück essbaren Brotes"
+      ],
+      "voorbeelden_mens_subject": [
+        "Wir müssen den langen Weg... gehen",
+        "Wir beteiligen uns an diesem Gottesbrot",
+        "Ich habe bis heute nicht gelernt, Brot wegzuwerfen"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Wir müssen den langen Weg... gehen",
+          "wir müssen... die Erde... nicht zu Tode vergewaltigen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Ich möchte auch an ein Gedicht... erinnern",
+          "Ich will nicht aufhören zu quengeln"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Die analytische Antwort auf diese Fragen heißt...",
+          "Ich habe darüber nachgedacht..."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Haben wir ein Recht mit den andern... mitzubeten?",
+          "unser aller Ohnmacht"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It seeks to awaken the desire (Vouloir) for a different world and imposes the obligation (Devoir) to share, while acknowledging a lack of power (Pouvoir) that is only partially filled by 'Hope'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Shared Bread (Life)",
+      "s2": "Materialism (Death)",
+      "niet_s1": "Individualism (Privatized Bread)",
+      "niet_s2": "Revolution/Utopia (Negation of Death)"
+    },
+    "beweging_in_preek": "From S2 (Materialism/Death) through ~S1 (Individualism) towards S1 (Shared Bread) via ~S2 (Revolutionary Hope).",
+    "theologische_resolutie": "Resolution is found in the 'Mystical' identification of God with the act of sharing.",
+    "ernst_van_s2": "High—Materialism is described as 'deadly' and 'soul-eating'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the language is deeply theological ('God is Bread'), the actantial structure is heavily anthropocentric. God is the 'Object' or 'Helper' for human social action rather than the primary Subject of salvation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Subject-Switch to Man",
+        "tekstueel_bewijs": "Wir beteiligen uns an diesem Gottesbrot, indem wir essen, backen und sattmachen.",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Conditional Participation",
+        "tekstueel_bewijs": "Das Brot, das nicht unser ist, ist nicht das Brot, das Gott gibt.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Source",
+        "tekstueel_bewijs": "Dass wir es nur heute... erbitten sollen, ist der klarste Hinweis auf Gottes Gnade.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The preacher's own biography and the 'small groups' act as models for the hearer.",
+      "bijbelse_figuren_als_model": [
+        "Rut (Ähren lesen)",
+        "Elia"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who provides for the widow and the prophet despite their total lack of resources."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform social justice; guilt over 'eating cake'.",
+      "theologische_implicatie": "Synergism: God provides the 'stuff' (Bread), but the 'Salvation' (Sharing) depends on human will."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically tense, oscillating between God as the 'Baker' and Man as the 'Distributor'.",
+      "spanning_punten": [
+        "God is Bread vs. We make the bread 'ours' by sharing."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "Wir beteiligen uns an diesem Gottesbrot.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Spirit is replaced by 'Hope' as a psychological/social force."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Serious, but treated as a systemic/political failure (Materialism) rather than an ontological state."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a call to action where God is the 'Resource' and the 'Hearer' is the 'Subject'.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "Man is the subject of 'sharing' and 'realizing' the kingdom.",
+      "voorgestelde_herpositionering": "God as the one who breaks the heart of stone to make sharing possible.",
+      "voorbeeld_revisie": "Instead of 'We must go the long way', use 'God leads us on the long way...'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the one who must 'save' the world by not eating cake.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that the hearer is the 'hungry child' in the poem, and God is the Mother who actually provides."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir/Vouloir",
+      "voorgestelde_balans": "Pouvoir (Grace as empowerment)",
+      "concrete_suggestie": "Focus on how the 'Daily Bread' (Christ) gives the power to live differently."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Social/Economic",
+      "voorgestelde_intensivering": "Sin as a power that prevents us from sharing even when we want to.",
+      "theologische_rationale": "To make the 'Pouvoir' of Grace necessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Sharing) is fused with Soteriology (God's gift).",
+      "voorgestelde_structuur": "1. God gives Bread/Life (Soteriology). 2. Therefore, we are freed to share (Ethics)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A powerful prophetic call, but structurally leans toward a 'theology of works' where God's presence is contingent on human distribution."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is brilliant and poetic; actantially, it is a recruitment for a social program.",
+    "verschil_met_exegese": "Exegesis would focus on the petition's context; Greimas reveals the 'Baker' is a functional role for the 'Shared Object'.",
+    "unieke_inzichten_greimas": "Reveals that 'God' and 'Bread' are often collapsed into a single actant (Object), removing God's agency as Subject."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wir (beten, gehören, haben Recht, müssen gehen, beteiligen uns)",
+      "Ich (versuche, habe gelernt, gehe leer aus)",
+      "Gott (fragt, ist, verteilt, gibt)"
+    ],
+    "volledige_object_lijst": [
+      "Brot",
+      "Gerechtigkeit",
+      "Hoffnung",
+      "Revolution"
+    ],
+    "werkwoord_frequentie": {
+      "geben": {
+        "count": "8",
+        "primair_subject": "God"
+      },
+      "müssen": {
+        "count": "6",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The use of 'Die Bäckerin' (The female Baker) shifts the Sender role to a nurturing, immanent figure."
+  }
+}

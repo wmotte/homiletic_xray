@@ -1,0 +1,423 @@
+{
+  "metadata": {
+    "titel_preek": "Grace in a Violent World",
+    "bijbeltekst": "Matthew 11:2-11; James 5:7-10; Isaiah 35:1-10",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the tension of Advent as a season of judgment and preparation for the Second Coming, using John the Baptist, the Epistle of James, and contemporary political scandals (Ken Starr/Clinton) as lenses.",
+      "exegetische_kwaliteit": "High. The preacher engages with lectionary omissions, Greek nuances of 'violence' in the kingdom, and historical-critical context of John the Baptist.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the reality of judgment and the nature of grace, shifting late into a commissive/declarative mode regarding Christ's substitutionary work.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Advent is the season for reflection upon these matters.",
+        "The Judge who is to come has given himself to be judged in our place."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from fear of judgment to comfort in the substitutionary work of Christ.",
+      "pneumatologisch_bewustzijn": "Implicitly low; the focus is on the objective 'action of grace' rather than the subjective work of the Spirit in the moment.",
+      "perlocutionaire_werkwoorden": [
+        "fear",
+        "repent",
+        "trust",
+        "be comforted",
+        "recognize"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "John is held in utmost reverence by all four Evangelists.",
+        "Advent is about what the Hank Williams song calls 'life’s other side'."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "means",
+        "reflects",
+        "shows",
+        "tells"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Let’s think for a moment of the Collect for Purity.",
+        "And listen: you and I are going to be judged."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "listen",
+        "behold",
+        "say"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Much as I admire the Advent lectionary...",
+        "I think a person whom we are likely to fear..."
+      ],
+      "dominante_werkwoorden": [
+        "admire",
+        "think",
+        "fear"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "5",
+      "procent": "3%",
+      "voorbeelden": [
+        "He will come and save you.",
+        "The Judge who is to come has given himself to be judged in our place."
+      ],
+      "dominante_werkwoorden": [
+        "save",
+        "given"
+      ],
+      "kwaliteit": "Strong but late. The promises are largely quoted from Scripture rather than spoken directly as the preacher's own illocutionary act."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "The judgment has already happened.",
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "happened",
+        "is"
+      ],
+      "autoriteit": "Moderate. The preacher declares the state of the world under grace but avoids direct absolution ('I forgive you')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical analysis of John the Baptist.",
+        "Lengthy cultural commentary on Kenneth Starr and political impeachment.",
+        "Literary analysis of Flannery O'Connor."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological lecture or cultural critique rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct address of the Gospel promise (Toezegging).",
+        "Present-tense sacramental declaration."
+      ],
+      "effect_op_hoorder": "The 'event' of grace is delayed until the final three paragraphs."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "The promise is clear but framed as a description of what 'has happened' rather than a direct 'I promise you' in the name of God.",
+      "voorbeelden": [
+        "The Judge who is to come has given himself to be judged in our place."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Used for homiletical 'we' and personal reflections on ministry/preferences."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Directly addressing the hearer's fear and the reality of their judgment.",
+        "performatieve_context": "Used effectively in the 'judgment' section to create crisis."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant. Talking about John, Jesus, Starr, and the Lectionary.",
+        "distantie_effect": "Creates a high degree of distance; the sermon feels like a report on truth rather than a delivery of truth."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and political events of the 1990s."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "Theological definitions of Advent and human nature."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The final move toward the cross and the 'now' of salvation."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids pure moralism (Directive), but stays too long in Assertive.",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from Assertive (Judgment is real) to Declarative (The judgment happened in Christ).",
+      "voorbeelden": [
+        "The news of judgment and the news of salvation arrive at the same time."
+      ],
+      "kwaliteit": "Theologically profound but rhetorically brief compared to the setup."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Behold, your God will come... He will come and save you."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a masterful theological essay that eventually lands on the Gospel, but it functions primarily as an explanation of the 'Advent tension' rather than a sacramental event.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Integrity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The shadow of the cross falls across the manger.",
+        "effect": "Provides a robust, non-sentimental foundation for faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The lengthy section on Kenneth Starr and the impeachment hearings.",
+        "probleem": "Objectifies the message through topical commentary.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It becomes an event only in the final moments when the preacher stops talking about politics and starts talking about the Judge's wounds.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The preacher acts more as a witness (Assertive) than a mandatory (Declarative)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the verbs, but the preacher describes God's actions rather than speaking for Him.",
+      "prediker_als_mandataris": "Moderate; the preacher acts as an interpreter of the 'dissonance'.",
+      "tekstueel_bewijs": [
+        "Advent tells us...",
+        "The prophet Isaiah proclaims..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicit; the effect is left to the 'action of grace'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, in the final paragraph's focus on the substitutionary atonement.",
+      "epifanisch_taalgebruik": "Yes, in the description of the Judge's face.",
+      "tekstueel_bewijs": [
+        "The face of the Judge is marked with infinite suffering."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/means' to 'gives/forgives/promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Judge who is to come has given himself to be judged in our place.",
+          "voorgestelde_revisie": "Today, this Judge stands before you, not to condemn you, but to take your judgment upon Himself.",
+          "verschil": "Moves from a historical fact to a present-tense address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried under cultural analysis.",
+      "suggestie": "Bring the 'substitution' theme into the 'Kenneth Starr' section directly.",
+      "voorbeeldzinnen": [
+        "In the midst of your secrets, Christ promises you: 'I have covered them all'."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 3rd person 'he/it/they'.",
+      "suggestie": "Use 'you' more frequently when discussing the implications of the cross.",
+      "voorbeeldzinnen": [
+        "He was broken for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually quite good, avoiding legalism.",
+      "suggestie": "N/A"
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A deeply theological and intellectually stimulating sermon that successfully avoids sentimentality, though it risks becoming a lecture before it becomes a proclamation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the preacher isn't just 'sending a message' about grace, but attempting to 'deliver' grace through the declaration of the cross.",
+    "verschil_met_retoriek": "The power here isn't in the Hank Williams quote (rhetoric), but in the illocutionary shift from 'Judgment is coming' to 'The Judge was judged'.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'event' of the sermon is hindered by the 80% assertive frequency, which keeps the hearer in a cognitive-observational mode."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "done",
+        "hangs",
+        "was called",
+        "is held",
+        "belongs",
+        "arrives",
+        "knew",
+        "reflects",
+        "seems",
+        "epitomize",
+        "forces",
+        "sets",
+        "tell",
+        "suffer",
+        "wrote",
+        "refer",
+        "pronounce",
+        "accused",
+        "learn",
+        "see",
+        "is",
+        "flinches",
+        "begins",
+        "includes",
+        "have laid",
+        "have lived",
+        "have fattened",
+        "have condemned",
+        "have killed",
+        "sent",
+        "has come",
+        "stops",
+        "omits",
+        "has had",
+        "was using",
+        "wrote",
+        "got",
+        "are",
+        "pushes",
+        "cannot resist",
+        "are bent",
+        "experience",
+        "was assailed",
+        "did not understand",
+        "had expected",
+        "had not expected",
+        "could be",
+        "replied",
+        "will take",
+        "will react",
+        "are",
+        "suffered",
+        "tells",
+        "is",
+        "will grow",
+        "will expend",
+        "operates",
+        "falls",
+        "find",
+        "are",
+        "seem",
+        "are",
+        "pushes",
+        "will not go",
+        "is",
+        "are going to be",
+        "is going to be",
+        "will be disclosed",
+        "are",
+        "happened",
+        "sets",
+        "begins",
+        "is going to take",
+        "arrives",
+        "is",
+        "is marked",
+        "are torn",
+        "bears",
+        "happened",
+        "taken place",
+        "proclaims",
+        "arrive",
+        "is"
+      ],
+      "directief": [
+        "Establish",
+        "Do not grumble",
+        "Think",
+        "Come now",
+        "weep",
+        "howl",
+        "Go",
+        "tell",
+        "let him hear",
+        "listen",
+        "Strengthen",
+        "make firm",
+        "Say",
+        "fear not"
+      ],
+      "expressief": [
+        "hate",
+        "want",
+        "admire",
+        "fear",
+        "protest",
+        "offend"
+      ],
+      "commissief": [
+        "save",
+        "given",
+        "will come"
+      ],
+      "declaratieven": [
+        "Amen",
+        "The judgment has already happened"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The Judge is standing at the doors!",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Warning/Alerting",
+        "effectiviteit": "High; creates the necessary crisis for the Gospel."
+      },
+      {
+        "zin": "The Judge who is to come has given himself to be judged in our place.",
+        "categorie": "COMMISSIVE/ASSERTIVE",
+        "illocutionaire_kracht": "Promising/Proclaiming",
+        "effectiviteit": "Very High; the pivot of the sermon."
+      }
+    ],
+    "notities": "The sermon relies heavily on literary and political examples to carry the locutionary weight, which risks the 'constative surplus' but provides a high-stakes context for the eventual performative move."
+  }
+}

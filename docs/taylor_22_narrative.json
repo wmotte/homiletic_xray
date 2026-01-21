@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "Strange Interlude",
+    "bijbeltekst": "Luke 3:1-2",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God bypasses established power structures to initiate a new era of history through an unconventional messenger.",
+      "subject": {
+        "identificatie": "God / The Word of God",
+        "tekstueel_bewijs": [
+          "The word of God came unto John",
+          "God marches among us in weird ways",
+          "God speaks in the language of events"
+        ],
+        "frequentie_score": 7
+      },
+      "object": {
+        "identificatie": "The New Era / Divine Invasion (Kairos)",
+        "tekstueel_bewijs": [
+          "New eras arrive almost unbelievably",
+          "The direction of God's purposes",
+          "Momentous anticipations of incredible things about to happen"
+        ],
+        "aard_van_object": "ESCHATOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God's Will",
+        "tekstueel_bewijs": [
+          "they do not come by human reckoning but by God's will"
+        ],
+        "rol_interpretatie": "SOVEREIGN_LORD"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity / The Future",
+        "tekstueel_bewijs": [
+          "New eras, new ages appear among men"
+        ],
+        "positie_hoorder": "The hearer is positioned as a spectator of God's history who must decide whether to 'midwife' the future or resist it."
+      },
+      "helper": {
+        "identificatie": "John the Baptist / The 'Strange' People (Youth, Outcasts)",
+        "tekstueel_bewijs": [
+          "God... puts the shout of his approach upon strange lips",
+          "John was... a spokesman for the everlasting God"
+        ],
+        "rol_van_god": "God is the primary Subject; John is the instrumental Helper/Messenger.",
+        "rol_van_geest": "External help (The Word 'coming' to the subject)."
+      },
+      "tegenstander": {
+        "identificatie": "Established Power / Institutional Inertia",
+        "tekstueel_bewijs": [
+          "Tiberius Caesar... Pontius Pilate... Herod",
+          "Annas and Caiaphas",
+          "shams and pretenses of their elders",
+          "cliffs of pride and haughtiness"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opposition is not just personal bad habits but the entire structure of world empires and religious institutions that claim permanence."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human response: preparing the way for the divine invasion.",
+      "subject": "The Hearer / The Church",
+      "object": "Straight paths / Prepared highways for God",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon explicitly states that humans cannot bring the new era to pass (Primary), but must prepare the road (Secondary)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Will → New Era → Humanity",
+      "helper_subject_tegenstander": "John/Strange Messengers → God → Caesar/Institutional Pride",
+      "subject_naar_object": "God → Historical Transformation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 14,
+      "mens_als_subject_count": 18,
+      "ratio": "0.77",
+      "voorbeelden_god_subject": [
+        "God marches among us",
+        "God will be heard",
+        "The word of God came unto John"
+      ],
+      "voorbeelden_mens_subject": [
+        "We shall need to bring forth better fruits",
+        "They want nothing but comfort",
+        "We can open up the highways"
+      ],
+      "rutledge_score": 7
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "We shall need to bring forth better fruits",
+          "There must be some stable institutions"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "They want nothing but comfort",
+          "They do not want to be disturbed"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "John saw it clearly",
+          "Perhaps they have seen accurately"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "We cannot bring to pass the things God will have happen",
+          "We can open up the highways"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Will'—the desire for comfort versus the passion for God's new future."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The New Era (Kairos)",
+      "s2": "The Status Quo (Caesar/Annas)",
+      "niet_s1": "Institutional Preservation (Comfort)",
+      "niet_s2": "The Wilderness (Disruption)"
+    },
+    "beweging_in_preek": "From S2 (Established Power) to ~S2 (The Wilderness/John) to S1 (The coming Word).",
+    "theologische_resolutie": "God bypasses S2 to establish S1 through the 'crank' in the wilderness.",
+    "ernst_van_s2": "High; the sermon emphasizes the 'purple of royalty' and 'invariably obeyed commands' as a formidable but ultimately passing reality."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While there are ethical imperatives at the end, the engine of the sermon is the sovereign, unpredictable action of God in history. God is the Subject of the primary movement.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Synergistic effort",
+        "tekstueel_bewijs": "they can, by God's grace and their own effort, serve the things of God",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of History",
+        "tekstueel_bewijs": "New eras... do not come by human reckoning but by God's will.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Divine Initiative",
+        "tekstueel_bewijs": "The word of God came unto John... God bypasses the correct people.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "John the Baptist and the 'strange youth' are used as models of openness to God.",
+      "bijbelse_figuren_als_model": [
+        "John the Baptist",
+        "Paul",
+        "Moses"
+      ],
+      "alternatieve_lezing": "The sermon mostly avoids pure exemplarism by framing these figures as 'helpers' to God's primary action rather than heroes to be imitated by human will alone."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "A sense of awe and a call to stop resisting the inevitable movement of God.",
+      "theologische_implicatie": "Soteriology is framed as God's invasion of a stagnant world."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The transition from God's sovereign action in history to the hearer's responsibility to 'prepare the way' is logically integrated.",
+      "spanning_punten": [
+        "The tension between 'God's grace' and 'their own effort' in the section on institutions."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "The 'divine invasion' and the breaking of the 'incurable disease' of power.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Word 'comes' to John, granting him the competence to speak."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "High; sin is seen as institutional blindness and the 'arrogance' of power."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the 'New Era'. The hearer is correctly placed as a receiver/responder.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer might identify too much with the 'nice people' being criticized.",
+      "voorgestelde_identificatie": "The 'Receiver' of the Word in the wilderness.",
+      "strategie": "Emphasize that we are all 'wilderness' people until the Word comes."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Devoir (Must) at the very end.",
+      "voorgestelde_balans": "Increase Pouvoir (God's enabling).",
+      "concrete_suggestie": "Clarify that God not only asks us to 'level the mountains' but provides the 'bulldozer' of the Spirit."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly identified as the 'purple of royalty' and 'stifling political circles'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's invasion) correctly precedes Ethics (Preparing the way)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful theocentric sermon that uses historical narrative to ground the sovereign action of God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the imagery of 'camel's hair', semiotics reveals that John is merely a 'Helper' actant for the 'Word' Subject.",
+    "verschil_met_exegese": "Exegesis would focus on the historical Tiberius; semiotics focuses on Tiberius as the 'Opponent' to the 'New Era'.",
+    "unieke_inzichten_greimas": "Reveals that the 'strange youth' and 'John' occupy the same actantial slot (Helper), validating the preacher's contemporary application."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (marches)",
+      "The Word (came)",
+      "New eras (arrive)",
+      "We (shall need)",
+      "John (saw)"
+    ],
+    "volledige_object_lijst": [
+      "The future",
+      "The way of the Lord",
+      "Comfort",
+      "God's ideas"
+    ],
+    "werkwoord_frequentie": {
+      "come/arrive": {
+        "count": 8,
+        "primair_subject": "God/Eras"
+      },
+      "want": {
+        "count": 5,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon avoids moralism by making the 'change' a result of God's will rather than human repentance, though it calls for repentance as a response."
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "38_Yerseke: Het begin van het Evangelie",
+    "bijbeltekst": "Marcus 1:1-15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God openbaart Zijn Zoon Jezus Christus als de Sterke Zaligmaker die de hemel scheurt en de zonde wegneemt, waarbij de hoorder wordt opgeroepen zich aan Hem over te geven.",
+      "subject": {
+        "identificatie": "God (Vader/Zoon)",
+        "tekstueel_bewijs": [
+          "In de Heer Jezus is God naar ons toegekomen",
+          "De Heere bewijst het",
+          "De hemelse Vader die scheurde de hemel open"
+        ],
+        "frequentie_score": "7"
+      },
+      "object": {
+        "identificatie": "Redding/Verzoening (Het welbehagen van de Vader)",
+        "tekstueel_bewijs": [
+          "om ons ook op goddelijke en bijzondere manier tot een zaligmaker te zijn",
+          "Hij komt om het zondenprobleem op te lossen"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God de Vader / De Schriften (Profeten)",
+        "tekstueel_bewijs": [
+          "Het is zoals er geschreven staat in de profeten",
+          "De hemelse Vader die liet Zijn Heilige Geest ook uit de hemel op de Heer Jezus komen"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "De hoorder / De zondaar",
+        "tekstueel_bewijs": [
+          "opdat ook wij in Hem geloven",
+          "u zult Gods geliefde kind zijn als u komt tot Hem"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Johannes de Doper / De Heilige Geest",
+        "tekstueel_bewijs": [
+          "Johannes die wijst ook van zich af",
+          "Hij zal u dopen met de Heilige Geest"
+        ],
+        "rol_van_god": "God is both Subject (Vader) and Helper (Geest)",
+        "rol_van_geest": "External help that becomes indwelling power"
+      },
+      "tegenstander": {
+        "identificatie": "Zonde / Ongeloof / De 'koude' natuur van de mens",
+        "tekstueel_bewijs": [
+          "haalt onze zondige natuur ons zo vaak weer in",
+          "dat we daar vaak zo koud onder worden"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Zonde wordt beschreven als een probleem dat alleen door de 'Sterke' (God zelf) opgelost kan worden; de mens is onmachtig."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "De hoorder moet de stap van geloof zetten (zich laten vallen).",
+      "subject": "De Hoorder",
+      "object": "Geloofsovergave / Bekering",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "De menselijke actie (geloof) wordt gepresenteerd als de noodzakelijke reactie op het voltooide werk van God."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Vader/Schrift → Redding/Zoon → Zondaar",
+      "helper_subject_tegenstander": "Geest/Johannes → Jezus/God ← Zonde/Dood",
+      "subject_naar_object": "Jezus → Wegnemen van zonde"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "38",
+      "ratio": "1.1",
+      "voorbeelden_god_subject": [
+        "De Heere bewijst het",
+        "Hij komt om het zondenprobleem op te lossen",
+        "De hemelse Vader die scheurde de hemel open"
+      ],
+      "voorbeelden_mens_subject": [
+        "U moet bij de Heer Jezus zijn",
+        "Je moet de stap naar de Heer Jezus zetten",
+        "Wij proberen altijd onszelf te redden"
+      ],
+      "rutledge_score": "7"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Dat moet gebeuren",
+          "U mag er zometeen niet uit als u niet gelovig bent",
+          "Bekeert u en gelooft het evangelie"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Marcus wil ons over de Heer Jezus vertellen",
+          "De Vader was zo blij"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Marcus die zegt: 'Jongens, het stond er al'"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Iemand Die dat wel kan",
+          "Die veel meer vermag",
+          "Hij vangt je op"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "Er is een sterke nadruk op de verplichting (Devoir) om te reageren op de goddelijke macht (Pouvoir). De preek balanceert op de grens van 'moeten geloven' en 'mogen rusten'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Genade (Welbehagen)",
+      "s2": "Oordeel (Zonde/Vuil)",
+      "niet_s1": "Wetticisme (Zelfredzaamheid)",
+      "niet_s2": "Onverschilligheid (Koud worden)"
+    },
+    "beweging_in_preek": "De preek beweegt van S2 (zonde/vuil water) naar S1 (geopende hemel) via de identificatie van Jezus met de zondaar.",
+    "theologische_resolutie": "Christus neemt de plaats van S2 in (wordt vuil) zodat de hoorder S1 ontvangt.",
+    "ernst_van_s2": "Hoog; zonde wordt als een fundamenteel blokkerende kracht gezien."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "Hoewel er veel 'moeten'-taal is, blijft God het primaire Subject van de redding. De menselijke actie is een 'vallen' (passieve overgave) in plaats van een morele prestatie.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Nadruk op de menselijke beslissing",
+        "tekstueel_bewijs": "U mag er zometeen niet uit als u niet gelovig bent",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God als handelend Subject in de dieptestructuur",
+        "tekstueel_bewijs": "De Heere God die nam bezit van die harten",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Substitutie-gedachte",
+        "tekstueel_bewijs": "De Heer Jezus die werd vuil... en wij worden schoon",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Johannes de Doper wordt niet als moreel voorbeeld gesteld, maar als wegwijzer die naar Christus verwijst.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentrisch: Johannes is een instrument van God."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Ontlasting van de plicht tot zelfredzaamheid door de metafoor van het 'vallen'.",
+      "theologische_implicatie": "Soteriologie gaat vooraf aan de ethiek."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "De overgang van de historische Marcus-tekst naar de existentiële oproep is consistent.",
+      "spanning_punten": [
+        "De spanning tussen 'God doet het' en 'U moet de stap zetten'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "De Heer Jezus die werd vuil... en wij worden schoon, dankzij Zijn genade.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "De Geest schenkt de 'Pouvoir' (kracht) die de mens mist."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Zonde is een 'bende' en 'vuil' dat actieve goddelijke reiniging vereist."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek is narratief sterk omdat God de 'Sterke' blijft die de hemel scheurt.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "Geen groot probleem, maar de 'moet'-taal kan soms de 'Pouvoir' van God overschaduwen.",
+      "voorgestelde_herpositionering": "Maak het geloof nog meer een vrucht van de Geest dan een voorwaarde.",
+      "voorbeeld_revisie": "In plaats van 'U moet de stap zetten', gebruik: 'De Geest trekt u zo krachtig dat u de stap mag zetten'."
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N.v.t.",
+      "voorgestelde_identificatie": "RECEIVER",
+      "strategie": "Blijf de hoorder positioneren als degene die 'opgevangen wordt'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominantie van Devoir (moeten).",
+      "voorgestelde_balans": "Versterk Pouvoir (Gods kracht die het geloof werkt).",
+      "concrete_suggestie": "Benadruk dat ook het 'vallen' een gave is."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Zonde wordt soms wat algemeen 'een bende' genoemd.",
+      "voorgestelde_intensivering": "Beschrijf de onmacht van de menselijke wil radicaler.",
+      "theologische_rationale": "Hoe sterker de tegenstander, hoe heerlijker de 'Sterke' (Christus)."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "Geen",
+      "voorgestelde_structuur": "Soteriologie (God scheurt hemel) → Geloof (Mens valt)."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "Een krachtige, christocentrische preek die de hoorder effectief bij de eigen onmacht vandaan drijft naar de volheid van Christus."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch lijkt de preek dwingend ('U moet'), maar actantieel is God het Subject die de hemel scheurt.",
+    "verschil_met_exegese": "De analyse kijkt niet alleen naar wat Marcus 1 zegt, maar hoe de rollen van God en mens vandaag in de kerkzaal worden verdeeld.",
+    "unieke_inzichten_greimas": "Onthult dat de metafoor van 'vallen van de trap' de hoorder in de rol van 'Ontvanger' dwingt, wat morele zelfverbetering onmogelijk maakt."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God scheurt de hemel",
+      "Jezus neemt zonden over",
+      "De hoorder gelooft",
+      "Johannes wijst aan"
+    ],
+    "volledige_object_lijst": [
+      "Vergeving",
+      "Het welbehagen van God",
+      "De Heilige Geest"
+    ],
+    "werkwoord_frequentie": {
+      "moeten": {
+        "count": 15,
+        "primair_subject": "Man"
+      },
+      "komen": {
+        "count": 12,
+        "primair_subject": "God/Jezus"
+      },
+      "scheuren": {
+        "count": 5,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "De preek gebruikt sterke fysieke metaforen (stroom, vallen, scheuren) om de actantiële krachten voelbaar te maken."
+  }
+}

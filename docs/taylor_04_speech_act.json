@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "titel_preek": "This Abideth",
+    "bijbeltekst": "Psalm 102:24–28",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the transience of human life and the physical world in contrast to the eternal nature of God, His laws, and His mercy.",
+      "exegetische_kwaliteit": "Moderate. The preacher uses the Psalm as a thematic springboard for a meditation on time and change rather than a verse-by-verse exposition.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is descriptive and reflective, aiming to convince the hearer of God's stability.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "God is eternal!",
+        "God's judgments abide.",
+        "God remains the same in the spur he puts on our spirits."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To provide comfort and a sense of stability amidst life's changes.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "trust",
+        "endure",
+        "remember",
+        "depend"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "A man is musing upon the swift changes of life.",
+        "The heavens shall perish.",
+        "God is the same."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "remains",
+        "abides",
+        "seems"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "Help us to remember...",
+        "Let us live in that faith..."
+      ],
+      "dominante_werkwoorden": [
+        "help",
+        "let",
+        "live"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "22",
+      "procent": "12%",
+      "voorbeelden": [
+        "Eternal God, we are set midst bewildering and frightening changes.",
+        "We need thee as our fixed and abiding center."
+      ],
+      "dominante_werkwoorden": [
+        "need",
+        "long",
+        "desire",
+        "lament"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "1.5%",
+      "voorbeelden": [
+        "Because he lives, we shall live also."
+      ],
+      "dominante_werkwoorden": [
+        "shall live"
+      ],
+      "kwaliteit": "Weak. The promises are presented as general theological facts rather than direct address to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher does not speak 'in persona Christi' to change the hearer's status."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of third-person musing ('A man is musing...')",
+        "Historical and literary illustrations (Lincoln, Tennyson) used to describe truths.",
+        "Theological truths stated as abstract constants rather than active events."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a meditation rather than a participant in an encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise to the 'You'",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential transformation."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent as a direct speech act.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Mostly 'We' (inclusive/general) or 'I' (preacher's musing)."
+      },
+      "tweede_persoon": {
+        "frequentie": "Very Low",
+        "gebruik": "Occasional rhetorical questions ('Have you ever thought...').",
+        "performatieve_context": "Not used for promises."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Describing 'a man', 'the psalmist', 'God', 'the seaman'.",
+        "distantie_effect": "Creates a literary/lecturing distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Biblical history and personal nostalgia."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "General truths about God and nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate moment of the sermon."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (God is the same) -> Directive (Let us live in faith).",
+      "voorbeelden": [
+        "God abideth... Then every day, let us live in that faith."
+      ],
+      "probleem": "The 'Promise' (Toezegging) is skipped; the move to action is based on a fact rather than a gift."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "God's truth abides... let us live in that faith."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a poetic and theological lecture on the attribute of God's immutability. It describes the 'North Star' but does not function as the light itself.",
+    "sterke_punten": [
+      {
+        "aspect": "Imagery",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The North Star/Ocean metaphor.",
+        "effect": "Aids cognitive understanding of the theme."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "A man is musing...",
+        "probleem": "Objectification of the hearer.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a 'talk about' God, not an 'encounter with' God.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "No declarative or commissive acts are performed to convey grace."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No, God is the object of discussion.",
+      "prediker_als_mandataris": "No, the preacher acts as a religious philosopher.",
+      "tekstueel_bewijs": [
+        "The psalmist would say...",
+        "Jesus underscores this..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly relies on the hearer's own 'instinct' and 'desire'.",
+      "tekstueel_bewijs": [
+        "Deep within us, there pulsates a desire..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, it is a means of reflection.",
+      "epifanisch_taalgebruik": "No",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person 'is' to 2nd person 'promises' and 'declares'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God's laws remain the same.",
+          "voorgestelde_revisie": "God stands before you today with a law that will not fail you.",
+          "verschil": "Direct address creates an encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Grace is described as a general concept ('Thy mercy is from everlasting').",
+      "suggestie": "Apply the mercy directly to the hearer's specific transience.",
+      "voorbeeldzinnen": [
+        "To you, whose life feels like shifting sand, God promises: I am your rock."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'A man' and 'We'.",
+      "suggestie": "Use 'You'.",
+      "voorbeeldzinnen": [
+        "You are the one marching toward the grave, but Christ has gone before you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'let us live' is a heavy burden without a preceding declarative of grace.",
+      "suggestie": "Declare the hearer 'established' before God first."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is poetically beautiful but homiletically 'stuck' in the constative. It describes the medicine without administering it."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of wistfulness; SAT reveals the lack of a 'Creative Word' (Declarative).",
+    "verschil_met_retoriek": "Rhetorically strong (good metaphors), but illocutionarily weak (no action performed).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'orthodox' content, the sermon fails as an 'event' because it never moves beyond Assertives."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "are",
+        "remains",
+        "abides",
+        "perish",
+        "change",
+        "musing",
+        "reflects",
+        "reminded"
+      ],
+      "directief": [
+        "help",
+        "remember",
+        "let",
+        "live"
+      ],
+      "expressief": [
+        "need",
+        "long",
+        "lament",
+        "desire"
+      ],
+      "commissief": [
+        "shall live"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "God is eternal!",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Stating a fact.",
+        "effectiviteit": "Informative but distant."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher talks *about* God's eternity rather than *proclaiming* it as a present reality for the hearer."
+  }
+}

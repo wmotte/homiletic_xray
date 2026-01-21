@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "titel_preek": "The Perfect Invitation",
+    "bijbeltekst": "Isaiah 2:3; Matthew 25:34",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1250"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "Come, ye blessed of my Father",
+          "patient, loving father",
+          "We are our Father's children",
+          "not ragamuffins or orphans"
+        ],
+        "conceptuele_metafoor": "GOD IS A LOVING FATHER"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "walk in his paths",
+          "aimless drifters wandering",
+          "walk forward",
+          "throws up a highway in the desert"
+        ],
+        "conceptuele_metafoor": "FAITH IS A GUIDED PATHWAY"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "inherit the kingdom",
+          "stealing a few minutes of peace",
+          "wrested from life and God only by sheer effort",
+          "worm our way into God's favor"
+        ],
+        "conceptuele_metafoor": "SALVATION IS AN INHERITANCE (NOT A TRANSACTION)"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Inherit the kingdom",
+        "brondomein": {
+          "naam": "Inheritance",
+          "concrete_elementen": [
+            "will",
+            "parental provision",
+            "legal right",
+            "lack of labor"
+          ],
+          "belichaamde_basis": "balance/container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Grace/Salvation",
+          "doctrinale_traditie": "Mainline Protestant/Methodist"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Deceased/Giving Parent",
+            "doel_element": "God the Provider"
+          },
+          {
+            "bron_element": "Heir",
+            "doel_element": "Believer"
+          },
+          {
+            "bron_element": "Unearned Wealth",
+            "doel_element": "Eternal Life/Kingdom"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The recipient does not work for the benefit",
+            "The benefit was prepared long before the recipient's awareness"
+          ],
+          "theologische_implicaties": [
+            "Sola Gratia (Grace alone)",
+            "Predestination/Preparation from the foundation of the world"
+          ],
+          "ethische_implicaties": [
+            "Gratitude over striving",
+            "Security over anxiety"
+          ],
+          "onbedoelde_consequenties": [
+            "Passivity",
+            "Entitlement"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the dead metaphor of 'inheritance' by contrasting it with the 'orphan' and 'ragamuffin' imagery."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon successfully transitions from a 'God as Judge' schema to a 'God as Father' schema, using the 'Journey' metaphor to bridge the distance between the two.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Introduction/Prayer",
+          "metafoor_a": "God as Ruler of the ragings of the sea",
+          "metafoor_b": "God as Gracious Host",
+          "conflict_beschrijving": "The impersonal, chaotic power of the sea conflicts with the intimate invitation to a house.",
+          "entailment_conflict": "A storm-ruler demands fear; a host demands social ease.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "The Sanctuary Anecdote",
+          "gemengde_metaforen": [
+            "Light/Darkness",
+            "Father/Child",
+            "Distance/Proximity"
+          ],
+          "blending_strategie": "Narrative embodiment: The physical act of walking toward the altar resolves the fear of the 'High God' into the safety of the 'Father'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The preacher takes the conventional 'God is Father' and revitalizes it through the negative contrast of the 'Orphan' and 'Ragamuffin'.",
+        "voorbeeld": "We are not ragamuffins or orphans sleeping under bridges."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By emphasizing God's smile and outstretched hands so heavily, the 'stern demands of crosses' mentioned earlier risk being eclipsed.",
+        "voorbeeld": "It is not dangerous! It is safe and pleasant close to God.",
+        "potentiele_impact": "Congregation may lose the sense of the 'Awe' of God (Mysterium Tremendum).",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Family Home/Kingdom where a table is spread.",
+      "sub_worlds": [
+        "The Greek world of Prometheus (Theft/Punishment)",
+        "Mount Sinai (Fear/Distance)",
+        "The Dark Sanctuary (Personal Experience)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Anecdote of Martha",
+          "van_wereld": "Theological abstraction",
+          "naar_wereld": "Physical sanctuary",
+          "effectiviteit": "Highly effective in grounding the concept of 'Coming Boldly'."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Provider",
+          "hoe_versterkt": "Through the use of Psalm 23 and the concept of 'prepared' blessings."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Grudging/Reluctant",
+          "verstoring_strategie": "Contrasting the Prometheus myth with the 'Perfect Invitation'.",
+          "vervangend_schema": "God as Anxious Host"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Invitation to the Table' in a Communion liturgy."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the Relational/Familial domain, specifically focusing on the transition from 'God as Austere Judge' to 'God as Loving Father'. It uses Journey metaphors to describe the process of sanctification and Economic metaphors (Inheritance) to define the nature of Grace.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "God as Shepherd",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Connect the 'Shepherd' to the 'Orphan' imagery used earlier—the Shepherd as the one who provides the 'home' the orphan lacks.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The Shepherd doesn't just lead; he brings the wanderer into his own tent."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The 'Everlasting Fire' vs. 'Safe and Pleasant'",
+        "resolutie_strategie": "Explain that the 'Fire' is the result of refusing the 'Invitation', maintaining the Father metaphor by showing the grief of the rejected host."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Inheritance",
+        "problematisch_entailment": "Inheritance usually requires the death of the benefactor.",
+        "aanbeveling": "Briefly link the 'Inheritance' to the death of Christ to ground the metaphor in the Atonement."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To strengthen the 'House of God' imagery from the Isaiah text.",
+        "doel_concept": "The Church as a dwelling place."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in metaphorical shifting, moving the hearer from a schema of fear to a schema of familial security."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'beauty' of the Prometheus story, CMT reveals it as a 'Source Domain' used to diagnose a dysfunctional 'God-schema'.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT shows that the 'experience' of the sermon is actually the mapping of the daughter's fear in the church onto the hearer's fear of God.",
+    "unieke_inzichten_CMT": "CMT identifies that 'Inheritance' is the cognitive key that allows the preacher to bypass the 'Work/Reward' economic schema."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Mountain of the Lord",
+      "Walk in his paths",
+      "Rule the ragings of the sea",
+      "Stealing fire",
+      "Worm our way into favor",
+      "Rope around the mountain",
+      "Sizzles the commands",
+      "Ragamuffins/Orphans",
+      "Spreads the table",
+      "Throws up a highway"
+    ],
+    "woord_frequentie_analyse": {
+      "God": "24",
+      "Father": "12",
+      "Come": "9",
+      "Fear": "7",
+      "Close": "8"
+    },
+    "notities": "The preacher uses 'Verticality' (Mountain/High) to establish awe, then uses 'Proximity' (Near/Close) to establish grace."
+  }
+}

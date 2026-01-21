@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "titel_preek": "Shrill Faith for the Nighttime",
+    "bijbeltekst": "Psalm 30; Luke 18:1",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement of the believer from a state of 'nightmare' (vulnerability/dismay) to 'morning' (joy/dancing) through the mechanism of persistent, demanding prayer.",
+      "subject": {
+        "identificatie": "The Human Speaker (The 'I' of the Psalm/Hearer)",
+        "tekstueel_bewijs": [
+          "I said in my prosperity",
+          "I cried",
+          "I made supplication",
+          "I began to dispute with God",
+          "I pressed God",
+          "I insisted that God must do what I needed"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Safety, Presence, and the Restoration of Control (Morning)",
+        "tekstueel_bewijs": [
+          "source of safety",
+          "joy comes with the morning",
+          "my life had been healed"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Human Need/Crisis (The Nightmare)",
+        "tekstueel_bewijs": [
+          "In the night, when you are desperate, you can try anything."
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Human Speaker",
+        "tekstueel_bewijs": [
+          "my life had been healed",
+          "cause joy in the morning"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "God (Instrumentalized) and the Act of Prayer",
+        "tekstueel_bewijs": [
+          "God is the only source of help",
+          "the special, mostly neglected resources of faith",
+          "the Bible has resources"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "The 'Nightmare' (Chaos/Absence of God)",
+        "tekstueel_bewijs": [
+          "forces beyond our control",
+          "you hid your face",
+          "wars and rumors of war"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "While described as 'cosmic' or 'national trauma', the opponent is primarily framed as that which makes the individual feel 'unsafe' or 'anxious'—a loss of the daytime ability to 'manage and cope'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The community of faith maintaining the practice of 'shrill' prayer to avoid cynicism.",
+      "subject": "The Community/Hearers",
+      "object": "Not losing heart/avoiding cynicism",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The primary program (healing) provides the data for the secondary program (the exhortation to keep praying)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Desperation → Healing/Joy → The Speaker",
+      "helper_subject_tegenstander": "God/Prayer → The Speaker ← The Nightmare",
+      "subject_naar_object": "The Speaker → Safety/Restoration"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "28",
+      "ratio": "0.43",
+      "voorbeelden_god_subject": [
+        "God does indeed get angry",
+        "God overrode the nightmare",
+        "God's face shines upon us"
+      ],
+      "voorbeelden_mens_subject": [
+        "I addressed the very God",
+        "I pressed God",
+        "I insisted that God must do",
+        "we take on the day",
+        "we mostly manage and cope"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Everyone must join in this song",
+          "God must do what I needed"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "young children never want to go to bed",
+          "I want to think about",
+          "I want to consider"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "what the faithful know to do is to pray vigorously",
+          "we are the ones who have a way through"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "we could move on",
+          "we can’t help it",
+          "you can try anything"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "The sermon focuses on 'Knowing how to' (Savoir-faire) navigate the nightmare. Faith is presented as a 'resource' or 'technique' (shrill prayer) that the subject uses to activate God."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Daytime/Control",
+      "s2": "Nighttime/Nightmare",
+      "niet_s1": "Vulnerability/Dismay",
+      "niet_s2": "Shrill Prayer/Demanding Morning"
+    },
+    "beweging_in_preek": "S1 (Prosperity) → S2 (Nightmare) → ~S1 (Dismay) → ~S2 (Prayer) → S1 (New Day).",
+    "theologische_resolutie": "The tension is resolved by the human subject's 'bold and assertive' speech which forces a transition from Night to Morning.",
+    "ernst_van_s2": "Moderate. The nightmare is real, but it is treated as a temporary interruption of the human ability to 'cope'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses biblical language, the actantial subject is the human pray-er. God is the 'Helper' (Adjuvant) who is 'summoned' and 'manipulated' by the human subject to achieve the object of safety. It is a 'Moralism of Prayer' where the 'work' is the shrillness of the petition.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "I insisted that God must do what I needed to have done.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Human as Primary Actant",
+        "tekstueel_bewijs": "The faithful know to do is to pray vigorously, to summon God.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as source of healing",
+        "tekstueel_bewijs": "my life had been healed by the hidden work of the God",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Psalmist is used as a model for how the hearer should behave (pray shrilly) to get results.",
+      "bijbelse_figuren_als_model": [
+        "The Psalmist",
+        "The Persistent Widow"
+      ],
+      "alternatieve_lezing": "God is the one who keeps watch over the night regardless of the quality of our prayer; the morning comes because of God's fidelity, not the widow's nagging."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'bold' prayer; potential for cynicism if the 'morning' does not arrive despite 'shrillness'.",
+      "theologische_implicatie": "Soteriology is conditional upon the human 'cry'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The narrative is coherent but anthropocentric. It follows a clear 'Crisis-Action-Resolution' arc where the action is human.",
+      "spanning_punten": [
+        "The sermon claims God 'overrides' the nightmare, but only after the human 'takes the upper hand'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The way is with a God who has power... and we find our life transformed.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer already possesses the competence to pray; they just need the 'will' (Vouloir) to be shrill."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Sin is framed as 'the nightmare'—something that happens to us (victimhood) rather than something we are responsible for, yet something we must 'manage' through prayer."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a manual for human spiritual technology (prayer) rather than a proclamation of divine rescue.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The human is the subject of 'summoning', 'insisting', and 'disputing'.",
+      "voorgestelde_herpositionering": "Make God the Subject of the 'Night'. God watches while we sleep; God brings the morning because of His character, not our nagging.",
+      "voorbeeld_revisie": "While you were unconscious and helpless in the night, God was already working the dawn."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Bold Petitioner'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the 'hidden work of God' as the primary action, not the 'boldness' of the speaker."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Savoir-faire (knowing how to pray).",
+      "voorgestelde_balans": "Pouvoir-faire (God's power to save).",
+      "concrete_suggestie": "Shift from 'how to pray' to 'who God is'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "The nightmare is a 'trauma' we can move on from.",
+      "voorgestelde_intensivering": "Frame the 'Night' as the 'Pit' (Death) which no human 'shrillness' can escape.",
+      "theologische_rationale": "Only a heavy opponent necessitates a truly Grace-oriented Subject-switch."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The 'Secondary Program' (Prayer) has swallowed the 'Primary Program' (God's Grace).",
+      "voorgestelde_structuur": "1. God rescues the silent/dead. 2. Therefore, we may speak."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically brilliant and psychologically resonant, but structurally it places the burden of the 'Morning' on the 'Shrillness' of the hearer's faith."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'nightmare' imagery is effective; semiotically, it reveals a subject-centered theology of control.",
+    "verschil_met_exegese": "Exegesis might focus on the Hebrew 'beat'; semiotics shows that the 'beat' is controlled by the human's 'cry'.",
+    "unieke_inzichten_greimas": "Greimas reveals that God is an 'Adjuvant' (Helper) to the human 'Subject', which is the definition of functional moralism."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "I said",
+      "I cried",
+      "I made supplication",
+      "I began to dispute",
+      "I pressed God",
+      "I appealed",
+      "I insisted",
+      "I woke up",
+      "I gave thanks"
+    ],
+    "volledige_object_lijst": [
+      "Safety",
+      "Morning",
+      "Dancing",
+      "Joy",
+      "Healing"
+    ],
+    "werkwoord_frequentie": {
+      "pray": {
+        "count": 6,
+        "primair_subject": "Man"
+      },
+      "heal": {
+        "count": 1,
+        "primair_subject": "God"
+      },
+      "insist": {
+        "count": 2,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon successfully identifies the 'night' as a place of lack, but fills the lack with human agency."
+  }
+}

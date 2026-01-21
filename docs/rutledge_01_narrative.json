@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "titel_preek": "Waiting and Hastening",
+    "bijbeltekst": "2 Peter 3:8-15a",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God is bringing a cosmic transformation (New Heavens/New Earth) while the Church waits and signals this coming kingdom through 'lamps in dark places'.",
+      "subject": {
+        "identificatie": "God / Christ",
+        "tekstueel_bewijs": [
+          "no one can bring that about except God",
+          "God wrought a transformation",
+          "the great Conqueror lands with Michael the archangel"
+        ],
+        "frequentie_score": "7"
+      },
+      "object": {
+        "identificatie": "The New Heavens and New Earth (Righteousness/Peace)",
+        "tekstueel_bewijs": [
+          "a new heaven and a new earth in which righteousness dwells"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Apostolic Witness / The Promise of God",
+        "tekstueel_bewijs": [
+          "Trusting the apostolic testimony",
+          "according to his promise we wait"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Church / The 'Misery-stricken' population",
+        "tekstueel_bewijs": [
+          "the morning star rises in the hearts of us all",
+          "three-fourths of the world’s population"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit (implied) / The Church's 'Lamps'",
+        "tekstueel_bewijs": [
+          "lighting whatever little lights the Lord has put in front of us"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, Human Wickedness, and the 'Enemy'",
+        "tekstueel_bewijs": [
+          "no end to human wickedness and folly",
+          "the shadow of death",
+          "beachheads to hold against the Enemy"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but a century of 'violent and murderous' history that humans cannot fix."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Church performing 'action in waiting' (hastening) by doing works of light.",
+      "subject": "The Church / The Hearer",
+      "object": "Signs of the Kingdom (Lamps)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is a response to the primary program (God's coming). It points toward the primary object but does not create it."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Promise → New Creation → Humanity",
+      "helper_subject_tegenstander": "Apostolic Witness → God → Human Wickedness/Death",
+      "subject_naar_object": "God → Cosmic Peace"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "38",
+      "ratio": "1.1",
+      "voorbeelden_god_subject": [
+        "God wrought a transformation",
+        "The Lord is still out in front of us",
+        "Thou must save, and thou alone"
+      ],
+      "voorbeelden_mens_subject": [
+        "We make ready for him",
+        "We don’t want to sit around",
+        "Americans are a people of action"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "what sort of persons ought you to be"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "We don’t want to sit around watching"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "knowing how to keep those two modes in creative tension"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "no one can bring that about except God",
+          "God had made a way out of no way"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes human 'non-power' (impotence) regarding the Kingdom, shifting the 'Pouvoir' (Power) entirely to God."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "God's Intervention (Grace)",
+      "s2": "Human Wickedness (Judgment)",
+      "niet_s1": "Human Activism (Babel)",
+      "niet_s2": "Passive Fatalism"
+    },
+    "beweging_in_preek": "From niet-s2 (American busyness) to s2 (Realization of human failure/wickedness) to s1 (God's final act).",
+    "theologische_resolutie": "Christ as the 'Conqueror' who resolves the tension between human inability and the need for righteousness.",
+    "ernst_van_s2": "Very high; mentions Holocaust, Gulags, and Rwanda to prove human inability."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While it calls for action, the action is strictly 'sign-posting'. The 'engine' of the story is God's cosmic arrival, not human progress.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus on American 'Go-go' spirit",
+        "tekstueel_bewijs": "We are the go-go people... we want to move things along.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Monergism in New Creation",
+        "tekstueel_bewijs": "no one can bring that about except God",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Dred Scott and the neighbors with menorahs are used as examples, but they are framed as 'lamps' reflecting God's light, not as self-generated heroes.",
+      "bijbelse_figuren_als_model": [
+        "The Watchman",
+        "Peter (as witness)"
+      ],
+      "alternatieve_lezing": "God is the one who 'wrought a transformation' through the Scotts."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of 'bringing the kingdom' combined with a call to small, faithful witness.",
+      "theologische_implicatie": "Soteriology precedes and empowers Ethics."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The tension between 'waiting' and 'hastening' is masterfully integrated into a single 'action in waiting' framework.",
+      "spanning_punten": [
+        "The shift from American activism to Christian passivity/waiting."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "the day when the great Conqueror lands with Michael the archangel at the head of his troops",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Spirit is implied in the 'morning star rising in hearts'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total human inability to achieve peace; sin is seen in global atrocities."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative (Salvation/New Creation) while placing the hearer as the Subject of a dependent, secondary narrative (Witness).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong on Pouvoir (God's power), slightly lower on Savoir (how to act).",
+      "voorgestelde_balans": "Maintain the current balance; it protects against moralism.",
+      "concrete_suggestie": "The 'how-to' of the menorah story is a good model for Savoir-faire."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Holocaust, etc.)",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The high stakes of the opponent justify the need for a Divine Subject."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Keep the 'Wait' (Soteriology) as the foundation for 'Hasten' (Ethics)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A profound example of how to call for social action without falling into the trap of anthropocentric moralism."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'American' hook; Greimas shows that the 'American' is actually the Opponent to the narrative's true Subject (God).",
+    "verschil_met_exegese": "Exegesis explains 2 Peter; semiotics explains how the 'waiting/hastening' tension functions as a motor for Christian identity.",
+    "unieke_inzichten_greimas": "Reveals that the 'hastening' (action) is a sub-program that fails if it tries to replace the primary program (God's coming)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (wrought)",
+      "Christ (comes)",
+      "We (wait)",
+      "We (hasten)",
+      "The Church (responds)"
+    ],
+    "volledige_object_lijst": [
+      "New Heavens",
+      "Righteousness",
+      "Lamps in dark places"
+    ],
+    "werkwoord_frequentie": {
+      "wait": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "come": {
+        "count": "15",
+        "primair_subject": "God"
+      },
+      "save": {
+        "count": "2",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses Fleming Rutledge's own criteria effectively."
+  }
+}

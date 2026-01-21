@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "titel_preek": "Our Great Savior",
+    "bijbeltekst": "Philippians 2:5—11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The 'Strategy of the Skies': Christ descends from eternal glory into human suffering and death to secure salvation, subsequently being exalted by God.",
+      "subject": {
+        "identificatie": "Jesus Christ",
+        "tekstueel_bewijs": [
+          "He made himself of no reputation",
+          "He humbled himself",
+          "He became obedient unto death",
+          "He traded the praise of angels for the curses of men"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation/Redemption of 'man the creature'",
+        "tekstueel_bewijs": [
+          "This is salvation history, in two or three sentences",
+          "In your interest and in mine",
+          "He alone is our hope"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Trinity",
+        "tekstueel_bewijs": [
+          "councils of eternity",
+          "Wherefore God also hath highly exalted him"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearers ('You and me')",
+        "tekstueel_bewijs": [
+          "He came here... for you",
+          "In your name and in my name"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit (implied) / The Apostle Paul (as reporter)",
+        "tekstueel_bewijs": [
+          "Paul... reports to us"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and Human Derision",
+        "tekstueel_bewijs": [
+          "derision of the earth",
+          "curses of men",
+          "death of the cross"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is described as a 'specter' and 'ominous ghost' that only Christ can overcome."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical response of the believer to the humility of Christ, specifically regarding racial reconciliation and communal honesty.",
+      "subject": "The Hearer / The Nation",
+      "object": "Humility and confession of sin (specifically racism)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The preacher uses the 'mind of Christ' as the ground for the 'due response' of human humility."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Trinity → Salvation → Humanity",
+      "helper_subject_tegenstander": "The Apostle → Christ ← Death/Sin",
+      "subject_naar_object": "Christ → Redemption"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "38",
+      "ratio": "1.1:1",
+      "voorbeelden_god_subject": [
+        "He made himself of no reputation",
+        "God also hath highly exalted him",
+        "He became time trapped... for you"
+      ],
+      "voorbeelden_mens_subject": [
+        "We have not been willing to admit it",
+        "We will never heal the breach until we humbly recognize the chasm"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "secure from us a fitting reverence and a due response",
+          "we should have put this specter behind us"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "we have not been willing to admit it"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "so that you will be able to know... when you are old"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "He alone is our hope",
+          "we have no hope apart from Jesus Christ"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes the total inability (non-pouvoir) of man to face death or solve social sin without the power of Christ."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Exaltation",
+      "s2": "Death/Shame",
+      "niet_s1": "Pride/Racism",
+      "niet_s2": "Dignity/Self-Sufficiency"
+    },
+    "beweging_in_preek": "From S1 (Christ's glory) to S2 (Cross) to ~S2 (Humanity's false dignity) back to S1 (Resurrection hope).",
+    "theologische_resolutie": "Christ occupies S2 (Death) so that the Receiver can move from ~S1 (Pride) to S1 (Grace).",
+    "ernst_van_s2": "High; death is described as 'public shame' and 'melancholy'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon contains strong ethical imperatives regarding racism, they are framed as a 'due response' to the primary actantial work of Christ. Christ remains the Subject of the salvific verbs.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism in social ethics",
+        "tekstueel_bewijs": "Jesus humbled himself... [therefore] we have not been willing to admit our great fault.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christ as sole Subject of salvation",
+        "tekstueel_bewijs": "He traded the praise of angels for the curses of men.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Human passivity in redemption",
+        "tekstueel_bewijs": "Was it for crimes that I had done He groaned upon the tree?",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Christ's humility is used as a model for national and communal confession.",
+      "bijbelse_figuren_als_model": [
+        "Christ (as the humble servant)"
+      ],
+      "alternatieve_lezing": "Christ's humility is not just a model but the ontological destruction of the pride that fuels racism."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Comfort in the face of mortality; conviction regarding social sin.",
+      "theologische_implicatie": "Soteriology precedes and enables Ecclesiology."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'Strategy of the Skies' to the 'Street Corners of Detroit' is logically linked by the theme of humility.",
+      "spanning_punten": [
+        "The long introductory anecdotes about personal friends slightly delay the narrative engine."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "In your name and in my name, he forfeited that dignity.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Spirit is not explicitly mentioned as the source of 'Pouvoir'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Severe; sin is a 'sleeping serpent' and an 'ominous ghost'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is structurally sound, keeping Christ as the Subject of the primary program while deriving a secondary ethical program from His character.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer might feel they must 'produce' humility to trigger grace.",
+      "voorgestelde_identificatie": "Receiver of Christ's humility.",
+      "strategie": "Emphasize that Christ's humility creates the capacity for ours."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong Devoir in the middle section.",
+      "voorgestelde_balans": "Increase Pouvoir (Spirit's power) in the ethical section.",
+      "concrete_suggestie": "Link the 'mind of Christ' to the indwelling Spirit rather than just a mental imitation."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly depicted as death and systemic racism.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Maintain the current order: Christ's descent -> Our need -> Our hope."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in Christocentric preaching that does not shy away from social application."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the pathos of the golf course story; Greimas focuses on how that story positions the hearer as a 'disappearing mortal' in need of a 'Subject' who survives death.",
+    "verschil_met_exegese": "Exegesis explains the Greek of Phil 2; Greimas explains how the sermon functions as a 'salvation engine' for the listener.",
+    "unieke_inzichten_greimas": "Reveals that the 'racism' section is not a detour but a necessary 'Opponent' that proves the hearer's lack of 'Pouvoir'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Christ (humbled)",
+      "God (exalted)",
+      "We (must admit)",
+      "Nation (would be farther along)"
+    ],
+    "volledige_object_lijst": [
+      "Glory",
+      "Reputation",
+      "Confession",
+      "Hope"
+    ],
+    "werkwoord_frequentie": {
+      "humbled": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "died": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon successfully avoids the 'If-Then' trap of moralism."
+  }
+}

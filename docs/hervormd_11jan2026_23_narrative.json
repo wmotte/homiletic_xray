@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "16_Den_Bommel_11-jan-2026",
+    "bijbeltekst": "Hebreeën 10:23-25 (impliciet)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "De gemeente moet volharden in geloof, hoop en liefde om de eindstreep (de wederkomst) te halen en te voorkomen dat leden verloren gaan.",
+      "subject": {
+        "identificatie": "De hoorder / De gemeente (Mens)",
+        "tekstueel_bewijs": [
+          "Laten we de belijdenis van de hoop onwrikbaar vasthouden",
+          "Laten we op elkaar letten",
+          "Zullen we daarin volharden, gemeente?"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "De eindstreep / De eeuwige zaligheid / Behoud van de ziel",
+        "tekstueel_bewijs": [
+          "zodat iedereen de eindstreep zal halen",
+          "mensen die geloven tot behoud van hun ziel"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "Paulus / De Bijbel / De Prediker (als morele autoriteit)",
+        "tekstueel_bewijs": [
+          "Dat is de eerste aansporing",
+          "Paulus zegt: je moet er wel weer mee beginnen"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "De gemeenteleden / De hoorder",
+        "tekstueel_bewijs": [
+          "zodat niemand van de gemeente verloren zal gaan"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "De Heer Jezus (als voorbeeld en bron van energie), de ambtsdragers, de kerkdienst",
+        "tekstueel_bewijs": [
+          "ontvangen we ook de energie en de kracht door de Heilige Geest om dat te doen",
+          "De ambten zijn ingesteld door de Heer Jezus om dat te stimuleren"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Satan, egoïsme, koude harten, verzuim van kerkbezoek",
+        "tekstueel_bewijs": [
+          "Dagen van egoïsme en zelfgerichtheid. Dat is van de tegenstander",
+          "Satan is erop uit om de gemeente te laten vervallen"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "De tegenstander wordt geïdentificeerd als Satan die streeft naar de afval van de gemeente."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "Het praktisch omzien naar elkaar (bezoeken, klusjes doen, aanspreken).",
+      "subject": "De gemeenteleden",
+      "object": "Liefde en goede werken",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "De goede werken worden gepresenteerd als de noodzakelijke brandstof/methode om het primaire doel (behoud) te bereiken."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Paulus/Woord → Behoud → Gemeente",
+      "helper_subject_tegenstander": "Jezus/Geest → Gemeente ← Satan/Egoïsme",
+      "subject_naar_object": "Gemeente → Volharding/Liefde"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "Hij die het beloofd heeft, is getrouw",
+        "God ziet dat het dood is",
+        "de Heilige Geest wil werken"
+      ],
+      "voorbeelden_mens_subject": [
+        "Laten we de belijdenis vasthouden",
+        "Houd die hoop levend",
+        "We moeten allemaal behouden voor de Heer Jezus komen te staan",
+        "Zullen we daarin volharden?"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we moeten allemaal behouden voor de Heer Jezus komen te staan",
+          "je moet er wel weer mee beginnen",
+          "we moeten goed opletten"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "u wilt toch niet... dat iemand verloren zal gaan?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Paulus maakt dat... heel praktisch",
+          "hij zegt erbij hoe dat moet worden gedaan"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "ontvangen we ook de energie en de kracht... om dat te doen"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "De nadruk ligt zwaar op de morele verplichting (moeten) en de praktische instructie (weten hoe). De genade fungeert als brandstof voor de menselijke prestatie."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Volharding/Behoud",
+      "s2": "Oordeel/Verderf",
+      "niet_s1": "Afval/Nalaten",
+      "niet_s2": "Valse gerustheid"
+    },
+    "beweging_in_preek": "De preek beweegt van de dreiging van S2 (oordeel/verderf) naar de noodzaak van S1 (volharden) via de ontkenning van niet-S1 (niet nalaten van bijeenkomsten).",
+    "theologische_resolutie": "De resolutie is voorwaardelijk: als de mens volhardt en op de ander let, wordt S2 vermeden.",
+    "ernst_van_s2": "Zeer hoog; er wordt expliciet gewaarschuwd voor het 'verzengend vuur'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Hoewel de taal van 'genade' en 'bloed' aanwezig is, is de dieptestructuur antropocentrisch. De mens is het handelend subject dat moet volharden om het object (behoud) te bereiken. God/Jezus fungeert primair als Helper (krachtbron) of Voorbeeld, niet als de soevereine Redder die het werk volbrengt.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Voorwaardelijke soteriologie",
+        "tekstueel_bewijs": "zodat iedereen de eindstreep zal halen. Want dat is het grote doel.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalisering van God",
+        "tekstueel_bewijs": "ontvangen we ook de energie en de kracht door de Heilige Geest om dat te doen",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Verwijzing naar Christus' bloed",
+        "tekstueel_bewijs": "vrijmoedig tot God gaat door Jezus Christus' bloed",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Jezus wordt gepresenteerd als de ultieme ambtsdrager die voeten wast, wiens voorbeeld wij moeten volgen.",
+      "bijbelse_figuren_als_model": [
+        "Jezus (voetwassing)",
+        "Paulus (als vermaner)",
+        "Maria en Jozef (kerkgang)"
+      ],
+      "alternatieve_lezing": "Christus waste de voeten van discipelen die Hem zouden verlaten, als teken dat Zijn reiniging onafhankelijk is van hun volharding."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Druk en activisme; de verantwoordelijkheid voor het zieleheil van de naaste ligt bij de hoorder.",
+      "theologische_implicatie": "Synergisme: God doet Zijn deel (beloven/kracht geven), de mens moet de rest doen (vasthouden/opletten)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "De preek is consistent in zijn oproep tot actie, maar de overgang van 'vrijmoedigheid door het bloed' naar 'angst voor het oordeel' creëert een spanning in de soteriologie.",
+      "spanning_punten": [
+        "Vrijmoedigheid door bloed vs. Verschrikkelijke verwachting van oordeel."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Een voorbeeld heb ik u gegeven. Zo moet het. Zo moeten jullie met elkaar omgaan.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "De Geest geeft 'energie' (Pouvoir) aan de mens die al wil (Vouloir) en moet (Devoir)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Zonde is hier vooral 'nalatigheid' en 'egoïsme' die door inspanning en voorbeeld overwonnen kunnen worden."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek positioneert de hoorder als de 'redder' van de gemeenschap door middel van sociale controle en plichtsbetrachting.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "De mens moet de eindstreep halen.",
+      "voorgestelde_herpositionering": "Christus is de Voleinder van het geloof die de gemeente vasthoudt.",
+      "voorbeeld_revisie": "Niet wij houden de hoop vast, maar de Getrouwe houdt ons vast aan Zijn belofte."
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hoorder als actieve volharder.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Benadruk de passieve ontvangst van genade voordat de actie begint."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominantie van Devoir (Moeten).",
+      "voorgestelde_balans": "Focus op Pouvoir (Gods kracht die het werk doet).",
+      "concrete_suggestie": "Vervang 'Wij moeten' vaker door 'God werkt in ons'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Satan en oordeel worden serieus genomen.",
+      "voorgestelde_intensivering": "N.v.t.",
+      "theologische_rationale": "De ernst van de tegenstander wordt gebruikt om de wet aan te jagen, niet om de noodzaak van louter genade te onderstrepen."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethiek (op elkaar letten) wordt de voorwaarde voor soteriologie (behoud).",
+      "voorgestelde_structuur": "Soteriologie (God heeft u behouden) → Ethiek (Daarom kijkt u met Zijn ogen naar de ander)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "De preek is pastoraal bewogen en praktisch, maar de theologische motor draait op menselijke prestatie in plaats van Gods volbrachte werk."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch is de preek vriendelijk en vermanend; semiotisch is het een dwingend systeem van voorwaardelijk behoud.",
+    "verschil_met_exegese": "De exegese volgt de tekst van Hebreeën, maar mist de christologische focus van de brief (Christus als de meerdere Priester).",
+    "unieke_inzichten_greimas": "Greimas legt bloot dat Jezus in deze preek slechts een 'Helper' is en geen 'Subject' van de redding."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wij (vasthouden)",
+      "Zij (volhouden)",
+      "Gemeente (op elkaar letten)",
+      "Jezus (voeten wassen)",
+      "Geest (energie geven)"
+    ],
+    "volledige_object_lijst": [
+      "Eindstreep",
+      "Goede werken",
+      "Behoud van de ziel"
+    ],
+    "werkwoord_frequentie": {
+      "moeten": {
+        "count": "18",
+        "primair_subject": "Man"
+      },
+      "laten": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "geven": {
+        "count": "5",
+        "primair_subject": "God/Man"
+      }
+    },
+    "notities": "De preek vertoont sterke kenmerken van 'sanctificatie-moralisme' waarbij de heiligmaking de rechtvaardiging overschaduwt."
+  }
+}

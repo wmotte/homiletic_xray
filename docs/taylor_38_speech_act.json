@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "titel_preek": "The Look That Saves",
+    "bijbeltekst": "Isaiah 45:22",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher recounts historical anecdotes of Spurgeon, Isaiah, and Martin Luther King Jr. to illustrate the act of 'looking' to God. It defines salvation as 'wholeness' (salvus).",
+      "exegetische_kwaliteit": "Moderate. The sermon focuses more on narrative illustration and etymology than on the immediate context of Isaiah 45.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is asserting historical facts and general truths about God's availability, with a secondary force of inviting the hearer to look.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Spurgeon recalled that...",
+        "The word salvation comes from the Latin...",
+        "God in Christ is the answer..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To inspire confidence and encourage the hearer to 'look' to Jesus for wholeness.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event'.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "trust",
+        "find wholeness",
+        "look"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "75%",
+      "voorbeelden": [
+        "England was caught in the grip of a driving snowstorm.",
+        "Uzziah had been a noble and popular king.",
+        "He is the solver of all problems."
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "is",
+        "tells",
+        "recalled",
+        "said"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "6%",
+      "voorbeelden": [
+        "Look to Jesus Christ.",
+        "Look! Look!",
+        "Stoop down and drink and live."
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "be",
+        "stoop",
+        "drink"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 18,
+      "procent": "9%",
+      "voorbeelden": [
+        "I thank God that in this work I have found my own key.",
+        "Praise God!",
+        "I know no better wish that I could have for you..."
+      ],
+      "dominante_werkwoorden": [
+        "thank",
+        "praise",
+        "wish"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "2%",
+      "voorbeelden": [
+        "God will be at your side forever."
+      ],
+      "dominante_werkwoorden": [
+        "will be"
+      ],
+      "kwaliteit": "Weak. Most promises are quoted from others' experiences rather than directly spoken from God to the hearer now."
+    },
+    "declaratieven": {
+      "frequentie": 0,
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "None. The preacher does not perform any reality-changing acts (e.g., 'I declare you whole')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive biographical storytelling (Spurgeon, MLK, Isaiah).",
+        "Definitions of Latin roots.",
+        "Reporting what an 'inner voice' said to someone else."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of others' encounters with God rather than a participant in one."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise to the 'you' in the pew",
+        "Present-tense sacramental address"
+      ],
+      "effect_op_hoorder": "Information about salvation is provided, but the 'event' of salvation is deferred or left to the hearer's effort."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes promises made to others but fails to 'hand over' the promise to the current congregation.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 22,
+        "gebruik": "Preacher's personal testimony and wishes."
+      },
+      "tweede_persoon": {
+        "frequentie": 15,
+        "gebruik": "Mostly in the context of 'you need to be saved' (Directive) or general 'you' (Assertive).",
+        "performatieve_context": "Low."
+      },
+      "derde_persoon": {
+        "frequentie": 85,
+        "gebruik": "Dominant. Talking about Spurgeon, Isaiah, MLK, and 'the Lord'.",
+        "distantie_effect": "High. It creates a historical/biographical distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "70%",
+        "gebruik": "Historical narrative."
+      },
+      "tijdloos_present": {
+        "frequentie": "25%",
+        "gebruik": "General truths about God's nature."
+      },
+      "actueel_present": {
+        "frequentie": "5%",
+        "gebruik": "Closing hymn quotes."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Stories of others) -> Directive (You should look).",
+      "voorbeelden": [
+        "Spurgeon looked... [Assertive] -> Look to Jesus Christ [Directive]."
+      ],
+      "probleem": "The 'Look' is commanded without the 'Promise' being performatively given to enable the looking."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We need to be saved... [Indicative of need] -> Look unto me [Imperative without present-tense promise]."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a series of 'talks about' faith. It functions as a lecture on the history of conversion rather than a means of grace that effects conversion.",
+    "sterke_punten": [
+      {
+        "aspect": "Illustrative Narrative",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The story of the snowstorm in Colchester.",
+        "effect": "Engaging and memorable."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The entire section on Spurgeon's biography.",
+        "probleem": "Objectifies the gospel as a historical phenomenon.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a report of past 'events' rather than a current 'event'.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that binds God to the hearer in the present moment."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the preacher's description.",
+      "prediker_als_mandataris": "Weak. The preacher acts as a storyteller/historian.",
+      "tekstueel_bewijs": [
+        "I tell you there is nothing to compare to this..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly left to the hearer's willpower to 'look'.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a 'pointer' to a means of grace located elsewhere.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense assertives. Needs a shift to present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Spurgeon did look. The cloud was gone.",
+          "voorgestelde_revisie": "As you look to Christ now, your darkness is rolling away by His word.",
+          "verschil": "Shifts from historical report to present-tense declaration."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is quoted from a hymn or a story, not spoken by the preacher.",
+      "suggestie": "Use the authority of the office to speak the promise directly.",
+      "voorbeeldzinnen": [
+        "I promise you on the authority of God's Word: He is your wholeness today."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' (Spurgeon/Isaiah) and not enough 'you'.",
+      "suggestie": "Reduce the biography and increase the direct address.",
+      "voorbeeldzinnen": [
+        "You, sitting here in this storm, Christ looks at you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'Look' feels like a task for the hearer.",
+      "suggestie": "Precede the 'Look' with the declaration that Christ has already found the hearer."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically beautiful but homiletically 'stuck' in the third person. To become an event, it must move from 'talking about' the look to 'performing' the word that enables the look."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about his 'key'; SAT reveals this as an Expressive act that lacks the Declarative power of a divine mandate.",
+    "verschil_met_retoriek": "Rhetoric would praise the storytelling; SAT diagnoses the storytelling as a 'constative surplus' that prevents a sacramental encounter.",
+    "unieke_inzichten_SAT": "SAT identifies that quoting a promise (Locution) is not the same as making a promise (Illocution)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "is",
+        "preached",
+        "reached",
+        "tells",
+        "went",
+        "continued",
+        "bore",
+        "emphasizing"
+      ],
+      "directief": [
+        "Look",
+        "Be saved",
+        "Stoop",
+        "Drink",
+        "Live"
+      ],
+      "expressief": [
+        "thank",
+        "praise",
+        "wish"
+      ],
+      "commissief": [
+        "will be"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Young man, you're in trouble! Look to Jesus Christ.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "Effective in the story, but remains a 'quoted' directive in the sermon."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'aura' of Spurgeon rather than the 'authority' of the present Word."
+  }
+}

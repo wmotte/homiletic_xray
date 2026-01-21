@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "titel_preek": "The Magical Reversal",
+    "bijbeltekst": "Luke 1:26-38",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon contrasts the human desire for 'magic' (tinsel, Nutcracker, sentimentality) with the harsh reality of human suffering (Ethiopia, Tehran), eventually presenting the Annunciation as God's 'New Thing'—the virginal conception as a divine intervention.",
+      "exegetische_kwaliteit": "Strong focus on the 'novum' of the incarnation and the role of Gabriel as the angel of the reversal of Eden. High emphasis on the Nicene Creed and hymnody as interpretive lenses.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts the reality of God's intervention against human impossibility, moving toward a proclamation of hope.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I think there is one thing clear...",
+        "But this is not what God is telling us...",
+        "We are talking about one who was born as no one else was born."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from cynical realism or sentimental escapism to a grounded faith in God's objective act in Christ.",
+      "pneumatologisch_bewustzijn": "Moderate; the Spirit is discussed as the agent of the incarnation, but less as the current agent of the sermon's reception.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "recognize",
+        "hope",
+        "adore"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "80%",
+      "voorbeelden": [
+        "There is no magical kingdom anywhere.",
+        "Luke has a message of the most momentous consequence.",
+        "God is the one who rules over the everlasting kingdom."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "saw",
+        "think",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": 8,
+      "procent": "5%",
+      "voorbeelden": [
+        "Listen to this!",
+        "O come, let us adore him.",
+        "We need to recognize very clearly..."
+      ],
+      "dominante_werkwoorden": [
+        "listen",
+        "recognize",
+        "adore"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": 15,
+      "procent": "8%",
+      "voorbeelden": [
+        "I have not forgotten it to this day.",
+        "I think about the Peace Tree only with an effort.",
+        "Thank God for the Bible!"
+      ],
+      "dominante_werkwoorden": [
+        "remember",
+        "feel",
+        "thank"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "2%",
+      "voorbeelden": [
+        "His own blood will be shed in order to guarantee that the fountains of blood will one day come to an end forever."
+      ],
+      "dominante_werkwoorden": [
+        "guarantee",
+        "will"
+      ],
+      "kwaliteit": "The promises are largely third-person/future-oriented rather than direct 'I promise you' address."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "1%",
+      "voorbeelden": [
+        "Jesus Christ, the Lord, is our hope.",
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "Amen"
+      ],
+      "autoriteit": "The preacher relies on the authority of the text/creed rather than a direct sacramental declaration to the congregation."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive storytelling about personal experiences (The Nutcracker, Stamford).",
+        "Long descriptions of global horrors (Ethiopia, Tehran).",
+        "Theological explanation of the Creed."
+      ],
+      "effect_op_hoorder": "The hearer is an observer of the preacher's thoughts and the world's state, rather than an addressee of God's present action."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct second-person promise (Toezegging)",
+        "Present-tense sacramental address"
+      ],
+      "effect_op_hoorder": "Information about the 'Magical Reversal' is received, but the reversal is not 'happening' to the hearer in the moment."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 2,
+      "kwaliteit_toezeggen": "Theologically rich but structurally distant (third person).",
+      "voorbeelden": [
+        "Jesus Christ, the Lord, is our hope."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 45,
+        "gebruik": "High use of 'I' for anecdotes and 'We' for shared human condition."
+      },
+      "tweede_persoon": {
+        "frequentie": 12,
+        "gebruik": "Mostly rhetorical ('You saw that picture') rather than performative address.",
+        "performatieve_context": "Low"
+      },
+      "derde_persoon": {
+        "frequentie": 110,
+        "gebruik": "Dominant mode: talking about Mary, Gabriel, the world, and the Creed.",
+        "distantie_effect": "Creates a lecture-like distance where the Gospel is a 'topic' to be understood."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Anecdotes and Biblical narrative."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological truths and descriptions of the world."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final 'Amen' and concluding hope."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "It avoids moralistic legalism (Directive surplus).",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from the 'human impossibility' (Assertive) to 'God's New Thing' (Assertive/Commissive).",
+      "voorbeelden": [
+        "Only God can do it... Jesus Christ is our hope."
+      ],
+      "kwaliteit": "Theologically sound but rhetorically stuck in the third person."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because God has acted (Indicative), we can hope (Imperative/Response)."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a brilliant theological essay that explains why the Incarnation is necessary and unique, but it remains a 'talk about' the Annunciation rather than a 'performance' of the Annunciation to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Gabriel as the angel from Eden's gate.",
+        "effect": "Provides a cosmic scale to the Christmas story."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The long section on The Nutcracker and personal memories.",
+        "probleem": "Delays the performative encounter with the Word.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "The 'event' is dampened by the high volume of descriptive and anecdotal material.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The sermon points to the Sacrament (the Incarnation) but does not fully function as one."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the verbs, but the preacher describes God's speaking rather than speaking for God.",
+      "prediker_als_mandataris": "Implicit, but overshadowed by the role of 'theologian/observer'.",
+      "tekstueel_bewijs": [
+        "This is what we learn from the story..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, in the context of the Virgin Birth.",
+      "perlocutie_theologie": "Implicitly left to the hearer's realization.",
+      "tekstueel_bewijs": [
+        "The Holy Spirit will come upon you..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon treats the Bible as the means of grace, but the sermon itself stays in the realm of testimony.",
+      "epifanisch_taalgebruik": "Strong in the final paragraph.",
+      "tekstueel_bewijs": [
+        "In the announcement... we hear a voice from beyond ourselves."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on 'is/was' and 'saw/remember'. It needs more 'give/promise/declare'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus Christ, the Lord, is our hope.",
+          "voorgestelde_revisie": "Tonight, this Jesus comes to you to be your hope.",
+          "verschil": "Shifts from a general truth to a personal encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in the third person.",
+      "suggestie": "Use direct address to apply the 'reversal' to the hearer's specific 'dark places'.",
+      "voorbeeldzinnen": [
+        "To you, in your disappointment, God promises a kingdom that cannot be shaken."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' and 'We' (general), not enough 'You' (specific).",
+      "suggestie": "Address the congregation directly as the 'Mary' to whom the Word is coming.",
+      "voorbeeldzinnen": [
+        "Do not be afraid, for God has looked upon you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually good; the issue is the force, not the logic.",
+      "suggestie": "Strengthen the indicative into a declarative."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically profound and literarily beautiful, but needs to step out from 'behind the desk' of the observer to 'the altar' of the proclaimer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (the anecdotes), whereas SAT reveals that these anecdotes actually weaken the illocutionary force of the Divine Word.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (pathos/logos); however, SAT shows it lacks the 'Divine I' (Declarative) that makes a sermon a sacramental event.",
+    "unieke_inzichten_SAT": "SAT identifies that the sermon 'talks about' the magic/miracle without 'performing' the grace it describes."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "wrote",
+        "said",
+        "means",
+        "testify",
+        "learn"
+      ],
+      "directief": [
+        "listen",
+        "recognize",
+        "adore",
+        "wager"
+      ],
+      "expressief": [
+        "remember",
+        "think",
+        "thank",
+        "forgotten"
+      ],
+      "commissief": [
+        "guarantee",
+        "will (divine)"
+      ],
+      "declaratief": [
+        "is (as identity)",
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Only God can do it.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong theological claim.",
+        "effectiviteit": "High for teaching, low for personal address."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Theological Realism'—it is true, but is it an act?"
+  }
+}

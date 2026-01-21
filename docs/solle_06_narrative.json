@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Gilt die Verheißung allen Menschen?",
+    "bijbeltekst": "Lukas 4,18-19 (Jesaja 61)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The liberation of the oppressed through the Spirit of Christ, which necessitates a partisan choice by the hearer to achieve participation in the promise.",
+      "subject": {
+        "identificatie": "The Spirit/Christ (initially), shifting to 'We' (the wealthy/hearers) as the active subject of solidarity.",
+        "tekstueel_bewijs": [
+          "Der Geist, der den Gefangenen Befreiung verkündigt",
+          "Nur wenn wir solidarisch mit denen werden... dann gewinnen wir Anteil"
+        ],
+        "frequentie_score": "7"
+      },
+      "object": {
+        "identificatie": "Liberation (economic, political, cultural) and 'Anteil' (participation) in the promise.",
+        "tekstueel_bewijs": [
+          "Befreiung, die ökonomische, politische und kulturelle Befreiung einschließt",
+          "Anteil an ihr [der Verheißung] gewinnen"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Theology of Liberation / The Poor (as the source of the 'true' mandate).",
+        "tekstueel_bewijs": [
+          "Dieser Text ist einer der Grundtexte der Theology der Befreiung",
+          "Dieser Text ist für die Armen geschrieben"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Poor (primary); The Wealthy/Hearers (conditional).",
+        "tekstueel_bewijs": [
+          "für die Armen geschrieben",
+          "dann gilt sie [die Verheißung] auch uns"
+        ],
+        "positie_hoorder": "The hearer identifies as an outsider who must earn the status of Receiver through Subject-action."
+      },
+      "helper": {
+        "identificatie": "Solidarity, Criticism, and Partisanship.",
+        "tekstueel_bewijs": [
+          "in der Gestalt der Kritik, der Selbstkritik",
+          "als Parteilichkeit für die Armen"
+        ],
+        "rol_van_god": "God/Spirit is the initiator but becomes instrumental to the political struggle.",
+        "rol_van_geest": "External help that mandates political action."
+      },
+      "tegenstander": {
+        "identificatie": "The Bourgeoisie, Class Society, Neutral Exegesis, Capital Owners.",
+        "tekstueel_bewijs": [
+          "Trick der Bourgeoisie",
+          "Erhalter bestehender Ordnung",
+          "Kapitalbesitzern"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is systemic and structural (class struggle) rather than ontological (sin/death)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The wealthy hearer must undergo self-criticism to join the primary program.",
+      "subject": "The Hearer ('Wir')",
+      "object": "Solidarity/Partisanship",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The secondary program (ethics) is made a prerequisite for the primary program (soteriology/promise)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Poor → Liberation → The Solidary Wealthy",
+      "helper_subject_tegenstander": "Self-criticism → The Hearer ← Bourgeois Neutrality",
+      "subject_naar_object": "The Hearer → Solidarity/Participation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "12",
+      "ratio": "0.33",
+      "voorbeelden_god_subject": [
+        "Der Geist, der den Gefangenen Befreiung verkündigt",
+        "Christus gekommen ist"
+      ],
+      "voorbeelden_mens_subject": [
+        "Nur wenn wir solidarisch mit denen werden",
+        "dann gewinnen wir Anteil",
+        "Nur wenn wir uns zu diesen Inhalten... neu verhalten"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "muss den Kapitalbesitzern einiges... abgehen",
+          "müssen die Gesetze... verschwinden",
+          "müssen wir zunächst einmal zuhören"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "nach Befreiung hungernden und dürstenden Völker"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Um das zu verstehen, muss man sich die Situation... vor Augen führen"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "dann gewinnen wir Anteil"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily prescriptive. It assumes that if the hearer understands (Savoir) the social reality, they must (Devoir) act, which then grants them the ability (Pouvoir) to receive the promise."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Liberation/Partisanship",
+      "s2": "Oppression/Apartheid",
+      "niet_s1": "Neutral Exegesis (Bourgeoisie)",
+      "niet_s2": "Loss of Privilege (Dividende abgehen)"
+    },
+    "beweging_in_preek": "From S2 (Oppression) through ~S1 (Neutrality) to S1 (Partisanship) via ~S2 (Self-criticism/Loss).",
+    "theologische_resolutie": "Resolution is achieved through human solidarity and political change, not divine intervention.",
+    "ernst_van_s2": "S2 is taken very seriously as social injustice, but not as spiritual alienation from God."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'Spirit' and 'Christ', the sermon's engine is anthropocentric. The 'Promise' is conditional upon human solidarity. Grace is not a gift to the helpless, but a reward for the partisan.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Promise",
+        "tekstueel_bewijs": "Nur wenn wir solidarisch mit denen werden, denen die Verheißung gilt, dann gilt sie auch uns.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Human as Subject of the 'Turning Point'",
+        "tekstueel_bewijs": "Nur wenn wir uns zu diesen Inhalten... neu verhalten, dann gewinnen wir Anteil an ihr.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christ as the one who comes",
+        "tekstueel_bewijs": "für die Christus gekommen ist",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The 'Poor' and 'Liberation Theologians' serve as the epistemic and moral model the hearer must follow.",
+      "bijbelse_figuren_als_model": [
+        "The Poor (as a collective category)"
+      ],
+      "alternatieve_lezing": "Christ justifies the ungodly (including the rich) to empower them for justice, rather than the rich earning the promise through justice."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "OPPONENT",
+      "effect_op_hoorder": "Guilt and pressure to perform 'solidarity' to escape judgment.",
+      "theologische_implicatie": "Synergism: Man must cooperate with social movements to activate the Gospel's efficacy."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "Highly coherent as a political manifesto, but theologically incoherent regarding the 'unconditionality' of the Gospel.",
+      "spanning_punten": [
+        "The 'Spirit' is said to proclaim liberation, but the 'Wealthy' must first change for the Spirit's word to apply to them."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Befreiung kommt zu uns... in der Gestalt der Kritik",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides the 'mandate' (Devoir) rather than the 'power' (Pouvoir) to the hearer."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is identified as 'Bourgeois interest' and 'Class-neutrality'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Law' sermon where the Gospel (Promise) is the prize at the end of a political-ethical obstacle course.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the subject of 'gaining participation'.",
+      "voorgestelde_herpositionering": "Christ must be the subject who reconciles the rich and poor, creating the solidarity He then commands.",
+      "voorbeeld_revisie": "Christ's Spirit breaks our bourgeois hearts so that we find ourselves, unexpectedly, at the side of the poor."
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'Enemy' who must work his way in.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Present the promise as the power that enables solidarity, not the result of it."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Overwhelming Devoir (Must).",
+      "voorgestelde_balans": "Pouvoir (Can/Empowerment).",
+      "concrete_suggestie": "Focus on how the 'Year of the Lord' gives us the power to let go of dividends."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Opponent is 'Class interest'.",
+      "voorgestelde_intensivering": "Identify the 'Opponent' as the human heart's inability to love the neighbor without divine rebirth.",
+      "theologische_rationale": "Social change requires more than 'criticism'; it requires a new creation."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Program 2) is the gatekeeper for Soteriology (Program 1).",
+      "voorgestelde_structuur": "Soteriology (God frees us) → Ethics (Therefore, we stand with the poor)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The passion for justice is commendable, but be careful not to turn the Gospel into a new Law that only the 'politically correct' can inherit."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a powerful call to action; actantially, it is a conditional legalism.",
+    "verschil_met_exegese": "Exegesis focuses on the 'Poor' in Luke; Greimas shows how the preacher uses the 'Poor' to displace the 'Hearer' from grace.",
+    "unieke_inzichten_greimas": "Reveals that 'Solidarity' has replaced 'Faith' as the functional actant for salvation in this text."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Geist (verkündigt)",
+      "Wir (zuhören)",
+      "Wir (solidarisch werden)",
+      "Wir (Anteil gewinnen)",
+      "Befreiung (kommt)"
+    ],
+    "volledige_object_lijst": [
+      "Befreiung",
+      "Anteil an der Verheißung",
+      "Dividende",
+      "Klassengesellschaft"
+    ],
+    "werkwoord_frequentie": {
+      "müssen": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "werden": {
+        "count": "4",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses 'Befreiung' (Liberation) as a semiotic equivalent for 'Salvation', but subjects it to strict conditional logic."
+  }
+}

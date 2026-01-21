@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "King of Kings and Lord of Lords",
+    "bijbeltekst": "II Samuel 23:1-7, Psalm 132, Revelation 1:4b-8, John 18:33-37",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God establishes an eternal kingdom through the Word and the incarnation of Christ to conquer the powers of Sin and Death, reclaiming humanity from their own failed self-rule.",
+      "subject": {
+        "identificatie": "God / Jesus Christ",
+        "tekstueel_bewijs": [
+          "The God of Israel has spoken",
+          "God has made him both Lord and Messiah",
+          "He drew into himself all the wickedness... and in the resurrection, conquered it"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Dominion/Truth/Life (The Kingdom)",
+        "tekstueel_bewijs": [
+          "His dominion is Light; his dominion is Truth; his dominion is Life"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Word of God / The Spirit",
+        "tekstueel_bewijs": [
+          "The Spirit of the Lord speaks by me",
+          "The mouth of the Lord hath spoken it"
+        ],
+        "rol_interpretatie": "SOVEREIGN_CREATOR"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity / The Hearer / The Son (in the story of the OD)",
+        "tekstueel_bewijs": [
+          "My son belongs to God. Nothing can change that."
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Incarnation / Baptism",
+        "tekstueel_bewijs": [
+          "Baptism is the action of God in this world",
+          "The descent of God from the eternal realm"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Speaking through prophets)"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and the Illusion of Self-Rule",
+        "tekstueel_bewijs": [
+          "This world of Sin and Death",
+          "Demonic powers",
+          "We want ourselves to be rulers of our own lives"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not merely bad behavior but 'Sin and Death' as ontological powers that humans cannot defeat."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The human attempt to be 'captain of my soul' and the subsequent failure/collapse of that project.",
+      "subject": "The Hearer / Modern Man",
+      "object": "Self-rule / Control",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The secondary program (human effort) is shown to be a total failure, which necessitates the primary program (God's intervention)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Word → Eternal Life → The Beloved Children",
+      "helper_subject_tegenstander": "Baptism/Cross → Christ ← Sin/Death/Demonic Powers",
+      "subject_naar_object": "God → Reclaiming the World"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 15,
+      "ratio": "2.8:1",
+      "voorbeelden_god_subject": [
+        "God has made him both Lord and Messiah",
+        "He drew into himself all the wickedness",
+        "The Lord swore to David a sure oath"
+      ],
+      "voorbeelden_mens_subject": [
+        "We want ourselves to be rulers",
+        "You made the good confession",
+        "We choose to think of him as less"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "We ought to realize",
+          "Fight the good fight"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Whom do we want to be ruler?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "We should at least acknowledge that this is what it says"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "He can speak through human beings",
+          "Conquered it because he came from the world where death has no dominion"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God's 'Ability' (Pouvoir) to act where humans have lost all power. It is a theology of divine capacity."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "God's Dominion (Life/Truth)",
+      "s2": "Sin and Death (Dominion of Darkness)",
+      "niet_s1": "Self-Rule (The 'American Way')",
+      "niet_s2": "The Cross (God entering the violence/darkness)"
+    },
+    "beweging_in_preek": "From the illusion of S1 (egalitarianism/self-rule) to the reality of S2 (death/OD), then to ~S2 (the Cross) and finally S1 (Resurrection).",
+    "theologische_resolutie": "Resolution is found in the Incarnation—God entering S2 to bring the hearer to S1.",
+    "ernst_van_s2": "Extremely high; death is treated as a literal, crushing reality."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It explicitly attacks the idea of Jesus as a 'moral exemplar' and insists on God as the primary actor in history and baptism.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Self-rule temptation",
+        "tekstueel_bewijs": "I am the master of my fate",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of salvation",
+        "tekstueel_bewijs": "God has made him both Lord and Messiah",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "Ruler of this world of Sin and Death",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The preacher explicitly rejects exemplarism, calling it a 'major movement' that strips away Christ's transcendence.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "David is not an example of virtue, but the recipient of an 'everlasting covenant' despite his 'enormous sins'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and surrender ('I can let it go').",
+      "theologische_implicatie": "Monergistic; salvation is entirely God's work."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The transition from the failure of human self-rule to the victory of Christ's rule is seamless and logically consistent.",
+      "spanning_punten": [
+        "The tension between 'I am the captain of my soul' and the reality of a son's death."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "In the resurrection, conquered it—conquered it because he came from the world where death has no dominion.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides the Word (Savoir/Savoir-dire) to the prophets."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Fatal; it is a 'dominion' that humans cannot escape on their own."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject. The hearer is correctly positioned as the Receiver of a covenant they did not initiate.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for a Christ the King sermon.",
+      "concrete_suggestie": "The concluding 'Fight the good fight' provides the necessary Devoir (obligation) as a response to the Pouvoir."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "High (Sin and Death).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's rule) clearly precedes and enables Ethics (fighting the good fight)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in theocentric preaching. It avoids the trap of moralism by grounding every human action in the prior, definitive action of God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis might focus on the 'Lion King' anecdote, Greimas shows that this anecdote serves to establish the 'Sender' of the narrative (the innate human need for a King).",
+    "verschil_met_exegese": "Exegesis explains the meaning of 'Kurios'; actantial analysis shows that 'Kurios' functions as the Subject who possesses the 'Pouvoir-faire' that the hearer lacks.",
+    "unieke_inzichten_greimas": "Greimas reveals that the sermon's power comes from the 'Subject-Switch'—moving the hearer from the failed Subject of their own life to the Receiver of Christ's dominion."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (spoke)",
+      "The Spirit (speaks)",
+      "The Lord (swore)",
+      "Jesus (healed)",
+      "God (made him Lord)",
+      "He (conquered)"
+    ],
+    "volledige_object_lijst": [
+      "The Kingdom",
+      "The Truth",
+      "The Son (as belonging to God)",
+      "Eternal Life"
+    ],
+    "werkwoord_frequentie": {
+      "speak/spoken": {
+        "count": 8,
+        "primair_subject": "God"
+      },
+      "rule/reign": {
+        "count": 6,
+        "primair_subject": "God"
+      },
+      "conquer": {
+        "count": 2,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the 'Rutledge Rule' effectively, ensuring that the heavy lifting of the narrative is done by God."
+  }
+}

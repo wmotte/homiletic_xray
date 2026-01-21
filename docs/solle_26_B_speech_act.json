@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "titel_preek": "Zählt nicht uns, sondern eure Tage",
+    "bijbeltekst": "Psalm 90",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores Psalm 90 through personal biography, historical context (post-exilic), and political-ecological critique (SDI, nuclear energy, economic injustice). It contrasts 'Allmachtswahn' (delusions of grandeur) with human finitude.",
+      "exegetische_kwaliteit": "High. Distinguishes between Lutheran 'memento mori' and the Hebrew 'counting days' as conscious living.",
+      "omvang_procent": "70%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting a new interpretation of the Psalm and expressing personal/collective grief. There is a strong shift toward 'Herbeibeten' (praying God into the situation) in the final third.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Ich möchte von einer letzten Begegnung erzählen (Expressive/Assertive)",
+        "Gott will uns an der guten Macht des Lebens beteiligen (Assertive)",
+        "Kehr um, Gott! (Directive/Appeal to God)"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Awakening from political apathy, comfort in finitude, and a shift from resignation to active lament/prayer.",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is not explicitly named, but the 'living word' and 'melting frozen conditions' point to a pneumatological event.",
+      "perlocutionaire_werkwoorden": [
+        "umkehren",
+        "klagen",
+        "beten",
+        "widerstehen",
+        "erkennen"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "High",
+      "procent": "65%",
+      "voorbeelden": [
+        "Gott ist groß, unendlich anders.",
+        "Unsere Zeit liegt in den Händen dieser Männer der Macht."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "denke",
+        "bedeutet"
+      ]
+    },
+    "directieven": {
+      "frequentie": "Moderate",
+      "procent": "15%",
+      "voorbeelden": [
+        "Zählt eure Tage.",
+        "Wir müssen die Elenden in unser Herz lassen."
+      ],
+      "dominante_werkwoorden": [
+        "müssen",
+        "sollen",
+        "lehre",
+        "kehre"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "Moderate",
+      "procent": "12%",
+      "voorbeelden": [
+        "Ich erschrak vor mir selber.",
+        "Ich wundere mich manchmal, dass Gott nicht viel zorniger ist."
+      ],
+      "dominante_werkwoorden": [
+        "verband",
+        "fühlte",
+        "wundere"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "Low",
+      "procent": "5%",
+      "voorbeelden": [
+        "Gott wird uns tragen."
+      ],
+      "dominante_werkwoorden": [
+        "wird tragen",
+        "versprechen"
+      ],
+      "kwaliteit": "Weak. The promises are often framed as general truths (Assertives) rather than direct address."
+    },
+    "declaratieven": {
+      "frequentie": "Very Low",
+      "procent": "3%",
+      "voorbeelden": [
+        "Gott flickt das zerrissene Leben."
+      ],
+      "dominante_werkwoorden": [
+        "flickt",
+        "macht hell"
+      ],
+      "autoriteit": "The authority is meditative rather than sacramental/official."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive biographical storytelling",
+        "Sociological analysis of technology",
+        "Exegesis of the Hebrew text"
+      ],
+      "effect_op_hoorder": "The hearer is informed and reflected upon, but not necessarily addressed by God."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct sacramental promise to the 'You'",
+        "Authoritative 'Thus says the Lord'"
+      ],
+      "effect_op_hoorder": "Hearer remains an observer of the preacher's thoughts."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Vague, third-person.",
+      "voorbeelden": [
+        "Gott will uns an der guten Macht des Lebens beteiligen."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Preacher uses 'I' for biography and 'We' for social critique."
+      },
+      "tweede_persoon": {
+        "frequentie": "Low",
+        "gebruik": "Used mainly in the concluding prayer to address God, rarely the congregation.",
+        "performatieve_context": "Minimal."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Talking about 'the people', 'the state', 'God'.",
+        "distantie_effect": "Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Personal memories and biblical history."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General theological and political truths."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The concluding prayer."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon moves from Assertive (Analysis of the world) directly to Directive (We must change/pray).",
+      "voorbeelden": [
+        "Analysis of SDI/Allmachtswahn -> 'Noch können wir umkehren!'"
+      ],
+      "probleem": "The 'Umkehr' (turning) is presented as a human possibility/task rather than a gift granted by a Declarative word."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Wir sind am Allmachtswahn beteiligt... Noch dürfen wir jeden Tag bewusst als Geschenk annehmen."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While theologically progressive, the sermon functions as a moral and political appeal. It describes the human condition and calls for change without the preacher acting as a mandatory of God's performative grace.",
+    "sterke_punten": [
+      {
+        "aspect": "Contextualization",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Comparison with SDI and economic structures.",
+        "effect": "Makes the ancient text relevant."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Performative Deficit",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The sermon talks *about* God's turning rather than *performing* it.",
+        "probleem": "The hearer is left with the burden of 'Umkehr'.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is an intellectual and emotional event, but not a sacramental one where reality is changed by the word.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher remains a witness/teacher, not a 'mouthpiece' of the present Christ."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of discussion.",
+      "prediker_als_mandataris": "No. Preacher is a fellow searcher/critic.",
+      "tekstueel_bewijs": [
+        "Ich möchte von einer letzten Begegnung erzählen."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is sought through political/moral awakening.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, sermon as 'Anstoß' (impulse).",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is', 'must', and 'I think'. Too few 'I promise you' or 'God says to you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Gott will uns an der guten Macht des Lebens beteiligen.",
+          "voorgestelde_revisie": "Im Namen Jesu Christi beteilige ich euch heute an der Macht des Lebens.",
+          "verschil": "Moves from a wish/fact to a present reality."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Grace is a theory here, not a gift.",
+      "suggestie": "Use the 2nd person plural to address the congregation directly with God's promise.",
+      "voorbeeldzinnen": [
+        "Eure Tage sind in Gottes Hand geborgen, trotz aller Angst."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' and 'We' (general).",
+      "suggestie": "Direct 'You' address.",
+      "voorbeeldzinnen": [
+        "Hört, was Gott euch heute zusagt."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative (Umkehr) lacks the foundation of a performative indicative (Forgiveness/Grace).",
+      "suggestie": "Declare God's turning *before* calling for human turning."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A powerful political meditation, but it needs more 'Gospel-force' (Commissives) to become a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-disclosure' of the preacher's biography. SAT reveals that this disclosure actually hinders the 'Declarative' force of God's word.",
+    "verschil_met_retoriek": "Rhetorically strong (metaphors, structure), but illocutionarily weak (lacks 'doing' verbs).",
+    "unieke_inzichten_SAT": "SAT exposes that even a 'prophetic' sermon can be purely constative if it only describes injustice without performing the 'New Creation'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "sind",
+        "heißt",
+        "denke",
+        "weiß",
+        "scheint",
+        "bedeutet"
+      ],
+      "directief": [
+        "zählt",
+        "lehre",
+        "müssen",
+        "sollen",
+        "kehre um"
+      ],
+      "expressief": [
+        "erschrak",
+        "wundere",
+        "hoffe",
+        "wünsche"
+      ],
+      "commissief": [
+        "wird tragen"
+      ],
+      "declaratief": [
+        "flickt"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Gott ist unsere Heimat.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a state.",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "Kehr um, Gott!",
+        "categorie": "DIRECTIVE (to God)",
+        "illocutionaire_kracht": "Petition.",
+        "effectiviteit": "Strong emotional appeal."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Religious Social Criticism' where the performative power is replaced by the urgency of the topic."
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "titel_preek": "Prayer of Thirst",
+    "bijbeltekst": "Psalm 42 & 43",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "3200"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A detailed exposition of Psalm 42 and 43 focusing on the experience of spiritual desertion, its causes (physical, social, environmental), and the cure found in Christ's desertion on the cross.",
+      "exegetische_kwaliteit": "High. The preacher engages with Hebrew intensives, historical context (Lloyd-Jones), and the structural unity of the two psalms.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The sermon primarily functions as an 'Assertive' (teaching about depression) until the final third, where it shifts toward 'Directive' (exhorting prayer) and 'Commissive' (promising God's presence based on the cross).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I want you to see that it’s possible to be doing everything right...",
+        "Put your hope in God.",
+        "He is with me."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel understood in their despair and moved to 'talk to their soul' rather than just 'listen to it.'",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event,' though the 'water starting to flow' implies spiritual action.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "hope",
+        "pray",
+        "endure",
+        "remember"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "High",
+      "procent": "70%",
+      "voorbeelden": [
+        "The word downcast is a very strong Hebrew word.",
+        "This is maybe one of the most famous psalms.",
+        "Jesus Christ was experiencing the absence of God."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "means",
+        "says",
+        "talks",
+        "happens"
+      ]
+    },
+    "directieven": {
+      "frequentie": "Moderate",
+      "procent": "15%",
+      "voorbeelden": [
+        "Pray even when you don’t feel like it.",
+        "Challenge yourself about your hopes.",
+        "Go read it tonight."
+      ],
+      "dominante_werkwoorden": [
+        "pray",
+        "look",
+        "challenge",
+        "put",
+        "go"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "Low",
+      "procent": "5%",
+      "voorbeelden": [
+        "I’ve never gotten over this.",
+        "I must say..."
+      ],
+      "dominante_werkwoorden": [
+        "wondered",
+        "found",
+        "admit"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "Low",
+      "procent": "7%",
+      "voorbeelden": [
+        "God would never desert me.",
+        "You will find the darkness will start to lift."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "promises",
+        "is (with you)"
+      ],
+      "kwaliteit": "Strongly Christocentric but often framed as a future result of the hearer's action rather than an immediate divine binding."
+    },
+    "declaratieven": {
+      "frequentie": "Very Low",
+      "procent": "3%",
+      "voorbeelden": [
+        "There’s no condemnation for me.",
+        "He is with me."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "stand"
+      ],
+      "autoriteit": "The preacher speaks with pastoral authority but rarely uses the first-person 'I' to declare God's present action to the 'You'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive explanation of Hebrew word meanings.",
+        "Lengthy citations of C.S. Lewis and Lloyd-Jones.",
+        "Categorization of causes (A, B, C)."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of their own condition rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Present-tense sacramental address ('Today God meets you')",
+        "Direct Commissives ('I promise you in His name')"
+      ],
+      "effect_op_hoorder": "The hearer receives a 'map' for the desert but may not feel the 'water' during the sermon itself."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "Theologically grounded in the substitutionary atonement but often descriptive ('He is with me') rather than declarative ('He is with you').",
+      "voorbeelden": [
+        "Because Jesus Christ was really deserted for me, I only feel deserted by God, but I’m not."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Used for pastoral examples and to model the 'I' of the psalmist."
+      },
+      "tweede_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Used for diagnostic questions ('Do you know how to do that?') and directives.",
+        "performatieve_context": "Mostly used in the 'Cure' section."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Talking about 'the psalmist', 'Elijah', 'Moses', and 'people'.",
+        "distantie_effect": "Creates a lecture-like atmosphere in the first 20 minutes."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and personal anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about depression and theology."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate moment of the sermon."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The sermon spends significant time in Assertive (Analysis of depression) leading to Directive (You must pray).",
+      "voorbeelden": [
+        "You recognize signs of clinical depression... Pray even when you don't feel like it."
+      ],
+      "probleem": "Risk of moralism if the 'Cure' is seen as a technique rather than a response to a gift."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The move from Christ’s desertion (Assertive) to the promise of God’s presence (Commissive).",
+      "voorbeelden": [
+        "Jesus took the cosmic thirst... therefore God is with me."
+      ],
+      "kwaliteit": "Theological foundation is excellent, but the illocutionary delivery is more 'teaching' than 'bestowing'."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because Jesus Christ was really deserted for me... I only have the temporary spiritual thirst."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "Pray, and pray a lot... This is still the way forward. There’s no alternative to it."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a brilliant 'theological therapy session.' It explains the mechanics of the soul and the cross with precision, but remains largely in the realm of 'talking about' the event of grace rather than 'performing' it.",
+    "sterke_punten": [
+      {
+        "aspect": "Christological Grounding",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Jesus Christ was experiencing the absence of God... he got what you and I deserve.",
+        "effect": "Provides a solid objective basis for hope."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The word downcast is a very strong Hebrew word that means to be dissolved...",
+        "probleem": "Too much time spent on lexical and psychological definitions before the 'Word' is spoken to the hearer.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It is an 'event' of learning and insight, but less of a 'sacramental encounter' where the Word itself does what it says.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The sermon points to the means of grace (prayer, word) but does not fully function as one in its own right."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, through the text, but the preacher acts more as an 'interpreter' than a 'herald'.",
+      "prediker_als_mandataris": "Moderate. The preacher speaks as a wise guide/pastor.",
+      "tekstueel_bewijs": [
+        "As a pastor, I can tell you..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The preacher assumes the 'cure' works if the hearer applies the 'three things'.",
+      "tekstueel_bewijs": [
+        "I want you to know these three things work."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a delivery of 'practical wisdom' and 'theological truth'.",
+      "epifanisch_taalgebruik": "Low. The language is analytical and didactic.",
+      "tekstueel_bewijs": [
+        "Let’s notice that there’s a condition described, then there are causes diagnosed..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is dominated by 'is', 'means', and 'describes'. It needs more 'I promise', 'I declare', and 'God gives'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus Christ was experiencing the absence of God... he got what you and I deserve.",
+          "voorgestelde_revisie": "Today, because Jesus bore that desertion for you, I declare to you: God will never leave you.",
+          "verschil": "Shifts from a historical fact (Constative) to a present-tense promise (Commissive/Declarative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often framed as a logical conclusion of a syllogism.",
+      "suggestie": "Directly address the 'thirsty' hearer with the authority of the office.",
+      "voorbeeldzinnen": [
+        "To you who feel dissolved today: Christ is your rock."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' (the psalmist) and 'I' (the preacher).",
+      "suggestie": "Increase 'You' (the hearer) in the context of grace.",
+      "voorbeeldzinnen": [
+        "You are not deserted."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is good, but the indicative needs more performative force.",
+      "suggestie": "Ensure the 'indicative' isn't just a 'fact' but a 'gift' being handed over."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "This is a masterclass in didactic preaching. To move toward a 'sacramental event,' reduce the 'talking about' the Hebrew and the therapy, and increase the 'proclaiming to' the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-Revelation' of the preacher's own struggles; SAT focuses on the 'Illocutionary Act' of God's promise through the preacher.",
+    "verschil_met_retoriek": "Rhetoric seeks to persuade the hearer that the analysis is correct; SAT seeks to effect a change in the hearer's status before God.",
+    "unieke_inzichten_SAT": "SAT reveals that despite the sermon's high quality, it remains 'constative-heavy,' risking the 'talking about' surplus that prevents the sermon from being a direct encounter."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "means",
+        "says",
+        "describes",
+        "diagnoses",
+        "explains",
+        "points out"
+      ],
+      "directief": [
+        "pray",
+        "look",
+        "challenge",
+        "put",
+        "hope",
+        "read"
+      ],
+      "expressief": [
+        "wondered",
+        "found",
+        "admit"
+      ],
+      "commissief": [
+        "will",
+        "promises",
+        "is with"
+      ],
+      "declaratief": [
+        "stand",
+        "is (no condemnation)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The word downcast is a very strong Hebrew word.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Constative",
+        "effectiviteit": "Informative but distancing."
+      },
+      {
+        "zin": "Put your hope in God.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Imperative",
+        "effectiviteit": "Strong, but needs the Commissive to empower it."
+      },
+      {
+        "zin": "He is with me.",
+        "categorie": "COMMISSIVE/DECLARATIVE",
+        "illocutionaire_kracht": "Performative",
+        "effectiviteit": "The most powerful moment of the sermon."
+      }
+    ],
+    "notities": "The sermon follows a classic 'Kellerian' structure: Problem -> Analysis -> Gospel Solution. SAT analysis suggests the 'Analysis' phase is slightly too long, delaying the performative 'Event' of the Gospel."
+  }
+}

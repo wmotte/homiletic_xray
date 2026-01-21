@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "titel_preek": "De Gezalfde Redder in de Synagoge van Nazareth",
+    "bijbeltekst": "Lukas 4:16-21 (met verwijzingen naar Lukas 3 en Jesaja 61)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Hij moet mensen die gebroken van hart zijn genezen",
+          "De dokter nodig voor ons hart",
+          "Is er geen balsem in Gilead?",
+          "Heelmeester",
+          "Medicijnmeester, genees u zelf"
+        ],
+        "conceptuele_metafoor": "SIN IS SICKNESS/INJURY AND SALVATION IS THERAPEUTIC HEALING"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "Geestelijke strijd opvoeren tot het hoogste punt",
+          "Gevangen onder het juk van de duivel",
+          "De vorst der duisternis",
+          "De deur staat open. Ik knip de ketting door"
+        ],
+        "conceptuele_metafoor": "SPIRITUAL LIFE IS WARFARE / SIN IS CAPTIVITY"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Mijn ziele-vriend",
+          "De bruid de bruidegom mag volgen",
+          "Liefdesrelatie die mag zijn met de Heer Jezus",
+          "Hij brengt haar in Zijn binnenkamer"
+        ],
+        "conceptuele_metafoor": "FAITH IS A ROMANTIC/MARITAL UNION"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "Je kiest een weg zonder God",
+          "Je zit op de verkeerde weg",
+          "Ommekeer. Bekering is ommekeer"
+        ],
+        "conceptuele_metafoor": "LIFE IS A JOURNEY / REPENTANCE IS A CHANGE OF DIRECTION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "De bijl ligt al bij de wortel van de boom.",
+        "brondomein": {
+          "naam": "AGRARIAN/FORESTRY",
+          "concrete_elementen": [
+            "bijl",
+            "wortel",
+            "boom",
+            "omhakken"
+          ],
+          "belichaamde_basis": "force/impact"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Imminent Judgment",
+          "doctrinale_traditie": "Reformed/Biblicist"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Bijl",
+            "doel_element": "Gods oordeel"
+          },
+          {
+            "bron_element": "Boom",
+            "doel_element": "Het menselijk leven/vruchtbaarheid"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Urgentie",
+            "onvermijdelijkheid van actie"
+          ],
+          "theologische_implicaties": [
+            "God straft onvruchtbaarheid",
+            "genadetijd is eindig"
+          ],
+          "ethische_implicaties": [
+            "Noodzaak tot onmiddellijke bekering"
+          ],
+          "onbedoelde_consequenties": [
+            "Angstcultuur",
+            "nadruk op prestatie (vruchten)"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Hoewel bijbels gefundeerd, wordt het vaak als cliché gebruikt; de prediker probeert het te revitaliseren door specifieke leeftijden (16, 18 jaar) te noemen."
+      },
+      {
+        "metafoor_expressie": "Ik knip de ketting door, de ketenen van de duivel door.",
+        "brondomein": {
+          "naam": "JURIDICAL/CAPTIVITY",
+          "concrete_elementen": [
+            "ketting",
+            "knippen",
+            "gevangenisdeur"
+          ],
+          "belichaamde_basis": "restraint/freedom"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Liberation from Sin",
+          "doctrinale_traditie": "Christus Victor"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Ketting",
+            "doel_element": "Zondige verslaving/macht van Satan"
+          },
+          {
+            "bron_element": "Knippen",
+            "doel_element": "Verlossingswerk van Christus"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Passiviteit van de gevangene",
+            "externe bevrijder nodig"
+          ],
+          "theologische_implicaties": [
+            "Sola Gratia",
+            "Christus is sterker dan de duivel"
+          ],
+          "ethische_implicaties": [
+            "Dankbaarheid voor vrijheid"
+          ],
+          "onbedoelde_consequenties": [
+            "Onderschatting van eigen verantwoordelijkheid in zonde"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "De prediker gebruikt actieve werkwoorden ('knippen') om het abstracte concept van verlossing tastbaar te maken."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "De preek weeft verschillende domeinen (medisch, militair, relationeel) aaneen door Christus als de centrale actor in elk domein te plaatsen. De overgang van 'strijd' naar 'genezing' volgt de logica van de tekst (Jesaja 61).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Slotfase",
+          "metafoor_a": "MILITARY (bevrijding uit gevangenis)",
+          "metafoor_b": "RELATIONAL (bruid in de binnenkamer)",
+          "conflict_beschrijving": "De abrupte overgang van een bevrijde slaaf naar een minnende bruid creëert een cognitieve sprong.",
+          "entailment_conflict": "Een slaaf wordt bevrijd door kracht; een bruid wordt getrokken door liefde.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Midden van de preek",
+          "gemengde_metaforen": [
+            "MEDICAL",
+            "JURIDICAL"
+          ],
+          "blending_strategie": "Christus als de 'Heelmeester' die de 'gebrokenheid' van de 'gevangene' herstelt."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "De prediker maakt 'blinden' en 'gevangenen' concreet door voorbeelden van verslaving en fysieke blindheid te gebruiken.",
+        "voorbeeld": "Ik liep bijna tegen iemand aan die blind was, met zo'n stok."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "Door zonde sterk als 'gebrokenheid' en 'ziekte' te framen, kan het morele aspect van schuld onderbelicht raken.",
+        "voorbeeld": "Je hart is gebroken... Je kan het zelf niet meer repareren.",
+        "potentiele_impact": "De hoorder ziet zichzelf als slachtoffer in plaats van dader.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "De synagoge van Nazareth waar Jezus de boekrol opent.",
+      "sub_worlds": [
+        "De woestijn (verzoeking)",
+        "Het sterfbed van een onboetvaardige",
+        "De moderne kerkzaal in Kockengen",
+        "De binnenkamer van het Hooglied"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Begin",
+          "van_wereld": "Nazareth 30 n.Chr.",
+          "naar_wereld": "Kockengen 2026",
+          "effectiviteit": "Sterk; trekt de hoorder direct het bijbelverhaal in."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Sovereign Actor",
+          "hoe_versterkt": "Nadruk op 'gezonden' en 'gezalfd' door de Vader."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Self-improvement religion",
+          "verstoring_strategie": "Benadrukken van onvermogen (blindheid/ketenen).",
+          "vervangend_schema": "Total dependence on the Messiah."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Sluit aan bij de klassieke gereformeerde orde van ellende, verlossing en dankbaarheid."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "De preek is rijk aan concrete bron-domeinen, met een sterke nadruk op de 'Medical' en 'Military' metaforen. Dit creëert een gevoel van urgentie en afhankelijkheid. De overgang naar het relationele domein aan het einde voelt echter wat gehaast en minder diep uitgewerkt dan de eerdere beelden.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "ZALVING",
+        "huidige_status": "Wordt vaak als abstracte term gebruikt.",
+        "suggestie": "Beschrijf de geur of de textuur van olie om de zintuiglijke ervaring van de Geest te benadrukken.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "De olie die over het hoofd stroomt, verzachtend en geurend."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "De overgang van 'gevangenis' naar 'binnenkamer'.",
+        "resolutie_strategie": "Gebruik de metafoor van 'adoptie' of 'thuiskomst' als brug tussen bevrijding en intimiteit."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SIN IS SICKNESS",
+        "problematisch_entailment": "Zieke mensen hebben geen schuld aan hun ziekte.",
+        "aanbeveling": "Combineer vaker met het 'Juridical' domein om verantwoordelijkheid te handhaven."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "Om de 'gebrokenheid' van het hart te verbinden met het bouwen op een fundament.",
+        "doel_concept": "Sanctificatie"
+      }
+    ],
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "Een krachtige preek die erin slaagt abstracte verlossingsconcepten te vertalen naar de belevingswereld van de hoorder door sterke, belichaamde metaforen."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "CMT kijkt niet naar de schoonheid van de 'duif-metafoor', maar naar hoe de vorm van de duif de 'zachtheid' en 'aanwezigheid' van de Geest cognitief structureert.",
+    "verschil_met_kolb": "Waar Kolb focust op leerstijlen, focust deze analyse op de onderliggende mentale mappings die de theologie van de prediker bepalen.",
+    "unieke_inzichten_CMT": "Onthult dat de prediker onbewust een 'Passive Human' schema hanteert door metaforen van blindheid en gevangenschap te domineren over metaforen van actieve navolging."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "De bijl bij de wortel",
+      "Gezalfd met olie",
+      "Kettingen doorknippen",
+      "Gevangenisdeur open",
+      "Heelmeester/Balsem",
+      "Blinden de ogen openen",
+      "Bruid in de binnenkamer",
+      "Zon der gerechtigheid"
+    ],
+    "woord_frequentie_analyse": {
+      "Heer": "42",
+      "Jezus": "38",
+      "duivel": "22",
+      "geest": "18",
+      "zonde": "15",
+      "vrijheid": "9"
+    },
+    "notities": "De prediker gebruikt opvallend veel 'force' schema's (tegenwerken, strijd, knippen, trekken)."
+  }
+}

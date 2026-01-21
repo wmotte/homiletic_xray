@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Birthed Public and Peculiar",
+    "bijbeltekst": "Luke 2:30-32; John 3; Hosea 13:13",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from the safety of the 'womb' (hiding/jadedness) to the 'public birth' of a peculiar, God-given identity in the world.",
+      "subject": {
+        "identificatie": "The Hearer / The Church / Israel / Nicodemus",
+        "tekstueel_bewijs": [
+          "We in our unwiseness can linger and refuse",
+          "we no longer hide in the womb",
+          "Israel resists, hides in the womb"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Public Peculiarity / Second Birth / Newness of Life",
+        "tekstueel_bewijs": [
+          "to go public with its peculiar identity",
+          "life lived according to the purposes of God"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Gospel / The Season of Epiphany",
+        "tekstueel_bewijs": [
+          "The pulsing of the gospel sets us in motion",
+          "Epiphany is a time for the church... to go public"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Neighbor",
+        "tekstueel_bewijs": [
+          "the world waits for the birth",
+          "seen in the world as a covenanted community of justice"
+        ],
+        "positie_hoorder": "The hearer identifies with the Subject who must perform the birth."
+      },
+      "helper": {
+        "identificatie": "Jesus / The Angels' Song / The Spirit (minimal)",
+        "tekstueel_bewijs": [
+          "born to give us second birth",
+          "born of the Spirit"
+        ],
+        "rol_van_god": "God is largely the Helper or the Exemplar (Jesus), rather than the primary Subject of the current action.",
+        "rol_van_geest": "External help/atmosphere ('born of the Spirit') rather than indwelling power."
+      },
+      "tegenstander": {
+        "identificatie": "Fear / Cowardice / Safety / Secular Self-indulgence",
+        "tekstueel_bewijs": [
+          "hiding in the womb where it is safe and warm",
+          "jadedness, fatigue, cowardice, cynicism, despair"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is primarily the hearer's own reluctance and desire for safety rather than a cosmic power of Sin or Death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Jesus' own growth into his identity.",
+      "subject": "Jesus",
+      "object": "His God-given self",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Jesus' birth and maturing serves as the template/example for the hearer's birth."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Epiphany/Gospel → Public Peculiarity → The World",
+      "helper_subject_tegenstander": "Jesus/Angels → The Hearer ← Fear/Safety",
+      "subject_naar_object": "The Hearer → Second Birth/Action"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 28,
+      "ratio": "0.42",
+      "voorbeelden_god_subject": [
+        "God so loved the world",
+        "The pulsing of the gospel sets us in motion"
+      ],
+      "voorbeelden_mens_subject": [
+        "We must go",
+        "Israel resists, hides in the womb",
+        "Each of us has gone safe with our favorite habits"
+      ],
+      "rutledge_score": 4
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "But we must go",
+          "Jesus had to grow into his God-given self",
+          "now to be public"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "not wanting to be born",
+          "not wanting to be at risk"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "unwise son",
+          "not knowing what time it is"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "How can this be?",
+          "How can anyone be born after having grown old?"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon focuses heavily on the obligation (Devoir) to be born and the lack of will (Vouloir), assuming that the power (Pouvoir) is latent if the subject simply chooses to 'go'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Public Peculiarity (Life)",
+      "s2": "Stillborn/Safety (Death)",
+      "niet_s1": "Hiding in the Womb",
+      "niet_s2": "Risk/Exposure"
+    },
+    "beweging_in_preek": "From S2 (Safety/Womb) through ~S1 (Hiding) toward S1 (Publicity).",
+    "theologische_resolutie": "The tension is resolved by a call to the will: 'But we must go.'",
+    "ernst_van_s2": "S2 is treated as 'unwisdom' or 'cowardice' rather than an ontological impossibility for the human."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While it uses high-grace language ('beloved', 'redeemed'), the actantial engine is moralistic: the hearer is the Subject who must effect their own birth to avoid being 'stillborn'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Subject-Switch to Man",
+        "tekstueel_bewijs": "But we must go. We in our unwiseness can linger and refuse—stillborn.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Declarative of Status",
+        "tekstueel_bewijs": "invited into a second birth where they are not condemned, but beloved, redeemed, reconciled, made whole.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus is presented as a model of 'courageous maturing' that the hearer should emulate.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Wise Men",
+        "Simeon"
+      ],
+      "alternatieve_lezing": "Jesus is the only one who can be 'born' perfectly; his birth is the substitute for our inability to be born."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'newness' and 'peculiarity' to avoid being 'unwise'.",
+      "theologische_implicatie": "Synergism: God provides the 'pulsing', but the hearer must navigate the birth canal."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 7,
+      "coherentie_beschrijving": "The metaphor of birth is consistent, but theologically strained as a fetus cannot choose its own birth.",
+      "spanning_punten": [
+        "The metaphor of birth (passive) vs. the command 'we must go' (active)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Jesus would never be confused with anyone else... this is the season of public peculiarity for all those allied with Jesus.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is the 'atmosphere' of birth rather than the agent who performs the birth."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'cowardice' or 'hiding'—a failure of wisdom."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon correctly identifies the 'Object' (Christian identity), but incorrectly assigns the 'Subject' role to the hearer. The hearer is told to 'be born', which is a biological and theological impossibility for a Subject.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'going' and 'appearing'.",
+      "voorgestelde_herpositionering": "Make God/The Spirit the Subject of the birth.",
+      "voorbeeld_revisie": "Instead of 'We must go', use 'The Spirit drags us out of our safe wombs into the light.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the fetus who must decide to be born.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that birth is something that *happens* to a child, not something a child *does*."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God's Power)",
+      "concrete_suggestie": "Focus on how God gives the power to be public when we are paralyzed by fear."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Weak (Cowardice/Habits)",
+      "voorgestelde_intensivering": "Identify the 'womb' as a tomb of death that we cannot escape on our own.",
+      "theologische_rationale": "If the opponent is just a 'habit', we don't need a Savior, just a coach."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (being peculiar) is fused with Soteriology (being born).",
+      "voorgestelde_structuur": "1. God births us (Soteriology). 2. Because we are born, we find ourselves being peculiar (Ethics)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The imagery is poetic and powerful, but ensure the 'Good News' isn't a new 'To-Do' list for the fetus."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would praise the 'womb' metaphor; Greimas reveals the metaphor's logical failure (fetuses don't choose birth).",
+    "verschil_met_exegese": "Exegesis would focus on Nicodemus's history; Greimas focuses on how the hearer is cast *as* Nicodemus.",
+    "unieke_inzichten_greimas": "Exposes that 'Second Birth' is being used as a Devoir-faire (obligation) rather than a gift."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (must go)",
+      "Israel (resists)",
+      "Jesus (had to grow)",
+      "Nicodemus (doubts)",
+      "God (loved)"
+    ],
+    "volledige_object_lijst": [
+      "Public identity",
+      "Second birth",
+      "Salvation",
+      "Justice"
+    ],
+    "werkwoord_frequentie": {
+      "born": {
+        "count": 18,
+        "primair_subject": "Man (as an act of will)"
+      },
+      "hide": {
+        "count": 4,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon relies on the 'urgency' of the season to drive the narrative, creating a 'Kairos' that demands human performance."
+  }
+}

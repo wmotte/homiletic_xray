@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "A Zinger That Changes Everything",
+    "bijbeltekst": "Luke 10:23-37",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The transformation of the hearer's life-focus from transcendental security (eternal life) to concrete social action (mercy) through the pedagogical 'zinger' of Jesus.",
+      "subject": {
+        "identificatie": "The Human Hearer / The 'Asker'",
+        "tekstueel_bewijs": [
+          "“What must I do to inherit eternal life?”",
+          "YOU can do what you need to get real life.",
+          "Faith means letting the subject of our life be changed"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Mercy / Ethical Action / Changed Identity",
+        "tekstueel_bewijs": [
+          "The answer at the end is: Mercy.",
+          "uncommon action, action that violates our social role"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Jesus as Pedagogue/Storyteller",
+        "tekstueel_bewijs": [
+          "Jesus knows the answer",
+          "Jesus has a way of shifting the subject",
+          "Good pedagogy fixes it so that the student can answer her own question"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Neighbor / The Self",
+        "tekstueel_bewijs": [
+          "invest on behalf of those who have no claim upon us",
+          "recast all of life around the one who 'holds all things together'"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Parable / The Story",
+        "tekstueel_bewijs": [
+          "The story functions to change the subject",
+          "The story in the midst of the frame is on the way"
+        ],
+        "rol_van_god": "Absent (Jesus is a functional storyteller/helper, not the primary actor)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Routine / Social Roles / Unfaith",
+        "tekstueel_bewijs": [
+          "interrupting routine",
+          "violates our social role",
+          "Our unfaith is a refusal to have the subject of our life changed"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opposition is framed as a lack of willingness to change one's schedule or identity, rather than an ontological or spiritual bondage."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": false,
+      "beschrijving": "There is no distinct soteriological program where God acts; the ethical program is the only active narrative.",
+      "subject": "n/a",
+      "object": "n/a",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon explicitly dismisses the 'eternal life' (soteriological) question to focus on the 'mercy' (ethical) task."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Jesus → Mercy → The Neighbor",
+      "helper_subject_tegenstander": "The Parable → The Hearer ← Routine/Identity",
+      "subject_naar_object": "The Hearer → Ethical Action"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 2,
+      "mens_als_subject_count": 18,
+      "ratio": "0.11",
+      "voorbeelden_god_subject": [
+        "Jesus knows the answer",
+        "Jesus has a way of shifting the subject"
+      ],
+      "voorbeelden_mens_subject": [
+        "YOU can do what you need",
+        "The asker wants to waste nothing",
+        "He signed a blank check",
+        "Do it."
+      ],
+      "rutledge_score": 2
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "“What must I do...?”",
+          "“Do it.”",
+          "you had better ask while you have the chance"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "the asker wants to waste nothing",
+          "letting the subject of our life be changed"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "Good pedagogy fixes it so that the student can answer her own question"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "“You can do it.”",
+          "Jesus is not a burdened theologian... so he echoes Moses: 'You can do it.'"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes the hearer possesses the power (Pouvoir) and merely needs the obligation (Devoir) and the knowledge (Savoir) to act."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Mercy (Concrete Action)",
+      "s2": "Eternal Life (Transcendentalism)",
+      "niet_s1": "Routine/Indifference",
+      "niet_s2": "Brutality/Violence"
+    },
+    "beweging_in_preek": "From S2 (Eternal Life) to ~S2 (Brutality) to S1 (Mercy).",
+    "theologische_resolutie": "The tension is resolved by abandoning S2 as 'taking care of itself' in favor of S1.",
+    "ernst_van_s2": "Low. Eternal life is described as an 'oxymoron' or 'transcendentalism' that distracts from the real work."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is anthropocentric. It positions the human hearer as the primary subject of the verbs of action and reduces Jesus to a 'pedagogue' or 'storyteller' who facilitates human self-actualization.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Pelagian Assumption",
+        "tekstueel_bewijs": "Jesus... echoes Moses: 'You can do it.'",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Dismissal of Soteriology",
+        "tekstueel_bewijs": "The gospel does not much linger over eternal Life, which will take care of itself.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christological Glue",
+        "tekstueel_bewijs": "recast all of life around the one who 'holds all things together.'",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Samaritan is used as a model of 'uncommon action' and 'outrageous cost' for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [
+        "The Samaritan"
+      ],
+      "alternatieve_lezing": "Christ is the Samaritan who finds the hearer half-dead on the road and saves them at His own cost."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Inspiration followed by potential exhaustion (burden of 'Do it').",
+      "theologische_implicatie": "Salvation is equated with ethical performance."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 6,
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically fragmented, as it severs the link between the gift of life and the call to mercy.",
+      "spanning_punten": [
+        "The claim that Jesus 'never settles for frivolous questions' vs the claim that 'eternal life... will take care of itself.'"
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Jesus' story changes our life-question by... inviting us to uncommon action.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is assumed to already have the competence."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'routine' or 'social roles' rather than a condition requiring a Savior."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (through mercy)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a recruitment speech for ethical living, where Jesus is the coach and the hearer is the athlete. God is not an actant in the primary drama.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'doing mercy' to earn or manifest life.",
+      "voorgestelde_herpositionering": "Jesus must be the Subject who shows mercy to the hearer (the man in the ditch).",
+      "voorbeeld_revisie": "Instead of 'You can do it,' say 'Christ has done for you what you could not do for yourself, becoming the neighbor you refused to be.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the Good Samaritan.",
+      "voorgestelde_identificatie": "Hearer as the wounded man in the ditch (Receiver).",
+      "strategie": "Emphasize the hearer's inability to save themselves from the 'brutality' mentioned."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy Devoir (Must) and Savoir (Know).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as the power to act).",
+      "concrete_suggestie": "Focus on how the Spirit empowers the heart to love, rather than just commanding the hand to move."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Trivial (Routine).",
+      "voorgestelde_intensivering": "Identify Sin as a power that prevents us from being 'good' neighbors.",
+      "theologische_rationale": "Without a heavy opponent, the 'Helper' (Grace) is unnecessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has swallowed Soteriology (Program 1).",
+      "voorgestelde_structuur": "Proclaim the mercy of God (Soteriology) as the ground for the human act of mercy (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong rhetorical 'zinger' but lacks the 'Good News' that empowers the hearer to actually live out the summons."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is engaging and clever; semiotically, it is a legalistic engine.",
+    "verschil_met_exegese": "Exegesis might focus on the historical Samaritan-Jewish tension; Greimas shows the functional displacement of God by the human subject.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite using the name 'Jesus,' the narrative structure is entirely secular/humanistic."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (knows)",
+      "You (can do)",
+      "Asker (wants)",
+      "Samaritan (claims attention)",
+      "He (used oil/wine)",
+      "Jesus (adds tersely)"
+    ],
+    "volledige_object_lijst": [
+      "Eternal life",
+      "Mercy",
+      "Uncommon action",
+      "Blank check"
+    ],
+    "werkwoord_frequentie": {
+      "do": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "change": {
+        "count": 4,
+        "primair_subject": "The Story/Jesus"
+      }
+    },
+    "notities": "The sermon explicitly rejects the 'burdened theologian' perspective, which is a meta-discursive move to avoid the 'Pouvoir' (Grace) problem."
+  }
+}

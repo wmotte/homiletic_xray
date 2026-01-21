@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "Jezus gedoopt: Vernedering, Vervulling, Verheerlijking",
+    "bijbeltekst": "Matteüs 3:13-17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God de Vader en de Zoon bewerkstelligen de redding van de mensheid door de vernedering van Jezus in de doop, waarmee Hij de schuld van anderen op zich neemt en als Messias wordt aangewezen.",
+      "subject": {
+        "identificatie": "Jezus (De Zoon) / God (De Vader)",
+        "tekstueel_bewijs": [
+          "Jezus die zegt: 'Alle gerechtigheid moet vervuld worden.'",
+          "Hij wordt een van ons.",
+          "Hij doet het uit liefde.",
+          "God gaat eindelijk doen wat al zo lang beloofd is."
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Redding, vergeving van zonden en het herstel van de relatie met God.",
+        "tekstueel_bewijs": [
+          "Om gevangenen te bevrijden uit de kerker",
+          "Om u en jou in alles gelijk te worden",
+          "Om ons omhoog te trekken uit de put"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God de Vader",
+        "tekstueel_bewijs": [
+          "God zelf had hem aangesteld, had hem de opdracht gegeven",
+          "De stem van de Vader die een lange tijd van stilte doorbreekt"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "De hoorder / De mensheid",
+        "tekstueel_bewijs": [
+          "Ook voor u, en voor jou.",
+          "Omdat Hij zoveel van u houdt, van u allen."
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "De Heilige Geest / Johannes de Doper (instrumenteel)",
+        "tekstueel_bewijs": [
+          "De Geest komt uit de hemel als een duif en hij daalt op hem neer",
+          "Vervulling door de Geest"
+        ],
+        "rol_van_god": "God is Subject (Zoon/Vader) en Helper (Geest).",
+        "rol_van_geest": "External sign of empowerment and indwelling power."
+      },
+      "tegenstander": {
+        "identificatie": "Zonde, de 'put', menselijke idealen van macht, en verzet tegen Jezus.",
+        "tekstueel_bewijs": [
+          "De put waar we allemaal in zitten",
+          "Wie zich tegen Hem verzet, die zal het niet meemaken"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "De tegenstander is de fundamentele menselijke staat van gevangenschap en zonde die alleen door goddelijke vernedering doorbroken kan worden."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "De hoorder moet Jezus als Koning aanvaarden en tot Hem gaan om de verlossing te ontvangen.",
+      "subject": "De hoorder",
+      "object": "Acceptatie van Jezus' koningschap / Deelname aan de goddelijke liefde.",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "De ethische/responsieve actie van de mens volgt strikt op de soteriologische actie van God."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Vader → Redding/Gerechtigheid → De hoorder",
+      "helper_subject_tegenstander": "Heilige Geest → Jezus ← Zonde/Menselijke Trots",
+      "subject_naar_object": "Jezus → Vervullen van gerechtigheid"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 15,
+      "ratio": "2.8",
+      "voorbeelden_god_subject": [
+        "Jezus gaat en neemt de schuld van anderen op zich.",
+        "God gaat eindelijk doen wat al zo lang beloofd is.",
+        "De Geest daalt op hem neer."
+      ],
+      "voorbeelden_mens_subject": [
+        "Bekeer je. Draai je om.",
+        "Ga tot Hem, als het nog niet zo is.",
+        "Mag Hij de belangrijkste in uw leven zijn?"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Alle gerechtigheid moet vervuld worden.",
+          "Bekeer je."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "Wilt u zo'n Jezus?",
+          "Hij doet het uit liefde."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "De mensen wisten wel dat de Messias met de Geest vervuld zou worden."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "Iemand die gevangen mensen bevrijdt.",
+          "Om ons omhoog te trekken uit de put."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "De nadruk ligt op de goddelijke macht (Pouvoir) om te redden waar de mens onmachtig is (de put)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Gerechtigheid/Genade",
+      "s2": "Oordeel/De Put",
+      "niet_s1": "Zelfhandhaving/Trots",
+      "niet_s2": "Vernedering van Jezus"
+    },
+    "beweging_in_preek": "Van de put (S2) via de vernedering van Jezus (~S2) naar de gerechtigheid (S1).",
+    "theologische_resolutie": "Jezus neemt de positie van de zondaar in (~S2) om de weg naar de Vader (S1) te openen.",
+    "ernst_van_s2": "Hoog; de 'put' en 'gevangenschap' worden als reëel en hopeloos zonder ingrijpen geschetst."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "De preek is consequent theocentrisch. God is de handelende persoon in de verlossing; de mens is de ontvanger.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Voorwaardelijke oproep aan het slot",
+        "tekstueel_bewijs": "Wie zich tegen Hem verzet, die zal het niet meemaken, die verlossing.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God als Subject van redding",
+        "tekstueel_bewijs": "Hij kwam om u en jou in alles gelijk te worden... om ons omhoog te trekken.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Christocentrische vervulling",
+        "tekstueel_bewijs": "Alle gerechtigheid moet vervuld worden... Jezus wordt hier tot zonde gemaakt.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Jezus wordt niet als moreel voorbeeld gesteld ('doe zoals Hij'), maar als plaatsvervanger.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "De preek is al theocentrisch: Jezus doet wat wij niet kunnen."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Troost en ontlasting van de morele prestatiedrang.",
+      "theologische_implicatie": "Soteriologie gaat vooraf aan de antropologie."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "De drie punten (Zoon, Geest, Vader) vormen een gesloten trinitaire cirkel die de hoorder insluit.",
+      "spanning_punten": [
+        "De overgang van de onvoorwaardelijke liefde van God naar de waarschuwing voor verzet aan het slot."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Hij is zelf geen zondaar, maar hij wordt een van ons... neemt de schuld van anderen op zich.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "De Geest rust de Messias toe voor de bevrijding van mensen."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Zeer ernstig; vereist de 'vernedering' van God zelf."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek heeft een sterke genade-structuur waarbij Jezus het Subject is van de verlossing.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_problem": "Geen",
+      "voorgestelde_herpositionering": "N.v.t.",
+      "voorbeeld_revisie": "N.v.t."
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N.v.t.",
+      "voorgestelde_identificatie": "Blijf de hoorder positioneren als de 'gevangene' die bevrijd wordt.",
+      "strategie": "N.v.t."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Lichte nadruk op Pouvoir (kunnen), wat passend is voor genade.",
+      "voorgestelde_balans": "Behoud de focus op Pouvoir.",
+      "concrete_suggestie": "Versterk de 'Savoir' (kennis) van de hoorder over hun nieuwe identiteit in Christus."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "De 'put' is wat abstract.",
+      "voorgestelde_intensivering": "Maak de onmacht van de mens om zichzelf uit de put te trekken specifieker.",
+      "theologische_rationale": "Hoe dieper de put, hoe groter de genade."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "Geen",
+      "voorgestelde_structuur": "De huidige structuur (Soteriologie -> Respons) is correct."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "Deze preek is een schoolvoorbeeld van een genade-georiënteerde verkondiging waarin de trinitaire structuur de actantiele rollen van God waarborgt."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Waar retorica kijkt naar de drieslag in de titel, kijkt Greimas naar wie de 'motor' van de actie is.",
+    "verschil_met_exegese": "De analyse focust niet op de historische context van de Jordaan, maar op de functionele rol van de doop in het reddingsverhaal.",
+    "unieke_inzichten_greimas": "Onthult dat de hoorder consequent in de 'ontvanger'-rol wordt gehouden, wat psychologische rust geeft."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jezus (vervult)",
+      "God (stelt aan)",
+      "De Geest (daalt neer)",
+      "De Vader (spreekt)",
+      "De hoorder (gaat tot Hem)"
+    ],
+    "volledige_object_lijst": [
+      "Gerechtigheid",
+      "Vergeving",
+      "Bevrijding",
+      "Deelname aan de liefde"
+    ],
+    "werkwoord_frequentie": {
+      "vervullen": {
+        "count": 5,
+        "primair_subject": "God"
+      },
+      "redden/verlossen": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "moeten": {
+        "count": 3,
+        "primair_subject": "God/Noodzaak"
+      }
+    },
+    "notities": "De preek vermijdt de valkuil van 'exemplarisme' door Jezus' doop niet als model voor onze gehoorzaamheid te presenteren, maar als zijn unieke plaatsvervangende werk."
+  }
+}

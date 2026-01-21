@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "Wem gehört eigentlich Weihnachten?",
+    "bijbeltekst": "Luke 2 (implied: Birth of Christ, Shepherds, Herod)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "gemeinsamen Weg der Befreiung",
+          "für wen machen sich die Engel auf den Weg",
+          "aus ihrer Depression nicht heraus können"
+        ],
+        "conceptuele_metafoor": "SALVATION IS A COLLECTIVE JOURNEY TOWARD LIBERATION"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "erotischen Sprache",
+          "Braut",
+          "Bräutigam",
+          "zärtliche Freude",
+          "Maria und Josef vietnamesische Züge tragen"
+        ],
+        "conceptuele_metafoor": "FAITH IS AN EROTIC/FAMILIAL INTIMACY"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "Die Lieder sind Medikamente",
+          "wie sollen die Patienten sonst gesund werden"
+        ],
+        "conceptuele_metafoor": "CULTURE/FAITH IS MEDICINE"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Jesus macht sich ein Bettchen in unseres Herzens Schrein",
+        "brondomein": {
+          "naam": "Architectural/Container",
+          "concrete_elementen": [
+            "Bettchen",
+            "Schrein",
+            "Herz"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Inhabitation of Christ",
+          "doctrinale_traditie": "Pietistic/Lutheran (Bach tradition)"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Physical furniture (bed)",
+            "doel_element": "Spiritual rest/presence"
+          },
+          {
+            "bron_element": "Shrine (sacred container)",
+            "doel_element": "The inner self/soul"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Faith is private and interior",
+            "God is small, vulnerable, and needs protection"
+          ],
+          "theologische_implicaties": [
+            "Individualistic soteriology",
+            "Incarnation as domestic comfort"
+          ],
+          "ethische_implicaties": [
+            "Focus on personal piety and emotional warmth"
+          ],
+          "onbedoelde_consequenties": [
+            "Privatization of faith that ignores systemic injustice"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A standard trope in 18th-century Pietism, used here to contrast with political reality."
+      },
+      {
+        "metafoor_expressie": "Die Lieder sind Medikamente",
+        "brondomein": {
+          "naam": "Medical",
+          "concrete_elementen": [
+            "Medikamente",
+            "Patienten",
+            "Gesund werden"
+          ],
+          "belichaamde_basis": "balance/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "The function of culture and worship in suffering",
+          "doctrinale_traditie": "Liberation Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Medicine",
+            "doel_element": "Songs/Art"
+          },
+          {
+            "bron_element": "Healing",
+            "doel_element": "Resilience against war"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Art is not a luxury but a necessity for survival"
+          ],
+          "theologische_implicaties": [
+            "Worship as a tool for political and psychological resistance"
+          ],
+          "ethische_implicaties": [
+            "Duty to create and sing even in 'dark times'"
+          ],
+          "onbedoelde_consequenties": [
+            "Potential reduction of art to mere utility"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the source domain by placing it in the context of a Vietnamese field hospital."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MIXED",
+      "coherentie_verklaring": "The preacher intentionally juxtaposes three conflicting models of Christmas (Erotic/Pietistic, Bourgeois/Childlike, and Political/Liberation). The coherence is found not in the metaphors themselves, but in the dialectical tension between them.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Middle section",
+          "metafoor_a": "Christmas as a 'zärtliche Freude' (tender joy)",
+          "metafoor_b": "Christmas as 'Befreiungskampf' (liberation struggle)",
+          "conflict_beschrijving": "The interiority of the 'heart's shrine' clashes with the exteriority of 'napalm' and 'bombs'.",
+          "entailment_conflict": "Private peace vs. Public justice",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Bach's Music",
+            "Vietnam's Suffering"
+          ],
+          "blending_strategie": "The preacher argues that Bach's joy is only valid if it is 'blended' with the solidarity of the oppressed."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The preacher revitalizes the 'Holy Family' metaphor by mapping it onto a contemporary Vietnamese family in a bombed school.",
+        "voorbeeld": "Maria und Josef tragen vietnamesische Züge."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The risk of reducing the cosmic/spiritual dimension of Christmas entirely to a specific political conflict (Vietnam).",
+        "voorbeeld": "Wem gehört eigentlich Weihnachten? ... den Reisbauern.",
+        "potentiele_impact": "Congregation might view faith only as a political ideology.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A world of global conflict where the 'Stone Age' (Vietnam) meets the 'Cathedral' (Europe).",
+      "sub_worlds": [
+        "The 18th-century world of Bach",
+        "The 19th-century bourgeois family home",
+        "The Vietnamese rice fields/hospitals"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Introduction",
+          "van_wereld": "The pulpit/church",
+          "naar_wereld": "Vietnam (12-year-old girl with white ribbon)",
+          "effectiviteit": "Highly effective emotional hook."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as the God of the Poor",
+          "hoe_versterkt": "By listing specific marginalized groups (homeless, prisoners, exploited)."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Christmas as Bourgeois Family Festival",
+          "verstoring_strategie": "Labeling it as 'Ekel' (disgust) and 'künstlich' (artificial).",
+          "vervangend_schema": "Christmas as Liberation (Befreiung)."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly disrupts the typical 'peaceful' Christmas liturgy to force a re-evaluation of the 'Prince of Peace'."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by a transition from the 'Container' metaphor (faith inside the heart/home) to the 'Path/Journey' metaphor (solidarity on the way to liberation). It uses the 'Economic' domain negatively (profits of Chemical Dow) to critique the 'Relational' domain when it becomes too private.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "The Star of Bethlehem",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Map the 'Star' onto the 'flares' or 'lights' of the oppressed seeking hope.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "In wessen Interesse leuchtet der Stern?"
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "Bach vs. Vietnam",
+        "resolutie_strategie": "Develop the 'Lieder als Medikamente' metaphor further to bridge the gap between high culture and survival."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SIN IS PROFIT/EXPLOITATION",
+        "problematisch_entailment": "May suggest that only the poor can be 'saved' or 'own' Christmas.",
+        "aanbeveling": "Clarify how the 'oppressor' can enter the 'path of liberation' through repentance."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To connect the 'Rice Fields' of Vietnam with the 'Sower' parables of Jesus.",
+        "doel_concept": "Growth of the Kingdom amidst destruction."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using CMT to disrupt comfortable religious schemas and force a cognitive re-mapping of the Incarnation onto the 'least of these'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of praising Bach's beauty, CMT analyzes how Bach's 'erotic' metaphors function to either hide or reveal social reality.",
+    "verschil_met_kolb": "Moves beyond 'experience' to the underlying cognitive structures (Source/Target) that make the experience possible.",
+    "unieke_inzichten_CMT": "Reveals that the preacher is not just 'using' Vietnam as an example, but is attempting to overwrite the 'Christmas-as-Container' schema with a 'Christmas-as-Movement' schema."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Steinzeit zurückgebombt",
+      "Herzens Schrein",
+      "Bettchen",
+      "Braut/Bräutigam",
+      "Fest der Befreiung",
+      "Lieder sind Medikamente",
+      "vermondet",
+      "vietnamesische Züge tragen"
+    ],
+    "woord_frequentie_analyse": {
+      "Freude": "12",
+      "Befreiung": "9",
+      "Vietnam": "6",
+      "Bach": "5",
+      "Kinder": "7"
+    },
+    "notities": "The sermon is a classic example of 1970s political homiletics, heavily utilizing the 'JOURNEY' and 'MEDICAL' domains to challenge the 'ECONOMIC' and 'PRIVATE RELATIONAL' status quo."
+  }
+}

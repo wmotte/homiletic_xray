@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "titel_preek": "The Lonely Lord",
+    "bijbeltekst": "Isaiah 53:3",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God reveals His salvation through a suffering and lonely Servant, while humanity fails to recognize or accept Him due to worldly standards of power.",
+      "subject": {
+        "identificatie": "The Servant (Jesus/Israel)",
+        "tekstueel_bewijs": [
+          "he must suffer many things",
+          "forging his way, edging his way toward the supreme loneliness",
+          "he traveled alone"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Salvation/Setting things right spiritually",
+        "tekstueel_bewijs": [
+          "to set things right spiritually as between people and their God",
+          "to be our Savior"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (Jehovah)",
+        "tekstueel_bewijs": [
+          "the Lord God showing himself",
+          "Jehovah's love, with its austere holiness and integrity"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity/The Hearer",
+        "tekstueel_bewijs": [
+          "to make all of the difference to all of the future",
+          "reach our complaint"
+        ],
+        "positie_hoorder": "Receiver (of the Servant's suffering)"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit (implied as the one revealing the 'arm of the Lord')",
+        "tekstueel_bewijs": [
+          "To whom is the arm of the Lord revealed?"
+        ],
+        "rol_van_god": "Subject (as the Servant)",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Worldly notions of power/Human blindness",
+        "tekstueel_bewijs": [
+          "blinded by their own notions",
+          "dazzled by prominence, bigness, worldly power",
+          "history's oldest skin game"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just a habit but a fundamental 'reading of life' that prevents seeing God's revelation."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's response to the Servant's invitation.",
+      "subject": "The Hearer",
+      "object": "Discipleship/Surrender",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The hearer is invited to respond to the primary program of Christ's loneliness."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Salvation → Humanity",
+      "helper_subject_tegenstander": "Holy Spirit → The Servant ← Worldly Power/Blindness",
+      "subject_naar_object": "The Servant → Spiritual Reconciliation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 38,
+      "ratio": "1.1:1",
+      "voorbeelden_god_subject": [
+        "God works and how God shows himself",
+        "Jesus prays for you",
+        "The Lord saw in his wisdom and grace"
+      ],
+      "voorbeelden_mens_subject": [
+        "we hid as it were our faces from him",
+        "we insist on worshiping the gods we have made",
+        "Have I rejected and deserted the blessed Savior?"
+      ],
+      "rutledge_score": 7
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "The Son of man must suffer",
+          "we ought to expect that"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "we want to bring our tests",
+          "I will not demand of God",
+          "wanting desperately to make someone understand"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "we are not conditioned... to see",
+          "he knows what it is like"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "unable to bow down",
+          "how else would he ever know how to reach our complaint"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses heavily on the conflict of desires—the world's desire for power vs. God's desire for the Servant's path."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Divine Loneliness (Grace)",
+      "s2": "Worldly Splendor (Judgment)",
+      "niet_s1": "Rejection/Hiding faces",
+      "niet_s2": "Vain Hope/Human Leaders"
+    },
+    "beweging_in_preek": "Moves from the false security of S2 (Worldly power) to the painful reality of ~S1 (Rejection), finally resolving in S1 (The Lonely Lord as Intercessor).",
+    "theologische_resolutie": "The tension is resolved by Christ occupying the position of ultimate loneliness to become the Intercessor.",
+    "ernst_van_s2": "High; worldly power is described as a 'skin game' and a 'dupe'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While there are moral appeals, the engine of the sermon is the objective work of Christ as the 'Lonely Lord' who acts on behalf of the incompetent hearer.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Discipleship",
+        "tekstueel_bewijs": "I will put myself at God's disposal and see how it all comes out.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject of Intercession",
+        "tekstueel_bewijs": "Jesus prays for you... the great intercessor never ceases.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The Servant is not presented as a model to imitate, but as a Savior whose unique path provides a benefit the hearer cannot achieve.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "N/A"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Comfort in loneliness; relief from the pressure of worldly success.",
+      "theologische_implicatie": "Soteriology is based on Christ's identification with human misery."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "Strong integration of the Isaiah text with the New Testament reality of Christ.",
+      "spanning_punten": [
+        "The tension between 'trying to make the world better' and 'human ways will never make the world what it ought to be'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "It was the only way he could get under all of the weary pain of lonely people.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses more on Christ's intercession than the Spirit's indwelling."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'blindness' and 'selfishness' rather than a cosmic death-grip."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative successfully places Christ as the Subject of the primary saving action (Intercession/Suffering).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer is occasionally pressured to 'not demand of God' (Subject role).",
+      "voorgestelde_identificatie": "Receiver of the intercession.",
+      "strategie": "Emphasize that even our 'surrender' is a gift from the Intercessor."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "High Devoir (Must) in the middle section.",
+      "voorgestelde_balans": "Increase Pouvoir (Power).",
+      "concrete_suggestie": "Focus on how Christ's loneliness gives us the *power* to face our own."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as worldly idolatry.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ's loneliness) correctly grounds the Ethics (Discipleship)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A profound theocentric sermon that avoids the trap of making Christ a mere example, instead presenting Him as the unique Subject of our salvation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the pathos of loneliness; Greimas shows that loneliness is a functional necessity for the Subject to reach the Object.",
+    "verschil_met_exegese": "Exegesis would debate the identity of the Servant; semiotics focuses on the Servant's role in the narrative economy.",
+    "unieke_inzichten_greimas": "Reveals that the 'loneliness' is not just a feeling but a modal competence (Savoir-faire) that allows the Subject to reach the Receiver."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God works",
+      "Prophet places",
+      "We hid",
+      "Jesus prays",
+      "He suffered"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "The arm of the Lord",
+      "Spiritual reconciliation"
+    ],
+    "werkwoord_frequentie": {
+      "pray": {
+        "count": 12,
+        "primair_subject": "God"
+      },
+      "suffer": {
+        "count": 5,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses 'loneliness' as the primary actantial obstacle that the Subject must overcome to achieve the Object."
+  }
+}

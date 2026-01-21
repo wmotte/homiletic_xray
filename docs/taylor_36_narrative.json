@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "titel_preek": "A Cry For Guidance",
+    "bijbeltekst": "Psalm 25:1–2, 4–5",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human pilgrim, lost on an 'uneven journey' of life, must move from the pride of self-sufficiency to the surrender of creaturehood to receive divine guidance.",
+      "subject": {
+        "identificatie": "The Human Pilgrim (The Hearer)",
+        "tekstueel_bewijs": [
+          "do not dismiss out of hand the findings",
+          "we are all pilgrims and we are on our way",
+          "we cannot find the right pathway... by ourselves",
+          "we had better learn the psalmist's prayer"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Guidance/The Right Path (Assurance)",
+        "tekstueel_bewijs": [
+          "Shew me thy ways, O Lord",
+          "which way leads upward",
+          "our souls need assurance"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as Shepherd/Redeemer)",
+        "tekstueel_bewijs": [
+          "thou art the God of my salvation",
+          "The Lord is my shepherd"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Human Pilgrim",
+        "tekstueel_bewijs": [
+          "You can walk out of here this morning a saved soul",
+          "Happy is the man who can say"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ / The Elders (Mother Wit)",
+        "tekstueel_bewijs": [
+          "Christ is the way and waymaker",
+          "give them [elders] the benefit of the doubt"
+        ],
+        "rol_van_god": "God is primarily the Helper/Waymaker for the human Subject.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Pride and Intellectual Arrogance",
+        "tekstueel_bewijs": [
+          "bright self-confidence of youth",
+          "arrogant faith in my own beliefs",
+          "pockets of rebellion and disobedience"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The primary obstacle is the internal disposition of the hearer (pride/self-reliance) rather than cosmic forces of sin or death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The acquisition of 'Mother Wit' or wisdom through aging and listening to elders.",
+      "subject": "The Young Person",
+      "object": "Practical Wisdom/Understanding",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The secondary program (listening to elders) serves as a pedagogical type for the primary program (listening to God)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Guidance → The Pilgrim",
+      "helper_subject_tegenstander": "Christ/Elders → The Pilgrim ← Pride/Self-Reliance",
+      "subject_naar_object": "The Pilgrim → The Right Path"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 14,
+      "mens_als_subject_count": 32,
+      "ratio": "0.43",
+      "voorbeelden_god_subject": [
+        "He leadeth me by still waters",
+        "He shall restore my soul",
+        "God does promise to answer"
+      ],
+      "voorbeelden_mens_subject": [
+        "we cannot find the right pathway",
+        "we had better learn the psalmist's prayer",
+        "You can walk out of here... a saved soul if you can truly repeat these words"
+      ],
+      "rutledge_score": 4
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "we had better come to that",
+          "we had better learn the psalmist's prayer"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "I want to choose what is right",
+          "if you can truly repeat these words"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "I know not... the answers, but... I do know One who knows",
+          "a truly educated person is one who knows where to find the answers"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "I cannot explain it to you",
+          "situation... she cannot handle"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "The sermon focuses on the transition from false knowledge (arrogance) to true knowledge (knowing where to look). Salvation is framed as a shift in epistemic humility."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Guidance (The Way)",
+      "s2": "Confusion (The Uneven Journey)",
+      "niet_s1": "Self-Direction (Pride)",
+      "niet_s2": "Surrender (Creaturehood)"
+    },
+    "beweging_in_preek": "Moves from S2 (Confusion) through ~S1 (Pride) to ~S2 (Surrender) in order to reach S1 (Guidance).",
+    "theologische_resolutie": "Resolution is found in the 'Waymaker' (Christ) who provides the map for the pilgrim.",
+    "ernst_van_s2": "Moderate; confusion is seen as a natural part of the 'uneven journey' rather than a state of total depravity."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the sermon uses high Christological language at the end, the 'engine' is conditional: salvation and peace are contingent on the hearer's ability to 'surrender' and 'repeat words.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Salvation",
+        "tekstueel_bewijs": "You can walk out of here this morning a saved soul if you can truly repeat these words as your very own.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christ as Waymaker",
+        "tekstueel_bewijs": "Christ is our way and waymaker.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Psalmist and Uncle Mannie are used as models of the correct attitude (humility/waiting) that the hearer should emulate.",
+      "bijbelse_figuren_als_model": [
+        "The Psalmist",
+        "The Prodigal-like student"
+      ],
+      "alternatieve_lezing": "Focus on how God relentlessly guides even the proud, rather than how the proud must become humble to be guided."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to achieve a 'true surrender' or 'perfect prayer' to unlock God's guidance.",
+      "theologische_implicatie": "Synergism: God's guidance is available, but the human must first 'break down pride' to access it."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 7,
+      "coherentie_beschrijving": "The metaphor of the 'journey' is consistent, but the transition from 'Mother Wit' to 'Christ as Way' is more associative than logically integrated.",
+      "spanning_punten": [
+        "The tension between 'Christ is the way' (Objective) and 'If you can truly repeat these words' (Subjective condition)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "Let Jesus lead you. He's a mighty good leader.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon suggests the hearer must find the 'vouloir' (will) to surrender themselves."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is primarily 'pride' and 'delusion'—a failure to recognize creaturely limits."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'call to surrender' where the hearer is the primary Subject and God is the Helper/Object. The narrative engine is the hearer's movement from pride to humility.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'saving' themselves through the act of surrender.",
+      "voorgestelde_herpositionering": "Make God the Subject who finds the lost pilgrim.",
+      "voorbeeld_revisie": "Instead of 'You can walk out a saved soul if you repeat these words,' use 'God has come to find you on your uneven journey, even before you knew how to pray.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the one who must 'do' surrender.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize the Shepherd's activity in finding the sheep rather than the sheep's activity in choosing the Shepherd."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Savoir (Knowing) and Devoir (Must surrender).",
+      "voorgestelde_balans": "Pouvoir (God's power to lead the unwilling).",
+      "concrete_suggestie": "Focus on how Christ provides the 'Pouvoir-faire' when we are paralyzed at the crossroads."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Internal pride.",
+      "voorgestelde_intensivering": "The 'enemies' mentioned in the Psalm (Sin/Death).",
+      "theologische_rationale": "If the opponent is just 'my own pride,' the solution is 'my own humility.' If the opponent is Death, the solution must be God."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The secondary program (human wisdom/surrender) often eclipses the primary program (God's salvation).",
+      "voorgestelde_structuur": "Proclaim the Shepherd's presence (Soteriology) as the ground for the pilgrim's prayer (Ethics/Response)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a beautiful rhetorical flow and strong Christological imagery at the end, but it risks burdening the hearer with the 'work' of surrender."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the 'Mother Wit' anecdote; semiotics reveals it reinforces a 'Subject-as-Learner' model.",
+    "verschil_met_exegese": "Exegesis would focus on the Hebrew meaning of 'paths'; semiotics focuses on who is moving along them.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'Jesus is the way' is used here as a Helper-tool for the Pilgrim-Subject rather than Jesus being the Subject who carries the Pilgrim."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "I (Psalmist) lift up",
+      "We (Pilgrims) are",
+      "You (Hearer) can walk out",
+      "He (Shepherd) leadeth"
+    ],
+    "volledige_object_lijst": [
+      "Thy ways",
+      "The answers",
+      "Peace of God",
+      "Salvation"
+    ],
+    "werkwoord_frequentie": {
+      "know": {
+        "count": 12,
+        "primair_subject": "Man"
+      },
+      "lead": {
+        "count": 6,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'journey' archetype, which naturally positions the hearer as the active Subject."
+  }
+}

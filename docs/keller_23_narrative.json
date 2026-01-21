@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "The Man Born Blind",
+    "bijbeltekst": "John 9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2800"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The restoration of spiritual sight to a blind humanity through the work of Jesus Christ, moving from spiritual death/blindness to worship.",
+      "subject": {
+        "identificatie": "Jesus Christ (and the Holy Spirit as the internal agent)",
+        "tekstueel_bewijs": [
+          "Jesus Christ came to do and told us something about who he was",
+          "Jesus’ ability to deal with our spiritual blindness",
+          "by the Holy Spirit you get spiritual sight"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Spiritual Sight / Perception of Reality / Worship",
+        "tekstueel_bewijs": [
+          "the perception of reality",
+          "the ultimate healing of spiritual sight... worshiping the right thing"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Gospel of Grace",
+        "tekstueel_bewijs": [
+          "the works of God might be displayed in him",
+          "the gospel is that you are a sinner saved by grace"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / Humanity (represented by the blind man)",
+        "tekstueel_bewijs": [
+          "for me to be reborn",
+          "for him to see me mended"
+        ],
+        "positie_hoorder": "The hearer is invited to identify with the Receiver (the beggar/blind man) rather than the Subject."
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / Suffering (as a catalyst)",
+        "tekstueel_bewijs": [
+          "unless trouble has come into your life, it’s pretty tough to come to grips with the gospel",
+          "the Holy Spirit opens your eyes"
+        ],
+        "rol_van_god": "God is the Subject who acts, not merely a Helper to human effort.",
+        "rol_van_geest": "Indwelling power that enables perception."
+      },
+      "tegenstander": {
+        "identificatie": "Spiritual Pride / Self-Righteousness / The 'Pharisee' within",
+        "tekstueel_bewijs": [
+          "the deepest blindness is blindness to your own blindness",
+          "it creates tremendous pride and self-righteousness"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Blindness is presented as a total inability to sense reality, requiring a 're-birth' or 'new life,' not just a moral adjustment."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical response of worship and honest self-assessment following the restoration of sight.",
+      "subject": "The Believer",
+      "object": "Authentic Worship and Clear Sight",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Worship is the 'ultimate healing' that follows the initial act of grace; it is the fruit of the primary program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God/Grace → Spiritual Sight → The Hearer",
+      "helper_subject_tegenstander": "Holy Spirit/Suffering → Jesus → Spiritual Pride/Blindness",
+      "subject_naar_object": "Jesus → Restoration of Worship"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "Jesus Christ came to do...",
+        "the Holy Spirit opens your eyes",
+        "God is at work",
+        "He has to be torn if we’re going to be mended"
+      ],
+      "voorbeelden_mens_subject": [
+        "you must have done something to deserve it",
+        "you can’t just work on your heart",
+        "the man said, 'Lord, I believe'"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "I have to worship... No, no, no."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Your heart has to be engaged."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "I knew it abstractly... but I didn't see it."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Jesus’ ability to deal with our spiritual blindness",
+          "the Holy Spirit enables you to see"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Pouvoir' (Power/Ability) granted by God to a Subject (Man) who is fundamentally 'Incompetent' (Blind/Dead)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Sight",
+      "s2": "Judgment/Blindness",
+      "niet_s1": "Moralism/Self-Righteousness",
+      "niet_s2": "Suffering/Brokenness (as path to sight)"
+    },
+    "beweging_in_preek": "Moves from S2 (Suffering) through the negation of ~S1 (Moralism) to S1 (Grace) via the 'torn' Christ.",
+    "theologische_resolutie": "Christ enters S2 (Darkness/Forsakenness) to move the Receiver to S1.",
+    "ernst_van_s2": "High; sin is described as a total lack of life/sensation."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places God as the active Subject of salvation and defines human effort (moralism) as a form of blindness.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "The sermon explicitly rejects the 'reap what you sow' model.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of Active Verbs",
+        "tekstueel_bewijs": "He has to be torn if we’re going to be mended.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "The deepest blindness is blindness to your own blindness.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The blind man is not a model of virtue to imitate, but a model of a 'beggar' who receives.",
+      "bijbelse_figuren_als_model": [
+        "The Blind Man (as Receiver)"
+      ],
+      "alternatieve_lezing": "Theocentric: God acts on the man; the man responds in worship."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of self-salvation; move toward humility.",
+      "theologische_implicatie": "Monergistic opening of eyes; synergistic response of worship."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the physical miracle to the spiritual reality is seamless and structurally sound.",
+      "spanning_punten": [
+        "The tension between 'knowing' (Savoir) and 'realizing' (Pouvoir/Sight)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "He has to be plunged into darkness... He did that for you.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit grants the 'Pouvoir-voir' (Power to see)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Sin is a total sensory deprivation regarding God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a textbook example of a grace-oriented actantial structure where God is the Subject and Man is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "The Hearer as the Blind Man",
+      "strategie": "Maintain the 'beggar' status of the hearer."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (Grace).",
+      "voorgestelde_balans": "Maintain as is; it effectively counters the Devoir (Law) of the Pharisees.",
+      "concrete_suggestie": "Continue emphasizing that 'seeing' is a gift, not a task."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The 'Opponent' (Pride) is well-defined as a terminal condition.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Sight) → Ethics (Worship)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "The sermon masterfully avoids the trap of 'exemplarism' by making the blind man's passivity the key to his restoration."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Sound of Music' illustration, Greimas shows that this illustration serves to negate the 'Sender' of Merit.",
+    "verschil_met_exegese": "Exegesis explains the pool of Siloam; semiotics explains why the man must be 'Sent' (Receiver) rather than 'Doer' (Subject).",
+    "unieke_inzichten_greimas": "Reveals that the Pharisees' 'blindness' is actually their insistence on being the 'Subject' of their own salvation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (saw, said, spit, made, put, heard, found)",
+      "The Holy Spirit (opens, enables)",
+      "The Man (went, washed, came, said, worshiped)"
+    ],
+    "volledige_object_lijst": [
+      "Sight",
+      "The works of God",
+      "Spiritual reality",
+      "Worship"
+    ],
+    "werkwoord_frequentie": {
+      "see/sight": {
+        "count": "25",
+        "primair_subject": "Man (as gift from God)"
+      },
+      "work": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "worship": {
+        "count": "6",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses the 'Axis of Power' to show that human 'Pouvoir' is zero until the 'Subject' (Jesus) intervenes."
+  }
+}

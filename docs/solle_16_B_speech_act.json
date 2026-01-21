@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "titel_preek": "Warum wollt ihr denn sterben?",
+    "bijbeltekst": "Ezechiel 37; 1. Thessalonicher 5,19",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Kritische Auseinandersetzung mit der römisch-katholischen Kirchenstruktur, dem institutionellen Sexismus und der Demokratieunfähigkeit im Licht der Befreiungstheologie.",
+      "exegetische_kwaliteit": "Gering. Die Bibeltexte dienen eher als metaphorische Stichwortgeber für kirchenpolitische Kritik denn als Gegenstand einer Auslegung.",
+      "omvang_procent": "95%"
+    },
+    "illocutie": {
+      "beschrijving": "Anklage, Beschwerde und politische Analyse.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "8",
+      "voorbeelden": [
+        "Ich denke jetzt an die Wolke der Zeugen...",
+        "Das gegenwärtige römische System verachtet die Frauen...",
+        "Warum wollt ihr denn sterben?"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Empörung wecken, Solidarisierung mit Marginalisierten, Bewusstseinsschärfung für Machtstrukturen.",
+      "pneumatologisch_bewustzijn": "Indirekt; der Geist wird als 'ausgelöscht' durch die Institution thematisiert, nicht als handelndes Subjekt der Predigt.",
+      "perlocutionaire_werkwoorden": [
+        "empören",
+        "erkennen",
+        "kritisieren",
+        "solidarisieren"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "85%",
+      "voorbeelden": [
+        "Das römische System betreibt eine Art spiritueller Ersatzbefriedigung.",
+        "Die Theologie der Befreiung hat die spirituelle Tiefe."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "betreibt",
+        "verachtet",
+        "ignoriert"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Löscht den Geist nicht aus.",
+        "Warum wollt ihr denn sterben? (Rhetorische Frage als indirekter Appell)"
+      ],
+      "dominante_werkwoorden": [
+        "löscht",
+        "wollt",
+        "lassen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Was mich am meisten empört...",
+        "Ich denke jetzt an..."
+      ],
+      "dominante_werkwoorden": [
+        "empört",
+        "denke",
+        "hoffen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "Ich werde meinen Odem in euch legen (Zitat Gottes, keine direkte Zusage des Predigers)"
+      ],
+      "dominante_werkwoorden": [
+        "werde"
+      ],
+      "kwaliteit": "Sehr schwach; Verheißungen erscheinen nur als Zitat am Ende, nicht als aktueller Vollzug."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Keine sakramentale Autorität erkennbar; die Predigt bleibt im Modus der Analyse."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "92%",
+    "performatief_percentage": "8%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "indicatoren": [
+        "Dominanz von 'ist' Beschreibungen",
+        "Dritte Person Singular (Das System, Rom, Die Kirche)",
+        "Historische und soziologische Analysen"
+      ],
+      "effect_op_hoorder": "Der Hörer wird zum Zuschauer einer kirchenpolitischen Debatte, nicht zum Empfänger einer göttlichen Zusage."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Segen",
+        "Direkte Zusage von Gnade",
+        "Vollzugsworte"
+      ],
+      "effect_op_hoorder": "Kognitive Zustimmung oder Ablehnung, aber kein 'Ereignis' der Begegnung."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "Nicht vorhanden; Gott wird als Objekt der Theologie besprochen, spricht aber nicht selbst zum Hörer.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Ausdruck persönlicher Empörung und Zeugenschaft ('Ich denke an')."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Fast ausschließlich rhetorische Fragen an die Kirchenleitung ('Warum wollt ihr...'), nicht an die Gemeinde.",
+        "performatieve_context": "Nein, eher anklagend."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Dominant; Beschreibung von 'Rom', 'dem System', 'den Frauen'.",
+        "distantie_effect": "Hoch; erzeugt eine Atmosphäre des Berichts über Dritte."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Historische Beispiele (Romero, Boff, USA-Hirtenbrief)."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "Strukturelle Analysen kirchenpolitischer Zustände."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Nur im Zitat am Ende."
+      }
+    },
+    "adressering_effectiviteit": "3"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analyse des Systems) -> Directive (Warum wollt ihr nicht anders?).",
+      "voorbeelden": [
+        "Das System ist sexistisch -> Warum wollt ihr sterben?"
+      ],
+      "probleem": "Die Aufforderung zur Umkehr (Direktiv) ist nicht in einer göttlichen Zusage (Kommissiv) verankert, sondern in moralischer Empörung."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Kein Übergang zur performativen Zusage.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Warum wollt ihr sterben? (Imperativ ohne vorangehende Gnaden-Indikativ)"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "Die Predigt fungiert als kirchenpolitischer Essay oder Vorlesung. Sie informiert über Missstände, vollzieht aber keinen Heilsakt.",
+    "sterke_punten": [
+      {
+        "aspect": "Leidenschaft",
+        "categorie": "EXPRESSIVE",
+        "tekstueel_bewijs": "Was mich am meisten empört...",
+        "effect": "Authentizität der Sprecherin."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Fehlende Adressierung",
+        "categorie": "ILLOCUTION",
+        "tekstueel_bewijs": "Das gegenwärtige römische System...",
+        "probleem": "Die Gemeinde wird nicht angesprochen, sondern über ein fernes System belehrt.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "2",
+    "gebeuren_toelichting": "Kein 'Event', da die Sprache deskriptiv bleibt und keine neue Wirklichkeit zwischen Gott und Hörer schafft.",
+    "sacramentele_kracht": "1",
+    "sacramentele_toelichting": "Gott bleibt Objekt der Rede, nicht Subjekt des Handelns."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Nein, Gott wird zitiert, spricht aber nicht aktuell.",
+      "prediker_als_mandataris": "Eher als politische Kritikerin denn als Mandatarin Gottes.",
+      "tekstueel_bewijs": [
+        "Dass sie von Gott spricht aus der Perspektive Gottes..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Theoretisch ja, praktisch wird dem Geist kein Raum für die Perlokution gegeben.",
+      "perlocutie_theologie": "Nicht erkennbar.",
+      "tekstueel_bewijs": [
+        "Löscht den Geist nicht aus."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Nein, die Predigt ist hier ein Mittel der Aufklärung.",
+      "epifanisch_taalgebruik": "Nein.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Massiver Überhang an Assertiven (Zustandsbeschreibungen). Mangel an Kommissiven (Zusagen).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Das römische System verachtet die Frauen.",
+          "voorgestelde_revisie": "Gott sieht eure Würde, ihr Frauen, und er setzt euch heute in euer Recht ein.",
+          "verschil": "Von der Beschreibung eines Mangels zur Deklaration einer neuen Würde."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Gottes Verheißung bleibt im Alten Testament (Ezechiel) hängen.",
+      "suggestie": "Die Verheißung der Auferweckung direkt auf die Gemeinde beziehen.",
+      "voorbeeldzinnen": [
+        "Gott öffnet heute eure Gräber der Resignation."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Die Gemeinde ist nur Zuschauer der Rom-Kritik.",
+      "suggestie": "Direktes 'Ihr' statt 'Das System'.",
+      "voorbeeldzinnen": [
+        "Ihr seid das Volk Gottes, in dem der Geist weht."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Der Appell 'Warum wollt ihr sterben' wirkt ohne Gnade erdrückend.",
+      "suggestie": "Zuerst das Leben zusagen, dann nach dem Sterbe-Wunsch fragen."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "Die Predigt hat prophetisches Potenzial, muss aber den Schritt von der Analyse zur Proklamation wagen, um sakramentale Kraft zu entfalten."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT würde die 'Selbstoffenbarung' der Predigerin loben; SAT kritisiert das Fehlen des göttlichen Vollzugsakts.",
+    "verschil_met_retoriek": "Rhetorisch stark (Pathos), aber illocutionär schwach (keine Handlung in der Rede).",
+    "unieke_inzichten_SAT": "SAT entlarvt, dass die Predigt trotz biblischer Begriffe rein konstatierend bleibt."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "sind",
+        "verachtet",
+        "behandelt",
+        "ignoriert",
+        "löscht",
+        "vertreibt",
+        "favorisiert",
+        "stabilisiert",
+        "betreibt",
+        "trivialisiert"
+      ],
+      "directief": [
+        "wollt",
+        "lasst",
+        "löscht",
+        "erheben",
+        "ausdrücken"
+      ],
+      "expressief": [
+        "empört",
+        "denke",
+        "hoffen"
+      ],
+      "commissief": [
+        "werde"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Das gegenwärtige römische System verachtet die Frauen.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Feststellung",
+        "effectiviteit": "Informierend, aber distanzierend."
+      },
+      {
+        "zin": "Ich werde meinen Odem in euch legen.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "Versprechen (zitiert)",
+        "effectiviteit": "Potenziell stark, aber durch Zitat-Modus abgeschwächt."
+      }
+    ],
+    "notities": "Die Predigt ist ein klassisches Beispiel für 'Talking about' statt 'Proclaiming to'."
+  }
+}

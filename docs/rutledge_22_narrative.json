@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "We Will Be There",
+    "bijbeltekst": "Matthew 25:31-46",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The Final Judgment where the Son of Man separates humanity based on their relationship to Him through the 'least of these', resulting in the inheritance of the Kingdom.",
+      "subject": {
+        "identificatie": "Jesus Christ (The Son of Man/King)",
+        "tekstueel_bewijs": [
+          "he will sit on his glorious throne",
+          "he will separate them one from another",
+          "the crucified One will be the Judge",
+          "he has compensated for our too-short list of good deeds"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Kingdom / Salvation / Vindication",
+        "tekstueel_bewijs": [
+          "inherit the kingdom prepared for you",
+          "offering his life to save us from death"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "blessed of my Father",
+          "kingdom prepared for you from the foundation of the world"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'Sheep' (The Redeemed/Hearers)",
+        "tekstueel_bewijs": [
+          "we will be there",
+          "offering his life to save us"
+        ],
+        "positie_hoorder": "The hearer identifies as the Receiver of mercy, specifically as a 'poor specimen' needing a substitute."
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / Christ's Righteousness",
+        "tekstueel_bewijs": [
+          "covering our unrighteousness with his righteousness",
+          "by his indwelling Spirit he will make us into those..."
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Indwelling power"
+      },
+      "tegenstander": {
+        "identificatie": "Sin, Death, and Self-Righteousness (The 'Short Checklist')",
+        "tekstueel_bewijs": [
+          "our good-deeds checklist is going to come up short",
+          "save us from death",
+          "the shattered confidence of the condemned"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad behavior but the ontological reality of death and the 'insidious' nature of self-congratulatory righteousness which leads to 'eternal fire'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Stewardship response: The believer manages money as a response to Christ's Kingship.",
+      "subject": "The Believer/Hearer",
+      "object": "Financial Stewardship/Pledging",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (giving) is explicitly framed as a 'response' to the primary program (salvation/mercy). It is the fruit, not the root."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God the Father → The Kingdom → The Redeemed",
+      "helper_subject_tegenstander": "Holy Spirit → Christ → Sin/Death",
+      "subject_naar_object": "Christ → Salvation of Man"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "35",
+      "ratio": "1.2",
+      "voorbeelden_god_subject": [
+        "He will sit on his glorious throne.",
+        "He has compensated for our too-short list of good deeds.",
+        "The Judge [was] judged in our place."
+      ],
+      "voorbeelden_mens_subject": [
+        "We cannot rely on any known good deeds.",
+        "We will be there.",
+        "What we decide to do with our money..."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "It should represent a significant proportion."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "I cannot believe that is what you want."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "The sheep... didn't even know that they had ministered."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "He will make us into those who will someday hear...",
+          "He has compensated for our too-short list."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes Christ's power to save and the Spirit's power to transform, rather than the hearer's obligation to perform."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Inheritance",
+      "s2": "Judgment/Death",
+      "niet_s1": "Self-Righteousness (Goats)",
+      "niet_s2": "The Judge Judged (Substitution)"
+    },
+    "beweging_in_preek": "Moves from the threat of S2 (Judgment) to the failure of ~S1 (Moralism/Checklists) to the resolution in ~S2 (Christ taking the judgment) to reach S1 (Grace).",
+    "theologische_resolutie": "The tension is resolved through Substitutionary Atonement: 'The Judge judged in our place.'",
+    "ernst_van_s2": "Extremely high; the 'eternal fire' and 'shattered confidence' are presented as real threats."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon addresses stewardship (money), it grounds the entire ethical demand in the prior, finished work of Christ as the Substitute Judge.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Checklist comparison",
+        "tekstueel_bewijs": "Compare good-deed checklists with them, yours will probably come up short.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Substitutionary Grammar",
+        "tekstueel_bewijs": "The Judge judged in our place.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Unconscious Virtue",
+        "tekstueel_bewijs": "Those who are vindicated... are those who are not even aware that they have done any good works.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "The Moritz couple and Mother Teresa are used as 'anti-examples' to prove the impossibility of moralism, rather than models to imitate.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Christ is the only figure whose 'deed' counts."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and gratitude leading to spontaneous giving.",
+      "theologische_implicatie": "Justification by faith alone; works as fruit."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the 'Cosmic Judge' to 'Stewardship' is perfectly bridged by the concept of 'Gratitude'.",
+      "spanning_punten": [
+        "The tension between 'feeling guilty' (Eagle article) and 'not being coerced' (Sermon conclusion)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Covering our unrighteousness with his righteousness... the Judge judged in our place.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir' (ability) to become the kind of person who gives."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Critical; requires a cosmic intervention."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains Christ as the Subject of the primary narrative (Salvation) while placing the hearer as the Subject only in the secondary, responsive narrative (Stewardship).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Devoir in the middle section.",
+      "voorgestelde_balans": "Maintain the current Pouvoir-heavy conclusion.",
+      "concrete_suggestie": "Ensure the 'must' of pledging is always swallowed by the 'can' of the Spirit."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined as Sin/Death.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon already avoids 'cheap grace' by taking the judgment seriously."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (Gratitude)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This is a masterclass in grace-oriented preaching. It addresses a 'Law' topic (stewardship) without falling into moralism by keeping Christ as the primary Actant."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'guilt' hook of the newspaper story, semiotics reveals that the story is actually used to deconstruct the hearer's Subject-status.",
+    "verschil_met_exegese": "Exegesis might focus on the meaning of 'brethren'; semiotics focuses on the reversal of the Judge/Judged roles.",
+    "unieke_inzichten_greimas": "Greimas's model exposes that 'gratitude' is the bridge that prevents the secondary program from overriding the primary program."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (separates)",
+      "Son of Man (comes)",
+      "We (will be there)",
+      "Christ (compensated)",
+      "Spirit (will make)"
+    ],
+    "volledige_object_lijst": [
+      "The Kingdom",
+      "Pledges",
+      "Mercy",
+      "Righteousness"
+    ],
+    "werkwoord_frequentie": {
+      "judge": {
+        "count": 8,
+        "primair_subject": "God"
+      },
+      "give": {
+        "count": 12,
+        "primair_subject": "Man"
+      },
+      "save": {
+        "count": 3,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the 'Rutledge Rule' effectively by making Christ the subject of the most critical salvific verbs."
+  }
+}

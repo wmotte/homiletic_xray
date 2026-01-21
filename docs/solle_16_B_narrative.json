@@ -1,0 +1,265 @@
+[
+  {
+    "metadata": {
+      "titel_preek": "Warum wollt ihr denn sterben?",
+      "bijbeltekst": "Ezechiel 37; 1 Thessalonicher 5,19; Matthäus 23,9",
+      "analyse_datum": "2024-05-22",
+      "geschat_aantal_woorden": "1150"
+    },
+    "actantiele_analyse": {
+      "primair_narratief_programma": {
+        "beschrijving": "The struggle for the liberation and renewal of the Church against a petrified, life-denying institutional hierarchy.",
+        "subject": {
+          "identificatie": "The 'People of God' / Critical Christians / Marginalized (Women, Poor, Liberation Theologians)",
+          "tekstueel_bewijs": [
+            "die versuchen, dem Evangelium gemäß zu leben",
+            "die die christliche Botschaft am glaubwürdigsten leben",
+            "die Gemeinden... ihre Stimme erheben"
+          ],
+          "frequentie_score": "8"
+        },
+        "object": {
+          "identificatie": "Church Renewal / The 'Community of Equals' / Spiritual Vitality",
+          "tekstueel_bewijs": [
+            "im Sinne der urchristlichen Gemeinschaft der Gleichen zu erneuern",
+            "das größte Geschenk der Armen an die Reichen"
+          ],
+          "aard_van_object": "ETHICAL"
+        },
+        "zender": {
+          "identificatie": "The Spirit (Ruach) / The Gospel / The 'God of renewing life'",
+          "tekstueel_bewijs": [
+            "Gott des sich erneuernden Lebens",
+            "egalitären Geist des Evangeliums"
+          ],
+          "rol_interpretatie": "OTHER"
+        },
+        "ontvanger": {
+          "identificatie": "The Church / Humanity / The Poor",
+          "tekstueel_bewijs": [
+            "Lebenschancen des Glaubens in einer weithin säkularisierten Welt"
+          ],
+          "positie_hoorder": "SUBJECT_HERO"
+        },
+        "helper": {
+          "identificatie": "Liberation Theology / Saints (Romero, Assisi) / Democratic Principles",
+          "tekstueel_bewijs": [
+            "Theologie der Befreiung hat die spirituelle Tiefe",
+            "Oscar Arnulfo Romero ist ein Heiliger wegen der gefährlichen Erinnerung"
+          ],
+          "rol_van_god": "ABSENT",
+          "rol_van_geest": "External help or indwelling power?"
+        },
+        "tegenstander": {
+          "identificatie": "The Roman System / Institutional Sexism / Patriarchal Complex",
+          "tekstueel_bewijs": [
+            "Das gegenwärtige römische System verachtet die Frauen",
+            "Götzen der Macht und der Unterwerfung"
+          ],
+          "ernst_tegenstander": "SOCIAL",
+          "toelichting_ernst": "The opponent is identified as a socio-political and psychological structure within the church institution rather than a cosmic or ontological force."
+        }
+      },
+      "secundair_narratief_programma": {
+        "aanwezig": "true",
+        "beschrijving": "The eschatological resurrection of the dry bones (Ezekiel's vision).",
+        "subject": "God (Ruach)",
+        "object": "Life for the dead bones",
+        "verhouding_tot_primair": "SEQUENTIAL",
+        "toelichting_verhouding": "The biblical narrative is used as a hopeful coda to a primarily socio-political critique."
+      },
+      "actantieel_schema_visualisatie": {
+        "zender_naar_ontvanger": "Gospel/Spirit → Renewal → The People",
+        "helper_subject_tegenstander": "Liberation Theology → Marginalized Christians ← Roman System",
+        "subject_naar_object": "Critical Christians → Community of Equals"
+      }
+    },
+    "grammaticale_analyse": {
+      "subject_check": {
+        "god_als_subject_count": "12",
+        "mens_als_subject_count": "58",
+        "ratio": "0.21",
+        "voorbeelden_god_subject": [
+          "Gott fragte: Menschensohn...",
+          "Ich werde meinen Odem in euch legen",
+          "Gott spricht aus der Perspektive Gottes"
+        ],
+        "voorbeelden_mens_subject": [
+          "Das römische System verachtet die Frauen",
+          "Warum wollt ihr die Zahl der Mitarbeiterinnen vermindern?",
+          "Boff verlässt das System"
+        ],
+        "rutledge_score": "3"
+      },
+      "modale_analyse": {
+        "devoir_faire": {
+          "prominentie": "7",
+          "voorbeelden": [
+            "weniger als er zu hoffen, sollten wir uns nicht erlauben",
+            "dass die Gemeinden... ihre Stimme erheben"
+          ]
+        },
+        "vouloir_faire": {
+          "prominentie": "9",
+          "voorbeelden": [
+            "Warum wollt ihr denn sterben?",
+            "Warum wollt ihr eure Götzen... nicht fahren lassen?"
+          ]
+        },
+        "savoir_faire": {
+          "prominentie": "5",
+          "voorbeelden": [
+            "Theologie der Befreiung hat die geistige Klarheit"
+          ]
+        },
+        "pouvoir_faire": {
+          "prominentie": "4",
+          "voorbeelden": [
+            "Eine christliche Gemeinde ist fähig und berufen"
+          ]
+        },
+        "dominante_modaliteit": "VOULOIR",
+        "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It focuses on the perverted will (Vouloir) of the institution and the potential will of the marginalized to resist."
+      }
+    },
+    "semiotisch_vierkant_analyse": {
+      "primaire_tegenstelling": {
+        "s1": "Spirit/Life (Ruach)",
+        "s2": "Institutional Death (System)",
+        "niet_s1": "Extinguishing the Spirit (Zensur)",
+        "niet_s2": "Democratic Renewal"
+      },
+      "beweging_in_preek": "From S2 (Death/System) through ~S1 (Extinguishing Spirit) towards a hope for S1 (Resurrection).",
+      "theologische_resolutie": "The tension is left unresolved, resting on a question ('Du weißt es') and a biblical promise of future intervention.",
+      "ernst_van_s2": "S2 is taken very seriously as a sociological reality, but less as a theological necessity of judgment."
+    },
+    "diagnostische_evaluatie": {
+      "primaire_classificatie": "MORALISM",
+      "classificatie_toelichting": "While using revolutionary language, the actantial structure is anthropocentric. The primary actors are 'the system' (bad) and 'the marginalized' (good). God is largely a value-sender or a future-actor, not the current Subject of the verbs.",
+      "indicatoren_moralisme": [
+        {
+          "indicator": "Subject-Switch to Man",
+          "tekstueel_bewijs": "Warum lasst ihr die Kirche lieber kaputtgehen als sie... zu erneuern?",
+          "ernst": "SEVERE"
+        },
+        {
+          "indicator": "Instrumentalization of God",
+          "tekstueel_bewijs": "Gott spricht aus der Perspektive... der Machtlosen",
+          "ernst": "MODERATE"
+        }
+      ],
+      "indicatoren_genade": [
+        {
+          "indicator": "Soteriological Coda",
+          "tekstueel_bewijs": "Ich werde meinen Odem in euch legen, dass ihr wieder lebendig werdet",
+          "sterkte": "MODERATE"
+        }
+      ],
+      "exemplarisme_check": {
+        "aanwezig": "true",
+        "beschrijving": "Contemporary and historical figures are used as the 'true' subjects of the Gospel.",
+        "bijbelse_figuren_als_model": [
+          "Franz von Assisi",
+          "Elisabeth von Thüringen",
+          "Oscar Romero",
+          "Leonardo Boff"
+        ],
+        "alternatieve_lezing": "Instead of 'Boff shows us how to love the church,' the sermon could say 'Christ sustains His body even through institutional failure.'"
+      },
+      "identificatie_patroon": {
+        "hoorder_identificeert_met": "SUBJECT_HERO",
+        "effect_op_hoorder": "Indignation against the 'other' (the institution) and self-validation as the 'true' carrier of the spirit.",
+        "theologische_implicatie": "Salvation is equated with socio-political liberation and institutional reform."
+      },
+      "narratieve_coherentie": {
+        "coherentie_score": "6",
+        "coherentie_beschrijving": "The political critique and the biblical vision of Ezekiel are joined rhetorically but remain actantially distinct.",
+        "spanning_punten": [
+          "The call for human democratic action vs. the vision of God breathing life into dead bones."
+        ]
+      }
+    },
+    "theologische_diepte_analyse": {
+      "soteriologie": {
+        "primaire_model": "MORAL_INFLUENCE",
+        "tekstueel_bewijs": "dem Evangelium gemäß zu leben",
+        "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+      },
+      "pneumatologie": {
+        "rol_heilige_geest": "EXTERNAL_HELPER",
+        "competentie_schenking": "The Spirit is seen as a 'wind' that is either allowed to blow or is 'extinguished' by human structures."
+      },
+      "hamartologie": {
+        "aard_van_zonde": "MORAL_MISTAKE",
+        "ernst_diagnose": "Sin is identified as 'patriarchal complex' and 'male neuroses' rather than a radical separation from God."
+      },
+      "eschatologie": {
+        "hoop_structuur": "NOT_YET",
+        "actant_van_voltooiing": "God"
+      }
+    },
+    "aanbevelingen": {
+      "actantiele_audit_samenvatting": "The sermon functions as a prophetic-political manifesto where the human subject (the marginalized) is the primary agent of change.",
+      "subject_herpositionering": {
+        "nodig": "true",
+        "huidige_probleem": "The 'System' is the subject of all negative actions, and 'We/The People' are the subjects of all positive potential.",
+        "voorgestelde_herpositionering": "Make Christ the subject who judges the system and empowers the weak.",
+        "voorbeeld_revisie": "Instead of 'Why do you want to die?', use 'Christ will not let His bride die, despite your efforts to kill her.'"
+      },
+      "identificatie_herstel": {
+        "nodig": "true",
+        "problematische_identificatie": "Hearer as the 'good' hero against the 'bad' institution.",
+        "voorgestelde_identificatie": "RECEIVER_SAVED",
+        "strategie": "Position both the hierarchy and the critics as 'dry bones' in need of the Ruach."
+      },
+      "modale_balans": {
+        "huidige_onbalans": "VOULOIR (Will/Motivation)",
+        "voorgestelde_balans": "POUVOIR (God's Power)",
+        "concrete_suggestie": "Focus more on how the Spirit *gives* the ability to love, rather than why the Pope *won't* allow it."
+      },
+      "tegenstander_intensivering": {
+        "nodig": "true",
+        "huidige_status": "Sociological (The Vatican)",
+        "voorgestelde_intensivering": "Theological (Sin/Death)",
+        "theologische_rationale": "If the opponent is only a system, the solution is only a reform. If the opponent is Death, the solution must be Resurrection."
+      },
+      "narratieve_hierarchie_herstel": {
+        "nodig": "true",
+        "probleem": "Ethics (Democracy/Equality) precedes and overshadows Soteriology.",
+        "voorgestelde_structuur": "God's life-giving breath (Program 1) → The community of equals (Program 2)."
+      },
+      "overall_beoordeling": "NEEDS_IMPROVEMENT",
+      "slotopmerking": "The sermon is rhetorically powerful and ethically urgent, but structurally it risks becoming a 'Law of Liberation' where human effort replaces the divine act."
+    },
+    "comparatieve_analyse": {
+      "verschil_met_retorische_analyse": "Rhetorically, this is a 'Prophetic Lament'; actantially, it is a 'Humanistic Call to Action'.",
+      "verschil_met_exegese": "Exegesis would focus on Ezekiel's context; Greimas shows how Ezekiel is used as a 'Helper' for a modern political Subject.",
+      "unieke_inzichten_greimas": "Reveals that 'The Spirit' is treated as an object to be 'extinguished' or 'allowed' by humans, rather than the Sovereign Subject."
+    },
+    "appendices": {
+      "volledige_subject_lijst": [
+        "System (verachtet)",
+        "Frauen (sind geworden)",
+        "Wir (sollten hoffen)",
+        "Gott (wird öffnen)"
+      ],
+      "volledige_object_lijst": [
+        "Frauen",
+        "Kirche",
+        "Geist",
+        "Demokratie"
+      ],
+      "werkwoord_frequentie": {
+        "verachten": {
+          "count": "3",
+          "primair_subject": "System"
+        },
+        "wollen": {
+          "count": "6",
+          "primair_subject": "Man"
+        }
+      },
+      "notities": "The sermon is a classic example of 'Left-wing Moralism' where the law is not 'be holy' but 'be democratic/liberated'."
+    }
+  }
+]

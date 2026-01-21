@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "titel_preek": "A Question Out Of The Darkness",
+    "bijbeltekst": "Luke 7:18–22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "ARCHITECTURAL/CONTAINER",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "imprisoned in ugly, terrifying conditions",
+          "Locked in sickness",
+          "jailed by a dead end on the job",
+          "trapped",
+          "dismal, unlighted cell"
+        ],
+        "conceptuele_metafoor": "SUFFERING IS IMPRISONMENT"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "prepare the way of the Lord",
+          "make straight in the desert a highway",
+          "new adventure of God",
+          "blessings that have been in her path",
+          "ways that have opened before her"
+        ],
+        "conceptuele_metafoor": "FAITH IS A JOURNEY ON A PREPARED PATH"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Hope deferred maketh the heart sick",
+          "heart began to grow sick with doubt",
+          "cured many of their infirmities",
+          "lepers are cleansed"
+        ],
+        "conceptuele_metafoor": "DOUBT IS SICKNESS"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "My grip nearly slipped.",
+        "brondomein": {
+          "naam": "PHYSICAL GRASP",
+          "concrete_elementen": [
+            "hands",
+            "friction",
+            "falling",
+            "cliffs/heights"
+          ],
+          "belichaamde_basis": "balance/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Faith/Certainty",
+          "doctrinale_traditie": "Protestant/Existential"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Physical object being held",
+            "doel_element": "Theological conviction"
+          },
+          {
+            "bron_element": "Slipping",
+            "doel_element": "Losing faith due to trauma"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Faith requires active effort to hold onto",
+            "External forces (gravity/suffering) pull against faith"
+          ],
+          "theologische_implicaties": [
+            "Faith is fragile and subject to human strength",
+            "God is the object held rather than the one holding"
+          ],
+          "ethische_implicaties": [
+            "The believer must 'brace' themselves for hardship"
+          ],
+          "onbedoelde_consequenties": [
+            "If the grip slips, the believer is responsible for the fall"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the dead metaphor of 'holding onto faith' by placing it in the context of a specific narrative by Lake Geneva."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon maintains a strong spatial coherence by contrasting the 'Darkness/Prison' of the present with the 'Light/Highway' of God's coming. However, there is a slight tension between God as the 'Judge' (Juridical) and God as the 'Guide' (Relational/Journey).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Middle of sermon",
+          "metafoor_a": "GOD IS JUDGE",
+          "metafoor_b": "GOD IS GUIDE",
+          "conflict_beschrijving": "The preacher asserts God is the Judge who cannot be put on trial, then immediately pivots to God as a tender Guide leading the soul.",
+          "entailment_conflict": "A judge demands account; a guide provides accompaniment. One is distant/authoritative, the other is close/supportive.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "SICKNESS",
+            "OFFERING"
+          ],
+          "blending_strategie": "The 'bitter complaint' of the 'sick heart' is blended into a 'liturgical offering' that God accepts, transforming the pathology into a relationship."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'Wilderness' and 'Prison' metaphors with sensory details (camel hair, rusty doors, stench of locusts).",
+        "voorbeeld": "the rusty doors would creak as they were thrown open"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By mapping doubt strictly to sickness and imprisonment, there is a risk of removing the intellectual or moral dimensions of John's question.",
+        "voorbeeld": "John's heart began to grow sick with doubt.",
+        "potentiele_impact": "Congregation may view doubt only as a symptom to be cured rather than a question to be answered.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A dark, damp prison cell in Herod's fortress.",
+      "sub_worlds": [
+        "The swank residential areas of Jerusalem",
+        "The blazing Jordan river wilderness",
+        "The modern workplace (dead-end job)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 5",
+          "van_wereld": "John's prison",
+          "naar_wereld": "Modern listener's 'quiet desperation'",
+          "effectiviteit": "Highly effective bridge between biblical text and contemporary experience."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Sovereign",
+          "hoe_versterkt": "Reinforced by the 'Judge' metaphor and the idea that God does not 'apple polish' or 'grovel'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Magic Deliverer",
+          "verstoring_strategie": "Contrasting John's expectation of 'rushing feet' with the reality of continued imprisonment.",
+          "vervangend_schema": "God as Mysterious Provider (Signs in the past)"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits an Advent or 'Lament' context."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'CONTAINER' schema (Prison/Darkness) and the 'PATH' schema (Highway/Guide). It successfully uses these to create a sense of existential claustrophobia that only God's 'visitation' can break. The 'ECONOMIC' domain is notably absent, which avoids transactional theology but leaves the 'why' of suffering somewhat abstract.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SALVATION IS SIGHT",
+        "huidige_status": "Used conventionally in the quote of Luke 7.",
+        "suggestie": "Describe the physical pain of light hitting eyes that have been in a 'dismal, unlighted cell' for months.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The gospel isn't just seeing; it's the sting of the sun on eyes that forgot what noon looked like."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "God as Judge vs. God as Guide",
+        "resolutie_strategie": "Use the 'Courtroom' domain to show God as the Advocate (Paraclete) who guides the defendant through the trial."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "DOUBT IS SICKNESS",
+        "problematisch_entailment": "Sickness is involuntary; doubt might be seen as a lack of hygiene/will.",
+        "aanbeveling": "Balance with 'DOUBT IS A CROSSROADS' to restore agency."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To explain the 'delay' in Jesus' response (growth takes time).",
+        "doel_concept": "Divine Timing"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using embodied metaphors of darkness and light to bridge the gap between biblical narrative and modern existential angst."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'thunder' and 'fire' imagery, CMT reveals how these images construct God as an irresistible physical force.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT shows that the 'experience' is already pre-structured by the 'Prison' and 'Path' metaphors.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher uses 'Verticality' (mountains brought low) to signal the collapse of human pride before God's arrival."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "eyes ablaze with fire",
+      "voice roared like thunder",
+      "axe laid unto the root",
+      "highway in the desert",
+      "coming of springtime",
+      "biting winter",
+      "strike the blow",
+      "year of jubilee",
+      "caged in his prison",
+      "hope deferred maketh the heart sick",
+      "jailed by a dead end",
+      "choking fingers of despair",
+      "grip nearly slipped",
+      "rusty sword in the heart",
+      "footfalls of God",
+      "apple polish",
+      "warming sun on a cold day"
+    ],
+    "woord_frequentie_analyse": {
+      "darkness": "5",
+      "prison": "6",
+      "God": "14",
+      "John": "18",
+      "see": "7"
+    },
+    "notities": "The preacher uses 'Darkness' not just as a lack of light, but as a physical substance that 'closes in' (Force/Container schema)."
+  }
+}

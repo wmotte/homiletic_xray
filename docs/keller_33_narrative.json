@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "titel_preek": "Sight for the Blind",
+    "bijbeltekst": "2 Koningen 6:8-23",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "3200"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God restores spiritual sight to blind humanity through the mediation of Christ (prefigured by Elisha) to move them from judgment to a feast of grace.",
+      "subject": {
+        "identificatie": "God / De Heilige Geest",
+        "tekstueel_bewijs": [
+          "The Lord opened the servant’s eyes",
+          "He struck them with blindness",
+          "The Holy Spirit opens their eyes"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Spiritueel zicht (het herkennen van zonde en genade)",
+        "tekstueel_bewijs": [
+          "the gift of spiritual sight",
+          "the beauty of grace",
+          "the depth of your sin"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God de Vader / De Schrift",
+        "tekstueel_bewijs": [
+          "representations of how God’s salvation works",
+          "how the Scripture be fulfilled"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "De hoorder (zowel de 'morele' als de 'immorele' mens)",
+        "tekstueel_bewijs": [
+          "we’re all naturally blind",
+          "it can happen to you and me"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "Jezus Christus (De ultieme Profeet) / Lijden",
+        "tekstueel_bewijs": [
+          "Jesus was executed so we wouldn’t have to be",
+          "suffering... is one of the ways out of spiritual blindness"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Zelfgenoegzaamheid / De illusie van eigen zicht",
+        "tekstueel_bewijs": [
+          "The delusion of self-sufficiency",
+          "If you think you’re spiritually sighted, it’s a sign that you’re spiritually blind"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Blindness is presented as a total ontological state that prevents any self-rescue."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "De morele transformatie van de hoorder als gevolg van het ontvangen zicht.",
+      "subject": "De gelovige",
+      "object": "Heiliging / Verandering van gedrag",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon explicitly states that sight (grace) must come first before the 'Golden Rule' or moral effort can be effective."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Spiritueel Zicht → De Hoorder",
+      "helper_subject_tegenstander": "Christus/Lijden → Heilige Geest ← Zelfgenoegzaamheid",
+      "subject_naar_object": "God → Redding van de blinde"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 28,
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "God’s salvation works",
+        "The Lord opened the servant’s eyes",
+        "Jesus was plunged into the darkness"
+      ],
+      "voorbeelden_mens_subject": [
+        "We ought to obey the Golden Rule",
+        "You understand sin as breaking rules",
+        "I’m going to live the way I ought to live"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "I’m going to live the way I ought to live (cited as a false approach)"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "they can’t get enough of that doctrine"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "impaired ability to recognize the truth"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "the regenerating power of the Holy Spirit",
+          "it has to be a gift"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The focus is entirely on the 'Pouvoir' (Power/Ability) which the human subject lacks and God must provide. It is a sermon of 'Incompetence' met by 'Divine Competence'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Genade/Zicht",
+      "s2": "Oordeel/Blindheid",
+      "niet_s1": "Wetticisme (Denken dat je ziet)",
+      "niet_s2": "Zelfkennis van blindheid"
+    },
+    "beweging_in_preek": "De preek beweegt van de valse S1 (Wetticisme) naar de erkenning van S2 (Blindheid), om via het werk van Christus (~S2) uit te komen bij de ware S1 (Genade).",
+    "theologische_resolutie": "Christus ondergaat de S2 (duisternis/oordeel) zodat de hoorder S1 ontvangt.",
+    "ernst_van_s2": "Zeer hoog; blindheid wordt vergeleken met de dood en totale onmacht."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places God as the active Subject and the human as the passive recipient of a gift that cannot be earned or self-generated.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional logic (If/Then)",
+        "tekstueel_bewijs": "None found; the preacher explicitly deconstructs 'If I live well, I am saved'.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-switch to Christ",
+        "tekstueel_bewijs": "Jesus was executed so we wouldn’t have to be.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Total Inability of Man",
+        "tekstueel_bewijs": "Spiritual sight is not natural for anybody... it has to be a gift.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Elisha is not used as a moral hero to imitate, but as a type of Christ who mediates grace to enemies.",
+      "bijbelse_figuren_als_model": [
+        "Elisha (as Mediator)",
+        "Joseph (as suffering servant)"
+      ],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and wonder (gratitude).",
+      "theologische_implicatie": "Monergistic regeneration; sight is a work of the Spirit alone."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The transition from the OT narrative to the NT fulfillment in Gethsemane is seamless and structurally sound.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Jesus took the punishment so we could get a feast.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of a new faculty (sight)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; sin is a pervasive attitude of the heart that blinds one even to its own existence."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The narrative structure is robustly theocentric. God is the Sender and Subject; Grace is the Object; the Hearer is the Receiver.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "N/A",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "N/A",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Pouvoir (Ability).",
+      "voorgestelde_balans": "Maintain current balance; it serves the grace-orientation.",
+      "concrete_suggestie": "Continue to emphasize that 'knowing' (Savoir) is not 'seeing' (Pouvoir)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Opponent (Blindness/Sin) is already presented as a heavy, cosmic force.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "voorgestelde_structuur": "Soteriology (Sight as gift) → Ethics (Feast/Peace with enemies)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a textbook example of a grace-oriented, Christocentric narrative structure that avoids the trap of moralism by making God the Subject of the transformation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'blindness' metaphor, Greimas shows that the 'Subject' of the healing is the crucial theological pivot.",
+    "verschil_met_exegese": "Exegesis explains the Syrian war; semiotics explains why the 'Subject-switch' from Elisha to Jesus is necessary for the hearer's identity.",
+    "unieke_inzichten_greimas": "Reveals that the 'bad guys' and 'good guys' in the text share the same actantial role (Blind/Receiver), leveling the moral playing field."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (opens)",
+      "Jesus (takes)",
+      "Spirit (regenerates)",
+      "Man (fails to see)"
+    ],
+    "volledige_object_lijst": [
+      "Spiritual sight",
+      "The beauty of grace",
+      "The depth of sin"
+    ],
+    "werkwoord_frequentie": {
+      "open": {
+        "count": 12,
+        "primair_subject": "God"
+      },
+      "see": {
+        "count": 15,
+        "primair_subject": "Man (as result of God's action)"
+      }
+    },
+    "notities": "The sermon uses the 'Dothan' connection between Joseph and Elisha to deepen the 'Opponent' actant (suffering as a helper to sight)."
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "titel_preek": "Wer hat dich so geschlagen? Ein Passionsgottesdienst",
+    "bijbeltekst": "Johannes 18-19 (Passionsgeschichte)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The ongoing crucifixion of Christ in the suffering of the poor and the systemic violence of the world, where the hearer is confronted with their complicity.",
+      "subject": {
+        "identificatie": "The 'I' (Hearer/Humanity) as the perpetrator of violence.",
+        "tekstueel_bewijs": [
+          "ICH. Ich habe dich geschlagen, Jesus.",
+          "Ich unterstützte das wirtschaftliche System, das Folter braucht."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The suffering/death of Jesus (and by extension, the poor).",
+        "tekstueel_bewijs": [
+          "Wer hat dich so geschlagen, mein Heil?",
+          "die weitergehende Kreuzigung Jesu in unserer Welt sehen."
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Suffering God / The Truth.",
+        "tekstueel_bewijs": [
+          "Gott fragt uns in Christi Tod: Wie weit wirst du dich auf mich einlassen?"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Poor / The Victims of the system.",
+        "tekstueel_bewijs": [
+          "die Armen hängen [am Kreuz]",
+          "das philippinische Mädchen"
+        ],
+        "positie_hoorder": "The hearer identifies with the Subject (Perpetrator/Spectator)."
+      },
+      "helper": {
+        "identificatie": "Non-violent resistance / Truth-tellers.",
+        "tekstueel_bewijs": [
+          "Frauen in Mutlangen",
+          "Pflugschargruppen"
+        ],
+        "rol_van_god": "God is the one being helped/suffering, not the Helper.",
+        "rol_van_geest": "Absent as a power-source; present as a 'fire' to be entered."
+      },
+      "tegenstander": {
+        "identificatie": "The System / The 'Spirit of Victory' / Global Capitalism.",
+        "tekstueel_bewijs": [
+          "ökonomisch und militärisch überlegene System",
+          "Aktien, Banken, große Aufträge"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is an all-encompassing global structure of 'Profit and Death'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The call to 'become the fire' and stand with the poor.",
+      "subject": "The Hearer",
+      "object": "Solidarity with the poor / Truth",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "After recognizing complicity (Program 1), the hearer is invited to change sides (Program 2)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Suffering God → Truth/Solidarity → The Poor",
+      "helper_subject_tegenstander": "Resistance → Hearer/System ← Power/Greed",
+      "subject_naar_object": "Hearer → Crucifying Jesus"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "Gott trennt sich nicht von der Liebe.",
+        "Gott fragt uns in Christi Tod."
+      ],
+      "voorbeelden_mens_subject": [
+        "Ich unterstützte das wirtschaftliche System.",
+        "Wir haben die Partizipation an der Macht gewählt."
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "du musst leiden",
+          "muss den Geist des Sieges austreiben"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Wie weit wirst du mit mir gehen?",
+          "Wer immer die Wahrheit selbst haben will"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Die Realität wahrnehmen heißt..."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "fast handlungsunfähig"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Will' and 'Desire' of the hearer to stop participating in the system. It lacks the 'Pouvoir' (Power) of the Spirit, leaving the hearer in a state of existential demand."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Truth (Suffering/Non-violence)",
+      "s2": "Power (Victory/Violence)",
+      "niet_s1": "Skepticism (Pilate's 'What is truth?')",
+      "niet_s2": "Weakness/Prison (The 'Free' man in jail)"
+    },
+    "beweging_in_preek": "From S2 (Winners) to Not-S1 (Skeptics) to S1 (Truth in suffering).",
+    "theologische_resolutie": "Resolution is found in 'doing the truth' by joining the side of the losers.",
+    "ernst_van_s2": "Extremely high; S2 (Power) is seen as the demonic structure of the world."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the Passion narrative, the 'engine' is anthropocentric. The focus is on human guilt (complicity in global systems) and human decision to change sides. God is the passive victim, not the active Savior.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Human as Subject of the Passion",
+        "tekstueel_bewijs": "Ich habe dich geschlagen, Jesus.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "God as Passive/Instrumental",
+        "tekstueel_bewijs": "Gott wird heutzutage gefoltert.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Unconditional Presence",
+        "tekstueel_bewijs": "Gott trennt sich nicht von der Liebe.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Contemporary activists (Mutlangen, Greenham Common) are used as the true subjects of freedom to be emulated.",
+      "bijbelse_figuren_als_model": [
+        "Jesus (as the non-violent resistor)",
+        "The women at Mutlangen"
+      ],
+      "alternatieve_lezing": "God in Christ conquers the powers that hold us captive to the system, enabling a life we cannot choose on our own."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Guilt and existential pressure to act.",
+      "theologische_implicatie": "Soteriology is reduced to political/ethical alignment."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The narrative is highly coherent but consistently places the burden of action on the human subject.",
+      "spanning_punten": [
+        "The tension between 'It is finished' and the demand 'How far will you go?'"
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Christus beweist nichts. Er schweigt... Wer aus der Wahrheit ist, der hört meine Stimme.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer has the 'Vouloir' (Will) but needs to be shocked into 'Savoir' (Knowing) their guilt."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Sin is systemic complicity in capitalism and violence."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Law' sermon (Second Use of the Law) that exposes sin but fails to provide the 'Gospel' (God as Subject of salvation).",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The human 'I' is the only active force; God is the one being beaten.",
+      "voorgestelde_herpositionering": "God as the one who breaks the power of the system from within.",
+      "voorbeeld_revisie": "Instead of 'I beat you,' use 'You allowed yourself to be beaten to break the cycle of my violence.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Soldier/Judas'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on Christ's 'It is finished' as a gift for the complicit, not just a description of his suffering."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir/Vouloir (Must/Want)",
+      "voorgestelde_balans": "Pouvoir (God's Power)",
+      "concrete_suggestie": "Emphasize that the Spirit gives the power to resist, which we lack."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (System) is already very strong.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon correctly identifies the 'Heavy Opponent'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has swallowed Soteriology (Program 1).",
+      "voorgestelde_structuur": "Soteriology (God saves us from the system) → Ethics (Therefore we resist)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically brilliant and prophetically sharp, but structurally moralistic because it leaves the hearer as the primary actor in the drama of redemption."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is powerful; semiotically, it is a burden.",
+    "verschil_met_exegese": "Exegesis is used to support a pre-defined political-ethical framework.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'Jesus-talk', the 'God-actant' is paralyzed/passive."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Ich (habe geschlagen)",
+      "Wir (haben gewählt)",
+      "Pilatus (funktioniert)",
+      "Gott (trennt sich nicht)"
+    ],
+    "volledige_object_lijst": [
+      "Jesus",
+      "Wahrheit",
+      "Die Armen",
+      "Macht"
+    ],
+    "werkwoord_frequentie": {
+      "schlagen": {
+        "count": 8,
+        "primair_subject": "Man"
+      },
+      "leiden": {
+        "count": 4,
+        "primair_subject": "God/Jesus"
+      }
+    },
+    "notities": "Classic Political Theology of the 1980s (Sölle-style)."
+  }
+}

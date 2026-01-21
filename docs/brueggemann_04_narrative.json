@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "What You Eat Is What You Get",
+    "bijbeltekst": "Proverbs 15:17; Mark 8:14-21; Luke 6:21",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject must choose between two lifestyles (symbolized by food) to achieve a state of love and peace rather than strife and anxiety.",
+      "subject": {
+        "identificatie": "The Hearer / 'We'",
+        "tekstueel_bewijs": [
+          "We are always deciding about when to eat",
+          "In choosing food we choose our style",
+          "We pick our food by how we value life"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "A life of love, peace, and 'being who we are'",
+        "tekstueel_bewijs": [
+          "contentment gained not by consuming but by communion",
+          "lets us live as God would have us live"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Wisdom Teacher / The Proverb",
+        "tekstueel_bewijs": [
+          "The wisdom teacher summarizes his view",
+          "The proverb... turns out to be a summons"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / Society",
+        "tekstueel_bewijs": [
+          "There is another table set for us"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Nostalgia, Sapiential Insight, or the 'One Loaf' (Jesus)",
+        "tekstueel_bewijs": [
+          "The wisdom teachers dare to assert",
+          "Jesus said wistfully... Do you not yet understand?"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Modernity, Affluence, the 'Rat Race', and Social Injustice",
+        "tekstueel_bewijs": [
+          "drivenness, restlessness, and anxiety",
+          "the leaven of the Pharisees and the leaven of Herod"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily a socio-economic system and a psychological state of 'drivenness' rather than an ontological power like Sin or Death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's eschatological banquet where all are fed and healed.",
+      "subject": "God",
+      "object": "The Kingdom / Equality",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon oscillates between the Kingdom as a gift from God and the Kingdom as a result of human 'land reform' and 'budget' choices."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Wisdom Teacher → Love/Peace → The Hearer",
+      "helper_subject_tegenstander": "Jesus/Proverbs → The Hearer ← Affluence/Anxiety",
+      "subject_naar_object": "The Hearer → Choosing the 'Dinner of Herbs'"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 8,
+      "mens_als_subject_count": 42,
+      "ratio": "0.19",
+      "voorbeelden_god_subject": [
+        "God has promised",
+        "the kingdom that comes among us",
+        "as God would have us live"
+      ],
+      "voorbeelden_mens_subject": [
+        "We make a choice",
+        "We pick our food",
+        "We act out our hopes",
+        "You can afford everything"
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "The proverb... turns out to be a summons",
+          "We are always deciding",
+          "There are choices to be made"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "who we most yearn to be",
+          "our hopes and our yearnings"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "Do you not yet understand?",
+          "The wisdom teacher construes"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "I cannot walk away from it",
+          "lets us be who we in fact are"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is a 'summons' (Devoir). It assumes that if the hearer understands the choice (Savoir) and desires a better life (Vouloir), they must and can execute the choice. The 'Pouvoir' (power to change) is assumed to reside in the human will."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Herbs/Love (Simplicity)",
+      "s2": "Ox/Strife (Affluence)",
+      "niet_s1": "Nostalgia (Lack of Simplicity)",
+      "niet_s2": "Eschatological Hope (Lack of Strife)"
+    },
+    "beweging_in_preek": "Moves from S2 (Ox) to S1 (Herbs), then to ~S1 (Nostalgia), and finally attempts to resolve in ~S2 (Eschatology) as a motivation for S1.",
+    "theologische_resolutie": "Resolution is found in the 'Choice' of the subject to align with the future kingdom.",
+    "ernst_van_s2": "S2 is treated as a social/psychological trap rather than a state of spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using biblical imagery and mentioning Jesus, the engine of the sermon is the human choice. God is the one who 'promises,' but Man is the one who 'picks' and 'builds.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Subject",
+        "tekstueel_bewijs": "We choose our food and we choose our life.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Gospel",
+        "tekstueel_bewijs": "In choosing food we choose our style... and our way in the world.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Eschatological Gift",
+        "tekstueel_bewijs": "the long-term promises of God for how things will finally be.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The 'Wisdom Teacher' and 'Jesus' are used as voices that provide the logic for a better lifestyle choice.",
+      "bijbelse_figuren_als_model": [
+        "The Wisdom Teacher",
+        "Jesus (as a teacher of bread-logic)"
+      ],
+      "alternatieve_lezing": "Jesus as the Bread of Life who feeds the hungry because they cannot feed themselves."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'simplicity' and 'land reform' to earn 'love'.",
+      "theologische_implicatie": "Salvation is a social-ethical achievement."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 7,
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically bifurcated between 'God's promise' and 'Man's policy'.",
+      "spanning_punten": [
+        "The tension between 'I cannot walk away from it' (incompetence) and 'We make a choice' (competence)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "In selecting our food, we act out our hopes and our yearnings.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "None; the human subject is expected to have the 'Pouvoir' naturally."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'drivenness' and 'social requirements' rather than a broken relationship with God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "Man (via policy and law)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a Law-summons where the hearer is the Subject and God is a distant Sender of values.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is exhausted but told they must choose.",
+      "voorgestelde_herpositionering": "Jesus as the Subject who sets the table for those who have failed to choose correctly.",
+      "voorbeeld_revisie": "Instead of 'We pick our food,' use 'Jesus breaks the bread for those who have forgotten to bring any.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Wise Chooser'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the 'maimed, blind, and lame' as the primary identity of the hearer."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Grace-given ability)",
+      "concrete_suggestie": "Emphasize that the 'One Loaf' in the boat is the power that enables the new life."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Social 'rat race'.",
+      "voorgestelde_intensivering": "The 'hardness of heart' mentioned in the Mark text.",
+      "theologische_rationale": "To show why a human 'choice' is insufficient without a divine Subject."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (choosing herbs) precedes Soteriology (the Kingdom).",
+      "voorgestelde_structuur": "The Kingdom is given (Soteriology), therefore we are freed from the ox (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has beautiful social insight but needs to ground the 'choice' in the prior action of Christ to avoid becoming a new burden of 'simplicity-legalism'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'ox vs herbs' contrast is brilliant; actantially, it places the burden of the Kingdom on the hearer.",
+    "verschil_met_exegese": "The exegesis of Mark 8 is present but the actantial role of Jesus is reduced to a teacher of 'understanding' rather than a Savior.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'Kingdom' language, the 'Subject' of the active verbs remains 'We', making it a moralistic sermon."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We are in process",
+      "We are always deciding",
+      "We pick our food",
+      "We build policy",
+      "We shape law"
+    ],
+    "volledige_object_lijst": [
+      "A dinner of herbs",
+      "Love",
+      "The Kingdom",
+      "Social reality"
+    ],
+    "werkwoord_frequentie": {
+      "choose": {
+        "count": 6,
+        "primair_subject": "Man"
+      },
+      "promise": {
+        "count": 3,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Sapiential Moralism' where the Gospel is framed as a wiser way to live rather than a rescue."
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "The Mothers of Jesus",
+    "bijbeltekst": "Matthew 1:1-17",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "2850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "on the road",
+          "history was going in a different direction",
+          "moving further and further away",
+          "where he’s going"
+        ],
+        "conceptuele_metafoor": "DIVINE PROVIDENCE IS A JOURNEY ON AN OBSCURE PATH"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "credentials",
+          "résumés",
+          "meritocratic",
+          "what you’ve accomplished",
+          "land of the killer résumé"
+        ],
+        "conceptuele_metafoor": "SOCIAL STANDING IS A COMMERCIAL LEDGER"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "concrete slab between fact and what life ought to be",
+          "punched a hole in the pitiless walls of the world",
+          "opened a cleft"
+        ],
+        "conceptuele_metafoor": "REALITY IS A FORTRESS/ENCLOSURE"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "New York City is the land of the killer résumé.",
+        "brondomein": {
+          "naam": "Employment/Economics",
+          "concrete_elementen": [
+            "résumé",
+            "credentials",
+            "accomplishments"
+          ],
+          "belichaamde_basis": "balance/object"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Human Identity and Worth",
+          "doctrinale_traditie": "Reformed/Evangelical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Résumé",
+            "doel_element": "Moral/Social Identity"
+          },
+          {
+            "bron_element": "Employer",
+            "doel_element": "Society/God"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Worth is earned through performance.",
+            "Identity is fragile and subject to review."
+          ],
+          "theologische_implicaties": [
+            "Works-righteousness is the default human mode."
+          ],
+          "ethische_implicaties": [
+            "Constant striving and competition with others."
+          ],
+          "onbedoelde_consequenties": [
+            "May suggest God is a 'hiring manager' if not carefully deconstructed."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the dead metaphor of 'merit' by using the contemporary, high-stakes imagery of a New York job search."
+      },
+      {
+        "metafoor_expressie": "Jesus Christ... has opened a cleft and punched a hole in the pitiless walls of the world.",
+        "brondomein": {
+          "naam": "Physical Barrier/Siege",
+          "concrete_elementen": [
+            "walls",
+            "cleft",
+            "hole",
+            "punching"
+          ],
+          "belichaamde_basis": "container/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Incarnation/Resurrection",
+          "doctrinale_traditie": "Orthodox/Classical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Wall",
+            "doel_element": "Materialism/Death/Determinism"
+          },
+          {
+            "bron_element": "Punching a hole",
+            "doel_element": "The Incarnation of Christ"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The world is a closed system that needs external intervention."
+          ],
+          "theologische_implicaties": [
+            "Supernaturalism; God is outside the 'walls' of nature."
+          ],
+          "ethische_implicaties": [
+            "Hope is possible despite material circumstances."
+          ],
+          "onbedoelde_consequenties": [
+            "Dualism between 'this world' and 'reality'."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses violent, physical verbs ('punched') to describe an abstract metaphysical event."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The preacher uses the 'Résumé' metaphor as a consistent foil to 'Grace' throughout the second point, and uses the 'Myth/Fact' distinction to ground the third point.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Point 1 vs Point 3",
+          "metafoor_a": "God as a 'tame' or 'not tame' animal (implied)",
+          "metafoor_b": "Jesus as a 'Knight' or 'Prince'",
+          "conflict_beschrijving": "God is described as unpredictable and 'not tame' (Aslan-esque), while Jesus is mapped to the predictable tropes of fairy tales.",
+          "entailment_conflict": "The 'not tame' God suggests danger and lack of control, while the 'Prince' suggests a comforting, destined resolution.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Point 2",
+          "gemengde_metaforen": [
+            "Genealogy",
+            "Résumé"
+          ],
+          "blending_strategie": "Functional Equivalence: The preacher explains that Genealogy served the exact cognitive function in the ancient world that a Résumé serves in modern NYC."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Takes the 'dead' concept of a biblical genealogy and revitalizes it by mapping it to the high-pressure social experience of a résumé.",
+        "voorbeeld": "New York City is the land of the killer résumé."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "Mapping Jesus to fairy tale tropes (Knight, Prince) might lead the hearer to view the Gospel as escapist fantasy rather than historical fact, despite the preacher's warnings.",
+        "voorbeeld": "He’s the handsome prince who kisses you and wakes you up.",
+        "potentiele_impact": "Congregation may sentimentalize the faith.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A modern corporate/social environment where individuals are judged by their 'credentials'.",
+      "sub_worlds": [
+        "The ancient world of tribal genealogies.",
+        "The 'Silver' world of myths and fairy tales.",
+        "The historical 'Factual' world of 1st-century Palestine."
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to Point 3",
+          "van_wereld": "The moral/social world of grace",
+          "naar_wereld": "The literary world of Tolkien and Lewis",
+          "effectiviteit": "Highly effective for an intellectual audience."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Grace as Unmerited Favor",
+          "hoe_versterkt": "By showing that even 'insiders' like David have 'dirty' résumés."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as a predictable rewarder of the good",
+          "verstoring_strategie": "Highlighting the long delays and 'frowning providence' in the genealogy.",
+          "vervangend_schema": "God as a faithful but 'untame' promise-keeper."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits the Advent theme of waiting and the 'already/not yet' tension."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the Economic/Social Merit domain (Résumé) and the Literary/Mythic domain. It successfully uses these to bridge the gap between an ancient text (Genealogy) and a modern, achievement-oriented audience. The use of 'Résumé' is a masterclass in CMT application, as it provides a concrete source domain for the abstract concept of 'Justification'.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "God as Promise Keeper",
+        "huidige_status": "Slightly conventional/abstract.",
+        "suggestie": "Deepen the source domain of 'Time'.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Describe the 'silence' of 400 years as a 'deafening static' or 'winter that never turns to spring'."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The 'not tame' God vs. the 'Prince' Jesus.",
+        "resolutie_strategie": "Emphasize the 'strangeness' of the Prince—that he wins by dying, which maintains the 'not tame' quality."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Jesus as the Knight/Prince",
+        "problematisch_entailment": "Suggests the believer is a passive 'Sleeping Beauty'.",
+        "aanbeveling": "Balance with metaphors of 'following' or 'citizenship' to restore agency."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "BIOLOGICAL/GENETIC",
+        "rationale": "Since the text is a genealogy, exploring 'spiritual DNA' could emphasize how grace is 'encoded' into the new family of God.",
+        "doel_concept": "Sanctification/New Birth"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a sophisticated example of cognitive homiletics. It successfully deconstructs the 'Merit' schema of the hearer and replaces it with a 'Grace' schema using powerful, culturally-embedded metaphors."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the Tolkien anecdotes; CMT reveals they are actually cognitive tools to bridge 'Myth' and 'Fact'.",
+    "verschil_met_kolb": "Unlike Kolb's learning cycles, CMT focuses on the mapping of the 'Résumé' to the 'Soul', explaining *why* the hearer feels the weight of the argument.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using the 'Container' image-schema (walls/cleft) to explain the Incarnation, making a metaphysical concept physically graspable."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "eyes glaze over",
+      "road of history",
+      "not a tame God",
+      "frowning providence",
+      "smiling face",
+      "killer résumé",
+      "right side of the tracks",
+      "pedigree",
+      "breathed through silver",
+      "punched a hole in the walls"
+    ],
+    "woord_frequentie_analyse": {
+      "promise": "14",
+      "genealogy": "12",
+      "résumé": "9",
+      "grace": "7",
+      "fact": "8",
+      "myth": "4"
+    },
+    "notities": "The preacher effectively uses 'Résumé' as a contemporary substitute for 'Genealogy' to maintain the cognitive impact of the original text."
+  }
+}

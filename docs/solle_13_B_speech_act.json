@@ -1,0 +1,310 @@
+{
+  "metadata": {
+    "titel_preek": "Eine Meditation zu Karfreitag",
+    "bijbeltekst": "Johannes 11,50",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A meditation on the death of Jesus and Simone Weil, exploring the logic of sacrifice and solidarity.",
+      "exegetische_kwaliteit": "Historical-critical awareness is present, but the text is used more as a springboard for philosophical reflection than as a kerygmatic source.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher is primarily reflecting, questioning, and sharing personal struggle (meditating).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 4,
+      "voorbeelden": [
+        "Ich denke darüber nach...",
+        "Ich versuche, mich diesem Gedanken zu nähern...",
+        "Ich maße mir nicht an, es vollkommen zu verstehen."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer is invited to join a process of reflection and to find a 'warm mantle' in traditional formulas despite doubt.",
+      "pneumatologisch_bewustzijn": "Low; the focus is on the preacher's and hearer's cognitive/emotional processing.",
+      "perlocutionaire_werkwoorden": [
+        "reflecting",
+        "doubting",
+        "holding on",
+        "identifying"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "Heute ist Karfreitag.",
+        "Der Mann aus Nazareth war doch eine politische Gefahr.",
+        "Die Welt ist nicht gesund geworden an ihrem Tod."
+      ],
+      "dominante_werkwoorden": [
+        "sein",
+        "haben",
+        "denken",
+        "versuchen"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "Manchmal muss man sich Dinge sagen..."
+      ],
+      "dominante_werkwoorden": [
+        "müssen",
+        "sollen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "35",
+      "procent": "18%",
+      "voorbeelden": [
+        "Ich kann schon verstehen...",
+        "Ich maße mir nicht an...",
+        "Ich halte mich an die Wahrheit..."
+      ],
+      "dominante_werkwoorden": [
+        "verstehen",
+        "glauben",
+        "hoffen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "Ich halte mich an diesen Versuch..."
+      ],
+      "dominante_werkwoorden": [
+        "halten"
+      ],
+      "kwaliteit": "Weak; the preacher commits themselves to a struggle, but God does not bind Himself to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent; the preacher explicitly disclaims authority ('Ich maße mir nicht an')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "95%",
+    "performatief_percentage": "5%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "indicatoren": [
+        "Extensive use of 'I think', 'I try', 'I don't understand'.",
+        "Historical narrative about Simone Weil takes up a large portion without a performative bridge."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of the preacher's intellectual and spiritual journey rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Promise of Grace",
+        "Direct address of God's action for the 'You' (Hearer)."
+      ],
+      "effect_op_hoorder": "The hearer is left with their own 'holding on' (Sich-halten) rather than being held by the Word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "None; the 'Toezegging' is replaced by a 'suggestion' to use traditional words as a mantle.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Subjective expression of the preacher's doubt and reflection ('Ich')."
+      },
+      "tweede_persoon": {
+        "frequentie": "Zero",
+        "gebruik": "The hearer is never directly addressed as 'You'.",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Talking about Jesus, Simone Weil, the Romans, and 'the world'.",
+        "distantie_effect": "Creates a lecture-like distance where the Gospel is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical exegesis and the biography of Simone Weil."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General philosophical reflections on love and death."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The preacher's current state of mind."
+      }
+    },
+    "adressering_effectiviteit": 1
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of suffering) -> Expressive (Preacher's doubt) -> Directive (We should say these words anyway).",
+      "voorbeelden": [
+        "Die Welt erlöst? Davon sehe ich nicht viel... Aber ich habe gelernt... dass wir aussprechen sollen..."
+      ],
+      "probleem": "The imperative to 'speak' is not founded on a divine promise but on a psychological need for a 'mantle'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive core.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Manchmal muss man sich Dinge sagen, die man nicht versteht, die wir aber zum Leben brauchen."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon is a personal testimony of a struggle with faith. It describes the preacher's relationship with the tradition rather than mediating the tradition as a present reality.",
+    "sterke_punten": [
+      {
+        "aspect": "Authenticity",
+        "categorie": "EXPRESSIVE",
+        "tekstueel_bewijs": "Ich halte mich an die Wahrheit, die dunkle...",
+        "effect": "Creates empathy and intellectual honesty."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "ILLOCUTION",
+        "tekstueel_bewijs": "Entire text",
+        "probleem": "The hearer is ignored as a subject of God's address.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a 'talk about' an event (the Cross) and a 'talk about' a feeling (doubt), but the sermon itself does not 'do' anything to the hearer.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "The preacher explicitly retreats from the role of a mandatory ('Ich maße mir nicht an'), thus vacating the sacramental office."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; God is the object of the preacher's thoughts.",
+      "prediker_als_mandataris": "No; the preacher speaks as a private individual.",
+      "tekstueel_bewijs": [
+        "Ich maße mir nicht an, es vollkommen zu verstehen."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is attributed to the 'warm mantle' of words, not the Spirit.",
+      "tekstueel_bewijs": [
+        "Wir hüllen uns ein in diesen Satz wie in einen warmen Mantel."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the sermon is a meditation.",
+      "epifanisch_taalgebruik": "No; it is descriptive and tentative.",
+      "tekstueel_bewijs": [
+        "Ich versuche, mich diesem Gedanken zu nähern..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is paralyzed by 'thinking', 'trying', and 'doubting'. It lacks the 'I promise you' or 'God says' verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "In dem Tod Jesu protestiert Gott gegen die Vernichtung des Lebens.",
+          "voorgestelde_revisie": "In diesem Tod protestiert Gott heute gegen DEINE Vernichtung en spricht DICH frei.",
+          "verschil": "Shifts from a general theological theory to a personal encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is treated as a 'crazy sentence' we use for comfort, not a word from God.",
+      "suggestie": "Use the authority of the office to proclaim the promise of the text directly.",
+      "voorbeeldzinnen": [
+        "Christus ist für dich gestorben, damit du lebst."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Total absence of 'You'.",
+      "suggestie": "Incorporate the congregation into the narrative of the Cross.",
+      "voorbeeldzinnen": [
+        "Hören Sie: Die Welt ist erlöst, und das gilt Ihnen."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'must' (muss) is based on psychological survival, not grace.",
+      "suggestie": "Base the call to love on the finished work of Christ."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "While intellectually honest and moving as a meditation, this text fails as a 'sermon-event' because it refuses to speak on God's behalf."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would see this as a successful 'Self-Disclosure' (Selbstoffenbarung), but SAT reveals it fails as a 'Directive/Declarative' act of God.",
+    "verschil_met_retoriek": "Rhetorically it is a fine 'pathos' piece, but homiletically it lacks 'illocutionary force'.",
+    "unieke_inzichten_SAT": "SAT exposes that the preacher's humility ('I don't understand') actually functions as a refusal to perform the sacramental task of proclamation."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "war",
+        "hatte",
+        "sagten",
+        "starben",
+        "bedeutet"
+      ],
+      "directief": [
+        "sollen",
+        "muss"
+      ],
+      "expressief": [
+        "denke",
+        "verstehe",
+        "verehre",
+        "hoffe",
+        "zweifle"
+      ],
+      "commissief": [
+        "halte mich an"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Ich maße mir nicht an, es vollkommen zu verstehen.",
+        "categorie": "EXPRESSIVE",
+        "illocutionaire_kracht": "Weakening",
+        "effectiviteit": "Lowers the authority of the subsequent proclamation."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher's own process of understanding replaces the proclamation of the Word."
+  }
+}

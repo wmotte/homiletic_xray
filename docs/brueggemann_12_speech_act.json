@@ -1,0 +1,383 @@
+{
+  "metadata": {
+    "titel_preek": "Neighbor Religion That Lets a City Work",
+    "bijbeltekst": "Isaiah 58:3-9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A social-prophetic exposition of Isaiah 58, contrasting false piety with the 'true fast' of social justice and economic sharing in the context of urban decay.",
+      "exegetische_kwaliteit": "High. The preacher stays close to the historical-critical and literary context of the post-exilic community.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily acts as a 'Social Analyst' and 'Teacher' (Assertive), with a secondary move toward 'Exhortation' (Directive).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The poet offers an acute analysis of what’s going on in the city.",
+        "It is simply genuine humanness, authorized by the God of the Bible.",
+        "The promise of God is for here and for now and for you."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Social awareness, political-economic repentance, and a shift from private piety to public justice.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of transformation.",
+      "perlocutionaire_werkwoorden": [
+        "recognize",
+        "repent",
+        "reorganize",
+        "share",
+        "notice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "The Jewish community arrived at Isaiah 58.",
+        "The problem is a simple one.",
+        "The Bible is so earthy and so candid."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "knows",
+        "has"
+      ]
+    },
+    "directieven": {
+      "frequentie": "35",
+      "procent": "18%",
+      "voorbeelden": [
+        "Consider how you fast for Lent.",
+        "Deal with the bonds of injustice.",
+        "Imagine, entrusted to people like us."
+      ],
+      "dominante_werkwoorden": [
+        "consider",
+        "deal",
+        "imagine",
+        "must"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "I have no right to say any of this to you.",
+        "I do not know any of you."
+      ],
+      "dominante_werkwoorden": [
+        "know",
+        "say",
+        "imagine"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "The promise of God is for here and for now and for you.",
+        "What is promised is a new city."
+      ],
+      "dominante_werkwoorden": [
+        "promised",
+        "is"
+      ],
+      "kwaliteit": "Weak. The promises are described as third-person facts rather than first-person divine commitments delivered through the preacher."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "I say it only for two reasons.",
+        "It is my obligation to say it."
+      ],
+      "dominante_werkwoorden": [
+        "say",
+        "declare"
+      ],
+      "autoriteit": "The preacher explicitly distances himself from authority ('I have no right'), weakening the declarative force."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "The poet offers...",
+        "The poem zooms in...",
+        "The Bible writers have a grasp..."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a biblical poem rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Divine Address",
+        "Sacramental Blessing"
+      ],
+      "effect_op_hoorder": "The hearer feels the weight of the requirement (Directive) without the creative power of the Word (Declarative)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Abstract and conditional.",
+      "voorbeelden": [
+        "The light is promised to us. The fast is required of us."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "22",
+        "gebruik": "Self-deprecating or identifying with the 'we' of the community."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Used mostly in the final section to apply the text to Memphis.",
+        "performatieve_context": "Conditional promises."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing 'the poet', 'the city', 'the Jews', 'the Bible'.",
+        "distantie_effect": "High. It creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical exegesis of Isaiah."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General principles of 'how a city works'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Direct address to the current congregation."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of the city) -> Directive (Requirement to fast/act).",
+      "voorbeelden": [
+        "The city depends on a social contract... So consider how you fast."
+      ],
+      "probleem": "The 'ought' is not preceded by a 'done' (Gospel/Declarative)."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Insufficient performative grounding."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The fast of humanness is the condition of Easter."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant socio-theological lecture. It talks *about* the text and *about* the city, but rarely speaks *for* God to the people.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The poem begins with an acute diagnosis...",
+        "effect": "Intellectual clarity."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Performative Deficit",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "I have no right to say any of this to you.",
+        "probleem": "Abdication of homiletical authority.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an 'event' of learning, but not a sacramental 'event' of encounter.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The Word is treated as a document to be interpreted, not a power to be unleashed."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is quoted as a character in the poem, not as the speaker of the sermon.",
+      "prediker_als_mandataris": "The preacher explicitly denies his mandate ('I have no right').",
+      "tekstueel_bewijs": [
+        "I say it only for two reasons... it is my obligation to say it."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is sought through logical persuasion and moral appeal.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, the sermon is a means of instruction.",
+      "epifanisch_taalgebruik": "Minimal.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person descriptive verbs to 2nd person performative verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The promise of God is for here and for now.",
+          "voorgestelde_revisie": "I announce to you today: God promises to heal your city.",
+          "verschil": "Shifts from a fact about God to an act of God."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is conditional on the fast.",
+      "suggestie": "Ground the ability to fast in the prior grace of God.",
+      "voorbeeldzinnen": [
+        "Because Christ has broken your yoke, you are now free to break the yokes of others."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'The poet says'.",
+      "suggestie": "Use 'Hear what the Lord says to you'.",
+      "voorbeeldzinnen": [
+        "Hear this: God is choosing a fast for you today."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Legalistic structure (If you do X, then God does Y).",
+      "suggestie": "Reverse the flow: God is here (Indicative), therefore act (Imperative)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and ethically urgent, but it lacks the 'creative word' that makes the sermon a means of grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (I have no right), whereas SAT identifies this as a failure of the Declarative illocution.",
+    "verschil_met_retoriek": "Rhetorically, this is a strong deliberative speech; homiletically (SAT), it is a weak sacramental act.",
+    "unieke_inzichten_SAT": "SAT reveals that the preacher's 'constative surplus' objectifies the Gospel, turning a promise into a premise."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "arrived",
+        "forgotten",
+        "misread",
+        "failing",
+        "begins",
+        "offers",
+        "consists",
+        "fast",
+        "engage",
+        "says",
+        "serve",
+        "oppress",
+        "turns out",
+        "had",
+        "knew",
+        "manipulate",
+        "exploit",
+        "are",
+        "fail",
+        "discern",
+        "decides",
+        "is",
+        "have",
+        "become",
+        "imagined",
+        "depends",
+        "belong",
+        "are",
+        "cannot",
+        "guarantee",
+        "result",
+        "zooms",
+        "voices",
+        "counts",
+        "lock",
+        "authorized",
+        "know",
+        "suffer",
+        "means",
+        "entitled",
+        "arranged",
+        "exist",
+        "rectify",
+        "is",
+        "concludes"
+      ],
+      "directief": [
+        "ask",
+        "let me tell",
+        "deal",
+        "consider",
+        "share",
+        "bring",
+        "cover",
+        "notice",
+        "imagine",
+        "required"
+      ],
+      "expressief": [
+        "do not know",
+        "have no right",
+        "imagine",
+        "upset",
+        "alarmed"
+      ],
+      "commissief": [
+        "promised",
+        "will answer",
+        "will be",
+        "shall break forth"
+      ],
+      "declaratief": [
+        "I say",
+        "I tell you"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The promise of God is for here and for now and for you.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a promise rather than making one.",
+        "effectiviteit": "Moderate"
+      },
+      {
+        "zin": "I have no right to say any of this to you.",
+        "categorie": "EXPRESSIVE",
+        "illocutionaire_kracht": "Undermining the illocutionary authority of the office.",
+        "effectiviteit": "Weak"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Prophetic Realism' which excels in Locution but struggles to move into the Declarative/Sacramental mode."
+  }
+}

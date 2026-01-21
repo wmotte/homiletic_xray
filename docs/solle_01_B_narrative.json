@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "... dass wir lieben können",
+    "bijbeltekst": "1. Johannesbrief (implizit 1. Joh 3/4)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The reduction of complex dogma to the 'banal' essence of love as the only necessary reality for human existence and social structure.",
+      "subject": {
+        "identificatie": "The Human / 'Wir' (We)",
+        "tekstueel_bewijs": [
+          "versuchen, unser Leben so zu bauen, dass es mit diesem Satz übereinstimmt",
+          "wir müssen verkürzen",
+          "wir werden versuchen... den Kern neu zu entfalten"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Love (Humanity/Horizontal Solidarity)",
+        "tekstueel_bewijs": [
+          "All you need is love",
+          "dass wir uns gegenseitig lieben sollen"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The 'Banal' Gospel / The Beatles / Modernity",
+        "tekstueel_bewijs": [
+          "Die Botschaft des Evangeliums... sagt nichts anderes als: dass wir uns gegenseitig lieben sollen",
+          "den Satz, den die Beatles singen: »All you need is love.« Das ist das Evangelium"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Neighbor (specifically the Third World)",
+        "tekstueel_bewijs": [
+          "fünf Prozent des Einkommens der Kirchen für die Hungernden zu geben",
+          "die Dritte Welt"
+        ],
+        "positie_hoorder": "The hearer identifies with the Subject who must perform love."
+      },
+      "helper": {
+        "identificatie": "God (redefined as an immanent power/fire)",
+        "tekstueel_bewijs": [
+          "Gott ist die Kraft, das Feuer, das unsere Liebe trägt"
+        ],
+        "rol_van_god": "God is instrumentalized as a 'Helper' (Adjuvant) to the human Subject's capacity to love.",
+        "rol_van_geest": "Indwelling power redefined as psychological/vitalist energy."
+      },
+      "tegenstander": {
+        "identificatie": "Tradition, Dogma, and the 'Super-Ego' (Über-Ich)",
+        "tekstueel_bewijs": [
+          "Zerrüttet durch eine Sprache, die wir nicht verstehen",
+          "Angst, dass es uns überfordern... könnte",
+          "Gott der Tradition"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is not Sin or Death, but rather the psychological weight of traditional religious structures and the fear of being overwhelmed."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Political activism as the realization of 'Eternal Life'.",
+      "subject": "The Christian Citizen / The Church",
+      "object": "1-2% of GNP for development aid",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon collapses the primary (soteriological) into the secondary (ethical). Eternal life is redefined as the success of the secondary program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Banal Gospel → Love → The World",
+      "helper_subject_tegenstander": "God (as Power) → We ← Tradition/Dogma",
+      "subject_naar_object": "We → Loving/Giving"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "42",
+      "ratio": "0.095",
+      "voorbeelden_god_subject": [
+        "Gott ist die Kraft",
+        "Gott ist, dass wir lieben können"
+      ],
+      "voorbeelden_mens_subject": [
+        "Wir müssen verkürzen",
+        "Wir werden versuchen",
+        "Wir sollten aufhören, Gott zu suchen"
+      ],
+      "rutledge_score": "1"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "dass wir uns gegenseitig lieben sollen",
+          "wir müssen verkürzen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Ich wünsche mir",
+          "Sehnsucht nach Geborgenheit"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Wir wissen schon heute"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "dass wir lieben können",
+          "politische Ziel ist durchaus realisierbar"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'ability' (Pouvoir) of the human subject to act once the 'burden' of dogma is removed. It is a theology of human potentiality."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Love/Humanity",
+      "s2": "Dogma/Tradition",
+      "niet_s1": "Apathy/Capitalism",
+      "niet_s2": "Banal Gospel"
+    },
+    "beweging_in_preek": "From S2 (Dogma) to ~S2 (Banal Gospel) to S1 (Love).",
+    "theologische_resolutie": "The tension is resolved by discarding the vertical dimension entirely in favor of the horizontal.",
+    "ernst_van_s2": "S2 (Judgment/Dogma) is treated as a linguistic obstacle rather than a divine reality."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Despite the rejection of 'commands', the sermon is radically anthropocentric. God is reduced to a predicate of human action ('God is, that we can love').",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Subject-Switch (Man as Savior)",
+        "tekstueel_bewijs": "Das ewige Leben entscheidet sich hier bei uns, an keiner anderen Stelle.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Das, was immer wieder »Gott« genannt wird... brauchen wir nicht für unser Leben.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Rejection of Legalism",
+        "tekstueel_bewijs": "Liebe bedarf keiner Rechtfertigung... Sie rechtfertigt sich aus sich selbst.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus is not a Savior but a model who addressed the heart instead of the Super-Ego.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Johannes"
+      ],
+      "alternatieve_lezing": "Christ as the one who loves where we cannot, whose love is the source rather than the goal."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Empowerment followed by potential exhaustion (Pelagianism).",
+      "theologische_implicatie": "Salvation is social-political progress."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "Highly coherent within its own secular-humanist framework, but incoherent as a Christian sermon.",
+      "spanning_punten": [
+        "The claim that 'God is love' while simultaneously stating 'we don't need God'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Christus hat gesagt, das ewige Du sei im irdischen Du.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The 'Spirit' is replaced by the 'fire' of human love."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'closing the heart' or 'capitalist greed', solvable by political will."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a secular call to action where God is an adjective for human capacity.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "Man is the subject of 'loving', 'building', and 'deciding eternal life'.",
+      "voorgestelde_herpositionering": "God as the Subject who loves the unlovable, enabling the human to receive.",
+      "voorbeeld_revisie": "Instead of 'God is that we can love', use 'Because God loved us first, we are freed from ourselves to see the neighbor'."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero of the Third World's salvation.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the one who 'closes the heart' and needs a Savior before they can be a helper."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Over-reliance on Pouvoir (Ability).",
+      "voorgestelde_balans": "Introduce Devoir (Divine Law) to expose inability, then Grace as the new Pouvoir.",
+      "concrete_suggestie": "Acknowledge that we *cannot* love as we should."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Opponent is just 'old language' or 'fear'.",
+      "voorgestelde_intensivering": "Identify Sin as a power that prevents love despite our best intentions.",
+      "theologische_rationale": "Without a heavy opponent, the 'Helper' (God) becomes unnecessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics has swallowed Soteriology.",
+      "voorgestelde_structuur": "1. God's love for the sinner (Soteriology) -> 2. The sinner's love for the neighbor (Ethics)."
+    },
+    "overall_beoordeling": "WEAK",
+    "slotopmerking": "The sermon is a classic example of 'Horizontalism' where the Gospel is lost in translation to sociology."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, it is persuasive and 'modern'; semiotically, it is a complete departure from theistic narrative.",
+    "verschil_met_exegese": "Exegesis would find 1 John 4:19 ('We love because He first loved us') which contradicts the sermon's 'God is that we can love'.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'Love' here is not a gift received but a performance executed by the human subject."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wir (lieben)",
+      "Wir (bauen)",
+      "Wir (verkürzen)",
+      "Wir (geben)",
+      "Christus (anspricht/abgelöst)"
+    ],
+    "volledige_object_lijst": [
+      "Liebe",
+      "Welt",
+      "Ewiges Leben",
+      "Geld (1%)"
+    ],
+    "werkwoord_frequentie": {
+      "lieben": {
+        "count": 12,
+        "primair_subject": "Man"
+      },
+      "brauchen": {
+        "count": 6,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses 'Gospel' as a synonym for 'Humanism'."
+  }
+}

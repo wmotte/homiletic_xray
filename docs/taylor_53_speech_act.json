@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "titel_preek": "A Night Of Family Sorrow",
+    "bijbeltekst": "2 Samuel 17:22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher recounts the narrative of David and Absalom, framed by a modern anecdote of parental betrayal and reflections on leadership and judgment.",
+      "exegetische_kwaliteit": "Narrative-driven. Focuses on the emotional and psychological landscape of the characters rather than technical exegesis.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is Assertive (describing the narrative) with a late shift toward Commissive (promising God's presence).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "It is of such a father I speak to you",
+        "The Lord does deliver his people",
+        "I think that night a psalm was born"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Comfort, identification with David's sorrow, and trust in God's ultimate deliverance.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "trust",
+        "remember",
+        "feel",
+        "endure"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The son had fallen into bad company",
+        "David was king",
+        "Absalom turns against his father"
+      ],
+      "dominante_werkwoorden": [
+        "was",
+        "told",
+        "remember",
+        "said"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Wait upon the Lord",
+        "One must be very careful",
+        "God help our people"
+      ],
+      "dominante_werkwoorden": [
+        "wait",
+        "examine",
+        "be"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "I don't suppose that anyone...",
+        "I can still see through all of the mists",
+        "How sad"
+      ],
+      "dominante_werkwoorden": [
+        "suppose",
+        "feel",
+        "pains"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "10",
+      "procent": "5%",
+      "voorbeelden": [
+        "The Lord does deliver his people",
+        "He never leaves us",
+        "I will come back and get you"
+      ],
+      "dominante_werkwoorden": [
+        "deliver",
+        "leaves",
+        "forsakes",
+        "come back"
+      ],
+      "kwaliteit": "General promises rather than specific, direct address to the listener's immediate situation."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "Here is the word we may confidently speak",
+        "I speak to you on 'A Night of Family Sorrow'"
+      ],
+      "dominante_werkwoorden": [
+        "speak",
+        "declare"
+      ],
+      "autoriteit": "The preacher acts as a narrator/witness rather than a mandatory of a reality-changing word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive anecdotal storytelling",
+        "Historical narrative of David",
+        "Speculative 'I do not know' regarding judgment"
+      ],
+      "effect_op_hoorder": "The hearer is an observer of a story rather than a participant in an event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise to the 'You'",
+        "Sacramental 'Now'"
+      ],
+      "effect_op_hoorder": "Information about God's faithfulness without the impact of God's current action."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "Third-person generalities ('The Lord does deliver') rather than second-person address.",
+      "voorbeelden": [
+        "The Lord does deliver his people",
+        "He never leaves us"
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "28",
+        "gebruik": "Preacher's memories and opinions ('I remember', 'I don't know')."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "General 'you' or addressing the audience as 'you' in a lecture format.",
+        "performatieve_context": "Low; mostly used in the context of 'I speak to you'."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing David, Absalom, the father in Brooklyn, and 'the people'.",
+        "distantie_effect": "High; creates a historical/narrative distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "70%",
+        "gebruik": "Dominates the sermon via narrative and anecdote."
+      },
+      "tijdloos_present": {
+        "frequentie": "20%",
+        "gebruik": "General theological truths about God's nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The concluding promises."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Story) -> Assertive (Theological Fact) -> Directive (Wait/Examine).",
+      "voorbeelden": [
+        "David worshiped... I think a psalm was born... Wait upon the Lord."
+      ],
+      "probleem": "The 'Wait' is a directive without a preceding declarative 'I set you free' or 'God is here for you'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Lacks the explicit Declarative link.",
+      "voorbeelden": [],
+      "kwaliteit": "Weak"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "The Lord does deliver... so wait upon the Lord."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "The call to 'examine themselves' is not founded in a specific promise of grace."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions primarily as a narrative meditation. It 'talks about' sorrow and God's faithfulness but rarely 'performs' the presence of God through direct address.",
+    "sterke_punten": [
+      {
+        "aspect": "Pathos",
+        "categorie": "Expressive",
+        "tekstueel_bewijs": "The description of the father's 'ache that I cannot describe'.",
+        "effect": "Creates emotional resonance."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The long section on AIDS and chaplains.",
+        "probleem": "Distracts from the performative core of the text.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is a moving speech, but the 'event' of God speaking to the hearer is buried under layers of storytelling.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'I forgive you' or 'God promises you today' intensity."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the talk, but rarely the speaker through the preacher.",
+      "prediker_als_mandataris": "The preacher acts as a witness/storyteller.",
+      "tekstueel_bewijs": [
+        "It is of such a father I speak to you"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly assumed but not articulated.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a source of comfort/information rather than a means of grace.",
+      "epifanisch_taalgebruik": "Low; the language is descriptive rather than revelatory.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense narrative verbs; needs more present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Lord does deliver his people.",
+          "voorgestelde_revisie": "The Lord delivers you now from your sorrow.",
+          "verschil": "Shifts from a general truth to a present-tense event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is hidden in the third person.",
+      "suggestie": "Use the 'Toezegging' (Promise) directly to the congregation.",
+      "voorbeeldzinnen": [
+        "To you who feel betrayed like David: God promises He will not leave you in the Kidron Valley."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'He' (David) and 'I' (Preacher).",
+      "suggestie": "Increase 'You' (Congregation).",
+      "voorbeeldzinnen": [
+        "You are crossing your Jordan tonight."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to 'wait' is a heavy burden without a declarative of presence.",
+      "suggestie": "Declare God's presence before commanding the wait."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is homiletically beautiful but needs more illocutionary 'teeth' to become a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'Self-revelation' (the Brooklyn story). SAT reveals that this story, while moving, remains constative and does not perform a divine act.",
+    "verschil_met_retoriek": "Rhetorically, the pathos is high. Illocutionarily, the force is low because it describes grace rather than bestowing it.",
+    "unieke_inzichten_SAT": "SAT exposes that the 'I don't know' sections regarding judgment weaken the preacher's authority as a mandatory of the Word."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "was",
+        "remember",
+        "told",
+        "fell",
+        "knew",
+        "entered",
+        "left",
+        "repented",
+        "called",
+        "lingers",
+        "speak",
+        "looks",
+        "turns",
+        "becomes",
+        "seized",
+        "multiplied"
+      ],
+      "directief": [
+        "wait",
+        "be",
+        "examine",
+        "do (no harm)",
+        "must (be careful)"
+      ],
+      "expressief": [
+        "suppose",
+        "pains",
+        "see",
+        "think",
+        "sad"
+      ],
+      "commissief": [
+        "deliver",
+        "leaves",
+        "forsakes",
+        "come back",
+        "get"
+      ],
+      "declaratief": [
+        "speak",
+        "declare"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The Lord does deliver his people.",
+        "categorie": "Assertive/Commissive",
+        "illocutionaire_kracht": "Weak Commissive",
+        "effectiviteit": "Moderate; lacks direct address."
+      },
+      {
+        "zin": "Oh, Absalom, my son, my son, would to God I had died in thy stead.",
+        "categorie": "Expressive",
+        "illocutionaire_kracht": "Strong Pathos",
+        "effectiviteit": "High for locutionary beauty, low for performative event."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'Brooklyn story' to carry the emotional weight, which risks subjectivism (Expressive surplus)."
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "titel_preek": "A Question Out Of The Darkness",
+    "bijbeltekst": "Luke 7:18–22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from doubt and 'grip-slipping' in the darkness of suffering to a renewed confidence in God's providence through the observation of His past and present record.",
+      "subject": {
+        "identificatie": "The Hearer/Individual (The 'I' or 'You')",
+        "tekstueel_bewijs": [
+          "What is one to do then? What can one do?",
+          "He decided to put the matter before the Master.",
+          "Look around now and you will see... in your life signs that God is at work."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Confidence/Steadfastness ('The Grip')",
+        "tekstueel_bewijs": [
+          "What is one to do then?",
+          "My grip nearly slipped.",
+          "What have I to ask beside?"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Experience of Suffering/The Human Condition",
+        "tekstueel_bewijs": [
+          "imprisoned in ugly, terrifying conditions",
+          "night of despair closes in upon us"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Troubled Soul",
+        "tekstueel_bewijs": [
+          "he will make it serve his purpose and our good."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "God's Record/Evidence of Providence",
+        "tekstueel_bewijs": [
+          "Tell him to make his decision upon the basis of my record.",
+          "consider how it has been with us in the past"
+        ],
+        "rol_van_god": "God is primarily a 'Helper' or 'Defendant' providing evidence to the Subject.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Doubt/Despair/Circumstances",
+        "tekstueel_bewijs": [
+          "choking fingers of despair",
+          "dull, rusty sword"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is framed as the internal feeling of despair resulting from external 'routine of quiet desperation' rather than cosmic sin or death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "John the Baptist's historical doubt and Jesus' response.",
+      "subject": "John the Baptist",
+      "object": "Certainty of Jesus' identity",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "John's story serves as an exemplar for the hearer's current psychological state."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Human Suffering → Evidence of Mercy → The Troubled Soul",
+      "helper_subject_tegenstander": "God's Record → The Hearer ← Despair/Doubt",
+      "subject_naar_object": "The Hearer → Maintaining the 'Grip' of Faith"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "38",
+      "ratio": "0.36",
+      "voorbeelden_god_subject": [
+        "God pleads, but always with the note of one who is in command.",
+        "Jesus doeth all things well.",
+        "He states his case."
+      ],
+      "voorbeelden_mens_subject": [
+        "What is one to do then?",
+        "A person can lose one's faith in the darkness if he or she is not careful.",
+        "You and I may have cried out ever so desperately."
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we ought to try to brace ourselves",
+          "we ought to consider how it has been with us"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "He decided to put the matter before the Master.",
+          "If a soul must doubt... let him first feel..."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Tell John what you have seen and heard.",
+          "look around now and you will see"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "What can one do?",
+          "muster a bitter, angry complaint"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "The sermon assumes that if the hearer 'knows' or 'remembers' God's past record, they will have the 'power' to hold on. It is a cognitive-therapeutic approach."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Confidence (The Grip)",
+      "s2": "Despair (The Darkness)",
+      "niet_s1": "Doubt (The Slip)",
+      "niet_s2": "Evidence (The Record)"
+    },
+    "beweging_in_preek": "Movement from S1 (Initial faith) to ~S1 (Doubt) to S2 (Despair), then attempting to reach S1 again via ~S2 (Evidence).",
+    "theologische_resolutie": "Resolution is found in the Subject's decision to 'look around' and 'remember' rather than a new act of God.",
+    "ernst_van_s2": "S2 is treated as a psychological threat to the individual's well-being rather than a theological state of alienation."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While it uses high Christological language, the 'engine' is anthropocentric. God is the object of our investigation and the helper of our faith-maintenance, rather than the primary actor who delivers from the darkness.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Faith Maintenance",
+        "tekstueel_bewijs": "A person can lose one's faith in the darkness if he or she is not careful and prayerful.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Unconditional Acceptance of Lament",
+        "tekstueel_bewijs": "God will accept whatever it is we truly have to lift up before him.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "John the Baptist is used as a model for how the hearer should handle their own doubt.",
+      "bijbelse_figuren_als_model": [
+        "John the Baptist"
+      ],
+      "alternatieve_lezing": "Focus on Jesus as the one who fulfills the signs of the kingdom despite the 'darkness' of the prison, regardless of John's ability to 'hold on'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Places the burden of 'holding on' (the grip) on the hearer's willpower and memory.",
+      "theologische_implicatie": "Soteriology is reduced to the maintenance of a psychological state of trust."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The transition from John's story to the hearer's life is smooth but shifts the focus from God's objective action to the hearer's subjective perception.",
+      "spanning_punten": [
+        "Jesus says 'the dead are raised' (objective power), but the preacher tells the hearer to 'feel the warming sun' (subjective comfort)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Tell him to make his decision upon the basis of my record.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer must muster their own 'vouloir' (will) to look at the evidence."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is treated as 'losing one's grip' or 'doubting' rather than an ontological condition."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (through maintaining faith)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'call to remember' where the Hearer is the Subject and God's past actions are the Helper. The Object is the restoration of the Hearer's faith.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one who must 'brace' themselves and 'not let the grip slip'.",
+      "voorgestelde_herpositionering": "Make Jesus the Subject who holds the hearer, rather than the hearer holding Jesus.",
+      "voorbeeld_revisie": "Instead of 'My grip nearly slipped,' use 'When my grip slipped, His hand held me fast.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero who must decide based on the record.",
+      "voorgestelde_identificatie": "Hearer as the 'Poor' to whom the Gospel is preached (Receiver).",
+      "strategie": "Focus on the passive verbs in the Luke text (lepers are cleansed, dead are raised)."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Savoir (Knowing the record) and Devoir (We ought to consider).",
+      "voorgestelde_balans": "Pouvoir (God's power to raise the dead).",
+      "concrete_suggestie": "Emphasize that the same power that raised the dead is currently operating in the 'darkness' regardless of the hearer's 'grip'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Doubt as a 'dull sword'.",
+      "voorgestelde_intensivering": "Present the 'darkness' as a power that only the 'He that should come' can conquer.",
+      "theologische_rationale": "If the opponent is just 'bad feelings', the Savior is just a 'good memory'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The 'Secondary Program' (our response) has swallowed the 'Primary Program' (God's deliverance).",
+      "voorgestelde_structuur": "1. Christ comes to the prison (Soteriology). 2. We lament and look to Him (Ethics/Response)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and empathetic, but structurally places the weight of salvation on the hearer's cognitive ability to remember God's goodness."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is comforting; actantially, it is demanding (it requires the hearer to perform the 'looking').",
+    "verschil_met_exegese": "Exegesis would focus on the Messianic signs of Isaiah; Greimas shows these signs are used here as 'evidence' for a human jury.",
+    "unieke_inzichten_greimas": "Greimas reveals that God has been moved from 'Subject' (the one who acts) to 'Helper' (the one who provides evidence for the human Subject)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "John sent",
+      "Jesus cured",
+      "You have tried",
+      "You are imprisoned",
+      "God doesn't do something",
+      "A person can lose faith",
+      "I talked",
+      "He told",
+      "My grip slipped",
+      "He decided",
+      "God will not be put on trial",
+      "He states his case",
+      "You and I may have cried",
+      "You will see",
+      "We are ready to conclude",
+      "We ought to consider"
+    ],
+    "volledige_object_lijst": [
+      "the matter",
+      "the question",
+      "his case",
+      "the answer",
+      "signs",
+      "the warming sun",
+      "the grip"
+    ],
+    "werkwoord_frequentie": {
+      "doubt": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "see/look": {
+        "count": 8,
+        "primair_subject": "Man"
+      },
+      "lead": {
+        "count": 3,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Axis of Transmission' (Sender to Receiver) but misidentifies the Sender as the human experience of suffering rather than the Divine Mandate."
+  }
+}

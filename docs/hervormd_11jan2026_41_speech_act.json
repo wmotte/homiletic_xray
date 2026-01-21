@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "titel_preek": "Een ritme van rust",
+    "bijbeltekst": "Deuteronomium 5:12-15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon addresses the problem of a hurried life and the 'powers' that enslave us. It explains the Sabbath commandment in Deuteronomy as a gift of liberation and provides practical tips for slowing down.",
+      "exegetische_kwaliteit": "Moderate. It correctly identifies the shift from creation (Exodus) to liberation (Deuteronomy) and explains the Hebrew 'zakar'.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the state of modern life and directing the audience toward lifestyle changes (tips).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Ik zou zeggen: tuurlijk.",
+        "In Deuteronomium staat de sabbatdag in het teken van de bevrijding.",
+        "Ga eens in de langste kassa staan."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel motivated to change their schedule and experience less stress.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of change or the one making the word effective.",
+      "perlocutionaire_werkwoorden": [
+        "vertragen",
+        "oefenen",
+        "onthaasten",
+        "herinneren"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "High",
+      "procent": "65%",
+      "voorbeelden": [
+        "Het leven dendert maar door.",
+        "We zitten hier in de kerk omdat we geloven dat de Heere God ons bevrijd heeft.",
+        "Dit is geen pleidooi voor een nieuwe manier van christen zijn."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "zijn",
+        "betekent",
+        "geloven"
+      ]
+    },
+    "directieven": {
+      "frequentie": "Moderate",
+      "procent": "25%",
+      "voorbeelden": [
+        "Houd rust.",
+        "Zeg gewoon nee.",
+        "Koop een wekker.",
+        "Ga eens met elkaar in gesprek."
+      ],
+      "dominante_werkwoorden": [
+        "moeten",
+        "ga",
+        "doe",
+        "koop"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "Low",
+      "procent": "5%",
+      "voorbeelden": [
+        "Het lijkt me ook doodeng.",
+        "Ik vind het zelf ook best ingewikkeld hoor."
+      ],
+      "dominante_werkwoorden": [
+        "vinden",
+        "lijken"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "Very Low",
+      "procent": "3%",
+      "voorbeelden": [
+        "Je maakt een goede kans dat je niet opbrandt."
+      ],
+      "dominante_werkwoorden": [
+        "maken (kans)"
+      ],
+      "kwaliteit": "Weak. Promises are framed as 'probabilities' or 'chances' rather than divine certainties."
+    },
+    "declaratieven": {
+      "frequentie": "Minimal",
+      "procent": "2%",
+      "voorbeelden": [
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "Low. The preacher speaks as a coach/peer rather than a mandatory of God."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive descriptions of modern life (WhatsApp, traffic, agenda).",
+        "Talking 'about' the Sabbath rather than 'granting' rest.",
+        "Third-person descriptions of God's past actions."
+      ],
+      "effect_op_hoorder": "The hearer receives information and advice, but not a sacramental encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct promise of grace",
+        "Divine address ('God says to you today...')"
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'to-do' list (Directives) without the 'done' of the Gospel (Commissives)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Absent. The 'promise' is framed as a psychological benefit of the tips.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Preacher as an example/peer ('Wij op de Witteberg')."
+      },
+      "tweede_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Used for 'tips' and rhetorical questions, rarely for sacramental address."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Describing 'the people', 'the society', 'the youth'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Israel in the desert."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about stress and technology."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The interaction with the congregation (hand-raising)."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Life is busy) -> Directive (Do these 3 things).",
+      "voorbeelden": [
+        "We zitten vast... Maar midden in die gebrokenheid moeten wij leren... Drie praktische tips."
+      ],
+      "probleem": "The 'event' of grace is replaced by a 'program' of self-improvement."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Houd rust, want de Heere God heeft de wereld... zo gemaakt dat je het nodig hebt."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "The sermon functions as a 'lifestyle coach' session. It diagnoses a problem (stress) and offers a cure (discipline), but lacks the illocutionary force of God acting upon the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Engagement",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The opening poll about car speed.",
+        "effect": "Creates immediate connection with the audience."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Je maakt een goede kans dat je niet opbrandt.",
+        "probleem": "Grace is presented as a probability, not a promise.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a conversation about an event (the Sabbath), but not an event in itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not use his mandate to declare anything on behalf of God."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of discussion.",
+      "prediker_als_mandataris": "No. Preacher acts as an advisor.",
+      "tekstueel_bewijs": [
+        "Ik wil daar een aantal dingen van delen... om jullie ervan ook eens te prikkelen."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is attributed to 'oefenen' (practice) rather than the Spirit.",
+      "tekstueel_bewijs": [
+        "Die oefening van het vertragen die vraagt dus wel om juist dat, om oefenen."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. Sermon as an information/motivation medium.",
+      "epifanisch_taalgebruik": "No.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'musts' (directives) and 'is/ares' (assertives). Almost no 'I promise you' or 'God declares you free'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "We zitten hier in de kerk omdat we geloven dat de Heere God ons bevrijd heeft.",
+          "voorgestelde_revisie": "In de naam van Jezus Christus verkondig ik u: u bent bevrijd van de machten die u opjagen.",
+          "verschil": "Shifts from a statement of belief to a declarative event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is hidden in 'tips'.",
+      "suggestie": "Use the authority of the text to grant rest.",
+      "voorbeeldzinnen": [
+        "God belooft u vandaag: Mijn rust is voor u."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' (inclusive but vague) and 'they' (the world).",
+      "suggestie": "Use 'U' (You) for the promise.",
+      "voorbeeldzinnen": [
+        "U hoeft niet meer te rennen."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative (tips) is not grounded in a performative indicative.",
+      "suggestie": "First declare the hearer free, then suggest how to live as a free person."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is highly relatable and pedagogically strong, but homiletically it remains 'talking about' the Gospel rather than 'performing' the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' (tips) and 'self-revelation' (Witteberg). SAT reveals that the 'appeal' lacks a 'declarative' foundation.",
+    "verschil_met_retoriek": "Rhetorically it is good (ethos/pathos), but illocutionarily it is weak (no commissives).",
+    "unieke_inzichten_SAT": "SAT exposes that the sermon functions as a lecture on spiritual discipline rather than a sacramental event of liberation."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "zijn",
+        "betekent",
+        "geloven",
+        "lezen",
+        "staat",
+        "hebben",
+        "gebeurt"
+      ],
+      "directief": [
+        "moeten",
+        "ga",
+        "doe",
+        "koop",
+        "zeg",
+        "houd",
+        "oefen"
+      ],
+      "expressief": [
+        "vinden",
+        "lijken",
+        "hopen"
+      ],
+      "commissief": [
+        "beloven (absent)",
+        "toezeggen (absent)"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Houd rust, want de Heere God heeft de wereld... zo gemaakt.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Commanding based on a fact.",
+        "effectiviteit": "Moralistic."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher explains the need for rest but does not 'give' rest through the Word."
+  }
+}

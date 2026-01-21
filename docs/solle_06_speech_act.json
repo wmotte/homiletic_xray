@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "titel_preek": "Gilt die Verheißung allen Menschen?",
+    "bijbeltekst": "Lukas 4:18-19 (implizit)",
+    "analyse_datum": "2024-05-20",
+    "geschat_aantal_woorden": "450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Theological-political reflection on the contextuality of the Gospel, specifically Liberation Theology. It discusses who the 'all' in 'for all' refers to, focusing on the poor and oppressed.",
+      "exegetische_kwaliteit": "Theological-historical rather than textual. It focuses on the 'Sitz im Leben' of the readers rather than the grammar of the Greek text.",
+      "omvang_procent": "95%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher is primarily arguing a thesis and critiquing a specific hermeneutic (bourgeois neutrality).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Das Evangelium steht nicht über den Klassenkämpfen.",
+        "Das 'für alle' ist ein Trick der Bourgeoisie."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellectual provocation, political solidarity, and self-criticism of the wealthy hearer.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned as a subject of the text, but not as the active agent of the preaching event itself.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "critique",
+        "rethink",
+        "solidarize"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "42",
+      "procent": "85%",
+      "voorbeelden": [
+        "Dieser Text ist einer der Grundtexte...",
+        "Unsere Normalexegese neigt dazu...",
+        "Das geht nicht kostenfrei."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "gehören",
+        "neigen",
+        "stehen"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "8%",
+      "voorbeelden": [
+        "muss man sich die Situation... vor Augen führen",
+        "müssen wir zunächst einmal zuhören"
+      ],
+      "dominante_werkwoorden": [
+        "müssen",
+        "zuhören"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "2",
+      "procent": "4%",
+      "voorbeelden": [
+        "Ich denke an Soweto"
+      ],
+      "dominante_werkwoorden": [
+        "denken"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "1",
+      "procent": "2%",
+      "voorbeelden": [
+        "dann gewinnen wir Anteil an ihr (conditional promise)"
+      ],
+      "dominante_werkwoorden": [
+        "gewinnen"
+      ],
+      "kwaliteit": "Weak. The promise is made conditional upon human action (solidarity)."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "None. The preacher does not speak 'in persona Christi' to change the hearer's status."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive talk about the history of the text's reception.",
+        "Abstract definitions of 'the bourgeoisie' and 'class struggle'.",
+        "Third-person descriptions of what the Gospel 'is' or 'does' elsewhere."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a theological debate rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Moral pressure to solidarize without the creative power of the Word to enable that solidarity."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The 'Verheißung' is discussed as a concept, but never actually uttered as a performative act to the congregation.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "8",
+        "gebruik": "Mostly 'we' (inclusive of the preacher in the 'rich' category)."
+      },
+      "tweede_persoon": {
+        "frequentie": "0",
+        "gebruik": "None. The congregation is never directly addressed as 'You'."
+      },
+      "derde_persoon": {
+        "frequentie": "35",
+        "gebruik": "Dominant. Talking about 'the text', 'the poor', 'the bourgeoisie'.",
+        "distantie_effect": "High. It creates a lecture-hall atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "20%",
+        "gebruik": "Historical context of the text."
+      },
+      "tijdloos_present": {
+        "frequentie": "70%",
+        "gebruik": "Theological and political principles."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The current moment of listening."
+      }
+    },
+    "adressering_effectiviteit": 2
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of class struggle) -> Directive (We must listen/solidarize).",
+      "voorbeelden": [
+        "This text is for the poor (Assertive) -> So we must listen (Directive)."
+      ],
+      "probleem": "The 'Gospel' is presented as a law or a condition rather than a gift that enables action."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Non-existent."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Nur wenn wir solidarisch werden... dann gilt sie auch uns."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a theological lecture on hermeneutics. It talks *about* the promise but does not *mediate* the promise.",
+    "sterke_punten": [
+      {
+        "aspect": "Clarity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Das Evangelium steht nicht über den Klassenkämpfen.",
+        "effect": "Intellectual honesty."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire text",
+        "probleem": "No 'You' (Du/Ihr).",
+        "ernst": "CRITICAL"
+      },
+      {
+        "aspect": "Conditional Grace",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "Nur wenn wir solidarisch werden...",
+        "probleem": "Turns the promise into a law.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a 'talking about' event, not a 'happening' of grace.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "The preacher does not use the keys of the kingdom to bind or loose, but to explain a social theory."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The text/theology is the subject.",
+      "prediker_als_mandataris": "No. The preacher acts as a social critic.",
+      "tekstueel_bewijs": [
+        "Dieser Text ist...",
+        "Die Theologien sagen..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Only as a historical force in the text.",
+      "perlocutie_theologie": "No. The effect is expected through human solidarity.",
+      "tekstueel_bewijs": [
+        "Der Geist... kann nicht gut der Geist der Gesetzesparagraphen sein."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a tool for consciousness-raising (Bewusstseinsbildung).",
+      "epifanisch_taalgebruik": "No.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is paralyzed by 'is' and 'must'. It lacks 'I promise' and 'You are'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Dieser Text ist für die Armen geschrieben.",
+          "voorgestelde_revisie": "Hört: Gott spricht heute zu euch, die ihr arm seid.",
+          "verschil": "Shifts from information to address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is conditional.",
+      "suggestie": "Proclaim the liberation as a gift that precedes the struggle.",
+      "voorbeeldzinnen": [
+        "Christus befreit dich heute von deiner Gier."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Total absence of the second person.",
+      "suggestie": "Use 'Euch' and 'Du'.",
+      "voorbeeldzinnen": [
+        "Was bedeutet dieses Jahr des Herrn für euch in euren Berufen?"
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'solidarize' is not founded in a performative indicative.",
+      "suggestie": "Declare the hearer as 'freed' first."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The theological insight is sharp, but it remains 'trapped in the head'. To become an 'event', the word must move from the third person to the second."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Sachebene' (class struggle) and 'Appell' (solidarity). SAT reveals that the 'Beziehungsebene' is missing because the 'Declarative' (God's act) is absent.",
+    "verschil_met_retoriek": "Rhetorically, this is a strong persuasive speech. Homiletically (SAT), it fails because it does not perform what it describes.",
+    "unieke_inzichten_SAT": "SAT exposes that even 'radical' theology can be 'constative' and thus non-transformative in the sacramental sense."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "gibt",
+        "zitiert",
+        "ausgelegt",
+        "gefunden",
+        "gehören",
+        "gebrauchen",
+        "neigt",
+        "verdunkelt",
+        "kann",
+        "denke",
+        "stattfanden",
+        "steht"
+      ],
+      "directief": [
+        "muss",
+        "müssen",
+        "zuhören"
+      ],
+      "expressief": [
+        "denke",
+        "hoffen (implied)"
+      ],
+      "commissief": [
+        "gewinnen (conditional)"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Das Evangelium steht mitten in den Klassenkämpfen.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong assertion of a theological position.",
+        "effectiviteit": "Informative but not performative."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' liberation without 'liberating' the hearer through the word."
+  }
+}

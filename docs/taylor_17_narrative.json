@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "titel_preek": "A Sermon About Failure",
+    "bijbeltekst": "Numbers 13:31-33",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human struggle to overcome failure and national indecision by adopting the correct 'look' (outward, inward, upward) to achieve success and moral greatness.",
+      "subject": {
+        "identificatie": "The Individual / The Nation (The Hearer)",
+        "tekstueel_bewijs": [
+          "The Israelites had to decide whether they were ready to commit themselves",
+          "Every person must take what he is and what he has and make... something good enough"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Success / Moral Commitment / Victory over 'Giants'",
+        "tekstueel_bewijs": [
+          "leads on to victory",
+          "bring that decision to a successful issue",
+          "make a life"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "God as Mandator / Moral Law",
+        "tekstueel_bewijs": [
+          "To see the right and to seize it and to serve it no matter the cost is God's mandate"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Self / The Nation",
+        "tekstueel_bewijs": [
+          "determines the difference between success and failure",
+          "make his firm rich and famous"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "God's Help / Memory of Past Miracles / Personal Talents",
+        "tekstueel_bewijs": [
+          "even with God's help",
+          "God gives us a little talent... and tells us to make a life",
+          "remembering what God has done for us in the past"
+        ],
+        "rol_van_god": "God is instrumental (Helper) to the human Subject.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Fear / Defeatism / Indecision / 'Giants' (Problems)",
+        "tekstueel_bewijs": [
+          "Because of fear and defeatism",
+          "the serious weakness of undue reluctance",
+          "the giants in our problems"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The 'giants' are externalized problems, but the real battle is the internal 'faulty look' or lack of 'stamina'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The historical/biblical account of the spies in Canaan used as a template for modern behavior.",
+      "subject": "The Spies (Caleb/Joshua vs. The Ten)",
+      "object": "The Land of Promise",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The biblical narrative is used as an 'exemplum' (example) to justify the primary ethical program of the hearer's self-improvement."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Mandator) → Success/Victory → The Hearer",
+      "helper_subject_tegenstander": "God's Help/Talents → The Hearer ← Fear/Indecision",
+      "subject_naar_object": "The Hearer → Moral Commitment"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God gives us a little talent",
+        "God lives and leads his people"
+      ],
+      "voorbeelden_mens_subject": [
+        "The Israelites had to decide",
+        "We are always passing through",
+        "We ought to look up",
+        "A man is on his way to victory when he resolves"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "must be flung into the balance",
+          "must be made",
+          "God's mandate to this land",
+          "we ought to look up"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "whether they were ready to commit",
+          "the inability to make a moral commitment"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "three reasons why so many of us are failures",
+          "take a true account of what the odds are"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "capacity to make decisions",
+          "we be not able"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Devoir) and assumes that if the hearer corrects their 'look' (Savoir), they will have the power (Pouvoir) to succeed."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Success/Victory",
+      "s2": "Failure/Defeat",
+      "niet_s1": "Indecision/Reluctance",
+      "niet_s2": "Brashness/False Confidence"
+    },
+    "beweging_in_preek": "From S2 (Failure) through ~S1 (Indecision) toward S1 (Success via the 'Upward Look').",
+    "theologische_resolutie": "Resolution is achieved through human resolve and 'lifting eyes,' not through a divine act of rescue.",
+    "ernst_van_s2": "S2 is treated as a moral/psychological failure rather than an ontological state of sin."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon's engine is human volition. God is reduced to a 'Helper' or a 'Mandator' who provides the 'talent' while the human Subject must 'make a life' and 'seize the initiative.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "If you believe... then you are already defeated.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "even with God's help",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Mention of Grace",
+        "tekstueel_bewijs": "make, by God's grace, something good enough",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Caleb and Joshua are presented as models of 'stamina' and 'correct looking' rather than recipients of God's sovereign choice.",
+      "bijbelse_figuren_als_model": [
+        "Caleb",
+        "Joshua"
+      ],
+      "alternatieve_lezing": "God preserves a remnant despite their faithlessness to fulfill His own covenant promise."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; anxiety regarding the 'moment of decision.'",
+      "theologische_implicatie": "Soteriology is replaced by self-actualization."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically inconsistent, mixing secular quotes (Shakespeare, Bernays) with scripture as equal sources of 'wisdom.'",
+      "spanning_punten": [
+        "The use of a jeweler's business success as a parallel to God's kingdom work."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "God gives us a little talent... and tells us to make a life.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not mentioned as the source of Pouvoir (Power)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as 'indecision' or 'faulty looking' rather than rebellion or death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (through national/personal greatness)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a motivational speech where the Hearer is the Subject and God is a resource. The narrative arc moves from 'Failure' to 'Success' via 'Correct Perspective.'",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one who must 'seize the right.'",
+      "voorgestelde_herpositionering": "God as the Subject who brings His people into the land despite their grasshopper-mentality.",
+      "voorbeeld_revisie": "Instead of 'We must look up,' use 'God looks down in mercy and carries us when we are too afraid to move.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'hero' who chooses like Joshua.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 'grasshoppers' who are nonetheless loved and led by a Giant God."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (God's Power)",
+      "concrete_suggestie": "Focus on God's 'Pouvoir-faire' (His ability to save) rather than our 'Devoir-faire' (our duty to decide)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Psychological 'faulty looks.'",
+      "voorgestelde_intensivering": "Sin as an inescapable prison that only a Divine Subject can break.",
+      "theologische_rationale": "Without a heavy opponent, grace is merely 'help' rather than 'rescue.'"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (making a life) precedes and replaces Soteriology (God saving).",
+      "voorgestelde_structuur": "1. God's faithfulness to the promise. 2. Our response of faith."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has strong rhetorical flow but requires a radical 'Subject-switch' to move from a pep-talk to a Gospel proclamation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is effective and moving; actantially, it is anthropocentric.",
+    "verschil_met_exegese": "Exegesis would note that the land was a gift (grace), but the sermon treats it as a prize for the decisive.",
+    "unieke_inzichten_greimas": "Greimas reveals that God is merely an 'Adjuvant' (Helper) in this text, which exposes its underlying Pelagian structure."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Israelites (decide)",
+      "We (pass through)",
+      "Nation (rise)",
+      "Spies (look)",
+      "You (believe)",
+      "God (gives/leads)"
+    ],
+    "volledige_object_lijst": [
+      "Decision",
+      "Victory",
+      "Greatness",
+      "Success",
+      "A life"
+    ],
+    "werkwoord_frequentie": {
+      "decide/decision": {
+        "count": "14",
+        "primair_subject": "Man"
+      },
+      "look": {
+        "count": "18",
+        "primair_subject": "Man"
+      },
+      "save": {
+        "count": "0",
+        "primair_subject": "N/A"
+      }
+    },
+    "notities": "The sermon uses 'God's grace' as a decorative term rather than a structural engine."
+  }
+}

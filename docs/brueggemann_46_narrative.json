@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "The Church with a Middle Name: 'West . . . Water and Vegetables . . . Minster'",
+    "bijbeltekst": "Daniel 1; Romans 12",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The church (Daniel) must maintain its acute faith identity by resisting the 'junk food' of the empire (culture) through the discipline of 'water and vegetables' (gospel practices) to become healthy and effective in a complicated world.",
+      "subject": {
+        "identificatie": "The Church / The Hearer (as Daniel)",
+        "tekstueel_bewijs": [
+          "Daniel resolved to avoid the junk food",
+          "a serious church... will have to work at an acute faith identity",
+          "this church... able to live its life in trust"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Acute Faith Identity / Health / Effectiveness",
+        "tekstueel_bewijs": [
+          "maintain their acute faith identity",
+          "produce well-being in the world of raw power",
+          "energy for mission"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Preacher / The Biblical Example (Daniel)",
+        "tekstueel_bewijs": [
+          "I take the liberty of proposing that Westminster Presbyterian Church... take as its middle name, 'vegetables and water'",
+          "Everyone in faith knows that..."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Next Generation / The Church itself",
+        "tekstueel_bewijs": [
+          "make a glorious difference in the community",
+          "what our children so need to receive from us"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Discipline / The Gospel (as a resource)",
+        "tekstueel_bewijs": [
+          "demands and disciplines of faith",
+          "sticking to the vegetables and water of the gospel"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Culture (Empire) / Junk Food (Anxiety, Greed, Vengeance)",
+        "tekstueel_bewijs": [
+          "junk food of culture",
+          "culture of fear and anxiety",
+          "culture of greed and selfishness"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily a set of cultural habits and social pressures rather than a cosmic or ontological power."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God acts to provide newness, generosity, and forgiveness.",
+      "subject": "God",
+      "object": "Newness / Gifts / Forgiveness",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "God's action is described as the 'reason' the church can act, but the narrative focus remains on the church's choice to 'eat' or 'resist'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Preacher/Daniel → Identity/Health → The World",
+      "helper_subject_tegenstander": "Discipline → The Church ← Cultural Junk Food",
+      "subject_naar_object": "The Church → Acute Faith Identity"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "It is God who enacts newness",
+        "God is a generous giver",
+        "God is the one who forgives endlessly"
+      ],
+      "voorbeelden_mens_subject": [
+        "Daniel resolved to avoid the junk food",
+        "We mistakenly imagine that it can be filled",
+        "The church receives its life",
+        "Imagine Westminster Church... set down in a culture"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "will have to work at an acute faith identity",
+          "requires commitment and shrewdness",
+          "take as its middle name 'vegetables and water'"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Daniel resolved",
+          "imagine the church... confident and free"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "the church knows that it is God",
+          "Everyone in faith knows"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "They were able to accomplish that precisely because they did not compromise"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon emphasizes the obligation (Devoir) of the church to maintain its identity. Power (Pouvoir) is treated as a result of human discipline rather than a gift of grace."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Faith Identity (Vegetables)",
+      "s2": "Cultural Assimilation (Junk Food)",
+      "niet_s1": "Compromise/Defilement",
+      "niet_s2": "Asceticism/Discipline"
+    },
+    "beweging_in_preek": "From S2 (Culture) through ~S2 (Discipline) to S1 (Identity).",
+    "theologische_resolutie": "The tension is resolved through human 'resolve' and 'discipline'.",
+    "ernst_van_s2": "S2 is seen as 'junk food'—unhealthy but not necessarily fatal or inescapable without divine intervention."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon mentions God's attributes, the actantial subject is consistently the Church/Daniel. God is the 'reason' or 'motivation' for action, but the Church is the one performing the action of resisting and choosing.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "The reason the church acts free... is that the church knows that it is God who makes all things new.",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Performance-based health",
+        "tekstueel_bewijs": "They were able to accomplish that precisely because they did not compromise their faith.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Theocentric Motivation",
+        "tekstueel_bewijs": "motivated by gratitude for generosity from God",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Daniel is presented as a model of resolve and discipline for the church to emulate.",
+      "bijbelse_figuren_als_model": [
+        "Daniel",
+        "Shadrach",
+        "Meshach",
+        "Abednego"
+      ],
+      "alternatieve_lezing": "God preserves His people in exile despite the overwhelming power of the empire."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; focus on self-discipline and 'resolve'.",
+      "theologische_implicatie": "Sanctification is a human work fueled by information about God."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The 'vegetable' metaphor is consistently applied, but the transition from God's character to human duty is often a 'so' (causal) that places the burden on the human subject.",
+      "spanning_punten": [
+        "God makes all things new vs. The church must work at identity."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The church acts differently because it is motivated by gratitude for generosity from God.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer has the 'Pouvoir' (power) if they have the 'Savoir' (knowledge)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'junk food'—a bad choice that leads to poor health, rather than a state of death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is structurally anthropocentric. The Church is the hero; God is the landscape or the pantry.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The church is the subject of 'resisting', 'working', and 'maintaining'.",
+      "voorgestelde_herpositionering": "God as the one who feeds, preserves, and distinguishes His people.",
+      "voorbeeld_revisie": "Instead of 'Daniel resolved', use 'God gave Daniel favor and the strength to stand.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'heroic' Daniel.",
+      "voorgestelde_identificatie": "Hearer as the hungry exile who is fed by God.",
+      "strategie": "Emphasize the impossibility of resisting the 'empire' without the Spirit."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (God's enabling power).",
+      "concrete_suggestie": "Focus on how the Gospel *creates* the desire it requires."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Culture is 'junk food'.",
+      "voorgestelde_intensivering": "Culture/Sin as a 'defilement' that we cannot wash off ourselves.",
+      "theologische_rationale": "To make grace necessary rather than just helpful."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) is fused with Soteriology (Program 1).",
+      "voorgestelde_structuur": "God's preservation (Soteriology) → Church's identity (Ethics)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The metaphor is rhetorically brilliant, but ensure the 'engine' of the sermon is God's faithfulness, not the church's 'resolve'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'middle name' is a clever hook; semiotically, it functions as a new Law.",
+    "verschil_met_exegese": "Exegesis might focus on the historical context of Daniel; semiotics reveals the hearer is being cast as Daniel.",
+    "unieke_inzichten_greimas": "Reveals that God is an Adjuvant (Helper) rather than the Subject of the sermon's primary action."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Daniel (resisted)",
+      "The Church (will have to work)",
+      "We (imagine)",
+      "God (enacts)",
+      "The Church (receives)"
+    ],
+    "volledige_object_lijst": [
+      "Acute faith identity",
+      "Junk food",
+      "Newness",
+      "Generosity"
+    ],
+    "werkwoord_frequentie": {
+      "imagine": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "forgive": {
+        "count": "5",
+        "primair_subject": "God/Man"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Imagine' imperative, which functions as a call to mental/willful performance."
+  }
+}

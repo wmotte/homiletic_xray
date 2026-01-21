@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "titel_preek": "Neighbor Religion That Lets a City Work",
+    "bijbeltekst": "Isaiah 58:3-9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The restoration of the city's viability and the reception of God's presence through the performance of social justice and 'true religion'.",
+      "subject": {
+        "identificatie": "The Hearer / The Community (The 'We')",
+        "tekstueel_bewijs": [
+          "we also have forgotten what will make a city work",
+          "We are now having to learn",
+          "You first have to ask about God",
+          "The fast is required of us"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "A working city / Light / God's presence ('Here I am')",
+        "tekstueel_bewijs": [
+          "what it would take to rebuild the city",
+          "the kind of piety that counts with God",
+          "your light shall break forth like the dawn"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Prophet/God as Lawgiver",
+        "tekstueel_bewijs": [
+          "God says: Is not this the fast that I choose",
+          "authorized by the God of the Bible"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The City / The Poor / The Community",
+        "tekstueel_bewijs": [
+          "the city becomes both pro-God and pro-life",
+          "all God’s children in this place come to new life"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Bible / Lenten Reflection / True Religion",
+        "tekstueel_bewijs": [
+          "The Bible writers have a grasp on the fundamental elements",
+          "Lent is the time for cold, sober reflection"
+        ],
+        "rol_van_god": "Absent (God is the rewarder/judge, not the enabler)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Greed / Individualism / False Piety",
+        "tekstueel_bewijs": [
+          "rapaciously greedy and the endlessly clever",
+          "our silly, mistaken individualism",
+          "the aegis of greed"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is framed as a set of bad habits, ideologies, and systemic neglect that can be corrected by 'learning' and 'remembering'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": false,
+      "beschrijving": "There is no distinct soteriological program where God acts independently of human performance.",
+      "subject": "n/a",
+      "object": "n/a",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon collapses the 'Fundamental Program' (God's salvation) into the 'Secondary Program' (Human ethics)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Lawgiver) → Justice/Light → The City",
+      "helper_subject_tegenstander": "The Bible → The Hearer ← Greed/Individualism",
+      "subject_naar_object": "The Hearer → Social Justice → God's Presence"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 48,
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God says: Is not this the fast that I choose",
+        "the LORD will answer",
+        "The God of the Bible so wants human community to work"
+      ],
+      "voorbeelden_mens_subject": [
+        "we also have forgotten",
+        "You first have to ask",
+        "we have not much noticed",
+        "we really are in an emergency"
+      ],
+      "rutledge_score": 2
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "it is my obligation to say it",
+          "doing what must be done",
+          "The fast is required of us"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "community of people like us who want the city to work"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "The poet offers an acute analysis",
+          "we also have forgotten what will make a city work",
+          "We are now having to learn"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "entrusted to people like us"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon assumes that the hearer has the inherent power (Pouvoir) but lacks the knowledge (Savoir) and the obligation (Devoir). It is a 'Recruitment' sermon."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "True Religion (Justice)",
+      "s2": "Urban Tragedy (Oppression)",
+      "niet_s1": "False Piety (Individualism)",
+      "niet_s2": "Civic Functionality"
+    },
+    "beweging_in_preek": "From ~S1 (False Piety) to S2 (Tragedy) to S1 (Justice) as the condition for ~S2 (Healing).",
+    "theologische_resolutie": "Resolution is conditional: 'Then' (v8) occurs only after the human subject performs the fast.",
+    "ernst_van_s2": "S2 is treated as a social consequence of bad choices, not a cosmic state of death requiring divine intervention."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is structurally anthropocentric. God is the Sender of the mandate and the Rewarder of the performance, but the Hearer is the Subject of all transformative action.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "“Then,” when you have done true religion, light will come... Then, and not before.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "God as Instrument/Helper",
+        "tekstueel_bewijs": "When these become the center of policy, the city becomes both pro-God and pro-life.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Desire",
+        "tekstueel_bewijs": "The God of the Bible so wants human community to work",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Jewish exiles are used as a negative example of what happens when we forget, and a positive model for what we must 'learn'.",
+      "bijbelse_figuren_als_model": [
+        "Ancient Jews",
+        "The Poet/Isaiah"
+      ],
+      "alternatieve_lezing": "God is the one who breaks the yoke that the people are too weak to break themselves."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of responsibility; potential for self-righteousness or despair depending on success.",
+      "theologische_implicatie": "Synergism where the human 'fast' is the efficient cause of the divine 'light'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "Highly coherent as a social-ethical manifesto, but theologically incoherent regarding the Gospel of grace.",
+      "spanning_punten": [
+        "The use of 'Easter' as a metaphor for civic renewal rather than divine resurrection."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The fast of humanness is the condition of Easter.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer is already competent if they simply choose to be."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'forgetting' or 'bad religion' rather than an ontological bondage."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Law' sermon without 'Gospel'. The human is the Subject; God is the Spectator/Rewarder.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is told to 'loose the bonds' as if they have the power to do so.",
+      "voorgestelde_herpositionering": "God is the one who looses the bonds, which then enables the community to share bread.",
+      "voorbeeld_revisie": "Because God has loosed your bonds of injustice, you are now free to share your bread."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero who saves the city.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the one wearing the 'yoke' who needs God to break it."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Grace-given ability)",
+      "concrete_suggestie": "Focus on how the Spirit empowers the 'fast' that is otherwise impossible for the greedy heart."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Greed as a mistake.",
+      "voorgestelde_intensivering": "Greed as a 'Power' that holds the heart captive.",
+      "theologische_rationale": "If the opponent is just a mistake, we don't need a Savior, just a teacher."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics is the condition for God's presence.",
+      "voorgestelde_structuur": "God's presence is the ground for Ethics."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically powerful and socially urgent, but it risks crushing the hearer under a new law by making God's 'Here I am' conditional upon human social performance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a prophetic call to action; semiotically, it is a legalistic contract.",
+    "verschil_met_exegese": "Exegesis identifies the 'if/then' in Isaiah, but semiotics exposes that the sermon fails to provide the 'Pouvoir' (power) promised in the New Covenant.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'God' is a passive actant in this text, serving only as a 'Sender' of values and a 'Receiver' of the human fast."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (forgotten)",
+      "Leadership (misread)",
+      "You (fast)",
+      "You (oppress)",
+      "We (compete)",
+      "God (says)",
+      "You (share)",
+      "Light (shall break forth)"
+    ],
+    "volledige_object_lijst": [
+      "City viability",
+      "Bread",
+      "Light",
+      "Healing",
+      "God's answer"
+    ],
+    "werkwoord_frequentie": {
+      "forgotten": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "fast": {
+        "count": 6,
+        "primair_subject": "Man"
+      },
+      "work": {
+        "count": 7,
+        "primair_subject": "City/Man"
+      }
+    },
+    "notities": "The sermon uses 'Easter' as a reward for good behavior rather than the source of new life."
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "The Coming Of The Great King",
+    "bijbeltekst": "Luke 19:41",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God/Jesus offers His kingship and love to a people (Jerusalem/the Hearer) who are expected to receive Him due to their religious heritage, but who are found wanting, leading to divine sorrow and a call for human surrender.",
+      "subject": {
+        "identificatie": "God/Jesus (The King)",
+        "tekstueel_bewijs": [
+          "God's presentation of himself in his kind of kingship",
+          "He beholds the city and its people as he draws nearer",
+          "He comes offering his kingship"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The heart/loyalty of the people (Kingship/Rule)",
+        "tekstueel_bewijs": [
+          "surrender lives and hopes, fortune and future to the tender dominion of his rulership",
+          "to have him reign"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God/The Prophets (The Tradition of Israel)",
+        "tekstueel_bewijs": [
+          "Prophets had promised that God would deliver",
+          "The lyrics of Isaiah had moved through their history"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The Citizens of Jerusalem",
+        "tekstueel_bewijs": [
+          "God offers his kingship to all of us",
+          "unto his own"
+        ],
+        "positie_hoorder": "The hearer is positioned as the Receiver who must become a Subject of response."
+      },
+      "helper": {
+        "identificatie": "Religious Heritage / Knowledge of God",
+        "tekstueel_bewijs": [
+          "privileged to see and sense his goodness",
+          "knowledge of him, who ought to be anxious, eager"
+        ],
+        "rol_van_god": "God is the Subject, but His past actions are used as Helpers for the hearer's current decision.",
+        "rol_van_geest": "Absent; replaced by 'knowledge' and 'privilege'."
+      },
+      "tegenstander": {
+        "identificatie": "Hypocrisy and Internal Resistance (The Mask)",
+        "tekstueel_bewijs": [
+          "Underneath our mask of pious goodness",
+          "They went through the motions of religion, but they lacked the power"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is framed as a lack of sincerity or 'real affection' rather than a cosmic power like Sin or Death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The hearer's response to the passing King: joining the procession.",
+      "subject": "The Hearer",
+      "object": "Self-surrender/Commitment",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The primary program (God's offer) fails or halts, necessitating the secondary program (Man's 'reckless' response) to complete the narrative."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Prophets/Tradition → Kingship/Grace → The Hearer",
+      "helper_subject_tegenstander": "Religious Knowledge → Jesus ← Human Hypocrisy",
+      "subject_naar_object": "Jesus → The Heart of the Hearer"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "38",
+      "ratio": "0.63",
+      "voorbeelden_god_subject": [
+        "God offers his kingship",
+        "Jesus saw the city",
+        "He weeps!"
+      ],
+      "voorbeelden_mens_subject": [
+        "We live by our wits",
+        "we reject him",
+        "you and I ought to fling ourselves"
+      ],
+      "rutledge_score": "5"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "who ought to be anxious, eager, trembling",
+          "you and I ought to fling ourselves"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "who ought to thrill to his presence",
+          "anxious to surrender lives"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "who have had knowledge of him",
+          "They knew the law"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "they lacked the power of real affection"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon heavily emphasizes 'Ought' (Devoir). It assumes that because the hearer 'Knows' (Savoir), they are obligated to 'Will' (Vouloir). It identifies a lack of 'Power' (Pouvoir) but treats it as a moral failure rather than a condition requiring a Subject-switch to the Holy Spirit."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Kingship/Grace",
+      "s2": "Judgment/Thunder",
+      "niet_s1": "Religionism/Masks",
+      "niet_s2": "Wistful Hope/Expectancy"
+    },
+    "beweging_in_preek": "From Wistful Hope (~S2) to the offer of Grace (S1), then falling into Religionism (~S1), ending with the threat of Judgment (S2) to force a return to S1.",
+    "theologische_resolutie": "The tension is resolved through human effort: 'flinging ourselves' into the path.",
+    "ernst_van_s2": "Moderate; judgment is a 'growing thunder' but primarily serves as a motivational tool for the 'ought'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the sermon starts with God as the active Subject (Theocentric), it shifts into a moralistic appeal where the success of the 'Kingship' depends entirely on the hearer's ability to 'fling themselves' (Anthropocentric).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional response based on privilege",
+        "tekstueel_bewijs": "To whom else would God offer his kingship than to a people who had been blessed...?",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Imperatival conclusion (Ought-driven)",
+        "tekstueel_bewijs": "you and I ought to fling ourselves recklessly and magnificently",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Initiator",
+        "tekstueel_bewijs": "The entry was God's presentation of himself",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Divine Pathos",
+        "tekstueel_bewijs": "This is God's sorrow, the heartbreak of the eternal.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jerusalem's failure is used as a negative example to warn the modern hearer against the same 'religionism'.",
+      "bijbelse_figuren_als_model": [
+        "David",
+        "Isaiah",
+        "Paul"
+      ],
+      "alternatieve_lezing": "Instead of 'Don't be like Jerusalem,' the sermon could focus on 'Christ enters the city that kills him to save the very people who reject him.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Produces guilt for 'religionism' followed by a call to heroic willpower ('fling ourselves').",
+      "theologische_implicatie": "Synergism: God offers, but man must complete the transaction through 'magnificent' surrender."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The transition from the historical narrative to the personal application is smooth, but the theological logic is strained by the shift from 'God's presentation' to 'Man's flinging'.",
+      "spanning_punten": [
+        "The King is 'tender' yet his arrival is a 'presentation' that can be rejected, leaving the King weeping and passive."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Ought not this to melt our hearts?",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer has the inherent competence to respond if they simply 'melt'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'religionism' and 'masks'—hypocrisy rather than total depravity."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (through 'fields of conquest')"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon begins with God as Subject but ends with the Hearer as the Subject of the 'march'. God is reduced to a weeping observer of human failure.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'flinging' and 'marching'.",
+      "voorgestelde_herpositionering": "Make Christ the Subject of the 'conquest' of the human heart.",
+      "voorbeeld_revisie": "Instead of 'we ought to fling ourselves,' use 'The King who weeps over us is the same King who will seize our hearts and lead us in His train.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the one who must be 'magnificent'.",
+      "voorgestelde_identificatie": "Hearer as the 'city' that is helpless and needs a King to cleanse it.",
+      "strategie": "Emphasize the 'Hosanna' (Save us!) rather than the 'Lead on' (We will march)."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive Devoir (Ought).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as power).",
+      "concrete_suggestie": "Focus on how the King's tears actually *effect* change, rather than just *requesting* it."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Sin is just 'scheming' and 'dislikes'.",
+      "voorgestelde_intensivering": "Frame the 'city of Mammon' as a power that holds the hearer captive.",
+      "theologische_rationale": "If the opponent is a cosmic power, only a Divine Subject can overcome it."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (marching) is fused with Soteriology (the King's arrival).",
+      "voorgestelde_structuur": "1. The King enters and conquers our rebellion (Soteriology). 2. Therefore, we find ourselves in His procession (Ethics)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a beautiful rhetorical flow and strong biblical imagery, but it risks leaving the hearer under the burden of 'ought' without the empowerment of the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is moving; actantially, it is a 'recruitment' narrative that places the burden on the recruit.",
+    "verschil_met_exegese": "Exegesis shows Jesus weeping over judgment; the sermon uses those tears as a moral lever for commitment.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'King' language, the 'engine' of the sermon is the hearer's 'vouloir-faire' (willingness)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God offers",
+      "Jesus saw",
+      "We reject",
+      "We live",
+      "We ought to fling"
+    ],
+    "volledige_object_lijst": [
+      "Kingship",
+      "The City",
+      "Our lives",
+      "Battle song"
+    ],
+    "werkwoord_frequentie": {
+      "ought": {
+        "count": 7,
+        "primair_subject": "Man"
+      },
+      "behold": {
+        "count": 6,
+        "primair_subject": "Jesus"
+      }
+    },
+    "notities": "The use of the hymn 'Lead on, O King Eternal' at the end solidifies the shift to a military/ethical program where the hearer is the active soldier."
+  }
+}

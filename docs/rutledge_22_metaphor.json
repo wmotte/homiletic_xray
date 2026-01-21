@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "We Will Be There",
+    "bijbeltekst": "Matthew 25:31–46",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1650"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "final, ultimate, conclusive trial of the world",
+          "the crucified One will be the Judge",
+          "stand before the judgment seat",
+          "judged guilty and not fit to live"
+        ],
+        "conceptuele_metafoor": "DIVINE JUDGMENT IS A CRIMINAL TRIAL"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "good-deed checklists",
+          "return on his investment",
+          "totaling up one’s own good deeds",
+          "buy favor with God",
+          "covering our unrighteousness"
+        ],
+        "conceptuele_metafoor": "MORALITY IS FINANCIAL ACCOUNTING"
+      },
+      {
+        "domein_type": "AGRARIAN",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "shepherd separates the sheep from the goats",
+          "judge between sheep and sheep",
+          "flock of sheep"
+        ],
+        "conceptuele_metafoor": "DIVINE SELECTION IS ANIMAL HUSBANDRY"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "If you want to compare good-deed checklists with them, yours will probably come up short.",
+        "brondomein": {
+          "naam": "Administrative Accounting",
+          "concrete_elementen": [
+            "checklist",
+            "shortfall",
+            "comparison of lists"
+          ],
+          "belichaamde_basis": "balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sanctification/Works",
+          "doctrinale_traditie": "Protestant/Reformed"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Checklist items",
+            "doel_element": "Moral actions"
+          },
+          {
+            "bron_element": "Coming up short",
+            "doel_element": "Moral insufficiency"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Righteousness is quantifiable and measurable."
+          ],
+          "theologische_implicaties": [
+            "Human effort is inherently deficit-based compared to the ideal."
+          ],
+          "ethische_implicaties": [
+            "A sense of guilt or inadequacy regarding one's charitable output."
+          ],
+          "onbedoelde_consequenties": [
+            "Reduces the Christian life to a bureaucratic audit."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the mundane experience of a 'to-do list' to create immediate existential guilt."
+      },
+      {
+        "metafoor_expressie": "The Judge judged in our place.",
+        "brondomein": {
+          "naam": "Courtroom",
+          "concrete_elementen": [
+            "Judge",
+            "Defendant",
+            "Substitution"
+          ],
+          "belichaamde_basis": "balance/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement",
+          "doctrinale_traditie": "Substitutionary Atonement"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "The Magistrate",
+            "doel_element": "Jesus Christ"
+          },
+          {
+            "bron_element": "The Sentence",
+            "doel_element": "The Cross"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The legal debt is settled by the authority figure himself."
+          ],
+          "theologische_implicaties": [
+            "God's justice and mercy are reconciled through self-sacrifice."
+          ],
+          "ethische_implicaties": [
+            "Gratitude replaces the fear of punishment."
+          ],
+          "onbedoelde_consequenties": [
+            "Can imply a violent or rigid view of God's character if not balanced."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A standard trope in Western soteriology, though used here to resolve the tension of the 'checklist'."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully links the 'Trial' of the Last Judgment with the 'Accounting' of Stewardship by framing both under the Sovereignty of Christ (The King).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section on Stewardship vs. Judgment",
+          "metafoor_a": "GOD IS AN INVESTOR (Return on investment)",
+          "metafoor_b": "GOD IS A SOVEREIGN (King of kings)",
+          "conflict_beschrijving": "An investor seeks profit/utility; a King seeks loyalty/homage.",
+          "entailment_conflict": "Investment implies God benefits from our growth, while Sovereignty implies we owe everything regardless of 'return'.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Economic (Checklist)",
+            "Juridical (Judge)",
+            "Clothing (Covering unrighteousness)"
+          ],
+          "blending_strategie": "The 'too-short list' (Economic) is resolved by the 'Judge' (Juridical) who 'covers' (Spatial/Clothing) the deficit."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The use of the 'Berkshire Eagle' story revitalizes the dead metaphor of 'judgment' by making it a contemporary 'checklist' comparison.",
+        "voorbeeld": "If even that Berkshire Eagle reporter knows that our good-deeds checklist is going to come up short..."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "The use of 'return on investment' for stewardship can make the relationship with God feel transactional.",
+        "voorbeeld": "It should be our return on his investment.",
+        "potentiele_impact": "Congregants may view their faith as a business deal.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Great Throne Room of the Last Judgment.",
+      "sub_worlds": [
+        "The Berkshire Eagle newsroom/Great Barrington",
+        "The Tanglewood Ozawa Hall (Donor plaque)",
+        "The local parish of Saint John's"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 5",
+          "van_wereld": "Historical Galilee (poor man)",
+          "naar_wereld": "Cosmic End of Time (Glorious Throne)",
+          "effectiviteit": "Highly effective contrast of status."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Ultimate Authority",
+          "hoe_versterkt": "Through the repetition of 'King', 'Throne', and 'Judge'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "The 'Good Person' Schema",
+          "verstoring_strategie": "Comparing the hearer to extreme altruists (the Moritzes) and then showing even that is insufficient.",
+          "vervangend_schema": "The 'Beggar for Mercy' schema."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Perfectly aligned with 'Christ the King' Sunday and the transition to Advent."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by Juridical and Economic domains. It successfully uses the 'Trial' framework to create urgency but relies heavily on 'Accounting' metaphors to bridge into the stewardship appeal. The 'Shepherd' metaphor remains largely decorative/biblical rather than cognitively developed.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SHEEP AND GOATS",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Describe the physical nature of sheep (vulnerability, flocking) vs goats (independence, stubbornness) to deepen the source domain.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The shepherd knows the specific bleat of the sheep, the way they huddle for warmth, unlike the wandering goat."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'King' (loyalty) to 'Investment' (profit).",
+        "resolutie_strategie": "Frame giving not as a 'return' but as 'tribute' to the King, maintaining the Juridical/Royal domain."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOOD-DEED CHECKLIST",
+        "problematisch_entailment": "Implies that if the list were long enough, we wouldn't need a Savior.",
+        "aanbeveling": "Explicitly state that the 'list' itself is a category error in the Kingdom of Grace."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To move from 'paying' for a church to 'building' a temple of living stones.",
+        "doel_concept": "Church Mission"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using the 'Cognitive Turn' to move a congregation from complacency to a realization of their need for grace through the metaphor of the 'short checklist'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'majesty' of the throne room description, CMT reveals that this majesty functions cognitively to disrupt the hearer's schema of Jesus as a 'safe' or 'historical' figure.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycle, CMT shows how the preacher uses the 'Economic' source domain to map abstract stewardship onto the concrete experience of paying bills and donor plaques.",
+    "unieke_inzichten_CMT": "CMT identifies the 'Judge judged in our place' as a vital conceptual blend that resolves the cognitive dissonance between the 'Trial' (where we lose) and the 'Kingdom' (where we inherit)."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "good-deed checklists",
+      "come up short",
+      "sit on his glorious throne",
+      "shepherd separates the sheep from the goats",
+      "brains crunch",
+      "judgment seat",
+      "all hearts are open",
+      "no secrets are hid",
+      "off the hook",
+      "return on his investment",
+      "big shot",
+      "buy favor",
+      "covering our unrighteousness"
+    ],
+    "woord_frequentie_analyse": {
+      "Judge": "8",
+      "King": "7",
+      "Money": "5",
+      "Guilty": "3",
+      "Checklist": "3"
+    },
+    "notities": "The preacher uses the 'Tanglewood' anecdote as a 'Schema Disruption' to expose the congregation's own transactional motives in giving."
+  }
+}

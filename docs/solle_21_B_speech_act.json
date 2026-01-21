@@ -1,0 +1,320 @@
+{
+  "metadata": {
+    "titel_preek": "An der Furt – Da rang einer mit ihm bis zur Morgenröte",
+    "bijbeltekst": "Genesis 32:22-32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts the story of Jacob at the Jabbok, interweaving it with personal anecdotes (childhood trauma, mother's death) and political activism. It focuses on the 'dark side' of God and the necessity of struggle.",
+      "exegetische_kwaliteit": "Moderate. It uses historical-critical insights (river demons) but quickly moves to psychological and existential application.",
+      "omvang_procent": "60%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts existential truths and encourages a specific attitude toward suffering. There is a strong movement toward 'Exhorting' and 'Testifying'.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Ich möchte Ihnen eine kleine Geschichte von mir erzählen",
+        "Gott überfällt uns, sagt die Bibel",
+        "Ich lasse dich nicht, du segnest mich denn"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel empowered to 'wrestle' with their own suffering and not give up on God.",
+      "pneumatologisch_bewustzijn": "Low. The focus is on the human 'will' to wrestle and the preacher's own experiences.",
+      "perlocutionaire_werkwoorden": [
+        "wrestle",
+        "endure",
+        "identify",
+        "hope",
+        "resist"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "65%",
+      "voorbeelden": [
+        "Jakob aber blieb zurück.",
+        "Gott ist nicht nur lieb und nett.",
+        "Das Leben ist keine Autobahn."
+      ],
+      "dominante_werkwoorden": [
+        "sein",
+        "haben",
+        "heißen",
+        "wissen"
+      ]
+    },
+    "directieven": {
+      "frequentie": "28",
+      "procent": "12%",
+      "voorbeelden": [
+        "Lasst uns weiter ringen mit diesem Dämon.",
+        "Lass uns nicht vorbeirasen am Jabbok."
+      ],
+      "dominante_werkwoorden": [
+        "lassen",
+        "sollen",
+        "müssen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "35",
+      "procent": "15%",
+      "voorbeelden": [
+        "Ich habe Angst vor dem Dunkel.",
+        "Ich spüre dieses kalte Glas noch heute."
+      ],
+      "dominante_werkwoorden": [
+        "fühlen",
+        "angst haben",
+        "erinnern"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Gott will uns segnen.",
+        "Niemand kann uns trennen."
+      ],
+      "dominante_werkwoorden": [
+        "wollen",
+        "werden"
+      ],
+      "kwaliteit": "Weak. Most promises are stated as general theological facts (Assertives) rather than direct address."
+    },
+    "declaratieven": {
+      "frequentie": "3",
+      "procent": "3%",
+      "voorbeelden": [
+        "Gott ist bei uns und segnet uns."
+      ],
+      "dominante_werkwoorden": [
+        "segnen"
+      ],
+      "autoriteit": "Low. The preacher speaks more as a fellow-sufferer than as a mandatory of the Word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive storytelling about the past",
+        "Theological lecturing about the 'liberal error'",
+        "Psychological descriptions of fear"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of the preacher's life and Jacob's life, rather than a participant in a divine event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise (Toezegging)",
+        "Sacramental 'I' (God speaking through the preacher)"
+      ],
+      "effect_op_hoorder": "The hearer is left with the burden of 'wrestling' (Directive) without the objective gift of the promise (Commissive)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Vague and generalized.",
+      "voorbeelden": [
+        "Gott ist bei uns und segnet uns."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Autobiographical. The 'I' is the preacher's ego, not the 'I' of God."
+      },
+      "tweede_persoon": {
+        "frequentie": "Low",
+        "gebruik": "Occasional 'Sie' or 'Euch', mostly in the context of shared human experience.",
+        "performatieve_context": "Rarely used for direct proclamation."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Talking about Jacob, God, and 'the people'.",
+        "distantie_effect": "Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical narrative and personal memories."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about life and God."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The actual moment of the sermon."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (God is dark/Jacob wrestled) -> Directive (You must wrestle/don't be a coward).",
+      "voorbeelden": [
+        "Gott überfällt uns... Lasst uns weiter ringen."
+      ],
+      "probleem": "The imperative ('Wrestle!') is not founded on a performative declaration of grace, but on a call to human courage."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the middle step of the Promise.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Das Ringen, das müssen wir schon selber tun, niemand kommt daran vorbei."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon is a powerful existential testimony, but it remains stuck in the preacher's subjectivity. It describes the 'event' of wrestling rather than being the 'event' of blessing.",
+    "sterke_punten": [
+      {
+        "aspect": "Authenticity",
+        "categorie": "Expressive",
+        "tekstueel_bewijs": "The story of the Jewish woman and the poison.",
+        "effect": "High emotional engagement."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "Long passages describing the 'liberal error' or 'religionswissenschaft'.",
+        "probleem": "Objectifies the faith experience.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is an event of 'sharing', but not a sacramental event of 'God speaking'.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher emphasizes that 'we must do the wrestling ourselves', which undermines the sacramental 'it is finished'."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the 'object' of the struggle.",
+      "prediker_als_mandataris": "No. Preacher is a fellow-struggler.",
+      "tekstueel_bewijs": [
+        "Ich glaube es aus meinem eigenen Leben."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is attributed to human 'courage' and 'not being a coward'.",
+      "tekstueel_bewijs": [
+        "Das Ringen, das müssen wir schon selber tun."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. Sermon as encouragement/testimony.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'must' verbs; too few 'I promise you' or 'God declares' verbs.",
+    "perperformative_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Gott will uns segnen.",
+          "voorgestelde_revisie": "Im Namen Jesu Christi segne ich dich für deinen Kampf.",
+          "verschil": "Shifts from a possibility (constative) to a reality (performative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried under moral appeal.",
+      "suggestie": "Start the conclusion with a direct address of the promise.",
+      "voorbeeldzinnen": [
+        "Höre das Wort Gottes: Er lässt dich nicht los."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'We' (general).",
+      "suggestie": "Use 'You' (Du/Sie) to address the hearer's specific situation.",
+      "voorbeeldzinnen": [
+        "Du stehst heute an deinem Jabbok."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to wrestle is too heavy.",
+      "suggestie": "Base the 'wrestling' on the fact that God has already 'won' the hearer."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A deeply moving human document, but homiletically it risks turning the Gospel into a new law of 'authentic wrestling'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-disclosure' of the preacher (which is high here). SAT reveals that this self-disclosure lacks illocutionary force to change the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetorically strong (pathos), but performatively weak (lack of declarative authority).",
+    "unieke_inzichten_SAT": "SAT shows that the 'event' character is missing because the preacher describes the struggle (Locution) rather than performing the blessing (Illocution)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "war",
+        "heißt",
+        "wissen",
+        "glauben"
+      ],
+      "directief": [
+        "lasst uns",
+        "müssen",
+        "sollen"
+      ],
+      "expressief": [
+        "fühlen",
+        "angst haben",
+        "freuen"
+      ],
+      "commissief": [
+        "wird",
+        "will"
+      ],
+      "declaratief": [
+        "segnen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Ich lasse dich nicht, du segnest mich denn.",
+        "categorie": "Directive/Expressive",
+        "illocutionaire_kracht": "Quoting a performative act.",
+        "effectiviteit": "High as a quote, but remains a 'description' of Jacob's act."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Existential Homiletics' where the preacher's experience becomes the primary locus of meaning, leading to a Constative Surplus."
+  }
+}

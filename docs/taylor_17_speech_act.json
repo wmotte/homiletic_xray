@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "titel_preek": "A Sermon About Failure",
+    "bijbeltekst": "Numbers 13:31-33",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon provides a historical overview of the Israelite spies in Canaan, interspersed with American historical anecdotes (League of Nations, Civil War) and psychological insights on self-image.",
+      "exegetische_kwaliteit": "Descriptive and narrative. Focuses on the 'moral of the story' rather than linguistic or theological depth of the Hebrew text.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily describes historical failures and offers moral advice. The force is one of 'teaching' and 'admonishing' through observation.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "6",
+      "voorbeelden": [
+        "Let me venture a word about our country...",
+        "Let me suggest that there are three reasons...",
+        "Now let us look again at Israel."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the hearer reflect on their own indecision and encourage a more positive outlook.",
+      "pneumatologisch_bewustzijn": "Low. The sermon relies on the power of the examples and the preacher's logic rather than an invocation of the Spirit's work.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "resolve",
+        "compare",
+        "decide"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "The Israelites had to decide whether they were ready.",
+        "American history seems to support the thesis...",
+        "They went forth, all saw the same land."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "seemed",
+        "said",
+        "saw"
+      ]
+    },
+    "directieven": {
+      "frequentie": "24",
+      "procent": "12%",
+      "voorbeelden": [
+        "Let us look again at Israel.",
+        "We ought to look at the situation honestly.",
+        "We ought to lift up our eyes."
+      ],
+      "dominante_werkwoorden": [
+        "ought",
+        "must",
+        "let us"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "Somber as it sounds...",
+        "This unhappy and unwelcome possibility..."
+      ],
+      "dominante_werkwoorden": [
+        "sounds",
+        "believe",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "God... tells us to make a life."
+      ],
+      "dominante_werkwoorden": [
+        "tells",
+        "gives"
+      ],
+      "kwaliteit": "Weak. The promises are framed as general theological truths rather than direct addresses to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "I believe they will say..."
+      ],
+      "dominante_werkwoorden": [
+        "believe"
+      ],
+      "autoriteit": "Low. The preacher speaks as an observer/historian rather than a mandatory of God."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical analogies (Shakespeare, Bullfights, American Wars)",
+        "Third-person narrative dominance",
+        "Generalizing about 'the nation' and 'people' rather than addressing the 'you' in the pew."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of history and morality rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace",
+        "Sacramental 'I-Thou' address"
+      ],
+      "effect_op_hoorder": "The hearer is left with 'oughts' but no 'is' (new reality in Christ)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "Non-existent as a direct illocutionary act.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "18",
+        "gebruik": "Preacher as narrator ('Let me suggest', 'I believe')."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Generic 'you' in moral examples ('in your life').",
+        "performatieve_context": "Minimal."
+      },
+      "derde_persoon": {
+        "frequentie": "112",
+        "gebruik": "Dominant. Talking about Israel, America, the spies, the jeweler.",
+        "distantie_effect": "High. Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biblical and American history."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General moral truths and psychological observations."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The act of preaching itself."
+      }
+    },
+    "adressering_effectiviteit": "3"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History/Analogy) -> Directive (Moral Application).",
+      "voorbeelden": [
+        "A faulty outward look in your life will produce failure... so we ought to look at the situation honestly."
+      ],
+      "probleem": "The 'ought' is not grounded in a 'done' (Gospel), but in a 'should' (Moralism)."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "If you believe... you are already defeated. (Negative indicative used to drive a moral imperative)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "The sermon functions as a moral appeal based on historical examples. It lacks the 'event' character where God speaks directly to the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Illustrative clarity",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The analogy of the jeweler.",
+        "effect": "Engages the intellect and imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Christological center",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire text.",
+        "probleem": "The sermon could be preached in a secular context with minor edits.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": "2",
+    "gebeuren_toelichting": "It is a lecture about failure, not a divine intervention into the hearer's failure.",
+    "sacramentele_kracht": "1",
+    "sacramentele_toelichting": "No means of grace are extended; only advice is given."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is an object of discussion.",
+      "prediker_als_mandataris": "No. Preacher acts as a moral guide.",
+      "tekstueel_bewijs": [
+        "Let me suggest that there are three reasons..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly relies on human willpower.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No.",
+      "epifanisch_taalgebruik": "No.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/was' and 'ought' to 'I promise/I declare'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "They miscalculated the strength of God.",
+          "voorgestelde_revisie": "Today, God stands before you and declares: My strength is made perfect in your weakness.",
+          "verschil": "Moves from a historical observation to a present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The sermon diagnoses failure but does not apply the cure.",
+      "suggestie": "Incorporate the 'Toezegging' (Promise) of the Gospel.",
+      "voorbeeldzinnen": [
+        "In your failure, Christ does not abandon you; He claims you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' and 'we' (generic).",
+      "suggestie": "Use 'You' (singular/plural) in the context of grace.",
+      "voorbeeldzinnen": [
+        "You are not a grasshopper in God's eyes; you are His redeemed child."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Imperatives are based on human effort.",
+      "suggestie": "Base the call to 'look up' on the fact that God has already 'looked down' in mercy."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically gifted but homiletically 'stuck' in the constative. It describes the problem beautifully but fails to perform the solution."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of failure; SAT reveals the sermon's lack of creative power.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is strong (good metaphors); homiletically, it is weak (no illocutionary force of grace).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'religious' words, no divine action is being performed through the speech acts."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "came",
+        "had",
+        "seemed",
+        "spoke",
+        "lack",
+        "accused",
+        "waited",
+        "paid"
+      ],
+      "directief": [
+        "let me",
+        "look",
+        "ought",
+        "must",
+        "resolve"
+      ],
+      "expressief": [
+        "believe",
+        "hope",
+        "faint"
+      ],
+      "commissief": [
+        "gives",
+        "tells"
+      ],
+      "declaratief": [
+        "condemned"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "A faulty outward look in your life will produce failure.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Predicting/Describing",
+        "effectiviteit": "Informative but burdensome."
+      }
+    ],
+    "notities": "The sermon functions as a 'Moral Exemplum' rather than 'Proclamation'."
+  }
+}

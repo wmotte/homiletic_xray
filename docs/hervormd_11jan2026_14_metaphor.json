@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "08_Werkhoven_11-jan-2026",
+    "bijbeltekst": "Lukas 2:41-52 (Jezus in de tempel)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "woestijnreis",
+          "pelgrimgroep",
+          "de weg wijzen",
+          "Ik ben de weg",
+          "wegwijzer naar God",
+          "op onze levensweg"
+        ],
+        "conceptuele_metafoor": "FAITH IS A JOURNEY / JESUS IS THE PATH"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "niet als slaven, maar als kinderen",
+          "huis van Mijn Vader",
+          "Abba Vader",
+          "liefdesband tussen Vader en Zoon"
+        ],
+        "conceptuele_metafoor": "GOD IS FATHER / BELIEVERS ARE CHILDREN"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "straf is gedragen",
+          "zonde niet toerekenen",
+          "diepste oordeel uitgesproken",
+          "gehoorzaamheid"
+        ],
+        "conceptuele_metafoor": "SALVATION IS A JURIDICAL ACQUITTAL"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Ik ben de weg. De weg naar God.",
+        "brondomein": {
+          "naam": "Physical Path",
+          "concrete_elementen": [
+            "road",
+            "direction",
+            "destination",
+            "walking"
+          ],
+          "belichaamde_basis": "path"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Soteriology / Access to God",
+          "doctrinale_traditie": "Christocentric/Orthodox"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "The physical road",
+            "doel_element": "Jesus Christ"
+          },
+          {
+            "bron_element": "The destination",
+            "doel_element": "Reconciliation with God"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Movement is required",
+            "There is only one correct direction"
+          ],
+          "theologische_implicaties": [
+            "Exclusivity of Christ",
+            "Salvation as a process/movement"
+          ],
+          "ethische_implicaties": [
+            "Following/Discipleship as active walking"
+          ],
+          "onbedoelde_consequenties": [
+            "Linearity (ignores the cyclical nature of faith/failure)"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A standard biblical metaphor, but revitalized here by linking it to the literal 'travel' of the Holy Family."
+      },
+      {
+        "metafoor_expressie": "De stem van de Geest... Weet je het zeker dat je zonder God wilt?",
+        "brondomein": {
+          "naam": "Interpersonal Dialogue",
+          "concrete_elementen": [
+            "voice",
+            "questioning",
+            "listening",
+            "gentleness"
+          ],
+          "belichaamde_basis": "force (gentle)"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Pneumatology / Conviction of Sin",
+          "doctrinale_traditie": "Reformed/Evangelical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "A person asking questions",
+            "doel_element": "The Holy Spirit's internal work"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God respects human agency",
+            "Faith involves internal reasoning"
+          ],
+          "theologische_implicaties": [
+            "Non-coercive grace",
+            "Internal testimony of the Spirit"
+          ],
+          "ethische_implicaties": [
+            "Self-reflection is a spiritual duty"
+          ],
+          "onbedoelde_consequenties": [
+            "Subjectivity (how to distinguish God's voice from one's own?)"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher uses specific, modern internal monologues to make the 'voice' concrete."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon successfully bridges the 'Journey' of the narrative (traveling to Jerusalem) with the 'Journey' of the soul. It uses the 'Family' domain to soften the 'Juridical' domain of the cross.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Middle section",
+          "metafoor_a": "God as non-intrusive questioner (Gentle)",
+          "metafoor_b": "God as Judge/Executioner (Wrathful)",
+          "conflict_beschrijving": "The transition from a God who 'only asks questions' to a God who 'abandons His son in judgment' is abrupt.",
+          "entailment_conflict": "A non-imposing God vs. a God who demands a penalty.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Journey and Family"
+          ],
+          "blending_strategie": "The 'Path' leads to the 'Father's House', resolving the movement into a relational destination."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Lost Child' metaphor by comparing it to modern news (Amber Alert), making the parental anxiety of God/Mary visceral.",
+        "voorbeeld": "Ik las vanochtend op het nieuws dat er nu in Rotterdam weer een meisje vermist is."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By emphasizing God as a 'listener who doesn't impose,' there is a risk of losing the 'Lordship' or 'Sovereignty' of God.",
+        "voorbeeld": "Onze God is geen God die zich aan ons opdringt.",
+        "potentiele_impact": "Congregation may view God as a passive therapist rather than a King.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The dusty, dangerous road between Nazareth and Jerusalem and the bustling Temple courts.",
+      "sub_worlds": [
+        "The internal world of a guilty conscience",
+        "The cosmic world of the Trinity (Vader/Zoon/Geest)",
+        "The future world of the Cross/Empty Tomb"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to Cross",
+          "van_wereld": "12-year old Jesus in the temple",
+          "naar_wereld": "Golgotha",
+          "effectiviteit": "Strong; uses the 'three days lost' as a deictic bridge."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Father",
+          "hoe_versterkt": "Repeated use of 'Abba' and 'Child' language."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as a Cop/Dictator",
+          "verstoring_strategie": "Emphasizing God's questions and listening over commands.",
+          "vervangend_schema": "God as a Patient Parent"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits the post-Christmas/Epiphany season well."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY and RELATIONAL domains. It effectively uses the literal travel in the text to ground abstract concepts of spiritual seeking. The theological core relies on a JURIDICAL/SUBSTITUTIONARY framework, which is presented as the 'engine' behind the relational love.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Gehoorzaamheid (Obedience)",
+        "huidige_status": "Abstract/Dead",
+        "suggestie": "Connect it to the 'listening' (horen) mentioned earlier in the sermon.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Gehoorzaamheid is niet 'moeten', maar 'horen' wat de Vader vraagt."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'God doesn't impose' to 'God judges sin'.",
+        "resolutie_strategie": "Explain that God's 'no' to sin is the ultimate 'yes' to the person, maintaining the relational focus."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "God as Listener",
+        "problematisch_entailment": "God might be seen as having no will of His own.",
+        "aanbeveling": "Clarify that God listens in order to lead, not just to observe."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "The 'Temple' is a key setting; mapping the believer as a 'living stone' or 'room' in the Father's house could bridge the gap between the building and the heart.",
+        "doel_concept": "Indwelling of the Spirit"
+      }
+    ],
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A warm, cognitively engaging sermon that successfully moves from narrative to dogma using strong relational mappings."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of just praising the 'beautiful' image of Jesus in the temple, CMT shows how this image functions as a cognitive map for the hearer's own relationship with God.",
+    "verschil_met_kolb": "While Kolb would focus on the learning styles (feeling/thinking), CMT focuses on the underlying conceptual structures (Source/Target) that make those styles possible.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher uses the 'Three Days' as a container metaphor to link the Temple story with the Resurrection, creating a cognitive 'shortcut' for the congregation."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Met de deur in huis vallen",
+      "De weg wijzen",
+      "Echo van een verhaal",
+      "Schrik aan het hart slaan",
+      "Aan de voeten zitten",
+      "Stem van liefde",
+      "Hart winnen",
+      "Opslaan in het hart",
+      "Weg van God wandelt",
+      "Weg naar God geopend"
+    ],
+    "woord_frequentie_analyse": {
+      "Jezus": "42",
+      "God": "38",
+      "Vader": "15",
+      "Weg": "12",
+      "Liefde": "11",
+      "Hart": "9"
+    },
+    "notities": "The preacher uses 'moeten' (must) as a force-dynamic metaphor to indicate divine necessity."
+  }
+}

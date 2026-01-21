@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "titel_preek": "Wider den Geist der Kaufmannschaft",
+    "bijbeltekst": "Hiob (diverse Passagen)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A dialogue-sermon exploring the problem of suffering (Theodicy) through Job, focusing on the critique of 'mercantile religion' and the 'dignity of inconsolability'.",
+      "exegetische_kwaliteit": "High. Deep literary and theological engagement with the structure of Job, including the framing narrative vs. the poetic core.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting theological positions and reflecting on the nature of faith under duress. There is a strong element of 'protesting' against easy answers.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Ich glaube nicht, dass wir eine Lösung finden.",
+        "Hiob dealt nicht!",
+        "Gott zu lieben heißt nicht: Ich leiste dir den richtigen Glauben."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellectual solidarity, deconstruction of moralistic religion, and a 'defiant' hope.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "endure",
+        "deconstruct",
+        "protest"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Gott hat Hiob in die Hand des Satans gegeben.",
+        "Das Schweigen Gottes ist die große Einrede.",
+        "Mystik ist kein Deal."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sagt",
+        "glaube",
+        "scheint"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "Sage Gott ab und stirb!",
+        "Wisse aber, dass ich... ein Jude sein werde."
+      ],
+      "dominante_werkwoorden": [
+        "sagen",
+        "wissen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "10%",
+      "voorbeelden": [
+        "Ich möchte Hiobs Frau verstehen lernen.",
+        "Ich kann sie nur verachten."
+      ],
+      "dominante_werkwoorden": [
+        "möchte",
+        "verachten",
+        "lieben"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "Gott weiß es, das genügt!"
+      ],
+      "dominante_werkwoorden": [
+        "genügen"
+      ],
+      "kwaliteit": "Weak. The promises are mostly described as 'claims' rather than directly spoken to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "3%",
+      "voorbeelden": [
+        "Liebe Gemeinde... (Address as community)"
+      ],
+      "dominante_werkwoorden": [
+        "feiern"
+      ],
+      "autoriteit": "Low. The preachers act as co-seekers rather than heralds."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive 'talking about' the text and the concept of suffering.",
+        "Theological debate between Sölle and Steffensky dominates the 'event'."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a profound theological debate rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the specific listener",
+        "Sacramental 'I' of God speaking through the preacher"
+      ],
+      "effect_op_hoorder": "The hearer is left with 'the dignity of inconsolability' but no 'creative word' that changes their status."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent as direct address.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Dominant. 'Ich' (the preacher's struggle) and 'Wir' (general humanity)."
+      },
+      "tweede_persoon": {
+        "frequentie": "4",
+        "gebruik": "Very low. Mostly quoting Job's friends or God's challenge to Job.",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "80",
+        "gebruik": "High. Talking about Hiob, Gott, and the Teufel.",
+        "distantie_effect": "Strong. The sermon is a lecture on the book of Job."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Narrative of Job and historical examples (Auschwitz, Spain)."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions of love, religion, and atheism."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The liturgical moment (Palm Sunday/Holy Week)."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of suffering) -> Assertive (Theological conclusion).",
+      "voorbeelden": [
+        "Analysis of Job's friends -> Conclusion that religion is not a deal."
+      ],
+      "probleem": "It never moves from 'about' to 'for you'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of the Promise (Toezegging).",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The 'duty' to speak of wholeness is stated as a general rule, not a specific command flowing from a promise."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a brilliant theological essay on theodicy, but it remains a 'constative surplus'. It talks about God's silence and Job's pain without enacting God's presence or promise for the congregation.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Mystik ist kein Deal.",
+        "effect": "Intellectual clarity on the nature of faith."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire text.",
+        "probleem": "The 'You' (Hearer) is never addressed with a promise.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a 'talk about an event' (Job's story), not a 'sacramental event' in itself.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "The language describes the absence of God rather than mediating the presence of God."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the preachers' inquiry.",
+      "prediker_als_mandataris": "No. Preachers act as religious intellectuals/poets.",
+      "tekstueel_bewijs": [
+        "Ich möchte Hiobs Frau verstehen lernen."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "No. The effect is sought through psychological and intellectual resonance.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a 'reflection' (Besinnung).",
+      "epifanisch_taalgebruik": "No. It is analytical.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person 'is' to 2nd person 'gives/promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Gott zu lieben heißt... sich Gott geben, ohne Versicherung.",
+          "voorgestelde_revisie": "Gott gibt sich euch heute ohne Versicherung; gebt euch ihm hin.",
+          "verschil": "Moves from definition to invitation/event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace of Christ at the end is 'talked about' as a historical fact.",
+      "suggestie": "Directly apply the 'God with us' to the suffering of the specific congregation.",
+      "voorbeeldzinnen": [
+        "In deinem Schmerz ist dieser Christus dir nahe."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' and 'They'.",
+      "suggestie": "Use 'You' (Ihr/Euch) to bridge the gap between Job and the hearer.",
+      "voorbeeldzinnen": [
+        "Ihr seid nicht allein in eurer Untröstlichkeit."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The indicative is a 'theological truth' rather than a 'divine act'.",
+      "suggestie": "Base the call to faith on the declarative act of God's presence."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically profound and rhetorically beautiful, but homiletically 'stuck' in the constative. It describes the wound but does not perform the healing."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'self-revelation' of Sölle/Steffensky; SAT reveals the lack of 'Divine Illocution'.",
+    "verschil_met_retoriek": "Rhetorically strong (metaphors, rhythm), but illocutionarily weak (no change of state).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'radical' content, the linguistic form is traditional-descriptive (constative)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "war",
+        "heißt",
+        "scheint",
+        "glauben",
+        "denken",
+        "wissen"
+      ],
+      "directief": [
+        "sage",
+        "stirb",
+        "wisse",
+        "lassen"
+      ],
+      "expressief": [
+        "möchte",
+        "verachten",
+        "lieben",
+        "hoffen"
+      ],
+      "commissief": [
+        "genügt"
+      ],
+      "declaratief": [
+        "feiern"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Hiob dealt nicht!",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong assertion",
+        "effectiviteit": "Good for teaching, poor for 'event'."
+      }
+    ],
+    "notities": "The sermon functions as a 'theological nocturne' rather than a proclamation of the Gospel."
+  }
+}

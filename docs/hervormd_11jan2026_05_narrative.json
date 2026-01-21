@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "Jezus nodigt ons uit",
+    "bijbeltekst": "Johannes 1:35-51",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "De hoorder wordt opgeroepen om de beslissing te nemen 'oude meesters' te verlaten en in te gaan op de uitnodiging van Jezus om bij Hem te verblijven en door Hem veranderd te worden.",
+      "subject": {
+        "identificatie": "De Hoorder / De Mens",
+        "tekstueel_bewijs": [
+          "Hebben wij ook die beslissing genomen in ons leven om naar Jezus toe te gaan?",
+          "Zijn wij ook ertoe gekomen om tot Jezus te gaan?",
+          "Waarom zouden we naar Jezus toe gaan?"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Nabijheid van Jezus / Navolging / Verandering",
+        "tekstueel_bewijs": [
+          "bij Hem zijn en Hem beter leren kennen en navolgen",
+          "ons door Hem laten veranderen"
+        ],
+        "aard_van_object": "ETHICAL/THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "Jezus (als uitnodiger)",
+        "tekstueel_bewijs": [
+          "Jezus nodigt ons uit",
+          "Kom en zie"
+        ],
+        "rol_interpretatie": "LOVING_FATHER/THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "De Hoorder / De Wereld",
+        "tekstueel_bewijs": [
+          "dat Jezus ons uitnodigt: u, jou en mij"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Johannes de Doper / Predikers / Andreas / De Bijbel",
+        "tekstueel_bewijs": [
+          "Johannes zelf die de discipelen erop wijst",
+          "door uit de Bijbel te lezen. Door te bidden."
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Zelfopgeworpen hindernissen / Oude meesters / Gebrek aan keuze durven maken",
+        "tekstueel_bewijs": [
+          "Welke hindernissen werpen wij zelf op?",
+          "vermeende orthodoxie die je in de weg staat",
+          "een zonde aan de hand houdt"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "De tegenstander wordt primair gezocht in de psychologie en de wil van de hoorder (keuzestress, angst om te binden, zonde vasthouden)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "De gelovige die anderen uitnodigt (evangelisatie).",
+      "subject": "De Hoorder",
+      "object": "De Naaste (Petrus-figuur)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Eerst moet de hoorder zelf bij Jezus komen (Programma 1), daarna moet hij anderen uitnodigen (Programma 2)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Jezus → Verandering/Rust → De Hoorder",
+      "helper_subject_tegenstander": "Bijbel/Kringen → De Hoorder ← Keuzestress/Zonde",
+      "subject_naar_object": "De Hoorder → Beslissing voor Jezus"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 45,
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "Jezus nodigt ons uit.",
+        "Hij kan ons verlossen.",
+        "Hij overwint de macht van de zonde."
+      ],
+      "voorbeelden_mens_subject": [
+        "Hebben wij ook die beslissing genomen?",
+        "Wij moeten de tijd nemen voor Jezus.",
+        "Wij mogen die uitnodiging doorgeven."
+      ],
+      "rutledge_score": 4
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "moeten we natuurlijk wel heel dicht bij Jezus zijn",
+          "moeten we bij Hem zijn",
+          "tijd vrijmaken"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "willen wij bij Hem zijn?",
+          "niet echt een keuze wilt maken",
+          "durft geen definitieve keuze te maken"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Hoe pak je dat dan aan?",
+          "Je kunt al met je hoofd weten"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 3,
+        "voorbeelden": [
+          "die macht, daar worden wij mensen door beheerst, die krijgen wij niet kapot"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "De preek focust op de wil (Vouloir) en de verplichting (Devoir) van de mens. De hoorder wordt aangesproken als een subject dat in staat is te kiezen, mits de wil wordt geactiveerd."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Bij Jezus zijn (Vrijheid/Liefde)",
+      "s2": "Slavernij van de zonde (Macht)",
+      "niet_s1": "Vrijblijvendheid/Uitstel",
+      "niet_s2": "Orthodoxie als dekmantel"
+    },
+    "beweging_in_preek": "De preek beweegt van de uitnodiging (S1) naar de blokkades van de hoorder (~S1 en ~S2) en roept op tot een beslissing om terug te keren naar S1.",
+    "theologische_resolutie": "De spanning wordt opgelost door de menselijke actie: 'de tijd nemen' en 'de beslissing nemen'.",
+    "ernst_van_s2": "Matig. Hoewel 'zonde' wordt genoemd, wordt het vaak geframed als 'hindernissen' die wij zelf opwerpen."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "De preek gebruikt sterke genade-terminologie (Lam van God, verzoening), maar de actantiële structuur is antropocentrisch: de mens is het actieve subject dat de beslissing moet nemen en de tijd moet vrijmaken.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus op menselijke beslissing",
+        "tekstueel_bewijs": "Hebben wij ook die beslissing genomen in ons leven om naar Jezus toe te gaan?",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalisering van God",
+        "tekstueel_bewijs": "Jezus is niet alleen een middeltje om niet in de hel te komen.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christus als overwinnaar van machten",
+        "tekstueel_bewijs": "Hij kan ons verlossen van alle kwade machten.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Andreas en de discipelen dienen als model voor de hoorder in hun keuze en hun getuigenis.",
+      "bijbelse_figuren_als_model": [
+        "Andreas",
+        "De twee discipelen"
+      ],
+      "alternatieve_lezing": "Focus op hoe Jezus de discipelen opzoekt en vasthoudt, in plaats van hun beslissing om Hem te volgen."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Druk om te kiezen en tijd te managen voor God.",
+      "theologische_implicatie": "Synergisme: God nodigt uit, maar de mens realiseert de redding door zijn komst."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 6,
+      "coherentie_beschrijving": "Er is een spanning tussen de 'macht van de zonde' (waar de mens niets aan kan doen) en de oproep om 'hindernissen weg te nemen' (wat de mens blijkbaar wel kan).",
+      "spanning_punten": [
+        "De mens kan de macht van de zonde niet kapot krijgen, maar moet wel zelf de beslissing nemen om naar Jezus te gaan."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "vergoten is tot de volkomen verzoening van al onze zonden",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "Help (De Geest helpt bij het getuigen, maar de mens moet de tijd nemen)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Hoog in theorie, maar in de praktijk gereduceerd tot 'obstakels' in de navolging."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek is narratief gezien een 'zoektocht' van de mens naar Jezus, ondersteund door Jezus' uitnodiging. De mens is de actieve held.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "De hoorder is het subject van 'komen', 'beslissen' en 'tijd maken'.",
+      "voorgestelde_herpositionering": "Maak Jezus het subject dat de hoorder vindt en naar Zich toe trekt.",
+      "voorbeeld_revisie": "In plaats van 'Hebben wij de beslissing genomen?', zeg: 'Jezus heeft de beslissing genomen om u op te zoeken en niet los te laten.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hoorder als de actieve Andreas.",
+      "voorgestelde_identificatie": "Hoorder als de blinde/verlorene die gevonden wordt.",
+      "strategie": "Benadruk de onmacht van de discipelen en de trekkracht van Jezus."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Te veel Vouloir (willen) en Devoir (moeten).",
+      "voorgestelde_balans": "Meer Pouvoir (Gods kracht die het in ons werkt).",
+      "concrete_suggestie": "Focus op hoe de Geest de onwil van de mens overwint."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Zonde als 'hindernis' of 'obstakel'.",
+      "voorgestelde_intensivering": "Zonde als een dodelijke macht waar we niet zelf van kunnen 'beslissen' weg te gaan.",
+      "theologische_rationale": "Alleen een sterke tegenstander maakt de noodzaak van een goddelijk Subject (Grace) duidelijk."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethiek (komen/uitnodigen) overschaduwt de soteriologie (het werk van het Lam).",
+      "voorgestelde_structuur": "Laat de verandering een organisch gevolg zijn van Gods handelen, niet een voorwaarde of parallelle taak."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "De preek bevat prachtige elementen over het Lam van God, maar de actantiële motor draait nog te veel op menselijke wilskracht. Verplaats de actieve werkwoorden naar God om de genade echt te laten 'landen'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch is de preek vriendelijk en uitnodigend; actantieel is hij veeleisend omdat de hoorder alle cruciale acties moet uitvoeren.",
+    "verschil_met_exegese": "De exegese van 'Lam van God' is diepgaand, maar wordt in de toepassing ondergeschikt gemaakt aan de menselijke 'beslissing'.",
+    "unieke_inzichten_greimas": "Greimas legt bloot dat ondanks het woord 'uitnodiging', de hoorder in de rol van de 'verantwoordelijke uitvoerder' wordt geplaatst."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wij (beslissen)",
+      "Wij (komen)",
+      "Wij (nemen de tijd)",
+      "Wij (nodigen uit)",
+      "Jezus (nodigt uit)",
+      "Jezus (verlost)"
+    ],
+    "volledige_object_lijst": [
+      "Rust",
+      "Verandering",
+      "De Messias",
+      "De naaste"
+    ],
+    "werkwoord_frequentie": {
+      "komen": {
+        "count": 15,
+        "primair_subject": "Man"
+      },
+      "uitnodigen": {
+        "count": 12,
+        "primair_subject": "God/Man"
+      },
+      "beslissen": {
+        "count": 6,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "De preek vertoont een 'synergistisch' patroon waarbij Gods uitnodiging de menselijke actie activeert."
+  }
+}

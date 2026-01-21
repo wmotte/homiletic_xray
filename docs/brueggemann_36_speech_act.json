@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "titel_preek": "Newness from God That Unlearns Family",
+    "bijbeltekst": "Acts 11:1-18; John 13:34-35; Revelation 21:3-5",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon recounts Peter's vision in Acts 11, contextualizing it within family traditions and the tension between inherited rules and divine interruptions. It moves through historical narrative to contemporary applications of inclusion.",
+      "exegetische_kwaliteit": "Strong narrative flow; uses the text as a psychological and sociological lens for 'unlearning'.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily describing the biblical narrative and suggesting parallels to the listener's life. The force is largely explanatory and illustrative.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Peter is the key character in this story",
+        "I suggest that this man Peter is very much like most of us",
+        "It is like that with everyone who meets Jesus"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the hearer reflect on their own prejudices and feel encouraged to embrace 'newness'.",
+      "pneumatologisch_bewustzijn": "Moderate; mentions the Spirit leading the church, but the Spirit's role in the preaching event itself is implicit.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "understand",
+        "consider",
+        "unlearn",
+        "embrace"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Peter was a church leader",
+        "The crisis Peter faced was that he learned...",
+        "God is fashioning a new world"
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "suggest",
+        "think"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Consider this",
+        "See, the home of God is among mortals",
+        "Love one another"
+      ],
+      "dominante_werkwoorden": [
+        "consider",
+        "see",
+        "love"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "8%",
+      "voorbeelden": [
+        "I think it is purely accidental",
+        "We remember and give thanks",
+        "We love our mothers"
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "love",
+        "thanks"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "God himself will be with them",
+        "He will wipe every tear"
+      ],
+      "dominante_werkwoorden": [
+        "will be",
+        "will wipe"
+      ],
+      "kwaliteit": "The promises are quoted from Revelation rather than spoken directly by the preacher to the congregation."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "I give you a new commandment"
+      ],
+      "dominante_werkwoorden": [
+        "give"
+      ],
+      "autoriteit": "The preacher quotes Jesus' declaration rather than performing a declarative act (like absolution) in the present."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Frequent use of 'I suggest', 'I think', 'We are told'",
+        "Heavy focus on 'unlearning' as a cognitive process",
+        "Third-person narrative dominates the first 60% of the text"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of Peter's crisis rather than a participant in God's current action."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct address of grace",
+        "Present-tense absolution",
+        "Direct commissioning"
+      ],
+      "effect_op_hoorder": "The hearer is given information about God's newness but is not necessarily 'made new' by the word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "Indirect; mediated through biblical quotes rather than direct address.",
+      "voorbeelden": [
+        "See, I am making all things new"
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "high",
+        "gebruik": "Mostly 'we' (inclusive of preacher/hearer) or 'I' (preacher's thoughts)."
+      },
+      "tweede_persoon": {
+        "frequentie": "low",
+        "gebruik": "Rarely used except when quoting Jesus or the voice in the dream.",
+        "performatieve_context": "Minimal"
+      },
+      "derde_persoon": {
+        "frequentie": "very high",
+        "gebruik": "Describing Peter, the church, mothers, and God.",
+        "distantie_effect": "Creates a 'lecture' feel where we talk about Peter's experience."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Biblical history and childhood memories."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Generalizations about how families work."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Brief moments of 'now we are in a struggle'."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Peter's story) -> Directive (We must unlearn).",
+      "voorbeelden": [
+        "Peter had to unlearn... we must unlearn some of what they taught us"
+      ],
+      "probleem": "The 'unlearning' is presented as a human task/duty rather than a gift of the Word."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Lacks a clear transition where the preacher speaks for God to the hearer.",
+      "voorbeelden": [],
+      "kwaliteit": "Weak"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We face the truth that we must unlearn... in order to meet Jesus"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant sociological and theological essay on tradition, but stays in the 'talking about' mode.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "Exegesis",
+        "tekstueel_bewijs": "The analysis of the 'kosher kitchen' vs the 'snake sandwich'.",
+        "effect": "Engaging imagery."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "The sermon ends with a quote from Revelation rather than a direct promise.",
+        "probleem": "God remains an object of description.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is an intellectual event, but lacks the sacramental 'now' of a divine encounter.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The preacher describes grace but does not 'hand it over' (Toezegging)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is a character in the story, not the speaker of the sermon.",
+      "prediker_als_mandataris": "The preacher acts more as an essayist/observer.",
+      "tekstueel_bewijs": [
+        "I suggest that this man Peter..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as a historical force in Acts.",
+      "perlocutie_theologie": "Implicitly left to the hearer's cognitive processing.",
+      "tekstueel_bewijs": [
+        "The early church was led by God's Spirit"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Low; the sermon is a reflection on grace, not a means of it.",
+      "epifanisch_taalgebruik": "Low; descriptive rather than epiphanic.",
+      "tekstueel_bewijs": [
+        "Our theme is God's newness"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/was/must' to 'I promise/God declares'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God is fashioning a new world.",
+          "voorgestelde_revisie": "Today, God is tearing down the walls in your life.",
+          "verschil": "Moves from a general truth to a specific act."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is stuck in the 3rd person.",
+      "suggestie": "Use the 'I' of the preacher to deliver the 'You' of God.",
+      "voorbeeldzinnen": [
+        "In the name of Jesus, I declare that you are no longer bound by the fears of your past."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'he', not enough 'you'.",
+      "suggestie": "Address the congregation directly as the subjects of the vision.",
+      "voorbeeldzinnen": [
+        "You are the ones being called to the table today."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'unlearn' feels like a heavy burden.",
+      "suggestie": "Make the 'unlearning' a result of the 'newness' given."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually stimulating and narratively rich, but would gain immense power by shifting from describing Peter's dream to becoming the voice of that dream for the congregation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' about his mother; SAT focuses on the lack of a 'Declarative' act from God.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent; illocutionarily, it is 'hollow' because it describes rather than does.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's 'crisis' is not just Peter's, but the preacher's hesitation to speak with divine authority."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "means",
+        "suggest",
+        "think",
+        "recount",
+        "tells",
+        "explains"
+      ],
+      "directief": [
+        "consider",
+        "unlearn",
+        "love",
+        "see",
+        "take",
+        "embrace"
+      ],
+      "expressief": [
+        "love",
+        "thanks",
+        "imagine",
+        "trust"
+      ],
+      "commissief": [
+        "will be",
+        "will wipe",
+        "will dwell"
+      ],
+      "declaratief": [
+        "give",
+        "making (new)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "What God has made clean you must not call unclean.",
+        "categorie": "DIRECTIVE/DECLARATIVE",
+        "illocutionaire_kracht": "Strong (Quoted)",
+        "effectiviteit": "High, but limited by being a quote."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher talks about the event of revelation without the sermon itself becoming that event."
+  }
+}

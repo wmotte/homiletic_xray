@@ -1,0 +1,468 @@
+{
+  "metadata": {
+    "titel_preek": "The Christmas Mystery",
+    "bijbeltekst": "Luke 2:10–11",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the 'mystery' of Christmas through three lenses: the mystery of infancy (new beginnings), the mystery of iniquity (the persistence of sin/Herod), and the mystery of God's invasion (incarnation).",
+      "exegetische_kwaliteit": "Moderate. The text is used as a thematic springboard rather than a verse-by-verse exposition. It focuses on the 'event' of the birth more than the specific mechanics of the Lucan text.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is descriptive and evocative. The preacher is 'painting a picture' of Christmas to elicit a mood of wonder.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "6",
+      "voorbeelden": [
+        "Christmas is a time of mystery.",
+        "The birth of Jesus heralds the arrival of a new chance.",
+        "God's power is not exhausted."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the hearer feel the 'warmth' of the season and recognize the theological significance of the incarnation.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event' or the application.",
+      "perlocutionaire_werkwoorden": [
+        "feel",
+        "recognize",
+        "rejoice",
+        "admit",
+        "sense"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The old mystery has happened once more.",
+        "There were the elements of mystery.",
+        "Christmas is our evidence that God has visited it."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "has",
+        "becomes",
+        "represents"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "We must fight the war against sin.",
+        "Let every heart prepare him room.",
+        "Sound the glad sound of music."
+      ],
+      "dominante_werkwoorden": [
+        "must",
+        "let",
+        "fight"
+      ],
+      "fundament_check": "false"
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Oh, surely we recognize and admit...",
+        "I suppose that there has been one statement...",
+        "The mystery baffles us but wins us."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "suppose",
+        "recognize"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "He offers to humanity a fresh start.",
+        "This is the promise of every child."
+      ],
+      "dominante_werkwoorden": [
+        "offers",
+        "promises"
+      ],
+      "kwaliteit": "Weak. The promises are stated as general theological facts (Assertives) rather than direct addresses to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "Christ is born!"
+      ],
+      "dominante_werkwoorden": [
+        "is born"
+      ],
+      "autoriteit": "The declaration 'Christ is born!' functions as a liturgical announcement, but lacks a direct 'I pronounce you forgiven' or 'God says to you' force."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": "true",
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "The world becomes suddenly...",
+        "The mystery of infancy is...",
+        "Christmas declares that..."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a beautiful mystery rather than a participant in a saving event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": "true",
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct absolution",
+        "Specific promise to the individual",
+        "Authoritative address"
+      ],
+      "effect_op_hoorder": "Intellectual or emotional agreement without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": "false",
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The sermon talks *about* the promise of a child, but does not *deliver* a promise to the hearer.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Mostly 'we' (inclusive/homiletic we) or 'I suppose'."
+      },
+      "tweede_persoon": {
+        "frequentie": "4",
+        "gebruik": "Very sparse; used for hypothetical examples (your house).",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "120",
+        "gebruik": "Dominant. Talking about 'the world', 'humanity', 'God', 'Herod'.",
+        "distantie_effect": "High. It creates a lecture-like distance."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical narrative and historical context."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about Christmas and human nature."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate 'now' of the service."
+      }
+    },
+    "adressering_effectiviteit": "3"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": "true",
+      "beschrijving": "Assertive (The mystery of sin) -> Directive (We must fight).",
+      "voorbeelden": [
+        "Sin is with us... Against the power of evil we must make war every day."
+      ],
+      "probleem": "The imperative is not grounded in a performative word of grace, but in a descriptive reality of sin."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": "false",
+      "beschrijving": "Missing the link of the Commissive (Toezegging).",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": "true",
+      "imperatief_gefundeerd": "false",
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We must fight the war against sin... all our lives."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a poetic and theological essay on the meaning of Christmas. It informs the mind and stirs the emotions but fails to perform a sacramental act.",
+    "sterke_punten": [
+      {
+        "aspect": "Evocative Locution",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The ice leaves our eyes, and the fire of human warmth... burns there instead.",
+        "effect": "Creates a strong aesthetic atmosphere."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The birth of Jesus heralds the arrival of a new chance for the children of the world.",
+        "probleem": "It remains a general truth rather than a specific gift.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "4",
+    "gebeuren_toelichting": "It is an 'event' only in the sense of a shared aesthetic experience, not a transformative encounter with the Word.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that binds God to the hearer."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is talked about as an actor in history, but God is not the speaker in the 'now' of the sermon.",
+      "prediker_als_mandataris": "The preacher acts as a commentator/observer rather than an ambassador.",
+      "tekstueel_bewijs": [
+        "Christmas is our evidence..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is attributed to the 'Christmas season' or 'mystery' rather than the Spirit.",
+      "tekstueel_bewijs": [
+        "The old mystery has happened once more, and the hardness drops strangely from our hearts."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a reminder of grace, not a means of grace.",
+      "epifanisch_taalgebruik": "Weak. It is more 'descriptive' than 'epiphanic'.",
+      "tekstueel_bewijs": [
+        "He offers to humanity a fresh start."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Overwhelming dominance of 'to be' and 'to have' in the 3rd person. Needs a shift to active, 2nd person performatives.",
+    "performatieve_intensivering": {
+      "nodig": "true",
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "He offers to humanity a fresh start.",
+          "voorgestelde_revisie": "Today, Christ offers YOU a fresh start.",
+          "verschil": "Shifts from a general possibility to a direct offer."
+        },
+        {
+          "huidige_formulering": "He is empowered to say, 'Thy sins be forgiven'.",
+          "voorgestelde_revisie": "By His authority, I declare to you: your sins are forgiven.",
+          "verschil": "Moves from talking about forgiveness to enacting it."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": "true",
+      "probleem": "The 'promise' is objectified as a 'mystery of infancy' rather than delivered as a word from God.",
+      "suggestie": "Use the 'For unto you' of the text to address the congregation directly.",
+      "voorbeeldzinnen": [
+        "This child is born for YOU, to take away YOUR fear."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": "true",
+      "probleem": "Too much 'we' and 'the world'.",
+      "suggestie": "Use 'you' (plural and singular) to break the spectator-mode.",
+      "voorbeeldzinnen": [
+        "Do you feel the hardness of your own heart? To you, the light has come."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": "true",
+      "probleem": "The call to 'fight sin' feels like a heavy burden because it isn't preceded by the declarative of Christ's victory for the hearer.",
+      "suggestie": "Declare the victory first, then invite the response."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and theologically sound, but it remains a 'talk about God'. By shifting to direct address and performative declarations, it could become a true 'event' of grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'. SAT reveals that the preacher is failing to use the 'Declarative' key, which is the only key that changes reality.",
+    "verschil_met_retoriek": "Rhetorically, this is excellent (metaphors, flow). However, SAT shows that the 'illocutionary force' is stagnant.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'mystery' remains a 'constative' object because the preacher does not 'perform' the promise."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "has happened",
+        "drops",
+        "leaves",
+        "burns",
+        "becomes",
+        "is",
+        "celebrates",
+        "transpires",
+        "is born",
+        "feel",
+        "recognize",
+        "lies",
+        "was",
+        "did not declare",
+        "was",
+        "sounded",
+        "played",
+        "marched",
+        "changed",
+        "is born",
+        "is given",
+        "is",
+        "bringing",
+        "is",
+        "has been repeated",
+        "believe",
+        "represent",
+        "is",
+        "is not exhausted",
+        "says",
+        "comes forth",
+        "are hardened",
+        "are formed",
+        "are fixed",
+        "are established",
+        "is",
+        "stretching",
+        "might inaugurate",
+        "may be",
+        "will lift",
+        "open",
+        "is",
+        "is not exhausted",
+        "says",
+        "can blossom",
+        "have lived",
+        "heralds",
+        "is",
+        "offers",
+        "is empowered",
+        "make",
+        "bid",
+        "is",
+        "proclaims",
+        "reared",
+        "spoke",
+        "inserted",
+        "heard",
+        "threatened",
+        "appears",
+        "is challenged",
+        "is represented",
+        "pressing",
+        "wanted",
+        "desired",
+        "must add",
+        "did it come",
+        "ruled out",
+        "could have entered",
+        "was not",
+        "looked",
+        "made",
+        "said",
+        "is",
+        "is",
+        "pervades",
+        "permeates",
+        "is woven",
+        "could say",
+        "are born",
+        "shaped",
+        "is",
+        "will banish",
+        "goes forth",
+        "seeking",
+        "assert",
+        "have",
+        "allow",
+        "have",
+        "live",
+        "declares",
+        "does",
+        "arises",
+        "begins",
+        "shows",
+        "declares",
+        "have felt",
+        "feared",
+        "was",
+        "did not have",
+        "wove",
+        "was",
+        "started",
+        "resigned",
+        "says",
+        "has never given up",
+        "is",
+        "identifies",
+        "was",
+        "baffles",
+        "wins",
+        "was",
+        "was",
+        "knew",
+        "were",
+        "were forced",
+        "sensed",
+        "had got",
+        "had come",
+        "is",
+        "has abandoned",
+        "has visited",
+        "entering",
+        "is",
+        "has known",
+        "is",
+        "can understand",
+        "find",
+        "is",
+        "is",
+        "is come"
+      ],
+      "directief": [
+        "must make war",
+        "must fight",
+        "renew",
+        "let the tinsel... blind us",
+        "sound the glad sound",
+        "let every heart rejoice",
+        "let earth receive",
+        "let every heart prepare"
+      ],
+      "expressief": [
+        "I suppose",
+        "we recognize",
+        "we admit",
+        "we feel",
+        "we have a right to celebrate"
+      ],
+      "commissief": [
+        "offers",
+        "promise"
+      ],
+      "declaratief": [
+        "Christ is born!"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "For unto you is born this day... a Savior.",
+        "categorie": "ASSERTIVE (in this context)",
+        "illocutionaire_kracht": "The preacher quotes the text as a historical fact rather than a present delivery.",
+        "effectiviteit": "Informative but not performative."
+      },
+      {
+        "zin": "He is empowered to say, 'Thy sins be forgiven'.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Talking about Jesus' power rather than exercising the delegated power to forgive.",
+        "effectiviteit": "Creates a 'constative surplus'—talking about the event instead of the event happening."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Talking About' (Constative) vs 'Proclaiming To' (Performative). It is high on locutionary beauty but low on illocutionary impact."
+  }
+}

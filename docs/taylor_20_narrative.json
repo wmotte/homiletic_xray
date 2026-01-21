@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "At Year's End",
+    "bijbeltekst": "Psalm 55:22",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from the burden of past failures and the anxiety of passing time to a state of divine sustenance through the act of 'casting' burdens upon God.",
+      "subject": {
+        "identificatie": "The Hearer/Believer (Anthropocentric Subject)",
+        "tekstueel_bewijs": [
+          "People of sane mind will feel a compulsion to reflect",
+          "We could have made the last year so much better",
+          "What shall we do at year's end?",
+          "We can cast our cares upon the Lord"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Sustenance and relief from guilt/failure",
+        "tekstueel_bewijs": [
+          "he shall sustain thee",
+          "releasing us from the burden of guilt",
+          "sending us forth strong"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Psalmist / Religious Tradition",
+        "tekstueel_bewijs": [
+          "the psalmist's word ought to speak to us",
+          "the sentiment of a rejoicing singer in ancient Israel"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (as the one who receives the 'second chance')",
+        "tekstueel_bewijs": [
+          "he will give thee thy heart's desire",
+          "he shall never suffer the righteous to be moved"
+        ],
+        "positie_hoorder": "The hearer identifies as the Subject who must act (cast) to become the Receiver."
+      },
+      "helper": {
+        "identificatie": "God / Faith",
+        "tekstueel_bewijs": [
+          "the Lord will sustain those who put their faith in him",
+          "his faith in God speaks to the conditions"
+        ],
+        "rol_van_god": "God is primarily a Helper who reacts to the Subject's initiative.",
+        "rol_van_geest": "Absent; replaced by 'a presence' or 'religious faith'."
+      },
+      "tegenstander": {
+        "identificatie": "Regret, Lost Opportunities, and Time",
+        "tekstueel_bewijs": [
+          "subtle siren voices within",
+          "the burden of lost opportunities",
+          "Time like an ever rolling stream"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is internal regret and the passage of time rather than radical evil or ontological sin."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical mandate to improve the lives of others and spread the gospel.",
+      "subject": "The Hearer",
+      "object": "The happiness of others / Spread of the kingdom",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon oscillates between God sustaining the hearer and the hearer's duty to 'make things better' without a clear causal link from grace to ethics."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Psalmist → Sustenance → Hearer",
+      "helper_subject_tegenstander": "God/Faith → Hearer ← Regret/Time",
+      "subject_naar_object": "Hearer → Casting Burdens → Peace"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "42",
+      "ratio": "0.33",
+      "voorbeelden_god_subject": [
+        "he shall sustain thee",
+        "God has made you so",
+        "the Lord can make our failures... turn out to his name's glory"
+      ],
+      "voorbeelden_mens_subject": [
+        "We could have made the last year so much better",
+        "We let down too often",
+        "we can cast our cares upon the Lord"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "people... will feel a compulsion to reflect",
+          "we have not done what we should have done"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "We wish we could call the time back",
+          "bright-eyed with eagerness"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we did not possess any sudden new knowledge"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "we have the power to make things a little better",
+          "our power to get the deal done"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the 'will' and 'desire' of the hearer to change their state through the 'decision of faith'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Sustenance/Peace",
+      "s2": "Burden/Guilt",
+      "niet_s1": "Failure/Neglect",
+      "niet_s2": "Repentance/Casting"
+    },
+    "beweging_in_preek": "Moves from S2 (Burden) to ~S2 (Repentance) to S1 (Sustenance).",
+    "theologische_resolutie": "Resolution is achieved by the human act of 'casting,' which triggers the divine response.",
+    "ernst_van_s2": "Moderate; S2 is treated as 'mistakes' and 'muffed chances' rather than death or judgment."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While it uses the language of the Gospel, the actantial structure is anthropocentric: the human is the Subject who must 'cast' to activate God as the Helper.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "the Lord will sustain those who put their faith in him",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Human as primary agent of change",
+        "tekstueel_bewijs": "we have the power to make things a little better",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Recognition of human inability",
+        "tekstueel_bewijs": "the way we have come was not our doing at all",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Psalmist is used as a model for the hearer's own 'loftiest decision of religious faith'.",
+      "bijbelse_figuren_als_model": [
+        "The Psalmist"
+      ],
+      "alternatieve_lezing": "Focus on how God preserved the Psalmist despite his desire to 'fly away'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform the 'act of faith' correctly to receive relief.",
+      "theologische_implicatie": "Synergism where human initiative is the catalyst for grace."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The transition from 'God's doing' in the past to 'our power' in the present creates a structural tension.",
+      "spanning_punten": [
+        "The claim that the past was 'not our doing' vs the claim that we have 'the power to make things better'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "releasing us from the burden of guilt... and sending us forth strong",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer already has the 'power' (Pouvoir) to cast the burden."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Low; sin is described as 'muffed chances' and 'wrong turns'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (building a good life)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon positions the hearer as the Subject of the verb 'to cast' and God as the Helper who 'sustains'. This makes grace a response to human action.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of the turning point.",
+      "voorgestelde_herpositionering": "Make God the Subject who 'takes' the burden.",
+      "voorbeeld_revisie": "Instead of 'Cast your burden,' use 'Christ has come to take your burden upon Himself.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Trustee of happiness'.",
+      "voorgestelde_identificatie": "Hearer as the 'helpless one' in the Psalm.",
+      "strategie": "Emphasize the 'wit's end' state as the place where God acts unilaterally."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir/Vouloir (You must/You should want to).",
+      "voorgestelde_balans": "Pouvoir (God enables).",
+      "concrete_suggestie": "Focus on how the 'presence' actually gives the power that the hearer lacks."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Weak (regret/mistakes).",
+      "voorgestelde_intensivering": "Address the 'burden' as a terminal weight that no human can 'cast' by their own will.",
+      "theologische_rationale": "To make the 'sustenance' of God a miracle rather than a psychological relief."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The 'second chance' (Ethics) is fused with 'Sustenance' (Soteriology).",
+      "voorgestelde_structuur": "1. God sustains the failing sinner (Unconditional). 2. Therefore, the sinner is free to serve the neighbor."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a warm, pastoral tone, but its structural engine relies heavily on human resolve. Shifting the active verbs to God would transform this from a 'new year's resolution' into a proclamation of the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is comforting; actantially, it is demanding.",
+    "verschil_met_exegese": "Exegesis might focus on the Hebrew context of Psalm 55; Greimas reveals the modern preacher's anthropocentric bias.",
+    "unieke_inzichten_greimas": "Reveals that 'faith' is being treated as a human 'work' or 'competence' (Savoir-faire) that triggers God's action."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "People (feel compulsion)",
+      "We (think)",
+      "We (could have made)",
+      "We (let down)",
+      "Psalmist (feels helpless)",
+      "God (shall sustain)",
+      "You (can throw sunshine)"
+    ],
+    "volledige_object_lijst": [
+      "The road",
+      "The burden",
+      "The righteous",
+      "The deal",
+      "The good news"
+    ],
+    "werkwoord_frequentie": {
+      "think": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "sustain": {
+        "count": "5",
+        "primair_subject": "God"
+      },
+      "make": {
+        "count": "7",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses 'God' as a noun frequently, but 'Man' remains the primary driver of the narrative arc."
+  }
+}

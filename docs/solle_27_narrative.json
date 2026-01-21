@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "titel_preek": "Lachen und Essen – Das christliche Abendmahl",
+    "bijbeltekst": "1 Korinther 11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The renewal of the church through the transformation of the Eucharist from a private, somber ritual into a communal meal of justice and joy.",
+      "subject": {
+        "identificatie": "The Community / 'We' (The Church)",
+        "tekstueel_bewijs": [
+          "Wir suchen heute Morgen nach ihrer Erneuerung",
+          "Wir müssen teilen",
+          "Mahlfeiern wie diese sollten wir weiterentwickeln"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Justice, Joy, and Solidarity (The 'Healed' World)",
+        "tekstueel_bewijs": [
+          "Heilung der Welt",
+          "Gerechtigkeit der Beziehungen",
+          "Fest des Lebens"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Vision of the Early Church / The 'Dream' of Justice",
+        "tekstueel_bewijs": [
+          "So ähnlich stelle ich mir die Gottesdienste der Urgemeinde vor",
+          "Träumst Du auch immer von der Heilung der Welt?"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Marginalized (Refugees, Debt-ridden babies like Sauda, the Poor)",
+        "tekstueel_bewijs": [
+          "die Ärmsten",
+          "die andern beiden Drittel der Weltbevölkerung"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Political Action, Memory of Jesus, Shared Meals",
+        "tekstueel_bewijs": [
+          "You have to go to City Hall!",
+          "Die Erinnerung an Jesus war das Band der Einigung"
+        ],
+        "rol_van_god": "God is an event occurring within the act of sharing ('Gott ereignet sich da, wo Teilen und Heilen geschieht').",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Capitalism, Debt Systems, Tradition (Somberness), Heterosexism",
+        "tekstueel_bewijs": [
+          "wirtschaftliche Egoismus",
+          "ökonomische Zwangskreisläufe",
+          "spätere christliche Erfindung [of somberness]"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily systemic injustice and outdated church traditions rather than ontological sin or death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The historical narrative of Paul correcting the Corinthian church.",
+      "subject": "Paul / Chloe",
+      "object": "Solidarity in the meal",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The historical conflict serves as a blueprint for the modern ethical imperative."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Vision of Justice → Shared Meal → The Poor",
+      "helper_subject_tegenstander": "Political Pressure → The Community ← Economic Egoism",
+      "subject_naar_object": "The Community → Justice/Joy"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "85",
+      "ratio": "0.14",
+      "voorbeelden_god_subject": [
+        "Gott ereignet sich da",
+        "Gott bringt Brot aus der Erde hervor"
+      ],
+      "voorbeelden_mens_subject": [
+        "Wir suchen nach ihrer Erneuerung",
+        "Wir müssen teilen",
+        "Wir sollten die Ungerechtigkeit... einbeziehen"
+      ],
+      "rutledge_score": "2"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "You have to go to City Hall!",
+          "wer in der Gemeinde leben will... muss das Teilen lernen",
+          "Die Reichen... müssen zu Hause bleiben"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Wir möchten... in das Thema hineinspringen",
+          "Ich sehne mich nach Gott"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Wir haben miteinander darüber nachgedacht"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Licht Gottes, das uns fähig macht"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily driven by obligation (Devoir) and desire (Vouloir). The ability to act (Pouvoir) is assumed to follow from political awareness and will."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Solidarity/Sharing",
+      "s2": "Exclusion/Debt",
+      "niet_s1": "Private Piety",
+      "niet_s2": "Cheap Charity"
+    },
+    "beweging_in_preek": "From S2 (Debt/Exclusion) through ~S1 (Private/Somber Piety) toward S1 (Political Solidarity).",
+    "theologische_resolutie": "Resolution is found in human action (sharing) which 'becomes' the event of God.",
+    "ernst_van_s2": "S2 is taken very seriously as a social reality, but less as a spiritual/ontological one."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'joy' and 'God,' the engine is anthropocentric. The primary subject of almost all active verbs regarding change and salvation (social/ecclesial) is 'We'. God is the result of human sharing, not the initiator of it.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "God as Instrument/Event of Man",
+        "tekstueel_bewijs": "Gott ereignet sich da, wo Teilen und Heilen geschieht.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Imperative Dominance",
+        "tekstueel_bewijs": "An unserm Verhalten hängt es, diesen Druck laut und sichtbar zu machen.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christological Memory",
+        "tekstueel_bewijs": "Die Erinnerung an Jesus war das Band der Einigung.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The early church and the community in Palo Alto are used as models for the hearer to replicate.",
+      "bijbelse_figuren_als_model": [
+        "The Corinthian Church",
+        "Paul (as social critic)",
+        "Chloe"
+      ],
+      "alternatieve_lezing": "Focus on how Christ feeds the unworthy, rather than how the wealthy must learn to share."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform politically/socially to 'make' God happen.",
+      "theologische_implicatie": "Synergism where human action is the prerequisite for divine presence."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The ethical program has completely swallowed the soteriological program.",
+      "spanning_punten": [
+        "The tension between the 'longing for God' and the 'requirement of political pressure'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Christi Tod... die Erinnerung ermöglichte einen neuen Anfang.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "None; competence is found in 'common work for justice'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "SOCIAL",
+      "ernst_diagnose": "Sin is defined as exclusion and economic debt, not as a condition before God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (through pressure on banks/governments)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a political manifesto with a religious vocabulary. The 'Subject' is consistently the human community.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The community is the subject of 'healing' and 'creating' God.",
+      "voorgestelde_herpositionering": "Make Christ the host of the meal who feeds the incompetent.",
+      "voorbeeld_revisie": "Instead of 'We must share to make God happen,' use 'Christ shares Himself with us, which breaks our grip on our possessions.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'activist' hero.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 'hungry' rather than the 'giver'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Gift of Grace)",
+      "concrete_suggestie": "Focus on how the Spirit enables the heart to let go of wealth."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "External (Banks/Tradition)",
+      "voorgestelde_intensivering": "Address the internal 'Opponent' of the human heart's bondage to self.",
+      "theologische_rationale": "Without a heavy internal opponent, grace becomes merely a 'good idea' for social reform."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics precedes and defines Soteriology.",
+      "voorgestelde_structuur": "Soteriology (Christ feeds us) → Ethics (We feed others)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The passion for justice is commendable, but the narrative structure places the burden of 'becoming the body of Christ' entirely on human effort."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, it is inviting and 'joyful'; actantially, it is a heavy law-driven mandate.",
+    "verschil_met_exegese": "Exegesis is used to support a pre-defined social-gospel agenda rather than letting the text's own 'Subject' (God/Christ) speak.",
+    "unieke_inzichten_greimas": "Reveals that 'God' is functionally a 'Helper' or a 'Result' rather than the 'Sender' or 'Subject'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wir suchen",
+      "Wir brauchen",
+      "Wir leiden",
+      "Ich erzähle",
+      "Wir sangen",
+      "Die Gemeinde hat sich zusammengeschlossen",
+      "Wir müssen teilen",
+      "Wir sollten weiterentwickeln",
+      "Wir machen uns an die Arbeit"
+    ],
+    "volledige_object_lijst": [
+      "Erneuerung der Kirche",
+      "Heimat",
+      "Gerechtigkeit",
+      "Teilen",
+      "Heilung der Welt"
+    ],
+    "werkwoord_frequentie": {
+      "teilen": {
+        "count": "14",
+        "primair_subject": "Man"
+      },
+      "müssen/sollen": {
+        "count": "18",
+        "primair_subject": "Man"
+      },
+      "geben/schenken": {
+        "count": "4",
+        "primair_subject": "God/Jewish People"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Horizontalism' where the vertical axis of transmission (God to Man) is replaced by a horizontal axis of social action."
+  }
+}

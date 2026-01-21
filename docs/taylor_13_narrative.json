@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "A Total Answer",
+    "bijbeltekst": "Proverbs 3:6",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject seeks a 'total answer' to life's failures, skepticism, and self-centeredness by acknowledging God, who in turn provides direction.",
+      "subject": {
+        "identificatie": "The Hearer / 'We'",
+        "tekstueel_bewijs": [
+          "In all thy ways acknowledge him",
+          "We decide that never again will we put our trust",
+          "We flounder and stumble and puzzle",
+          "Claim it. Seize it."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Direction / The Total Answer / Meaningful Life",
+        "tekstueel_bewijs": [
+          "he shall direct thy paths",
+          "answers that will stand up in our lives",
+          "the key to the strange mystery of living"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Bible / Wisdom Tradition",
+        "tekstueel_bewijs": [
+          "The Bible has only one answer",
+          "tested and distilled wisdom of a people's long and checkered history"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / 'We'",
+        "tekstueel_bewijs": [
+          "It belongs to you",
+          "This is the legacy of your sonship"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "God / Unexpected Kindness",
+        "tekstueel_bewijs": [
+          "some unexpected kindness is done to us",
+          "God is there, standing with you in the good fight, sustaining, rallying you"
+        ],
+        "rol_van_god": "God is primarily a Helper to the human Subject's struggle.",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Self-centeredness / Skepticism / Failure / Habits",
+        "tekstueel_bewijs": [
+          "weird disease of self-centeredness",
+          "that old habit, that despised thing you fought so long",
+          "giant enemies who overpower them"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "While called 'giant enemies', they are framed as obstacles to human flourishing and self-actualization rather than cosmic spiritual death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The movement from self-centeredness to gratitude through the recognition of creatureliness.",
+      "subject": "The Hearer",
+      "object": "Humility and Thankfulness",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "The secondary program is the ethical/psychological result of the primary act of 'acknowledging'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Bible/Wisdom → Direction → The Hearer",
+      "helper_subject_tegenstander": "God/Kindness → The Hearer ← Self-centeredness/Habit",
+      "subject_naar_object": "The Hearer → Acknowledging God"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "he shall direct thy paths",
+        "God is there, standing with you",
+        "God knows, we need some answers"
+      ],
+      "voorbeelden_mens_subject": [
+        "In all thy ways acknowledge him",
+        "We flounder and stumble",
+        "We decide that never again will we put our trust",
+        "Claim it. Seize it."
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "In all thy ways acknowledge him",
+          "no disadvantaged young person ought to let",
+          "Never forsake it. Never forget it."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "the kind of man he wanted to be",
+          "we meant to be more than we have become"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "I thought I knew the answer",
+          "How hard a lesson! How long we have been in learning it."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "we are powerless to do anything about it",
+          "whether he could bring off what he wanted to do"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward the obligation (Devoir) of the human subject to 'acknowledge' God as the condition for receiving direction."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Acknowledging God (Direction)",
+      "s2": "Self-Centeredness (Despair)",
+      "niet_s1": "Skepticism/Ignoring God",
+      "niet_s2": "Creaturely Awareness"
+    },
+    "beweging_in_preek": "From S2 (Despair) to ~S1 (Skepticism) to S1 (Acknowledging) via ~S2 (Humility).",
+    "theologische_resolutie": "Resolution is found in the human act of 'claiming' and 'seizing' the legacy of sonship.",
+    "ernst_van_s2": "S2 is treated as a tragic failure of potential rather than a state of spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is structurally anthropocentric. The primary active verb of the text (acknowledge) is treated as a human work/condition that triggers God's response. God is the Helper/Object, while Man is the Subject.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "In all thy ways acknowledge him, and [then] he shall direct thy paths.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Imperatival Climax",
+        "tekstueel_bewijs": "Claim it. Seize it. It belongs to you.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Prevenient Kindness",
+        "tekstueel_bewijs": "some totally unmerited favor is shown to us, putting all our doubt under assault",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The 'ragged wreck of a man' and the 'young person' serve as negative and positive examples of the human struggle to 'become' what one meant to be.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Instead of 'acknowledge God so He directs you,' a theocentric reading would be 'God has sought you in your failure to direct you home.'"
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform the act of 'acknowledging' to fix life's problems.",
+      "theologische_implicatie": "Synergism where human initiative is the catalyst for divine action."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is coherent in its wisdom-literature approach but lacks a clear Gospel-centered hierarchy where salvation precedes ethics.",
+      "spanning_punten": [
+        "The tension between being 'powerless' over habits and the command to 'seize' the legacy."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The sense of God helps us not to think more highly of ourselves than we ought to.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer has the 'Vouloir' (will) and just needs the 'Savoir' (wisdom) to act."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as 'self-centeredness' and 'failure' to reach one's potential."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Wisdom' lecture where God is a resource for the human subject to navigate life's difficulties.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'acknowledging', 'claiming', and 'seizing'.",
+      "voorgestelde_herpositionering": "Make God the subject of the 'acknowledging'—God recognizes and knows us first.",
+      "voorbeeld_revisie": "Before you could even think to acknowledge Him, God has already acknowledged you as His own in Christ."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero who must learn the lesson.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the 'unmerited favor' mentioned early on as the primary driver, not the human response."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must acknowledge)",
+      "voorgestelde_balans": "POUVOIR (God enables)",
+      "concrete_suggestie": "Focus on how God gives the power to acknowledge Him when we are 'powerless'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Sin as a 'weird disease' or 'bad habit'.",
+      "voorgestelde_intensivering": "Present the 'giant enemies' as forces only a Divine Subject can defeat.",
+      "theologische_rationale": "To move from 'self-help' to 'salvation'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "The 'Total Answer' is presented as a reward for human recognition.",
+      "voorgestelde_structuur": "God's direction is the primary gift that enables our acknowledgment."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and psychologically astute, but structurally risks placing the burden of 'direction' back on the hearer's ability to maintain a state of acknowledgment."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is inclusive and poetic; actantially, it is a series of demands on the hearer.",
+    "verschil_met_exegese": "Exegesis of Proverbs 3:6 often misses the 'if/then' trap that the actantial model exposes as potential moralism.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the mention of 'unmerited favor', the 'engine' of the sermon is fueled by human 'Devoir-faire'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We need",
+      "We think",
+      "We decide",
+      "We wallow",
+      "We flounder",
+      "We meant to be",
+      "You acknowledge",
+      "He [God] shall direct"
+    ],
+    "volledige_object_lijst": [
+      "Answers",
+      "The key",
+      "The meat of life",
+      "Direction",
+      "Forgiveness"
+    ],
+    "werkwoord_frequentie": {
+      "acknowledge": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "direct": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses high-register literary references (Browning, Spengler) to bolster the 'Savoir' (knowledge) of the subject."
+  }
+}

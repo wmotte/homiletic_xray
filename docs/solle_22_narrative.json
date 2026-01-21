@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "Zeugen der Wahrheit",
+    "bijbeltekst": "Apostelgeschichte 1,8",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "550"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The transformation of individuals (Romero, Gomez, the congregation) into witnesses of truth through the encounter with the poor and the reception of the Spirit's power.",
+      "subject": {
+        "identificatie": "The Human Individual/The People (The 'We')",
+        "tekstueel_bewijs": [
+          "Auch wir werden Zeugen sein.",
+          "Wir können uns an andere erinnern.",
+          "Wir brauchen uns nicht zu fürchten."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Witnessing/Truth/Justice (Zeugenschaft/Wahrheit)",
+        "tekstueel_bewijs": [
+          "Verbreiterinnen der Wahrheit",
+          "Mut, für die Gerechtigkeit einzutreten"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Poor/The Dead (The 'Source' of conversion)",
+        "tekstueel_bewijs": [
+          "Er [Romero] organisiert uns, will sagen, er bekehrt uns.",
+          "von den Armen evangelisiert worden ist"
+        ],
+        "rol_interpretatie": "THERAPIST/SOCIAL_CATALYST"
+      },
+      "ontvanger": {
+        "identificatie": "The World/The Oppressed",
+        "tekstueel_bewijs": [
+          "bis in die entferntesten Länder der Erde",
+          "die Sache der Gerechtigkeit"
+        ],
+        "positie_hoorder": "The hearer identifies with the Subject (the one who must become a witness)."
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit/The Example of Saints",
+        "tekstueel_bewijs": [
+          "Ihr werdet die Kraft des heiligen Geistes empfangen.",
+          "Was wir an Oscar Romero lernen können."
+        ],
+        "rol_van_god": "God (as Spirit) is instrumentalized as a source of 'power' (Helper) for the human Subject.",
+        "rol_van_geest": "External endowment of 'Mut' (courage) and 'Wahrheitsfähigkeit' (capacity for truth)."
+      },
+      "tegenstander": {
+        "identificatie": "Fear, Ignorance, and Political Oppressors",
+        "tekstueel_bewijs": [
+          "die die Realität nicht wahrhaben wollen",
+          "Mörder",
+          "dumme Meinung"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily the socio-political status quo and the internal 'stupid opinion' that we cannot be like saints."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The 'Conversion of the Saint' (Romero's own journey from ignorance to witness).",
+      "subject": "Oscar Romero",
+      "object": "Solidarity with the poor",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Romero's story serves as the 'competence-building' phase for the hearer's own narrative."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Poor/The Dead → Justice/Truth → The World",
+      "helper_subject_tegenstander": "Holy Spirit/Romero → The Hearer ← Fear/Social Injustice",
+      "subject_naar_object": "The Hearer → Witnessing"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "22",
+      "ratio": "0.18",
+      "voorbeelden_god_subject": [
+        "Ihr werdet die Kraft des heiligen Geistes empfangen.",
+        "Gottes Gebot sagt: Du sollst nicht töten."
+      ],
+      "voorbeelden_mens_subject": [
+        "Er [Romero] organisiert uns.",
+        "Wir können uns an andere erinnern.",
+        "Auch wir werden Zeugen sein.",
+        "Er [Gomez] hat das Christsein verstanden."
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Du sollst nicht töten."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Er [Romero] will sagen, er bekehrt uns.",
+          "Wir brauchen uns nicht zu fürchten."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Das können wir an Oscar Romero lernen.",
+          "Irgendwann einmal wird es auch der Vatikan merken."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Ihr werdet die Kraft empfangen.",
+          "Wahrheitsfähigkeit."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on 'Empowerment'. It assumes the hearer has the 'Devoir' (obligation) but needs the 'Savoir' (example of Romero) and 'Pouvoir' (Spirit as fuel) to act."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Truth/Witness",
+      "s2": "Death/Silence",
+      "niet_s1": "Ignorance/Fear",
+      "niet_s2": "Living Memory/Organization"
+    },
+    "beweging_in_preek": "From S2 (Death) to ~S2 (The dead are not dead) to S1 (Witnessing).",
+    "theologische_resolutie": "Resolution is found in the 'Organization' of the cause of justice which survives death.",
+    "ernst_van_s2": "Moderate; death is seen as a transition to a more 'active' influence rather than a final enemy defeated by God."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of the Spirit, the sermon is structurally anthropocentric. The 'engine' is the human imitation of a heroic model (Romero) to achieve social justice. God is the 'Helper' (power-source) rather than the 'Subject' of salvation.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism",
+        "tekstueel_bewijs": "Wie Oscar Romero, so auch wir. Wie Jesus, so auch wir.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Was ist die Kraft des Geistes? Mut und Wahrheitsfähigkeit.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Passive Reception",
+        "tekstueel_bewijs": "Ihr werdet die Kraft... empfangen.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarism_check": {
+      "aanwezig": true,
+      "beschrijving": "Romero is presented as a fallible but ultimately successful model of conversion and courage that the hearer can and should replicate.",
+      "bijbelse_figuren_als_model": [
+        "Jesus (as a fellow witness)",
+        "The Apostles"
+      ],
+      "alternatieve_lezing": "God is the one who, despite Romero's mistakes and the power of death, vindicates the weak and establishes His kingdom."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Inspiration followed by potential exhaustion (the burden of being a 'witness' like a martyr).",
+      "theologische_implicatie": "Soteriology is collapsed into Ethics; being 'saved' is equated with being 'converted to the cause of the poor'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is coherent as a call to political/social action, but the theological 'Primary Program' (God's action) is almost entirely absorbed by the 'Secondary Program' (Human response).",
+      "spanning_punten": [
+        "The quote 'Wie Jesus, so auch wir' flattens the ontological difference between the Redeemer and the redeemed."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Er [Romero] organisiert uns, will sagen, er bekehrt uns.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit provides the 'Pouvoir' (courage) for the human Subject to perform the task."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'not wanting to see reality' or 'stupid opinions' rather than a cosmic bondage."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "Man (The 'Volk' who canonizes Romero and carries on the cause)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a recruitment speech for social activism. God is the battery, Romero is the blueprint, and the Hearer is the builder.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the Subject of 'witnessing' and 'truth-telling'.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who witnesses to the Father through the church.",
+      "voorbeeld_revisie": "Instead of 'We will be witnesses,' use 'Christ will make His truth known through our weakness.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as Hero/Witness.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that the hearer is first the one 'evangelized' by God's grace before they can act."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Over-reliance on Pouvoir (Power/Ability).",
+      "voorgestelde_balans": "Focus on Devoir (the divine mandate) as a gift of Grace.",
+      "concrete_suggestie": "Explore why we *cannot* be witnesses on our own, necessitating a Subject-switch to Christ."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Opponent is 'ignorance' or 'bad politics'.",
+      "voorgestelde_intensivering": "Identify the 'Opponent' as the power of Death that only a Resurrection (not just 'not being dead') can overcome.",
+      "theologische_rationale": "Without a heavy opponent, the 'power of the Spirit' becomes a mere psychological boost."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has replaced Soteriology (Program 1).",
+      "voorgestelde_structuur": "1. God's victory over death (Soteriology) -> 2. Our participation in His truth (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The passion for justice is commendable, but ensure the 'Good News' is what God has done in Christ, not just what we can do with the Spirit's help."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is powerful and uses evocative imagery (Romero). Actantially, it reveals a shift where the human becomes the primary actor.",
+    "verschil_met_exegese": "Exegesis of Acts 1:8 usually emphasizes the sovereign initiative of the ascended Lord; here, it is used as a mandate for human 'Wahrheitsfähigkeit'.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'Jesus' and 'The Spirit' are functioning as Adjuvants (Helpers) rather than Subjects, exposing the underlying moralism."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Romero (organisiert, bekehrt, macht Fehler)",
+      "Wir (erinnern, werden Zeugen sein, brauchen uns nicht zu fürchten)",
+      "Das Volk (führt, nennt ihn heilig)",
+      "Christus (sagt)"
+    ],
+    "volledige_object_lijst": [
+      "Wahrheit",
+      "Gerechtigkeit",
+      "Kraft",
+      "Bekehrungsprozess"
+    ],
+    "werkwoord_frequentie": {
+      "sein (Zeugen)": {
+        "count": "5",
+        "primair_subject": "Man"
+      },
+      "bekehren": {
+        "count": "3",
+        "primair_subject": "Man/Example"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Liberation Theology' moralism where the Gospel is the 'cause' of the poor."
+  }
+}

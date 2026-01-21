@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "titel_preek": "Sin",
+    "bijbeltekst": "Genesis 2:16-17; 3:1-9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explains the origin and nature of sin through the narrative of Genesis 3, defining sin as a lack of trust in God's love and a self-centered attempt to be one's own savior and lord.",
+      "exegetische_kwaliteit": "High. Uses historical-redemptive exegesis, connecting the 'tree' of Genesis to the 'tree' of the Cross.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is Asserting (teaching the doctrine of sin), but it shifts toward the end to Commissive (promising grace) and Directive (inviting the hearer to Christ).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "The Bible says that’s exactly right.",
+        "I want you to see at the end.",
+        "Don’t you want this?"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Conviction of sin (shattering self-righteousness) and comfort through the substitutionary work of Christ.",
+      "pneumatologisch_bewustzijn": "Implicit. The preacher relies on the logic of the gospel to 'transform' the heart, though the closing prayer acknowledges God's help.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "trust",
+        "behold",
+        "repent",
+        "rest"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "High",
+      "procent": "70%",
+      "voorbeelden": [
+        "The Serpent has not targeted belief in the existence of God.",
+        "Sin is putting ourselves in the place of God.",
+        "Human nature is incurvatus in se."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "means",
+        "happened"
+      ]
+    },
+    "directieven": {
+      "frequentie": "Moderate",
+      "procent": "10%",
+      "voorbeelden": [
+        "Have you faced yourself?",
+        "Never trust the Serpent.",
+        "Get Jesus Christ’s healing."
+      ],
+      "dominante_werkwoorden": [
+        "do",
+        "look",
+        "get",
+        "behold"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "Low",
+      "procent": "5%",
+      "voorbeelden": [
+        "I don’t understand psychology like I probably should.",
+        "It’s astonishing to me."
+      ],
+      "dominante_werkwoorden": [
+        "understand",
+        "feel",
+        "know"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "Moderate",
+      "procent": "10%",
+      "voorbeelden": [
+        "That cross becomes a tree of life for you and me.",
+        "This will handle that [self-doubt]."
+      ],
+      "dominante_werkwoorden": [
+        "becomes",
+        "will handle",
+        "is for you"
+      ],
+      "kwaliteit": "Strongly Christocentric, binding God's grace to the hearer's specific anxieties."
+    },
+    "declaratieven": {
+      "frequentie": "Low",
+      "procent": "5%",
+      "voorbeelden": [
+        "He did it for you.",
+        "Salvation is God taking your place."
+      ],
+      "dominante_werkwoorden": [
+        "did",
+        "is"
+      ],
+      "autoriteit": "The preacher speaks as a witness to the Gospel's reality rather than using explicit sacerdotal formulas (e.g., 'I forgive you')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75%",
+    "performatief_percentage": "25%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of 'Sociologists will say', 'Psychologists will say'.",
+        "Long sections explaining Luther and Chesterton (talking about the doctrine)."
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and intellectually convinced, but the 'event' of encounter is delayed until the final third."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "LOW",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct sacramental address earlier in the text"
+      ],
+      "effect_op_hoorder": "The hearer remains an observer of a 'lecture on sin' for a significant duration."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 4,
+      "kwaliteit_toezeggen": "High. Specifically addresses the 'New Yorker' identity and 'fig leaves'.",
+      "voorbeelden": [
+        "Because he took the punishment... there's the gospel.",
+        "That cross becomes a tree of life for you."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Used for pastoral humility ('I don't understand') and inclusive 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": "High (in application)",
+        "gebruik": "Directly challenging the hearer's self-trust and offering Christ.",
+        "performatieve_context": "Used to apply the 'tree of life' to the hearer's 'fig leaves'."
+      },
+      "derde_persoon": {
+        "frequentie": "High (in exposition)",
+        "gebruik": "Describing Adam, Eve, the Serpent, and various theorists.",
+        "distantie_effect": "Creates a necessary distance for objective analysis of the human condition."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Narrating Genesis and historical anecdotes (Eichmann)."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Defining the essence of sin and human nature."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The 'now' of the Gospel offer."
+      }
+    },
+    "adressering_effectiviteit": 8
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Avoids simple moralism (Assertive -> Directive).",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Nature of sin) -> Commissive (Christ's work for you) -> Directive (Get his healing).",
+      "voorbeelden": [
+        "Salvation is God putting himself in our place... He did it for you... Get Jesus Christ's healing."
+      ],
+      "kwaliteit": "Excellent. The imperative is strictly grounded in the indicative of the cross."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because the cross was a tree of death for Jesus... that cross becomes a tree of life for you... Don't you want this?"
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "SACRAMENTAL_CREATIVE",
+    "diagnose_toelichting": "Despite a heavy constative start, the sermon successfully transitions into a performative event by the 'toezegging' (promise) of the cross as the reversal of the fall.",
+    "sterke_punten": [
+      {
+        "aspect": "Commissives",
+        "categorie": "Performative",
+        "tekstueel_bewijs": "The tree of life for all, but only me.",
+        "effect": "Moves the sermon from a lecture on sin to an offer of life."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertives",
+        "tekstueel_bewijs": "Long sections on Eichmann and Erikson.",
+        "probleem": "Delays the illocutionary force of the Gospel.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 8,
+    "gebeuren_toelichting": "The sermon 'happens' when the preacher stops talking about sin and starts offering the 'tree of life' to the 'New Yorker's fig leaves'.",
+    "sacramentele_kracht": 7,
+    "sacramentele_toelichting": "The word functions as a means of grace by re-presenting Christ's substitution."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, especially in the section on God as the 'Wonderful Counselor' seeking the lost.",
+      "prediker_als_mandataris": "Yes, the preacher speaks on behalf of the Gospel's logic.",
+      "tekstueel_bewijs": [
+        "But the Lord God called to the man, 'Where are you?'"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Implicitly in the prayer, but less so in the mechanics of the sermon.",
+      "perlocutie_theologie": "The preacher aims for 'metanoia' through the clarity of the Word.",
+      "tekstueel_bewijs": [
+        "Our Father, we’re grateful that you have helped us see..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the sermon is treated as the 'healing' it offers.",
+      "epifanisch_taalgebruik": "Strong in the 'behold the glory' section.",
+      "tekstueel_bewijs": [
+        "But if you behold the glory of Jesus Christ dying on the cross..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on 'is' and 'says' (Assertives). It needs more 'I promise' or 'God declares' (Commissives/Declaratives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Sin is putting yourself in God's place.",
+          "voorgestelde_revisie": "By your self-centeredness, you have put yourself in God's place.",
+          "verschil": "Shifts from a definition to a direct address/accusation (illocutionary force)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": false,
+      "probleem": "N/A",
+      "suggestie": "The current toezegging is strong but could appear earlier.",
+      "voorbeeldzinnen": [
+        "I announce to you today: Christ has climbed your tree."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' (Adam/Eve) and 'people' (Sociologists).",
+      "suggestie": "Use 'you' more frequently in the diagnostic phase.",
+      "voorbeeldzinnen": [
+        "You are hiding behind your fig leaves of career and success."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "suggestie": "Maintain the current grounding of the imperative in the indicative."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A masterful example of 'apologetic' preaching that successfully lands in a sacramental 'event' of the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the sermon isn't just 'information' about sin, but a 'call' from God (Where are you?).",
+    "verschil_met_retoriek": "The power is not in the Eichmann anecdote, but in the Commissive force of the 'Tree of Life'.",
+    "unieke_inzichten_SAT": "SAT identifies that the sermon's 'event' status is threatened by the long constative introduction but saved by the performative conclusion."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "says",
+        "means",
+        "realized",
+        "believe",
+        "think"
+      ],
+      "directief": [
+        "look",
+        "face",
+        "do",
+        "behold",
+        "get"
+      ],
+      "expressief": [
+        "understand",
+        "hope",
+        "feel"
+      ],
+      "commissief": [
+        "becomes",
+        "will handle",
+        "gives"
+      ],
+      "declaratief": [
+        "did",
+        "is (in the sense of 'it is finished')"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He did it for you.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Crucial for the sacramental event."
+      }
+    ],
+    "notities": "The sermon follows a classic 'Kellerian' structure: Analysis of the human condition (Constative) followed by the Gospel solution (Performative)."
+  }
+}

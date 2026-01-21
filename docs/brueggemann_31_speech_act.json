@@ -1,0 +1,324 @@
+{
+  "metadata": {
+    "titel_preek": "The Yet on the Other Side of the Millimeter",
+    "bijbeltekst": "Matthew 11:4-5",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "750"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the transition from the 'John season' (preparation/prophecy) to the 'Jesus season' (newness/healing). It uses the metaphor of a 'millimeter' to describe the thin space between expectation and fulfillment.",
+      "exegetische_kwaliteit": "Strong thematic exegesis; focuses on the character of John as a 'theological terrorist' and the catalogue of miracles in Matthew 11.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is describing the biblical narrative and the nature of the two 'seasons'. It shifts to directive towards the end.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Jesus offers a catalogue of newnesses.",
+        "John is a sign of readiness.",
+        "The prophets are Israel's hopers."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To make the hearer aware of the 'newness' of Christ and to encourage a state of readiness.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly mentioned as the agent of the 'event'.",
+      "perlocutionaire_werkwoorden": [
+        "realize",
+        "wait",
+        "prepare",
+        "notice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "42",
+      "procent": "75%",
+      "voorbeelden": [
+        "The distance between John and Jesus is small.",
+        "Jesus is too good to be true.",
+        "Everywhere he goes, newness happens."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "means",
+        "offers"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "12%",
+      "voorbeelden": [
+        "Let anyone who has ears, listen!",
+        "Imagine what it would be like.",
+        "We must be ready."
+      ],
+      "dominante_werkwoorden": [
+        "listen",
+        "must",
+        "imagine",
+        "pay attention"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "4",
+      "procent": "6%",
+      "voorbeelden": [
+        "I will not do that [criticize consumerism].",
+        "I am not sure I am the one."
+      ],
+      "dominante_werkwoorden": [
+        "will not",
+        "am not sure"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "4%",
+      "voorbeelden": [
+        "This yet is our news."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "kwaliteit": "Weak; the 'news' is described as a fact rather than a promise directly bound to the hearer's ears."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "3%",
+      "voorbeelden": [
+        "At that millimeter is the Eucharist."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Low; the sermon points to the Eucharist as the declaration rather than the spoken word itself being the declarative event."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Jesus offers a catalogue...",
+        "The prophets are...",
+        "John is a sign..."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological transition rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise ('I promise you...')",
+        "Direct address of the 'You' in the present tense"
+      ],
+      "effect_op_hoorder": "Intellectual appreciation of 'newness' without the experience of being made new."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon speaks *about* the promise (the 'yet') but does not *deliver* the promise to the specific 'you' of the congregation.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "12",
+        "gebruik": "Preacher's commentary ('I will not do that') and collective 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Mostly hypothetical or general ('If you knew', 'you cannot jump').",
+        "performatieve_context": "Low; used more for pedagogical explanation than direct address."
+      },
+      "derde_persoon": {
+        "frequentie": "45",
+        "gebruik": "Dominant; talking about Jesus, John, and the 'newness'.",
+        "distantie_effect": "High; creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Biblical narrative of John and Jesus."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "Theological definitions of 'newness' and 'prophets'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The mention of the Eucharist at the end."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of newness) -> Directive (We must be ready).",
+      "voorbeelden": [
+        "That is what Jesus does... He is coming and we must be ready."
+      ],
+      "probleem": "The 'newness' is described as an external fact, which then places a burden of 'readiness' on the hearer without a performative bridge of grace."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Commissive/Declarative link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "He is coming and we must be ready."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a brilliant theological essay on the nature of Advent, but it remains in the third person. It talks *about* the event of newness without *becoming* the event of newness.",
+    "sterke_punten": [
+      {
+        "aspect": "Metaphorical Locution",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The distance... is not more than a millimeter.",
+        "effect": "Creates a vivid mental image of the theological tension."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Jesus offers a catalogue of newnesses.",
+        "probleem": "Reporting on Jesus' miracles rather than extending them to the hearer.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a reflection on an event, not a sacramental event in itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The word does not 'do' what it 'says'; it only 'points' to what Jesus 'did'."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; the preacher is the commentator on God's previous speaking.",
+      "prediker_als_mandataris": "Weak; the preacher acts as a theological guide rather than a herald.",
+      "tekstueel_bewijs": [
+        "Let me give you the data you need."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly assumes the hearer will 'imagine' or 'listen' based on the data provided.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; the Eucharist is the means of grace, the sermon is the preparation for it.",
+      "epifanisch_taalgebruik": "No",
+      "tekstueel_bewijs": [
+        "At that millimeter is the Eucharist. It is the feast of God’s newness."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is/are' (Assertives). Needs 'I give/I promise/I declare' (Commissives/Declaratives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus offers a catalogue of newnesses.",
+          "voorgestelde_revisie": "Today, in this word, Jesus gives you sight; He heals your lameness.",
+          "verschil": "Shifts from a report to a gift."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'newness' is a concept, not a promise.",
+      "suggestie": "Use the authority of the office to promise the 'yet' to the specific struggles of the congregation.",
+      "voorbeeldzinnen": [
+        "I promise you, the 'yet' of God is stronger than your 'not enough'."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they' (prophets).",
+      "suggestie": "Address the 'You' directly with the Gospel.",
+      "voorbeeldzinnen": [
+        "You, who are in your own jail cell today, hear this..."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'we must be ready' is not preceded by a performative indicative.",
+      "suggestie": "Declare the hearer 'ready' by Christ's grace before commanding readiness."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Theologically profound and rhetorically beautiful, but needs to move from 'talking about' to 'doing' to reach sacramental power."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'. SAT reveals that the sermon fails not in psychology, but in the lack of a creative, reality-changing word (Declarative).",
+    "verschil_met_retoriek": "Rhetorically, the 'millimeter' metaphor is excellent. Homiletically (SAT), it remains a locutionary ornament that doesn't carry illocutionary weight.",
+    "unieke_inzichten_SAT": "SAT exposes that the preacher is acting as a 'reporter' of Jesus' data rather than an 'ambassador' of Jesus' presence."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "are",
+        "means",
+        "offers",
+        "happens",
+        "emit",
+        "anticipate",
+        "reminding"
+      ],
+      "directief": [
+        "must",
+        "pay attention",
+        "imagine",
+        "listen"
+      ],
+      "expressief": [
+        "will not",
+        "not sure"
+      ],
+      "commissief": [
+        "is (our news)"
+      ],
+      "declaratief": [
+        "is (the Eucharist)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Jesus offers a catalogue of newnesses.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Descriptive",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "Let anyone who has ears, listen!",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Summoning",
+        "effectiviteit": "Strong, but lacks the preceding promise to make listening possible."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'Eucharist' to do the performative work that the 'Word' should have already begun."
+  }
+}

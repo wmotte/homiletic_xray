@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "titel_preek": "Erinnert euch an den Regenbogen",
+    "bijbeltekst": "1 Mose 8,21 f.; 9,8–16",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "750"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Gott vollzieht eine innere Umkehr vom strafenden Krieger zum Friedensstifter, um das Leben auf der Erde vor der Vernichtung zu bewahren.",
+      "subject": {
+        "identificatie": "Gott (als lernendes, sich wandelndes Subjekt)",
+        "tekstueel_bewijs": [
+          "Gott kehrt um, er ändert sich.",
+          "Der alte Gott... war immerhin in der Lage, umzudenken."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Erhalt des Lebens / Frieden mit der Erde",
+        "tekstueel_bewijs": [
+          "im Interesse des Lebens",
+          "das Versprechen des Lebens"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "Die Not der geschundenen Schöpfung / Das Opfer Noahs",
+        "tekstueel_bewijs": [
+          "Gott ist... auf die Seite der misshandelten Erde",
+          "Die Überlebenden bringen Gott ein Opfer."
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "Die Erde und alles lebendige Getier (inkl. Menschheit)",
+        "tekstueel_bewijs": [
+          "zwischen mir und der Erde",
+          "mit allem lebendigen Tier"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Der Regenbogen (als mnemotechnisches Instrument)",
+        "tekstueel_bewijs": [
+          "Gott braucht den Regenbogen, um erinnert zu werden"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Die menschliche Profitgier / Der technokratische Fortschrittsgott",
+        "tekstueel_bewijs": [
+          "Profitgier, die tief im menschlichen Herzen steckt",
+          "westlich-fortschrittliche Gott der Unterwerfung"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Die Zerstörungspotenzial betrifft die gesamte Biosphäre (Hiroshima-Referenz)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Der Mensch muss sich an den Regenbogen erinnern, um ganzheitlich zu werden und den Frieden herzustellen.",
+      "subject": "Der Hörer / Die Menschheit",
+      "object": "Ganzheitlichkeit / Frieden herstellen",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Gottes Umkehr ist das Modell; die menschliche Umkehr (Erinnerung) ist die geforderte Antwort."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Leiden der Erde → Leben/Frieden → Schöpfung",
+      "helper_subject_tegenstander": "Regenbogen → Gott ← Zerstörungswille",
+      "subject_naar_object": "Gott → Bundesschluss"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "18",
+      "ratio": "0.77",
+      "voorbeelden_god_subject": [
+        "Gott kehrt um",
+        "Gott stellt sich auf die Seite",
+        "Gott braucht den Regenbogen"
+      ],
+      "voorbeelden_mens_subject": [
+        "Wir brauchen Zeichen",
+        "Wann hast du zum letzten Mal einen Regenbogen gesehen?",
+        "Wir wissen alle, wie leicht es ist"
+      ],
+      "rutledge_score": "6"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Die Erde soll Erde bleiben",
+          "ein Mensch muss in alle vier Richtungen gehen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Gott wollte zunächst schlagen",
+          "Anfänge neuen Lebens geträumt"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Wir wissen alle, wie leicht es ist",
+          "Erinnert euch (Wissen reaktivieren)"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "kann kein ganzer Mensch werden"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "Die Predigt zielt auf eine Änderung des Wollens (Motivation) durch Erinnerung an Gottes Wandel ab."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Frieden/Leben",
+      "s2": "Fluch/Vernichtung",
+      "niet_s1": "Profitgier/Asphaltierung",
+      "niet_s2": "Umkehr/Verzicht auf Gewalt"
+    },
+    "beweging_in_preek": "Von S2 (Sintflut/Fluch) über ~S2 (Gottes Reue) zu S1 (Regenbogen/Frieden).",
+    "theologische_resolutie": "Gott selbst löst die Spannung, indem er sein eigenes 'Kriegsinstrument' ablegt.",
+    "ernst_van_s2": "Hoch; die Vernichtung wird als reale Gefahr (Hiroshima) ernst genommen."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "Theozentrisch im Fundament (Gottes Umkehr), aber stark anthropozentrisch in der Anwendung (ökologische Ethik und indianische Spiritualität).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalisierung Gottes",
+        "tekstueel_bewijs": "Gott braucht den Regenbogen... wie sehr erst wir!",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Gott als handelndes Subjekt der Rettung",
+        "tekstueel_bewijs": "Gott ist in dieser Geschichte mit der Erde",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Gott selbst wird zum moralischen Vorbild für den 'westlichen Gott' (den Menschen).",
+      "bijbelse_figuren_als_model": [
+        "Gott (als Modell für Umdenken)"
+      ],
+      "alternatieve_lezing": "Gottes Bund ist ein einseitiges Gnadengeschenk, das unabhängig von menschlicher Ganzheitlichkeit besteht."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Appell an die eigene Verantwortung zur Weltrettung.",
+      "theologische_implicatie": "Synergismus: Gottes Frieden braucht den 'herzustellenden Frieden' des Menschen."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "Die Verbindung von biblischer Urgeschichte und indianischer Elementenlehre ist rhetorisch elegant, aber theologisch spannungsreich.",
+      "spanning_punten": [
+        "Gott als Subjekt der Umkehr vs. Mensch als Subjekt der Friedensherstellung"
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Gott kehrt um... Wird der westlich-fortschrittliche Gott... auch umlernen?",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "Wird durch Symbole (Regenbogen) und Naturerfahrung ersetzt."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sünde wird als Profitgier und Einseitigkeit (Mangel an Ganzheit) definiert."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "Gott wird als ein sich entwickelndes Wesen dargestellt, dessen Handeln als Katalysator für menschliche Ethik dient.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "Der Mensch wird zum Subjekt des 'herzustellenden Friedens'.",
+      "voorgestelde_herpositionering": "Christus als der wahre Regenbogen/Mittler, der den Frieden bereits vollbracht hat.",
+      "voorbeeld_revisie": "Nicht wir stellen den Frieden her, sondern Gottes Friede stellt uns wieder her."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hörer als 'Macher' des Friedens.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Betonung der Passivität gegenüber dem Bundeszeichen."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Vouloir/Savoir (Wollen und Wissen)",
+      "voorgestelde_balans": "Pouvoir (Gottes Kraft)",
+      "concrete_suggestie": "Thematisieren, warum wir trotz des Wissens um den Regenbogen die Erde weiter zerstören (Unvermögen)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Bereits stark (Hiroshima, Profitgier).",
+      "voorgestelde_intensivering": "n/a",
+      "theologische_rationale": "Die Predigt nimmt das Böse ernst genug."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethik (Programm 2) droht Soteriologie (Programm 1) zu verschlucken.",
+      "voorgestelde_structuur": "Gottes Bund als unerschütterliche Basis, aus der Ethik als befreite Antwort fließt."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Eine poetisch starke Predigt, die Gott als handelndes Gegenüber ernst nimmt, aber in der Anwendung Gefahr läuft, in einen ökologischen Appell abzugleiten."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch ist die Regenbogen-Metapher zentral; actantiell ist die 'Umkehr Gottes' der eigentliche Motor.",
+    "verschil_met_exegese": "Die Exegese vernachlässigt die Souveränität Gottes zugunsten einer anthropologischen Ganzheitlichkeitslehre.",
+    "unieke_inzichten_greimas": "Greimas deckt auf, dass Gott hier als 'Lernender' (Subject in Kompetenzentwicklung) fungiert, was eine spezifische Prozesstheologie impliziert."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Gott (richtet Bund auf)",
+      "Wir (haben geträumt)",
+      "Profitgier (steckt im Herzen)",
+      "Indianer (haben gelehrt)"
+    ],
+    "volledige_object_lijst": [
+      "Bund",
+      "Frieden",
+      "Ganzheitlichkeit",
+      "Erinnerung"
+    ],
+    "werkwoord_frequentie": {
+      "erinnern": {
+        "count": "7",
+        "primair_subject": "Man"
+      },
+      "verfluchen": {
+        "count": "5",
+        "primair_subject": "God/Man"
+      }
+    },
+    "notities": "Die Predigt zeigt starke Züge der Befreiungstheologie/Schöpfungsspiritualität der 1980er Jahre."
+  }
+}

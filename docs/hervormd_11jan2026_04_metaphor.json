@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "titel_preek": "Wie is jouw influencer?",
+    "bijbeltekst": "Mattheüs 23 (impliciet: de mug uitziften en de kameel doorslikken)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "onvoorwaardelijke liefde",
+          "Gods kind genoemd",
+          "Hij heeft jou lief"
+        ],
+        "conceptuele_metafoor": "GOD IS A LOVING FATHER / FAITH IS A PERSONAL RELATIONSHIP"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "wonden",
+          "beschadigd",
+          "inzinking, burn-out, of een depressie",
+          "vlekken en scheuren"
+        ],
+        "conceptuele_metafoor": "SIN IS A WOUND / SALVATION IS HEALING"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "kwijtscheldt van alle schuld",
+          "vergeven van al je schuld",
+          "niet die volmaakt zijn, maar die vermoeid en belast zijn"
+        ],
+        "conceptuele_metafoor": "SIN IS DEBT / SALVATION IS DEBT CANCELLATION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Jullie maken de buitenkant schoon, net als deze beker, maar de binnenkant van jullie is vol slechtheid.",
+        "brondomein": {
+          "naam": "CONTAINER",
+          "concrete_elementen": [
+            "beker",
+            "buitenkant",
+            "binnenkant",
+            "schoonmaken"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Integriteit/Heiliging",
+          "doctrinale_traditie": "Reformed/Evangelical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Buitenkant van de beker",
+            "doel_element": "Publieke reputatie/gedrag"
+          },
+          {
+            "bron_element": "Binnenkant van de beker",
+            "doel_element": "Het hart/de intenties"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Wat onzichtbaar is, is belangrijker dan wat zichtbaar is."
+          ],
+          "theologische_implicaties": [
+            "God oordeelt het hart, niet de religieuze prestatie."
+          ],
+          "ethische_implicaties": [
+            "Focus op innerlijke motivatie in plaats van uiterlijke schijn."
+          ],
+          "onbedoelde_consequenties": [
+            "Kan leiden tot een devaluatie van goede werken of uiterlijke discipline."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Gebaseerd op de woorden van Jezus, maar krachtig toegepast op de moderne 'influencer' context."
+      },
+      {
+        "metafoor_expressie": "Wit gewassen als sneeuw door het bloed van Jezus.",
+        "brondomein": {
+          "naam": "CLEANING/TEXTILE",
+          "concrete_elementen": [
+            "bloed",
+            "wassen",
+            "sneeuw",
+            "witte kleding"
+          ],
+          "belichaamde_basis": "balance/purity"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Rechtvaardiging",
+          "doctrinale_traditie": "Protestant/Reformed"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Vlekken",
+            "doel_element": "Zonden"
+          },
+          {
+            "bron_element": "Wassen",
+            "doel_element": "Vergeving"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Zonde is een vervuiling die van buitenaf verwijderd moet worden."
+          ],
+          "theologische_implicaties": [
+            "Vergeving is een radicale transformatie van status."
+          ],
+          "ethische_implicaties": [
+            "Men kan opnieuw beginnen met een 'schone lei'."
+          ],
+          "onbedoelde_consequenties": [
+            "Bloed als reinigingsmiddel is contra-intuïtief in het brondomein (bloed vlekt normaal gesproken)."
+          ]
+        },
+        "vitaliteit_status": "DEAD",
+        "vitaliteit_toelichting": "Dit is een standaard christelijk cliché dat zonder de blouse-illustratie weinig cognitieve impact zou hebben."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "De prediker verbindt de moderne influencer-cultuur succesvol met de Farizeeën via de overkoepelende metafoor 'HET LEVEN IS EEN PRESENTATIE'. De overgang naar medische en economische metaforen verloopt soepel door de focus op 'binnenkant versus buitenkant'.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Midden van de preek",
+          "metafoor_a": "SIN IS A WOUND (Medical)",
+          "metafoor_b": "SIN IS DEBT (Economic)",
+          "conflict_beschrijving": "De prediker wisselt snel tussen 'wonden' die genezing nodig hebben en 'schuld' die kwijtgescholden moet worden.",
+          "entailment_conflict": "Een wond suggereert slachtofferschap/zorg, schuld suggereert morele verantwoordelijkheid/straf.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Slotfase",
+          "gemengde_metaforen": [
+            "Kleding",
+            "Influencer",
+            "Kind van God"
+          ],
+          "blending_strategie": "De prediker gebruikt de 'nieuwe kleding' (identiteit) als de oplossing voor de 'druk van de influencer' (sociale druk)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "De prediker revitaliseert de 'Farizeeër' metafoor door deze te mappen op de moderne 'Influencer'.",
+        "voorbeeld": "Wist je dat dat niet alleen iets is van nu? In de tijd van Jezus waren er ook influencers... schriftgeleerden, Farizeeën."
+      },
+      {
+        "sterkte_type": "CONTEXTUAL_FIT",
+        "beschrijving": "Zeer sterke aansluiting bij de belevingswereld van jongeren door gebruik van social media terminologie.",
+        "voorbeeld": "YouTube, of Insta of TikTok... een gouden glimlach."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "Zonde wordt sterk geframed als 'beschadiging' en 'wonden', wat de actieve morele schuld kan onderbelichten.",
+        "voorbeeld": "We zijn toch allemaal van nature beschadigd en bevlekt?",
+        "potentiele_impact": "De hoorder ziet zichzelf als patiënt in plaats van als verantwoordelijke dader.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "De digitale wereld van influencers (schijn, filters, druk).",
+      "sub_worlds": [
+        "De religieuze wereld van de Farizeeën (wetten, muggen ziften).",
+        "De liturgische ruimte (de kerkbanken, nette kleren).",
+        "De wereld van de Bijbelverhalen (Zacheüs, de moordenaar aan het kruis)."
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Begin",
+          "van_wereld": "Kerkzaal",
+          "naar_wereld": "Social Media/TikTok",
+          "effectiviteit": "Zeer effectief om de aandacht van jongeren te grijpen."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God als onvoorwaardelijke Liefde",
+          "hoe_versterkt": "Door God af te zetten tegen de 'voorwaardelijke' acceptatie van influencers."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "De Farizeeër als historisch fossiel",
+          "verstoring_strategie": "Actualisering",
+          "vervangend_schema": "De Farizeeër als de influencer in onszelf."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Sluit aan bij de themadienst 'Wie is jouw influencer?'"
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "De preek wordt gedomineerd door de metafoor IDENTITEIT IS EEN PRESENTATIE. De prediker gebruikt een krachtige contrast-mapping tussen de 'Influencer' (Source 1) en 'Jezus' (Source 2). De kracht ligt in de belichaamde illustratie van de blouse met vlekken, die de abstracte concepten van schaamte en zonde tastbaar maakt.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Het bloed van Jezus",
+        "huidige_status": "Lijkt een 'dead metaphor' te worden in deze context.",
+        "suggestie": "Koppel het bloed sterker aan het concept van 'kostprijs' of 'levenskracht' in plaats van alleen een reinigingsmiddel.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Het bloed is niet alleen zeep, het is het leven van Jezus dat in onze aderen vloeit."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "De spanning tussen 'zonde als wond' en 'zonde als schuld'.",
+        "resolutie_strategie": "Gebruik de metafoor van 'schade' die zowel herstel (medisch) als vergoeding (economisch) vereist."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GELOOF IS HET UITDOEN VAN EEN JASJE",
+        "problematisch_entailment": "Suggereert dat we 'naakt' of kwetsbaar achterblijven zonder bescherming.",
+        "aanbeveling": "Benadruk sterker het 'aantrekken van Christus' als een nieuw, veiliger pantser."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "Om de 'binnenkant/buitenkant' dynamiek te versterken (fundament vs. gevel).",
+        "doel_concept": "Geestelijke groei"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "Een meesterlijk voorbeeld van hoe CMT kan worden gebruikt om een eeuwenoud bijbels concept (hypocrisie) te vertalen naar een hypermoderne context zonder de theologische diepgang te verliezen."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "In plaats van alleen te kijken naar de schoonheid van de influencer-vergelijking, laat CMT zien hoe deze metafoor de hoorder dwingt zijn eigen zelfbeeld (schema) te herstructureren.",
+    "verschil_met_kolb": "Waar Kolb focust op leerstijlen, focust CMT hier op hoe de fysieke ervaring van 'kleding' en 'vlekken' de abstracte genade begrijpelijk maakt.",
+    "unieke_inzichten_CMT": "CMT legt bloot dat de prediker 'zonde' primair als een 'container-probleem' ziet (vuil binnenin) en 'verlossing' als een 'relationele beweging' (naar Jezus toe komen)."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Influencer als beïnvloeder",
+      "Gouden glimlach",
+      "Mug uitziften / kameel doorslikken",
+      "Buitenkant schoonmaken / binnenkant vol slechtheid",
+      "Op je troon zitten",
+      "Vlekken en scheuren in de blouse",
+      "Jasje uitdoen",
+      "Wit gewassen als sneeuw",
+      "Jezus aantrekken",
+      "Juk is zacht / last is licht"
+    ],
+    "woord_frequentie_analyse": {
+      "influencer": "12",
+      "buitenkant": "9",
+      "binnenkant": "7",
+      "Jezus": "24",
+      "vergeven": "11",
+      "vlekken": "5"
+    },
+    "notities": "De preek maakt effectief gebruik van visuele hulpmiddelen (de blouse), wat de cognitieve mapping van de metafoor SIN IS A STAIN versterkt."
+  }
+}

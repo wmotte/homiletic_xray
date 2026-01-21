@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "titel_preek": "Zeugen der Wahrheit",
+    "bijbeltekst": "Apostelgeschichte 1,8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "650"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "Bekehrungsprozess",
+          "Schlammweg",
+          "bis in die entferntesten Länder",
+          "von den Armen zu den Reichen"
+        ],
+        "conceptuele_metafoor": "FAITH IS A CONVERSION JOURNEY"
+      },
+      {
+        "domein_type": "AGRARIAN",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "abgeschnitten von der Wurzel, die trägt",
+          "Ort des Zuckerrohrs"
+        ],
+        "conceptuele_metafoor": "TRADITION IS A ROOTED PLANT"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Zeugen der Wahrheit",
+          "Gerechtigkeit einklagen",
+          "Namen der Mörder nicht genannt"
+        ],
+        "conceptuele_metafoor": "FAITH IS TESTIMONY IN A GLOBAL TRIAL"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "abgeschnitten von der Wurzel, die trägt",
+        "brondomein": {
+          "naam": "Botany/Agriculture",
+          "concrete_elementen": [
+            "root",
+            "severing",
+            "support"
+          ],
+          "belichaamde_basis": "balance/verticality"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Tradition/Communion of Saints",
+          "doctrinale_traditie": "Liberation Theology / Ecumenical"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Root",
+            "doel_element": "Historical faith tradition"
+          },
+          {
+            "bron_element": "Nutrients/Support",
+            "doel_element": "Spiritual strength from martyrs"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The individual is not autonomous but dependent on the past."
+          ],
+          "theologische_implicaties": [
+            "The 'Communion of Saints' is a biological-like necessity for spiritual life."
+          ],
+          "ethische_implicaties": [
+            "To ignore history is to wither and die spiritually."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests a deterministic view of faith where one cannot survive outside the 'root'."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A common biblical image (Romans 11) used here to link the living and the dead."
+      },
+      {
+        "metafoor_expressie": "Bekehrungsprozess, der heute von den Armen zu den Reichen geht",
+        "brondomein": {
+          "naam": "Movement/Path",
+          "concrete_elementen": [
+            "direction",
+            "movement from A to B"
+          ],
+          "belichaamde_basis": "path"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Conversion/Evangelization",
+          "doctrinale_traditie": "Liberation Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Starting point",
+            "doel_element": "The poor/oppressed"
+          },
+          {
+            "bron_element": "Destination",
+            "doel_element": "The wealthy/educated"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Truth flows in a specific direction; the wealthy are 'behind' or 'lost'."
+          ],
+          "theologische_implicaties": [
+            "The poor are the primary agents of God's revelation."
+          ],
+          "ethische_implicaties": [
+            "The wealthy must wait and receive rather than lead."
+          ],
+          "onbedoelde_consequenties": [
+            "May create a new hierarchy where the 'uneducated' are idealized."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Reverses the traditional 'top-down' missionary schema."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The sermon centers on the 'Witness' (Zeuge) metaphor, which bridges the gap between the historical Jesus, the martyrs (Romero), and the contemporary congregation.",
+      "incoherentie_punten": [],
+      "succesvolle_blending": [
+        {
+          "locatie": "Discussion of Romero's death",
+          "gemengde_metaforen": [
+            "Martyrdom",
+            "Organization/Action"
+          ],
+          "blending_strategie": "The 'Joe Hill' song blends political activism with the theological concept of the 'Living Dead'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Witness' metaphor by grounding it in the physical 'Schlammweg' (muddy path) and the 'Tamale'.",
+        "voorbeeld": "Nach vier Stunden Marsch durch einen Schlammweg kam er vollständig entkräftet an."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The phrase 'The dead are not dead' risks a literalist/spiritualist misunderstanding if not grounded in the 'Witness' framework.",
+        "voorbeeld": "Die Toten sind nicht tot.",
+        "potentiele_impact": "Congregation might focus on ghosts/spirits rather than the 'cause' of justice.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A global courtroom/battlefield where truth is being testified.",
+      "sub_worlds": [
+        "El Salvador (Aguiulares, Ciudad Barrios)",
+        "Hamburg-Altona/Brockdorf",
+        "The biblical Jerusalem"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to Hamburg",
+          "van_wereld": "Civil war El Salvador",
+          "naar_wereld": "Local German context",
+          "effectiviteit": "High - forces the hearer to apply the 'Witness' schema locally."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as the source of Justice",
+          "hoe_versterkt": "By identifying the 'cause of justice' as 'God's cause'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Saints as perfect/otherworldly",
+          "verstoring_strategie": "Narrating Romero's mistakes (the microphone incident) and physical hunger.",
+          "vervangend_schema": "Saint as 'Human Witness'"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Sending' (Ite missa est) aspect of the liturgy."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JURIDICAL (Witness) and JOURNEY (Path of the poor) domains. It successfully avoids the ECONOMIC domain (transactional salvation), focusing instead on the embodiment of truth through suffering and presence.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Kraft des heiligen Geistes",
+        "huidige_status": "Abstract/Conventional",
+        "suggestie": "Link 'Kraft' (Power) more explicitly to the physical exhaustion of the 'Schlammweg'.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The Spirit is the second wind on a muddy road."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The transition from 'Organizing' (Joe Hill) to 'Converting' (Romero).",
+        "resolutie_strategie": "Clarify that 'Organizing' in a theological sense is the 'gathering of the Body of Christ'."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "TRUTH IS A LIGHT",
+        "problematisch_entailment": "Implies those without the 'light' are in total darkness (exclusionary).",
+        "aanbeveling": "Emphasize that the light 'comes to' the dark places, not that the places are inherently evil."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To provide a sense of stability to the 'Witness' which currently feels very mobile/transient.",
+        "doel_concept": "The Church as a Sanctuary"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to bridge political reality and biblical text through the embodied experience of the poor."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'Joe Hill' quote for its poetic value, CMT reveals it as a cognitive bridge for the 'Living Dead' schema.",
+    "verschil_met_kolb": "Unlike Kolb's focus on learning styles, CMT shows how the preacher restructures the hearer's conceptual map of 'Sainthood'.",
+    "unieke_inzichten_CMT": "CMT identifies that 'Truth' is treated as a physical location one can 'be in' (Aus der Wahrheit sein), creating a container schema for identity."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Kraft des Geistes",
+      "Zeugen sein",
+      "Wurzel, die trägt",
+      "Bekehrungsprozess",
+      "Licht der Boten",
+      "Ort der Zeugen",
+      "Verbreiterinnen der Wahrheit",
+      "Aus der Wahrheit sein"
+    ],
+    "woord_frequentie_analyse": {
+      "Zeugen": "8",
+      "Wahrheit": "5",
+      "Armen": "4",
+      "Romero": "7",
+      "tot": "6"
+    },
+    "notities": "The sermon uses 'Witness' not as a passive observer, but as an active, embodied participant in a struggle."
+  }
+}

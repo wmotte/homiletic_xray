@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "titel_preek": "The Look That Saves",
+    "bijbeltekst": "Isaiah 45:22",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "on his way to a certain church",
+          "turn down a side street",
+          "direct and guide his people",
+          "way out of all difficulties"
+        ],
+        "conceptuele_metafoor": "LIFE IS A JOURNEY"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "salvus, which means healthy or whole",
+          "wholeness and health of mind",
+          "true healing for all sickness"
+        ],
+        "conceptuele_metafoor": "SALVATION IS HEALING/WHOLENESS"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "every prop pulled from under us",
+          "resting place",
+          "hiding place"
+        ],
+        "conceptuele_metafoor": "FAITH IS A FOUNDATION/SHELTER"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The cloud was gone, the darkness rolled away! and in that moment I saw the sun.",
+        "brondomein": {
+          "naam": "Meteorology/Vision",
+          "concrete_elementen": [
+            "clouds",
+            "darkness",
+            "sun",
+            "sight"
+          ],
+          "belichaamde_basis": "verticality/light-darkness"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Conversion/Revelation",
+          "doctrinale_traditie": "Evangelical/Spurgeon-influenced"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Darkness/Clouds",
+            "doel_element": "Spiritual distress/Ignorance"
+          },
+          {
+            "bron_element": "Sun",
+            "doel_element": "Christ/Truth"
+          },
+          {
+            "bron_element": "Seeing",
+            "doel_element": "Believing/Understanding"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Truth is external and objective like the sun",
+            "Spiritual change is instantaneous and visual"
+          ],
+          "theologische_implicaties": [
+            "Salvation is an act of divine revelation",
+            "Human effort is reduced to the act of 'looking'"
+          ],
+          "ethische_implicaties": [
+            "Focus should be on Christ, not self-improvement"
+          ],
+          "onbedoelde_consequenties": [
+            "May imply that those without 'vivid' experiences are not saved"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "While 'light vs dark' is a common biblical trope, the narrative context of the snowstorm revitalizes it by grounding it in a physical event."
+      },
+      {
+        "metafoor_expressie": "Find your own key.",
+        "brondomein": {
+          "naam": "Music",
+          "concrete_elementen": [
+            "musical key",
+            "pitch",
+            "harmony"
+          ],
+          "belichaamde_basis": "balance/resonance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Vocation/Identity",
+          "doctrinale_traditie": "Modern/Personalist"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Correct Key",
+            "doel_element": "Divine purpose/True identity"
+          },
+          {
+            "bron_element": "Singing",
+            "doel_element": "Living one's life"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Life should feel 'harmonious' when in God's will"
+          ],
+          "theologische_implicaties": [
+            "God has a specific 'frequency' or design for each individual"
+          ],
+          "ethische_implicaties": [
+            "Authenticity is a spiritual virtue"
+          ],
+          "onbedoelde_consequenties": [
+            "Individualistic focus; may ignore communal responsibility"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher uses a specific anecdote about a singer to create a fresh application of 'salvation' as personal resonance."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon centers on the sensory act of 'looking' (Vision) as the bridge between distress (Darkness/Journey) and Wholeness (Medical).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section on Salvation definition",
+          "metafoor_a": "Salvation as 'Looking' (External focus)",
+          "metafoor_b": "Salvation as 'Finding your key' (Internal focus)",
+          "conflict_beschrijving": "The first suggests looking away from self to Christ; the second suggests looking inward to find one's true identity.",
+          "entailment_conflict": "External gaze vs. Internal discovery",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Light, Water, Resting Place"
+          ],
+          "blending_strategie": "The preacher uses a hymn structure to unify diverse source domains under the single target of 'Christ's Sufficiency'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The preacher takes the etymology of 'salvus' to move from a dead 'religious' term to a living 'medical/wholeness' concept.",
+        "voorbeeld": "The word salvation comes from the Latin salvus, which means healthy or whole."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By defining salvation primarily as 'finding your own key' and 'wholeness,' the radical nature of sin/judgment is softened.",
+        "voorbeeld": "That is what it means to be saved, to be 'whole,' no longer divided.",
+        "potentiele_impact": "Congregation may view God as a life-coach rather than Savior.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A snowy 19th-century Colchester street leading to a tiny church.",
+      "sub_worlds": [
+        "The royal court of King Uzziah",
+        "A kitchen table in Montgomery during the boycott",
+        "A contemporary church with a piano soloist"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to MLK",
+          "van_wereld": "Ancient Israel (Isaiah)",
+          "naar_wereld": "1950s Alabama",
+          "effectiviteit": "High; creates a sense of 'universal' spiritual struggle across time."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Provider/Guide",
+          "hoe_versterkt": "Through the narrative of the snowstorm 'directing' Spurgeon."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Salvation as a complex theological transaction",
+          "verstoring_strategie": "Simplification through the 'Look' metaphor.",
+          "vervangend_schema": "Salvation as a simple, immediate visual recognition."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly fits a call-to-worship or evangelistic service."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'VISION' and 'JOURNEY' domains. It successfully moves from the concrete (a snowstorm, a long bony finger) to the abstract (spiritual assurance). The shift toward the 'MEDICAL' domain (wholeness) in the middle provides a modern psychological bridge but risks losing the 'JURIDICAL' weight often associated with the text's Reformed history.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Look unto me",
+        "huidige_status": "Can feel like a 'dead' religious cliché.",
+        "suggestie": "Emphasize the physical strain of the 'look'—the neck muscles turning away from the 'burden' on the back.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Feel the crick in your neck as you finally stop looking at your feet and wrench your gaze upward."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The tension between 'looking at Christ' and 'finding your own key'.",
+        "resolutie_strategie": "Frame 'finding your key' as the *result* of 'looking at Christ' (The Mirror effect)."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SALVATION IS FINDING YOUR KEY",
+        "problematisch_entailment": "If I can't find my 'key' or talent, am I not saved?",
+        "aanbeveling": "Clarify that the 'key' is a gift of grace, not a performance-based talent."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To balance the 'instant' look with the 'growth' required for wholeness.",
+        "doel_concept": "Sanctification"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in narrative-driven metaphor. The use of 'Vision' as the primary cognitive bridge is both biblically faithful and psychologically resonant."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'sun' imagery; CMT reveals that this imagery functions to map 'certainty' onto 'visual clarity'.",
+    "verschil_met_kolb": "Unlike Kolb's experiential cycles, CMT shows how the preacher uses the *hearer's* existing physical schemas of 'darkness' and 'wholeness' to bypass intellectual resistance.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using 'CONTAINER' logic (hiding place, in the grip of a storm) to describe the human condition, making the 'LOOK' (an exit from the container) more powerful."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "dark and painful brooding",
+      "burden of his soul",
+      "grip of a driving snowstorm",
+      "spiritual food",
+      "end of his tether",
+      "new leash",
+      "cloud was gone",
+      "darkness rolled away",
+      "saw the sun",
+      "hiding place",
+      "cobwebs and caking",
+      "find your own key",
+      "props pulled from under us",
+      "naked and defenseless",
+      "cold and searing winds",
+      "breaking point",
+      "living water",
+      "resting place"
+    ],
+    "woord_frequentie_analyse": {
+      "look": "14",
+      "saved": "8",
+      "whole": "5",
+      "see/saw": "9",
+      "power": "3"
+    },
+    "notities": "The sermon relies heavily on the 'Great Man' narrative (Spurgeon, Isaiah, King, Richardson) to provide concrete source domains for the abstract concept of 'Faith'."
+  }
+}

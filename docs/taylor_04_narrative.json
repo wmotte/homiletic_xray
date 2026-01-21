@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "This Abideth",
+    "bijbeltekst": "Psalm 102:24–28",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject, caught in the decay of time and the flux of change, seeks a fixed point of permanence (God) to find stability and meaning before death.",
+      "subject": {
+        "identificatie": "The Human Being (The 'Man', 'We', 'The Seaman')",
+        "tekstueel_bewijs": [
+          "A man is musing upon the swift changes of life",
+          "We need thee as our fixed and abiding center",
+          "The seaman sets his course by the North Star"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Permanence/Stability (The 'North Star', 'Abidingness')",
+        "tekstueel_bewijs": [
+          "Longing for a sense of permanence",
+          "We need midst the flux and change abidingness"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Human Condition/Existential Crisis",
+        "tekstueel_bewijs": [
+          "bewildering and frightening changes",
+          "pained and saddened heart"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer/The 'I'",
+        "tekstueel_bewijs": [
+          "take me not away",
+          "set over the days of our years"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "God (as an Immutable Standard/Law)",
+        "tekstueel_bewijs": [
+          "on thee we can depend for the vindication",
+          "God abides to give meaning and merit to our days"
+        ],
+        "rol_van_god": "God is primarily the Helper/Object (the fixed point) rather than the active Subject of the primary narrative.",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Time, Decay, and Moral Relativism",
+        "tekstueel_bewijs": [
+          "steady erosion and unending decay",
+          "shifting and changing in his standards"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is the ontological reality of transience and death ('the heavens shall perish')."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The moral improvement of the believer through the 'spur' of God's unchanging law.",
+      "subject": "The Believer",
+      "object": "Moral Perfection ('to be perfectly whole')",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Once the subject finds the 'Fixed Point' (God), they are spurred to moral action."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Existential Dread → Permanence → The Mortal Man",
+      "helper_subject_tegenstander": "God's Law → The Hearer ← Time/Decay",
+      "subject_naar_object": "The Hearer → Stability/Moral Rightness"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "18",
+      "mens_als_subject_count": "42",
+      "ratio": "0.43",
+      "voorbeelden_god_subject": [
+        "thou shalt endure",
+        "God still frowns on deceit",
+        "God abides to give meaning"
+      ],
+      "voorbeelden_mens_subject": [
+        "A man is musing",
+        "We must sail life's voyage",
+        "we bend our knees"
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "We must sail life's voyage by his position",
+          "so still it must be said"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Longing for a sense of permanence",
+          "pulsates a desire to do right",
+          "Lord, I want to be a Christian"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Help us to remember",
+          "He makes the scroll... the surety"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "we are so utterly helpless"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the human 'longing' and 'desire' (Vouloir) for stability and goodness, using God's immutability as the anchor for that desire."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Permanence (God)",
+      "s2": "Transience (Death/Change)",
+      "niet_s1": "Relativism (Shifting Standards)",
+      "niet_s2": "Memory/Legacy (Human attempts at lasting)"
+    },
+    "beweging_in_preek": "Moves from S2 (Decay) to S1 (God's immutability), while warning against ~S1 (Moral relativism).",
+    "theologische_resolutie": "God is the 'Fixed Point' that resolves the anxiety of transience.",
+    "ernst_van_s2": "Very high; death and decay are the primary drivers of the narrative."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While it uses high orthodox language regarding God's attributes, the actantial subject is the 'musing man' seeking a tool (God) for stability. It leans toward moralism by framing God's immutability primarily as a 'standard' or 'spur' for human effort.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "We need thee as our fixed and abiding center",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Anthropocentric Desire",
+        "tekstueel_bewijs": "I do not believe that any... person desires to do wrong.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Divine Immutability",
+        "tekstueel_bewijs": "Thou art the same, and thy years shall have no end.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Biblical figures are used as negative examples of those who encountered the 'frown' of the unchanging Law.",
+      "bijbelse_figuren_als_model": [
+        "Jacob",
+        "Saul",
+        "David"
+      ],
+      "alternatieve_lezing": "God's grace remains the same despite Jacob's trickery (God as Subject of Election)."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Existential comfort mixed with moral pressure.",
+      "theologische_implicatie": "God is the 'North Star' for the human navigator, rather than the Captain of the ship."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The transition from physical transience to moral immutability is rhetorically smooth but theologically abrupt.",
+      "spanning_punten": [
+        "The shift from 'God as shelter' to 'God as Umpire/Lawgiver'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "God is in our lives, reminding us that we have not yet reached our goal.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer has the 'Vouloir' (desire) and only needs the 'Savoir' (the fixed point) to act."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Low; sin is described as a 'wrong choice of goals' by people who 'desire the right'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (leaving the rest to God)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as an existential meditation where God is the 'Object' of human search rather than the 'Subject' of divine rescue.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The 'musing man' is the subject of most active verbs.",
+      "voorgestelde_herpositionering": "Make God the subject who 'establishes' the seed (v. 28).",
+      "voorbeeld_revisie": "Instead of 'We must sail by His position,' use 'He anchors us in the storm.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the navigator.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the 'children of thy servants' who are 'established' (passive) by God."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive Vouloir (Human desire).",
+      "voorgestelde_balans": "Pouvoir (Divine power).",
+      "concrete_suggestie": "Emphasize God's power to 'change' us (v. 26) rather than our desire to be right."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Sin is minimized as a mistake of healthy people.",
+      "voorgestelde_intensivering": "Treat sin as the 'Opponent' that makes us 'unable' (non-pouvoir) to reach the North Star.",
+      "theologische_rationale": "Without a heavy opponent, grace is merely 'stability' rather than 'rescue'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (The Ten Commandments) are fused with Soteriology (God's immutability).",
+      "voorgestelde_structuur": "1. God's unchanging mercy (Soteriology). 2. Our response to His law (Ethics)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and captures the pathos of Psalm 102, but it risks turning God into a static monument rather than a living Savior."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'North Star' is a brilliant metaphor; semiotically, it reveals God is a passive object used for navigation.",
+    "verschil_met_exegese": "Exegesis notes the 'seed shall be established'; the sermon shifts focus to the 'man musing'.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'Amen through Jesus Christ', the engine of the sermon is the human 'quest for peace'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "A man is musing",
+      "He reflects",
+      "His mind wanders",
+      "He realizes",
+      "The seaman sets his course",
+      "We must sail",
+      "God frowns",
+      "God despises"
+    ],
+    "volledige_object_lijst": [
+      "permanence",
+      "fixed point",
+      "the North Star",
+      "peace and satisfaction"
+    ],
+    "werkwoord_frequentie": {
+      "desire": {
+        "count": "5",
+        "primair_subject": "Man"
+      },
+      "change": {
+        "count": "12",
+        "primair_subject": "Circumstances"
+      },
+      "abide": {
+        "count": "8",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon contains a high degree of 'Vouloir-faire' (human wanting) which masks the lack of 'Pouvoir-faire' (divine enabling)."
+  }
+}

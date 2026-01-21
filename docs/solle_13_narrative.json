@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "titel_preek": "Eine Meditation zu Karfreitag",
+    "bijbeltekst": "Johannes 11,50-52",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The attempt to find meaning in the death of Jesus (and Simone Weil) as a sign of solidarity and love in a world of cruelty and guilt.",
+      "subject": {
+        "identificatie": "The Preacher/Hearer ('Ich')",
+        "tekstueel_bewijs": [
+          "Ich versuche, mich diesem Gedanken mithilfe einer Geschichte zu nähern",
+          "Ich halte mich an die Wahrheit",
+          "Ich maße mir nicht an, es vollkommen zu verstehen"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Meaning/Solidarity ('Sinn der Welt' / 'Standhaftigkeit der Liebe')",
+        "tekstueel_bewijs": [
+          "Was könnten wir vom Tod eines anderen haben?",
+          "Sätze, die wir zum Leben brauchen"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "Human Need/Existential Crisis",
+        "tekstueel_bewijs": [
+          "gegen das Meer von Tränen und Foltern",
+          "gegen die eigene Schuld, in die ich hineinzementiert bin"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer ('Wir')",
+        "tekstueel_bewijs": [
+          "Wir hüllen uns ein in diesen Satz wie in einen warmen Mantel"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Simone Weil / The 'Crazy' God",
+        "tekstueel_bewijs": [
+          "Diese junge Frau hat den Gott nachgeahmt",
+          "Gott nachgeahmt, der in seinem Knecht aus Nazaret es unerträglich fand"
+        ],
+        "rol_van_god": "Helper (God is an example of passion/solidarity)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Cynicism, Death, and Absurdity",
+        "tekstueel_bewijs": [
+          "das zynische Wissen einer dem Untergang zurasenden Welt",
+          "das Absurde, das Zufällige, der Tod"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is the inherent meaninglessness of suffering and the 'sea of tears'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The imitation of God's solidarity by humans.",
+      "subject": "Simone Weil / The Hearer",
+      "object": "Solidarity with the suffering",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon blurs the line between God's act and human imitation, making human solidarity the primary evidence for God's love."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Existential Need → Meaning → The Doubting Hearer",
+      "helper_subject_tegenstander": "Simone Weil → Preacher/Hearer ← Cynicism/Absurdity",
+      "subject_naar_object": "Preacher → Finding a 'warm mantle' of belief"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "Gott will die Erlösung der Welt",
+        "In dem Tod Jesu protestiert Gott gegen die Vernichtung"
+      ],
+      "voorbeelden_mens_subject": [
+        "Ich versuche, mich diesem Gedanken zu nähern",
+        "Ich halte mich an die Wahrheit",
+        "Wir hüllen uns ein"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Dinge, die wir aussprechen, sagen, nachstammeln sollen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Ich kann mich da nicht entscheiden",
+          "Was kümmert es mich, ob ich glauben kann!"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Ich maße mir nicht an, es vollkommen zu verstehen",
+          "nie ganz genau wissen, auf welcher Seite ich stehe"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "Beweisen kann ich das nicht"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a struggle of the 'Will' (Vouloir) against the lack of 'Knowing' (Savoir) and 'Power' (Pouvoir). It is an existential recruitment to 'hold on' to a story."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Love/Solidarity",
+      "s2": "Death/Cruelty",
+      "niet_s1": "Cynicism",
+      "niet_s2": "Meaningful Suffering"
+    },
+    "beweging_in_preek": "From S2 (Death) to ~S1 (Cynicism) to a fragile S1 (Love as a 'warm mantle').",
+    "theologische_resolutie": "Resolution is not found in an objective act of God, but in the human decision to 'hold on' to the narrative of love despite the evidence.",
+    "ernst_van_s2": "High. The 'sea of tears' is presented as almost overwhelming."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'God's passion', the actantial subject is the human who must 'hold on' to a fragile hope. God is reduced to an example (Exemplarism) of solidarity that we must 'imitate' or 'stutter' after.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Subject",
+        "tekstueel_bewijs": "Ich halte mich an diesen Versuch, die Liebe gegen den Tod zu setzen.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of Christ",
+        "tekstueel_bewijs": "Diese junge Frau hat den Gott nachgeahmt, der in seinem Knecht aus Nazaret...",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Theocentric Intent",
+        "tekstueel_bewijs": "Gott will die Erlösung der Welt",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Simone Weil is the primary actant/hero. Jesus is framed as the 'Knecht' who did what she did. The hearer is called to follow this radicality.",
+      "bijbelse_figuren_als_model": [
+        "Jesus (as the 'Knecht aus Nazaret')",
+        "Simone Weil (as the primary lens)"
+      ],
+      "alternatieve_lezing": "Instead of Weil imitating God, God is the one who acts in Christ to save both Weil and the hearer from the 'sea of tears' which they cannot escape themselves."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of maintaining faith through willpower ('stuttering' against the dark).",
+      "theologische_implicatie": "Soteriology is reduced to a psychological 'mantle' against despair."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The sermon is rhetorically beautiful but actantially fragmented; it struggles to bridge the gap between the 'crazy sentences' of faith and the 'cynical knowledge' of the world.",
+      "spanning_punten": [
+        "The claim 'The world is redeemed' vs 'I don't see much of it'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Die Erlösung ist die Standhaftigkeit der Liebe, die sich nicht aus unserm Tod vertreiben lässt.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "None. The human must find their own 'Vouloir'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "MODERATE"
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (through holding on to love)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as an existential pep-talk where the human subject tries to wrap themselves in a 'mantle' of divine concepts to survive a cruel world.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The 'I' (Preacher) is the one doing the heavy lifting of believing.",
+      "voorgestelde_herpositionering": "Make God the subject of the redemption, not just the 'passion' behind it.",
+      "voorbeeld_revisie": "Instead of 'I hold on to the truth', use 'The Truth (Christ) holds on to me when I cannot believe'."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the one who must 'stutter' the faith.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Present the Cross as God's finished work for the hearer, not a pattern for the hearer."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "VOULOIR (Willing to believe)",
+      "voorgestelde_balans": "POUVOIR (God's power to save)",
+      "concrete_suggestie": "Focus on what Christ *did* (Performance) rather than what the sentence *does* for our psyche."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "The opponent (Death/Cynicism) is already very strong.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The problem is not the opponent's weakness, but the Subject's (God's) perceived passivity."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Solidarity) is fused with Soteriology (Redemption).",
+      "voorgestelde_structuur": "1. God saves the world in Christ (Soteriology). 2. Therefore, we are free to love like Simone Weil (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is poetically profound but structurally anthropocentric. It offers a 'mantle' of words rather than the 'Rock' of an objective divine act."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'warm mantle' metaphor is successful; actantially, it reveals the hearer is still the one who must put the mantle on.",
+    "verschil_met_exegese": "Exegesis of John 11 is used as a springboard for existentialism rather than following the Johannine emphasis on Jesus as the Resurrection and Life.",
+    "unieke_inzichten_greimas": "Greimas exposes that despite the word 'God' appearing, the 'engine' of the sermon is the human 'I' struggling against 'Cynicism'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Ich lese",
+      "Ich denke",
+      "Ich kann verstehen",
+      "Ich versuche",
+      "Simone Weil ist gestorben",
+      "Gott will",
+      "Wir hüllen uns ein",
+      "Ich halte mich an"
+    ],
+    "volledige_object_lijst": [
+      "Sinn der Welt",
+      "Erlösung",
+      "Wahrheit",
+      "Mantel"
+    ],
+    "werkwoord_frequentie": {
+      "halten": {
+        "count": 4,
+        "primair_subject": "Man"
+      },
+      "sterben": {
+        "count": 12,
+        "primair_subject": "Man/Jesus"
+      },
+      "erlösen": {
+        "count": 3,
+        "primair_subject": "God (passive/doubted)"
+      }
+    },
+    "notities": "The sermon reflects a post-war existentialist theology where God is a 'crazy' co-sufferer rather than a sovereign Savior."
+  }
+}

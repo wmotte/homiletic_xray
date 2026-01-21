@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "titel_preek": "A Gospel For Those Who Are Afraid",
+    "bijbeltekst": "John 6:20",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon describes the nature of fear, recounts the biblical narrative of the storm on the sea, and categorizes the Gospel as a solution to anxiety through possession, petition, and partnership.",
+      "exegetische_kwaliteit": "Descriptive and narrative-driven. It uses the text as a springboard for psychological and existential reflection rather than deep linguistic exegesis.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting truths about the human condition and the nature of the Gospel, with occasional directives to pray or trust.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "6",
+      "voorbeelden": [
+        "The gospel is good news.",
+        "Surely our generation needs a gospel which can speak to our fears.",
+        "The gospel gives us a partner."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Comfort, reduction of anxiety, and encouragement to pray.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event'.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "feel comforted",
+        "pray",
+        "trust"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The disciples were afraid.",
+        "Fear is a precious native endowment.",
+        "We are afraid of sickness."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "are",
+        "tells",
+        "says"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Listen to this word.",
+        "Fear you not therefore."
+      ],
+      "dominante_werkwoorden": [
+        "listen",
+        "fear (not)",
+        "look"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "I suppose one of the reasons...",
+        "In the distant years of my childhood..."
+      ],
+      "dominante_werkwoorden": [
+        "suppose",
+        "remember",
+        "ask"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "I will be with thee.",
+        "The gospel tells of a friend who does not go 'a piece of the way' but to the end."
+      ],
+      "dominante_werkwoorden": [
+        "will be",
+        "promises"
+      ],
+      "kwaliteit": "Weak. Most promises are quoted as historical text rather than spoken as a present binding of God to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "I have redeemed thee."
+      ],
+      "dominante_werkwoorden": [
+        "redeemed"
+      ],
+      "autoriteit": "Low. The preacher quotes God's declaration but rarely declares on God's behalf in the 2nd person."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "The gospel gives us...",
+        "The psychologists tell us...",
+        "There was a day in Jewish history..."
+      ],
+      "effect_op_hoorder": "The hearer receives information about the Gospel's utility but does not necessarily experience the Gospel as an intervening act."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Present-tense address"
+      ],
+      "effect_op_hoorder": "The hearer remains an observer of a 'good news' description."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Indirect. The promises are largely embedded in quotes from Scripture rather than the preacher's own illocutionary act.",
+      "voorbeelden": [
+        "When thou passest through the waters, I will be with thee."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Personal anecdotes and homiletical 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Mostly in the final scripture quote.",
+        "performatieve_context": "Limited to the very end."
+      },
+      "derde_persoon": {
+        "frequentie": "120",
+        "gebruik": "Describing 'the disciples', 'people', 'the gospel'.",
+        "distantie_effect": "High. It creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical narrative and childhood memories."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about fear and the gospel."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The closing appeal."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of fear) -> Assertive (Description of Gospel) -> Directive (Go to the trysting place).",
+      "voorbeelden": [
+        "The gospel gives us a place... This is the gospel... Each of us has available an appointed place where we can sob."
+      ],
+      "probleem": "It describes the 'place' of grace without actually bringing the hearer into that grace through a declarative act."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Insufficient"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We need to be owned... we need a heavenly Father."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a brilliant essay on fear and the 'idea' of the Gospel, but it functions as a constative report rather than a performative event.",
+    "sterke_punten": [
+      {
+        "aspect": "Imagery",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Fear-palsied hands were laid rudely on him.",
+        "effect": "Vividly engages the imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The gospel is for those who are afraid.",
+        "probleem": "Talking about the gospel instead of speaking the gospel to the person.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "3",
+    "gebeuren_toelichting": "It is a lecture about a 'gebeuren' (the storm) rather than being a 'gebeuren' itself.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "The preacher does not use his mandate to declare God's present action."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is a character in the story, not the active speaker in the pulpit.",
+      "prediker_als_mandataris": "The preacher acts as a commentator/witness, not a mandatory.",
+      "tekstueel_bewijs": [
+        "Jesus tells us over and over..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly psychological rather than pneumatological.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a source of information about grace.",
+      "epifanisch_taalgebruik": "Low. The language is more descriptive than epiphanic.",
+      "tekstueel_bewijs": [
+        "The gospel gives us the status of possessed people."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on 'is' and 'are' (Assertives). Needs more 'I promise' or 'God says to you' (Commissives/Declaratives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The gospel gives us a partner.",
+          "voorgestelde_revisie": "In your fear today, Christ stands with you and says: 'I am your partner.'",
+          "verschil": "Moves from a general truth to a specific, present-tense promise."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is hidden in a third-person description.",
+      "suggestie": "Use the 2nd person to apply the promise directly.",
+      "voorbeeldzinnen": [
+        "Because Christ is in your boat, you shall not perish."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Address the listener's specific fears directly.",
+      "voorbeeldzinnen": [
+        "You, who are afraid for your children, hear this..."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'fear not' is not grounded in a present-tense declarative of grace.",
+      "suggestie": "Declare the redemption before commanding the peace."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful but needs to shift from 'talking about' God to 'speaking for' God to become a true sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (the bayou story); SAT focuses on the lack of a 'Declarative' act that changes the hearer's status.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is strong (metaphors, flow); SAT reveals it is illocutionarily weak (it doesn't 'do' what it 'says').",
+    "unieke_inzichten_SAT": "SAT exposes that the 'Gospel' is being treated as a concept to be explained rather than a word to be deployed."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "tells",
+        "says",
+        "needs",
+        "are",
+        "built",
+        "erected"
+      ],
+      "directief": [
+        "listen",
+        "fear not",
+        "look"
+      ],
+      "expressieven": [
+        "suppose",
+        "remember",
+        "ask"
+      ],
+      "commissief": [
+        "will be",
+        "gives"
+      ],
+      "declaratief": [
+        "redeemed"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The gospel is good news.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Describing a category.",
+        "effectiviteit": "Low performativity."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'Toezegging' being found in the scripture quote at the very end, rather than the sermon itself being a 'Toezegging'."
+  }
+}

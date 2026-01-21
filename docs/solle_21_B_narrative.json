@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "An der Furt – Da rang einer mit ihm bis zur Morgenröte",
+    "bijbeltekst": "Genesis 32:22-32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject (Jakob/Hearer) must navigate painful life transitions and 'wrestle' with a dark, attacking God to extract a blessing and achieve a new identity/reconciliation.",
+      "subject": {
+        "identificatie": "The Hearer (identified with Jakob)",
+        "tekstueel_bewijs": [
+          "Jakob ringt mit Gott... Er kämpft die ganze Nacht.",
+          "Wir sollen nicht verzweifeln, sondern dieses ringend bestehen.",
+          "Ich ringe, ich kämpfe wie Jakob, so möchte ich werden."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Blessing (Segen) and the ability to say 'Yes' to suffering.",
+        "tekstueel_bewijs": [
+          "Ich lasse dich nicht, du segnest mich denn.",
+          "Einverstanden werden mit dem, was geschieht."
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The 'Dark God' / Fate / Life Transitions",
+        "tekstueel_bewijs": [
+          "Gott überfällt uns... Gott hat auch die Kraft, furchtbare Dinge auf uns zu häufen."
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / Jakob",
+        "tekstueel_bewijs": [
+          "Gottes Segen kommt zu uns."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Human willpower, memories of songs/childhood, and 'boldness' (Dreistigkeit).",
+        "tekstueel_bewijs": [
+          "Das Ringen, das müssen wir schon selber tun.",
+          "Mach uns hungrig nach dir lehr uns beten."
+        ],
+        "rol_van_god": "God is the Opponent/Object, not the Helper.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "The 'Dämon' (God in disguise), Fear, and Resignation.",
+        "tekstueel_bewijs": [
+          "Ein übermächtiges Wesen greift ihn an.",
+          "Die Gespenster, die uns bedrohen: Bitterkeit, Resignation."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is God Himself acting as a dark force that must be overcome by human persistence."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "Political and social activism (Peace/Justice).",
+      "subject": "The Activist/Hearer",
+      "object": "Peace and Bread for the hungry.",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "Wrestling with God is equated with political 'Nötigung' (coercion) for justice."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Dark God → Blessing → Jakob/Hearer",
+      "helper_subject_tegenstander": "Human Will → Jakob/Hearer ← Dark God/Fate",
+      "subject_naar_object": "Jakob/Hearer → Blessing/Meaning"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "Gott überfällt uns.",
+        "Gott hört zu.",
+        "Er segnete ihn daselbst."
+      ],
+      "voorbeelden_mens_subject": [
+        "Wir müssen über den dunklen Fluss.",
+        "Wir ringen mit Gott.",
+        "Ich halte an dir fest, Gott.",
+        "Wir werfen uns Gott in den Weg."
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Das Ringen, das müssen wir schon selber tun.",
+          "Wir müssen über den dunklen Fluss."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Ich lasse dich nicht.",
+          "Mach uns hungrig nach dir."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Wir mögen in diesem Kampf Abschied nehmen lernen."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "Beten kann man nur, wenn man durstig ist."
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' sermon. It focuses on awakening the human will (Vouloir) to struggle against a silent or hostile God."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Blessing/Meaning",
+      "s2": "Destruction/Darkness",
+      "niet_s1": "Resignation/Feigheit",
+      "niet_s2": "Cheap Liberalism (God is only 'nice')"
+    },
+    "beweging_in_preek": "From S2 (Darkness) through ~S2 (Rejecting liberal God) to S1 (Blessing) via human effort (~S1).",
+    "theologische_resolutie": "The tension is resolved by the human subject refusing to let go until God yields a blessing.",
+    "ernst_van_s2": "Very high. S2 is seen as the primary face of God."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using biblical imagery, the 'engine' is entirely anthropocentric. God is the obstacle/opponent, and the human will is the hero that achieves the blessing through 'wrestling'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Human as primary active Subject",
+        "tekstueel_bewijs": "Das Ringen, das müssen wir schon selber tun, niemand kommt daran vorbei.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "God as Instrumental/Object",
+        "tekstueel_bewijs": "Wir 'nötigen' Gott... Ich lasse dich nicht, du segnest mich denn.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God's blessing as final word",
+        "tekstueel_bewijs": "Und er segnete ihn daselbst.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Jakob is the model for the modern 'struggler'.",
+      "bijbelse_figuren_als_model": [
+        "Jakob/Israel"
+      ],
+      "alternatieve_lezing": "God pursues and breaks the self-reliant Jakob to grant him a grace he cannot win by strength."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Exhaustion or Promethean pride; the burden of 'winning' the blessing lies on the hearer.",
+      "theologische_implicatie": "Synergism where the human 'struggle' is the condition for grace."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "Strongly coherent as a narrative of 'existential struggle', but theologically incoherent regarding the nature of a Savior.",
+      "spanning_punten": [
+        "God is both the attacker and the one who must be coerced into blessing."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Ich ringe, ich kämpfe wie Jakob, so möchte ich werden.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer must find their own 'Dreistigkeit' (boldness)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'resignation' or 'giving up', rather than ontological separation."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a call to existential heroism. Jakob is the Subject, God is the Opponent/Helper-Object.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is told they MUST wrestle to get the blessing.",
+      "voorgestelde_herpositionering": "God is the Subject who 'wrestles' Jakob to the ground to kill his ego and give him a new life.",
+      "voorbeeld_revisie": "Instead of 'We must wrestle with God,' use 'God refuses to let us go until He has broken our self-reliance and blessed us.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the Heroic Wrestler.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on Jakob's limp (weakness) as the gift of God, not his strength in wrestling."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir/Vouloir (Must/Want)",
+      "voorgestelde_balans": "Pouvoir (God's power given to the weak)",
+      "concrete_suggestie": "Emphasize that we CANNOT cross the river, but God carries us."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "The opponent (Dark God/Fate) is already very intense.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon already has a 'heavy' opponent, but lacks a 'heavy' Savior."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (political action) is fused with Soteriology (wrestling for blessing).",
+      "voorgestelde_structuur": "1. God saves the drowning Jakob. 2. The saved Jakob walks differently in the world."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically powerful and existentially honest, but structurally Pelagian. It places the burden of 'blessing' on the human will."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is moving and personal. Semiotically, it is a 'Law' sermon because the Subject is 'I/We'.",
+    "verschil_met_exegese": "Exegesis often misses that 'wrestling' in the text is a defeat for Jakob (he limps), whereas the sermon treats it as a victory of his will.",
+    "unieke_inzichten_greimas": "Greimas reveals that God has been demoted from 'Subject' to 'Object of human desire/coercion'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wir müssen übersetzen",
+      "Jakob blieb zurück",
+      "Wir ringen",
+      "Ich halte fest",
+      "Wir nötigen Gott"
+    ],
+    "volledige_object_lijst": [
+      "Segen",
+      "Frieden",
+      "Menschenwürde"
+    ],
+    "werkwoord_frequentie": {
+      "ringen": {
+        "count": "14",
+        "primair_subject": "Man"
+      },
+      "lassen": {
+        "count": "10",
+        "primair_subject": "Man"
+      },
+      "überfallen": {
+        "count": "6",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses 'God' frequently, but almost always as the target of human action or as a synonym for 'Fate'."
+  }
+}

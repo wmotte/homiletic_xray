@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "titel_preek": "Family: Our Father",
+    "bijbeltekst": "Galatians 3:26-4:7",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God initiates a legal and relational adoption to move humanity from slavery to sonship through the substitutionary work of Christ.",
+      "subject": {
+        "identificatie": "God (The Father/The Son)",
+        "tekstueel_bewijs": [
+          "God sent his Son",
+          "God sent the Spirit of his Son into our hearts",
+          "God has made you also an heir",
+          "Jesus Christ went to all this trouble"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Adoption to Sonship / Glory",
+        "tekstueel_bewijs": [
+          "that we might receive adoption to sonship",
+          "our inheritance is glory"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "God sent his Son... to redeem those under the law"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Believer / The Hearer",
+        "tekstueel_bewijs": [
+          "you are all children of God",
+          "God has made you also an heir"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ and the Holy Spirit",
+        "tekstueel_bewijs": [
+          "Jesus Christ's prayer life is always marked by 'Father'",
+          "the Holy Spirit's job to give you a sense of closeness"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Indwelling power"
+      },
+      "tegenstander": {
+        "identificatie": "The Law, Slavery, and Status Anxiety",
+        "tekstueel_bewijs": [
+          "slavery under the elemental spiritual forces",
+          "crushed with guilt",
+          "crushed by anxiety"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but a legal state of 'slavery' and 'condemnation' under the Law."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer communicates with the Father (Prayer) as a response to the primary program.",
+      "subject": "The Believer",
+      "object": "Self-knowledge, Change, and Intimacy with God",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Prayer is the 'key' to accessing what God has already provided in the primary program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Adoption/Glory → The Believer",
+      "helper_subject_tegenstander": "Holy Spirit → God/Christ ← The Law/Slavery",
+      "subject_naar_object": "God → Redemption of Man"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "38",
+      "ratio": "1.1",
+      "voorbeelden_god_subject": [
+        "God sent his Son",
+        "God has made you also an heir",
+        "He redeems us"
+      ],
+      "voorbeelden_mens_subject": [
+        "You can’t know yourself unless you know how to pray",
+        "You won’t be able to change yourself"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "everything you should do and be"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "what captures your imagination",
+          "what you love"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "unless you know a lot about what the Bible says"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "you actually are able to see yourself",
+          "access God’s strength",
+          "empower the rest of our prayer"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'ability' (Pouvoir) granted by God through adoption, rather than the 'obligation' (Devoir) of the law."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Sonship (Grace)",
+      "s2": "Slavery (Judgment/Law)",
+      "niet_s1": "Anxiety/Performance (Legalism)",
+      "niet_s2": "Inheritance (Unearned Gift)"
+    },
+    "beweging_in_preek": "Moves from the 'Slavery' of performance and anxiety (~S1) to the 'Sonship' of Christ (S1) via the 'Redemption' that satisfies the Law (S2).",
+    "theologische_resolutie": "Christ takes the 'Forsakenness' (S2) so the believer receives the 'Inheritance' (S1).",
+    "ernst_van_s2": "High; the cross is described as the Father abandoning the Son."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently identifies God as the primary actor in salvation and the source of the believer's new identity, making human action (prayer) a response to an objective change in status.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Prayer as a 'key' (Instrumentalism)",
+        "tekstueel_bewijs": "Prayer is the key to everything you should do and be.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (Substitution)",
+        "tekstueel_bewijs": "Jesus Christ lost the sonship he deserved so we could have the sonship we don’t deserve.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are not used as moral examples; Christ is the substitute, not the example.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: God acts through Christ to adopt the hearer."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from anxiety and humility in prayer.",
+      "theologische_implicatie": "Justification by faith alone."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The secondary program (prayer) is strictly derived from the primary program (adoption).",
+      "spanning_punten": [
+        "The introductory claim that prayer is the 'key to everything' risks sounding like a new law, but is quickly grounded in the gift of adoption."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "He got cast out of the family so we could be brought in.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit gives the 'Pouvoir' (ability) to experience the 'Abba' relationship."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Severe; requires the 'abandonment' of the Son to resolve."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is structurally sound, placing God as the Subject of redemption and the Hearer as the Receiver of a legal status change.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "Receiver",
+      "strategie": "Continue emphasizing the 'legal' nature of adoption to prevent it from becoming a feeling-based work."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong Pouvoir",
+      "voorgestelde_balans": "Maintain",
+      "concrete_suggestie": "The transition from Devoir (Law) to Pouvoir (Grace) is the sermon's greatest strength."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (The Law/Abandonment)",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon correctly identifies the opponent as the Law's demand."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Adoption) → Ethics (Prayer/Love)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in maintaining God as the Subject while addressing human psychological needs (anxiety/identity)."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric might focus on the 'Gravity' movie illustration, semiotics reveals the underlying 'Subject-switch' at the cross.",
+    "verschil_met_exegese": "Exegesis explains Galatians 4; semiotics explains how the sermon's 'engine' functions to move the hearer from slave to son.",
+    "unieke_inzichten_greimas": "Reveals that the 'Abba' experience is a modal competence (Pouvoir) gifted by the Sender, not a skill to be learned."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God sent",
+      "Jesus redeems",
+      "Spirit cries",
+      "Father abandons",
+      "Believer receives"
+    ],
+    "volledige_object_lijst": [
+      "Adoption",
+      "Inheritance",
+      "Glory",
+      "Self-knowledge"
+    ],
+    "werkwoord_frequentie": {
+      "adopt": {
+        "count": 12,
+        "primair_subject": "God"
+      },
+      "pray": {
+        "count": 25,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses 'Prayer' as the surface topic, but 'Adoption' is the actantial core."
+  }
+}

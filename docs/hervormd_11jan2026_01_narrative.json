@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "titel_preek": "02_Aarlanderveen__11-jan-2026 (Bruiloft te Kana)",
+    "bijbeltekst": "Johannes 2:1-11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jezus transformeert het tekort van de menselijke traditie (de lege wijnvaten/reinigingswater) in de overvloed van het eschatologische feest (wijn), waardoor de weg naar de Vader wordt geopend.",
+      "subject": {
+        "identificatie": "Jezus Christus",
+        "tekstueel_bewijs": [
+          "Hij verschijnt op het feest en Hij trekt alle aandacht.",
+          "Jezus treedt op, spreekt de dienaren aan.",
+          "Hij geeft ze ook een nieuwe inhoud."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "De eschatologische vreugde/toegang tot de Vader (gesymboliseerd door wijn)",
+        "tekstueel_bewijs": [
+          "Het water van de reiniging wordt wijn.",
+          "Vanaf nu is iedereen welkom in Hem."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God de Vader",
+        "tekstueel_bewijs": [
+          "Zou het kunnen dat Hij door zijn Vader geroepen is?",
+          "Hij komt ook van de Vader vandaan, van boven."
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "De hoorders / De gemeente (zowel Jood als heiden)",
+        "tekstueel_bewijs": [
+          "Zij maken ons geschikt om deel te nemen aan het bruiloftsfeest.",
+          "Neem dan de uitnodiging aan, want het is voor u."
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "De dienaren / De moeder (instrumenteel)",
+        "tekstueel_bewijs": [
+          "De dienaren... doen wat er moet gebeuren.",
+          "Luister naar mijn zoon."
+        ],
+        "rol_van_god": "God (in Christus) is het Subject zelf.",
+        "rol_van_geest": "Niet expliciet genoemd, maar impliciet in de transformatie van de tekens."
+      },
+      "tegenstander": {
+        "identificatie": "De beperking van de traditie / De zonde / De dood",
+        "tekstueel_bewijs": [
+          "De wijn is op.",
+          "De grenzen die bepalen of je er wel of niet bij hoort.",
+          "Het Lam dat de zonde van de wereld wegneemt."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Het tekort aan wijn wordt getheologiseerd als een ontologisch tekort aan leven en toegang tot God, dat alleen door een goddelijk ingrijpen (het 'uur') hersteld kan worden."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "De hoorder die reageert op de uitnodiging van de Bruidegom om aan de tafel aan te zitten.",
+      "subject": "De hoorder",
+      "object": "Deelname aan het Avondmaal/Koninkrijk",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "De hoorder handelt pas nadat Jezus het primaire programma (de transformatie/het offer) heeft volbracht."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Vader → Redding/Wijn → Gemeente",
+      "helper_subject_tegenstander": "Dienaren → Jezus ← Traditie/Zonde/Tekort",
+      "subject_naar_object": "Jezus → Openen van de Weg/Vreugde"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "Jezus transformeert deze grenzen.",
+        "Hij heiligt eenieder die in Hem geloven wil.",
+        "De Bruidegom die u nodigt."
+      ],
+      "voorbeelden_mens_subject": [
+        "U hoeft zelf niets mee te brengen.",
+        "Wij hebben geen greep op Hem.",
+        "Mogen wij Hem volgen?"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "U hoeft zelf niets gedaan te hebben."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "De Bruidegom die... u thuis wil hebben."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Deze bruiloft helpt ons op weg om het feest van Jezus te begrijpen."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Zij maken ons geschikt om deel te nemen.",
+          "De wijn, die krijgen we nooit meer op."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "De preek focust op de goddelijke bekwaamheid (Pouvoir) die het menselijk onvermogen (het 'op' zijn van de wijn) vervangt. Het is een preek van 'kunnen door Christus' in plaats van 'moeten door de wet'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Vreugde/Overvloed (Wijn)",
+      "s2": "Oordeel/Tekort (Lege vaten)",
+      "niet_s1": "Wetticisme (Water van reiniging)",
+      "niet_s2": "Genade (Het Lam dat wegneemt)"
+    },
+    "beweging_in_preek": "Van Niet-S2 (het tekort in de traditie) via S2 (de ernst van de zonde/het uur) naar S1 (de eschatologische wijn).",
+    "theologische_resolutie": "Christus transformeert de instrumenten van de wet (reinigingsvaten) in instrumenten van genade.",
+    "ernst_van_s2": "Ja, het tekort wordt beschreven als een fundamenteel onvermogen van de traditie en de mens."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "De preek is consequent theocentrisch. Jezus is de actor die de situatie verandert; de mens is de ontvanger van een overvloed waar hij zelf niet voor heeft gezorgd.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Geen",
+        "tekstueel_bewijs": "N.v.t.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God als Subject van actieve werkwoorden",
+        "tekstueel_bewijs": "Hij heiligt eenieder die in Hem geloven wil.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Onvoorwaardelijkheid",
+        "tekstueel_bewijs": "Of u nou rein en heilig bent... U hoeft zelf niets mee te brengen.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "De moeder en de dienaren worden niet als morele voorbeelden gesteld, maar als symbolische of instrumentele figuren in Gods handelen.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "De preek leest de figuren reeds christocentrisch."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Bevrijding van prestatiedrang; rust in het volbrachte werk van Christus.",
+      "theologische_implicatie": "Sola Gratia wordt narratief verankerd."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "De overgang van het wonder in Kana naar het kruis en de avondmaalstafel is theologisch en narratief sluitend.",
+      "spanning_punten": [
+        "De spanning tussen de 'harde afstand' van Jezus tot zijn moeder en zijn liefde voor de wereld."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION/PARTICIPATION",
+      "tekstueel_bewijs": "Het Lam dat de schuld en de scheiding van u en mij heeft weggedragen.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "De preek focust meer op de Christologische basis dan op de Pneumatologische toe-eigening."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT/COSMIC_POWER",
+      "ernst_diagnose": "Hoog; de zonde veroorzaakt een 'scheiding' die alleen door het Lam kan worden weggedragen."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek is structureel gezond met God/Christus als het onbetwiste Subject.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "Geen",
+      "voorgestelde_herpositionering": "N.v.t.",
+      "voorbeeld_revisie": "N.v.t."
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "Geen",
+      "voorgestelde_identificatie": "N.v.t.",
+      "strategie": "N.v.t."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Sterke focus op Pouvoir (kunnen/genade).",
+      "voorgestelde_balans": "De preek zou iets meer 'Vouloir' (de roeping tot navolging) kunnen expliciteren als vrucht van de genade.",
+      "concrete_suggestie": "Versterk de koppeling tussen het 'ontvangen' en het 'getuigen' (zoals de dienaren)."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "De tegenstander (zonde/tekort) is voldoende serieus genomen.",
+      "voorgestelde_intensivering": "N.v.t.",
+      "theologische_rationale": "N.v.t."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "Geen",
+      "voorgestelde_structuur": "De huidige structuur (Soteriologie → Sacrament) is correct."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "Dit is een schoolvoorbeeld van een genade-georiënteerde preek waarin de actantiële rollen exact liggen waar ze theologisch horen: God handelt, de mens ontvangt."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Waar retorica zou kijken naar de overtuigingskracht van de metaforen, onthult Greimas dat de 'motor' van de preek niet de menselijke wil is, maar de goddelijke transformatie.",
+    "verschil_met_exegese": "De analyse kijkt niet alleen naar wat de tekst zei in Kana, maar hoe de prediker de hoorder vandaag positioneert ten opzichte van dat handelen.",
+    "unieke_inzichten_greimas": "Het inzicht dat de 'reinigingsvaten' (Helper van de Wet) door Jezus worden geannexeerd als 'wijnvaten' (Helper van Genade) toont de diepe structurele verschuiving in de preek."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jezus verschijnt",
+      "Hij trekt aandacht",
+      "Jezus treedt op",
+      "Hij geeft inhoud",
+      "Het Lam neemt weg",
+      "De Bruidegom nodigt"
+    ],
+    "volledige_object_lijst": [
+      "Wijn",
+      "Vreugde",
+      "Toegang tot de Vader",
+      "Heiliging"
+    ],
+    "werkwoord_frequentie": {
+      "nodigen": {
+        "count": "4",
+        "primair_subject": "God/Jezus"
+      },
+      "transformeren": {
+        "count": "3",
+        "primair_subject": "Jezus"
+      },
+      "ontvangen": {
+        "count": "2",
+        "primair_subject": "Mens"
+      }
+    },
+    "notities": "De preek vermijdt de valkuil van 'doe-het-zelf' geloof door de nadruk te leggen op de soevereiniteit van Jezus ('Hij bepaalt hoe het gaat')."
+  }
+}

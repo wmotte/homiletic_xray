@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "titel_preek": "Noch leben wir in Babylon",
+    "bijbeltekst": "Jesaja 40, 1-5",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The liberation of God's people from the 'Babylon' of modern militarism and industrialism through the preparation of a path of justice.",
+      "subject": {
+        "identificatie": "The People of God / The 'Minority of Consciousness'",
+        "tekstueel_bewijs": [
+          "Was tun wir aber mit unserm Todeswissen...?",
+          "Wir alle sind von Gott beteiligt, Gott tröstet uns und wir bereiten Gottes Weg."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Justice and the 'Coming of the Messiah' (Homecoming)",
+        "tekstueel_bewijs": [
+          "Der Messias kommt auf keinem anderen Weg als dem der Gerechtigkeit."
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "God (as the one who mandates and comforts)",
+        "tekstueel_bewijs": [
+          "Gott traut uns zu, dass wir den Weg des Messias bereiten."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The People of God / The Poor",
+        "tekstueel_bewijs": [
+          "Tröstet, tröstet mein Volk!",
+          "Der Weg des Überlebens für alle."
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Memory of the Exodus / Comfort (Trost)",
+        "tekstueel_bewijs": [
+          "Das Volk Gottes hat seine Erinnerung an den Exodus."
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Militarism (NATO), Banks, Industrialism, and Human Paralysis",
+        "tekstueel_bewijs": [
+          "Wann werden wir frei vom Wahnsinn unserer Herren...?",
+          "gelähmte Kaninchen vor der Schlange."
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is identified as political and systemic structures rather than ontological sin or death."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The psychological movement from paralysis/fear to empowerment.",
+      "subject": "The Hearer",
+      "object": "Empowerment (Anteil an Gottes Macht)",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "The internal psychological change is the prerequisite for the external political action."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Justice/Messiah → The People",
+      "helper_subject_tegenstander": "Exodus Memory → The People ← NATO/Banks/Paralysis",
+      "subject_naar_object": "The People → Preparing the Way"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "28",
+      "ratio": "0.42",
+      "voorbeelden_god_subject": [
+        "Gott will sein Volk trösten.",
+        "Gott traut uns zu..."
+      ],
+      "voorbeelden_mens_subject": [
+        "Was tun wir aber...?",
+        "Wir bereiten Gottes Weg.",
+        "Wir sitzen da, gelähmte Kaninchen."
+      ],
+      "rutledge_score": "4"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Es muss die Unbegehbarkeit der Welt anders werden.",
+          "Aufgabe des Volkes Gottes, den Weg des Herrn zu bereiten."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Wann werden wir nach Hause kommen...?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "mit immer klarerem Wissen von dem Tod."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "sodass wir Anteil an Gottes Macht bekommen."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon focuses heavily on the obligation (Devoir) to act, assuming that 'Comfort' provides the necessary power (Pouvoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Justice/Homecoming",
+      "s2": "Babylon/Militarism",
+      "niet_s1": "Paralysis/Resignation",
+      "niet_s2": "Cheap Comfort (Trostbonbon)"
+    },
+    "beweging_in_preek": "From S2 (Babylon) to ~S1 (Paralysis) to S1 (Justice) via the rejection of ~S2 (Cheap Comfort).",
+    "theologische_resolutie": "Resolution is found in 'messianic work' (human action) triggered by divine comfort.",
+    "ernst_van_s2": "High regarding political structures, low regarding the radicality of sin."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'comfort' and 'God's glory,' the actantial subject of the 'preparation' and the 'coming' is the human community. God is the one who 'trusts us' (Sender) and 'comforts us' (Helper), but the actual performance is human.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Synergism/Conditional Grace",
+        "tekstueel_bewijs": "Es muss die Unbegehbarkeit der Welt anders werden, damit der Messias kommen kann.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Gott tröstet uns und wir bereiten Gottes Weg.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Proclamation of Forgiveness",
+        "tekstueel_bewijs": "dass ihre Schuld vergeben ist.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The Exiles in Babylon and the Exodus generation serve as models for modern political resistance.",
+      "bijbelse_figuren_als_model": [
+        "The Exiles",
+        "The Exodus generation"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who levels the mountains Himself (Eschatological act) rather than God waiting for human roadwork."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'messianic work' to enable God's coming.",
+      "theologische_implicatie": "Soteriology is dependent on ethics (Pelagian tendency)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is logically coherent within a 'Political Theology' framework but creates a theological tension by making the Messiah's arrival contingent on human social justice.",
+      "spanning_punten": [
+        "The tension between 'Grace/Forgiveness' (given) and 'The path must be prepared' (required)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Die messianische Befreiungsarbeit wartet auf uns.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "Help (Comfort as motivation for action)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "SOCIAL",
+      "ernst_diagnose": "Sin is primarily located in external systems (NATO, Banks) and internal paralysis, not in the heart's rebellion against God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon positions the hearer as the Subject of the 'preparation' and God as the Sender/Helper. This creates a 'Theology of Glory' through social activism.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The human is the subject of 'making the path straight'.",
+      "voorgestelde_herpositionering": "God is the one who breaks the gates of Babylon and levels the mountains.",
+      "voorbeeld_revisie": "Instead of 'We must prepare the way so He can come,' use 'Because He is coming, He is already leveling the mountains of our injustice.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as 'Roadworker'.",
+      "voorgestelde_identificatie": "Hearer as 'Captive' who is set free.",
+      "strategie": "Emphasize the passivity of the exile being carried home."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Obligation)",
+      "voorgestelde_balans": "POUVOIR (Divine Gift)",
+      "concrete_suggestie": "Focus on how the Word itself creates the freedom it commands."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Political/External",
+      "voorgestelde_intensivering": "Death and Sin as powers no human 'Greenpeace' can defeat.",
+      "theologische_rationale": "To make the need for a Divine Subject (Christ) absolute."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) is the condition for Soteriology (Program 1).",
+      "voorgestelde_structuur": "Soteriology (God saves) → Ethics (We respond)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has strong rhetorical power and social relevance, but structurally risks turning the Gospel into a 'Law of Activism'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is 'prophetic' and 'comforting'; actantially, it is 'demanding'.",
+    "verschil_met_exegese": "Exegesis correctly identifies the context of exile but misses the indicative nature of the Hebrew 'Way of the Lord'.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'Comfort' is used here as a modal competency (Vouloir/Pouvoir) for a human task, rather than an end in itself."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wir (leben)",
+      "Jesaja (sprach)",
+      "Gott (will trösten)",
+      "Wir (tun)",
+      "Wir (sitzen da)",
+      "Wir (bereiten den Weg)",
+      "Banken (erwürgen)"
+    ],
+    "volledige_object_lijst": [
+      "Trost",
+      "Gerechtigkeit",
+      "Weg des Herrn",
+      "Heimat"
+    ],
+    "werkwoord_frequentie": {
+      "bereiten": {
+        "count": "5",
+        "primair_subject": "Man"
+      },
+      "trösten": {
+        "count": "8",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Religious Socialism' where the actantial subject is the collective 'People of God'."
+  }
+}

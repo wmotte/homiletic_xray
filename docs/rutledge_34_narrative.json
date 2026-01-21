@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "Advent on the Brink of War",
+    "bijbeltekst": "Isaiah 65:17-25; Isaiah 64:1-12",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in a world of darkness and war to create a new heaven and earth, fulfilling a promise of deliverance that humans cannot achieve themselves.",
+      "subject": {
+        "identificatie": "God (The Lord)",
+        "tekstueel_bewijs": [
+          "Behold, I create new heavens and a new earth",
+          "God has spoken",
+          "Is there a living God who acts on behalf of his creation?"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Deliverance/New Creation",
+        "tekstueel_bewijs": [
+          "the promise of deliverance",
+          "prophecies of restoration",
+          "the glory of the Lord shall be revealed"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Mouth of the Lord",
+        "tekstueel_bewijs": [
+          "for the mouth of the Lord has spoken it"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Creation/The People (specifically the 'unclean' and 'trapped')",
+        "tekstueel_bewijs": [
+          "be glad in my people",
+          "all flesh shall see it together"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Prophets/Lincoln/The Church",
+        "tekstueel_bewijs": [
+          "summoned into the presence of God... to bring the Word",
+          "it is therefore the vocation of the Christian church to do it [self-examination]"
+        ],
+        "rol_van_god": "God is the Subject, not just a Helper.",
+        "rol_van_geest": "External help through the Word."
+      },
+      "tegenstander": {
+        "identificatie": "Sin/War/Darkness/Death",
+        "tekstueel_bewijs": [
+          "our iniquities, like the wind, take us away",
+          "the darkness within ourselves",
+          "a desolate vista of the dead"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad habits but 'annihilation' and 'iniquity' that renders human effort ('polluted garments') useless."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Church/Hearer engaging in repentance and self-examination in response to the coming judgment.",
+      "subject": "The Church/Hearer",
+      "object": "Repentance/Humility",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Repentance is the necessary response to the 'Word' that has been spoken; it does not trigger the deliverance but acknowledges the reality of the Judge."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Mouth of the Lord → New Creation → All Flesh",
+      "helper_subject_tegenstander": "The Prophets → God ← Sin/Death/War",
+      "subject_naar_object": "God → Deliverance"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 28,
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "I create new heavens",
+        "God has spoken",
+        "He gives to both North and South this terrible war"
+      ],
+      "voorbeelden_mens_subject": [
+        "We have all become like one who is unclean",
+        "We all fade like a leaf",
+        "followers of Jesus Christ will always want to remember"
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "it still must be said",
+          "judgment to begin with the household of God"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "The people are begging God not to be silent"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "how can we... trust what this prophet says?"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "without intervention from another sphere of power, there is no way out",
+          "Is there a God who can make good on his promise?"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon emphasizes the total lack of human 'Pouvoir' (power) to escape darkness, shifting the 'Pouvoir' entirely to God's intervention."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Mercy/Deliverance",
+      "s2": "Judgment/Annihilation",
+      "niet_s1": "Moral Certainty/Self-Righteousness",
+      "niet_s2": "Cheap Peace/Silence"
+    },
+    "beweging_in_preek": "The sermon moves from the overlap of S1 and S2 (9/11 story) to the negation of S1 (our polluted garments) and finally to the resolution in S1 via the Word of God.",
+    "theologische_resolutie": "The tension is resolved by the 'Mouth of the Lord' which speaks both judgment and promise simultaneously.",
+    "ernst_van_s2": "Extremely high; judgment is described as 'true and righteous' and 'terrible'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It rejects human agency as the solution to the 'darkness' and places the burden of deliverance entirely on God's active Word.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in Lincoln",
+        "tekstueel_bewijs": "If we are following Lincoln’s biblical wisdom...",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch to God",
+        "tekstueel_bewijs": "without intervention from another sphere of power, there is no way out",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "all our righteous deeds are like a polluted garment",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Lincoln and the firefighters are used as icons of the human condition or witnesses to God's judgment, not as models for moral imitation.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: God acts through the 'terrible' events of history."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief coupled with awe; a move from self-reliance to trust.",
+      "theologische_implicatie": "Monergistic deliverance; God is the sole actor in the 'New Creation'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 10,
+      "coherentie_beschrijving": "The narrative of the 9/11 firefighters perfectly mirrors the theological structure of Advent: the simultaneous arrival of the end and the rescue.",
+      "spanning_punten": [
+        "The tension between God's silence and God's speech."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "intervention from another sphere of power",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The Word itself creates the reality it announces."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Total; even 'righteous deeds' are polluted."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative program.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong emphasis on Devoir (Judgment) and Pouvoir (God's power).",
+      "voorgestelde_balans": "The balance is appropriate for Advent.",
+      "concrete_suggestie": "Maintain the 'terrible' nature of the Devoir to highlight the 'miraculous' nature of the Pouvoir."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Opponent is already cosmic/deathly.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God creates) precedes Ethics (Repentance)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in theocentric preaching that uses cultural tragedy not for moralizing, but to illustrate the desperate need for a Divine Subject."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the pathos of the 9/11 story; Greimas reveals that the story functions as a structural 'double' for the Advent actantial model.",
+    "verschil_met_exegese": "Exegesis would explain Isaiah's context; Greimas shows how the 'Mouth of the Lord' functions as the Sender of a new value system.",
+    "unieke_inzichten_greimas": "Greimas exposes that the 'war' is not the Opponent to the Americans, but the Opponent to the New Creation, and God is the Subject who overcomes it."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (creates, speaks, wills, gives)",
+      "We (fade, sin, become unclean)",
+      "The war (came)",
+      "The mouth of the Lord (has spoken)"
+    ],
+    "volledige_object_lijst": [
+      "New heavens",
+      "Deliverance",
+      "Judgment",
+      "Repentance"
+    ],
+    "werkwoord_frequentie": {
+      "create": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "judge": {
+        "count": 6,
+        "primair_subject": "God"
+      },
+      "repent": {
+        "count": 2,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon avoids the 'If-Then' trap of moralism by making the promise of deliverance simultaneous with the recognition of death."
+  }
+}

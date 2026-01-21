@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "titel_preek": "Prayer for the World (The Conundrum of Judgment)",
+    "bijbeltekst": "Psalm 98",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2800"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God resolves the cosmic conundrum of judgment by becoming the substitute for humanity on the cross, transforming a day of terror into a day of joy.",
+      "subject": {
+        "identificatie": "God (specifically in Christ)",
+        "tekstueel_bewijs": [
+          "he has done marvelous things",
+          "his right hand and his holy arm have worked salvation",
+          "the judge... pays it himself"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Salvation/Resolution of the Law-Love tension",
+        "tekstueel_bewijs": [
+          "the resolution of the conundrum",
+          "everything is going to be put all right"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Triune God (The Holiness and Love of God)",
+        "tekstueel_bewijs": [
+          "the law demands perfect satisfaction... love wants exemption"
+        ],
+        "rol_interpretatie": "JUDGE/LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity/The Hearer",
+        "tekstueel_bewijs": [
+          "you, O imperfect person, are flooded with the benefits"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Cross/The Lamb/Jesus Christ",
+        "tekstueel_bewijs": [
+          "the judgment falls on this substitute, this lamb"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "Indwelling power (implied in the Magnificat reference)"
+      },
+      "tegenstander": {
+        "identificatie": "The Conundrum (The irreconcilability of Justice and Mercy)",
+        "tekstueel_bewijs": [
+          "seemingly irreconcilable statements",
+          "if there is a judgment day, there’s no hope for us"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not a moral failing but a theological impossibility: how can a holy God justify the ungodly?"
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The transformation of the believer's life from duty to choice.",
+      "subject": "The Hearer",
+      "object": "Joyful obedience/Freedom from fear",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics/response) is strictly a consequence of the primary program (soteriology)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God's Holiness/Love → Salvation → Imperfect People",
+      "helper_subject_tegenstander": "The Cross → God in Christ ← The Conundrum of Justice",
+      "subject_naar_object": "God → Resolution of Judgment"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "15",
+      "ratio": "2.8:1",
+      "voorbeelden_god_subject": [
+        "God has already worked [salvation]",
+        "He has remembered his love",
+        "The judge pronounces the fine and then pays it himself"
+      ],
+      "voorbeelden_mens_subject": [
+        "we’ve been looking at the Psalms",
+        "we yearn for something",
+        "you try to obey God"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "anything that anyone has done wrong has to be paid for"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "we yearn for something beyond medicine"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "if we understand it, we’re going to be able to understand the whole Bible"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "God has already worked [salvation]",
+          "Jesus Christ solves the problem"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God's 'ability' to do what man 'cannot' do, shifting the burden of performance from the hearer to the Savior."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace (Unconditional Love)",
+      "s2": "Judgment (Conditional Law)",
+      "niet_s1": "Legalism (Moralism)",
+      "niet_s2": "Relativism (Impunity/Postmodernism)"
+    },
+    "beweging_in_preek": "The sermon moves from the tension between S1 and S2, through the failure of ~S1 and ~S2, to a synthesis on the Cross.",
+    "theologische_resolutie": "The Cross is the 'sublation' where S1 and S2 are simultaneously satisfied.",
+    "ernst_van_s2": "High; judgment is presented as a cosmic necessity that cannot be ignored."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. It identifies a problem that humans cannot solve and presents God as the sole active Subject of the solution.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in King Arthur/Robin Hood",
+        "tekstueel_bewijs": "Robin Hood is another fairy tale story...",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch to Christ",
+        "tekstueel_bewijs": "The judge pronounces the penalty and then goes and takes it himself.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "If there is a judgment day, there’s no hope for us.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Biblical figures (Miriam, Mary) are used as witnesses to God's action, not as moral templates for the hearer to imitate.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric as is."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and worship (Doxology)",
+      "theologische_implicatie": "Justification by grace through faith alone."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The narrative logic is airtight: Problem (Conundrum) -> Inability (Human thought) -> Solution (God's past action) -> Result (Future joy).",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "The essence of salvation is God putting himself where we deserve to be.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit helps Mary/Hearer to 'realize' or 'see' the truth of the Subject's work."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Critical; sin creates a legal and ontological barrier that requires death to resolve."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative program. The hearer is correctly positioned as the Receiver of a finished work.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is appropriate for a Gospel-centered sermon.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "The opponent (Judgment/Law) is already presented as an insurmountable wall.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Verses 1-3) precedes and enables Ethics/Doxology (Verses 4-9)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in grace-oriented actantial structure. It avoids the 'Exemplarist' trap and the 'Helper' trap, ensuring God remains the Hero of the story."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'Maggie Smith' metaphor, Greimasian analysis reveals that the metaphor serves to identify God as the 'True King' (Subject) vs. the 'Peter Pan' (Hearer) who has lost competence.",
+    "verschil_met_exegese": "Exegesis explains Psalm 98; this analysis explains how the sermon's *use* of Psalm 98 functions as a mechanism of grace.",
+    "unieke_inzichten_greimas": "Greimas reveals that the 'Conundrum' is actually the Opponent in the narrative, which only a Subject with the modal competence of 'God-Man' can defeat."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (has done)",
+      "His right hand (has worked)",
+      "The Lord (has made known)",
+      "He (has remembered)",
+      "The Judge (pays)",
+      "Jesus Christ (fulfills)"
+    ],
+    "volledige_object_lijst": [
+      "Salvation",
+      "Righteousness",
+      "The Conundrum",
+      "The Fine",
+      "The Penalty"
+    ],
+    "werkwoord_frequentie": {
+      "save/salvation": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "judge/judgment": {
+        "count": "24",
+        "primair_subject": "God"
+      },
+      "obey": {
+        "count": "6",
+        "primair_subject": "Man"
+      }
+    },
+    "notnotes": "The sermon uses a 'Subject-Switch' maneuver: the hearer expects to be the Subject of judgment (defendant), but Christ becomes the Subject of the penalty, allowing the hearer to remain the Receiver of the joy."
+  }
+}

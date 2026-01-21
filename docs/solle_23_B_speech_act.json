@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "titel_preek": "Die Erde dreht sich zärtlich",
+    "bijbeltekst": "Genesis 6-9 (Noah)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A narrative and socio-political re-reading of the Noah story, focusing on God's repentance, the rainbow covenant, and the critique of 'God-imperialism' and militarism.",
+      "exegetische_kwaliteit": "Strong socio-historical focus (Yahwist context), though highly hermeneutically driven by contemporary peace ethics.",
+      "omvang_procent": "75"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting a new image of God (vulnerable/repentant) and commanding a political-ethical response, with a late shift to declaration.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Ich möchte die biblische Geschichte erzählen (Assertive/Expressive)",
+        "Gott bereut (Assertive)",
+        "Macht doch endlich Frieden (Directive)"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Political mobilization, liberation from fatalism, and ethical alignment with the 'God of Life'.",
+      "pneumatologisch_bewustzijn": "Explicitly mentioned at the end as 'der lange Atem'.",
+      "perlocutionaire_werkwoorden": [
+        "umkehren",
+        "widerstehen",
+        "vertrauen",
+        "aufrichten"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "High",
+      "procent": "65",
+      "voorbeelden": [
+        "Gott ist nicht unabhängig von uns.",
+        "Die Erde gehört Gott.",
+        "Sünde ist eine transsubjektive Macht."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "denkt",
+        "meint",
+        "erzählt"
+      ]
+    },
+    "directieven": {
+      "frequentie": "Moderate",
+      "procent": "15",
+      "voorbeelden": [
+        "Macht doch endlich Frieden.",
+        "Denkt an diesen Krieg.",
+        "Lasst euch versöhnen."
+      ],
+      "dominante_werkwoorden": [
+        "macht",
+        "denkt",
+        "lasst",
+        "erinnert"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "Moderate",
+      "procent": "10",
+      "voorbeelden": [
+        "Ich möchte innehalten.",
+        "Ich vermute...",
+        "Das macht mir am meisten Angst."
+      ],
+      "dominante_werkwoorden": [
+        "möchte",
+        "hoffe",
+        "fühle"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "Low",
+      "procent": "5",
+      "voorbeelden": [
+        "Gott bietet uns wieder seinen Bund an."
+      ],
+      "dominante_werkwoorden": [
+        "bietet an",
+        "verspricht"
+      ],
+      "kwaliteit": "Promises are often described as historical facts rather than enacted in the moment."
+    },
+    "declaratieven": {
+      "frequentie": "Low (Concentrated at end)",
+      "procent": "5",
+      "voorbeelden": [
+        "Gott... hat euch längst eure Sünden vergeben.",
+        "Du hast den Glauben."
+      ],
+      "dominante_werkwoorden": [
+        "vergeben",
+        "ist gegeben"
+      ],
+      "autoriteit": "High in the liturgical appendix, low in the body of the sermon."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80",
+    "performatief_percentage": "20",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical-critical explanations",
+        "Sociological analysis of weapon exports",
+        "Theological debate about 'God-imperialism'"
+      ],
+      "effect_op_hoorder": "Intellectual agreement or political reflection, but delayed existential encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct address of the promise (Toezegging) in the main body",
+        "Immediate sacramental language"
+      ],
+      "effect_op_hoorder": "The hearer remains an observer of a theological-political lecture until the very end."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "Clear but detached from the main narrative flow.",
+      "voorbeelden": [
+        "Gott... hat euch längst eure Sünden vergeben."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Preacher as a searching, doubting, and analyzing subject ('Ich möchte', 'Ich denke')."
+      },
+      "tweede_persoon": {
+        "frequentie": "Low",
+        "gebruik": "Mostly in the final absolution and occasional appeals ('ihr', 'euch').",
+        "performatieve_context": "Strongly performative in the final section."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Talking about God, Noah, the state, and the church.",
+        "distantie_effect": "Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40",
+        "gebruik": "Biblical narrative and recent history (1945, 1985)."
+      },
+      "tijdloos_present": {
+        "frequentie": "40",
+        "gebruik": "Theological principles and political analysis."
+      },
+      "actueel_present": {
+        "frequentie": "20",
+        "gebruik": "The liturgical 'Now' of forgiveness."
+      }
+    },
+    "adressering_effectiviteit": 5
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Long sections of Assertive (Political analysis) -> Directive (Call to peace).",
+      "voorbeelden": [
+        "Analysis of weapon exports -> Call to resist."
+      ],
+      "probleem": "Moralism risk; the 'ought' precedes the 'is' of grace."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Only fully realized in the 'Sündenbekenntnis und Absolution' section.",
+      "voorbeelden": [
+        "Confession of sin -> Declaration of forgiveness -> Empowerment by the Spirit."
+      ],
+      "kwaliteit": "High, but feels like a separate liturgical act rather than the sermon's core."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Gott hat vergeben... du bist fähig zur Liebe."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "Macht doch endlich Frieden (as a demand before the promise is fully spoken)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a 'theological-political meditation'. It informs and challenges but delays the 'event' of the Word until the liturgical appendix.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Re-framing",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "Gott ist der Reue fähig.",
+        "effect": "Breaks down toxic images of an imperial God."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Detailed descriptions of weapon systems (Mirage, Leopard).",
+        "probleem": "Distracts from the illocutionary force of the Gospel.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "The 'event' happens in the final 10% of the text; the first 90% is preparation and teaching.",
+    "sacramentele_kracht": 4,
+    "sacramentele_toelichting": "The sermon talks *about* the sacrament of the covenant more than it *is* the sacrament."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is mostly the object of the preacher's speech, until the end.",
+      "prediker_als_mandataris": "The preacher acts as a political-theological guide.",
+      "tekstueel_bewijs": [
+        "Ich möchte... erzählen",
+        "Gott... hat euch vergeben"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as the 'long breath' of resistance.",
+      "perlocutie_theologie": "The Spirit is invoked to enable the perlocutionary effect of hope.",
+      "tekstueel_bewijs": [
+        "Der lange Atem, das ist der Heilige Geist."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Weak in the body, strong in the absolution.",
+      "epifanisch_taalgebruik": "The 'Rainbow' is used as an epiphanic symbol.",
+      "tekstueel_bewijs": [
+        "Der Regenbogen erinnert mich aber an den Frieden."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person past/present (descriptive) to 2nd person present (performative).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Gott macht einen Bund mit Noah.",
+          "voorgestelde_revisie": "Gott schließt heute diesen Bund mit dir.",
+          "verschil": "Moves from historical report to present event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried under political analysis.",
+      "suggestie": "Interweave the 'Toezegging' into the narrative of the rainbow.",
+      "voorbeeldzinnen": [
+        "In diesem Regenbogen verspricht Gott DIR: Ich verfluche dein Leben nicht."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'They' (politicians).",
+      "suggestie": "Directly address the 'You' of the congregation earlier.",
+      "voorbeeldzinnen": [
+        "Hört ihr das Versprechen?"
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The political 'must' feels heavy without the 'is' of grace being established first.",
+      "suggestie": "Ensure the 'Declarative' of God's peace is the engine of the 'Directive' for human peace."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A powerful political witness, but it risks becoming a lecture. Strengthening the performative 'Now' would turn this great speech into a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (doubts). SAT focuses on the 'Declarative' power of the Word to change the hearer's status.",
+    "verschil_met_retoriek": "Rhetoric seeks to persuade about the 'Mirage' jets; SAT seeks to enact the 'Covenant'.",
+    "unieke_inzichten_SAT": "SAT reveals that the absolution is the only part where the sermon actually 'does' what it 'says'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "war",
+        "sieht",
+        "denkt",
+        "gehört",
+        "bedeutet"
+      ],
+      "directief": [
+        "macht",
+        "lasst",
+        "denkt",
+        "erinnert"
+      ],
+      "expressief": [
+        "möchte",
+        "vermute",
+        "hoffe"
+      ],
+      "commissief": [
+        "bietet an",
+        "verspricht"
+      ],
+      "declaratief": [
+        "vergibt",
+        "ist gegeben"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Gott... hat euch längst eure Sünden vergeben.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Maximum",
+        "effectiviteit": "High (Sacramental)"
+      },
+      {
+        "zin": "Wir produzieren und exportieren heute mehr Waffen.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Informative",
+        "effectiviteit": "Low (Constative Surplus)"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Theology of the North' (Sölle) where political analysis is the locutionary carrier for a performative call to peace."
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "titel_preek": "Lass mich Dein Esel sein, Christus",
+    "bijbeltekst": "Matthäus 21:1-11 (Einzug in Jerusalem)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The preacher seeks to redefine the role of the believer as a humble yet essential carrier of Christ into the world, using the donkey of the Palm Sunday entry as the central metaphor.",
+      "subject": {
+        "identificatie": "The Human/Hearer (as 'Donkey')",
+        "tekstueel_bewijs": [
+          "Lass mich Dein Esel sein",
+          "die das Neue Leben jetzt und hier schon anfangen"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The Mediation of Christ/Kingdom of God",
+        "tekstueel_bewijs": [
+          "auf dem Du zu all diesen Menschen kommst",
+          "Verwirklichung des Reiches Gottes"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Spirit/The Example of Dom Helder Camara",
+        "tekstueel_bewijs": [
+          "da muss man ja tatsächlich den Heiligen Geist im Spiel vermuten",
+          "Das hat Dom Helder Camara gesagt"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The People/The Poor",
+        "tekstueel_bewijs": [
+          "zu all diesen Menschen kommst",
+          "für das Volk",
+          "für die Armen"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Humility and Solidarity with Creation",
+        "tekstueel_bewijs": [
+          "Demut ist etwas äußerst Seltenes",
+          "Eins sein mit allem, was lebt"
+        ],
+        "rol_van_god": "God is the passenger (Object/Passive Subject), not the primary actor.",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Human Pride and Separation from Creation",
+        "tekstueel_bewijs": [
+          "Sucht nach Trennung von den Mitgeschöpfen",
+          "Herrenklasse erschien immer zu Pferde"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily a psychological or social attitude (pride/elitism) rather than a cosmic force of sin."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The act of interpreting/praying the text correctly.",
+      "subject": "The Preacher/Hearer",
+      "object": "Authentic appropriation of the story",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The secondary program (how to read the text) serves as the gateway to the primary program (being the donkey)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Spirit → Mediation of Christ → The People",
+      "helper_subject_tegenstander": "Humility → Human (Donkey) ← Pride/Elitism",
+      "subject_naar_object": "Human → Carrying Christ"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "18",
+      "ratio": "0.22",
+      "voorbeelden_god_subject": [
+        "Christus kommt nicht anders als durch solche Esel",
+        "er wirklich kommt"
+      ],
+      "voorbeelden_mens_subject": [
+        "Lass mich Dein Esel sein",
+        "Wir glauben, dass Christus einreiten kann",
+        "die das Neue Leben jetzt und hier schon anfangen"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "die alten Lieder können nur die singen, die die neuen anstimmen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Lass mich Dein Esel sein",
+          "Bedürfnis, das man nur mit großer Anstrengung... los wird"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "neues Verstehen der eigenen Rolle",
+          "Einstimmen kann nicht durch Wiederholung geschehen"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Christus kommt nicht anders als durch solche Esel wie dich und mich"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a recruitment of the will. It focuses on the desire to be useful to God."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Humility (Donkey)",
+      "s2": "Pride (Horse/Mercedes)",
+      "niet_s1": "Elitism/Separation",
+      "niet_s2": "Solidarity with Creation"
+    },
+    "beweging_in_preek": "From S2 (Pride) through ~S2 (Solidarity) to S1 (Humility).",
+    "theologische_resolutie": "Resolution is found in the 'Abrahamic minority' who choose the low path.",
+    "ernst_van_s2": "S2 is treated as a social/psychological error rather than a state of spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'prayer' and 'Christ', the structural engine is anthropocentric. Christ is dependent on human agency ('Christus kommt nicht anders als durch solche Esel').",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Christus kommt... nur durch uns.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Anthropocentric Agency",
+        "tekstueel_bewijs": "die das Neue Leben jetzt und hier schon anfangen",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Recognition of Spirit",
+        "tekstueel_bewijs": "da muss man ja tatsächlich den Heiligen Geist im Spiel vermuten",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Dom Helder Camara and the 'friendly beasts' are used as models for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [
+        "The Donkey of Palm Sunday",
+        "The Camel/Sheep/Cow of Christmas"
+      ],
+      "alternatieve_lezing": "Focus on Christ who chooses the lowly, rather than the lowly who allow Christ to use them."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to be 'humble enough' to be useful.",
+      "theologische_implicatie": "Synergism: God's entry into the world is contingent on human cooperation."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The metaphor is consistent, but the theological hierarchy is inverted.",
+      "spanning_punten": [
+        "The claim that Christ 'cannot come otherwise' vs. Divine Sovereignty."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Christus... vermittelt lässt in unser Leben",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is a 'suspicion' rather than the source of power."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'Sucht nach Trennung' (addiction to separation)."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon makes the human 'donkey' the Subject of the mission, making Christ the Object/Passenger dependent on human humility.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The human is the subject of 'carrying' and 'beginning' the new life.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who chooses and empowers the donkey.",
+      "voorbeeld_revisie": "Instead of 'Let me be your donkey,' use 'Christ chooses even a donkey to manifest His glory.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'necessary' helper of God.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the wonder that Christ comes to us, rather than how we bring Him."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "VOULOIR (Willingness to be humble)",
+      "voorgestelde_balans": "POUVOIR (God's power in weakness)",
+      "concrete_suggestie": "Emphasize that we *cannot* be humble on our own; it is a gift."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Weak (social pride)",
+      "voorgestelde_intensivering": "Address the radical inability of the human to 'carry' God.",
+      "theologische_rationale": "Without a 'Heavy Opponent' (Sin), the 'Donkey' becomes a hero of humility."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (being a donkey) precedes Soteriology (Christ's coming).",
+      "voorgestelde_structuur": "Christ comes (Soteriology) -> Therefore we are freed to serve (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The metaphor is poetically strong but structurally risks making the Gospel dependent on human virtue."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is humble; actantially, it is anthropocentric.",
+    "verschil_met_exegese": "Exegesis would focus on Zechariah 9:9; this focuses on a modern archbishop's quote.",
+    "unieke_inzichten_greimas": "Greimas reveals that the 'Donkey' is actually the 'Hero' (Subject) of this narrative."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Dom Helder (Subject of speaking)",
+      "Animals (Subject of helping)",
+      "We (Subject of believing/beginning)"
+    ],
+    "volledige_object_lijst": [
+      "Christ (as passenger)",
+      "The Kingdom (as goal)"
+    ],
+    "werkwoord_frequentie": {
+      "kommen": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "sein/werden": {
+        "count": "12",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Exemplarism' where a saint's prayer replaces the divine act."
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "I Believe",
+    "bijbeltekst": "Acts 17:16-34",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2800"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The preacher constructs a narrative where the modern secular person (Hearer) must recognize their inherent religiosity and 'upgrade' their inadequate worldview to a 'God-sized' Christian belief system to handle suffering and moral intuition.",
+      "subject": {
+        "identificatie": "The Hearer (Modern Secular Person/New Yorker)",
+        "tekstueel_bewijs": [
+          "you all hold deeply religious beliefs",
+          "you are betting your life",
+          "how are we ever going to make progress?",
+          "you have to have a heart-shaped hope"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "A coherent and 'workable' belief system (God-sized God and Heart-shaped hope)",
+        "tekstueel_bewijs": [
+          "beliefs big enough for your moral intuitions",
+          "hope wonderful enough... for your heart's deepest desires"
+        ],
+        "aard_van_object": "THERAPEUTIC/PHILOSOPHICAL"
+      },
+      "zender": {
+        "identificatie": "Paul (as the model for the Preacher) / Reason / Intellectual Necessity",
+        "tekstueel_bewijs": [
+          "this is what I am going to proclaim to you",
+          "here are the three things I’d like you to get"
+        ],
+        "rol_interpretatie": "THERAPIST/PHILOSOPHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The Self",
+        "tekstueel_bewijs": [
+          "Christianity has that for you",
+          "satisfy your deepest desires"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Jesus (as model/example) and the Socratic Method",
+        "tekstueel_bewijs": [
+          "Jesus... had a model of someone who was not afraid of suffering",
+          "the Socratic method was you came inside"
+        ],
+        "rol_van_god": "Helper (Jesus is the model to follow/resource to use)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Incoherence / Secular Skepticism / Suffering",
+        "tekstueel_bewijs": [
+          "your worldview is too small",
+          "the older worldview could not help people understand or face suffering"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The 'enemy' is not Sin or Death as cosmic powers, but the intellectual and emotional inadequacy of secularism."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Christian's duty to engage the marketplace of ideas.",
+      "subject": "The Christian Hearer",
+      "object": "Cultural change / Engagement with the marketplace",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Once the hearer adopts the 'God-sized' belief (Program 1), they are commanded to 'plunge' into the marketplace like Paul (Program 2)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Reason/Paul → God-sized Belief → The Hearer",
+      "helper_subject_tegenstander": "Jesus (Example) → The Hearer ← Secular Incoherence",
+      "subject_naar_object": "The Hearer → Finding a workable worldview"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "52",
+      "ratio": "0.27",
+      "voorbeelden_god_subject": [
+        "God overlooked such ignorance",
+        "He has given proof of this",
+        "He himself gives everyone life"
+      ],
+      "voorbeelden_mens_subject": [
+        "You are betting your life",
+        "We need to do that too",
+        "You have to have a heart-shaped hope",
+        "How do you determine right and wrong?"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "we should not think",
+          "he commands all people everywhere to repent",
+          "We need to do that too"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "satisfy your deepest desires",
+          "what you’ve always wanted",
+          "I want that"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "let me show you how he does it",
+          "you sense there’s something inadequate",
+          "learn how to dialogue"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Christianity could engage the most dominant cultural ideas",
+          "I can handle anything"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is primarily a 'Recruitment' narrative. It focuses on awakening the hearer's desire (Vouloir) for a more robust worldview and providing the knowledge (Savoir) to critique secularism."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Coherent Faith (Christianity)",
+      "s2": "Incoherent Skepticism (Secularism)",
+      "niet_s1": "Ineffective Religion (Greek Idols)",
+      "niet_s2": "Functional Intuition (The Unknown God)"
+    },
+    "beweging_in_preek": "The sermon moves from S2 (Secularism) to ~S2 (Unknown God/Intuition) to S1 (Christianity as the fulfillment of intuition).",
+    "theologische_resolutie": "Resolution is found in the 'workability' of the Resurrection as a solution to suffering.",
+    "ernst_van_s2": "Low. Skepticism is treated as an intellectual mistake or emotional deficiency rather than a state of spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'gospel' and 'resurrection,' the actantial structure is anthropocentric. The Hearer is the Subject who must 'have' or 'adopt' beliefs to solve the problem of suffering and incoherence. Jesus is reduced to a 'model' or 'resource.'",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Your beliefs must have a God-sized God big enough for your moral intuitions.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Subject-Switch to Hearer",
+        "tekstueel_bewijs": "We need to do that too... Walk in his footsteps... Go and do likewise.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Objective Resurrection",
+        "tekstueel_bewijs": "He has given proof of this to everyone by raising him from the dead.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus and Paul are presented as models for the hearer to emulate in the marketplace and in facing suffering.",
+      "bijbelse_figuren_als_model": [
+        "Paul",
+        "Jesus"
+      ],
+      "alternatieve_lezing": "A theocentric reading would focus on God's act of invading Athens through Paul, rather than Paul's 'method' as a template for New Yorkers."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'better' dialogue and 'choose' a better worldview.",
+      "theologische_implicatie": "Salvation is the acquisition of a superior philosophy."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is logically tight but theologically inverted; the secondary program (ethics/engagement) is fused with the primary program (soteriology).",
+      "spanning_punten": [
+        "The command to 'repent' (v. 30) is mentioned but softened into 'adopting a bigger worldview'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Christians had a model of someone who was not afraid of suffering... Walk in his footsteps.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer has the 'Pouvoir' (power) to change their worldview if given the 'Savoir' (knowledge)."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is framed as 'ignorance' or 'incoherence' rather than enmity with God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "Man (by adopting the hope of resurrection to handle current suffering)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as an intellectual 'sales pitch' where the hearer is the consumer/subject and God is the product/object that satisfies the hearer's needs.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'believing' and 'handling suffering'.",
+      "voorgestelde_herpositionering": "Make God the subject who 'shatters' idols and 'captures' the heart.",
+      "voorbeeld_revisie": "Instead of 'You must have a God-sized God,' use 'The Living God refuses to be contained by your small categories and has broken into your world.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as Paul (the debater).",
+      "voorgestelde_identificatie": "Hearer as the 'Ignorant Worshiper' who is rescued.",
+      "strategie": "Emphasize the 'command to repent' as a divine act that stops the hearer in their tracks."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominant Vouloir/Savoir (Desire/Knowledge).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as the only power that enables belief).",
+      "concrete_suggestie": "Address the fact that we *cannot* believe or love like Jesus unless the Spirit gives us new life."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Weak (Incoherence).",
+      "voorgestelde_intensivering": "Present Idolatry as a spiritual bondage that humans cannot think their way out of.",
+      "theologische_rationale": "Without a 'Heavy Opponent,' the Resurrection is just a 'consolation' rather than a 'rescue'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (walking in footsteps) is the climax rather than the indicative of God's act.",
+      "voorgestelde_structuur": "1. God judges/saves (Soteriology). 2. Therefore, we are free to love (Ethics)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically brilliant and culturally savvy, but structurally risks turning the Gospel into a self-help philosophy for the intellectually sophisticated."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a masterpiece of persuasion; semiotically, it is anthropocentric.",
+    "verschil_met_exegese": "Exegesis focuses on Paul's speech; Greimas shows the preacher has replaced Paul's 'God who acts' with the hearer's 'Belief that works'.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'Jesus' is functioning as a Helper (Adjuvant) rather than the Subject (Sujet) of the sermon's engine."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Paul (waited, reasoned, stood up)",
+      "You (believe, bet, live, determine)",
+      "Jesus (attached, ran toward, cried out)",
+      "We (need to do, walk, plunge)"
+    ],
+    "volledige_object_lijst": [
+      "God-sized God",
+      "Heart-shaped hope",
+      "Answers to questions",
+      "Equality/Human rights"
+    ],
+    "werkwoord_frequentie": {
+      "believe": {
+        "count": "22",
+        "primair_subject": "Man"
+      },
+      "show": {
+        "count": "12",
+        "primair_subject": "Preacher/Paul"
+      },
+      "save/rescue": {
+        "count": "0",
+        "primair_subject": "N/A"
+      }
+    },
+    "notities": "The absence of 'save' or 'grace' as active verbs is telling. The sermon is a 'worldview' lecture."
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "To Know the Living God",
+    "bijbeltekst": "Deuteronomy 4:6-8; Mark 7:1-23",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God intervenes in the human condition to transform the 'messed up' heart, moving the believer from ritual/moral self-justification to a relationship with the Living God.",
+      "subject": {
+        "identificatie": "The Living God",
+        "tekstueel_bewijs": [
+          "It can be changed only by the intervening presence of the living God",
+          "the Lord set his heart in love upon your fathers and chose their descendants",
+          "The biblical God speaks, and his Word has the power to bring into being that which it describes"
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Transformation of the human heart / Knowledge of God",
+        "tekstueel_bewijs": [
+          "The human heart needs to be changed from the bottom up",
+          "To Know the Living God"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Living God (as the source of Election and Word)",
+        "tekstueel_bewijs": [
+          "Behold, to the Lord your God belong heaven... yet the Lord set his heart in love upon your fathers"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The 'Chosen Descendants'",
+        "tekstueel_bewijs": [
+          "You are God’s people whom he loves. You have been elected by him"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ / The Word / The Torah (properly understood)",
+        "tekstueel_bewijs": [
+          "without the grace of God by Christ going before us",
+          "his Word has the power to bring into being"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Intervening presence)"
+      },
+      "tegenstander": {
+        "identificatie": "The 'Infection of Nature' / Self-Righteousness / Secularism",
+        "tekstueel_bewijs": [
+          "all members of the human race suffer... from an 'infection of nature'",
+          "Self-righteousness is always the greatest danger for religious people"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The preacher defines the problem as an ontological 'infection' that cannot be cured by natural strength, requiring a divine intervention."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer reflects God's glory and keeps the commandments as a response to election.",
+      "subject": "The Hearer (as the 'Chosen')",
+      "object": "Reflecting God's glory / Keeping statutes",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics) is explicitly grounded in the primary program (election/grace)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Living God → Transformation/Love → The Hearer",
+      "helper_subject_tegenstander": "Jesus/Word → Living God ← Infection of Nature/Self-Righteousness",
+      "subject_naar_object": "Living God → Knowledge of Himself"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 28,
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "God demonstrates his quite shocking indifference to religious propriety.",
+        "The Lord set his heart in love upon your fathers.",
+        "The biblical God speaks."
+      ],
+      "voorbeelden_mens_subject": [
+        "We all look askance at people.",
+        "Lieberman mentioned God in a speech.",
+        "You are those chosen descendants."
+      ],
+      "rutledge_score": 9
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "No Christian man whatsoever is free from the obedience of the Commandments."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "Let us love the living God; let us praise the living God."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "Do you know him as a living reality in your heart?"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "we cannot turn and prepare ourselves by our own natural strength",
+          "It can be changed only by the intervening presence of the living God"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon centers on the 'Pouvoir' (Power) of God vs the 'Non-Pouvoir' of man. It is a classic grace-oriented structure where the Subject's competence is entirely gifted."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Intervention",
+      "s2": "Infection/Defilement",
+      "niet_s1": "Religion/Self-Improvement",
+      "niet_s2": "Ritual Purity"
+    },
+    "beweging_in_preek": "Moves from ~S2 (Ritual Purity) to ~S1 (Religion/Self-Improvement), exposes them as failing to address S2 (Infection), and finally resolves in S1 (Grace/Intervention).",
+    "theologische_resolutie": "The tension is resolved by God's 'shocking indifference' to religious propriety and His sovereign election.",
+    "ernst_van_s2": "High; sin is described as an 'infection of nature' that humans cannot overcome."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently places God as the active Subject of salvation and heart-transformation, while relegating human effort to the realm of 'religion' which Jesus sweeps away.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism with Lieberman",
+        "tekstueel_bewijs": "he gives every sign of being a man who knows the living God",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "It can be changed only by the intervening presence of the living God",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Total Depravity / Inability",
+        "tekstueel_bewijs": "we cannot turn and prepare ourselves by our own natural strength",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Joe Lieberman is used as a contemporary example of 'knowing the living God,' but the preacher pivots to show that such knowledge is a gift of God's nearness, not a human achievement.",
+      "bijbelse_figuren_als_model": [
+        "Lieberman (Contemporary)",
+        "The Fathers (Abraham, Isaac, Jacob)"
+      ],
+      "alternatieve_lezing": "The sermon already provides this by emphasizing God's election of the fathers."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the burden of self-improvement; awe toward God.",
+      "theologische_implicatie": "Monergistic sanctification/regeneration."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The transition from the 'radical' Jesus to the 'near' God of Deuteronomy is handled by making God the Subject of both.",
+      "spanning_punten": [
+        "The tension between the 'Moral Law' requirement in the Articles of Religion and Jesus 'sweeping away' categories of righteousness."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "intervening presence of the living God... fellowship with the contaminated",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment of a new heart."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Critical; described as an 'infection' and 'messed up' heart."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is structurally sound as a grace-oriented narrative. God is the Subject, the heart is the Object, and Sin is the Heavy Opponent.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly high on Savoir (Knowing)",
+      "voorgestelde_balans": "Maintain the current focus on Pouvoir (God's power).",
+      "concrete_suggestie": "Ensure the 'knowing' is always framed as a result of God's 'revealing'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong (Infection of nature)",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Election) → Ethics (Reflection of Glory)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of theocentric preaching that uses a contemporary political figure to illustrate a deep theological truth without falling into moralism."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the Lieberman hook; semiotics reveals that Lieberman is merely a 'helper' actant to point to the 'Subject' (God).",
+    "verschil_met_exegese": "Exegesis explains the mezuzah; semiotics explains why the mezuzah functions as a sign of the 'Sender's' values.",
+    "unieke_inzichten_greimas": "Reveals that despite the 'Moral High Ground' imagery, the sermon's engine is fueled by divine intervention, not human climbing."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (speaks)",
+      "God (demonstrates)",
+      "God (loves)",
+      "Jesus (sweeps away)",
+      "Heart (is messed up)",
+      "We (cannot turn)"
+    ],
+    "volledige_object_lijst": [
+      "The Heart",
+      "Knowledge of God",
+      "Righteousness",
+      "Glory"
+    ],
+    "werkwoord_frequentie": {
+      "change": {
+        "count": 4,
+        "primair_subject": "God"
+      },
+      "defile": {
+        "count": 6,
+        "primair_subject": "Internal Sin"
+      }
+    },
+    "notities": "The sermon successfully navigates the Law/Gospel distinction by identifying the Law as 'near' because of God's nearness, not human effort."
+  }
+}

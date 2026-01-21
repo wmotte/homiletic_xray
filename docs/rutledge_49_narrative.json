@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "titel_preek": "The Burden of This People",
+    "bijbeltekst": "Numbers 11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God sustains and empowers His people and their leaders in the wilderness despite their sin and inadequacy.",
+      "subject": {
+        "identificatie": "God (The Lord)",
+        "tekstueel_bewijs": [
+          "God supplied them with food and water",
+          "The Lord descended in the cloud and spoke",
+          "He took back part of that same spirit... and conferred it on the seventy"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Spiritual empowerment and preservation of the community",
+        "tekstueel_bewijs": [
+          "life and health and safety to his people",
+          "sharing of the work",
+          "carrying out of his divine purpose"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (as Sovereign Provider)",
+        "tekstueel_bewijs": [
+          "The Lord of the church arranges things in wonderful ways"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The People of Israel / The Congregation",
+        "tekstueel_bewijs": [
+          "what the Word of God might be for all of you",
+          "a blessing to your children"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / The Seventy Elders",
+        "tekstueel_bewijs": [
+          "commissioning of persons by the Holy Spirit",
+          "they will share with you the burden"
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Human weakness (Sin, Ingratitude, Exhaustion)",
+        "tekstueel_bewijs": [
+          "ingratitude, selfishness, and stupidity",
+          "the uglier side of ourselves",
+          "too heavy for me"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is presented as an inescapable feature of human life that only divine intervention can mitigate."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The congregation responds to God's grace by pledging service and worship.",
+      "subject": "The Congregation",
+      "object": "Loyalty and Worship",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The response of the people (Ethics) is explicitly grounded in God's prior act of empowerment (Soteriology)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Spirit/Empowerment → The Church",
+      "helper_subject_tegenstander": "Holy Spirit → God ← Human Sin/Weakness",
+      "subject_naar_object": "God → Sustenance of the People"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "35",
+      "ratio": "1.2",
+      "voorbeelden_god_subject": [
+        "God supplied them with food",
+        "The Lord protected them",
+        "God answers Moses",
+        "the one who alone can give life"
+      ],
+      "voorbeelden_mens_subject": [
+        "They complained about everything",
+        "Moses heard the people",
+        "You must wait humbly"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Choose here and now whom you will worship"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "they always want more and better"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Moses knew what his limitations and failings were"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "I am not able to carry all this people alone",
+          "without God’s continual aid and empowerment",
+          "the divine gift that makes it possible"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses heavily on the lack of human power (incapacity) and the necessity of divine endowment (Pouvoir-faire)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Divine Empowerment (Spirit)",
+      "s2": "The Burden (Sin/Death)",
+      "niet_s1": "Human Effort (Talents/Skills)",
+      "niet_s2": "Complacency/Ingratitude"
+    },
+    "beweging_in_preek": "From the 'Burden' (S2) to the realization that 'Human Effort' (~S1) is insufficient, leading to 'Divine Empowerment' (S1).",
+    "theologische_resolutie": "God resolves the tension by 'descending in the cloud' and conferring the Spirit.",
+    "ernst_van_s2": "Yes, the 'ugliness' of the church is described as inescapable without God."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon consistently identifies God as the source of power and humans as the needy recipients. Even the call to action is framed as a response to God's prior work.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism",
+        "tekstueel_bewijs": "Moses was such a great and godly leader",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Human Incapacity",
+        "tekstueel_bewijs": "I am not able to carry all this people alone",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "God as Primary Actor",
+        "tekstueel_bewijs": "It is up to him, not us.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Moses is used as a model, but specifically a model of *humility* and *dependence* rather than self-generated virtue.",
+      "bijbelse_figuren_als_model": [
+        "Moses"
+      ],
+      "alternatieve_lezing": "Moses as a type of Christ who bears the burden, or Moses as the 'Receiver' of God's Spirit."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief from the pressure of performance; dependence on God.",
+      "theologische_implicatie": "Monergistic empowerment for ministry."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the biblical narrative to the parish's current situation is seamless and theologically consistent.",
+      "spanning_punten": [
+        "The tension between the joy of the 'Red Sea' and the reality of the 'Wilderness' complaints."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "sharing in the leadership, by submitting to God’s guidance",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "Endowment"
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "High; sin is seen as a constant threat to the community's life."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a strong example of grace-oriented preaching where God remains the Subject of the primary narrative.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly POUVOIR",
+      "voorgestelde_balans": "Maintain current balance",
+      "concrete_suggestie": "The emphasis on 'cannot' (lack of power) is theologically appropriate for this text."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Adequate",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon already takes the 'ugliness' of the church seriously."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's Spirit) → Ethics (People's Service)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in maintaining God's agency while addressing practical parish life."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the 'humanity' of Moses' speech, Greimas shows that the 'engine' of the story is actually God's transfer of power.",
+    "verschil_met_exegese": "Exegesis might focus on the historical role of the 70 elders; semiotics shows they function as 'Helpers' to the Subject (God) in the preservation of the 'Object' (Israel).",
+    "unieke_inzichten_greimas": "Reveals that the 'Burden' is the Opponent that necessitates a Subject-switch from Moses to God."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God supplied",
+      "The Lord protected",
+      "Moses heard",
+      "God answers",
+      "The Lord descended"
+    ],
+    "volledige_object_lijst": [
+      "food and water",
+      "the burden",
+      "the Spirit",
+      "life and health"
+    ],
+    "werkwoord_frequentie": {
+      "give/confer": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "complain/murmur": {
+        "count": "8",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "Sermon preached by Fleming Rutledge; her 'Grammar of Grace' is evident throughout."
+  }
+}

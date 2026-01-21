@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "titel_preek": "Schaam je niet, bewaar het pand",
+    "bijbeltekst": "2 Timotheüs 1:3-14",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "De gelovige (Timotheüs/hoorder) moet het ontvangen geloofspand (het Evangelie) bewaren en beschermen tegen schaamte en verval door de kracht van de Heilige Geest.",
+      "subject": {
+        "identificatie": "De hoorder (geïdentificeerd met Timotheüs)",
+        "tekstueel_bewijs": [
+          "Schaam je niet, bewaar het pand.",
+          "Je hebt het pand dat je is toevertrouwd te bewaren.",
+          "Het enige wat je hebt te doen, de vlam brandend houden."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Het 'Pand' (Deposito/Evangelie/Geloofserfenis)",
+        "tekstueel_bewijs": [
+          "Het evangelie dat Paulus hem heeft toevertrouwd.",
+          "Het getuigenis van onze Heer."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (via de ouders en Paulus)",
+        "tekstueel_bewijs": [
+          "Wat God in je ouders aan je geeft.",
+          "God heeft ons gegeven: kracht, liefde en bezonnenheid."
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "De hoorder / De wereld",
+        "tekstueel_bewijs": [
+          "Draag het in je hart en lever uit."
+        ],
+        "positie_hoorder": "De hoorder identificeert primair met het Subject dat een taak moet volbrengen."
+      },
+      "helper": {
+        "identificatie": "De Heilige Geest / Het voorbeeld van Paulus / De ouders",
+        "tekstueel_bewijs": [
+          "Bewaren door de Heilige Geest.",
+          "De Heilige Geest als bron van liefde, troost en kracht."
+        ],
+        "rol_van_god": "God fungeert hier als Helper (Adjuvant) die de menselijke Subject ondersteunt in zijn bewaartaak.",
+        "rol_van_geest": "Indwelling power (aanwakkeren van het vuur)."
+      },
+      "tegenstander": {
+        "identificatie": "Schaamte, de wereldlijke rechter, kerkelijke misstanden, vreesachtigheid",
+        "tekstueel_bewijs": [
+          "Misbruik van macht, seksueel misbruik, schaamtevolle kwesties.",
+          "Geest van vreesachtigheid."
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "De tegenstander is vooral psychologisch (schaamte) en sociologisch (imago van de kerk), minder een kosmische macht van zonde en dood."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "Gods eeuwige heilsplan waarin Hij de dood tenietdoet.",
+      "subject": "God / Christus",
+      "object": "De zaligheid van de mens",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "Het werk van God (Programma 2) vormt de basis en de inhoud van het pand dat de mens (Programma 1) moet bewaren."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Evangelie → De wereld/Hoorder",
+      "helper_subject_tegenstander": "Heilige Geest → Gelovige ← Schaamte/Vrees",
+      "subject_naar_object": "Gelovige → Bewaren van het Pand"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "28",
+      "ratio": "0.5",
+      "voorbeelden_god_subject": [
+        "Hij schakelt de dood uit.",
+        "God heeft ons niet gegeven een geest van vreesachtigheid.",
+        "Hij roept je tot de zaligheid."
+      ],
+      "voorbeelden_mens_subject": [
+        "Schaam je niet.",
+        "Je hebt het pand te bewaren.",
+        "Je moet die vlam laten branden.",
+        "Houd je aan het voorbeeld."
+      ],
+      "rutledge_score": "5"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Je hebt het pand dat je is toevertrouwd te bewaren.",
+          "Moet je dat dus ook niet doen (schamen)."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Je wilt lief gevonden worden."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Ik zal het wel toelichten.",
+          "Laten we dat punt goed onderscheiden."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "De Heilige Geest om het pand te kunnen bewaren.",
+          "Dat houdt je zelfs op de been."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "De nadruk ligt sterk op de morele verplichting (Devoir) van de hoorder om het geloof te behouden, ondersteund door de Geest (Pouvoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Trouw (Bewaren)",
+      "s2": "Schaamte (Verloochening)",
+      "niet_s1": "Verwatering/Aanpassing",
+      "niet_s2": "Vrijmoedigheid (Getuigen)"
+    },
+    "beweging_in_preek": "Van S2 (schaamte over de kerk) via ~S1 (aanpassing van het evangelie) naar S1 (trouw bewaren) door de kracht van ~S2 (vrijmoedigheid in Christus).",
+    "theologische_resolutie": "De spanning wordt opgelost door te wijzen op het 'eeuwige pand' bij Christus, wat de hoorder motiveert tot aardse trouw.",
+    "ernst_van_s2": "Matig; schaamte wordt vooral gepresenteerd als een menselijke emotie die overwonnen moet worden, minder als een fatale geestelijke staat."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "De preek bevat sterke theocentrische passages over Gods eeuwige raad, maar de narratieve 'motor' is anthropocentrisch: de mens is het subject dat het pand moet 'bewaren' en 'aanwakkeren'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus op menselijke verantwoordelijkheid als primaire actie",
+        "tekstueel_bewijs": "Het enige wat je hebt te doen, de vlam brandend houden.",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Instrumentalisering van God/Geest",
+        "tekstueel_bewijs": "De Heilige Geest als bron... om het pand te kunnen bewaren.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God als subject van redding",
+        "tekstueel_bewijs": "Hij, de Heer onze God, heeft ons zalig gemaakt.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Sola Gratia nadruk",
+        "tekstueel_bewijs": "Niet overeenkomstig onze werken, maar overeenkomstig zijn eigen voornemen.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Paulus en Timotheüs worden gepresenteerd als modellen van trouw en opvoeding die nagevolgd moeten worden.",
+      "bijbelse_figuren_als_model": [
+        "Paulus",
+        "Timotheüs",
+        "Eunice",
+        "Lois"
+      ],
+      "alternatieve_lezing": "Focus op hoe God, ondanks de zwakte van Timotheüs en de gevangenschap van Paulus, Zijn eigen Woord bewaart."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Activeert de wil, maar kan leiden tot een last van 'moeten bewaren'.",
+      "theologische_implicatie": "De bewaring van het heil lijkt afhankelijk van menselijke alertheid."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "De overgang van Gods eeuwige genade naar de menselijke taak is logisch, maar de preek neigt ernaar de menselijke taak (bewaren) zwaarder aan te zetten dan de goddelijke bewaring.",
+      "spanning_punten": [
+        "God bewaart het pand (v. 12) versus de mens moet het pand bewaren (v. 14)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Christus Jezus... die de dood heeft tenietgedaan.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "De Geest schenkt 'Pouvoir' (kracht) aan de mens om zijn 'Devoir' (bewaren) te doen."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Zonde wordt hier vooral gezien als schaamte of nalatigheid in getuigenis."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek positioneert de hoorder als de 'bewaker' van een kwetsbaar pand. God is de gever, maar de mens is de actieve beheerder.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "De hoorder wordt te veel de actieve 'bewaarder' van het geloof.",
+      "voorgestelde_herpositionering": "Maak God het Subject dat het pand bewaart IN en DOOR de mens.",
+      "voorbeeld_revisie": "In plaats van 'Je moet het pand bewaren', gebruik: 'De Geest bewaart in u het kostbare pand dat God u gaf.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Identificatie met de 'jonge dominee' of 'trouwe opvoeder'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Benadruk meer dat de hoorder zelf het 'pand' is dat door God bewaard wordt."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominantie van Devoir (moeten).",
+      "voorgestelde_balans": "Versterk Pouvoir (het geschonken kunnen).",
+      "concrete_suggestie": "Focus minder op het 'aanwakkeren' als menselijke plicht en meer op de Geest als het onuitblusbare vuur."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Schaamte over kerkelijke schandalen.",
+      "voorgestelde_intensivering": "Zonde als een macht die het getuigenis onmogelijk maakt zonder herschepping.",
+      "theologische_rationale": "Maakt de noodzaak van genade dieper dan alleen een psychologisch steuntje in de rug."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "N.v.t.",
+      "voorgestelde_structuur": "De huidige structuur (Ouders -> Zaligmaker -> Zelf) is helder, maar punt 3 moet meer rusten in punt 2."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Een degelijke preek met een sterke Bijbelse basis, die echter waakzaam moet zijn om de 'bewaring van het pand' niet te veel op de schouders van de hoorder te leggen."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch is de preek bemoedigend; actantieel is het echter een zware opdrachtstructuur.",
+    "verschil_met_exegese": "De exegese volgt de tekst nauwgezet, maar de semiotiek legt bloot dat de 'imperatief' de 'indicatief' overvleugelt in de narratieve dynamiek.",
+    "unieke_inzichten_greimas": "Greimas laat zien dat ondanks de woorden 'genade' en 'zaligmaker', de hoorder naar huis gaat met de rol van 'Subject-Bewaker' in plaats van 'Ontvanger'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "De hoorder bewaart",
+      "De hoorder schaamt zich niet",
+      "God geeft",
+      "Christus bewaart",
+      "De Geest helpt",
+      "Ouders wijzen"
+    ],
+    "volledige_object_lijst": [
+      "Het pand",
+      "Het evangelie",
+      "De zaligheid",
+      "De vlam"
+    ],
+    "werkwoord_frequentie": {
+      "bewaren": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "geven": {
+        "count": "8",
+        "primair_subject": "God"
+      },
+      "schamen": {
+        "count": "15",
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "De preek balanceert op de grens van exemplarisme door de nadruk op de geloofsopvoeding van Paulus en Timotheüs."
+  }
+}

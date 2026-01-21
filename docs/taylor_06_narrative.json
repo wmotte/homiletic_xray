@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "The Perfect Invitation",
+    "bijbeltekst": "Isaiah 2:3 (and Matthew 25:34)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement of the believer from a state of fear and perceived distance from God to a state of security and inheritance through the invitation of a loving Father.",
+      "subject": {
+        "identificatie": "The Hearer/Believer (as the one who must 'come closer')",
+        "tekstueel_bewijs": [
+          "let us go up to the mountain",
+          "we will walk in his paths",
+          "we ought to despise the moods and days in which we have been frightened",
+          "Stand close, believer"
+        ],
+        "frequentie_score": 7
+      },
+      "object": {
+        "identificatie": "The Kingdom/God's Presence (Inheritance)",
+        "tekstueel_bewijs": [
+          "inherit the kingdom prepared for you",
+          "all that God has",
+          "a few minutes of peace... happiness"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father (as the one who invites and prepares)",
+        "tekstueel_bewijs": [
+          "Come, ye blessed of my Father",
+          "the Lord has provided for our needs from the morning of creation"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer/Believer",
+        "tekstueel_bewijs": [
+          "prepared for you",
+          "He gives to us the perfect invitation"
+        ],
+        "positie_hoorder": "The hearer identifies as the Subject who is invited to move toward the Receiver role."
+      },
+      "helper": {
+        "identificatie": "Jesus Christ (as the one who reveals the Father's character)",
+        "tekstueel_bewijs": [
+          "Jesus does not support this idea",
+          "Jesus is saying that God is willing"
+        ],
+        "rol_van_god": "God is both Sender and Helper (through Jesus), though the Hearer remains the active Subject of the 'coming'.",
+        "rol_van_geest": "Absent/Unclear"
+      },
+      "tegenstander": {
+        "identificatie": "Fear and False Concepts of God (Greek thought/Legalism)",
+        "tekstueel_bewijs": [
+          "thinking of the ancient Greeks",
+          "frightened of God",
+          "gloomy reading of life"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The primary obstacle is not Sin or Death as cosmic powers, but the hearer's own fear and misunderstanding of God's nature."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The ethical life of the believer in the world (walking the path).",
+      "subject": "The Believer",
+      "object": "Walking in His paths/Not lying or scheming",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon argues that because the inheritance is already prepared, the believer no longer needs to 'scheme' or 'lie' to get ahead."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God (Father) → Kingdom → Believer",
+      "helper_subject_tegenstander": "Jesus → Believer ← Fear/Greek Myths",
+      "subject_naar_object": "Believer → God's Presence"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 38,
+      "ratio": "1.1:1",
+      "voorbeelden_god_subject": [
+        "He will teach us his ways",
+        "God gives to us the perfect invitation",
+        "The Lord has provided for our needs"
+      ],
+      "voorbeelden_mens_subject": [
+        "we will walk in his paths",
+        "we must worm our way",
+        "we ought to despise the moods"
+      ],
+      "rutledge_score": 6
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "we ought to despise the moods",
+          "we all had better take full notice"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "God is willing, anxious",
+          "He wants us to come close"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "Jesus recognized that at its heart, life has a kindness",
+          "Many people think of God as a harsh... figure"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "no man can flex his muscles and gain God's favor",
+          "Sufficient is thine arm alone"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR/VOULOIR",
+      "modale_interpretatie": "The sermon focuses on changing the hearer's 'Knowing' (Savoir) about God's character to stimulate a 'Willing' (Vouloir) to approach Him."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Kindness (The Smile)",
+      "s2": "Judgment/Awe (The Frown)",
+      "niet_s1": "Legalism/Scheming (Stealing fire)",
+      "niet_s2": "Security/Inheritance (The Invitation)"
+    },
+    "beweging_in_preek": "Moves from S2 (Sinai/Greek myths) through ~S1 (the futility of scheming) to S1 (the Father's smile) and finally ~S2 (the security of the inheritance).",
+    "theologische_resolutie": "The tension is resolved by subordinating 'Awe' to 'Kindness', suggesting that fear is a result of distance, not God's essence.",
+    "ernst_van_s2": "Moderate; the sermon mentions 'everlasting fire' but quickly pivots to 'infinite tenderness'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the hearer is often the subject of 'coming', the engine of the sermon is the unconditional nature of the 'Inheritance' and the 'Prepared' kingdom. It rejects human performance (scheming/muscles) in favor of receiving.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Subject-switch to hearer for the action of 'coming'",
+        "tekstueel_bewijs": "Let us go up... we will walk",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Inheritance as unearned gift",
+        "tekstueel_bewijs": "no man can flex his muscles and gain God's favor",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "God as the primary actor in preparation",
+        "tekstueel_bewijs": "The Lord has provided for our needs from the morning of creation",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Abraham and Muhammad are used as models of trust/awareness of God's presence.",
+      "bijbelse_figuren_als_model": [
+        "Abraham",
+        "The Prodigal Son"
+      ],
+      "alternatieve_lezing": "Focus on God as the one who speaks to Abraham and the Father who runs to the Son."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Comfort and relief of anxiety.",
+      "theologische_implicatie": "Soteriology is grounded in the character of God (Ontology) rather than the transaction of the cross (though Christ is the messenger)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The sermon is highly coherent, consistently contrasting 'effort/fear' with 'inheritance/love'.",
+      "spanning_punten": [
+        "The mention of 'sheep and goats divided by their own deeds' creates a brief actantial conflict with the 'inheritance' theme."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE/PARTICIPATION",
+      "tekstueel_bewijs": "Jesus saw everywhere signs of a tender, willing hand of love outstretched",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon relies on the 'Invitation' itself to provide the power to come."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT/FEAR",
+      "ernst_diagnose": "Sin is viewed primarily as a barrier of fear and 'scheming' rather than a total ontological death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully positions God as the Sender and Preparer, making the 'Object' (Kingdom) an 'Inheritance' rather than a 'Reward'.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer is occasionally the subject of 'overcoming' their own fear.",
+      "voorgestelde_identificatie": "The hearer as the one being 'drawn' or 'carried'.",
+      "strategie": "Use more passive verbs for the hearer's movement toward God."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "High Savoir (Knowing)",
+      "voorgestelde_balans": "Increase Pouvoir (Power)",
+      "concrete_suggestie": "Emphasize how the Holy Spirit enables the 'coming' when the hearer is paralyzed by fear."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Fear/Greek myths",
+      "voorgestelde_intensivering": "Address the 'Opponent' of Sin as a power that God has defeated, not just a misunderstanding.",
+      "theologische_rationale": "To prevent the grace from feeling 'sentimental' or 'cheap'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "The hierarchy is correct: God prepares (Soteriology), therefore we walk (Ethics)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A beautiful example of theocentric preaching that grounds human security in the eternal character and 'pre-preparation' of God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the 'mountain' and 'altar' metaphors; Greimas shows that the 'altar' is actually the Object of a movement from Fear to Security.",
+    "verschil_met_exegese": "Exegesis would focus on the context of Isaiah 2; semiotics reveals the sermon's underlying 'Inheritance' logic from Matthew 25.",
+    "unieke_inzichten_greimas": "Reveals that the sermon's power comes from the 'Subject-switch' where God replaces 'Luck' or 'Effort' as the provider of the path."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (rules, bids, loves, gives, prepares, provides, leads)",
+      "Jesus (recognizes, says, warns, speaks)",
+      "We (bow, remember, live, walk, scheme, fear)"
+    ],
+    "volledige_object_lijst": [
+      "The mountain of the Lord",
+      "The kingdom",
+      "A few minutes of peace",
+      "The path through the sea"
+    ],
+    "werkwoord_frequentie": {
+      "prepare": {
+        "count": 6,
+        "primair_subject": "God"
+      },
+      "come": {
+        "count": 12,
+        "primair_subject": "Man (as response to God's invitation)"
+      }
+    },
+    "notities": "The sermon uses a 'Parent-Child' actantial framework to collapse the distance between Sender and Receiver."
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "What Are You Doing Here?",
+    "bijbeltekst": "John 13:34",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject seeks the meaning of life amidst transiency and social disorder, discovering that their purpose is to fulfill the commandment of love to change the tide of battle between right and wrong.",
+      "subject": {
+        "identificatie": "The Hearer / 'We'",
+        "tekstueel_bewijs": [
+          "What are we doing here?",
+          "we walk with firm and eager stride toward our destiny",
+          "we are meant to be doing here"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Fulfilling the Commandment of Love / Aggressive Good Will",
+        "tekstueel_bewijs": [
+          "fulfill his commandment",
+          "aggressive, relentless will for the good of all people"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Jesus as Lawgiver/Commander",
+        "tekstueel_bewijs": [
+          "places upon them this burden",
+          "This is my commandment"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "Society / The World",
+        "tekstueel_bewijs": [
+          "benefit of all people",
+          "our families and our governments and our industries"
+        ],
+        "positie_hoorder": "The hearer identifies as the Subject tasked with the work."
+      },
+      "helper": {
+        "identificatie": "Jesus' 'Great Strength' / Alliance",
+        "tekstueel_bewijs": [
+          "throwing in our small strength... with his great strength",
+          "alliance between him and us"
+        ],
+        "rol_van_god": "God/Jesus is an instrumental Helper to the human Subject.",
+        "rol_van_geest": "Absent; replaced by human 'will' and 'commitment'."
+      },
+      "tegenstander": {
+        "identificatie": "Transiency, Social Disorder, and Sentimentality",
+        "tekstueel_bewijs": [
+          "darkness of death",
+          "sugary, sentimental, soft thing",
+          "broken and divided land"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "While death is mentioned, the primary 'opponent' is the failure to apply love to social structures."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": false,
+      "beschrijving": "There is no distinct soteriological program where God acts upon a passive human; the ethics *is* the primary story.",
+      "subject": "N/A",
+      "object": "N/A",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon collapses the Gospel into a 'new commandment' without a prior 'new birth' or 'saving act'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Jesus → Aggressive Love → Society",
+      "helper_subject_tegenstander": "Jesus' Strength → The Hearer ← Social Disorder",
+      "subject_naar_object": "The Hearer → Fulfilling the Commandment"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "Jesus said that we are here",
+        "he offers to those who surrender"
+      ],
+      "voorbeelden_mens_subject": [
+        "we walk with firm and eager stride",
+        "we are likely to believe",
+        "we have not yet been willing to throw"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "This is my commandment",
+          "we are meant to be doing here"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "aggressive, relentless will",
+          "make their commitment"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "enlightened... will",
+          "what the new tidings had to say"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "available to you",
+          "tide of battle can be changed"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is a 'Call to Action.' It assumes the hearer has the capacity if they simply have the 'will' (Vouloir) and accept the 'obligation' (Devoir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Aggressive Love (Action)",
+      "s2": "Social Disorder/Death (Chaos)",
+      "niet_s1": "Sentimentalism/Self-reliance (Passivity)",
+      "niet_s2": "Individualistic 'Happiness' (Escapism)"
+    },
+    "beweging_in_preek": "From the darkness of death (~S2) to the critique of shallow happiness (~S1), moving toward the mandate of Aggressive Love (S1) to combat Chaos (S2).",
+    "theologische_resolutie": "Resolution is found in human 'alliance' with Jesus to change the world.",
+    "ernst_van_s2": "Moderate; Sin is mentioned but treated as a social problem to be solved by better loving."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is anthropocentric. The 'Gospel' is redefined as a 'commandment' (Law). Jesus is the example and the helper, but the human is the primary actor.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Jesus as Burden-Giver",
+        "tekstueel_bewijs": "places upon them this burden, 'This is my commandment'",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Synergistic Alliance",
+        "tekstueel_bewijs": "throwing in our small strength... with his great strength",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Acknowledgment of Human Weakness",
+        "tekstueel_bewijs": "infants cannot see about themselves... we need someone to help us",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus' life is used as a counter-example to long life and a model for the 'fairest life.'",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Methuselah"
+      ],
+      "alternatieve_lezing": "Instead of Jesus as the model of a short, purposeful life, Jesus could be presented as the one who died the death we deserved to give us a life we couldn't earn."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Inspiration followed by exhaustion; the weight of social transformation is placed on the hearer's 'will.'",
+      "theologische_implicatie": "Pelagian tendency: salvation/meaning is achieved through the exercise of the will in love."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "The narrative is very coherent but logically moves toward a 'Social Gospel' conclusion where the human is the subject.",
+      "spanning_punten": [
+        "The quote 'All things are possible' is used as a human empowerment slogan rather than a divine attribute."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "To be led of Jesus means nothing less than throwing in our small strength... with his great strength",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The 'power' is described as 'available' to the user's circumstance, like a tool, rather than a person."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is a 'disorder' or 'confusion' that can be corrected by 'aggressive good will.'"
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (with Jesus' help)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Law' sermon. It identifies a lack (meaning/order) and provides a mandate (love) but fails to provide the 'Object' (Christ's finished work) as the source of the 'Subject's' power.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'loving' and 'changing the tide.'",
+      "voorgestelde_herpositionering": "Make Jesus the Subject who loved the unlovable first.",
+      "voorbeeld_revisie": "Instead of 'We must fulfill his commandment,' use 'Christ has fulfilled the law of love for us, and now His love flows through us.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'aggressive' hero.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the hearer as the 'whisky-logged man' who is the recipient of a love he didn't earn."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Spirit-given power)",
+      "concrete_suggestie": "Focus on how the Holy Spirit creates the 'Vouloir' (Willing) that we naturally lack."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Sin is 'confusion.'",
+      "voorgestelde_intensivering": "Present Sin as a 'Heavy Opponent' (Total Depravity) that 'Aggressive Good Will' cannot defeat alone.",
+      "theologische_rationale": "Without a deadlier enemy, the Savior becomes merely a Coach."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has replaced Soteriology (Program 1).",
+      "voorgestelde_structuur": "1. What Jesus did (Indicative). 2. Therefore, how we live (Imperative)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong rhetorical start and a clear call to social responsibility, but it risks leaving the hearer under the 'burden' of a law they cannot keep without first anchoring them in the grace of what has already been done."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the 'whisky-man' hook; Greimas reveals this man is actually dropped as the 'Receiver' and the hearer is turned into a 'Subject' who must perform.",
+    "verschil_met_exegese": "Exegesis would note the context of the Upper Room; Greimas shows the sermon ignores the 'as I have loved you' (the source) to focus on the 'love one another' (the task).",
+    "unieke_inzichten_greimas": "Greimas exposes the 'Alliance' as a synergistic engine where God is merely a battery for human effort."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We walk",
+      "We enter",
+      "Jesus died",
+      "We fulfill",
+      "We throw in our strength"
+    ],
+    "volledige_object_lijst": [
+      "Meaning of life",
+      "The commandment",
+      "Aggressive good will",
+      "Tide of battle"
+    ],
+    "werkwoord_frequentie": {
+      "love": {
+        "count": 8,
+        "primair_subject": "Man"
+      },
+      "must": {
+        "count": 4,
+        "primair_subject": "Man"
+      },
+      "can": {
+        "count": 5,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon uses high-christology language ('Lordliest life') to mask a low-christology function (Jesus as Example/Helper)."
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "Das achte Gebot: Du sollst nicht falsch Zeugnis reden wider deinen Nächsten",
+    "bijbeltekst": "5 Mose 5,20 / Exodus 20,16",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject must protect the truth and the 'social body' of the neighbor against systemic lies, propaganda, and the cynicism of power to create a climate of trust.",
+      "subject": {
+        "identificatie": "The Human / The Hearer / The Preacher",
+        "tekstueel_bewijs": [
+          "Ich muss zunächst einmal um den Raum kämpfen",
+          "Ich muss gegen den Zynismus der Macht angehen",
+          "Du wirst die Wahrheitsfrage nicht abdrängen"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Truth / Human Rights / Protection of the Neighbor",
+        "tekstueel_bewijs": [
+          "Menschenrecht auf Wahrheit",
+          "Klima des Vertrauens",
+          "Wahrheitsfähigkeit des Mediums"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Commandments (as 'Rights' or 'Promises') / Humanism",
+        "tekstueel_bewijs": [
+          "Die Zehn Gebote Gottes... begriffen als die unveräußerlichen Rechte des Menschen",
+          "Einladung zu einem menschlichen Leben"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Neighbor / The Poor / The Oppressed",
+        "tekstueel_bewijs": [
+          "die schwarze Putzfrau",
+          "die Armen",
+          "die Toten in Osteuropa"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Luther's Catechism / Rational Reflection / Solidarity",
+        "tekstueel_bewijs": [
+          "Luther hat in seinen Auslegungen... Stellung genommen",
+          "Ich habe mich dann mit anderen Christen darüber beratschlagt"
+        ],
+        "rol_van_god": "Absent (God is the source of the rule, but not the actor in the struggle)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "The 'Success' Motive / Propaganda / Systemic Power",
+        "tekstueel_bewijs": [
+          "Der gefährlichste Feind der Wahrheit ist der Erfolg",
+          "Zynismus der Macht",
+          "Propagandalüge"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is structural and political rather than ontological or spiritual (Sin/Death)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": false,
+      "beschrijving": "There is no distinct soteriological program where God acts to save the incompetent human.",
+      "subject": null,
+      "object": null,
+      "verhouding_tot_primair": null,
+      "toelichting_verhouding": "The sermon remains entirely within the ethical/horizontal plane."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Human Rights → Truth → The Oppressed",
+      "helper_subject_tegenstander": "Luther → The Hearer ← Success-Logic",
+      "subject_naar_object": "The Hearer → Ethical Integrity"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 2,
+      "mens_als_subject_count": 45,
+      "ratio": "0.04",
+      "voorbeelden_god_subject": [
+        "Gott [kann] zu seinem Recht helfen",
+        "die Wahrheit... wird uns frei machen"
+      ],
+      "voorbeelden_mens_subject": [
+        "Ich muss gegen den Zynismus der Macht angehen",
+        "Du wirst nicht als falscher Zeuge aussagen",
+        "Wir müssen von diesem Gebot aus Anfragen stellen"
+      ],
+      "rutledge_score": 1
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "Du sollst nicht...",
+          "Wir müssen im Auge haben...",
+          "Ich muss um den Raum kämpfen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Ich war mir nicht klar, ob ich die Information verwerten sollte"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "Am besten versteht derjenige die Gebote...",
+          "Wahrheit, soweit ich sie erkennen kann"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "Wahrheitsfähigkeit des Mediums erst einmal wiederherstellen"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is an appeal to the will and the duty of the human subject. It assumes the human 'can' if they 'must'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Truth/Trust",
+      "s2": "Propaganda/Lie",
+      "niet_s1": "Cynicism/Success-logic",
+      "niet_s2": "Uncomfortable Facts"
+    },
+    "beweging_in_preek": "From the violation of S1 (Haiti/Israel) to the negation of S1 (Success-logic in media) to the demand for S1.",
+    "theologische_resolutie": "Resolution is found in human ethical courage, not divine intervention.",
+    "ernst_van_s2": "S2 is seen as a social/political evil, not a radical spiritual corruption."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon functions as a political-ethical lecture. God is the 'Sender' of the law but is not an active 'Subject' in the narrative. The focus is entirely on human performance.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Verbs",
+        "tekstueel_bewijs": "Ich muss... kämpfen; Wir müssen... fragen.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of Scripture",
+        "tekstueel_bewijs": "The commandments are 'Rights of Man' (Droits de l'homme).",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Mention of Jesus",
+        "tekstueel_bewijs": "Jesus von Nazareth [war] auch nicht konsensfähig.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus and Luther are used as models of 'non-consensus' and 'courageous speech'.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Luther"
+      ],
+      "alternatieve_lezing": "Christ as the Truth who speaks for us when we are silenced by sin."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; political mobilization.",
+      "theologische_implicatie": "Salvation/Justification is replaced by ethical integrity."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "Highly coherent as a political manifesto, but lacks theological depth regarding the human inability to fulfill the law.",
+      "spanning_punten": [
+        "The shift from God's command to 'Human Rights' creates a secularized framework."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The truth will set us free (interpreted as ethical clarity).",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "None; competence is assumed to be inherent in human reason/will."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is identified as social injustice and lying, not as a condition requiring a Savior."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is a 'Subject-Shift' away from God. Man is the hero fighting the 'Opponent' (Success/Lies).",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The preacher and hearer are the only active subjects.",
+      "voorgestelde_herpositionering": "God as the one who speaks the Truth into the human silence of sin.",
+      "voorbeeld_revisie": "Instead of 'We must fight for truth', use 'God's Word breaks through our systems of lies to set us free'."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Truth-Fighter'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer first as the one who is 'belied' by sin and 'spoken for' by Christ."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Can through Grace)",
+      "concrete_suggestie": "Focus on how the Spirit enables speech that the world forbids."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Political/Social",
+      "voorgestelde_intensivering": "Sin as a power that makes us all 'false witnesses' against God.",
+      "theologische_rationale": "Without a heavy opponent, grace is unnecessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has swallowed Soteriology (Program 1).",
+      "voorgestelde_structuur": "1. God justifies the liar. 2. The justified person speaks truth."
+    },
+    "overall_beoordeling": "WEAK",
+    "slotopmerking": "The sermon is rhetorically powerful and ethically passionate, but structurally it is a lecture on human rights rather than a proclamation of the Gospel."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, it is persuasive; actantially, it is vacant of Divine agency.",
+    "verschil_met_exegese": "Exegesis is used to support a pre-defined political framework (Human Rights).",
+    "unieke_inzichten_greimas": "Greimas reveals that 'God' is merely a label for a human value-system here, not a character who acts."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Ich (Preacher)",
+      "Wir (Community)",
+      "Luther",
+      "Reagan",
+      "Die Medien"
+    ],
+    "volledige_object_lijst": [
+      "Wahrheit",
+      "Menschenrechte",
+      "Erfolg",
+      "Vertrauen"
+    ],
+    "werkwoord_frequentie": {
+      "müssen": {
+        "count": 12,
+        "primair_subject": "Man"
+      },
+      "sollen": {
+        "count": 8,
+        "primair_subject": "Man"
+      },
+      "kämpfen": {
+        "count": 3,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon equates the Decalogue with the 'Droits de l'homme', effectively moving the Sender from the Transcendent to the Political."
+  }
+}

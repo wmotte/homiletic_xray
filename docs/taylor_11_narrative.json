@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "Invisible Supplies",
+    "bijbeltekst": "John 4:32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The modern human (Subject) experiences a lack of spiritual power/peace (Object) despite material abundance. The Subject must 'appropriate' or 'climb above' circumstances to obtain this interior supply.",
+      "subject": {
+        "identificatie": "The Hearer / 'We' (Modern Man)",
+        "tekstueel_bewijs": [
+          "You and I have countless visible supplies but lack those invisible supplies",
+          "we Americans are the most mobile nation",
+          "we are the same restless, discontented, uneasy people"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Invisible spiritual supplies / Interior wealth / Power / Peace",
+        "tekstueel_bewijs": [
+          "deep, invisible interior supplies of the spirit",
+          "spiritual calm",
+          "internal exuberance"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "God / The Gospel (as a source of availability)",
+        "tekstueel_bewijs": [
+          "The world cannot give this, but God can give it",
+          "It is a part of our spiritual birthright"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The 'Self'",
+        "tekstueel_bewijs": [
+          "strengthen and sustain us",
+          "available to any person who will have it"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Jesus (as Example), Spiritual Resources, Willpower",
+        "tekstueel_bewijs": [
+          "There is a scene in the life of Jesus which strikingly sets this forth",
+          "Lindbergh chose to climb upward"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Materialism, Circumstances, Modern Restlessness",
+        "tekstueel_bewijs": [
+          "shifting circumstances",
+          "chrome-plated, stainless steel, swift age",
+          "hard trials and heavy loads"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is not Sin or Death as cosmic powers, but 'circumstances' and 'restlessness' that make life 'lame'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The ethical mandate to change the world's physical conditions.",
+      "subject": "Christians / 'We'",
+      "object": "Physical changes / Social justice",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "The sermon suggests we must work for the world (Secondary) while maintaining inner peace (Primary), but the Primary is needed to sustain the Secondary."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Spiritual Power → The Self",
+      "helper_subject_tegenstander": "Jesus' Example → The Hearer ← Modern Circumstances",
+      "subject_naar_object": "The Hearer → Appropriation of Peace"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God can give it",
+        "God's people must speak"
+      ],
+      "voorbeelden_mens_subject": [
+        "we lack the spiritual conviction",
+        "we seem to have so little worth saying",
+        "You can move in the midst of disaster",
+        "Appropriate it now"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Christians cannot abandon this world",
+          "We must work for physical changes"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "available to any person who will have it",
+          "if we will",
+          "Appropriate it now"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "meat to eat that ye know not of",
+          "we discovered in the gallant odyssey"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "you need not be determined by your circumstances",
+          "by which you can determine your circumstance"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It focuses on awakening the hearer's desire (Vouloir) to access a power that is already 'available'. It assumes the hearer has the inherent capacity to 'appropriate' if they choose."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Interior Wealth (Spirit)",
+      "s2": "Exterior Circumstance (Material)",
+      "niet_s1": "Spiritual Impoverishment",
+      "niet_s2": "Material Poverty"
+    },
+    "beweging_in_preek": "From S2 (Material abundance) to ~S1 (Spiritual lack), then using Jesus as a bridge to S1 (Interior wealth) regardless of S2.",
+    "theologische_resolutie": "The tension is resolved through 'Appropriation'—a mental/spiritual act of the Subject to rise above the material.",
+    "ernst_van_s2": "Low. S2 is treated as 'shifting circumstances' rather than the 'Judgment of God' or 'Death'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses the word 'Gospel' and 'God', the actantial Subject is consistently the human 'I' or 'We'. God is the provider of a resource, but the human is the one who must 'appropriate', 'climb', and 'determine' their life. It is a 'Gospel of Availability' rather than a 'Gospel of Rescue'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "This is a capacity and a power available to any person who will have it.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Anthropocentric Power",
+        "tekstueel_bewijs": "you can determine your circumstance.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christological Grounding",
+        "tekstueel_bewijs": "Jesus Christ, very man, very God, did get hungry and thirsted",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Jesus is used as the primary example of someone who had 'invisible supplies'. Lindbergh and the Slave spirituals are used as parallel models for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [
+        "Jesus (in John 4)",
+        "The Samaritan Woman"
+      ],
+      "alternatieve_lezing": "Instead of Jesus having supplies we should copy, the sermon could focus on Jesus being the Supply who feeds the spiritually dead."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to 'climb higher' or 'appropriate' more effectively; potential for exhaustion.",
+      "theologische_implicatie": "Synergism where the human will is the deciding factor in sanctification."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically bifurcated between social responsibility and interior escapism.",
+      "spanning_punten": [
+        "The call to change the world vs. the call to live 'above' circumstances."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "There is a scene in the life of Jesus which strikingly sets this forth.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is a 'supply' to be used by the Subject."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as 'deranged manifestations' and 'shallow chatter' rather than total depravity."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a motivational speech where God is the battery and the Hearer is the operator. The narrative engine is fueled by human 'appropriation'.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is the Subject of 'obtaining' peace.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who 'bestows' or 'invades' the restless heart.",
+      "voorbeeld_revisie": "Instead of 'Appropriate it now', use 'Christ has seized you with a peace that the world cannot take away'."
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'climbing pilot'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer with the 'thirst' of the woman, and Christ as the one who gives the water."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominant Vouloir (Willing).",
+      "voorgestelde_balans": "Pouvoir (Power) as a gift.",
+      "concrete_suggestie": "Focus on how the Spirit creates the 'willing' where it is absent."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Weak (circumstances).",
+      "voorgestelde_intensivering": "Identify the 'Opponent' as the spiritual death that no human 'climbing' can escape.",
+      "theologische_rationale": "Only a heavy opponent necessitates a Divine Subject."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics and Soteriology are fused into 'self-improvement'.",
+      "voorgestelde_structuur": "1. Christ provides the meat (Soteriology). 2. Because we are fed, we serve (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has beautiful imagery but risks leaving the hearer burdened by the need to 'appropriate' their own strength. Shift the active verbs to God to truly proclaim Grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is masterful (Lindbergh/Slaves imagery). Actantially, it is anthropocentric.",
+    "verschil_met_exegese": "Exegesis of John 4 usually focuses on Jesus as the Living Water; here he is a model of interiority.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the 'Gospel' vocabulary, the 'Subject' of the verbs remains the human ego."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We lack",
+      "You and I have",
+      "Lindbergh chose",
+      "You can move",
+      "You can determine"
+    ],
+    "volledige_object_lijst": [
+      "invisible supplies",
+      "spiritual calm",
+      "internal exuberance"
+    ],
+    "werkwoord_frequentie": {
+      "appropriate": {
+        "count": "3",
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": "4",
+        "primair_subject": "God"
+      }
+    },
+    "notnotes": "The sermon leans heavily on the 'Spirit of St. Louis' metaphor, which reinforces the Subject-as-Pilot actantial role."
+  }
+}

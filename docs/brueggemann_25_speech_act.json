@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "titel_preek": "More Coats Than Imelda Had Shoes",
+    "bijbeltekst": "Luke 3:7-18",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A social-ethical exposition of John the Baptist's preaching, focusing on the redistribution of wealth, ethical business practices, and the restraint of power.",
+      "exegetische_kwaliteit": "Strong historical-contextual focus on the three groups (crowds, tax collectors, soldiers), translating ancient roles into modern equivalents (money managers, internal cops).",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily ASSERTIVE (describing John's message) and DIRECTIVE (exhorting the congregation to ethical action).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "John is not worried here about works righteousness.",
+        "Share your coat and shoes and goods.",
+        "He will baptize you with the Holy Spirit."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Ethical reorientation, social awareness, and a sense of urgency regarding 'God's newness'.",
+      "pneumatologisch_bewustzijn": "Moderate; the Spirit is mentioned as a promise of 'energy' and 'openness' rather than the primary agent of the sermon event itself.",
+      "perlocutionaire_werkwoorden": [
+        "redeciding",
+        "sharing",
+        "curbing",
+        "letting go",
+        "questioning"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "John came among his contemporaries.",
+        "The text is preoccupied with the question.",
+        "John is not the newness."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "came",
+        "says",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "38",
+      "procent": "18%",
+      "voorbeelden": [
+        "Go do a few works!",
+        "Curb your acquisitiveness.",
+        "Let go of your terrible hoarding."
+      ],
+      "dominante_werkwoorden": [
+        "do",
+        "share",
+        "quit",
+        "let",
+        "manage"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "I imagine that sounds as weird to you as it does to me.",
+        "I take it..."
+      ],
+      "dominante_werkwoorden": [
+        "imagine",
+        "take",
+        "think"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "He will baptize you with the Holy Spirit.",
+        "God may act in us."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "may"
+      ],
+      "kwaliteit": "The promises are largely quoted from the text rather than performatively enacted by the preacher in the present tense."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "It [the invitation] addresses us in the day."
+      ],
+      "dominante_werkwoorden": [
+        "addresses",
+        "invites"
+      ],
+      "autoriteit": "Low; the preacher functions as a commentator on John's authority rather than exercising apostolic authority to change the hearer's status."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "John says...",
+        "The narrator characterizes...",
+        "I imagine it sounded odd to them."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a biblical scene rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Declaration"
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'to-do list' (Directives) without the 'done' of the Gospel (Commissives)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Indirect; framed as a commentary on what John said rather than a direct word from God to the now.",
+      "voorbeelden": [
+        "He will baptize you with the Holy Spirit."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Used to build rapport ('I imagine') and collective identity ('we')."
+      },
+      "tweede_persoon": {
+        "frequentie": "18",
+        "gebruik": "Used for ethical imperatives ('Let go of your hoarding').",
+        "performatieve_context": "Rarely used for promises; mostly for demands."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Dominant mode; describing John, the crowds, and Herod.",
+        "distantie_effect": "High; creates a historical distance between the text and the listener."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "50%",
+        "gebruik": "Recounting the narrative of Luke 3."
+      },
+      "tijdloos_present": {
+        "frequentie": "35%",
+        "gebruik": "General ethical truths and descriptions of John's character."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "Direct application at the end."
+      }
+    },
+    "adressering_effectiviteit": "5"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (John said X) -> Directive (So you must do Y).",
+      "voorbeelden": [
+        "John says... Go do a few works!"
+      ],
+      "probleem": "The imperative is not grounded in a prior declarative of grace, leading to moralism."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of the Promise (Toezegging).",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "As one with two coats... let go of your hoarding."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "The sermon is an excellent lecture on social ethics but functions as a 'law' sermon. It describes the need for change without providing the performative grace that enables it.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Clarity",
+        "categorie": "Exegesis",
+        "tekstueel_bewijs": "The analysis of the three groups.",
+        "effect": "Hearers understand the social radicalism of the text."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "John says... John answers... John is not...",
+        "probleem": "Talking about the word rather than being the word.",
+        "ernst": "High"
+      }
+    ],
+    "gebeuren_score": "4",
+    "gebeuren_toelichting": "It is a teaching event about a past event, not a sacramental event in the present.",
+    "sacramentele_kracht": "3",
+    "sacramentele_toelichting": "Lacks the 'I' of the preacher speaking for the 'I' of God."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the subject of the text, but the preacher is the subject of the sermon.",
+      "prediker_als_mandataris": "The preacher acts as an ethical guide rather than a mandatory of the living Christ.",
+      "tekstueel_bewijs": [
+        "John suggests...",
+        "I take it..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as a topic of the text.",
+      "perlocutie_theologie": "The Spirit is described as 'energy' that might visit, but not as the one currently acting through the preaching.",
+      "tekstueel_bewijs": [
+        "He will baptize you with the Holy Spirit."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon functions more as a 'mirror' (Law) than a 'means of grace' (Gospel).",
+      "epifanisch_taalgebruik": "Minimal; the language is largely descriptive/analytical.",
+      "tekstueel_bewijs": [
+        "Advent is concrete, and it concerns neighbor stuff."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person past (John said) to 2nd person present (God promises).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "John responds with an enormous promise... He will baptize you.",
+          "voorgestelde_revisie": "Hear the promise of Christ to you today: I baptize you with my Spirit.",
+          "verschil": "Moves from reporting a promise to delivering a promise."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried under ethical demands.",
+      "suggestie": "Lead with the gift of the Spirit as the power that enables the sharing of coats.",
+      "voorbeeldzinnen": [
+        "Because Christ has clothed you in his righteousness, you are now free to give away your extra coat."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'John' and 'they'.",
+      "suggestie": "Use 'You' more frequently in the context of grace, not just demand.",
+      "voorbeeldzinnen": [
+        "God is looking at you now, not with Herod's fear, but with John's hope."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'Do' precedes the 'Done'.",
+      "suggestie": "Ground the 'Share your coat' in the 'Christ shared his life'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically brilliant and ethically sharp, but requires a shift from 'talking about John' to 'proclaiming Christ' to achieve sacramental performativity."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' (Sachebene); SAT reveals that the 'appeal' lacks the 'declarative' foundation to be effective.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'Imelda' metaphor; SAT notes that the metaphor remains constative (descriptive) rather than performative.",
+    "unieke_inzichten_SAT": "SAT identifies that the sermon's 'event-character' is stifled by a 70% assertive rate."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "bursts",
+        "came",
+        "understood",
+        "belong",
+        "counts",
+        "lived",
+        "suggests"
+      ],
+      "directief": [
+        "do",
+        "share",
+        "curb",
+        "limit",
+        "stop",
+        "let go",
+        "quit"
+      ],
+      "expressief": [
+        "imagine",
+        "think",
+        "take it",
+        "wonder"
+      ],
+      "commissief": [
+        "will baptize",
+        "may act",
+        "continues to invite"
+      ],
+      "declaratief": [
+        "addresses",
+        "transforms"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Whoever has two coats must share.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Commanding",
+        "effectiviteit": "Strong ethical weight, but lacks enabling grace."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Prophetic' preaching that risks becoming 'Legalistic' because the illocutionary force is 3rd person description rather than 2nd person proclamation."
+  }
+}

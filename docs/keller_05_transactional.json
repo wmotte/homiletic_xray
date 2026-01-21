@@ -11,31 +11,31 @@
         "score": 4,
         "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
         "presence_of_coercion": "Medium",
-        "analysis": "The preacher uses the text to strip away the listener's defenses ('No excuses'). While the tone is intellectually measured, the CP emerges in the 'devastating' interpretation of the law, creating a sense of total responsibility.",
+        "analysis": "The preacher utilizes a 'No Excuses' framework. While presented as hopeful, it functions as a Critical Parent demand that removes the listener's right to struggle by citing 'divine DNA'.",
         "quotes": [
           "Do you want to hear the devastating aspect of that? There are no excuses.",
           "Don’t tell me you don’t have what you need to live as you should."
         ]
       },
       "healthy_care_NP": {
-        "score": 7,
+        "score": 6,
         "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
-        "presence": "High",
-        "analysis": "The preacher provides a supportive framework by validating the difficulty of change and offering hope for healing, though it is tied to strict adherence to 'disciplines'.",
+        "presence": "Medium",
+        "analysis": "The Nurturing Parent appears in the 'gradual growth' section, offering relief from the pressure the preacher himself initially applied.",
         "quotes": [
-          "There is no wound so deep in your life that it can’t be healed.",
-          "This takes a little bit of pressure off of us."
+          "This takes a little bit of pressure off of us.",
+          "It doesn’t say that all these things come at once. You grow."
         ]
       }
     },
     "adult": {
-      "score": 8,
+      "score": 7,
       "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
       "presence": "High",
-      "analysis": "The sermon is highly analytical, using metaphors (DNA, acorns, investors) to explain complex concepts. It addresses the listener as a rational agent capable of making 'investments'.",
+      "analysis": "The preacher uses logical structures, definitions (Greek word studies), and sociological observations (American impatience) to engage the listener's intellect.",
       "quotes": [
-        "Let’s take a look at verses 3–4.",
-        "Peter has deliberately chosen a Greek word that means to invest."
+        "What do we learn from this passage about that? Quite a lot. In fact, I’d like to point out five things.",
+        "Let me give you a definition of perseverance."
       ]
     },
     "child": {
@@ -43,31 +43,31 @@
         "score": 5,
         "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
         "presence_of_adaptation": "Medium",
-        "analysis": "The preacher uses his own AC (fear of being forgotten as a teenager) to connect with the audience, but then steers the audience into an AC role of 'making every effort' to avoid being 'ineffective'.",
+        "analysis": "The 'essential' nature of growth creates an Adapted Child response: the listener must perform to 'confirm' they are actually saved, leading to anxiety about their status.",
         "quotes": [
-          "The thing I most dreaded... was that when I missed a group... nobody knew I had been gone."
+          "Don’t assure yourself that you’ve believed... if year after year after year you never change."
         ]
       },
       "free_child_FC": {
         "score": 6,
         "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
         "presence": "Medium",
-        "analysis": "There is a sense of 'stupendous' wonder and 'radical' possibility, though it is often quickly disciplined by the Adult/Parent structure.",
+        "analysis": "The preacher uses relatable, slightly humorous anecdotes (the grocery store, the acorn) that invite a shared human experience.",
         "quotes": [
-          "These are stupendous statements.",
-          "It’s talking about moving from selfishness to unselfishness, from enslavement to freedom."
+          "I would be rich if I had a dollar for every time I heard somebody... say, 'People don’t really change.'",
+          "New Yorkers are the most impatient of all Americans."
         ]
       }
     },
-    "dominant_ego_position": "Adult (processing data) with a strong Critical Parent (setting the standard)."
+    "dominant_ego_position": "Adult with a strong Critical Parent undercurrent."
   },
   "transaction_analysis": {
     "primary_transaction_style": "Adult -> Adult (Social) / Parent -> Child (Psychological)",
-    "analysis": "On the surface, the preacher is teaching (A-A). However, the psychological transaction is P-C: 'I am explaining the rules of growth (P), and you must comply to prove your election (C).'",
-    "ulterior_motives": "The 'Social' message is 'Here is how growth works.' The 'Psychological' message is 'If you aren't changing, your faith might not be real.'",
+    "analysis": "The sermon presents as an Adult-to-Adult lecture on spiritual mechanics, but the psychological weight is a Parent-to-Child demand for character perfection based on 'divine DNA'.",
+    "ulterior_motives": "The social message is 'Growth is a gift,' but the psychological message is 'If you aren't changing, your faith might be fake.'",
     "communicative_purity_score": 6,
-    "purity_explanation": "10 = Completely transparent. 0 = Highly manipulative.",
-    "risk_explanation": "The risk lies in the 'Essential' nature of growth; it creates a double-bind where the listener must 'work' to prove they are 'saved by grace'."
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The 'Bait and Switch' between 'It's all grace' and 'You must make every effort' creates a double-bind for the listener."
   },
   "games_analysis": {
     "detected_games": [
@@ -75,52 +75,53 @@
         "name": "Bait & Switch (Redemption)",
         "probability": "High",
         "formula_g_analysis": {
-          "con": "The promise of 'divine DNA' and 'everything you need' (Grace).",
-          "gimmick": "The listener's desire for radical change and fear of being 'ineffective'.",
-          "switch": "The shift from 'it's all a gift' to 'make every effort' and 'pay the price'.",
-          "payoff": "The listener feels both empowered and deeply burdened by the 'no excuses' clause."
+          "con": "You have everything you need and are saved by grace.",
+          "gimmick": "The listener's desire for change and fear of being 'ineffective'.",
+          "switch": "If you don't change, you may not actually be 'chosen'.",
+          "payoff": "The listener feels a mix of relief (grace) and renewed performance anxiety (law)."
         },
         "evidence_quotes": [
-          "His divine power has given us everything... Do you want to hear the devastating aspect of that? There are no excuses."
+          "You’re saved by faith alone, not works, but you’re not saved by faith that remains alone. It will result in a changed life."
         ]
       },
       {
         "name": "ITHY (I'm Only Trying To Help You)",
         "probability": "Medium",
         "formula_g_analysis": {
-          "con": "Providing a 'practical' 3-step investment plan for the soul.",
-          "gimmick": "The listener's impatience and guilt over lack of growth.",
-          "switch": "If you don't grow, it's because you 'forgot' or didn't 'pay the price'.",
-          "payoff": "The preacher remains the expert; the listener is responsible for the failure of the 'acorn' to grow."
+          "con": "I have 5 practical steps to release your power.",
+          "gimmick": "The listener's feeling of being 'stuck'.",
+          "switch": "The price is 'expensive' and involves 'suffering' and 'vulnerability'.",
+          "payoff": "If the listener fails, it's because they didn't 'pay the price', not because the advice was simplistic."
         },
         "evidence_quotes": [
-          "Then your acorn is going to stay an acorn. You can just kiss spiritual growth goodbye."
+          "The first price you have to pay (and it is really expensive) is you have to win the daily battle."
         ]
       }
     ],
-    "absence_of_games_analysis": "Authenticity is partially maintained through the preacher's self-disclosure about his own grumpiness and childhood fears, which moves the transaction briefly to Free Child."
+    "absence_of_games_analysis": "N/A"
   },
   "drama_triangle_analysis": {
     "preacher_roles": {
-      "rescuer": "High: Offers the 'DNA of God' as the solution to all brokenness.",
-      "persecutor": "Medium: 'No excuses' and 'Don't tell me you don't have what you need.'",
-      "victim": "Low: Briefly appears in the grocery store anecdote and childhood memory."
+      "rescuer": "High. Offers the 'magic acorn' and the '5 things' to solve the listener's lack of growth.",
+      "persecutor": "Medium. Uses the 'no excuses' and 'devastating' labels to judge those who don't change.",
+      "victim": "Low. Briefly identifies with the 'impatient New Yorker' to build rapport."
     },
-    "congregation_position": "The congregation is initially the Victim (broken, unable to change) and is then pushed into the role of the 'Struggling Persecutor' of their own soul (must make every effort).",
-    "escape_possibilities": "The sermon attempts an escape in the conclusion by shifting the focus to Jesus as the one who was 'Forgotten' (Victim), theoretically releasing the listener from the need to perform."
+    "congregation_position": "The congregation is positioned as the Victim (blind, nearsighted, ineffective) who needs the Rescuer's (Preacher's) map to reach the Parent's (God's) approval.",
+    "escape_possibilities": "The sermon attempts an escape through the 'Adult' processing of the Gospel at the end, but ties it back to a 'must remember' requirement."
   },
   "conclusion_and_recommendation": {
     "psychological_health_score": 5,
-    "summary": "The sermon is a classic example of 'Grace-based Legalism.' It uses a high-functioning Adult ego state to build a logical case for spiritual growth, but psychologically relies on the Critical Parent to enforce 'diligence.' While it offers significant comfort (Nurturing Parent), it creates a psychological trap by stating that while works don't save you, a lack of visible growth ('ineffectiveness') calls your entire salvation into question. This can trigger 'Adapted Child' anxiety in the listener.",
+    "summary": "The sermon is a sophisticated mix of Adult-level teaching and Parent-level coercion. While it offers comfort (gradual growth), it simultaneously installs a high-pressure monitoring system ('confirm your election'). The DNA metaphor is particularly potent, as it suggests that failure to change is a failure of one's very spiritual nature, which can lead to deep Adapted Child shame.",
     "strengths": [
-      "High Adult engagement through clear metaphors and logical structure.",
-      "Vulnerability in the preacher's personal anecdotes creates authentic connection.",
-      "Validation of the 'gradual' nature of growth reduces immediate performance pressure."
+      "Strong Adult-to-Adult engagement through logical structuring.",
+      "Effective use of Free Child humor and relatable anecdotes.",
+      "Validation of the difficulty of growth (gradualness)."
     ],
     "areas_for_improvement": [
-      "The 'No Excuses' rhetoric is a heavy Critical Parent move that can shut down the Free Child.",
-      "The 'Investment' metaphor frames the relationship with God as a transactional business deal (A-A) rather than a relational one."
+      "The 'No Excuses' rhetoric is a classic Critical Parent trap.",
+      "The 'Confirm your election' section creates an ulterior transaction of fear.",
+      "The DNA metaphor can be psychologically deterministic and shaming."
     ],
-    "advice_for_game_free_communication": "To avoid the 'Bait & Switch,' ensure that the 'effort' required is framed as a response of the Free Child's joy rather than the Adapted Child's fear of being 'ineffective' or 'blind'."
+    "advice_for_game_free_communication": "Avoid 'No Excuses' language which triggers the Adapted Child. Instead of using growth as 'proof' of salvation (which invites the 'Bait & Switch' game), frame growth as an Adult exploration of freedom without the threat of 'not being chosen' if progress is slow."
   }
 }

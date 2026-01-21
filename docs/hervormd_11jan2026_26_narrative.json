@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "19_Katwijk2_11-jan-2026",
+    "bijbeltekst": "Matteüs 19:16-26 (De rijke jongeman)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Een twintiger (Gen Z) zoekt houvast en vraagt Jezus wat hij moet 'doen' om het eeuwige leven te beërven, waarna Jezus hem uitdaagt zijn bezit los te laten en Hem te volgen.",
+      "subject": {
+        "identificatie": "De Mens / De Twintiger (Hearer identification)",
+        "tekstueel_bewijs": [
+          "Wat voor goeds moet ik doen om het eeuwige leven te krijgen?",
+          "Ik zet mijn voeten in uw spoor."
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Eeuwig leven / Houvast / Rust",
+        "tekstueel_bewijs": [
+          "wat voor goeds moet ik doen om het eeuwige leven te krijgen?",
+          "twintigers zoeken rust en houvast"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God de Vader / De Traditie",
+        "tekstueel_bewijs": [
+          "Alleen God is goed.",
+          "Dat is nou de bedoeling van God."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "De Mens / De hoorder",
+        "tekstueel_bewijs": [
+          "opdat u door Zijn armoede rijk zou worden."
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Jezus (als voorbeeld/gids) en de Predikant",
+        "tekstueel_bewijs": [
+          "Jezus is de belichaming van dat onderwijs",
+          "Ik begeleid er enkele"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Bezit / Cultuurchristendom / Dogma's",
+        "tekstueel_bewijs": [
+          "Bezit kan je bezitten.",
+          "Cultuurchristendom, dat is als behang dat verkleurt en afbladdert."
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "De tegenstander wordt niet gezien als een kosmische macht (zonde/dood), maar als een psychologische of sociologische belemmering (behang, bezit)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Het volgen van Jezus als 'mentaliteitsverandering' en het delen van rijkdom.",
+      "subject": "De gelovige",
+      "object": "Relatie / Delen van rijkdom",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "De preek mengt de vraag 'hoe word ik gered' (primair) constant met 'hoe moet ik leven' (secundair), waardoor redding een resultaat lijkt van de juiste 'mentaliteit'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Eeuwig Leven → De Mens",
+      "helper_subject_tegenstander": "Jezus/Relatie → De Mens ← Bezit/Cultuur",
+      "subject_naar_object": "De Mens → Volgen/Doen → Eeuwig Leven"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 45,
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God liet Zijn mogelijkheden zien.",
+        "Jezus beoogt een mentaliteitsverandering."
+      ],
+      "voorbeelden_mens_subject": [
+        "Wat moet ik doen?",
+        "Je dient ze wel te kunnen relativeren.",
+        "Ik zet mijn voeten in uw spoor.",
+        "Je moet je houden aan de regels."
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "Wat moet ik doen?",
+          "Je dient ze wel te kunnen relativeren."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "Twintigers zoeken rust.",
+          "Een zeker gemis van iets wat hij zelf verlangde."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "Je kent de geboden.",
+          "Leg me dat eens uit."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Alleen wat nou onmogelijk is bij mensen, dat is mogelijk bij God."
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "De preek is 'recruterend': het probeert de wil van de hoorder te activeren om te kiezen voor 'relatie' boven 'religie'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Relatie (Geloof)",
+      "s2": "Religie (Cultuur/Vorm)",
+      "niet_s1": "Afhaken (Bedroefd afdruipen)",
+      "niet_s2": "Echt volgen (Mentaliteitsverandering)"
+    },
+    "beweging_in_preek": "Van S2 (cultuurchristendom) naar Niet-S1 (leegte/onrust) naar S1 (relatie met Jezus).",
+    "theologische_resolutie": "De spanning wordt opgelost door de mens op te roepen tot een 'stap' of 'keuze' voor relatie.",
+    "ernst_van_s2": "Matig; religie wordt als 'afbladderend behang' gezien, niet als dodelijke wet."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Hoewel er termen als 'genade' vallen, blijft de mens het actieve subject. Redding wordt gepresenteerd als het resultaat van een menselijke 'mentaliteitsverandering' en het 'zetten van stappen'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus op menselijk handelen (Doen)",
+        "tekstueel_bewijs": "Wat moet ik doen? ... Jezus volgen: Volg Mij. Nou, zo simpel is het.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalisering van God",
+        "tekstueel_bewijs": "Jezus blijft het rustpunt van ons hart.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Citaat over Christus' armoede",
+        "tekstueel_bewijs": "Dat Hij om u arm is geworden, terwijl Hij rijk was.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "De rijke jongeman en de twintigers fungeren als spiegels voor de hoorder om hun eigen keuzes te evalueren.",
+      "bijbelse_figuren_als_model": [
+        "De rijke jongeman",
+        "Petrus",
+        "Luther"
+      ],
+      "alternatieve_lezing": "Focus op Jezus als degene die wél de wet vervulde waar de jongeman faalde, in plaats van Jezus als coach die 'uit de comfortzone trekt'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Druk om de juiste 'mentaliteit' te hebben en 'stappen' te zetten.",
+      "theologische_implicatie": "Synergisme: God biedt de mogelijkheid, de mens moet de stap zetten."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 6,
+      "coherentie_beschrijving": "De preek is retorisch vloeiend maar narratief inconsistent: Jezus laat de jongen gaan (soevereiniteit), maar de hoorder moet 'komen' (menselijk subject).",
+      "spanning_punten": [
+        "Het citaat van Nouwen over 'kleine stapjes' botst met de radicale onmogelijkheid die Jezus noemt."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Wat Jezus beoogt is een mentaliteitsverandering.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "De Geest wordt niet genoemd als de bron van 'Pouvoir-faire'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Zonde is hier 'vastzitten aan bezit' of 'oppervlakkige religie', geen radicale doodsheid."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De mens is de held die moet kiezen tussen 'behang' (religie) en 'relatie'. Jezus is de gids/helper.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "De hoorder wordt aangesproken op zijn vermogen om te volgen.",
+      "voorgestelde_herpositionering": "Maak Jezus het subject van de redding: Hij volgt de weg die wij niet konden gaan.",
+      "voorbeeld_revisie": "Niet: 'Zet uw voeten in Zijn spoor', maar: 'Hij heeft Zijn voeten in het dodelijke spoor van onze zonde gezet om ons eruit te trekken.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hoorder als de 'zoeker' die het moet fixen.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Benadruk de onmacht van de jongeling als de staat van elke hoorder."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Te veel Vouloir (willen) en Devoir (moeten).",
+      "voorgestelde_balans": "Focus op Pouvoir (Gods kracht in onze onmacht).",
+      "concrete_suggestie": "Werk de zin 'Bij God zijn alle dingen mogelijk' uit als Gods eenzijdige actie."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Zwak (behang, onrust).",
+      "voorgestelde_intensivering": "Zonde als een macht die ons gevangen houdt, niet slechts een 'belemmering'.",
+      "theologische_rationale": "Zonder een sterke tegenstander is genade slechts een 'extraatje' voor wie al zoekt."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethiek (volgen) wordt de voorwaarde voor Soteriologie (eeuwig leven).",
+      "voorgestelde_structuur": "Eerst: Christus' volbrachte werk. Daarna: De dankbare reactie."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "De preek is pastoraal warm en eigentijds, maar de actantiële structuur is diep antropocentrisch. De hoorder gaat naar huis met de opdracht om een 'mentaliteitsverandering' te bewerkstelligen."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch is de preek sterk door de link met Gen Z en Doe Maar; actantieel is het echter een 'wetspreek' in een modern jasje.",
+    "verschil_met_exegese": "De exegese van 'onmogelijk bij mensen' wordt direct weer geneutraliseerd door de oproep tot 'kleine stapjes'.",
+    "unieke_inzichten_greimas": "Greimas legt bloot dat 'relatie' hier functioneert als een nieuw 'werk' (Object) dat het Subject (de mens) moet verwerven."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Twintigers zoeken",
+      "Jij kent de regels",
+      "U dient te relativeren",
+      "Ik zet mijn voeten",
+      "Jezus beoogt"
+    ],
+    "volledige_object_lijst": [
+      "rust",
+      "houvast",
+      "eeuwig leven",
+      "mentaliteitsverandering"
+    ],
+    "werkwoord_frequentie": {
+      "zoeken": {
+        "count": 8,
+        "primair_subject": "Man"
+      },
+      "volgen": {
+        "count": 12,
+        "primair_subject": "Man"
+      },
+      "moeten": {
+        "count": 10,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "De preek gebruikt 'genade' als decoratie, niet als de motor van de tekst."
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "Hell",
+    "bijbeltekst": "Matthew 25:1-13; Romans 8:38-39; Revelation 12:7-9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God enters the domain of radical evil (Hell) to vanquish the Prince of Darkness and reclaim the cosmos for His kingdom.",
+      "subject": {
+        "identificatie": "God / The Messiah / Jesus Christ",
+        "tekstueel_bewijs": [
+          "God has entered the lists against the Prince of Darkness.",
+          "The Messiah is going to reign for ever and ever.",
+          "He might vanquish the devil."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Cosmos / The Human Race / Deliverance from the Domain of Darkness",
+        "tekstueel_bewijs": [
+          "The kingdoms of this world have become the Kingdom of our Lord.",
+          "We were two sinners rejoicing in the same salvation."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Father / Divine Sovereignty",
+        "tekstueel_bewijs": [
+          "The Father... sent from the heavenly throne his only begotten son."
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The 'Saints' / The Hearers / The Victims of Darkness",
+        "tekstueel_bewijs": [
+          "Nothing... will be able to separate us from the love of God.",
+          "To do justice to the victims of darkness."
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "The Liturgy / Advent Tradition / Michael and his angels",
+        "tekstueel_bewijs": [
+          "Michael and his angels fighting against the dragon.",
+          "The Advent collect: 'Almighty God, give us grace'."
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Grace as armor)"
+      },
+      "tegenstander": {
+        "identificatie": "Radical Evil / Satan / The Domain of Darkness",
+        "tekstueel_bewijs": [
+          "An evil intelligence determined on its own supremacy.",
+          "The Prince of Darkness.",
+          "The hideous strength of the realm of wickedness."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Evil is described as an independent, intelligent, and aggressive power that exceeds human folly."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The church/believer resisting the devil in the present time through ministry and witness.",
+      "subject": "The Believer / The Church (e.g., Susan and David)",
+      "object": "Resisting the devil / Ministering to traumatized children",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The human action is a 'sign' or 'witness' of the primary victory of God."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "The Father → Deliverance → The Church/World",
+      "helper_subject_tegenstander": "Grace/Angels → Christ ← Satan/Radical Evil",
+      "subject_naar_object": "God → Reclaiming the Domain of Darkness"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "18",
+      "ratio": "2.33",
+      "voorbeelden_god_subject": [
+        "God has entered the lists.",
+        "The Messiah is going to reign.",
+        "He shall reign for ever and ever."
+      ],
+      "voorbeelden_mens_subject": [
+        "We must believe in hell.",
+        "I saw their glowing faces.",
+        "We don’t want our nice pretty holiday spoiled."
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "We must believe in the hideous strength of the realm of wickedness."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "We don’t want our nice pretty holiday spoiled."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "The wisdom of earlier centuries was sometimes greater than ours."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Nothing... will be able to separate us.",
+          "Satan has met his master."
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Power' of God to overcome the 'Power' of Evil, rather than the 'Duty' of humans."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The Kingdom of Light (Love/Hope)",
+      "s2": "The Domain of Darkness (Hell/Evil)",
+      "niet_s1": "Sentimental/Evasive Faith (Bedtime story)",
+      "niet_s2": "Imaginary/Lighthearted view of Evil"
+    },
+    "beweging_in_preek": "From ~S2 (denial of hell) to S2 (acknowledging radical evil) to S1 (God's final victory).",
+    "theologische_resolutie": "The tension is resolved eschatologically: S1 (God) overthrows S2 (Satan) completely.",
+    "ernst_van_s2": "Extremely high; S2 is treated as a 'hideous strength' that only God can defeat."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. While it demands 'belief' in hell, the active agency of salvation and the final victory rests entirely on God's initiative.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Imperative of belief",
+        "tekstueel_bewijs": "We must believe in hell.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "God has entered the lists against the Prince of Darkness.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Passive Reception of Reconciliation",
+        "tekstueel_bewijs": "It will be God’s doing, not ours.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Biblical figures are not used as moral examples; rather, contemporary figures (the Clarks) are used as signs of God's reconciling work.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "The sermon already provides a theocentric reading of the bridesmaids: the focus is on the Bridegroom's arrival and the reality of the door."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe at the scale of God's victory over real evil.",
+      "theologische_implicatie": "Monergistic salvation: God acts, man receives."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The narrative of the 'Four Last Things' is perfectly integrated with the Christological invasion of the world.",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "God has entered the lists against the Prince of Darkness. Satan has met his master.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "UNCLEAR",
+      "competentie_schenking": "The sermon focuses more on the Son's victory than the Spirit's indwelling."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Radical evil is an intelligent, aggressive power, not just human mistake."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon maintains a strict theocentric actantial structure where God is the Subject of the primary narrative of cosmic rescue.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong focus on Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "The current balance is appropriate for a Christus Victor sermon."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Already highly intensified.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "High-intensity opponent necessitates a high-power Savior."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's victory) clearly precedes and enables Ethics (the work in Liberia)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "This sermon is a masterclass in avoiding moralism while taking the reality of evil seriously. It correctly identifies God as the only Subject capable of defeating the 'Heavy Opponent' of radical evil."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis might focus on the use of music/hymns; Greimas shows that these are actantial 'Helpers' in the narrative of God's invasion.",
+    "verschil_met_exegese": "Exegesis would focus on the bridesmaids; Greimas shows how the bridesmaids function as Receivers of the Bridegroom's action.",
+    "unieke_inzichten_greimas": "Reveals that the sermon's power comes from the 'Subject-Switch'—moving from human inability to God's 'Pouvoir-faire'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (entered)",
+      "Messiah (reign)",
+      "Satan (met his master)",
+      "We (must believe)",
+      "I (saw)"
+    ],
+    "volledige_object_lijst": [
+      "The domain of darkness",
+      "The marriage feast",
+      "Salvation",
+      "The armor of light"
+    ],
+    "werkwoord_frequentie": {
+      "reign": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "believe": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "vanquish": {
+        "count": "2",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon successfully uses a 'Heavy Opponent' to prevent the grace from appearing 'cheap'."
+  }
+}

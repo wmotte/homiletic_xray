@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "titel_preek": "Die Hände Gottes",
+    "bijbeltekst": "Markus 1,15 / 5 Mose 30,19",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon interprets Jesus' call to repentance and faith through the lens of political theology, specifically focusing on the 1989 Kirchentag theme 'Our time in God's hands'. It addresses environmental destruction, economic injustice, and militarism.",
+      "exegetische_kwaliteit": "Theological-political interpretation. The exegesis is contextual rather than historical-critical, treating the text as a direct prompt for socio-political action.",
+      "omvang_procent": "40%"
+    },
+    "illocutie": {
+      "beschrijving": "The force is primarily a mixture of political assertion and ethical directive. It functions as a 'call to action' and a 'redefinition of terms'.",
+      "primaire_kracht": "DIRECTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Lasst uns unsere Zeit in Gottes Hände legen!",
+        "Wir müssen die Kurzstreckenraketen verhindern.",
+        "Gebt eure Zeit nicht dem Militär."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Mobilization, political awareness, and a sense of solidarity among the 'minority' of believers.",
+      "pneumatologisch_bewustzijn": "Low. The focus is on human agency and the 'hands of God' acting through human hands.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "act",
+        "protest",
+        "discover",
+        "trust"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 45,
+      "procent": "50%",
+      "voorbeelden": [
+        "Die Zeit ist erfüllt.",
+        "Die Bundesrepublik ist heute das drittreichste Land der Welt.",
+        "Gott hat viele Hände."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "heißt",
+        "haben"
+      ]
+    },
+    "directieven": {
+      "frequentie": 22,
+      "procent": "25%",
+      "voorbeelden": [
+        "Tut Buße!",
+        "Beschützt die Bäume!",
+        "Lasst euch nicht von den Schnellfahrern aufheizen."
+      ],
+      "dominante_werkwoorden": [
+        "müssen",
+        "sollen",
+        "gebt",
+        "lasst",
+        "beschützt"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 12,
+      "procent": "15%",
+      "voorbeelden": [
+        "Mir gefällt, dass die Losung von Gottes Händen spricht.",
+        "Ich werde immer nervös.",
+        "Manchmal bin ich nur traurig."
+      ],
+      "dominante_werkwoorden": [
+        "gefällt",
+        "fühle",
+        "bin",
+        "hoffe"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "5%",
+      "voorbeelden": [
+        "Die Botschaft, die die Verlorenen rettet."
+      ],
+      "dominante_werkwoorden": [
+        "rettet",
+        "befreit"
+      ],
+      "kwaliteit": "Weak. Promises are often framed as general possibilities or outcomes of human action rather than God's binding word to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "5%",
+      "voorbeelden": [
+        "Ihr Gefangenen der Zeit, ihr seid frei."
+      ],
+      "dominante_werkwoorden": [
+        "seid"
+      ],
+      "autoriteit": "Moderate. The preacher declares freedom, but quickly pivots back to political imperatives."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "70%",
+    "performatief_percentage": "30%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive description of political and economic states.",
+        "Talking about what 'repentance means' rather than enacting it."
+      ],
+      "effect_op_hoorder": "The hearer is informed and morally pressured, but not necessarily 're-created' by a word of grace."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct promise of God's presence regardless of success",
+        "Sacramental 'I' of the preacher speaking for God."
+      ],
+      "effect_op_hoorder": "A sense of 'ought' (Sollen) outweighs the 'is' (Sein) of grace."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 2,
+      "kwaliteit_toezeggen": "Vague and conditional on the hearer's discovery of 'siblings'.",
+      "voorbeelden": [
+        "Kehrt um und vertraut der Botschaft, die die Verlorenen rettet."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 18,
+        "gebruik": "Subjective testimony ('Ich') and collective identification ('Wir')."
+      },
+      "tweede_persoon": {
+        "frequentie": 10,
+        "gebruik": "Direct moral appeal and rhetorical questions.",
+        "performatieve_context": "Mostly used for directives/admonitions."
+      },
+      "derde_persoon": {
+        "frequentie": 35,
+        "gebruik": "Describing the world, the political situation, and 'the people'.",
+        "distantie_effect": "Creates a lecture-like atmosphere regarding global politics."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "20%",
+        "gebruik": "Historical examples (Reformation, El Salvador)."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General political and theological definitions."
+      },
+      "actueel_present": {
+        "frequentie": "30%",
+        "gebruik": "The 'Now' of the Kirchentag and the immediate call to action."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (The world is in crisis) -> Directive (We must act/repent).",
+      "voorbeelden": [
+        "Die Bundesrepublik ist... gruselte es mir... Wann werden wir aufhören...?"
+      ],
+      "probleem": "The imperative is not grounded in a prior declarative of grace, but in a moral/political analysis."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The movement from promise to action is weak.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Es gibt eine Million Dinge zu tun... Wir müssen die Kurzstreckenraketen verhindern."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While theologically 'progressive', the speech act structure is legalistic: it places the burden of the 'event' on the hearer's political response rather than God's declarative word.",
+    "sterke_punten": [
+      {
+        "aspect": "Authenticity",
+        "categorie": "EXPRESSIVE",
+        "tekstueel_bewijs": "Manchmal bin ich nur traurig.",
+        "effect": "Creates a bond of honesty between preacher and hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Commissives",
+        "categorie": "PROMISES",
+        "tekstueel_bewijs": "N/A (Lack of direct divine promise)",
+        "probleem": "The sermon tells the hearer what to do without giving them the power (grace) to do it.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is more of a 'manifesto' than a 'sacramental event'. The 'happening' is located in the future action of the hearer, not the present word of the preacher.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "The word does not 'effect what it says' (e.g., forgiveness); it 'describes what should be'."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is largely the object of talk, not the subject of the speech.",
+      "prediker_als_mandataris": "The preacher speaks as a prophetic activist, less as a sacramental mandatory.",
+      "tekstueel_bewijs": [
+        "Ich möchte eine winzige Veränderung an der Losung anbringen."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "The effect is sought through moral persuasion rather than reliance on the Spirit.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a 'call to consciousness' rather than a means of grace.",
+      "epifanisch_taalgebruik": "Low. The language is socio-critical.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'musts' (müssen) and 'ares' (sein); too few 'I promise you' or 'God gives you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Das Reich Gottes ist nah.",
+          "voorgestelde_revisie": "Ich verkündige euch: Gottes Reich bricht hier und jetzt für euch an.",
+          "verschil": "Shifts from a general fact to a personal address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The gospel is 'folded up' but never truly 'put on' the hearer by the preacher.",
+      "suggestie": "Use the second person to bestow grace before demanding action.",
+      "voorbeeldzinnen": [
+        "Dir ist vergeben, damit du frei bist zu lieben."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'We' (Wir) often hides the individual 'You' (Du).",
+      "suggestie": "Address the individual conscience with the promise of Christ.",
+      "voorbeeldzinnen": [
+        "Christus hält deine Zeit fest, auch wenn du versagst."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'Do' is not preceded by the declarative 'You are'.",
+      "suggestie": "Start with the gift of the 'fulfilled time' as a present reality for the hearer."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is a powerful prophetic witness, but to become a 'sacramental event', it must transition from talking about God's hands to being the hand of God that blesses the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on Sölle's 'self-revelation' (sadness, nervousness); SAT reveals that she fails to use her 'official' power to declare reality changed.",
+    "verschil_met_retoriek": "Rhetorically strong (metaphors of the princess dress), but illocutionarily weak (lacks the 'I' that performs).",
+    "unieke_inzichten_SAT": "SAT exposes that 'political' preaching often becomes a new law (constative surplus) because it lacks the declarative 'it is finished'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "sind",
+        "heißt",
+        "lautet",
+        "sitzt",
+        "verschwinden"
+      ],
+      "directief": [
+        "tut Buße",
+        "glaubt",
+        "lasst uns",
+        "gebt",
+        "beschützt",
+        "verhindert"
+      ],
+      "expressief": [
+        "weiß nicht",
+        "gefällt mir",
+        "gruselte es mir",
+        "bin traurig"
+      ],
+      "commissief": [
+        "rettet"
+      ],
+      "declaratief": [
+        "seid frei"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Die Zeit ist erfüllt.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a state.",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "Ihr seid frei.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Changing the status of the hearer.",
+        "effectiviteit": "High, but isolated in the text."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Law' disguised as 'Gospel' through political urgency."
+  }
+}

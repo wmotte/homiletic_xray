@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "titel_preek": "A Word To Young Preachers On The Name Of The Savior",
+    "bijbeltekst": "John 1:1-17",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A homiletic reflection on the dual nature of Christ (Jesus/Christ) and the mystery of the Incarnation, framed as advice to young preachers.",
+      "exegetische_kwaliteit": "Moderate. The sermon uses John 1 as a springboard for systematic-theological reflection rather than verse-by-verse exegesis.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the nature of Christ and encouraging the hearers through testimony and historical anecdote.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "I suppose that from time to time we all wonder...",
+        "He fulfills the ancient Israelite trinity of prophet, priest, and king.",
+        "I wish you every blessing as you set out upon the high road."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Heartening young preachers, fostering awe for the mystery of Christ, and encouraging social awareness.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned in the prayer and as a force in India, but not as the active agent of the sermon's current event.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "revere",
+        "adore",
+        "admire",
+        "ponder"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "In the beginning was the Word.",
+        "Our Lord lived here.",
+        "He fulfills the ancient Israelite trinity."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "has",
+        "lived",
+        "spoke"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "Let us ponder the name of the Savior.",
+        "We must never forget it."
+      ],
+      "dominante_werkwoorden": [
+        "ponder",
+        "forget",
+        "grant"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "28",
+      "procent": "15%",
+      "voorbeelden": [
+        "We thank thee for the bright beauty.",
+        "I must confess to you that in my earliest years I did not grasp that."
+      ],
+      "dominante_werkwoorden": [
+        "thank",
+        "confess",
+        "wish"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "I can confidently say to you that the way does grow brighter."
+      ],
+      "dominante_werkwoorden": [
+        "say",
+        "promise (implied)"
+      ],
+      "kwaliteit": "Weak. The promises are largely experiential advice rather than divine self-binding."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "Amen.",
+        "I wish you every blessing."
+      ],
+      "dominante_werkwoorden": [
+        "wish",
+        "bless"
+      ],
+      "autoriteit": "Low. The preacher speaks as a mentor/colleague rather than a mandatory of God."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'I suppose', 'I think', 'Someone has commented'.",
+        "Historical anecdotes about Spurgeon and Denny.",
+        "Descriptive travelogue of India."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of the preacher's thoughts and memories rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Information about the 'mystery' without the mystery being enacted upon the hearer."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The sermon talks about the promise of the name, but does not deliver the promise to the hearer in the 2nd person.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Preacher's own journey, opinions, and travel stories."
+      },
+      "tweede_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Addressing 'young preachers' as a demographic group.",
+        "performatieve_context": "Used for advice, not for sacramental declaration."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Talking about Jesus, the Church, India, and historical figures.",
+        "distantie_effect": "Creates a lecture-like atmosphere where God is the object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and personal anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions (e.g., 'He is Divinity')."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Opening prayer and concluding remarks."
+      }
+    },
+    "adressering_effectiviteit": "4"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of Christ) -> Directive (We must revere/not forget).",
+      "voorbeelden": [
+        "Jesus lived here! ... his name ought ever to reprove them."
+      ],
+      "probleem": "The 'ought' is not grounded in a 'given' performative act of grace in the sermon."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of the Commissive (Toezegging).",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The faith will never mean anything until it means something in the actual context... (Moralistic imperative without performative enablement)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a 'lecture-plus-testimony'. It provides high-quality information about Christology but fails to transition from 'talking about' to 'delivering'.",
+    "sterke_punten": [
+      {
+        "aspect": "Christological Orthodoxy",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "He is not only the Son of God; he is God the Son.",
+        "effect": "Provides a solid intellectual foundation."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "I have found great encouragement in an incident...",
+        "probleem": "Relies on anecdotes rather than the Word's own power.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": "3",
+    "gebeuren_toelichting": "The sermon is a report of events (Spurgeon, India) rather than being an event itself.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "Lacks the 'I-Thou' address where God speaks through the preacher."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject being discussed.",
+      "prediker_als_mandataris": "Weak. The preacher speaks as an experienced mentor.",
+      "tekstueel_bewijs": [
+        "I suppose that from time to time we all wonder..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Minimally.",
+      "perlocutie_theologie": "No. The preacher tries to create the effect through moving stories.",
+      "tekstueel_bewijs": [
+        "One man, deeply touched by the Spirit..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a 'pondering' of the means of grace.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "Let us ponder the name of the Savior."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is heavy on 'is/was' and 'I think'. It needs a shift to 'I declare' and 'He promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "His name shall be called Jesus. That hitches him to us.",
+          "voorgestelde_revisie": "His name is Jesus, and today, He hitches Himself to you.",
+          "verschil": "Moves from a general truth to a present-tense address."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in a story about India.",
+      "suggestie": "Directly apply the 'He will not leave us' to the specific anxieties of the young preachers present.",
+      "voorbeeldzinnen": [
+        "Because He is Jesus, He promises you today: I will never leave you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' and 'They'.",
+      "suggestie": "Use 'You' to bring the hearer into the mystery.",
+      "voorbeeldzinnen": [
+        "You are not just studying a mystery; you are being held by the Mystery."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to social action is a 'must' without a 'because'.",
+      "suggestie": "Ground the social imperative in the Declarative of Christ's lordship over New York."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is homiletically beautiful but performatively thin. It informs the mind but waits for the hearer to make the connection."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his early doubts). SAT reveals this as a distraction from the 'Divine Act'.",
+    "verschil_met_retoriek": "Rhetorically, the India story is a masterpiece of pathos. In SAT, it is a constative detour that delays the illocutionary encounter.",
+    "unieke_inzichten_SAT": "SAT exposes that 'pondering' (Assertive) is not the same as 'proclaiming' (Declarative)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "lived",
+        "knew",
+        "said",
+        "meant",
+        "traces",
+        "sets",
+        "points out"
+      ],
+      "directief": [
+        "ponder",
+        "forget",
+        "grant",
+        "seek"
+      ],
+      "expressief": [
+        "thank",
+        "confess",
+        "wish",
+        "wonder"
+      ],
+      "commissief": [
+        "say",
+        "will not leave (quoted)"
+      ],
+      "declaratief": [
+        "bless",
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He is not only the Son of God; he is God the Son.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong definition",
+        "effectiviteit": "High for teaching, low for encounter."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' the mystery rather than 'handing over' the mystery."
+  }
+}

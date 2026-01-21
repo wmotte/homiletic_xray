@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "titel_preek": "Das achte Gebot: Du sollst nicht falsch Zeugnis reden wider deinen Nächsten",
+    "bijbeltekst": "5 Mose 5,20 / Exodus 20,16",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Du wirst nicht als falscher Zeuge aussagen",
+          "Sitz im Leben in der Rechtsprechung",
+          "Schaffe mir Recht, Gott!"
+        ],
+        "conceptuele_metafoor": "MORALITY IS LEGAL TESTIMONY"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "unseren sozialen Leib",
+          "verkrüppelt",
+          "so notwendig und so vergiftet wie die Luft, die wir zur Zeit atmen"
+        ],
+        "conceptuele_metafoor": "SOCIAL REPUTATION IS A PHYSICAL BODY / TRUTH IS OXYGEN"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "unveräußerliche Rechte",
+          "grauenvolle Art der Aufrechnung",
+          "Maßstäbe am Erfolg ausrichten"
+        ],
+        "conceptuele_metafoor": "MORAL GUILT IS A BALANCE SHEET"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "unseren sozialen Leib",
+        "brondomein": {
+          "naam": "Biological Organism",
+          "concrete_elementen": [
+            "body",
+            "health",
+            "vulnerability",
+            "limbs"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Reputation/Honor",
+          "doctrinale_traditie": "Lutheran (Catechism tradition)"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Physical health",
+            "doel_element": "Social standing"
+          },
+          {
+            "bron_element": "Physical assault",
+            "doel_element": "Slander/Gossip"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Words can cause 'bleeding' or 'death' just like physical weapons."
+          ],
+          "theologische_implicaties": [
+            "The 8th commandment is an extension of the 5th (Thou shalt not kill)."
+          ],
+          "ethische_implicaties": [
+            "Protecting a neighbor's reputation is a form of life-saving care."
+          ],
+          "onbedoelde_consequenties": [
+            "May prioritize 'saving face' over necessary public exposure of sin."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the dead metaphor of 'reputation' by linking it to the vulnerability of the physical body."
+      },
+      {
+        "metafoor_expressie": "Klima der Wahrheit... so notwendig wie die Luft, die wir atmen",
+        "brondomein": {
+          "naam": "Atmosphere/Respiration",
+          "concrete_elementen": [
+            "air",
+            "breathing",
+            "poison",
+            "survival"
+          ],
+          "belichaamde_basis": "container/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Truth/Social Trust",
+          "doctrinale_traditie": "Political Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Oxygen",
+            "doel_element": "Truth"
+          },
+          {
+            "bron_element": "Pollution",
+            "doel_element": "Propaganda/Lies"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Lies are not just individual sins but environmental toxins."
+          ],
+          "theologische_implicaties": [
+            "Truth is the sustaining grace of communal life."
+          ],
+          "ethische_implicaties": [
+            "The church must act as an 'air filter' for society."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that individuals are passive victims of their 'atmosphere'."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Connects the abstract concept of truth to the immediate, biological necessity of breathing, especially in an era of environmental concern."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully bridges the ancient legal setting (the Gate) with modern media and political discourse by using the 'Social Body' and 'Atmosphere' metaphors as connectors.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Discussion of Reagan vs. Nicaragua",
+          "metafoor_a": "TRUTH IS A LEGAL TESTIMONY (Objective)",
+          "metafoor_b": "TRUTH IS A WEAPON FOR THE WEAK (Partisan)",
+          "conflict_beschrijving": "The preacher shifts from truth as a neutral judicial standard to truth as a tool for the 'underprivileged'.",
+          "entailment_conflict": "If truth is a neutral standard, it applies to Reagan and the cleaner equally; if it is a tool for the poor, the standard shifts.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Luther's explanation",
+          "gemengde_metaforen": [
+            "Legal (Commandment)",
+            "Biological (Body/Tongue)"
+          ],
+          "blending_strategie": "Functional equivalence: Slander is mapped as 'murder of the social self'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Transforms the 'dead' commandment into a 'living' human right (Droits de l'homme).",
+        "voorbeeld": "Die Zehn Gebote Gottes... werden hier begriffen als die unveräußerlichen Rechte des Menschen."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The preacher risks equating specific political opinions (Nicaragua/Reagan) directly with the 'Truth' of the Commandment.",
+        "voorbeeld": "Diese Benennung... ist eine Propagandalüge, es ist eine Verletzung des Gebots.",
+        "potentiele_impact": "Congregants with different political views may feel excluded from the 'Truth'.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Haitian Tapestry (Visual/Artistic world)",
+      "sub_worlds": [
+        "The Ancient City Gate of Israel",
+        "Luther's Reformation Germany",
+        "The White House / Media Interviews",
+        "The poisoned atmosphere of the Cold War"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Introduction",
+          "van_wereld": "Modern Art (Haiti)",
+          "naar_wereld": "Sinai/Biblical Law",
+          "effectiviteit": "Excellent bridge from aesthetic to theological."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Protector of the Weak",
+          "hoe_versterkt": "By focusing on the 'Behandelte' (the victim) rather than the 'Handelnde' (the perpetrator)."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Commandments as restrictive prohibitions",
+          "verstoring_strategie": "Reframing them as 'Invitations' and 'Promises'.",
+          "vervangend_schema": "Commandments as Human Rights/Protective Shields."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits well with a service focused on social justice or the Decalogue."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JURIDICAL and MEDICAL domains. It successfully moves the 8th commandment from a narrow 'don't lie' rule to a broad 'protect the social life of the neighbor' principle. The use of the 'Atmosphere' metaphor at the end provides a powerful, albeit dark, contemporary resonance.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "TRUTH IS A PATH",
+        "huidige_status": "Underutilized",
+        "suggestie": "Connect the 'search for truth' to the 'Journey' domain to emphasize the process rather than just the result.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Truth is not a destination we own, but a path we walk together in the dark."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The tension between 'Objective Truth' and 'Truth for the Poor'.",
+        "resolutie_strategie": "Use the 'Scale/Balance' metaphor to show that truth must be weighted toward those who have no voice to ensure actual justice."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "SOCIAL LEIB (Social Body)",
+        "problematisch_entailment": "If reputation is a body, is 'social surgery' (exposing a public figure's lies) a form of violence?",
+        "aanbeveling": "Clarify that 'surgery' (painful truth) is sometimes necessary for the health of the 'Body Politic'."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To show how lies undermine the 'foundation' of society.",
+        "doel_concept": "Social Trust"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using CMT to bridge historical contexts and apply ancient ethics to modern political and media landscapes."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Focuses on the cognitive mapping of 'Body' to 'Reputation' rather than just the beauty of the tapestry imagery.",
+    "verschil_met_kolb": "Moves beyond 'experience' into the structural logic of how the 'Gate' and 'Media' function as source domains.",
+    "unieke_inzichten_CMT": "Reveals that the preacher views 'Truth' as a biological necessity (air), which explains the urgency of the political rhetoric."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Wandteppich der Gebote",
+      "Einladung zum Leben",
+      "Schutz brauchendes Leben",
+      "Macht der Zunge",
+      "Sitz im Leben",
+      "im Tor",
+      "sozialer Leib",
+      "geistiges Streitgespräch",
+      "ethische Grauzone",
+      "Propagandalüge",
+      "Rüstungswahnsinn",
+      "Klima der Lüge",
+      "Zynismus der Macht",
+      "Wahrheit macht frei",
+      "vergiftete Luft"
+    ],
+    "woord_frequentie_analyse": {
+      "Wahrheit": "18",
+      "Gebot": "15",
+      "Nächsten": "12",
+      "Lüge": "7",
+      "Erfolg": "6"
+    },
+    "notities": "The sermon heavily relies on the 'Truth is Light/Air' and 'Society is a Body' schemas."
+  }
+}

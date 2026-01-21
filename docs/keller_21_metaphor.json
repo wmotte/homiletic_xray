@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "titel_preek": "Prayer of Confession",
+    "bijbeltekst": "Psalm 32",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "2850"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "God does not count against them",
+          "pay the debt themselves",
+          "two payments on the debt",
+          "Jesus Christ paid for you"
+        ],
+        "conceptuele_metafoor": "SIN IS DEBT; SALVATION IS DEBT CANCELLATION"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "poisonous reality",
+          "the treatment",
+          "the antidote",
+          "feeling like we’re stained, that we’re infected"
+        ],
+        "conceptuele_metafoor": "SIN IS SICKNESS; CHRIST IS THE ANTIDOTE"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "go off the path",
+          "go into the weeds",
+          "fall into a pit",
+          "straightedge"
+        ],
+        "conceptuele_metafoor": "MORALITY IS A PATH; SIN IS STRAYING"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Sin is our active inclination to break stuff",
+        "brondomein": {
+          "naam": "Physical Destruction",
+          "concrete_elementen": [
+            "breaking objects",
+            "shattering",
+            "malfunction"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sin/Depravity",
+          "doctrinale_traditie": "Reformed/Augustinian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Physical object",
+            "doel_element": "Relationship/Promise"
+          },
+          {
+            "bron_element": "Vandalism/Breaking",
+            "doel_element": "Sinful act"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Sin is intentional, not just accidental stumbling."
+          ],
+          "theologische_implicaties": [
+            "Total depravity; the will is active in its own destruction."
+          ],
+          "ethische_implicaties": [
+            "Responsibility for the 'broken' state of one's life."
+          ],
+          "onbedoelde_consequenties": [
+            "May imply things are beyond repair without total replacement."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses the colloquial 'break stuff' to re-energize the abstract concept of transgression."
+      },
+      {
+        "metafoor_expressie": "He would get two payments on the debt, and that would be wrong.",
+        "brondomein": {
+          "naam": "Commercial Law",
+          "concrete_elementen": [
+            "double payment",
+            "creditor",
+            "legal injustice"
+          ],
+          "belichaamde_basis": "balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Substitutionary Atonement",
+          "doctrinale_traditie": "Reformed/Penal Substitution"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Creditor",
+            "doel_element": "God the Father"
+          },
+          {
+            "bron_element": "First Payment",
+            "doel_element": "Death of Christ"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Forgiveness is a matter of justice, not just mercy."
+          ],
+          "theologische_implicaties": [
+            "Assurance of salvation based on the finished work of Christ."
+          ],
+          "ethische_implicaties": [
+            "Freedom from guilt-based works."
+          ],
+          "onbedoelde_consequenties": [
+            "God as a rigid accountant; loss of relational warmth."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Standard Reformed trope, but used here with logical precision to provide 'assurance'."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher moves systematically from Sin as a 'Condition' (Sickness/Breaking) to Sin as a 'Legal/Economic' problem (Debt/Trial). The transition is bridged by the concept of 'Covering'.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section 2 vs Section 3",
+          "metafoor_a": "Sin as a stain to be washed (Medical/Aesthetic)",
+          "metafoor_b": "Sin as a debt to be paid (Economic)",
+          "conflict_beschrijving": "Washing a stain is a process of restoration; paying a debt is a legal transaction.",
+          "entailment_conflict": "If sin is a stain, it needs cleansing; if it is a debt, it needs payment. The preacher occasionally jumps between 'God must forgive because he is just' (Economic) and 'He gets the stain out' (Aesthetic).",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "The Antidote section",
+          "gemengde_metaforen": [
+            "Legal Trial",
+            "Physical Exposure/Nakedness"
+          ],
+          "blending_strategie": "The preacher uses the historical reality of the Cross (physical exposure) to satisfy the legal requirement of the 'Trial' (uncovering the truth)."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activating the 'Path' metaphor by describing 'weeds' and 'pits' makes the abstract 'chata’ah' concrete.",
+        "voorbeeld": "If you go off the path, you go into the weeds. You can’t see where you’re walking."
+      },
+      {
+        "sterkte_type": "CLARITY",
+        "beschrijving": "Using the 'Keyhole' metaphor from Sartre to explain the psychological need for 'covering'.",
+        "voorbeeld": "Imagine you realize someone is looking through the keyhole at you."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "The 'double payment' logic can make God seem bound by commercial laws rather than sovereign love.",
+        "voorbeeld": "It would be unjust for him not to forgive you... he would get two payments.",
+        "potentiele_impact": "Congregants may view God as a cosmic vending machine of justice.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A courtroom/trial setting (Kafka's Trial, the 'recorder' of moral standards).",
+      "sub_worlds": [
+        "Augustine's Pear Orchard",
+        "The Cross as a place of exposure",
+        "The Fairy Tale of the Black Bull of Norroway"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Introduction of Kafka",
+          "van_wereld": "Ancient Israel (Psalm 32)",
+          "naar_wereld": "Modern Existentialist Anxiety",
+          "effectiviteit": "Highly effective for a New York City audience."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Judge",
+          "hoe_versterkt": "By emphasizing the 'straightedge' and the 'just' nature of forgiveness."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Sin as a lighthearted joke",
+          "verstoring_strategie": "Contrasting 'chocolate/lingerie' ads with the 'poisonous reality' of broken relationships.",
+          "vervangend_schema": "Sin as 'Breaking Stuff' and 'Going against the grain of the universe'."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits perfectly with the 'Prayer of Confession' in a traditional liturgy."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by Economic and Juridical metaphors, which provide strong logical assurance of salvation. However, it balances this with Medical and Relational metaphors (the 'True Love' at the end) to prevent the sermon from feeling like a cold legal brief.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Forgiveness as 'Covering'",
+        "huidige_status": "Can feel like 'hiding' or 'sweeping under the rug'.",
+        "suggestie": "Deepen the source domain of 'Clothing'—being clothed in righteousness rather than just hiding dirt.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The 'tunic' in the fairy tale is a good start; expand on the 'warmth' of the garment."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'God as Just Creditor' to 'God as True Love'.",
+        "resolutie_strategie": "Explicitly link the 'payment' to the 'cost of love'—showing that the debt was paid by the Lover himself."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Sin as 'Breaking Stuff'",
+        "problematisch_entailment": "Suggests that the sinner is just a 'clumsy vandal'.",
+        "aanbeveling": "Ensure the 'rebellious self-assertion' (pesha) is kept central so sin isn't reduced to mere clumsiness."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To explain 'the design of your heart' and 'strains in the fabric'.",
+        "doel_concept": "Sanctification/Human Flourishing"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using CMT to bridge the gap between ancient text and modern secular psychology."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of just praising the 'beauty' of the Psalm, CMT reveals how the 'Path' and 'Debt' metaphors actually restructure the hearer's self-understanding.",
+    "verschil_met_kolb": "Moves beyond 'experience/reflection' to show how the 'Source Domain' of a keyhole or a debt creates the very possibility of theological reflection.",
+    "unieke_inzichten_CMT": "The insight that 'God is Just' (Economic/Legal) provides more psychological 'Assurance' than 'God is Merciful' because of the entailments of debt-cancellation law."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Sins are covered",
+      "Bones wasted away",
+      "Hand was heavy",
+      "Strength sapped as heat",
+      "Poisonous reality",
+      "Sin is breaking stuff",
+      "Going off the path",
+      "Weeds/Pit/Cliff",
+      "Grain of the universe",
+      "Looking through the keyhole",
+      "Under indictment",
+      "Stained like Lady Macbeth",
+      "Straightedge",
+      "Quicksand",
+      "Picking up the log",
+      "Cul-de-sacs of confession",
+      "Bit and bridle",
+      "Twisted/Iniquity",
+      "Uncovered/Naked on the cross",
+      "Two payments on the debt",
+      "Accuser roar",
+      "Stain on the tunic"
+    ],
+    "woord_frequentie_analyse": {
+      "sin": "42",
+      "guilt": "15",
+      "cover": "18",
+      "confess": "12",
+      "voice": "9"
+    },
+    "notities": "The preacher uses 'Text World Theory' effectively by creating a 'Modern World' (Kafka/Sartre) and then 'disrupting' its schema with the 'Gospel World'."
+  }
+}

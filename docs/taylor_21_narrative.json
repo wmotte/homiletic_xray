@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "titel_preek": "Soul For Sale",
+    "bijbeltekst": "Matthew 16:26",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human individual must recognize the infinite value of their soul and choose to 'sell' it to God rather than to the perishing world.",
+      "subject": {
+        "identificatie": "The Individual Hearer (Man)",
+        "tekstueel_bewijs": [
+          "each of us had better hear the words of Jesus",
+          "some of us are selling our souls too cheaply",
+          "We are negotiable",
+          "What shall a man give in exchange for his soul?"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The Soul (Essential Personhood/Integrity)",
+        "tekstueel_bewijs": [
+          "his essential honor and character and being",
+          "the totality of our personhood",
+          "the essential 'I' and 'you'"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "Jesus/The Word of God",
+        "tekstueel_bewijs": [
+          "the words of Jesus that live on",
+          "Hear the word of Jesus as he asks"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Individual/God",
+        "tekstueel_bewijs": [
+          "What is a man profited",
+          "our souls are to be claimed or owned by somebody or something else"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "The Bible/Charlemagne's Example",
+        "tekstueel_bewijs": [
+          "an open Bible on his knee",
+          "one dead cold finger pointed to the words of Jesus"
+        ],
+        "rol_van_god": "God is largely the Object to be chosen or the destination, rather than the active Subject.",
+        "rol_van_geest": "Internalized as an 'instinct toward righteousness'."
+      },
+      "tegenstander": {
+        "identificatie": "The World/Materialism/Nuclear Fate",
+        "tekstueel_bewijs": [
+          "a few dollars or some clothes",
+          "the whole world is a vast nervous disorder",
+          "nuclear fate too horrible to imagine"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily the 'cheapness' of earthly prizes and the anxiety of the nuclear age, rather than a radical hamartiology of total depravity."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The preservation of the soul through the 'hiding place' of Christ amidst global destruction.",
+      "subject": "The Hearer",
+      "object": "Safety/Shelter",
+      "verhouding_tot_primair": "SIMULTANEOUS",
+      "toelichting_verhouding": "The ethical choice of 'selling' the soul to God provides the therapeutic benefit of safety from the 'tempest'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Jesus → Eternal Life → The Hearer",
+      "helper_subject_tegenstander": "The Bible → The Hearer ← The World/Materialism",
+      "subject_naar_object": "The Hearer → Proper Valuation of the Soul"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God has fixed you",
+        "God has dealt with us",
+        "the spirit of God dwelleth in you"
+      ],
+      "voorbeelden_mens_subject": [
+        "each of us had better hear",
+        "some of us are selling our souls",
+        "We may attempt to stand",
+        "What shall a man give"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "each of us had better hear",
+          "it is this truth we must take into account",
+          "I must be honest"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "The matter is... by whom or what [the soul is claimed]",
+          "We are negotiable",
+          "instinct toward righteousness"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "In order to find out... we ought to examine",
+          "Have you ever considered",
+          "Know ye not"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "No one can assume neutrality",
+          "nothing... which money cannot buy"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It focuses on awakening the hearer's desire (Vouloir) and sense of obligation (Devoir) by appealing to their knowledge (Savoir) of their own worth."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Eternal Integrity (Soul)",
+      "s2": "Perishing World (Commodity)",
+      "niet_s1": "Selling Out (Loss of Self)",
+      "niet_s2": "Neutrality (Impossible state)"
+    },
+    "beweging_in_preek": "Moves from the horror of being a 'commodity' (~S1) to the impossibility of 'neutrality' (~S2), urging a move toward 'Eternal Integrity' (S1).",
+    "theologische_resolutie": "The tension is resolved by the hearer making a better 'deal' with God than with the world.",
+    "ernst_van_s2": "S2 is depicted as 'ugly' and 'doomed', but primarily as a bad financial/existential investment."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses high Christological language at the end, the actantial structure is anthropocentric. The human is the Subject who must decide the price of their soul. God is the 'hiding place' (Helper) or the 'Owner' (Object), but not the primary Actor of the salvation event.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Subjectivity",
+        "tekstueel_bewijs": "Now every person is for sale. It is a matter of for what or how much. We are negotiable.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "I know of no shelter except Jesus Christ. He is the only hiding place...",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Imago Dei Affirmation",
+        "tekstueel_bewijs": "Each of us is made in the image of God",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Charlemagne is used as the model of the 'wise' subject who points to the right values.",
+      "bijbelse_figuren_als_model": [
+        "Charlemagne (Historical)",
+        "The 'Man' in the parable"
+      ],
+      "alternatieve_lezing": "God is the Merchant who sells all He has (Christ) to buy the pearl of great price (the human soul)."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to make the right choice; existential anxiety regarding the 'price' of one's life.",
+      "theologische_implicatie": "Salvation is a transaction managed by the human subject."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is coherent in its call to action, but the transition from 'valuing the soul' to 'Jesus as shelter' is abrupt and instrumental.",
+      "spanning_punten": [
+        "The soul is 'essential integrity' yet 'for sale'.",
+        "The soul is 'eternal' yet can be 'lost' through a bad bargain."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Hear the word of Jesus as he asks...",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is described as 'dwelling' but functions as a latent 'instinct' rather than a transformative agent."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'selling too cheaply'—a failure of valuation rather than a state of death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man (by choosing the right shelter)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'wisdom' discourse where the hearer is the primary agent. God is the passive prize or the safety zone.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the one 'selling' or 'giving' the soul.",
+      "voorgestelde_herpositionering": "God is the one who has already 'bought' the soul at the price of Christ.",
+      "voorbeeld_revisie": "Instead of 'What shall a man give in exchange for his soul?', use 'See what God has given to ransom your soul.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the Merchant.",
+      "voorgestelde_identificatie": "Hearer as the Slave on the auction block who is redeemed by a Kinsman-Redeemer.",
+      "strategie": "Use the slavery imagery not just as a foil for integrity, but as a metaphor for the human condition under sin."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir/Vouloir (You must/You should want).",
+      "voorgestelde_balans": "Pouvoir (God enables).",
+      "concrete_suggestie": "Focus on how Christ's death provides the 'Pouvoir' to live for God, which the hearer lacks."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "The opponent is 'cheap prizes'.",
+      "voorgestelde_intensivering": "The opponent is the 'clutch of death' and 'sin' which man cannot escape by a better bargain.",
+      "theologische_rationale": "If the opponent is just 'bad taste' in prizes, grace is not necessary, only better education."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (valuing the soul) precedes Soteriology (Jesus as shelter).",
+      "voorgestelde_structuur": "Soteriology (God values you) → Ethics (Therefore, do not sell yourself to the world)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has a powerful rhetorical grip and high regard for human dignity, but it risks leaving the hearer as the savior of their own soul."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is brilliant and persuasive; actantially, it is a legalistic 'deal'.",
+    "verschil_met_exegese": "Exegesis of Mt 16:26 often ignores that Jesus is the one going to the Cross in the context; the sermon follows this omission.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'Jesus' in this sermon is a 'Helper' actant rather than the 'Subject' of the salvation narrative."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Man (gains/loses)",
+      "We (expect/are dismayed)",
+      "Charlemagne (reigned/left)",
+      "God (has fixed/has dealt)",
+      "Jesus (asks)"
+    ],
+    "volledige_object_lijst": [
+      "The whole world",
+      "The soul",
+      "Integrity",
+      "Shelter"
+    ],
+    "werkwoord_frequentie": {
+      "sell": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "save/shelter": {
+        "count": "2",
+        "primair_subject": "God/Jesus"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Value' of the soul (Object) to motivate the Subject (Hearer), creating a 'Commercial' soteriology."
+  }
+}

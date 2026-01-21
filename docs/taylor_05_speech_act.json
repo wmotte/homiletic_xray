@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "titel_preek": "Behind The Cloud",
+    "bijbeltekst": "Psalm 97:2",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the tension between the hiddenness of God (clouds/darkness) and the underlying moral order of God's reign (righteousness/justice). It uses nature, historical evil (Holocaust), and personal experience as loci for this tension.",
+      "exegetische_kwaliteit": "Moderate. The preacher stays close to the imagery of the Psalm but uses it more as a thematic springboard for philosophical reflection than a rigorous textual exposition.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily describing the human condition and the character of God from a distance. The preacher acts as a 'fellow searcher' or 'observer' rather than a 'herald' of a present event.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "The psalmist says that one of the first things we need to recognize is...",
+        "I think I see some broken evidences of a plan.",
+        "The sheer greatness of God reflected in the works of his hands is too much for us to understand."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To provide intellectual comfort and a sense of perspective amidst suffering; to encourage a 'holding on' to faith.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the word; the focus is on human perception and 'sober reflection'.",
+      "perlocutionaire_werkwoorden": [
+        "ponder",
+        "recognize",
+        "hold on",
+        "see",
+        "know"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "75%",
+      "voorbeelden": [
+        "Clouds and darkness are round about him.",
+        "There is in most of us an insatiable desire to want to know.",
+        "The Hebrews spoke in the Bible in such huge terms."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "are",
+        "says",
+        "think",
+        "see"
+      ]
+    },
+    "directieven": {
+      "frequentie": 8,
+      "procent": "5%",
+      "voorbeelden": [
+        "Hold on now.",
+        "Ask yourself.",
+        "Describe her for me."
+      ],
+      "dominante_werkwoorden": [
+        "hold",
+        "ask",
+        "look"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 15,
+      "procent": "10%",
+      "voorbeelden": [
+        "I, for one, am impatient with the fact that evil is so often in the saddle.",
+        "I confess that I do not follow clearly the reason.",
+        "Faithful and unchanging Father, we walk often with thy face hidden."
+      ],
+      "dominante_werkwoorden": [
+        "confess",
+        "am",
+        "cry out"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 2,
+      "procent": "2%",
+      "voorbeelden": [
+        "grant that we may have moments when the veil does lift (in prayer)"
+      ],
+      "dominante_werkwoorden": [
+        "grant"
+      ],
+      "kwaliteit": "Weak. The promises are framed as possibilities or observations of general patterns rather than God binding Himself to the hearer now."
+    },
+    "declaratieven": {
+      "frequentie": 1,
+      "procent": "1%",
+      "voorbeelden": [
+        "Forgive us our failure (in prayer)"
+      ],
+      "dominante_werkwoorden": [
+        "forgive"
+      ],
+      "autoriteit": "Low. The declarative power is confined to the opening prayer; the sermon body lacks 'I pronounce' or 'Thus says the Lord' authority."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Heavy use of 'I think I see'",
+        "Third-person descriptions of Israel's faith",
+        "Philosophical 'we' instead of direct 'you'"
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of the preacher's observations about God, rather than an object of God's address."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Direct promise (Toezegging)",
+        "Absolution",
+        "Divine command"
+      ],
+      "effect_op_hoorder": "Information about God's justice is provided, but God's justice is not 'done' to the hearer."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent in the body of the sermon.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 45,
+        "gebruik": "Used to share the preacher's own doubts and observations ('I think', 'I see')."
+      },
+      "tweede_persoon": {
+        "frequentie": 5,
+        "gebruik": "Very sparse. Used mostly in the final sentence and a hypothetical novel quote.",
+        "performatieve_context": "Weak; used for general inclusion ('You and I live')."
+      },
+      "derde_persoon": {
+        "frequentie": 120,
+        "gebruik": "Dominant. Talking about 'the psalmist', 'the Hebrews', 'God', 'those about us'.",
+        "distantie_effect": "High. It creates a lecture-like atmosphere where God is an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and historical examples (Hitler, Schweitzer)."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about nature and human psychology."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Limited to the preacher's current thoughts."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (God is mysterious) -> Assertive (I see evidence of a plan) -> Weak Directive (Live in confidence).",
+      "voorbeelden": [
+        "Righteousness and justice are the habitation of his throne. You and I live our days in that confidence."
+      ],
+      "probleem": "There is no 'bridge' of a promise or declaration. The confidence is a logical conclusion, not a gift bestowed."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Commissive/Declarative core.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The sermon ends on a 'confidence' that hasn't been performatively given, only described."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a theological essay on theodicy. It talks *about* the mystery of God but does not facilitate an *encounter* with God.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "Locutie",
+        "tekstueel_bewijs": "The analysis of the Holocaust and historical evil.",
+        "effect": "Creates intellectual resonance and honesty."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Commissieven",
+        "tekstueel_bewijs": "I think I see some broken evidences of a plan.",
+        "probleem": "Tentative language ('I think') undermines the authority of the proclamation.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a reflection on an event (the Psalm), but not an event in itself. The 'Word' does not 'happen' to the hearer.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that characterizes the sermon as a means of grace."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject being discussed, not the speaker.",
+      "prediker_als_mandataris": "Weak. The preacher speaks as an observer/thinker, not as an ambassador.",
+      "tekstueel_bewijs": [
+        "I, for one, am impatient..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is sought through 'sober reflection' rather than the Spirit's work through the Word.",
+      "tekstueel_bewijs": [
+        "sober reflection will say to us"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a medium of information/encouragement.",
+      "epifanisch_taalgebruik": "Low. The language is descriptive and tentative.",
+      "tekstueel_bewijs": [
+        "I think I see some broken evidences"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is drowning in 'is' and 'are' (Assertives). It needs a radical shift toward 'I promise' and 'God declares' (Commissives/Declaratives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Righteousness and justice are the habitations of his throne.",
+          "voorgestelde_revisie": "Hear the Word of the Lord: Though you walk in darkness, God establishes His justice for you this day.",
+          "verschil": "Moves from a general fact to a direct address/event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The preacher only 'thinks' he sees a plan.",
+      "suggestie": "Use the indicative of the Gospel to promise God's presence.",
+      "voorbeeldzinnen": [
+        "In your darkness, Christ is the light that the darkness cannot overcome."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Address the congregation directly with the promises of the text.",
+      "voorbeeldzinnen": [
+        "You may feel the clouds are thick, but God's righteousness is your foundation."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'confidence' at the end is not grounded in a performative word.",
+      "suggestie": "Declare God's victory first, then call for confidence."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is a beautiful piece of literature and reflection, but it lacks the 'sacramental bite' of a performative act. Shift from 'talking about' God to 'speaking for' God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of doubt. SAT reveals that this self-revelation actually weakens the illocutionary force of the divine promise.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is strong (good metaphors). Homiletically (SAT), it is weak because it fails to 'do' what it 'says'.",
+    "unieke_inzichten_SAT": "SAT identifies that the preacher's tentative 'I think' functions as a 'felicity failure'—it prevents the sermon from becoming a divine promise."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "are",
+        "says",
+        "declare",
+        "think",
+        "see",
+        "know",
+        "read",
+        "complain",
+        "mean"
+      ],
+      "directief": [
+        "hold",
+        "ask",
+        "look",
+        "describe"
+      ],
+      "expressief": [
+        "confess",
+        "cry out",
+        "am impatient",
+        "thank"
+      ],
+      "commissief": [
+        "grant"
+      ],
+      "declaratief": [
+        "forgive"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "I think I see some broken evidences of a plan.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Weak/Tentative",
+        "effectiviteit": "Low; creates subjective distance."
+      },
+      {
+        "zin": "Righteousness and justice are the habitations of his throne.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Strong description",
+        "effectiviteit": "High as information, low as event."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher's own journey of discovery replaces the authoritative proclamation of the Word."
+  }
+}

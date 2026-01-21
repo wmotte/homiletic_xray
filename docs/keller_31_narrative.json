@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "David’s Mercy",
+    "bijbeltekst": "1 Samuel 26",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "2850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from a state of vengeance/self-assertion to a state of Christ-like forgiveness and sacrificial love for the neighbor/enemy.",
+      "subject": {
+        "identificatie": "The Hearer (as a potential 'True David')",
+        "tekstueel_bewijs": [
+          "What I’m going to do is... see what it tells us about loving a neighbor",
+          "You, too, are surrounded by people... you must treat them as God treats them",
+          "How are we doing? Here we learn something about what it means to love our neighbor"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The Power to Forgive/Love the Enemy",
+        "tekstueel_bewijs": [
+          "where you get the power for all of that",
+          "the joy and the liberation of living not for ourselves but for God"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Gospel/The Example of Christ",
+        "tekstueel_bewijs": [
+          "The gospel comes to you and says you have all of the seeds of the worst sins",
+          "Scripture teaches we are not to consider what they merit"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Neighbor/Enemy (and the Hearer's own soul)",
+        "tekstueel_bewijs": [
+          "give that person the treatment God deserves",
+          "you need it desperately [forgiveness]"
+        ],
+        "positie_hoorder": "The hearer is primarily positioned as the Subject who must execute the mandate of love."
+      },
+      "helper": {
+        "identificatie": "The 'Ultimate Anointed One' (Jesus) and the Holy Spirit's humility",
+        "tekstueel_bewijs": [
+          "if you see him doing that for you, that will enable you to do all of the love",
+          "it gives you the humility you need to forgive"
+        ],
+        "rol_van_god": "God is primarily the Helper/Model who provides the 'power' for the human Subject to act.",
+        "rol_van_geest": "External help through the 'emotional wealth' of the Gospel."
+      },
+      "tegenstander": {
+        "identificatie": "The Culture of Self-Assertion / The 'Saul' within (Self-Righteousness)",
+        "tekstueel_bewijs": [
+          "our culture is a culture of self-assertion",
+          "you can never forgive somebody you feel superior to"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is framed as a cultural 'vortex of evil' and an internal ontological pride that prevents the Subject from acting."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The Soteriological Program: Jesus (S) saves the Sinner (O) from Sin/Judgment (Opponent).",
+      "subject": "Jesus Christ",
+      "object": "The Sinner/Hearer",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The preacher explicitly states that the primary program (Ethics) is impossible without the secondary program (Soteriology) providing the 'power'."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Gospel → Power to Love → Neighbor/Enemy",
+      "helper_subject_tegenstander": "Jesus' Example → Hearer ← Self-Assertion",
+      "subject_naar_object": "Hearer → Forgiveness/Self-Renunciation"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "88",
+      "ratio": "0.47",
+      "voorbeelden_god_subject": [
+        "God has delivered your enemy into your hands",
+        "the Lord had put them into a deep sleep",
+        "Jesus paid that infinite price"
+      ],
+      "voorbeelden_mens_subject": [
+        "We’re going through the books of 1 Samuel",
+        "You must never try to give people what they deserve",
+        "You have to refrain from punishing that person"
+      ],
+      "rutledge_score": "6"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "we must treat them as God treats them",
+          "you have to forgive",
+          "we are supposed to love them"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "not the slightest desire to make them feel bad",
+          "learning to love God’s anointed"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "what it means to love people",
+          "here we learn something about what it means"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "where you get the power for all of that",
+          "that will enable you to do all of the love",
+          "you will not be able to forgive"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Ability' (Pouvoir). It assumes the hearer knows they 'Must' (Devoir) but lacks the 'Power' (Pouvoir), which is then supplied by the Gospel."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Self-Renunciation (Grace)",
+      "s2": "Vengeance (Judgment)",
+      "niet_s1": "Self-Assertion (Legalism of the Self)",
+      "niet_s2": "Passive Boiling (Impunity/Resentment)"
+    },
+    "beweging_in_preek": "Moves from S2 (Saul's desire to kill) through ~S2 (passive boiling) to S1 (David/Jesus' self-renunciation).",
+    "theologische_resolutie": "Resolution is found in Christ (S1) who absorbs the debt of S2.",
+    "ernst_van_s2": "High; sin is described as a 'vortex of evil' and 'horror and corruption'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the sermon is highly imperative (telling the hearer what to do), it consistently grounds the 'ability' to do so in the finished work of Christ, making God the ultimate source of the necessary modal competence.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Imperative-driven structure",
+        "tekstueel_bewijs": "Think about right now. Is there any neighbor I’m failing to love... Then use this and go do it.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-Switch (Christ as the True David)",
+        "tekstueel_bewijs": "Jesus Christ lost his life in order to forgive us and reclaim us.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Grace as the source of competence",
+        "tekstueel_bewijs": "Unless you have that emotional wealth... you will not be able to forgive.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "David is used as a model, but the model is immediately transcended by Christ, who is the 'True Anointed One'.",
+      "bijbelse_figuren_als_model": [
+        "David"
+      ],
+      "alternatieve_lezing": "The sermon provides this: David is not just a hero to follow, but a signpost to the Savior who did what David could only shadow."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and empowerment through humility.",
+      "theologische_implicatie": "Ethics is a fruit of justification, not a prerequisite."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the story of David to the work of Christ is seamless and logically necessary for the sermon's ethical demands.",
+      "spanning_punten": [
+        "The tension between 'forgiving' and 'confronting' is resolved through the concept of 'aggressive love'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Jesus paid that infinite price... you're paying the debt rather than having the other person pay.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Gospel provides 'emotional wealth' and 'humility' which function as the Spirit's endowment of power."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Severe; sin is a 'nightmare' and 'corruption' that requires an infinite price."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully moves from a human Subject (David/Hearer) to the Divine Subject (Christ) to provide the necessary competence for the ethical mandate.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "The hearer might still feel they are the 'Hero' of the forgiveness story.",
+      "voorgestelde_identificatie": "The 'Saul' who is forgiven.",
+      "strategie": "Spend more time on the hearer's identification with Saul's foolishness before moving to David's mercy."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly heavy on Devoir (Must) in the first half.",
+      "voorgestelde_balans": "Introduce the 'Pouvoir' (Power) earlier in the sermon.",
+      "concrete_suggestie": "Mention Christ's enabling grace during the first point about neighbors."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Strongly defined as the 'Culture of Self-Assertion'.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (already well-maintained)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in moving from narrative example to Christological foundation without losing the ethical edge."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the use of quotes (Calvin, Lewis); semiotics reveals that these quotes function as 'Senders' of a new value system.",
+    "verschil_met_exegese": "Exegesis explains what David did; semiotics explains how David functions as a 'Helper' or 'Subject' in the hearer's own narrative world.",
+    "unieke_inzichten_greimas": "Reveals that the 'Power' (Pouvoir) is the central missing actant that only the Gospel-as-Helper can provide."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "David (spared)",
+      "Jesus (paid)",
+      "You (must love)",
+      "Culture (asserts)"
+    ],
+    "volledige_object_lijst": [
+      "Mercy",
+      "The Spear (Proof)",
+      "The Neighbor's Glory",
+      "Forgiveness"
+    ],
+    "werkwoord_frequentie": {
+      "forgive": {
+        "count": "28",
+        "primair_subject": "Man (as enabled by God)"
+      },
+      "love": {
+        "count": "35",
+        "primair_subject": "Man"
+      },
+      "paid": {
+        "count": "6",
+        "primair_subject": "God/Jesus"
+      }
+    },
+    "notities": "The sermon uses a 'Subject-Switch' halfway through to move from David to Jesus, which is the key to its grace-orientation."
+  }
+}

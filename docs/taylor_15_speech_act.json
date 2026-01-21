@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "titel_preek": "Eden Beyond Innocence",
+    "bijbeltekst": "Genesis 2:8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A narrative retelling of the Fall in Eden, transitioning into a cultural critique of American nostalgia, and concluding with a vision of a future 'New Eden' found in Christ.",
+      "exegetische_kwaliteit": "Moderate. The sermon uses the text as a springboard for a 'mood' or 'notion' rather than a rigorous grammatical-historical exegesis. It relies heavily on poetic imagery and literary allusion (Francis Thompson, Andrew Maclaren).",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily describes a human condition (nostalgia/loss) and points toward a future possibility. The force is largely descriptive and suggestive rather than authoritative or declarative.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "There lingers on the edge of human memory a mood...",
+        "Eden was an ineffably beautiful place.",
+        "I would point out that Eden is not the last garden..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from nostalgia/despair to a sense of hope and 'adequacy' for the future.",
+      "pneumatologisch_bewustzijn": "Low. The sermon focuses on the 'power of Christ' and 'faith' as human capacities or external aids, but lacks explicit invocation of the Spirit's current agency.",
+      "perlocutionaire_werkwoorden": [
+        "hope",
+        "accept",
+        "look ahead",
+        "believe"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "Eden was an ineffably beautiful place.",
+        "The past is a closed garden.",
+        "This country is no longer primarily a nation of the countryside."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "tells",
+        "speaks",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "6%",
+      "voorbeelden": [
+        "So don't look back.",
+        "Look ahead!",
+        "Woe to us if we fail him."
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "remind",
+        "fail"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "18",
+      "procent": "9%",
+      "voorbeelden": [
+        "The profoundly moving account...",
+        "Ah, no, this old account speaks a deep and persuasive truth."
+      ],
+      "dominante_werkwoorden": [
+        "long",
+        "crave",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "The Lord will make us sufficient unto whatever we must face."
+      ],
+      "dominante_werkwoorden": [
+        "will make"
+      ],
+      "kwaliteit": "Weak. The promises are framed as general theological truths (Assertives) rather than God binding Himself to the hearer in the moment."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Absent. The preacher does not speak 'in persona Christi' to change the hearer's status (e.g., 'Your sins are forgiven')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive third-person descriptions of Eden.",
+        "Historical analysis of American sociology.",
+        "Talking 'about' the New Eden as a concept rather than opening its gates."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a beautiful poetic idea rather than a participant in a divine event."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise (Toezegging)",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Inspiration without transformation; the 'event' is replaced by an 'explanation'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "N/A",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Mostly 'we' (inclusive of preacher and audience) or 'I' as a guide ('I would point out')."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Limited. Used mostly in the final exhortation ('You and I') or hypothetical husband/wife examples.",
+        "performatieve_context": "Low. Used for moral encouragement, not for bestowing grace."
+      },
+      "derde_persoon": {
+        "frequentie": "120",
+        "gebruik": "Dominant. Talking about Adam, Eve, America, and 'the man of faith'.",
+        "distantie_effect": "High. It treats the Gospel as a narrative to be observed."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Retelling Genesis and American history."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about 'life' and 'beauty'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final 'Look ahead' call."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of Eden/Fall) -> Assertive (Description of New Eden) -> Directive (Look ahead).",
+      "voorbeelden": [
+        "The last Eden is seen by those who have faith... So don't look back. Look ahead!"
+      ],
+      "probleem": "The imperative ('Look ahead') is not preceded by a performative act of God that enables the looking."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "We can go on to that Eden... So don't look back."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a poetic lecture. It provides a beautiful 'map' of the biblical narrative but fails to 'transport' the hearer into the reality it describes.",
+    "sterke_punten": [
+      {
+        "aspect": "Imagery",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Brooks sang soft songs which charmed the mind...",
+        "effect": "Creates a vivid mental world."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "There lingers on the edge of human memory...",
+        "probleem": "Abstract opening prevents immediate encounter.",
+        "ernst": "MODERATE"
+      },
+      {
+        "aspect": "Missing Commissive",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The Lord will make us sufficient...",
+        "probleem": "Stated as a fact about God, not a promise from God.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a 'talk about' a potential event, rather than the event itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'Creative Word' (Declarative) that changes the hearer's reality."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of description, not the subject of the speech act.",
+      "prediker_als_mandataris": "No. The preacher speaks as a poet/philosopher.",
+      "tekstueel_bewijs": [
+        "I would point out...",
+        "As the ancient account runs..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly relies on the hearer's 'faith' and 'mature wisdom' rather than the Spirit's work.",
+      "tekstueel_bewijs": [
+        "It is founded upon mature wisdom..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a means of inspiration/information.",
+      "epifanisch_taalgebruik": "Low. The language is 'about' the epiphany of the New Eden, but doesn't manifest it.",
+      "tekstueel_bewijs": [
+        "On ahead the gates of another Eden swing wide."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from past-tense 'was' and third-person 'it' to present-tense 'is' and second-person 'you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The Lord will make us sufficient.",
+          "voorgestelde_revisie": "The Lord makes you sufficient this very moment.",
+          "verschil": "Shifts from a future possibility to a present reality."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace of Christ is described as a 'bright presence' but never specifically applied to the hearer's sin or need.",
+      "suggestie": "Insert a direct promise of Christ's adequacy for the hearer's specific 'brambles and briars'.",
+      "voorbeeldzinnen": [
+        "Christ promises you today that His grace is your new Eden."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they'.",
+      "suggestie": "Address the 'you' who feels the loss of innocence.",
+      "voorbeeldzinnen": [
+        "You cannot go back, but Christ meets you here."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'Look ahead' command is a heavy lift without the 'I have opened the gate' declaration.",
+      "suggestie": "Declare the gate open before commanding the look."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and poetically rich, but it remains a 'constative surplus'. By moving from 'talking about Eden' to 'opening Eden' through commissive and declarative speech, the preacher can turn this lecture into a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'. SAT reveals that the sermon fails not because of the preacher's personality, but because the words lack the illocutionary force of a divine mandate.",
+    "verschil_met_retoriek": "Rhetorically, this is excellent (alliteration, metaphors). Homiletically (SAT), it is weak because it does not 'do' what it 'says'.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'New Eden' remains a distant concept because the preacher uses Assertives instead of Declaratives to bring it into the room."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "lingers",
+        "tells",
+        "dwelt",
+        "produced",
+        "walked",
+        "speaks",
+        "happened",
+        "betrays"
+      ],
+      "directief": [
+        "remind",
+        "look",
+        "fail"
+      ],
+      "expressief": [
+        "long",
+        "crave",
+        "thank"
+      ],
+      "commissief": [
+        "will make"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Eden was an ineffably beautiful place.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Descriptive",
+        "effectiviteit": "Good for atmosphere, zero for encounter."
+      },
+      {
+        "zin": "So don't look back. Look ahead!",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Exhortative",
+        "effectiviteit": "Weak; lacks the performative ground of grace."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Preaching as Art' rather than 'Preaching as Act'."
+  }
+}

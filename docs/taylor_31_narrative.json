@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "titel_preek": "A Strange Question In A Cemetery",
+    "bijbeltekst": "John 20:15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The movement from the hopelessness of death and the 'stubborn love' of man to the encounter with the living Christ who transforms the cemetery from a place of finality to a place of hope.",
+      "subject": {
+        "identificatie": "Jesus (The Risen Christ)",
+        "tekstueel_bewijs": [
+          "Jesus was there in the cemetery and alive",
+          "Jesus has been here now",
+          "Jesus saith unto her, Woman, why weepest thou?"
+        ],
+        "frequentie_score": 7
+      },
+      "object": {
+        "identificatie": "The transformation of human sorrow/death into hope/life",
+        "tekstueel_bewijs": [
+          "the mighty anthems of hope are loosed",
+          "we shall meet again where the load has lifted"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God / The Resurrection Reality",
+        "tekstueel_bewijs": [
+          "Faith declares that question to be not so strange"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Mary Magdalene / The Hearer / Humanity",
+        "tekstueel_bewijs": [
+          "It made a difference... to her",
+          "we can raise up our bowed-down heads"
+        ],
+        "positie_hoorder": "Receiver"
+      },
+      "helper": {
+        "identificatie": "Human Love (Stubborn/Persistent)",
+        "tekstueel_bewijs": [
+          "Love woke her up, pushed her out of her home, and drove her to the cemetery."
+        ],
+        "rol_van_god": "Subject",
+        "rol_van_geest": "External help (Love as a human quality that persists until God acts)"
+      },
+      "tegenstander": {
+        "identificatie": "Death and Sin (The Grave)",
+        "tekstueel_bewijs": [
+          "cruel time",
+          "the powers of darkness",
+          "the chill clutch of death"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Death is presented as an absolute 'unmelting winter' that human effort cannot overcome."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Human love attempting to bridge the gap of death through memory and presence.",
+      "subject": "Mary / The Grieving Mother / The Hearer",
+      "object": "Connection with the deceased / Persistence of love",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Human love (Secondary) reaches its limit at the grave; the Primary Program (Christ's action) takes over where human love fails."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Resurrection Hope → The Grieving Hearer",
+      "helper_subject_tegenstander": "Stubborn Love → Jesus ← Death/Sin",
+      "subject_naar_object": "Jesus → Victory over the Grave"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 22,
+      "mens_als_subject_count": 45,
+      "ratio": "0.48",
+      "voorbeelden_god_subject": [
+        "Jesus was there",
+        "Jesus has been here now",
+        "Jesus saith unto her"
+      ],
+      "voorbeelden_mens_subject": [
+        "Mary... got up early",
+        "We seem never to escape",
+        "I stood not too long ago with a man"
+      ],
+      "rutledge_score": 6
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 2,
+        "voorbeelden": [
+          "we must weep as those who have hope"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "Love... drove her to the cemetery",
+          "she simply wanted to be there"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Faith declares that question to be not so strange"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "I can't do anything for her",
+          "Jesus... made a difference",
+          "we can believe"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the transition from human 'non-pouvoir' (inability to stop death) to divine 'pouvoir' (Christ's power to live)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Life/Resurrection",
+      "s2": "Death/Cemetery",
+      "niet_s1": "Despair/Bloody Nightmare",
+      "niet_s2": "Stubborn Love/The 'Maybe'"
+    },
+    "beweging_in_preek": "S2 (The Grave) → ~S2 (Stubborn Love/Mary) → ~S1 (Despair of Friday) → S1 (The Risen Jesus)",
+    "theologische_resolutie": "The tension is resolved by the presence of the Person of Jesus, who occupies the S1 position and speaks into the S2 space.",
+    "ernst_van_s2": "Very high; death is described in visceral, final terms."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While there is much talk of human 'stubborn love,' it is explicitly labeled as 'sad, defeated, and desolate' without the action of Christ. Christ is the one who changes the reality.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus on human persistence",
+        "tekstueel_bewijs": "Love is perhaps the most persistent thing on earth.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Human inability (Non-Pouvoir)",
+        "tekstueel_bewijs": "I can't do anything for her.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "God as the active Subject of the turn",
+        "tekstueel_bewijs": "Jesus was there and alive, and this made that cemetery so very different.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Mary is not an example of how to save oneself, but an example of the limit of human love meeting divine grace.",
+      "bijbelse_figuren_als_model": [
+        "Mary Magdalene"
+      ],
+      "alternatieve_lezing": "Theocentric: God meets Mary in her helplessness."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope in the face of inevitable loss.",
+      "theologische_implicatie": "Soteriology is monergistic; only Christ can speak the word that ends the weeping."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The sermon moves logically from the problem (Death) to the human attempt (Love) to the divine solution (Resurrection).",
+      "spanning_punten": [
+        "The praise of 'stubborn love' almost borders on making love the savior, but the preacher corrects this by calling it 'defeated' if death is final."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Jesus has been here now... life is ever lord of death.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon focuses on the objective work of Christ rather than the internal work of the Spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is a 'withering blight' and a 'grim and losing battle'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon is structurally sound as a grace-oriented narrative. It correctly identifies the Opponent (Death) as too strong for the Subject (Man), necessitating a new Subject (Christ).",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer might identify too much with the 'stubbornness' of love as a virtue.",
+      "voorgestelde_identificatie": "The hearer as the one who is 'dead' or 'silenced' like the Prince of Glory was.",
+      "strategie": "Emphasize that even our love is 'frozen in the chill clutch of death' until Christ speaks."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "High Vouloir (Human Desire)",
+      "voorgestelde_balans": "More Pouvoir (Divine Power)",
+      "concrete_suggestie": "Expand on how Christ's resurrection actually breaks the 'powers of darkness' mentioned in paragraph 3."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strong",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The preacher already treats death as a cosmic enemy."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ is risen) leads to Ethics (We weep as those with hope)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful example of theocentric preaching that uses human experience to highlight divine necessity."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the pathos of the hospital story; Greimas shows that story functions to establish the 'Non-Pouvoir' of the human subject.",
+    "verschil_met_exegese": "Exegesis would focus on the Greek of John 20; Greimas focuses on the functional role of the 'Cemetery' as a space of opposition.",
+    "unieke_inzichten_greimas": "Reveals that 'Love' is used as a Helper that fails, forcing the narrative to find a new Subject in Jesus."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (saith)",
+      "Hope (is)",
+      "Love (woke, pushed, drove)",
+      "Death (will enter)",
+      "I (stood)"
+    ],
+    "volledige_object_lijst": [
+      "Hope",
+      "Life",
+      "The deceased wife",
+      "The Prince of Glory"
+    ],
+    "werkwoord_frequentie": {
+      "is/was": {
+        "count": 42,
+        "primair_subject": "God/State of Being"
+      },
+      "love": {
+        "count": 15,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon relies heavily on the 'Axis of Desire' (Man wanting life) being met by the 'Axis of Transmission' (God giving life)."
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "titel_preek": "Alles, nicht weniger",
+    "bijbeltekst": "1 Korinther 13:7",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The human subject expands their personal experience of erotic love (Eros) into a universal state of being (Agape/God) to overcome social and hierarchical fragmentation.",
+      "subject": {
+        "identificatie": "The Human 'I' / The Lover",
+        "tekstueel_bewijs": [
+          "Ich habe mich kennengelernt als jemanden, der zu dem großen Alles fähig war",
+          "Wir können miteinander angstfrei werden"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "The 'Great All' (Das große Alles) / Universal Eroticization",
+        "tekstueel_bewijs": [
+          "das große Alles",
+          "Erotisierung des Ganzen"
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "Human Need / Desire for Unity",
+        "tekstueel_bewijs": [
+          "unser tiefstes Bedürfnis",
+          "Der Wunsch nach Vereinigung"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The Self and Society",
+        "tekstueel_bewijs": [
+          "den Menschen",
+          "für alle"
+        ],
+        "positie_hoorder": "The hearer identifies with the Subject (the one who must expand their love)."
+      },
+      "helper": {
+        "identificatie": "Erotic Experience / Successful Relationships",
+        "tekstueel_bewijs": [
+          "in erotischen geglückten Beziehungen",
+          "weil ihm das große Alles entgegenkam"
+        ],
+        "rol_van_god": "God is a 'vocabulary' (Vokabel) or a state of being, not an active Subject.",
+        "rol_van_geest": "Absent; replaced by erotic energy."
+      },
+      "tegenstander": {
+        "identificatie": "Church Tradition / Dualism / Patriarchy",
+        "tekstueel_bewijs": [
+          "sexistische menschenfeindliche Tradition",
+          "Männererfindungen",
+          "Trennung von Eros und Agape"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is a historical-ideological construct that prevents human flourishing."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The dismantling of social inequality through the power of love.",
+      "subject": "The one living in a successful relationship",
+      "object": "Equality / Removal of power structures",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The primary program (internal erotic expansion) enables the secondary (social justice)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Human Need → Universal Love → Humanity",
+      "helper_subject_tegenstander": "Erotic Success → Human Subject ← Church Tradition",
+      "subject_naar_object": "Human Subject → Erotization of the Whole"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "1",
+      "mens_als_subject_count": "18",
+      "ratio": "0.05",
+      "voorbeelden_god_subject": [
+        "In Gott ist genau der Zustand..."
+      ],
+      "voorbeelden_mens_subject": [
+        "Ich habe mich kennengelernt...",
+        "Wir können miteinander angstfrei werden...",
+        "Ich verstehe das Christentum als eine Anleitung..."
+      ],
+      "rutledge_score": "1"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "So soll es sein"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Wunsch nach Vereinigung",
+          "tiefstes Bedürfnis"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Anleitung, das Leben so zu leben",
+          "Ich verstehe das Christentum als..."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "zu dem großen Alles fähig war",
+          "lässt sich dieses Verhältnis... übertragen"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a recruitment of desire. It assumes that if the hearer wants unity and understands the erotic mechanism, they have the power to expand it."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Wholeness (Eros/Agape Unity)",
+      "s2": "Fragmentation (Dualism/Hierarchy)",
+      "niet_s1": "Asceticism (Enterotisierung)",
+      "niet_s2": "Equality (Abbau von Ungleichheit)"
+    },
+    "beweging_in_preek": "From S2 (Fragmentation) through ~S1 (Asceticism) to S1 (Wholeness).",
+    "theologische_resolutie": "Resolution is found in the semantic redefinition of 'God' as the state of total erotic unity.",
+    "ernst_van_s2": "S2 is seen as a historical mistake, not a cosmic or ontological condition (Sin)."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Though it uses 'erotic' language rather than 'legalistic' language, it is anthropocentric. The human is the subject of the transformation; God is merely a name for the goal.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of Faith",
+        "tekstueel_bewijs": "Ich verstehe das Christentum als eine Anleitung, das Leben so zu leben...",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Anthropocentric Subjectivity",
+        "tekstueel_bewijs": "Ich habe mich kennengelernt als jemanden, der zu dem großen Alles fähig war",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Reception of Love",
+        "tekstueel_bewijs": "weil ihm das große Alles entgegenkam",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The preacher's own erotic experience serves as the primary model for the possibility of fulfilling the biblical command.",
+      "bijbelse_figures_als_model": [
+        "Jesus (as a messenger of this idea)",
+        "Paulus (at his 'best' moments)"
+      ],
+      "alternatieve_lezing": "God is the Lover who loves the unlovable (Agape), enabling the human to love because they are first loved by an external Subject."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to 'eroticize' all of life based on personal peak experiences.",
+      "theologische_implicatie": "Salvation is self-actualization through the expansion of human eros."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "Highly coherent as a secular-humanist manifesto, but low coherence with the biblical text's own actantial structure (where Love is a gift of the Spirit).",
+      "spanning_punten": [
+        "The text says 'Love bears all', but the preacher says 'I am capable of this because of my erotic experience'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Anleitung, das Leben so zu leben...",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The erotic experience provides the competence, not the Spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is merely 'fragmentation' or 'patriarchal tradition'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (through the 'transfer' of erotic experience)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a psychological expansion of the self. The human 'I' is the Subject, Erotic Success is the Helper, and God is the Object/Value.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The preacher is the subject of the ability to love.",
+      "voorgestelde_herpositionering": "God as the Subject who loves the 'un-erotic' and the 'un-lovable'.",
+      "voorbeeld_revisie": "Not: 'I found I was capable of everything,' but: 'God's love reached me when I was capable of nothing.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as 'Heroic Lover'.",
+      "voorgestelde_identificatie": "Hearer as 'Receiver of Grace'.",
+      "strategie": "Focus on the 'unlovable' parts of the self that need to be loved by God first."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Vouloir/Pouvoir (I want/I can).",
+      "voorgestelde_balans": "Pouvoir as a gift (I can only because He does).",
+      "concrete_suggestie": "Emphasize that 1 Cor 13 is a description of Christ, not a to-do list for our erotic lives."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Opponent is just 'bad history'.",
+      "voorgestelde_intensivering": "Recognize the 'Opponent' as the radical inability of the human heart to love selflessly.",
+      "theologische_rationale": "Without a heavy opponent, grace is just a 'vocabulary' for human potential."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (how to love) has swallowed Soteriology (how we are saved).",
+      "voorgestelde_structuur": "1. God loves us (Soteriology). 2. Therefore we can love (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically beautiful and psychologically insightful, but structurally it replaces the Gospel with a 'Gospel of Eros' where the human remains the master of their own transformation."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, it is inclusive; semiotically, it is exclusive to those with 'successful erotic experiences'.",
+    "verschil_met_exegese": "Exegesis would show Paul is talking about the Body of Christ; the sermon talks about erotic couples.",
+    "unieke_inzichten_greimas": "Greimas reveals that 'God' is not an actant here, but a semantic label for a human state."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Ich (kennenlernen)",
+      "Wir (angstfrei werden)",
+      "Erotik (sich entgrenzt)",
+      "Männer (erfinden)"
+    ],
+    "volledige_object_lijst": [
+      "das große Alles",
+      "Gleichheit",
+      "Erotisierung des Ganzen"
+    ],
+    "werkwoord_frequentie": {
+      "lieben": {
+        "count": 4,
+        "primair_subject": "Man"
+      },
+      "können": {
+        "count": 3,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Expressive Individualism' cloaked in theological vocabulary."
+  }
+}

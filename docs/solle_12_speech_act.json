@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "titel_preek": "Das Land ist voll Götzen",
+    "bijbeltekst": "Jesaja 2 / Jesaja 30",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A socio-political and theological critique of modern idolatry (capitalism, militarism, consumerism) through the lens of Isaiah and Latin American liberation theology.",
+      "exegetische_kwaliteit": "Strong contextualization. The preacher bridges the 8th-century BC agrarian context with 20th-century neoliberalism, focusing on the 'logic of the idol'.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily diagnostic and descriptive (Assertive), with a late shift toward questioning and a brief final blessing.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "\"Das Werk ihrer Hände beten sie an.\"",
+        "\"Die Christen sind die, die das Gold anbeten.\"",
+        "\"Jesaja nennt vier Zeichen des Abfalls von Gott.\""
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Shame, realization of complicity, and a longing for 'emptiness' or 'stillness'.",
+      "pneumatologisch_bewustzijn": "Low. The sermon relies heavily on the power of the mirror (social analysis) rather than the invocation of the Spirit's transformative power.",
+      "perlocutionaire_werkwoorden": [
+        "erkennen",
+        "umkehren",
+        "schämen",
+        "hoffen"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "High",
+      "procent": "75%",
+      "voorbeelden": [
+        "\"Ihr Land ist voller Götzen.\"",
+        "\"Die Herkunft des Reichtums ist Ausbeutung.\"",
+        "\"Jesaja hat ein Lied geschrieben.\""
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "nennt",
+        "beschreibt",
+        "sagt"
+      ]
+    },
+    "directieven": {
+      "frequentie": "Low",
+      "procent": "5%",
+      "voorbeelden": [
+        "\"Hinaus!\" (quoted from Isaiah)",
+        "\"Wie wäre es mit Beten?\" (indirect question)"
+      ],
+      "dominante_werkwoorden": [
+        "umkehren",
+        "beten",
+        "hinauswerfen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "Moderate",
+      "procent": "10%",
+      "voorbeelden": [
+        "\"Diese Antwort hat mich beschämt und stumm gemacht.\"",
+        "\"Ich möchte hier einen anderen Zeugen sprechen lassen.\""
+      ],
+      "dominante_werkwoorden": [
+        "fühlen",
+        "wünschen",
+        "beschämen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "Very Low",
+      "procent": "2%",
+      "voorbeelden": [
+        "\"Darum harrt der Herr darauf, dass er euch gnädig sei.\""
+      ],
+      "dominante_werkwoorden": [
+        "gnädig sein",
+        "erbarmen"
+      ],
+      "kwaliteit": "The promises are mostly quoted as biblical text rather than spoken as a direct promise from the preacher to the congregation."
+    },
+    "declaratieven": {
+      "frequentie": "Low",
+      "procent": "3%",
+      "voorbeelden": [
+        "\"Gott sei mit dir, Gott sei dir Freundin.\"",
+        "\"Sie wird deine Tage hell machen.\""
+      ],
+      "dominante_werkwoorden": [
+        "sein",
+        "machen",
+        "schützen"
+      ],
+      "autoriteit": "The authority is found only in the final blessing; the rest of the sermon avoids declarative 'event' language."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive socio-economic analysis of Nicaragua and the IMF.",
+        "Long quotes from historical reports (Las Casas).",
+        "Third-person descriptions of 'the Christians' or 'the people'."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a global crisis rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise of grace",
+        "Performative call to action"
+      ],
+      "effect_op_hoorder": "Intellectual agreement or moral guilt without a sacramental 'way out'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Weakly integrated; the promise is a quote from the past rather than a present 'Toezegging'.",
+      "voorbeelden": [
+        "\"Darum harrt der Herr darauf, dass er euch gnädig sei.\""
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Used for personal reflection and 'we' identification."
+      },
+      "tweede_persoon": {
+        "frequentie": "Low",
+        "gebruik": "Direct address is rare until the very end (blessing)."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Dominates the analysis of 'the idols', 'the Christians', 'the system'.",
+        "distantie_effect": "Creates a lecture-like distance where the congregation observes 'the world'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Historical examples (Hatuey, Isaiah)."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "Describing the 'nature' of capitalism and idols."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The final blessing."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of Idols) -> Directive (Implicit: We should pray/be still).",
+      "voorbeelden": [
+        "Analysis of neoliberalism followed by 'How about praying?'"
+      ],
+      "probleem": "The 'Promise' (Commissive) is missing as the bridge between the diagnosis of sin and the call to new life."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Insufficient"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The indicative is a 'law-indicative' (you are trapped in idols) rather than a 'gospel-indicative' (Christ has freed you)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a prophetic lecture. It is high on 'Locution' (meaning/content) but low on 'Illocutionary' force that changes the status of the hearer before God.",
+    "sterke_punten": [
+      {
+        "aspect": "Diagnostic Sharpness",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "\"Die Herkunft des Reichtums ist Ausbeutung.\"",
+        "effect": "Unmasks societal sins effectively."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Performative Deficit",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "The sermon ends with questions: 'Gibt es eine Hoffnung?'",
+        "probleem": "The preacher asks if there is hope instead of proclaiming it.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a 'talking about' the crisis of faith rather than a 'happening' of faith.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'Verbum Externum' that effectively bestows what it speaks."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is mostly the object of the sermon, not the subject speaking through the preacher.",
+      "prediker_als_mandataris": "The preacher acts more as a social critic/witness than a mandatory of the Word.",
+      "tekstueel_bewijs": [
+        "\"Ich möchte hier einen anderen Zeugen sprechen lassen.\""
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly left to the hearer's reflection.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, the sermon is used as a 'mirror of realization'.",
+      "epifanisch_taalgebruik": "Low, except for the final blessing.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 3rd person descriptive verbs to 2nd person performative verbs.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "\"Gibt es eine Hoffnung für die Reichen?\"",
+          "voorgestelde_revisie": "\"Im Namen Jesu Christi verkündige ich euch: Es gibt Hoffnung, denn er bricht die Macht der Götzen in eurem Leben.\"",
+          "verschil": "Shifts from a constative question to a declarative event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is hidden in a quote from Isaiah 30.",
+      "suggestie": "Directly address the congregation with the promise of God's mercy.",
+      "voorbeeldzinnen": [
+        "\"Gott harrt darauf, DIR gnädig zu sein.\""
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' and 'one'.",
+      "suggestie": "Use 'you' (plural) to involve the congregation in the diagnostic.",
+      "voorbeeldzinnen": [
+        "\"Euer Land ist voll Götzen.\""
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The indicative is purely negative (sin).",
+      "suggestie": "Establish a positive indicative (Grace) before calling to prayer."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually and prophetically powerful, but homiletically 'stuck' in the constative. It describes the prison perfectly but forgets to turn the key in the lock."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' layer; SAT reveals that the 'Declarative' layer (the actual change of reality) is missing.",
+    "verschil_met_retoriek": "Rhetorically strong (metaphors, structure), but illocutionarily weak (lacks divine 'I-Thou' address).",
+    "unieke_inzichten_SAT": "SAT identifies that the preacher remains a 'reporter' of Isaiah's truth rather than an 'ambassador' of God's present action."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "nennt",
+        "beschreibt",
+        "erklärt",
+        "beten an",
+        "sind",
+        "haben",
+        "verlangen"
+      ],
+      "directief": [
+        "umkehren",
+        "beten",
+        "hinauswerfen"
+      ],
+      "expressief": [
+        "wünschen",
+        "fühlen",
+        "beschämen"
+      ],
+      "commissief": [
+        "gnädig sein",
+        "erbarmen"
+      ],
+      "declaratief": [
+        "hell machen",
+        "schützen",
+        "mit dir gehen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "\"Das Land ist voll Götzen.\"",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Diagnostic",
+        "effectiviteit": "High for information, low for encounter."
+      },
+      {
+        "zin": "\"Gott sei mit dir.\"",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Blessing",
+        "effectiviteit": "Strong, but disconnected from the previous 10 minutes of analysis."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Prophetic Constative Surplus'—it tells the truth about the world but fails to perform the truth of the Gospel as a present event."
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "metadata": {
+    "titel_preek": "The Burden of This People",
+    "bijbeltekst": "Numbers 11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Exegesis of Numbers 11, focusing on Israel's complaining, Moses' exhaustion, and the distribution of the Spirit to the seventy elders.",
+      "exegetische_kwaliteit": "High. The preacher provides historical context, narrative flow, and psychological depth to the characters.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily describing biblical history and drawing parallels to parish life. The force is informative and illustrative.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "Numbers is about the experiences of the children of Israel.",
+        "Moses recognized his own inadequacy.",
+        "The leader is not meant to carry the whole burden alone."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Encouragement for the new rector and congregation; awareness of human frailty; call to mutual support.",
+      "pneumatologisch_bewustzijn": "Explicitly discussed as a topic (theology of the Spirit), but less invoked as a present agent of the speech act.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "understand",
+        "anticipate",
+        "rejoice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "High",
+      "procent": "70%",
+      "voorbeelden": [
+        "The reading is from the book of Numbers.",
+        "They were sick and tired of manna.",
+        "This is a good time to remember that Israel is the predecessor of the church."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "means",
+        "shows"
+      ]
+    },
+    "directieven": {
+      "frequentie": "Low",
+      "procent": "10%",
+      "voorbeelden": [
+        "Let’s take a few minutes to explore.",
+        "Hold the Lord in awe (quoted from Joshua)."
+      ],
+      "dominante_werkwoorden": [
+        "let us",
+        "remember",
+        "choose"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "Moderate",
+      "procent": "10%",
+      "voorbeelden": [
+        "I doubt if any of us think of Moses as being meek.",
+        "Today I sense that you are all tremendously happy."
+      ],
+      "dominante_werkwoorden": [
+        "sense",
+        "doubt",
+        "hope"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "Very Low",
+      "procent": "3%",
+      "voorbeelden": [
+        "God promises to raise up others (reported speech, not direct promise)."
+      ],
+      "dominante_werkwoorden": [
+        "promises"
+      ],
+      "kwaliteit": "Weak. The promises are described as historical facts rather than being extended to the current audience in the present tense."
+    },
+    "declaratieven": {
+      "frequentie": "Minimal",
+      "procent": "2%",
+      "voorbeelden": [
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "praise"
+      ],
+      "autoriteit": "The preacher speaks as an observer/teacher rather than a mandatory of a reality-changing word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of third-person narrative ('They did...', 'Moses heard...')",
+        "Theological lecturing ('What we really have here is a description...')",
+        "Historical distance ('Numbers is about...')"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a biblical drama rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct impartation of the Spirit",
+        "Present-tense divine promises"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without existential impact."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "The sermon talks *about* God's promises to Moses, but does not *proclaim* a promise to the congregation.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Used to establish rapport ('Let us explore') and personal observation ('I sense')."
+      },
+      "tweede_persoon": {
+        "frequentie": "Low",
+        "gebruik": "Used mainly in the conclusion to apply the lesson ('It will be clear to all of you').",
+        "performatieve_context": "Weak; mostly used for application rather than proclamation."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Dominates the narrative about Israel and Moses.",
+        "distantie_effect": "Creates a 'lesson-learned' atmosphere rather than an 'event' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Recounting the story of Numbers."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Generalizing the human condition and church behavior."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Referring to the institution service later that day."
+      }
+    },
+    "adressering_effectiviteit": "5"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (History of Israel) -> Assertive (General truth about human nature) -> Directive (Pledge yourselves).",
+      "voorbeelden": [
+        "Israel complained... we are like Israel... so pledge yourselves to serve the Lord."
+      ],
+      "probleem": "The 'Toezegging' (Promise) is missing as the bridge. The move to commitment is based on human effort/will rather than a declarative act of God."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The greatest thing that you can do... is to pledge yourselves."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_to_elichting": "The sermon functions as a biblical-theological lecture. It provides excellent insight into the text but remains at a distance from the hearer's immediate reality as a sacramental event.",
+    "sterke_punten": [
+      {
+        "aspect": "Exegesis",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The description of Moses' 'long and exhausting day'.",
+        "effect": "Makes the biblical text relatable and vivid."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Performative Force",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "God promises to raise up others.",
+        "probleem": "It describes a promise instead of being the vehicle of the promise.",
+        "ernst": "High"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a 'talk about' God's word rather than God speaking through the preacher.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'hoc est' (this is) quality of sacramental language."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is a character in the story, not the active speaker in the pulpit.",
+      "prediker_als_mandataris": "Preacher acts as an interpreter/teacher, not a herald.",
+      "tekstueel_bewijs": [
+        "Let’s explore what the Word of God might be."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as a theme in the text.",
+      "perlocutie_theologie": "Implicitly left to the hearer's response.",
+      "tekstueel_bewijs": [
+        "Without God’s Spirit, there can be no real spiritual leadership."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Not evident; the sermon is a preparation for a service, not the means of grace itself.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "It will be clear to all of you by now..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from past-tense descriptions of Moses to present-tense declarations to the congregation.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God promises to raise up others.",
+          "voorgestelde_revisie": "Today, God promises you: I will not leave you to bear this burden alone; I am pouring my Spirit upon you now.",
+          "verschil": "Moves from a report to a Commissive act."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Grace is described as a historical provision for Israel.",
+      "suggestie": "Incorporate a direct promise of the Spirit's presence for the specific parish's future.",
+      "voorbeeldzinnen": [
+        "The same Spirit that fell on the seventy is given to you this morning."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' and 'he' (Moses/Israel).",
+      "suggestie": "Use 'You' to bridge the gap between the wilderness and the parish.",
+      "voorbeeldzinnen": [
+        "You are that people; and to you, God says..."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to 'pledge yourselves' feels like a heavy directive without a preceding declarative of grace.",
+      "suggestie": "Declare God's faithfulness first, then invite the response."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is homiletically sound and exegetically rich, but it requires a shift in illocutionary force to move from a lecture to a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' (Directive) and 'self-revelation' of the preacher. SAT reveals that the 'appeal' lacks a 'Declarative' foundation.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (vivid imagery). SAT shows that despite good rhetoric, the illocutionary force remains stuck in Assertives.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'event' is missing because the preacher is 'talking about' the Spirit rather than 'mediating' the Spirit through performative speech."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "happens",
+        "means",
+        "gives",
+        "see",
+        "reminds",
+        "recognised",
+        "understood"
+      ],
+      "directief": [
+        "explore",
+        "remember",
+        "pledge",
+        "hold",
+        "worship",
+        "choose"
+      ],
+      "expressief": [
+        "sense",
+        "doubt",
+        "like",
+        "rejoice"
+      ],
+      "commissief": [
+        "promises (as a description)"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Numbers is about the experiences of the children of Israel.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Informative",
+        "effectiviteit": "High for teaching, Low for encounter."
+      },
+      {
+        "zin": "The greatest thing that you can do... is to pledge yourselves.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Exhortation",
+        "effectiviteit": "Risks moralism without a prior declarative of grace."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the biblical story is well-told but the 'Toezegging' (Promise) is not performatively executed."
+  }
+}

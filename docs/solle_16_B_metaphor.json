@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "titel_preek": "Warum wollt ihr denn sterben?",
+    "bijbeltekst": "Ezechiel 37; 1 Thessalonicher 5,19; Matthäus 23,9",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "am lebendigen Leibe Glied um Glied vertrocknen",
+          "von den männlichen Neurosen heilen lassen",
+          "spirituell verhungert",
+          "nicht verkrümmt werden"
+        ],
+        "conceptuele_metafoor": "ECCLESIASTICAL DYSFUNCTION IS CHRONIC ILLNESS/ATROPHY"
+      },
+      {
+        "domein_type": "MILITARY/JURIDICAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "Verrat an den Armen",
+          "Militärs und Todesschwadronen",
+          "Bespitzelung, Überwachung, Zensierung",
+          "Machtlose gegen die Mächtigen"
+        ],
+        "conceptuele_metafoor": "CHURCH HIERARCHY IS AN OPPRESSIVE REGIME"
+      },
+      {
+        "domein_type": "JOURNEY/MOVEMENT",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "aufbrechenden Volkes Gottes",
+          "Geist auslöschen, wo immer er weht",
+          "aus euren Gräbern steigen"
+        ],
+        "conceptuele_metafoor": "FAITH IS VITAL MOVEMENT/BREATH"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Glied um Glied vertrocknen und abfallen",
+        "brondomein": {
+          "naam": "Biological Decay/Necrosis",
+          "concrete_elementen": [
+            "limbs",
+            "drying out",
+            "detaching",
+            "living body"
+          ],
+          "belichaamde_basis": "balance/integrity of the container (body)"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Ecclesiology/Institutional Decline",
+          "doctrinale_traditie": "Liberation Theology / Critical Protestantism"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Limbs (Glieder)",
+            "doel_element": "Members/Communities (Gemeinden)"
+          },
+          {
+            "bron_element": "Drying out (Vertrocknen)",
+            "doel_element": "Lack of spiritual vitality/Spirit"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The institution is a dying organism, not just a failing business."
+          ],
+          "theologische_implicaties": [
+            "The Spirit is the 'blood' or 'water' of the church; without it, the structure is a corpse."
+          ],
+          "ethische_implicaties": [
+            "Resistance is a matter of survival/health, not just policy disagreement."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that the 'limbs' (people) are passive victims of the body's decay."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the visceral horror of necrosis to describe institutional stagnation."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher consistently aligns the 'death' of the institution with 'rigidity/stagnation' and 'life' with 'movement/Spirit/democracy'.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Paragraph 4 vs Paragraph 12",
+          "metafoor_a": "Church as Oppressor (Military)",
+          "metafoor_b": "Church as Dying Body (Medical)",
+          "conflict_beschrijving": "The church is simultaneously a powerful, crushing machine and a helpless, decaying corpse.",
+          "entailment_conflict": "An oppressor has agency and force; a corpse has neither.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Ending (Ezechiel)",
+          "gemengde_metaforen": [
+            "Dry bones",
+            "Spirit/Wind"
+          ],
+          "blending_strategie": "Uses the biblical narrative of the valley of dry bones to bridge the gap between the 'dead institution' and the 'living Spirit'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Body of Christ' metaphor by focusing on the pathology of 'necrosis' rather than just 'unity'.",
+        "voorbeeld": "Warum wollt ihr lieber am lebendigen Leibe Glied um Glied vertrocknen..."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "Reduces complex systemic and theological issues to 'male neuroses'.",
+        "voorbeeld": "euch von den männlichen Neurosen heilen zu lassen",
+        "potentiele_impact": "Psychologizes the 'enemy' rather than engaging their theological arguments.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A battlefield/hospital where a rigid, dying hierarchy is crushing a vibrant, living 'people' (Laos).",
+      "sub_worlds": [
+        "The slums of Colombia (vivid poverty)",
+        "The Roman Curia (cold bureaucracy)",
+        "The Valley of Dry Bones (eschatological hope)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 2",
+          "van_wereld": "Abstract critique",
+          "naar_wereld": "Concrete Colombian slums",
+          "effectiviteit": "High; grounds the critique in physical reality."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "The Church as the People (Laos)",
+          "hoe_versterkt": "By contrasting 'the people' with 'the system/hierarchy'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "The Pope as 'Holy Father'",
+          "verstoring_strategie": "Re-contextualizing the title through the lens of 'patriarchal complex' and the command 'call no man father'.",
+          "vervangend_schema": "God as the only Father; believers as equal siblings."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly prophetic/confrontational."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by a 'Life vs. Death' binary, mapped onto 'Spirit/People vs. Institution/Hierarchy'. It uses visceral medical and biological metaphors to provoke a sense of urgency and disgust regarding the status quo.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Spirit (Pneuma/Ruach)",
+        "huidige_status": "Often used as a vague cliché.",
+        "suggestie": "Connect the 'Wind' of the Spirit more concretely to the 'Breath' needed for the 'Dry Bones' to speak.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The Spirit is the oxygen in the lungs of the poor as they pray the Bible."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The Church as both 'Oppressor' and 'Dying Body'.",
+        "resolutie_strategie": "Use the metaphor of an 'Autoimmune Disease' where the body attacks its own healthy cells (the women/the poor)."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Church as System/Machine",
+        "problematisch_entailment": "Machines can be fixed by technicians; the Spirit cannot be 'engineered'.",
+        "aanbeveling": "Emphasize the organic nature of the church to avoid a purely secular-political solution."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To bridge the gap between the 'Spirit' and 'Growth/Fruit', moving away from purely medical/pathological language.",
+        "doel_concept": "The growth of the 'Basisgemeinden'"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful example of cognitive homiletics that uses 'Schema Disruption' to challenge institutional power through the biological reality of life and death."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Focuses on the cognitive 'mapping' of death to hierarchy rather than just the beauty of the Ezechiel imagery.",
+    "verschil_met_kolb": "Moves beyond 'experience' to the underlying conceptual structures that make the experience meaningful.",
+    "unieke_inzichten_CMT": "Reveals that the preacher views 'Democracy' not as a political choice but as a 'biological necessity' for the survival of the Body of Christ."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Wolke der Zeugen",
+      "die Bibel beten",
+      "Geist auslöschen",
+      "unbrechbar/biegbar",
+      "Sakramentsautomaten",
+      "Kirche kaputtgehen",
+      "Zeitgeist",
+      "spirituelle Ersatzbefriedigung",
+      "gefährliche Erinnerung",
+      "am Kreuz hängende Erde",
+      "spirituell verhungert",
+      "Götzen der Macht",
+      "Glied um Glied vertrocknen"
+    ],
+    "woord_frequentie_analyse": {
+      "System": "6",
+      "Geist": "5",
+      "Macht": "7",
+      "sterben": "5",
+      "Leben": "4"
+    },
+    "notities": "The sermon relies heavily on the 'BODY IS A CONTAINER FOR THE SPIRIT' image schema."
+  }
+}

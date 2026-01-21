@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "titel_preek": "Alles, nicht weniger",
+    "bijbeltekst": "1 Korinther 13,7",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Interpretation von 1. Korinther 13,7 im Kontext von Eros und Agape. Kritik an der christlichen Trennung von göttlicher und menschlicher Liebe.",
+      "exegetische_kwaliteit": "Eisegese dominiert über Exegese; der Text dient als Aufhänger für eine anthropologische Theorie der Erotisierung.",
+      "omvang_procent": "95%"
+    },
+    "illocutie": {
+      "beschrijving": "Der Prediger erklärt seine Sicht auf das Christentum und kritisiert historische Fehlentwicklungen.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 4,
+      "voorbeelden": [
+        "Ich verstehe das Christentum als eine Anleitung...",
+        "Die radikale Entgegensetzung von Eros und Agape ist einer der peinlichsten Züge..."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellektuelle Zustimmung zu einer ganzheitlichen Sicht der Liebe; Abbau von Scham gegenüber Erotik.",
+      "pneumatologisch_bewustzijn": "Niedrig; der Geist wird nicht als Akteur der Liebe oder Rede thematisiert.",
+      "perlocutionaire_werkwoorden": [
+        "verstehen",
+        "einsehen",
+        "zustimmen",
+        "reflektieren"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "42",
+      "procent": "85%",
+      "voorbeelden": [
+        "Die Trennung ist eine der Männererfindungen gewesen.",
+        "In Gott ist genau der Zustand des großen Alles."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "bleibt",
+        "steckt"
+      ]
+    },
+    "directieven": {
+      "frequentie": "2",
+      "procent": "4%",
+      "voorbeelden": [
+        "So soll es sein."
+      ],
+      "dominante_werkwoorden": [
+        "sollen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "5",
+      "procent": "10%",
+      "voorbeelden": [
+        "Ehrlich gesagt, ich kenne das.",
+        "Ich habe mich kennengelernt als jemanden..."
+      ],
+      "dominante_werkwoorden": [
+        "kennen",
+        "haben"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "kwaliteit": "Völliges Fehlen von göttlichen Zusagen an den Hörer."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "So wird es sein."
+      ],
+      "dominante_werkwoorden": [
+        "werden"
+      ],
+      "autoriteit": "Eher prophetische Hoffnung als sakramentale Lossprechung."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "indicatoren": [
+        "Dominanz von 'Ich verstehe', 'Es ist', 'Man muss'.",
+        "Abstrakte Definitionen von Gott als 'Vokabel'."
+      ],
+      "effect_op_hoorder": "Der Hörer bleibt Beobachter einer Theorie über die Liebe, statt Empfänger der Liebe Gottes zu werden."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Zuspruch (Commissiv)",
+        "Sündenvergebung (Declarativ)",
+        "Direkte Anrede Gottes"
+      ],
+      "effect_op_hoorder": "Keine Begegnung, nur Information."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Keine direkte Toezegging vorhanden.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "12",
+        "gebruik": "Subjektive Erfahrungsschilderung des Predigers ('Ich kenne das')."
+      },
+      "tweede_persoon": {
+        "frequentie": "0",
+        "gebruik": "Keine direkte Anrede der Gemeinde.",
+        "performatieve_context": "N/A"
+      },
+      "derde_persoon": {
+        "frequentie": "28",
+        "gebruik": "Beschreibung von Prinzipien, Geschichte und Gott als Objekt.",
+        "distantie_effect": "Hoch; Gott und die Liebe werden zum Thema eines Vortrags."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "20%",
+        "gebruik": "Kritik der Kirchengeschichte."
+      },
+      "tijdloos_present": {
+        "frequentie": "70%",
+        "gebruik": "Allgemeine Definitionen von Liebe und Gott."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Selbstreflexion des Predigers."
+      }
+    },
+    "adressering_effectiviteit": 1
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Theorie über Eros) -> Directive (Aufforderung zur Erotisierung).",
+      "voorbeelden": [
+        "Gott ist eine Vokabel... Vereinigung zu leben ist unser Bedürfnis."
+      ],
+      "probleem": "Es fehlt die Brücke der Gnade (Commissiv); der Hörer muss die Erotisierung selbst leisten."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Weil wir mit Gott bereits in dem Verhältnis stehen... lässt sich dieses Verhältnis übertragen."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "Die Predigt ist ein theologischer Essay. Sie spricht *über* Gott und *über* die Liebe, aber Gott spricht nicht *durch* die Predigt zum Hörer.",
+    "sterke_punten": [
+      {
+        "aspect": "Authentizität",
+        "categorie": "Expressiv",
+        "tekstueel_bewijs": "Ich habe mich kennengelernt als jemanden...",
+        "effect": "Erzeugt menschliche Nähe."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Adressierung",
+        "categorie": "Illokution",
+        "tekstueel_bewijs": "Vollständiges Fehlen von 'Du' oder 'Ihr'.",
+        "probleem": "Keine Einbeziehung der Hörer.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "Kein Ereignischarakter; die Predigt bleibt im Modus der Reflexion stecken.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "Gott wird als 'Vokabel' funktionalisiert, nicht als handelndes Subjekt präsentiert."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Nein, Gott ist das Thema.",
+      "prediker_als_mandataris": "Nein, der Prediker spricht als religiöser Intellektueller.",
+      "tekstueel_bewijs": [
+        "Das Wort GOTT ist eine Vokabel..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Nein.",
+      "perlocutie_theologie": "Nicht vorhanden; Wirkung wird durch psychologische Einsicht erwartet.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Nein, eher als Aufklärungsmittel.",
+      "epifanisch_taalgebruik": "Nein, eher deskriptiv-analytisch.",
+      "tekstueel_bewijs": [
+        "Ich verstehe das Christentum als eine Anleitung..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Massiver Überhang an Hilfsverben und Kopula-Verben (ist/sind). Mangel an Handlungsverben Gottes.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "In Gott ist genau der Zustand des großen Alles.",
+          "voorgestelde_revisie": "Gott schenkt euch heute dieses 'Alles' seiner Liebe.",
+          "verschil": "Vom abstrakten Sein zum konkreten Geben."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Die Liebe wird als menschliche Möglichkeit beschrieben, nicht als göttliches Geschenk.",
+      "suggestie": "Verankerung der Liebe im Kreuz/Auferstehung als Zusage.",
+      "voorbeeldzinnen": [
+        "Christus verspricht dir: Ich gebe dich niemals auf."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Hörer werden nicht angesprochen.",
+      "suggestie": "Wechsel von 'man'/'wir' zu 'Sie'/'Du'.",
+      "voorbeeldzinnen": [
+        "Kennen Sie das auch?",
+        "Gott liebt dich mit dieser unvernünftigen Liebe."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Der Imperativ ('erotisiert das Leben') ist moralisch überfordernd ohne Zuspruch.",
+      "suggestie": "Zuerst die Liebe Gottes als Tat proklamieren."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "Der Text ist intellektuell anregend, aber homiletisch 'stumm', da er die performative Kraft des Evangeliums zugunsten einer anthropologischen Theorie opfert."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT würde die 'Selbstoffenbarung' des Predigers loben; SAT kritisiert das Fehlen der göttlichen Illokution.",
+    "verschil_met_retoriek": "Rhetorisch elegant, aber illokutionär kraftlos (kein 'Tat-Wort').",
+    "unieke_inzichten_SAT": "SAT entlarvt, dass die Rede über die Liebe nicht dasselbe ist wie die Vermittlung der Liebe."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "enthält",
+        "wird",
+        "kann",
+        "nimmt",
+        "verstehe",
+        "herrscht",
+        "bleibt",
+        "war",
+        "steckt"
+      ],
+      "directief": [
+        "soll",
+        "muss"
+      ],
+      "expressief": [
+        "kenne",
+        "habe gemacht",
+        "habe kennengelernt"
+      ],
+      "commissief": [],
+      "declaratief": [
+        "wird sein"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Das Wort GOTT ist eine Vokabel...",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Defining",
+        "effectiviteit": "Schwach; entzieht Gott die Subjektivität."
+      }
+    ],
+    "notities": "Die Predigt leidet unter einem 'Constative Surplus' par excellence."
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "titel_preek": "A Cry Of Disappointment",
+    "bijbeltekst": "Psalm 121:1-2 (Introductory), Genesis 27:38 (Thematic)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher describes the universal experience of disappointment, using the narrative of Esau and Jacob as a primary lens, supplemented by other biblical and historical figures.",
+      "exegetische_kwaliteit": "Moderate. The sermon uses the narrative of Esau as a psychological archetype for disappointment rather than a strict redemptive-historical exegesis.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The force is primarily assertive (describing the human condition) and expressive (empathizing with sorrow), with a late shift toward promising.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Life is a series of partings.",
+        "Esau was a simple, trusting man.",
+        "God knows our frame and remembers that we are dust."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Comfort, resilience, and the encouragement to remain in prayer despite bitterness.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the 'event', though the opening prayer asks God to 'Speak to our faith'.",
+      "perlocutionaire_werkwoorden": [
+        "endure",
+        "persevere",
+        "trust",
+        "lament"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 82,
+      "procent": "70%",
+      "voorbeelden": [
+        "Life is filled with these interludes of disappointment.",
+        "Esau appeared later before his father.",
+        "Every man has his Gethsemane."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "has",
+        "indicates",
+        "tells"
+      ]
+    },
+    "directieven": {
+      "frequentie": 8,
+      "procent": "7%",
+      "voorbeelden": [
+        "Make us to remember.",
+        "We must cry out to God.",
+        "Still must we hold on."
+      ],
+      "dominante_werkwoorden": [
+        "must",
+        "ought",
+        "hold on"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 15,
+      "procent": "13%",
+      "voorbeelden": [
+        "Forgive us our moods of despair.",
+        "I think there is a place in God's service for everything except quitting.",
+        "There's poignancy and pathos in Esau's cry."
+      ],
+      "dominante_werkwoorden": [
+        "feel",
+        "think",
+        "forgive",
+        "wish"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 6,
+      "procent": "5%",
+      "voorbeelden": [
+        "God can and will heal our hurts.",
+        "The Lord will not leave, not forsake us.",
+        "He can turn cloudy days sunny."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "can"
+      ],
+      "kwaliteit": "General and future-oriented rather than immediate and personal."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "2%",
+      "voorbeelden": [
+        "The battle is almost won when we can say..."
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Weak. The preacher describes the state of the battle rather than declaring the hearer's victory in Christ's name."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive retelling of the Esau story in the 3rd person.",
+        "Long lists of historical figures (Lincoln, Paul, Moses) experiencing disappointment.",
+        "Universalizing 'Life is...' statements."
+      ],
+      "effect_op_hoorder": "The hearer feels understood and validated but remains a spectator to a description of faith rather than a recipient of a divine act."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise (Toezegging)",
+        "Sacramental 'I' addressing 'You' on behalf of God."
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'must' (Directive) without the 'is' (Declarative) of grace."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 3,
+      "kwaliteit_toezeggen": "Generic. They are stated as general possibilities ('God can') rather than specific certainties ('God does this for you now').",
+      "voorbeelden": [
+        "God can and will heal our hurts."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 12,
+        "gebruik": "Homiletic 'we' and personal 'I want to tell you'."
+      },
+      "tweede_persoon": {
+        "frequentie": 4,
+        "gebruik": "Limited. 'What will you do?'",
+        "performatieve_context": "Used for questioning rather than promising."
+      },
+      "derde_persoon": {
+        "frequentie": 45,
+        "gebruik": "Dominant. Talking about Esau, Jacob, Lincoln, and 'every man'.",
+        "distantie_effect": "High. It turns the sermon into a lecture on the psychology of disappointment."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical narrative and historical examples."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about life and suffering."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The closing appeal."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Life is hard) -> Directive (You must pray like Esau).",
+      "voorbeelden": [
+        "Every man has his Gethsemane... What will you do? ... Esau went into his father... our cry ought never to be 'I won't try'."
+      ],
+      "probleem": "The imperative to 'hold on' is not preceded by a declarative act of God's grace toward the hearer."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The road is rough... still must we hold on."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a wisdom-discourse on suffering. It informs the hearer about the nature of disappointment and the history of biblical characters, but it fails to perform a new reality for the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Empathy",
+        "categorie": "EXPRESSIVE",
+        "tekstueel_bewijs": "Life is a series of partings.",
+        "effect": "Creates a sense of being understood."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "ASSERTIVE",
+        "tekstueel_bewijs": "The long retelling of the Esau/Jacob plot.",
+        "probleem": "Objectifies the text; the hearer becomes a student of a story rather than a participant in a promise.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a 'talk about' God and life, not an 'event' where God speaks to the hearer.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) that binds God to the hearer in the present moment."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the object of discussion, not the subject of the speech act.",
+      "prediker_als_mandataris": "The preacher acts as a wise counselor rather than a mandatory of the Word.",
+      "tekstueel_bewijs": [
+        "I want this day to tell you of a man's prayer."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is sought through psychological resonance rather than the Spirit's work through the Word.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, it is treated as a source of inspiration.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 3rd person past tense verbs. Needs a shift to 2nd person present performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "God can and will heal our hurts.",
+          "voorgestelde_revisie": "In your disappointment, Christ heals you now.",
+          "verschil": "Moves from a general possibility to a present declarative event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in a list of 'cans' and 'wills'.",
+      "suggestie": "Use the authority of the office to pronounce the blessing directly.",
+      "voorbeeldzinnen": [
+        "I announce to you: God's blessing is not exhausted by your failures."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' (Esau) and 'we' (universal).",
+      "suggestie": "Address the 'You' in the pew directly with the promise.",
+      "voorbeeldzinnen": [
+        "You, who feel left in the cold like Esau, hear this: Your Father has a blessing for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'must hold on' is a heavy burden without the 'God holds you'.",
+      "suggestie": "Establish the Commissive (God's promise) before the Directive (Hold on)."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and deeply empathetic, but it requires a shift from 'talking about' to 'proclaiming to' to become a sacramental event."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Appel' (Directive) and 'Zelfopenbaring' (Expressive). SAT reveals that the 'Declarative' (the creative word) is entirely missing.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is strong (pathos). SAT shows that despite the pathos, the illocutionary force is weak.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'event' is hindered by the narrative distance of the 3rd person 'Assertive' surplus."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "indicated",
+        "appeared",
+        "tells",
+        "know",
+        "has"
+      ],
+      "directief": [
+        "must",
+        "ought",
+        "lift up",
+        "hold on"
+      ],
+      "expressief": [
+        "forgive",
+        "wish",
+        "feel",
+        "think"
+      ],
+      "commissief": [
+        "will not leave",
+        "will do right",
+        "will heal"
+      ],
+      "declaratief": [
+        "is won"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Esau was a simple, trusting man.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing",
+        "effectiviteit": "Informative but distancing."
+      },
+      {
+        "zin": "God can and will heal our hurts.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "Promising",
+        "effectiviteit": "Weakened by the modal 'can'."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'homiletic we', which softens the blow of the law but also dilutes the specificity of the gospel promise."
+  }
+}

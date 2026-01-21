@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "titel_preek": "10_Stellendam_11-jan-2026",
+    "bijbeltekst": "1 Tessalonicenzen 5:12-24",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1850"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "De gemeenteleden moeten vier soorten relaties onderhouden en verbeteren (onderling, buitenwereld, leiders, God) om een heilig leven te leiden in afwachting van de wederkomst.",
+      "subject": {
+        "identificatie": "De hoorder / De gemeenteleden ('wij', 'u', 'jij')",
+        "tekstueel_bewijs": [
+          "Wij roepen u ertoe op... terecht te wijzen; de moedeloze te bemoedigen",
+          "Jaag het goede na",
+          "Wij moeten hen uitermate hoog achten",
+          "Bid zonder ophouden"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Het 'goede' / Harmonieuze relaties / Heiliging",
+        "tekstueel_bewijs": [
+          "Jaag het goede na",
+          "Leef in vrede met elkaar",
+          "Het goede zoeken voor elkaar"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Paulus / De Apostolische vermaning",
+        "tekstueel_bewijs": [
+          "Paulus geeft nog een aantal adviezen mee",
+          "Daarom zegt Paulus",
+          "Paulus roept ertoe op"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "De naaste / De wereld / De gemeente zelf",
+        "tekstueel_bewijs": [
+          "Het goede zoeken voor elkaar binnen de gemeente",
+          "De wereld om ons heen"
+        ],
+        "positie_hoorder": "Subject (The one who must perform the tasks)"
+      },
+      "helper": {
+        "identificatie": "Het gebed / De relatie met God (als brandstof)",
+        "tekstueel_bewijs": [
+          "Het gebed is de dragende kracht",
+          "Gevoed vanuit de persoonlijke relatie met de Heer God"
+        ],
+        "rol_van_god": "Helper (God facilitates the human subject's action)",
+        "rol_van_geest": "External help (The 'spirituele bron' that can be empty)"
+      },
+      "tegenstander": {
+        "identificatie": "Eigen weg / Ordeloosheid / Moedeloosheid / De tijdgeest",
+        "tekstueel_bewijs": [
+          "Soms is het gewoon veel makkelijker om je eigen weg te kiezen",
+          "Mensen die een ordeloos leven gingen leiden",
+          "Moedeloos zou je er van worden"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "De tegenstanders zijn vooral menselijke tekortkomingen, luiheid of psychologische druk (targets, media-ideaal), geen kosmische machten van zonde of dood."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "God heiligt de gelovige en bewaart hem voor de komst van Christus.",
+      "subject": "God / De Heer",
+      "object": "De gelovige (geest, ziel en lichaam)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Dit programma verschijnt pas aan het absolute slot van de preek (de laatste alinea) als een belofte, na een lange reeks ethische imperatieven."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Paulus → Het Goede → De Naaste/Wereld",
+      "helper_subject_tegenstander": "Gebed → Gemeenteleden ← Moedeloosheid/Eigen weg",
+      "subject_naar_object": "Gemeenteleden → Onderling dienstbetoon"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God vergeldt goed voor kwaad",
+        "Hij die u roept, is getrouw",
+        "Hij zal het ook doen"
+      ],
+      "voorbeelden_mens_subject": [
+        "Wij moeten elkaar daarop aanspreken",
+        "Jaag het goede na",
+        "Wanneer u huisbezoek krijgt",
+        "Wij moeten hen uitermate hoog achten"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "We moeten elkaar daarop aanspreken",
+          "Wijs zulke mensen terecht",
+          "Moeten we hen uitermate hoog achten"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "We zouden meer willen bidden",
+          "We willen wel meer, maar het lukt maar zo moeilijk"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Wat is dat precies? Wat is goed?",
+          "Hoe doe je dat nou, mensen terechtwijzen?"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "Om vervolgens te kunnen delen",
+          "Zodat je niet weet hoe je de ander moet ondersteunen"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "De preek rust zwaar op de verplichting (moeten). De hoorder wordt aangesproken op zijn verantwoordelijkheid. De 'kracht' (pouvoir) wordt gezocht in het gebed, maar blijft een menselijke activiteit."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Het Goede / Dienstbetoon",
+      "s2": "Kwaad vergelden / Ordeloosheid",
+      "niet_s1": "Onverschilligheid / Los zand",
+      "niet_s2": "Geduld / Niet oordelen"
+    },
+    "beweging_in_preek": "De preek beweegt van S2 (de dreiging van ordeloosheid en wraak) naar S1 (de oproep tot het goede), met een korte passage over niet-S2 (God die niet vergeldt).",
+    "theologische_resolutie": "De resolutie is syntactisch: de mens moet jagen (S1) omdat God getrouw is (S1).",
+    "ernst_van_s2": "Matig. Kwaad wordt vooral gezien als 'elkaar wat flikken' of 'lanterfanten', niet als een radicale breuk met God."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Hoewel de preek eindigt met een sterke genade-uitspraak, is de structuur overwegend antropocentrisch. De hoorder is het actieve subject dat vier relaties moet managen. God fungeert primair als Helper (bron voor de mens) of als voorbeeld (Exemplarisme).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalisering van God",
+        "tekstueel_bewijs": "De relatie met God maakt al die andere mogelijk (God als brandstof voor menselijke ethiek).",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Focus op Devoir (Moeten)",
+        "tekstueel_bewijs": "De tekst staat vol met 'moeten', 'oproepen' en 'taken'.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Soteriologische basis",
+        "tekstueel_bewijs": "God vergeldt goed voor kwaad. Dat is het hart van het evangelie.",
+        "sterkte": "MODERATE"
+      },
+      {
+        "indicator": "Eschatologische belofte",
+        "tekstueel_bewijs": "Hij zal het ook doen.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Gods geduld en vergeving worden gepresenteerd als het model dat wij moeten kopiëren in onze relaties.",
+      "bijbelse_figuren_als_model": [
+        "Paulus (als adviseur)",
+        "Wielrenners (als metafoor voor gemeenteleden)"
+      ],
+      "alternatieve_lezing": "In plaats van 'wij moeten geduldig zijn zoals God', zou de preek kunnen focussen op 'Gods geduld draagt ons wanneer wij ongeduldig zijn'."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Druk om te presteren in relaties; risico op moedeloosheid (die de preek zelf benoemt).",
+      "theologische_implicatie": "Heiliging wordt een project van de mens, ondersteund door God, in plaats van een werk van God waarin de mens participeert."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "Er is een spanning tussen de bewering 'hier leven we van genade' en de constante stroom van opdrachten.",
+      "spanning_punten": [
+        "De preek zegt dat we niet van prestaties leven, maar de hele preek gaat over de prestatie van het 'jagen' en 'ondersteunen'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "God doet het voor, wij volgen. 'Wat we in de geloofsrelatie ontvangen... dat oefenen we vervolgens ook op elkaar uit.'",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "De Geest (of 'spirituele bron') geeft de nodige 'brandstof' zodat de mens zijn taak kan volbrengen."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Zonde wordt beschreven als 'ontsporen', 'lanterfanten' of 'kwaad met kwaad vergelden'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God (in de slotzin), maar de weg daarheen is menselijke inspanning."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek is een 'handleiding voor christelijk leven' waarbij de mens het actieve subject is en God de facilitator.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "De hoorder wordt overladen met taken (Subject van 'jagen', 'bemoedigen', 'ondersteunen').",
+      "voorgestelde_herpositionering": "Maak God het Subject van de heiliging die de gemeente transformeert.",
+      "voorbeeld_revisie": "In plaats van 'Wij moeten de zwakken ondersteunen', gebruik: 'Christus ondersteunt ons in onze zwakheid, en door die kracht vinden wij onszelf terug aan de zijde van de ander.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hoorder als 'wielrenner' die op kop moet rijden.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Benadruk dat de hoorder eerst de 'moedeloze' of 'zwakke' is die door God bemoedigd wordt."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Moeten)",
+      "voorgestelde_balans": "POUVOIR (Kunnen door genade)",
+      "concrete_suggestie": "Vervang 'u moet bidden' door 'u mag ademhalen in de ruimte die God opent'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Zwak (psychologische ongemakken).",
+      "voorgestelde_intensivering": "Beschrijf de onmogelijkheid van de mens om uit eigen kracht 'het goede' te doen tegenover de macht van egoïsme.",
+      "theologische_rationale": "Alleen bij een sterke tegenstander wordt de noodzaak van God als Subject (Genade) duidelijk."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "De ethiek (Programma 2) domineert de soteriologie (Programma 1).",
+      "voorgestelde_structuur": "Begin met Gods trouw (vers 24) als fundament, en presenteer de relaties als de natuurlijke vrucht daarvan, niet als voorwaarde of parallelle taak."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "De preek heeft een pastorale toon en een prachtig Bijbels slot, maar de weg daarnaartoe is te zwaar belast met menselijk 'moeten'. Door God vaker het grammaticale subject van de actieve werkwoorden te maken, zal de beloofde genade meer gaan schitteren."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch is de preek helder en gestructureerd (4 relaties). Actantieel blijkt echter dat de 'motor' van de preek menselijke inspanning is.",
+    "verschil_met_exegese": "De exegese volgt de tekst getrouw, maar de semiotiek legt bloot dat de 'imperatieven' van Paulus losgezongen worden van hun 'indicatieve' inbedding.",
+    "unieke_inzichten_greimas": "Greimas laat zien dat God in deze preek functioneert als 'Adjuvant' (Helper) in plaats van 'Sujet' (Hoofdrolspeler), wat de preek onbedoeld moralistisch maakt."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wij (gemeente) - jagen",
+      "U (hoorder) - kiest eigen weg",
+      "Paulus - geeft adviezen",
+      "Wij - roepen u op",
+      "U - houdt leiders hoog",
+      "God - vergeldt goed voor kwaad",
+      "God - heiligt u",
+      "Hij - zal het doen"
+    ],
+    "volledige_object_lijst": [
+      "Het goede",
+      "De moedeloze",
+      "De zwakken",
+      "De leiders",
+      "Vrede",
+      "Onberispelijke geest"
+    ],
+    "werkwoord_frequentie": {
+      "moeten": {
+        "count": "15",
+        "primair_subject": "Man"
+      },
+      "bemoedigen": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "doen": {
+        "count": "4",
+        "primair_subject": "God/Man"
+      }
+    },
+    "notities": "De preek bevat een 'Rutledge-paradox': de prediker zegt dat we van genade leven, maar de grammaticale structuur dwingt de hoorder in de rol van de presterende partij."
+  }
+}

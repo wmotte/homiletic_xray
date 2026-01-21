@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "Het teken en de prijs van het verbond",
+    "bijbeltekst": "Lukas 2:21 (Genesis 12, 15, 17, 22)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2800"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God stelt een verbond in met Abraham en vervult dit door de besnijdenis en het bloed van Jezus Christus om zondaren te redden.",
+      "subject": {
+        "identificatie": "God (de Vader) / Jezus Christus",
+        "tekstueel_bewijs": [
+          "God is de eerste en de laatste.",
+          "Hij wil je ontvangen.",
+          "Jezus heeft het op zich genomen."
+        ],
+        "frequentie_score": "7"
+      },
+      "object": {
+        "identificatie": "De redding/zegen van het verbond voor alle geslachten.",
+        "tekstueel_bewijs": [
+          "In u zullen alle geslachten van de aarde gezegend worden."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God de Vader",
+        "tekstueel_bewijs": [
+          "God roept Abraham.",
+          "God zegt: 'Mijn Zoon, jij moet besneden worden.'"
+        ],
+        "rol_interpretatie": "LAWGIVER/LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Zondaren / De hoorder / Alle geslachten",
+        "tekstueel_bewijs": [
+          "Wie had besnijdenis nodig? Zondaren."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Het bloed van Christus / De Heilige Geest (bij Simeon)",
+        "tekstueel_bewijs": [
+          "Dit bloed van de Heer Jezus is betalend bloed.",
+          "De Heilige Geest was op hem (Simeon)."
+        ],
+        "rol_van_god": "God is Subject in de heilsgeschiedenis, maar Jezus fungeert als de Middelaar (Helper) die de wet vervult.",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "De Wet (als vloek) / De eigen wil / Ongeloof",
+        "tekstueel_bewijs": [
+          "Vervloekt is een ieder die aan het hout hangt.",
+          "Ik regel mijn eigen leven... Vergeving? Ik doe gewoon mijn eigen fouten."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "De tegenstander is de vloek van de wet en de radicale autonomie van de mens die de zegen weigert."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "De hoorder moet de Bijbel lezen, herhalen en God vrezen naar het voorbeeld van Maria en Abraham.",
+      "subject": "De hoorder / Maria",
+      "object": "Godvrezendheid / Gehoorzaamheid",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "De gehoorzaamheid wordt gepresenteerd als reactie op de genade, maar soms vermengd als voorwaarde (bijv. bij Abraham)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Zegen/Vergeving → Zondaar",
+      "helper_subject_tegenstander": "Bloed van Jezus → Jezus → Vloek van de Wet",
+      "subject_naar_object": "Jezus → Vervulling van de Wet"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "45",
+      "mens_als_subject_count": "38",
+      "ratio": "1.18",
+      "voorbeelden_god_subject": [
+        "God roept Abraham.",
+        "Hij wil je ontvangen.",
+        "God laat zien: Ik ben een God die zich genadig wil bewijzen."
+      ],
+      "voorbeelden_mens_subject": [
+        "U moet de Bijbel door.",
+        "Abraham geloofde God.",
+        "Doe als Maria: overleg het."
+      ],
+      "rutledge_score": "7"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Die hele Bijbel moet u door.",
+          "Je moet besneden worden. Punt.",
+          "Ik wil doen wat Abraham was: God vrezend."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Ik wil U toebehoren.",
+          "Hij wil je hebben."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Hoe kun je iets bewaren als je het gehoord hebt?",
+          "Simeon had meer inzicht."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Ik kan niet zelf betalen.",
+          "Zonder bloedstorting geschiedt er geen vergeving."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "Er ligt een sterke nadruk op de verplichting (moeten) van zowel Jezus (onder de wet) als de hoorder (Bijbellezen, gehoorzaamheid)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Verbondszegen (Genade)",
+      "s2": "Uitroeiing (Oordeel/Vloek)",
+      "niet_s1": "Verbondsbraak (Autonomie)",
+      "niet_s2": "Besnijdenis/Bloedstorting (Betaling)"
+    },
+    "beweging_in_preek": "De preek beweegt van de dreiging van S2 (uitgeroeid worden) via de noodzaak van ~S2 (bloed) naar de realiteit van S1 (Christus).",
+    "theologische_resolutie": "Christus neemt de positie van S2 in (vloek) om voor de hoorder S1 te ontsluiten.",
+    "ernst_van_s2": "Hoog; de doodstraf op het niet-besnijden wordt expliciet als reëel gevaar benoemd."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "De preek is fundamenteel theocentrisch in zijn soteriologie (Christus betaalt), maar vertoont sterke moralistische trekken in de applicatie (nadruk op discipline en 'moeten').",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarisme (Maria/Abraham)",
+        "tekstueel_bewijs": "Eén ding deed Maria, en dat is ons tot voorbeeld.",
+        "ernst": "MODERATE"
+      },
+      {
+        "indicator": "Nadruk op menselijke discipline",
+        "tekstueel_bewijs": "Hebt u uit uzelf zoveel discipline dat u gewoon voor uzelf weet: in één jaar lees ik heel die Bijbel. Geweldig.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God als initiatiefnemer",
+        "tekstueel_bewijs": "God is de eerste en de laatste. Altijd weer.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Christus als Subject van de betaling",
+        "tekstueel_bewijs": "Dit bloed van de Heer Jezus is betalend bloed.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "Maria wordt gesteld als model voor meditatie; Abraham als model voor gehoorzaamheid.",
+      "bijbelse_figuren_als_model": [
+        "Maria",
+        "Abraham"
+      ],
+      "alternatieve_lezing": "God bewaart Zijn Woord in Maria; God schenkt Abraham het geloof om te gehoorzamen."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Druk om te presteren in Bijbellezen en 'Godvrezendheid'.",
+      "theologische_implicatie": "De hoorder wordt aangespoord om door eigen inspanning (discipline) de zegen te 'bewaren'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "Er is een spanning tussen de 'onvoorwaardelijke' genade en de 'prijs van gehoorzaamheid'.",
+      "spanning_punten": [
+        "Abraham's gehoorzaamheid wordt enerzijds 'niets verdiend' genoemd, maar anderzijds de reden waarom God het verbond bevestigt."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Christus heeft ons verlost van de vloek van de wet, een vloek geworden zijnde voor ons.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "De Geest geeft inzicht (Simeon), maar wordt minder benoemd als de kracht tot heiliging in de hoorder."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Zeer ernstig; zonde vereist bloedstorting en leidt tot 'uitroeiing'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek start sterk theocentrisch (Gods verbond), maar verschuift in het midden naar een antropocentrisch subject (de hoorder die moet lezen en herhalen).",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "De hoorder is subject van 'bewaren' en 'gehoorzamen'.",
+      "voorgestelde_herpositionering": "Maak de Heilige Geest Subject van het 'inschrijven' van het Woord in het hart.",
+      "voorbeeld_revisie": "In plaats van 'U moet de Bijbel door', gebruik: 'De Geest wil u door het Woord leiden om Christus te zien.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Identificatie met de 'gedisciplineerde' Abraham.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Benadruk dat Abraham's gehoorzaamheid een vrucht was van Gods belofte, niet de basis ervan."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominantie van Devoir (moeten).",
+      "voorgestelde_balans": "Pouvoir (kunnen door genade).",
+      "concrete_suggestie": "Focus meer op hoe God de hoorder 'bekwaam maakt' (competentie) in plaats van alleen de plicht op te leggen."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "De tegenstander (vloek/dood) is goed gepositioneerd.",
+      "voorgestelde_intensivering": "n.v.t.",
+      "theologische_rationale": "De ernst van de wet wordt goed gehandhaafd."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "De ethiek (Bijbellezen) lijkt soms los te staan van de soteriologie.",
+      "voorgestelde_structuur": "Presenteer Bijbellezen als het 'ontvangen' van de reeds geschonken zegen."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "De preek bevat een krachtige Christus-centrische kern, maar de hoorder wordt belast met een zware modale druk op het gebied van discipline."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch is de preek gemoedelijk en vragend; actantieel is hij echter dwingend (moeten).",
+    "verschil_met_exegese": "De exegese van de achtste dag is medisch/historisch, terwijl de actantiële analyse de functionele rol van die dag als 'moment van bloedstorting' blootlegt.",
+    "unieke_inzichten_greimas": "Greimas laat zien dat ondanks de taal van 'genade', de hoorder in de applicatie de rol van 'Subject-Held' krijgt toebedeeld die zijn eigen geestelijke leven moet 'managen'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God roept",
+      "Jezus ondergaat",
+      "U moet lezen",
+      "Abraham gelooft",
+      "Maria bewaart"
+    ],
+    "volledige_object_lijst": [
+      "Zegen",
+      "Bloed",
+      "Gerechtigheid",
+      "Bijbelkennis"
+    ],
+    "werkwoord_frequentie": {
+      "moeten": {
+        "count": "12",
+        "primair_subject": "Man"
+      },
+      "geven": {
+        "count": "8",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "De overgang van de 'prijs van het verbond' (Christus) naar de 'discipline van de hoorder' is het kritieke punt in deze preek."
+  }
+}

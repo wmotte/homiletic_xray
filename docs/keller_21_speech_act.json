@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "titel_preek": "Prayer of Confession",
+    "bijbeltekst": "Psalm 32",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Exegesis of Psalm 32, defining sin as 'pesha' (rebellion) and 'chata’ah' (missing the mark), using Augustine, Kafka, and Sartre to illustrate modern guilt.",
+      "exegetische_kwaliteit": "High. Deep linguistic analysis of Hebrew terms and systematic theological structure.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the nature of sin and the mechanism of the Gospel, with a shift toward promising in the final third.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I will instruct you and teach you (Scripture quote)",
+        "He was uncovered so that our sins could be covered.",
+        "I uncover my sin. Now cover me."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Relief of conscience, movement toward confession, and a shift from self-pity to Christ-centered repentance.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event'.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "confess",
+        "repent",
+        "trust",
+        "rejoice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "240",
+      "procent": "70%",
+      "voorbeelden": [
+        "Sin is rebellious self-assertion.",
+        "We don’t like to talk about sin seriously.",
+        "The Bible says there’s nothing more important."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "means",
+        "says",
+        "thinks",
+        "realized"
+      ]
+    },
+    "directieven": {
+      "frequentie": "35",
+      "procent": "10%",
+      "voorbeelden": [
+        "Come with me.",
+        "Let’s take a look at this psalm.",
+        "Do not be like the horse or the mule.",
+        "Don't go to public opinion."
+      ],
+      "dominante_werkwoorden": [
+        "let",
+        "look",
+        "do not",
+        "take"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "20",
+      "procent": "5%",
+      "voorbeelden": [
+        "I hate to bring up such an unsettling example.",
+        "I hope you’ll be alarmed by it."
+      ],
+      "dominante_werkwoorden": [
+        "hope",
+        "hate",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "25",
+      "procent": "8%",
+      "voorbeelden": [
+        "God has to forgive you.",
+        "He will protect me from trouble.",
+        "He can always get the stain out."
+      ],
+      "dominante_werkwoorden": [
+        "will",
+        "promises",
+        "has to"
+      ],
+      "kwaliteit": "Strong theological grounding, but often framed as 'talking about' the promise rather than 'delivering' it."
+    },
+    "declaratieven": {
+      "frequentie": "15",
+      "procent": "7%",
+      "voorbeelden": [
+        "In Jesus I’m freely forgiven.",
+        "You are forgiven.",
+        "Blessed is the one..."
+      ],
+      "dominante_werkwoorden": [
+        "forgiven",
+        "blessed",
+        "cleansed"
+      ],
+      "autoriteit": "Moderate; the preacher quotes the declaration rather than pronouncing it directly in the first person as a mandatory of God."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of 'What that means is...'",
+        "Long illustrations from literature (Kafka, Sartre, Spufford) describing the human condition.",
+        "Explaining the 'mechanics' of how forgiveness works rather than pronouncing it."
+      ],
+      "effect_op_hoorder": "The hearer understands the concept of sin and grace intellectually but may not feel 'addressed' by God until the very end."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution ('I declare to you in the name of Christ...')",
+        "Direct address of the promise ('God promises you today...')"
+      ],
+      "effect_op_hoorder": "Information about the 'antidote' rather than the administration of the medicine."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "Theologically precise but often descriptive (3rd person).",
+      "voorbeelden": [
+        "If you believe in Jesus Christ, God has to forgive you."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Used for pedagogical 'we' and personal anecdotes."
+      },
+      "tweede_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Direct address used to challenge the hearer's conscience ('You know this voice').",
+        "performatieve_context": "Used more in the directive/diagnostic phase than the commissive phase."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Describing 'the one', 'modern people', 'David', 'Jesus'.",
+        "distantie_effect": "Creates a lecture-like atmosphere where the Gospel is a 'topic' to be understood."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Biblical history and literary examples."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Definitions of sin and theological truths."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The final appeal and prayer."
+      }
+    },
+    "adressering_effectiviteit": 7
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids pure moralism (Directive-only).",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Sin) -> Assertive (Cross) -> Commissive (Forgiveness) -> Directive (Prayer).",
+      "voorbeelden": [
+        "Jesus was uncovered (Assertive) -> He paid your debt (Commissive) -> Let's pray (Directive)."
+      ],
+      "kwaliteit": "Theologically sound but structurally heavy on the Assertive/Explanation phase."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because he’s just... God has to forgive you... How can I hold onto grudges?"
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is a masterclass in apologetic explanation and theological teaching, but it functions more as a 'map' of the encounter than the 'encounter' itself.",
+    "sterke_punten": [
+      {
+        "aspect": "Theological Clarity",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "Sin is rebellious self-assertion.",
+        "effect": "Provides a solid intellectual foundation for the hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "What that means is there are six psalms...",
+        "probleem": "Too much time spent 'talking about' the text rather than 'speaking' the text.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It is an 'event' of learning, but the sacramental 'event' of absolution is slightly buried under the weight of explanation.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The preacher acts as a teacher/guide rather than a mandatory who 'hands over' the grace in the present moment."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, through the quoted Word.",
+      "prediker_als_mandataris": "Moderate; the preacher explains God's logic more than he speaks God's voice.",
+      "tekstueel_bewijs": [
+        "I think he knew by revelation, but we also know by revelation."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicit; the preacher hopes for the effect but doesn't name the Spirit.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the sermon aims to 'liberate' the conscience.",
+      "epifanisch_taalgebruik": "Moderate; the 'Black Bull' story serves as an epiphanic image.",
+      "tekstueel_bewijs": [
+        "Whoever can get the stain out... that’s your true love."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/means' (Assertive) to 'gives/declares' (Declarative).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The reason God will forgive you is because he’s just.",
+          "voorgestelde_revisie": "Because God is just, I declare to you: your debt is paid.",
+          "verschil": "Moves from a theological principle to a sacramental act."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is framed as a logical conclusion ('God has to...').",
+      "suggestie": "Use direct address and commissive verbs.",
+      "voorbeeldzinnen": [
+        "Christ promises you right now: I have covered your shame."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'modern people'.",
+      "suggestie": "Use 'You' more frequently in the application of grace.",
+      "voorbeeldzinnen": [
+        "You, whose sins are covered, are the blessed one today."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is actually quite good.",
+      "suggestie": "Maintain the current foundation but shorten the assertive phase."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A brilliant apologetic sermon that successfully diagnoses the human condition. To move from 'teaching' to 'event', increase the frequency of direct, first-person declarations of grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT identifies that the preacher isn't just sending a 'message' about guilt, but is attempting to 'do' something to the guilt (remove it).",
+    "verschil_met_retoriek": "The power here is not in the 'Black Bull' story's pathos, but in the illocutionary force of the Gospel promise.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's 'Antidote' section is the only part where the sermon truly 'happens' as a sacramental event."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "means",
+        "says",
+        "thinks",
+        "realized",
+        "reflects",
+        "violates",
+        "leads"
+      ],
+      "directief": [
+        "look",
+        "come",
+        "take",
+        "do not",
+        "let",
+        "pray"
+      ],
+      "expressief": [
+        "hope",
+        "hate",
+        "feel",
+        "regret"
+      ],
+      "commissief": [
+        "will",
+        "promises",
+        "protect",
+        "surround"
+      ],
+      "declaratief": [
+        "forgive",
+        "bless",
+        "cleanse",
+        "justify"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Sin is rebellious self-assertion.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Defining",
+        "effectiviteit": "Excellent for locutionary clarity."
+      },
+      {
+        "zin": "I uncover my sin. Now cover me.",
+        "categorie": "DIRECTIVE/COMMISSIVE",
+        "illocutionaire_kracht": "Petitionary",
+        "effectiviteit": "Strong performative moment for the hearer to adopt."
+      }
+    ],
+    "notities": "The sermon is highly effective as a 'teaching event' but leans heavily on the constative to build its case."
+  }
+}

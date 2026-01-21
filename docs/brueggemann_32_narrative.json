@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "Strategies for Humanness",
+    "bijbeltekst": "Matthew 4:1-11",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The church/hearer, following the model of Jesus, must employ strategies of resistance and biblical memory to fend off voices of seduction and maintain their 'God-given humanness'.",
+      "subject": {
+        "identificatie": "The Hearer / The Church (modeled after Jesus)",
+        "tekstueel_bewijs": [
+          "Jesus is offered here as a guide and model and resource for how to resist",
+          "we must be ready with a thick, palpable response",
+          "The church is the place where we reflect on and decide to be differently human"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "God-given humanness / Identity / Vocation",
+        "tekstueel_bewijs": [
+          "our God-given humanness",
+          "to be who we are called by God to be",
+          "true God-given self"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Torah / Ancient Faith Memories",
+        "tekstueel_bewijs": [
+          "He was, perhaps, a Calvinist, because he has a high view of scripture",
+          "the whole, deep resource of faith memories"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer / The World",
+        "tekstueel_bewijs": [
+          "the folk who travel with him",
+          "the new humanity"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Scripture (Deuteronomy) / Discipline (Fasting)",
+        "tekstueel_bewijs": [
+          "He had the book of Deuteronomy with him",
+          "disciplined withdrawal and regular retreat"
+        ],
+        "rol_van_god": "God is largely the Object of loyalty or a distant Sender, not the active Subject or Helper.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Voices of Seduction / Culture / Amnesia",
+        "tekstueel_bewijs": [
+          "voices of threat and seduction",
+          "a 'give in' culture",
+          "affluence seduces to amnesia"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The preacher explicitly demythologizes the Devil into 'voices' and 'culture', making the conflict internal and social rather than cosmic."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The provision of 'angels' (sustenance) following successful resistance.",
+      "subject": "God",
+      "object": "Bread of life / Ministry",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (God's action) is strictly conditional upon the success of the primary program (Human resistance)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Torah → Humanness → The Church",
+      "helper_subject_tegenstander": "Scripture → Hearer ← Cultural Voices",
+      "subject_naar_object": "Hearer → Resistance/Identity"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 48,
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God gave you food",
+        "angels came and ministered to him",
+        "this good God gives miraculously to the obedient"
+      ],
+      "voorbeelden_mens_subject": [
+        "we must be ready",
+        "you cannot make it up on the spot",
+        "we reflect on and decide to be differently human",
+        "Jesus... enact[s] deliberate strategies"
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "you must be ready",
+          "Your part is obedience"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "our intention to embrace",
+          "When we want to do best"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "He has his strategies at hand",
+          "rehearsed them and was ready"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "capacity of the church... to resist",
+          "power to be freely and faithfully human"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR-FAIRE",
+      "modale_interpretatie": "The sermon assumes the hearer has the 'Devoir' (duty) and needs the 'Savoir' (strategies/knowledge). It assumes 'Pouvoir' (power) is inherent in the human will if properly trained."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "God-given Humanness",
+      "s2": "Seduction/Thinning",
+      "niet_s1": "Compliance/Amnesia",
+      "niet_s2": "Resistance/Memory"
+    },
+    "beweging_in_preek": "From S2 (threat) through ~S2 (strategies of memory) to reach S1 (humanness).",
+    "theologische_resolutie": "Resolution is achieved through human effort and 'rehearsed' biblical knowledge.",
+    "ernst_van_s2": "Moderate; seen as a cultural pressure rather than a fatal condition."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon treats Jesus as a 'model' and 'guide' rather than a Savior. The engine of the narrative is human strategy and obedience.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism",
+        "tekstueel_bewijs": "Jesus is offered here as a guide and model and resource",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "just as soon as he resisted—but not before—food came",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Giver",
+        "tekstueel_bewijs": "God gave you food, just enough",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus' victory over temptation is presented as a repeatable strategy for the church.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Moses",
+        "Elijah",
+        "Paul"
+      ],
+      "alternatieve_lezing": "Jesus resists where Israel and the Church fail, crediting his victory to the believer by grace."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; reliance on intellectual memory.",
+      "theologische_implicatie": "Pelagian tendency; the human will is the primary mover."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "Highly coherent as a call to ethical action, but soteriologically hollow.",
+      "spanning_punten": [
+        "The quote from Romans at the end contradicts the conditional nature of the rest of the sermon."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Jesus is offered here as a guide and model",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon relies on 'ancient memories' rather than the Spirit's power."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'thinning' and 'forgetting', not a state of death."
+    },
+    "eschatologie": {
+      "hoop_structuur": "UNDEFINED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a manual for self-improvement using biblical motifs.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the subject of 'resisting' and 'deciding'.",
+      "voorgestelde_herpositionering": "Make Jesus the Subject who defeats the tempter on behalf of the helpless hearer.",
+      "voorbeeld_revisie": "Jesus stood where we fall, and now His victory is our shield."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the hero/resister.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that the 'angels' minister to Jesus because he is the Son, and we are fed through Him."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Savoir-faire (Strategies)",
+      "voorgestelde_balans": "Pouvoir-faire (Grace/Spirit)",
+      "concrete_suggestie": "Focus on how God enables the heart to love the Torah."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Cultural 'voices'.",
+      "voorgestelde_intensivering": "Recognize the 'bondage of the will'.",
+      "theologische_rationale": "If the opponent is just 'junk food', we don't need a Savior, just a nutritionist."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has replaced Soteriology (Program 1).",
+      "voorgestelde_structuur": "Proclaim the victory of Christ first, then the response of the church."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is rhetorically brilliant but structurally anthropocentric. Shift the 'strategies' from human effort to God's faithfulness."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, it is engaging; actantially, it is a burden.",
+    "verschil_met_exegese": "Exegesis is used to find 'models' rather than the 'Messiah'.",
+    "unieke_inzichten_greimas": "Reveals that 'God' is a reward for performance rather than the initiator of the action."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (resists)",
+      "We (reflect)",
+      "We (decide)",
+      "The voice (seduces)",
+      "Angels (minister)"
+    ],
+    "volledige_object_lijst": [
+      "humanness",
+      "identity",
+      "bread",
+      "loyalty"
+    ],
+    "werkwoord_frequentie": {
+      "resist": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "obey": {
+        "count": 4,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "The sermon ends with a grace-filled quote from Romans that the preceding 1200 words did not earn."
+  }
+}

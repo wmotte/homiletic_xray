@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "titel_preek": "Eine Meditation zu Karfreitag",
+    "bijbeltekst": "Johannes 11,50-52",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Geschwister",
+          "Kinder seines Volkes",
+          "Kind der Liebe",
+          "Vatertheologie"
+        ],
+        "conceptuele_metafoor": "GOD IS A SOLIDARY FAMILY MEMBER"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Wanderung zwischen Glauben und Zweifeln",
+          "auf dem Weg in die Lager",
+          "Weg vom Geheimnis"
+        ],
+        "conceptuele_metafoor": "FAITH IS A PERPETUAL WANDERUNG"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "Güte, die nicht rechnet",
+          "Bankschulden",
+          "vom Tod eines Unschuldigen profitieren"
+        ],
+        "conceptuele_metafoor": "GRACE IS THE REFUSAL OF CALCULATION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Wir hüllen uns ein in diesen Satz wie in einen warmen Mantel.",
+        "brondomein": {
+          "naam": "Clothing/Protection",
+          "concrete_elementen": [
+            "mantle",
+            "warmth",
+            "wrapping"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Dogma/Confession",
+          "doctrinale_traditie": "Existentialist/Liberal"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Warm mantle",
+            "doel_element": "Theological sentence (Erlösung)"
+          },
+          {
+            "bron_element": "Cold environment",
+            "doel_element": "Absurdity/Suffering of the world"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Language provides emotional and existential security regardless of intellectual comprehension."
+          ],
+          "theologische_implicaties": [
+            "Doctrine is functional/protective rather than strictly propositional."
+          ],
+          "ethische_implicaties": [
+            "The believer finds the strength to endure 'cold' reality by 'wearing' the promise."
+          ],
+          "onbedoelde_consequenties": [
+            "Faith could be seen as a mere psychological coping mechanism (escapism)."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the sensory experience of warmth and protection against the 'cold' of nihilism."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher intentionally deconstructs the Juridical/Economic 'Substitution' metaphor and replaces it with a Relational 'Solidarity' metaphor. The coherence is found in the consistent rejection of 'transactional' logic.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "GOD IS SOLIDARITY (Non-violent)",
+          "metafoor_b": "CAIAPHAS' MAXIM (Utilitarian sacrifice)",
+          "conflict_beschrijving": "The preacher ends by adopting the very sentence ('Es ist besser...') he spent the sermon deconstructing.",
+          "entailment_conflict": "If sacrifice is 'good' (end), it contradicts the 'God protests against destruction' (middle).",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Middle section",
+          "gemengde_metaforen": [
+            "Simone Weil's hunger strike",
+            "Christ's death"
+          ],
+          "blending_strategie": "Narrative embodiment: Using a 20th-century figure to provide a new source domain for 'Substitution' as 'Presence-in-suffering'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the dead metaphor of 'dying for others' by mapping it onto the concrete, historical suffering of Simone Weil.",
+        "voorbeeld": "Sie aß nur das... was den Juden in Frankreich an Lebensmitteln zustand."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LOSS_OF_RESPONSIBILITY",
+        "beschrijving": "By framing God as 'drowning' with us, the agency of God to actually save (rather than just empathize) is weakened.",
+        "voorbeeld": "Ein verrückter Gott, der nirgendwo anders sein will als dort, wo das Leben geschändet wird.",
+        "potentiele_impact": "Congregation may feel comforted but lack hope for actual transformation or justice.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A world of systemic cruelty (occupied France, Third World debt, environmental decay).",
+      "sub_worlds": [
+        "The inner world of the 'Wanderer' (doubting believer)",
+        "The historical world of the Sanhedrin"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to Simone Weil",
+          "van_wereld": "Biblical Jerusalem",
+          "naar_wereld": "Occupied France/England",
+          "effectiviteit": "Highly effective in bridging the 'then' and 'now' through shared suffering."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Co-Sufferer",
+          "hoe_versterkt": "Repeated emphasis on God being 'nowhere else' but in the place of shame."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as Angry Judge (Sühne)",
+          "verstoring_strategie": "Explicit rejection of 'Vatertheologie' and 'zorniger alter Mann'.",
+          "vervangend_schema": "God as 'Passion' and 'Solidarity'."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits the Good Friday lament but disrupts traditional satisfaction theories of atonement."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'SOLIDARITY IS PRESENCE' metaphor, successfully moving away from 'SALVATION IS TRANSACTION'. It uses a powerful 'CLOTHING' metaphor for dogma and a 'JOURNEY' metaphor for the life of faith. The landscape is existential and highly embodied, focusing on physical hunger and cold.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Erlösung (Redemption)",
+        "huidige_status": "Abstract/Dead",
+        "suggestie": "Deepen the 'Warm Mantle' imagery to describe how the community 'wears' this hope collectively.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The church as a community of people sharing one large coat in the winter of history."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The tension between Caiaphas' utilitarianism and Weil's solidarity.",
+        "resolutie_strategie": "Explicitly distinguish between 'Sacrifice for the State' (forced) and 'Sacrifice of Love' (free) to avoid rehabilitating Caiaphas."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOD IS A PASSION/CRAZY",
+        "problematisch_entailment": "Suggests God lacks reason or sovereignty.",
+        "aanbeveling": "Balance with the 'Mantle' metaphor to show that this 'craziness' is actually a stable foundation (Gründung)."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To provide the 'stability' the preacher seeks when mentioning 'gründen' (to ground/found).",
+        "doel_concept": "The certainty of God's love amid doubt."
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to dismantle toxic 'debt' metaphors and replace them with a lived theology of solidarity. The use of Simone Weil is a textbook example of how to create a 'Living Metaphor'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'mantle' prose, CMT reveals that this metaphor actually structures the hearer's cognitive relationship to dogma as a protective tool.",
+    "verschil_met_kolb": "Unlike Kolb's focus on the 'four-fold' movement, CMT shows how the preacher's specific source domains (hunger, debt, clothing) dictate the theological outcome.",
+    "unieke_inzichten_CMT": "CMT identifies the 'Vatertheologie' as a rejected source domain, explaining why the preacher struggles with the concept of 'God as Chefideologe'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "doppelter Boden",
+      "zerstreute Kinder",
+      "Zersplitterung des Lebens",
+      "Herz für den Erdkreis",
+      "rechnende Güte",
+      "Vatertheologie",
+      "Meer von Tränen",
+      "hineinzementiert in Schuld",
+      "warmen Mantel"
+    ],
+    "woord_frequentie_analyse": {
+      "Tod": "18",
+      "Volk": "12",
+      "Liebe": "6",
+      "Gott": "7",
+      "Menschen": "5"
+    },
+    "notities": "The preacher uses 'Verrückt' (crazy) as a positive metaphor for divine logic that defies human economic calculation."
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "titel_preek": "David’s Friend",
+    "bijbeltekst": "1 Samuel 18, 19, 20, 23",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2400"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "Jonathan loved him as his own soul",
+          "friendship is covenantal",
+          "God is Father, Son, and Holy Spirit"
+        ],
+        "conceptuele_metafoor": "GOD IS THE ULTIMATE FRIEND"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "cost-benefit little calculator",
+          "user relationship",
+          "economic relationships are user relationships"
+        ],
+        "conceptuele_metafoor": "MORAL INTERACTION IS COMMERCIAL TRANSACTION"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "Jonathan’s friendship with David brackets the evil",
+          "contained the evil"
+        ],
+        "conceptuele_metafoor": "FRIENDSHIP IS A PROTECTIVE ENCLOSURE"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "cost-benefit little calculator connected to it",
+        "brondomein": {
+          "naam": "Accounting/Economics",
+          "concrete_elementen": [
+            "calculator",
+            "input",
+            "output",
+            "profit/loss"
+          ],
+          "belichaamde_basis": "balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sinful/Selfish Relationships",
+          "doctrinale_traditie": "Reformed (Total Depravity/Self-interest)"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Calculator",
+            "doel_element": "Selfish motivation"
+          },
+          {
+            "bron_element": "Input/Output",
+            "doel_element": "Effort vs. Reward in relationship"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Relationships are only worth maintaining if they are profitable."
+          ],
+          "theologische_implicaties": [
+            "Sin reduces people to commodities."
+          ],
+          "ethische_implicaties": [
+            "Abandoning people when they are 'costly' (suffering) is logical in this schema."
+          ],
+          "onbedoelde_consequenties": [
+            "Could reinforce a view that all human interaction is inherently transactional."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the 'user' concept by introducing the mechanical 'calculator' image to describe the heart."
+      },
+      {
+        "metafoor_expressie": "His arms are open to you. More than that, they’re nailed open.",
+        "brondomein": {
+          "naam": "Physical Gesture/Crucifixion",
+          "concrete_elementen": [
+            "arms",
+            "nails",
+            "open posture"
+          ],
+          "belichaamde_basis": "container/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Divine Vulnerability/Grace",
+          "doctrinale_traditie": "Christocentric/Substitutionary"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Open arms",
+            "doel_element": "Transparency/Welcome"
+          },
+          {
+            "bron_element": "Nails",
+            "doel_element": "Inability to withdraw love"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God's love is not just a choice but a fixed, vulnerable state."
+          ],
+          "theologische_implicaties": [
+            "The Cross is the ultimate act of 'transparency' (letting us in)."
+          ],
+          "ethische_implicaties": [
+            "Believers must remain vulnerable even when it hurts."
+          ],
+          "onbedoelde_consequenties": [
+            "Potential for a 'passive' view of Christ's suffering."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Takes the conventional 'open arms' image and shocks the hearer with the 'nailed' reality to redefine vulnerability."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The preacher uses the 'Friendship' domain as a master-key to unlock both Anthropology (Adam), Christology (Jesus), and Ethics (Community). The contrast between the 'Economic' domain (User) and 'Covenantal' domain (Friend) provides a consistent tension throughout.",
+      "incoherentie_punten": [],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "The Frankenstein Monster",
+            "The Triune God"
+          ],
+          "blending_strategie": "The monster's 'grope' for humanity is blended with the 'image of God' to show that the desire for friendship is a theological drive for personhood."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'Friend' title for Jesus, which is often a dead metaphor, by grounding it in the concrete elements of 'constancy' and 'transparency'.",
+        "voorbeeld": "Jesus Christ... His arms are open to you. More than that, they’re nailed open."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "By framing the Gospel primarily through the lens of 'loneliness' and 'friendship', the judicial aspects of sin (guilt/law) are secondary.",
+        "voorbeeld": "To be lonely is not to be imperfect; it’s to be like God.",
+        "potentiele_impact": "The congregation may view God more as a companion than a Holy Judge.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Royal Court of Saul and the Wilderness of Ziph.",
+      "sub_worlds": [
+        "The Garden of Eden",
+        "A 1935 movie set (Bride of Frankenstein)",
+        "A modern Gristedes grocery store in NYC"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Introduction of Gristedes",
+          "van_wereld": "Ancient Israel",
+          "naar_wereld": "Modern NYC Upper West Side",
+          "effectiviteit": "Highly effective for grounding the abstract concept of 'user' in daily experience."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Covenant vs Contract",
+          "hoe_versterkt": "By contrasting the 'sticking' friend with the 'calculating' user."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Self-Sufficiency",
+          "verstoring_strategie": "Using the Garden of Eden to show that even in perfection, man was 'lonely' and needed a friend.",
+          "vervangend_schema": "Interdependent Personhood"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Peace' and 'Communion' aspects of liturgy."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the Relational/Familial domain, specifically the sub-domain of 'Friendship'. It brilliantly uses the Economic domain as a 'foil' (the negative source) to define what friendship is NOT. The verticality of God is replaced by the 'Horizontal' transparency of the Cross.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Washed in the blood / Saved",
+        "huidige_status": "Dead/Conventional",
+        "suggestie": "Connect 'Salvation' to 'Humanization'.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The monster becomes human as he learns to speak through a friend."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The transition from 'Friendship' to 'Triune God'.",
+        "resolutie_strategie": "Explicitly map the 'Social Trinity' to the human need for community to avoid it feeling like a 'brief theological answer' detour."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "FRIENDSHIP IS SYMPATHY (Common Passions)",
+        "problematisch_entailment": "Suggests we can only be friends with those like us.",
+        "aanbeveling": "Emphasize that the 'common passion' for Christ allows for radical diversity in other areas."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "POLITICAL/KINGDOM",
+        "rationale": "Since David and Jonathan are dealing with a throne, mapping friendship to 'Loyalty to a King' would add weight.",
+        "doel_concept": "Covenant Loyalty"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using CMT to bridge the gap between ancient narrative and modern urban psychology."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of just admiring the 'beauty' of David and Jonathan's bond, CMT reveals how the 'User' metaphor actually structures the hearer's modern social anxiety.",
+    "verschil_met_kolb": "Moves beyond 'experience' into the cognitive 'mapping' of how we perceive God's character through the lens of vulnerability.",
+    "unieke_inzichten_CMT": "The insight that 'nailed open' arms is a spatial metaphor for 'forced transparency' provides a profound cognitive shift in understanding the Atonement."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "knit to the soul",
+      "bracketed the evil",
+      "cost-benefit calculator",
+      "user relationship",
+      "letting a person into your soul",
+      "deputized to talk",
+      "faithful are the wounds",
+      "nailed open"
+    ],
+    "woord_frequentie_analyse": {
+      "friend": "42",
+      "friendship": "28",
+      "user": "12",
+      "transparency": "9",
+      "constancy": "7",
+      "covenant": "8"
+    },
+    "notities": "The use of the Frankenstein illustration serves as a 'Schema Disruption' to redefine what it means to be 'human'."
+  }
+}

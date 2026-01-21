@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "titel_preek": "Zeugen der Wahrheit",
+    "bijbeltekst": "Apostelgeschichte 1,8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon focuses on the witness of Oscar Romero and Medardo Gomez as embodiments of Acts 1:8. It interprets 'witness' through the lens of Liberation Theology and social justice.",
+      "exegetische_kwaliteit": "Low to Moderate. The text (Acts 1:8) is used as a springboard for biographical narrative rather than grammatical-historical exegesis.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is asserting historical facts and describing the character of martyrs to inspire the audience.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Ich will zwei Gedanken aus diesem Text entfalten",
+        "Das gilt auch für Oscar Romero",
+        "Wir brauchen uns nicht zu fürchten"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Inspiration, political awareness, and a sense of solidarity with the poor.",
+      "pneumatologisch_bewustzijn": "Minimal; the Spirit is discussed as a topic ('Mut und Wahrheitsfähigkeit') rather than invoked as an active agent in the preaching event.",
+      "perlocutionaire_werkwoorden": [
+        "remember",
+        "admire",
+        "emulate",
+        "reflect"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "42",
+      "procent": "75%",
+      "voorbeelden": [
+        "Er ist lebendiger denn je.",
+        "Es war unmöglich, ihn zu töten.",
+        "Er machte Fehler wie alle."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "war",
+        "heißt",
+        "gilt",
+        "haben"
+      ]
+    },
+    "directieven": {
+      "frequentie": "4",
+      "procent": "7%",
+      "voorbeelden": [
+        "Hört mit dem Morden auf!",
+        "Wir brauchen uns nicht zu fürchten."
+      ],
+      "dominante_werkwoorden": [
+        "aufhören",
+        "brauchen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "3",
+      "procent": "5%",
+      "voorbeelden": [
+        "Eine andere Geschichte hat mich noch mehr bewegt."
+      ],
+      "dominante_werkwoorden": [
+        "bewegen",
+        "denken"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "kwaliteit": "Absent. The preacher does not bind God to the hearer or make a personal promise in God's name."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "The preacher remains a narrator/lecturer, not a mandatory of the New Covenant."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive biographical storytelling about Romero",
+        "Third-person descriptions of 'the people in El Salvador'",
+        "Historical 'talking about' the text rather than 'speaking' the text"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of someone else's faith history."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Information gain without existential encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent; the 'Ihr werdet' is treated as a future prediction or a general truth rather than a present-tense bestowal of grace.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "12",
+        "gebruik": "Mostly 'Wir' (inclusive we) or 'Ich' (preacher's intent)."
+      },
+      "tweede_persoon": {
+        "frequentie": "2",
+        "gebruik": "Very low. Only occurs in the Bible quote 'Ihr werdet'.",
+        "performatieve_context": "The 'you' is historical (the disciples) rather than the current congregation."
+      },
+      "derde_persoon": {
+        "frequentie": "35",
+        "gebruik": "Dominant. Talking about Romero, Gomez, the people, the Vatican.",
+        "distantie_effect": "High. It creates a 'gallery of heroes' effect."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Biographical narrative of Romero's life and death."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General theological truths ('Die Toten sind nicht tot')."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Brief mentions of Hamburg/Brockdorf."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Romero was a witness) -> Directive (We should also be witnesses).",
+      "voorbeelden": [
+        "Wie Oscar Romero, so auch wir... Auch wir werden Zeugen sein."
+      ],
+      "probleem": "It bypasses the gift (indicative) and moves straight to the task (imperative) based on an example rather than a promise."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Ihr werdet meine Zeugen sein... warum dann nicht auch in Hamburg-Altona?"
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a biographical lecture with ethical appeal. It 'talks about' the power of the Spirit without 'releasing' it through performative speech.",
+    "sterke_punten": [
+      {
+        "aspect": "Narrative Engagement",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The story of the Tamale and Romero's shame.",
+        "effect": "Humanizes the saint."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire paragraphs without a 'You'.",
+        "probleem": "The congregation is an audience, not a participant.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a 'talk about' an event (Romero's life) rather than being an event itself.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "No use of the keys of the kingdom; no declarative grace."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher is the narrator of human history.",
+      "prediker_als_mandataris": "No. The preacher acts as a social biographer.",
+      "tekstueel_bewijs": [
+        "Ich will zwei Gedanken... entfalten."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Thematically, yes. Operationally, no.",
+      "perlocutie_theologie": "The Spirit is described as 'Mut und Wahrheitsfähigkeit', reducing the Spirit to human virtues.",
+      "tekstueel_bewijs": [
+        "Was ist die Kraft des Geistes? Nach alter Lehre zweierlei: Mut und Wahrheitsfähigkeit."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a means of motivation.",
+      "epifanisch_taalgebruik": "No.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Over-reliance on copula verbs (is/was) and third-person narrative verbs. Total lack of first-person performative verbs (I promise/I declare).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Ihr werdet die Kraft des heiligen Geistes empfangen.",
+          "voorgestelde_revisie": "Heute, in diesem Moment, legt Gott seinen Geist auf dich.",
+          "verschil": "Moves from a future prediction to a present-tense bestowal."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is treated as a historical quote.",
+      "suggestie": "Directly address the congregation with the promise of the Spirit.",
+      "voorbeeldzinnen": [
+        "Christus verspricht dir heute: Du bist mein Zeuge."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'he' (Romero), not enough 'you' (Hearer).",
+      "suggestie": "Use 'You' to bridge the gap between El Salvador and Hamburg.",
+      "voorbeeldzinnen": [
+        "Gott ruft dich in Hamburg-Altona genauso wie er Romero rief."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to be a witness is not grounded in the declarative of being forgiven/empowered.",
+      "suggestie": "Declare the hearer empowered before asking them to act."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is a moving tribute to a martyr, but it remains a lecture. To become an 'event,' it must move from describing Romero's witness to performing Christ's call to the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'Selbstoffenbarung' (shame story); SAT reveals the lack of 'Declarative' authority.",
+    "verschil_met_retoriek": "Rhetorically strong (good stories), but illocutionarily weak (no act performed).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'holy' subject matter, the speech act remains purely informative/constative."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "war",
+        "heißt",
+        "gilt",
+        "organisiert",
+        "bekehrt",
+        "geht",
+        "haben",
+        "können",
+        "sind",
+        "genannt",
+        "machte"
+      ],
+      "directief": [
+        "hört auf",
+        "brauchen nicht",
+        "eintreten",
+        "einklagen"
+      ],
+      "expressief": [
+        "bewegt",
+        "denke",
+        "geschämt"
+      ],
+      "commissief": [],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Die Toten sind nicht tot.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Claiming a truth.",
+        "effectiviteit": "Intellectual provocation."
+      },
+      {
+        "zin": "Ihr werdet meine Zeugen sein.",
+        "categorie": "ASSERTIVE (as used)",
+        "illocutionaire_kracht": "Quoting a promise rather than making one.",
+        "effectiviteit": "Informative."
+      }
+    ],
+    "notities": "The sermon suffers from 'Hagiographic Constativism'—the belief that telling stories of saints automatically creates a spiritual event."
+  }
+}

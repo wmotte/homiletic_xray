@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "11_Ter_Aar_11-jan-2026",
+    "bijbeltekst": "Lukas 3 (Doop van de Heer)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God openbaart Jezus als Zijn Zoon door de doop, waarbij Jezus zich solidair verklaart met de falende mens om hen tot Zijn eigendom te maken.",
+      "subject": {
+        "identificatie": "Jezus Christus (ondersteund door de Vader en de Geest)",
+        "tekstueel_bewijs": [
+          "Hij staat erop dat het wel gebeurt",
+          "Hij stelt zich gelijk met de falende mens",
+          "Hij is de echte die komt het koninkrijk van God inluiden"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "De mens als eigendom van God (Verbond/Identiteit)",
+        "tekstueel_bewijs": [
+          "Dat we eigendom zijn van God",
+          "Dat Hij ons opneemt in Zijn verbond"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God de Vader",
+        "tekstueel_bewijs": [
+          "Jij bent mijn geliefde Zoon, in jou vind ik vreugde"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "De hoorder / De falende mens",
+        "tekstueel_bewijs": [
+          "Een solidariteitsverklaring van de kant van Jezus... met u, met mij"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "De Heilige Geest / Johannes de Doper (als wegbereider)",
+        "tekstueel_bewijs": [
+          "De Heilige Geest daalt op Hem neer als een duif",
+          "Johannes die dat doet... Baan voor de Heer een weg"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Zonde / De Duivel / Romeinse bezetting (historisch)",
+        "tekstueel_bewijs": [
+          "Hij zal verzocht gaan worden door de duivel",
+          "De straf op de zonde dragen"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "De tegenstander wordt gedefinieerd als de duivel en de 'straf op de zonde', wat een bovennatuurlijke noodzaak voor Jezus' ingrijpen impliceert."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "De mens die opgeroepen wordt tot bekering en een nieuwe levensstijl (ethiek).",
+      "subject": "De hoorder / De mens",
+      "object": "Bekering en nieuwe levensstijl (delen, eerlijkheid)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "De ethische oproep van Johannes wordt gepresenteerd, maar de preek landt uiteindelijk bij de doop als 'gedragen worden' door God (Primair)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Vader → Verbond/Eigendom → De hoorder",
+      "helper_subject_tegenstander": "Heilige Geest → Jezus ← Duivel/Zonde",
+      "subject_naar_object": "Jezus → Solidariteit/Redding"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5",
+      "voorbeelden_god_subject": [
+        "Jezus stelt zich gelijk met de falende mens",
+        "God neemt ons op in Zijn verbond",
+        "Hij zou de straf op de zonde dragen"
+      ],
+      "voorbeelden_mens_subject": [
+        "U moet zich bekeren",
+        "Wij moeten ons aan die twee sacramenten houden",
+        "Bent u dankbaar?"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Je moet delen",
+          "Je moet niet meer vragen dan je is opgedragen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Het volk was vol verwachting",
+          "Ze verlangden naar bevrijding"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Hoe denkt u daarover?",
+          "We weten zeker dat Hij ook de Zoon van God is"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Mij is gegeven alle macht",
+          "Mogen die doop ons dragen, ons sterken"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "De focus ligt op de 'macht' (Pouvoir) van Jezus en de 'kracht' van de doop die de mens draagt, in plaats van de menselijke verplichting."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Genade/Eigendom van God",
+      "s2": "Oordeel/Zonde/Vervreemding",
+      "niet_s1": "Wetticisme (Farizeeën)",
+      "niet_s2": "Vrijblijvendheid (Doop als 'zomaar iets')"
+    },
+    "beweging_in_preek": "Van de noodzaak tot bekering (~S1) naar de solidariteit van Jezus (S1) die het oordeel (S2) wegdraagt.",
+    "theologische_resolutie": "De spanning wordt opgelost door de 'macht' van Christus die de doop van Johannes (wet/bekering) transformeert naar de doop in de Drie-eenheid (genade/bezit).",
+    "ernst_van_s2": "Matig; zonde wordt genoemd als 'falen', maar het kruis wordt expliciet als oplossing voor de straf gepresenteerd."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "Hoewel de preek begint met morele oproepen van Johannes de Doper, verschuift het zwaartepunt volledig naar het handelen van Jezus (solidariteit) en de status van de gelovige als 'eigendom van God'.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus op menselijke gedragsverandering",
+        "tekstueel_bewijs": "Tegen de rijken zegt hij: Je moet delen.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God als Subject van redding",
+        "tekstueel_bewijs": "Dat Hij ons opneemt in Zijn verbond. En die trouw van de Heere God, die zit daarachter.",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Passiviteit van de ontvanger",
+        "tekstueel_bewijs": "Mogen die doop ons dragen.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": false,
+      "beschrijving": "Jezus wordt niet als voorbeeld gesteld ('doe zoals Jezus'), maar als Middelaar die doet wat wij niet kunnen.",
+      "bijbelse_figuren_als_model": [
+        "Johannes de Doper (als wegbereider, niet als moreel kopie)"
+      ],
+      "alternatieve_lezing": "N.v.t. De preek is reeds theocentrisch."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Troost en zekerheid (identiteit in God).",
+      "theologische_implicatie": "Soteriologie gaat vooraf aan de ethiek."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "De overgang van de doop van Johannes naar de christelijke doop is narratief sterk onderbouwd.",
+      "spanning_punten": [
+        "De spanning tussen de 'doop van bekering' (menselijk handelen) en de 'doop als geschenk' (goddelijk handelen) wordt goed opgelost."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Hij zou de straf op de zonde dragen.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "De Geest schenkt de 'Pouvoir' (kracht) om te geloven en te leven."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Hoog; vereist de dood van de Zoon van God."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek is structureel gezond. God/Jezus is de motor van de actie; de mens is de begunstigde.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_problem": "Geen",
+      "voorgestelde_herpositionering": "N.v.t.",
+      "voorbeeld_revisie": "N.v.t."
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "Geen",
+      "voorgestelde_identificatie": "N.v.t.",
+      "strategie": "Behoud de focus op de hoorder als 'eigendom'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Lichte nadruk op Savoir (uitleg over geschiedenis).",
+      "voorgestelde_balans": "Iets meer Pouvoir (wat doet de Geest nu concreet?).",
+      "concrete_suggestie": "Maak de 'kracht van de doop' in het dagelijks leven specifieker."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Zonde wordt wat abstract benoemd.",
+      "voorgestelde_intensivering": "Maak het 'falen' van de mens concreter om de diepte van Jezus' solidariteit te vergroten.",
+      "theologische_rationale": "Hoe groter de nood, hoe groter de genade."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "Geen",
+      "voorgestelde_structuur": "De huidige volgorde (Soteriologie -> Identiteit -> Levensweg) is correct."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "Een theologisch rijke preek die de hoorder effectief positioneert als ontvanger van Gods trouw."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Waar retorica kijkt naar de overtuigingskracht van de drie redenen voor dankbaarheid, kijkt Greimas naar wie de werkelijke 'motor' in het verhaal is.",
+    "verschil_met_exegese": "De analyse focust niet op de historische context van de Essenen, maar op de functionele rol van water en Geest in het huidige geloofsverhaal.",
+    "unieke_inzichten_greimas": "Onthult dat de preek ondanks de morele vermaningen van Johannes de Doper in de dieptestructuur strikt theocentrisch blijft."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jezus (stelt zich gelijk)",
+      "God (spreekt, neemt op)",
+      "Heilige Geest (daalt neer, vervult)",
+      "Johannes (verkondigt, doopt)",
+      "De hoorder (is dankbaar, is eigendom)"
+    ],
+    "volledige_object_lijst": [
+      "Vergeving van zonde",
+      "Eigendom van God",
+      "Nieuwe levensstijl",
+      "Bevrijding"
+    ],
+    "werkwoord_frequentie": {
+      "dopen": {
+        "count": "24",
+        "primair_subject": "God/Jezus"
+      },
+      "stellen (gelijk)": {
+        "count": "4",
+        "primair_subject": "Jezus"
+      },
+      "horen": {
+        "count": "6",
+        "primair_subject": "Mens"
+      }
+    },
+    "notities": "De preek slaagt voor de Rutledge-test: God is de handelende persoon in de cruciale heilsfeiten."
+  }
+}

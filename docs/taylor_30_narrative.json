@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "Still Another Look At Calvary",
+    "bijbeltekst": "Luke 23:33",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "God enters the human condition in Christ to expose the hideousness of sin and achieve a victory of love/forgiveness that delivers humanity from captivity.",
+      "subject": {
+        "identificatie": "God in Christ",
+        "tekstueel_bewijs": [
+          "God has not only become man in order to get with us but also has entered the deepest and most convulsive experiences",
+          "Jesus at Calvary made sin, human evil, overstretch, expose itself",
+          "He saved others because he would not save himself"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Deliverance/Salvation of humanity and the exposure of sin's true nature.",
+        "tekstueel_bewijs": [
+          "something has been done for us that nobody but Jesus could do",
+          "delivers us from presumptuousness",
+          "the prisoner's cell door swings wide"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "Divine Love / The Father",
+        "tekstueel_bewijs": [
+          "the supreme act of God's love",
+          "the final thrust of God's mercy"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Humanity / The Hearer",
+        "tekstueel_bewijs": [
+          "gives us a bright and blessed hope",
+          "something has been done for us"
+        ],
+        "positie_hoorder": "RECEIVER_SAVED"
+      },
+      "helper": {
+        "identificatie": "The Incarnation / Christ's humanity",
+        "tekstueel_bewijs": [
+          "strong enough, brave enough, who cared enough to become a man"
+        ],
+        "rol_van_god": "God is the Subject acting through the Helper (Christ's humanity).",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "Sin (as a cosmic/internal power) and the 'Mad men' (human actors).",
+        "tekstueel_bewijs": [
+          "the ugly, stubborn mystery of sin",
+          "death-dealing envy and prejudice which reside in all of us"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a 'mystery' and a 'captivity' that 'spoils all of life,' requiring a divine intervention rather than just moral effort."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The believer's response: looking at the cross, recognizing sin, and living a life of self-sacrifice for others.",
+      "subject": "The Hearer / The Christian",
+      "object": "Recognition of sin and service to neighbor.",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program (ethics/response) is presented as a result of 'taking another look' at what God has already done."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Divine Love → Salvation/Deliverance → Humanity",
+      "helper_subject_tegenstander": "Incarnation → God in Christ ← Sin/Death",
+      "subject_naar_object": "God → Deliverance of Man"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "24",
+      "mens_als_subject_count": "18",
+      "ratio": "1.33",
+      "voorbeelden_god_subject": [
+        "God has entered the deepest and most convulsive experiences",
+        "Jesus at Calvary made sin... expose itself",
+        "He saved others"
+      ],
+      "voorbeelden_mens_subject": [
+        "We tend to see this rebellion",
+        "We need to recognize this",
+        "We reach for figures and metaphors"
+      ],
+      "rutledge_score": "8"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "We need to recognize this"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "God who loved enough, was strong enough, brave enough"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Calvary exposes the hideous quality of human sin",
+          "we know something has been done for us"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "strong enough to become a man",
+          "delivers us",
+          "nobody but Jesus could do"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on God's 'ability' (Power) to save where man is 'defenseless' and 'captive.' It is a theology of Divine Competence."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Grace/Deliverance",
+      "s2": "Sin/Captivity",
+      "niet_s1": "Moral Laxity/Winking at wrong",
+      "niet_s2": "Exposure/Judgment"
+    },
+    "beweging_in_preek": "Moves from the 'winking at wrong' (~S1) to the 'exposure' of sin at the cross (~S2), leading to the 'deliverance' (S1) that overcomes the 'captivity' (S2).",
+    "theologische_resolutie": "The tension is resolved by Christ taking the 'fatal plunge' into S2 to open S1.",
+    "ernst_van_s2": "High. Sin is described as 'hideous' and 'repulsive,' not just a mistake."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is fundamentally theocentric. God is the primary actor (Subject) of the salvation event. Human action is framed as a response to a finished divine work.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Exemplarism in the secondary program",
+        "tekstueel_bewijs": "The father of modest means seeking to save his child... The Christian seeking to win others...",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Subject of active verbs",
+        "tekstueel_bewijs": "God has not only become man... but also has entered the deepest and most convulsive experiences",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "the ugly, stubborn mystery of sin... captivity of our own fleshly desires",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Human examples (sister, father) are used to illustrate the principle of 'saving others by not saving oneself,' but they are subordinate to Christ's unique work.",
+      "bijbelse_figuren_als_model": [
+        "None (Jesus is the Savior, not just a model)"
+      ],
+      "alternatieve_lezing": "N/A - The sermon already prioritizes the theocentric reading."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and awe ('tremble, tremble, tremble').",
+      "theologische_implicatie": "Monergistic undertones; salvation is 'done for us' by 'nobody but Jesus'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The transition from the 'exposure of sin' to the 'victory of love' is logically and narratively seamless.",
+      "spanning_punten": [
+        "The shift from sin as a cosmic mystery to sin as 'social section/race' creates a slight tension between ontological and sociological hamartology."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "The supreme moment of victory... the prisoner's cell door swings wide.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon focuses on Christ's work rather than the Spirit's application."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Critical; sin is a 'death-dealing' force that requires an 'emancipation'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative. The 'engine' of the sermon is the Power (Pouvoir) of God's love.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": false,
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Slightly low on Devoir (obligation), which is appropriate for a grace-centered sermon.",
+      "voorgestelde_balans": "Maintain current balance.",
+      "concrete_suggestie": "Ensure the 'Secondary Program' (Ethics) is clearly linked as a 'Vouloir' (desire) born from the 'Savoir' (knowing) of the Cross."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly defined.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The sermon already avoids 'cheap grace' by intensifying the ugliness of sin."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology → Ethics (already present)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of theocentric preaching that uses the actantial role of God to drive the narrative of grace."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'tremble' imagery, Greimas reveals that the 'tremble' is a reaction to a Subject-switch (from Man's effort to God's plunge).",
+    "verschil_met_exegese": "Exegesis might focus on the 'place called Calvary'; Greimas focuses on the 'functional role' of Calvary as the site of the Subject's performance.",
+    "unieke_inzichten_greimas": "Greimas highlights that the 'jeerers' at the cross function as an 'Opponent' who accidentally defines the 'Object' (He saved others)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (loved, was strong, became man)",
+      "Jesus (made sin expose itself, saved others, prays)",
+      "Sin (put Jesus on the cross, destroys land)",
+      "We (tend to see, wink at wrong, need grace)"
+    ],
+    "volledige_object_lijst": [
+      "Deliverance",
+      "Exposure of sin",
+      "Victory",
+      "Forgiveness"
+    ],
+    "werkwoord_frequentie": {
+      "save": {
+        "count": "6",
+        "primair_subject": "God/Jesus"
+      },
+      "become": {
+        "count": "4",
+        "primair_subject": "God"
+      },
+      "expose": {
+        "count": "2",
+        "primair_subject": "Calvary/Jesus"
+      }
+    },
+    "notities": "The sermon avoids the 'If-Then' conditional trap, maintaining a 'Because-Therefore' structure."
+  }
+}

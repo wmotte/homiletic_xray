@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "When Nagging Is Hoping",
+    "bijbeltekst": "Luke 18:1-8",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The believer (widow) must persistently petition an indifferent or reluctant God (Judge) to obtain justice through the power of nagging.",
+      "subject": {
+        "identificatie": "The Hearer / The Widow / The 'Baptized People'",
+        "tekstueel_bewijs": [
+          "You, we are the widow woman.",
+          "She kept coming back to court.",
+          "We will not let God off the hook."
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Justice (defined as social/human dignity)",
+        "tekstueel_bewijs": [
+          "Give me the justice to which I am entitled!",
+          "dignity for children, safety for families, homes for the homeless"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Human Sense of Rightness / The Claim",
+        "tekstueel_bewijs": [
+          "She nagged because she had hope... in the rightness of her claim."
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "The World / The Neighbor / The Self",
+        "tekstueel_bewijs": [
+          "we go to court on behalf of others, to lift their cause for justice."
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "Hope and Persistence (Internal Qualities)",
+        "tekstueel_bewijs": [
+          "everything from God depends upon the resolve and staying power of the widow woman."
+        ],
+        "rol_van_god": "Opponent/Receiver (God is the one being acted upon)",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "God's Indifference / Secular Despair",
+        "tekstueel_bewijs": [
+          "God is not all soft and gracious... bored to death, exhausted by these naggers.",
+          "We end in despair, believing that might makes right."
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The primary obstacle is the perceived indifference of God and the human tendency to 'lose heart'."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": false,
+      "beschrijving": "There is no distinct soteriological program where God acts upon the human; the ethical program is the only active one.",
+      "subject": "N/A",
+      "object": "N/A",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon collapses the relationship between God and man into a single axis where man is the initiator and God is the reluctant respondent."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Rightness of Claim → Justice → The World",
+      "helper_subject_tegenstander": "Persistence → The Believer ← God's Indifference",
+      "subject_naar_object": "The Believer → Justice"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "48",
+      "ratio": "0.25",
+      "voorbeelden_god_subject": [
+        "God will grant justice.",
+        "God finally must care too."
+      ],
+      "voorbeelden_mens_subject": [
+        "We will not let God off the hook.",
+        "She nagged because she had hope.",
+        "We go to court on behalf of others."
+      ],
+      "rutledge_score": "2"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "We must understand...",
+          "Pray always!",
+          "We will not let God off the hook."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "She really is a pest.",
+          "relentlessly, and passionately."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Jesus teaches us of prayer."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "She has no other resource."
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon is a 'Recruitment' narrative. It seeks to awaken the human 'will' (Vouloir) to nag God, assuming the hearer already has the 'power' (Pouvoir) if they simply don't 'lose heart'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Persistence (Nagging)",
+      "s2": "Losing Heart (Despair)",
+      "niet_s1": "Docility/Resignation",
+      "niet_s2": "Entitlement/Hope"
+    },
+    "beweging_in_preek": "From S2 (Losing heart) to S1 (Nagging) via the negation of S2 (Hope).",
+    "theologische_resolutie": "Resolution is found in human stamina. God is moved from indifference to action by human pressure.",
+    "ernst_van_s2": "Moderate; despair is seen as a secular attitude rather than a spiritual death requiring resurrection."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "The sermon is anthropocentric. The 'engine' of the story is human persistence. God is relegated to the role of a reluctant Opponent/Receiver who must be coerced into action.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "God as Instrumental",
+        "tekstueel_bewijs": "God can be nagged to a good verdict.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "If we do not lose heart... God finally must care too.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Theocentric Promise",
+        "tekstueel_bewijs": "God will grant justice quickly.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "The widow is presented as the hero/model for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [
+        "The Widow"
+      ],
+      "alternatieve_lezing": "Christ is the true Petitioner who persists on our behalf before the Father, or God is the persistent seeker (as in the Prodigal Son mentioned earlier)."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of performance; the success of 'justice' depends on their 'staying power'.",
+      "theologische_implicatie": "Synergism where man provides the impetus and God provides the sanction."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is rhetorically coherent but theologically inverted.",
+      "spanning_punten": [
+        "The sermon mentions the Prodigal Son (God as initiator) but then presents God as an unjust judge (God as reluctant)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "The core gesture by which we stay in faith.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is expected to generate their own 'hope' and 'resolve'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is 'losing heart' or 'secularized' attitudes, not a total inability."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (through nagging)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a call to human action where God is the object of our manipulation rather than the Subject of our salvation.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the Subject of 'hoping' and 'nagging'.",
+      "voorgestelde_herpositionering": "God as the Subject who persistently seeks justice despite human indifference.",
+      "voorbeeld_revisie": "Instead of 'We will not let God off the hook,' use 'God will not let us go until His justice is established.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Heroic Widow'.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the one who receives justice from a God who is *unlike* the unjust judge."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominant Vouloir (Willing).",
+      "voorgestelde_balans": "Pouvoir (God's Power).",
+      "concrete_suggestie": "Focus on God's 'Pouvoir-faire'—His ability and eagerness to grant justice."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "God is the opponent.",
+      "voorgestelde_intensivering": "Identify Sin/Injustice as a power that only God can overcome.",
+      "theologische_rationale": "If the opponent is just 'losing heart', the solution is just 'trying harder'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (nagging for justice) precedes and determines Soteriology (God's response).",
+      "voorgestelde_structuur": "God's character as Just (Soteriology) enables our prayer (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a strong social conscience, but it risks exhausting the hearer by making God's grace contingent upon human persistence."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the 'nagging' metaphor is engaging; semiotically, it makes God the antagonist.",
+    "verschil_met_exegese": "Exegesis of Luke 18 usually emphasizes the 'how much more' (a fortiori) argument—God is *not* like the judge—whereas this sermon identifies them too closely.",
+    "unieke_inzichten_greimas": "Greimas reveals that despite the word 'God', the functional role God plays here is 'Opponent' to the human 'Subject'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "She (widow) nagged",
+      "We (hearers) hope",
+      "We (baptized) will not let God off",
+      "Judge (God) denies"
+    ],
+    "volledige_object_lijst": [
+      "Justice",
+      "A good verdict",
+      "Dignity"
+    ],
+    "werkwoord_frequentie": {
+      "nag": {
+        "count": 8,
+        "primair_subject": "Man"
+      },
+      "hope": {
+        "count": 12,
+        "primair_subject": "Man"
+      },
+      "grant": {
+        "count": 4,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon relies on a 'playful rabbinic' defense to justify a structurally legalistic view of prayer."
+  }
+}

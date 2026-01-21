@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "titel_preek": "Saints Remembered and Saints to Come",
+    "bijbeltekst": "Hebrews 11; Isaiah 43",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The congregation must validate the 100-year history of the church by deciding to live lives of faith and mission in the future.",
+      "subject": {
+        "identificatie": "The Congregation (Hearers)",
+        "tekstueel_bewijs": [
+          "Everything is up to you.",
+          "You now can determine what this history adds up to.",
+          "Decide now to be the people in the future through whom the light of God comes."
+        ],
+        "frequentie_score": 8
+      },
+      "object": {
+        "identificatie": "Validation of the past/A better country",
+        "tekstueel_bewijs": [
+          "validate and maximize and enhance the past hundred years",
+          "desired a better country"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Preacher/Tradition",
+        "tekstueel_bewijs": [
+          "The text sets high expectations",
+          "I believe the entire chapter was written in order to get to these two verses"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Past Saints/God",
+        "tekstueel_bewijs": [
+          "they would not, apart from us, be made perfect",
+          "how that counts depends on now"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Example of Ancestors/God's provision of water",
+        "tekstueel_bewijs": [
+          "sturdy folk in this church have always trusted",
+          "God will give drink to God’s chosen people"
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "Nostalgia and Fear",
+        "tekstueel_bewijs": [
+          "wishing for the good old days",
+          "Many of us fear the other",
+          "copping out"
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The primary obstacles are internal attitudes like nostalgia or lack of resolve rather than ontological sin or cosmic evil."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God doing a 'new thing' in the world.",
+      "subject": "God",
+      "object": "A highway in the wilderness",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "God's action (Program 2) provides the setting/opportunity for the congregation's action (Program 1)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Preacher/Tradition → Validation of History → Past Saints",
+      "helper_subject_tegenstander": "Ancestors' Example → Congregation ← Nostalgia/Fear",
+      "subject_naar_object": "Congregation → Future Mission/Faithfulness"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 12,
+      "mens_als_subject_count": 45,
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God liked how they lived!",
+        "God is doing a new thing",
+        "God will give water"
+      ],
+      "voorbeelden_mens_subject": [
+        "You now can determine what this history adds up to.",
+        "Decide now to be the people...",
+        "We connected spirit and church and saints."
+      ],
+      "rutledge_score": 3
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 9,
+        "voorbeelden": [
+          "Everything is up to you.",
+          "the church must consciously, deliberately turn its face"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "they desired a better country",
+          "Decide now to be..."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "Saints are people who know the primal language",
+          "if you know what I mean"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "gives this present generation the capacity",
+          "God help me to be one too"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation and human decision. It assumes the hearer has the power to act if they simply choose to."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Faith/Future-Risk",
+      "s2": "Nostalgia/Safety",
+      "niet_s1": "Copping out/Inertia",
+      "niet_s2": "Newness/Mission"
+    },
+    "beweging_in_preek": "Moves from S2 (Past memories) to S1 (Call to future faith) via the negation of S2 (Do not remember former things).",
+    "theologische_resolutie": "The tension is resolved through human decision ('Decide now').",
+    "ernst_van_s2": "S2 is treated as a psychological trap rather than a spiritual death."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of 'faith,' the sermon's engine is anthropocentric. The value of God's past work is made contingent upon human performance ('Everything is up to you').",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace/Value",
+        "tekstueel_bewijs": "The value of the first hundred years in the eyes of God depends upon what is done now.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Imperative Dominance",
+        "tekstueel_bewijs": "Decide now to be the people...",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God's Initiative",
+        "tekstueel_bewijs": "Behold I am doing a new thing",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Saints are defined by their attributes (light-bearers, kind, brave) and the congregation is told to emulate them.",
+      "bijbelse_figures_als_model": [
+        "Abraham",
+        "Sarah",
+        "David"
+      ],
+      "alternatieve_lezing": "God was faithful to Abraham despite his failures; God will be faithful to this church."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform to 'save' the church's legacy.",
+      "theologische_implicatie": "Synergism where man completes what God started."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 7,
+      "coherentie_beschrijving": "The bowling analogy provides a strong but theologically problematic coherence.",
+      "spanning_punten": [
+        "The claim that God's approval of ancestors depends on the current generation's success."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "saints are the ones through whom the light comes upon us",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "The Spirit is mentioned as 'renewing' but the sermon focuses on the human 'deciding'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is seen as 'copping out' or 'nostalgia' rather than a condition requiring a Savior."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a recruitment speech. The congregation is the Subject, and God is the Helper/Provider of resources.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The congregation is the subject of the 'perfecting' of the church.",
+      "voorgestelde_herpositionering": "God as the one who perfects the saints.",
+      "voorbeeld_revisie": "God, who began a good work in this church 100 years ago, is the one who will bring it to completion."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as Hero/Score-keeper.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Focus on the 'promises received' rather than the 'decisions made'."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Excessive Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace-given power).",
+      "concrete_suggestie": "Focus on how the 'Easter gift' actually enables the weary to walk."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Weak (Nostalgia).",
+      "voorgestelde_intensivering": "Address the impossibility of being 'saints' by our own will.",
+      "theologische_rationale": "Without a 'heavy' opponent, grace is not necessary, only effort."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) has replaced Soteriology (Program 1).",
+      "voorgestelde_structuur": "God's faithfulness (1) → Our response (2)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a wonderful heart for the community, but it places the burden of 100 years of history on the shoulders of the congregation rather than on the faithfulness of Christ."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the bowling analogy is effective; semiotically, it is Pelagian.",
+    "verschil_met_exegese": "Exegesis of Hebrews 11:40 usually emphasizes Christ as the 'perfecter,' not the later congregation.",
+    "unieke_inzichten_greimas": "Reveals that the 'Object' (the church's legacy) is being held hostage by the 'Subject' (the congregation)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We connected",
+      "Saints act",
+      "You determine",
+      "You get to decide",
+      "We remember",
+      "God is doing"
+    ],
+    "volledige_object_lijst": [
+      "the communion of saints",
+      "a better country",
+      "the value of the past"
+    ],
+    "werkwoord_frequentie": {
+      "decide": {
+        "count": 5,
+        "primair_subject": "Man"
+      },
+      "give": {
+        "count": 3,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon uses the word 'faith' frequently, but defines it as 'willingness to trust' and 'readiness to risk,' making faith itself a human work/competence."
+  }
+}

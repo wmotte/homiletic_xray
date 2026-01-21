@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "titel_preek": "The Great “O” Antiphons of Advent",
+    "bijbeltekst": "Proverbs 8, Exodus 24, Isaiah 11, Isaiah 22, Isaiah 9, Isaiah 60, Isaiah 7",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A liturgical sequence of antiphons and scripture readings tracing the titles of Christ from creation to incarnation.",
+      "exegetische_kwaliteit": "High; utilizes traditional typological exegesis connecting Old Testament titles to the person of Christ.",
+      "omvang_procent": "40%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is Petitional (Directives to God) and Proclamatory (Assertives about God).",
+      "primaire_kracht": "COMMANDING",
+      "helderheid_score": 9,
+      "voorbeelden": [
+        "Come and teach us the way of prudence.",
+        "Come and redeem us with outstretched arm.",
+        "Come and deliver us, and delay no longer."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Awe, expectant waiting, and communal longing for divine intervention.",
+      "pneumatologisch_bewustzijn": "Implicit; the Spirit is mentioned in the readings and collects as the one resting upon the Branch of Jesse.",
+      "perlocutionaire_werkwoorden": [
+        "hope",
+        "prepare",
+        "repent",
+        "adore"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "24",
+      "procent": "35",
+      "voorbeelden": [
+        "O Wisdom, coming forth from the mouth of the Most High",
+        "You open and no one can shut",
+        "The Spirit of the Lord rests upon the branch"
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "rests",
+        "comes",
+        "appeared"
+      ]
+    },
+    "directieven": {
+      "frequentie": "32",
+      "procent": "45",
+      "voorbeelden": [
+        "Come and save us",
+        "Stir up thy strength",
+        "Go ye out to meet him",
+        "Give us grace"
+      ],
+      "dominante_werkwoorden": [
+        "Come",
+        "Save",
+        "Deliver",
+        "Stir up",
+        "Give"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "8",
+      "procent": "12",
+      "voorbeelden": [
+        "I look from afar",
+        "Beloved in Christ, we are met together"
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "beseech",
+        "prepare"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "5",
+      "voorbeelden": [
+        "He shall come in glory to fulfill his promise"
+      ],
+      "dominante_werkwoorden": [
+        "fulfill",
+        "promise"
+      ],
+      "kwaliteit": "Weak; the promises are spoken 'about' as future events rather than delivered 'to' the hearer in the present."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "3",
+      "voorbeelden": [
+        "The message of salvation wrought by him"
+      ],
+      "dominante_werkwoorden": [
+        "wrought"
+      ],
+      "autoriteit": "Low; the text describes the declaration of the Gospel rather than performing an absolution or a direct 'I pronounce you' act."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "PERFORMATIVE_ADEQUATE",
+    "constatief_percentage": "40",
+    "performatief_percentage": "60",
+    "constatief_surplus_analyse": {
+      "aanwezig": false,
+      "ernst": "LOW",
+      "indicatoren": [
+        "The readings provide the constative base for the performative antiphons."
+      ],
+      "effect_op_hoorder": "Provides a biblical foundation for the prayers."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct Commissives (God promising to the hearer)",
+        "Direct Declaratives (Absolution/Blessing)"
+      ],
+      "effect_op_hoorder": "The hearer is a petitioner but not yet a recipient of a direct word of grace."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "Absent; the text asks God to come but does not declare 'He is here for you'.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "12",
+        "gebruik": "Used in 'We' (communal petition) and 'I' (choir responsory)."
+      },
+      "tweede_persoon": {
+        "frequentie": "45",
+        "gebruik": "Predominantly addressed to God (Vocative: 'O Wisdom', 'O Adonai').",
+        "performatieve_context": "Used for invocation, not for addressing the congregation with a promise."
+      },
+      "derde_persoon": {
+        "frequentie": "15",
+        "gebruik": "Used in the scripture readings to describe the Messiah.",
+        "distantie_effect": "Moderate; creates a sense of historical anticipation."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "20%",
+        "gebruik": "Biblical history of Israel."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "Theological attributes of Wisdom/God."
+      },
+      "actueel_present": {
+        "frequentie": "50%",
+        "gebruik": "The urgent 'Come' of the antiphons."
+      }
+    },
+    "adressering_effectiviteit": 7
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Scripture) -> Directive (Antiphon/Prayer).",
+      "voorbeelden": [
+        "Reading of the Law -> 'Come and redeem us'."
+      ],
+      "kwaliteit": "Strong in petition, but lacks the 'Toezegging' (Promise) that completes the sacramental cycle."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because we are sorely hindered (Indicative of need) -> Let your grace help us (Imperative/Petition)."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "SACRAMENTAL_CREATIVE",
+    "diagnose_toelichting": "This is a liturgical event where the language does not just talk about Advent but 'does' Advent through invocation.",
+    "sterke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Directives",
+        "tekstueel_bewijs": "Come and teach us the way of prudence.",
+        "effect": "Creates a real-time encounter of longing."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Commissives",
+        "categorie": "Toezegging",
+        "tekstueel_bewijs": "N/A",
+        "probleem": "God is the object of address, but God never speaks back to the congregation.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 8,
+    "gebeuren_toelichting": "The repetitive 'Come' creates a performative atmosphere of arrival.",
+    "sacramentele_kracht": 7,
+    "sacramentele_toelichting": "High on invocation, low on the 'Verbum Visibile' of the promise delivered."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God speaks through the Scripture readings (Assertive), but not in a direct address to the present 'you'.",
+      "prediker_als_mandataris": "The liturgy acts as the mandatory; there is no individual preacher.",
+      "tekstueel_bewijs": [
+        "The prophet heralds the birth"
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, in the Jesse reading and the Collect.",
+      "perlocutie_theologie": "Implicitly left to the 'grace' requested in the Collects.",
+      "tekstueel_bewijs": [
+        "The Spirit of the Lord rests upon the branch"
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The service functions as a means of grace through the 'Word read'.",
+      "epifanisch_taalgebruik": "Highly epiphanic; uses light/darkness metaphors.",
+      "tekstueel_bewijs": [
+        "Splendor of light eternal"
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The service is dominated by imperatives directed at God. It needs imperatives/commissives directed at the people.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The prophet heralds the birth of God-with-us.",
+          "voorgestelde_revisie": "Hear the prophet: God is with YOU now.",
+          "verschil": "Shifts from a report (constative) to an address (performative)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The congregation only asks; they are not told 'I have come'.",
+      "suggestie": "Insert a declarative 'Absolution' or 'Promise' after the Bidding Prayer.",
+      "voorbeeldzinnen": [
+        "In Christ, the Wisdom of God, you are forgiven and made wise."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'you' is almost always God, rarely the hearer.",
+      "suggestie": "Use the second person to apply the titles of Christ to the needs of the people.",
+      "voorbeeldzinnen": [
+        "He comes to unlock YOUR prison."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "N/A",
+      "suggestie": "Maintain the current balance but ground the petitions in the finished work of Christ."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A beautiful liturgical structure that succeeds as a 'speech act' of communal longing, though it would benefit from a more direct 'Word of Promise' addressed to the participants."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'appeal' of the music; SAT focuses on the 'act' of the Antiphon as a summons to the Divine.",
+    "verschil_met_retoriek": "Rhetoric would analyze the beauty of the 'O'; SAT analyzes the 'force' of the 'Come'.",
+    "unieke_inzichten_SAT": "SAT reveals that this service is a 'Directive-heavy' event, making it a liturgy of 'Invocation' rather than 'Proclamation'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "rests",
+        "comes",
+        "appeared",
+        "gave",
+        "ordering",
+        "standing",
+        "open",
+        "shut"
+      ],
+      "directief": [
+        "Come",
+        "Save",
+        "Deliver",
+        "Stir up",
+        "Give",
+        "Teach",
+        "Redeem",
+        "Lead",
+        "Enlighten",
+        "Cast away"
+      ],
+      "expressief": [
+        "look",
+        "beseech",
+        "prepare",
+        "mark",
+        "rejoice"
+      ],
+      "commissief": [
+        "promise",
+        "fulfill"
+      ],
+      "declaratief": [
+        "wrought",
+        "fashioned"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Come and save us, O Lord our God.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Strongly performative as a prayer."
+      }
+    ],
+    "notities": "The text is a liturgical script rather than a traditional sermon, which explains the high frequency of Directives (prayers) over Assertives (teaching)."
+  }
+}

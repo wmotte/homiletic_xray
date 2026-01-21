@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "titel_preek": "Die Auferstehung der Frauen",
+    "bijbeltekst": "Johannes 20,1-18; Jesaja 40; Psalm 31",
+    "analyse_datum": "2024-05-23",
+    "geschat_aantal_woorden": "2800"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A dialogue-sermon between Luise Schottroff (exegete) and Dorothee Sölle (poet/theologian). It weaves together the narrative of Mary Magdalene, the political context of the 1st century, the horrors of Apartheid/Chernobyl, and a feminist vision of 'Frauenkirche'.",
+      "exegetische_kwaliteit": "High. Strong socio-historical exegesis (Schottroff) focusing on the Roman occupation and the role of women.",
+      "omvang_procent": "65"
+    },
+    "illocutie": {
+      "beschrijving": "The sermon oscillates between lamenting (Expressive), analyzing (Assertive), and finally commissioning (Commissive/Declarative). The primary force is 'Testifying' and 'Empowering'.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Ich will mit Maria Magdalena weinen (Expressive)",
+        "Auferstehung ist Macht (Assertive)",
+        "Gehe zu meinen Brüdern und sage ihnen (Directive/Scripture Quote)",
+        "Ihr werdet neue Kraft empfangen (Commissive/Promise)"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Political mobilization, emotional release (lament), and the birth of a 'feminist vision' of hope.",
+      "pneumatologisch_bewustzijn": "Explicit. The Spirit is identified as the 'breath' of the Risen Christ and the 'Spirit of Courage'.",
+      "perlocutionaire_werkwoorden": [
+        "weinen",
+        "widerstehen",
+        "aufbrechen",
+        "hoffen",
+        "organisieren"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "60",
+      "voorbeelden": [
+        "Das Johannesevangelium erzählt...",
+        "Die Römer haben den Juden Jesus gekreuzigt.",
+        "Auferstehung ist Macht."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "war",
+        "heißt",
+        "wissen",
+        "erzählt"
+      ]
+    },
+    "directieven": {
+      "frequentie": "28",
+      "procent": "12",
+      "voorbeelden": [
+        "Hör doch auf.",
+        "Gehe zu meinen Brüdern.",
+        "Dreht euch um und seht auf Christus."
+      ],
+      "dominante_werkwoorden": [
+        "gehen",
+        "sagen",
+        "hören",
+        "sehen"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "45",
+      "procent": "18",
+      "voorbeelden": [
+        "Ich will weinen.",
+        "Ich bin müde, resigniert.",
+        "Mir macht das viel aus."
+      ],
+      "dominante_werkwoorden": [
+        "weinen",
+        "fühlen",
+        "klagen",
+        "wollen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "12",
+      "procent": "6",
+      "voorbeelden": [
+        "Ihr werdet neue Kraft empfangen.",
+        "Eure Füße werden wie von selbst laufen."
+      ],
+      "dominante_werkwoorden": [
+        "werden",
+        "versprechen"
+      ],
+      "kwaliteit": "Strong but late. The promises are concentrated in the final 'Frauenaussendung'."
+    },
+    "declaratieven": {
+      "frequentie": "8",
+      "procent": "4",
+      "voorbeelden": [
+        "Ich habe den Herrn gesehen.",
+        "Wir haben die Vision."
+      ],
+      "dominante_werkwoorden": [
+        "sehen",
+        "haben"
+      ],
+      "autoriteit": "Prophetic authority based on personal/communal experience rather than office."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75",
+    "performatief_percentage": "25",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive historical background on Rome and South Africa.",
+        "Long theoretical discussions on 'God-language' (Father/Mother)."
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and politically stimulated, but the 'event' of the Word is delayed by analysis."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "LOW",
+      "missende_elementen": [
+        "Direct absolution",
+        "Immediate sacramental address (I speak to you now)"
+      ],
+      "effect_op_hoorder": "A sense of 'we must do this' rather than 'it is done for us'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "5",
+      "kwaliteit_toezeggen": "High quality, specifically addressed to women.",
+      "voorbeelden": [
+        "Liebe Schwestern, ihr werdet neue Kraft empfangen."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "high",
+        "gebruik": "Subjective testimony ('Ich will weinen', 'Ich erlebe')."
+      },
+      "tweede_persoon": {
+        "frequentie": "moderate",
+        "gebruik": "Direct address to the 'Sisters' and the congregation in the end.",
+        "performatieve_context": "Used in the final blessing/sending."
+      },
+      "derde_persoon": {
+        "frequentie": "very high",
+        "gebruik": "Historical analysis of Mary, the Jews, the Romans, and the ANC.",
+        "distantie_effect": "Creates a lecture-like atmosphere in the middle sections."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40",
+        "gebruik": "Biblical and political history."
+      },
+      "tijdloos_present": {
+        "frequentie": "40",
+        "gebruik": "Theological truths about 'X' and 'God'."
+      },
+      "actueel_present": {
+        "frequentie": "20",
+        "gebruik": "The 'Now' of the vision and the sending."
+      }
+    },
+    "adressering_effectiviteit": 7
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of world) -> Directive (We must change).",
+      "voorbeelden": [
+        "Die Katastrophe wächst... Wir müssen die Selbstversorgungswirtschaft ausmalen."
+      ],
+      "probleem": "Moralistic pressure without the 'Promise' as a bridge."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Mary's story) -> Declarative (Christ is risen) -> Commissive (You will receive power).",
+      "voorbeelden": [
+        "Christus ist erschienen... Er ist bei euch... Ihr werdet Kraft empfangen."
+      ],
+      "kwaliteit": "Strongest at the very end."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Er ist bei euch. Liebe Schwestern, ihr werdet neue Kraft empfangen."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "Wir müssen die Selbstversorgungswirtschaft ausmalen (based on political necessity, not grace)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "TESTIFYING_SUBJECTIVE",
+    "diagnose_toelichting": "The sermon functions as a powerful shared testimony (Sölle/Schottroff) that moves from lament to political vision, using the biblical text as a mirror for contemporary suffering.",
+    "sterke_punten": [
+      {
+        "aspect": "Lament",
+        "categorie": "Expressive",
+        "tekstueel_bewijs": "Ich will mit Maria Magdalena weinen.",
+        "effect": "Validates the hearer's pain."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "Das Johannesevangelium ist das Evangelium von kleinen christlichen Gemeinden...",
+        "probleem": "Too much 'talking about' the text rather than 'speaking from' it.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 7,
+    "gebeuren_toelichting": "It becomes an event in the poetic prayers and the final sending, but the middle part is heavy on information.",
+    "sacramentele_kracht": 6,
+    "sacramentele_toelichting": "The 'Toezegging' (Promise) is present but often tied to political action rather than pure gift."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Indirect. God speaks through the 'Vision' and the 'Tradition'.",
+      "prediker_als_mandataris": "The preacher acts as a 'witness' (Zeuge) rather than a 'herald' (Herold).",
+      "tekstueel_bewijs": [
+        "Ich habe den Herrn gesehen."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, as the 'Spirit of Courage' and 'Truth'.",
+      "perlocutie_theologie": "The Spirit is the one who 'breathes' life into the disciples.",
+      "tekstueel_bewijs": [
+        "Seine Art, uns zu berühren, ist der Heilige Geist."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Partially. The sermon is seen as 'Bread' (altes Papier zu Brot).",
+      "epifanisch_taalgebruik": "Yes, in the 'Vision' sections.",
+      "tekstueel_bewijs": [
+        "Wir haben die Vision: Die Menschen werden..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'was' verbs; needs more 'I promise you' or 'God says to you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Auferstehung ist Macht, die den Tod besiegt.",
+          "voorgestelde_revisie": "In Christus besiegt Gott heute euren Tod.",
+          "verschil": "Shifts from a general truth to a personal event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is often conditional on 'learning to weep'.",
+      "suggestie": "Start with the promise of the Risen Christ before the call to lament.",
+      "voorbeeldzinnen": [
+        "Christus ist hier und er löst eure Versteinerung."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' (inclusive) and 'they' (historical).",
+      "suggestie": "Use more 'You' (singular/plural) to address the specific listener.",
+      "voorbeeldzinnen": [
+        "Maria, er ruft dich beim Namen."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Political imperatives sometimes lack the 'because' of the Gospel.",
+      "suggestie": "Ground the 'Self-supply economy' explicitly in the 'New Creation' already given."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A deeply moving, prophetic sermon that succeeds in its 'Expressive' and 'Commissive' acts, though it occasionally gets lost in 'Assertive' historical analysis."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on Sölle's 'Self-disclosure'; SAT focuses on the 'Declarative' power of the Vision to change reality.",
+    "verschil_met_retoriek": "It's not just persuasion; it's the attempt to 'perform' the resurrection in the act of preaching.",
+    "unieke_inzichten_SAT": "SAT reveals that the 'Frauenaussendung' at the end is the actual 'sacramental' core of the sermon."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "erzählt",
+        "ist",
+        "war",
+        "bedeutet",
+        "wissen"
+      ],
+      "directief": [
+        "gehe",
+        "sage",
+        "hört",
+        "seht"
+      ],
+      "expressief": [
+        "weinen",
+        "klagen",
+        "hoffen",
+        "freuen"
+      ],
+      "commissief": [
+        "empfangen",
+        "werden",
+        "versprechen"
+      ],
+      "declaratief": [
+        "gesehen",
+        "nennen",
+        "offenbaren"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Ich habe den Herrn gesehen.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Creates the foundation for the sermon's authority."
+      }
+    ],
+    "notities": "The dialogue format naturally increases the 'Expressive' count but can dilute the 'Declarative' authority of a single voice."
+  }
+}

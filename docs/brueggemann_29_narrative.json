@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "titel_preek": "On Signal: Breaking the Vicious Cycles",
+    "bijbeltekst": "Leviticus 25, Deuteronomy 15, Isaiah 61, Luke 4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The community of faith must enact economic divestment (Jubilee) to break cycles of accumulation and restore neighborliness.",
+      "subject": {
+        "identificatie": "The Hearer/The Church (Trinity)",
+        "tekstueel_bewijs": [
+          "every fifty years you must give back",
+          "we baptized people are the ones who have signed on",
+          "Trinity may now think of deep and bold gestures of Jubilee"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Jubilee/Neighborliness/Economic Justice",
+        "tekstueel_bewijs": [
+          "a practice of neighborliness that knows every day that rich and poor... are in it together",
+          "bringing things back to where they ought to be"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Moses/God (as Lawgiver)",
+        "tekstueel_bewijs": [
+          "Moses announced to Israel God’s will",
+          "At the center of biblical faith is a command from God"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Poor/The City/The Community",
+        "tekstueel_bewijs": [
+          "give back to the people the land",
+          "the poor have their debts canceled"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Jesus (as Signal/Example)",
+        "tekstueel_bewijs": [
+          "Jesus is our signal",
+          "He set about giving social power"
+        ],
+        "rol_van_god": "God is the Sender/Command-giver; Jesus is the Signal/Model.",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "Greed/Accumulation/Human Resistance",
+        "tekstueel_bewijs": [
+          "the mad scramble of accumulation",
+          "vicious cycles of violent accumulation",
+          "folks do not want to do it"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily a socio-economic habit and a psychological 'mean thought' rather than an ontological power."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "God's future kingdom coming to earth.",
+      "subject": "God",
+      "object": "A peaceable world",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon suggests God's vision only becomes reality 'when there is enough human obedience,' making the primary program (human action) the condition for the secondary (divine victory)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Jubilee/Justice → The Poor",
+      "helper_subject_tegenstander": "Jesus (Signal) → The Church ← Greed/Resistance",
+      "subject_naar_object": "The Church → Divestment"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God wants the little ones... to have their stuff",
+        "God wills and acts toward a neighborliness"
+      ],
+      "voorbeelden_mens_subject": [
+        "you must give back",
+        "we do not want to divest",
+        "Trinity may now think of deep and bold gestures"
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "every fifty years you must give back",
+          "It is a hard command",
+          "summons to divest"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "folks do not want to do it",
+          "we do not want to divest"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Moses figured out",
+          "we all understand in our society"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "divestment will make newness possible"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward obligation (Must). It assumes the hearer has the power (Pouvoir) if they can overcome their lack of will (Vouloir)."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Jubilee (Divestment)",
+      "s2": "Accumulation (Monopoly)",
+      "niet_s1": "Resistance (Mean thoughts)",
+      "niet_s2": "Neighborliness (Curbed greed)"
+    },
+    "beweging_in_preek": "From S2 (Accumulation) to S1 (Jubilee) via the negation of S1 (Resistance).",
+    "theologische_resolutie": "Resolution is found in human obedience to the 'Signal' (Jesus).",
+    "ernst_van_s2": "S2 is seen as a social 'vicious cycle' but not as a state of spiritual death requiring a Savior."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using biblical language, the 'engine' of the sermon is human performance. God is the Sender of the law, and Jesus is the Example/Signal, but the Hearer is the Subject who must execute the divestment to bring about the Kingdom.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Kingdom",
+        "tekstueel_bewijs": "that vision of God will only become reality when there is enough human obedience.",
+        "ernst": "CRITICAL"
+      },
+      {
+        "indicator": "Imperative Dominance",
+        "tekstueel_bewijs": "You must give it back... you must give it back.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christological Signal",
+        "tekstueel_bewijs": "Jesus is our signal.",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus is presented as the one who 'enacts' Jubilee, serving as a model for Trinity Church to do the same.",
+      "bijbelse_figuren_als_model": [
+        "Moses",
+        "Jesus"
+      ],
+      "alternatieve_lezing": "A theocentric reading would focus on God as the one who cancels the debt of Sin/Death through Christ, which then frees the believer to share resources."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Burden of responsibility; potential for pride if successful or guilt if failing.",
+      "theologische_implicatie": "Synergism where human action is the primary catalyst for eschatological fulfillment."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is logically coherent as a call to social action, but theologically incoherent regarding the relationship between grace and works.",
+      "spanning_punten": [
+        "The quote 'I would rather have my debts forgiven than my sins' creates a tension where economic relief is prioritized over ontological reconciliation."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Jesus quotes Isaiah to show us what to do; we follow the signal.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer already possesses the competence to obey if they choose to."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is viewed as 'accumulation' and 'mean thoughts'—social and ethical failures rather than a lost condition."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (as the one whose obedience makes the vision reality)."
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Mandate' (Sender -> Subject). The Hearer is the Subject, and God is the Lawgiver. Jesus is reduced to a Helper/Signal.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the primary actor of the 'Jubilee'.",
+      "voorgestelde_herpositionering": "Make God the Subject of the Jubilee (He cancels our debt).",
+      "voorbeeld_revisie": "Instead of 'You must give back,' use 'Because God has returned you to Himself, you are now free to let go of what you hold.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the 'Accumulator' who must fix themselves.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer first as the one whose 'debt' was paid by Christ."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "DEVOIR (Must)",
+      "voorgestelde_balans": "POUVOIR (Enabled by Grace)",
+      "concrete_suggestie": "Focus on how the Gospel gives the power to divest, rather than just the command to do so."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Greed as a bad habit.",
+      "voorgestelde_intensivering": "Present greed as an idol/power that humans cannot break on their own.",
+      "theologische_rationale": "To make the 'Pouvoir' of the Spirit necessary."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Ethics (Program 2) is driving the sermon without a Soteriological (Program 1) foundation.",
+      "voorgestelde_structuur": "1. God cancels our debt (Soteriology). 2. We cancel others' debts (Ethics)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon has a powerful social vision but risks crushing the hearer under the weight of a 'hard command' without providing the narrative power of God's prior action."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the structure and the 'yabal' metaphor; semiotics reveals the hearer is doing all the work.",
+    "verschil_met_exegese": "Exegesis might confirm the Jubilee laws; semiotics shows the sermon treats these laws as a new legalism.",
+    "unieke_inzichten_greimas": "Greimas reveals that Jesus is used as a 'functional tool' (Helper) for human achievement rather than the 'Subject' of salvation."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Moses announced",
+      "You must give back",
+      "Trinity may think",
+      "We baptized people signed on",
+      "Jesus read",
+      "God wills"
+    ],
+    "volledige_object_lijst": [
+      "land and property",
+      "neighborliness",
+      "divestment",
+      "God's vision"
+    ],
+    "werkwoord_frequentie": {
+      "give back": {
+        "count": "5",
+        "primair_subject": "Man"
+      },
+      "divest": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "proclaim": {
+        "count": "3",
+        "primair_subject": "Jesus"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Social Gospel' actantial structure where the 'Kingdom' is a human project motivated by a divine vision."
+  }
+}

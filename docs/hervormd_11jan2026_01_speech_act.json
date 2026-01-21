@@ -1,0 +1,328 @@
+{
+  "metadata": {
+    "titel_preek": "Bruiloft te Kana: Het Prototype van het Feest",
+    "bijbeltekst": "Johannes 2:1-11",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "De predikant legt het verhaal van de bruiloft te Kana uit, met specifieke aandacht voor de symboliek van de moeder (synagoge), de vaten (reiniging) en de overvloed aan wijn als teken van het komende Koninkrijk.",
+      "exegetische_kwaliteit": "Sterk op symbolisch niveau; verbindt Kana direct met het kruis (het 'uur') en de sacramentstheologie.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "De predikant begint beschrijvend (assertief), maar verschuift in de laatste drie alinea's naar een direct aansprekende en belovende kracht.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "\"Vandaag staat de tafel van de Heer in ons midden gereed.\"",
+        "\"Het is de Bruidegom die u nodigt.\"",
+        "\"De wijn krijgt u uit de hand van Degene die de vaten vulde.\""
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "De hoorder moet zich uitgenodigd voelen tot het Avondmaal en de bevrijding van de wet (reiniging) ervaren.",
+      "pneumatologisch_bewustzijn": "Beperkt expliciet genoemd, hoewel de hoop wordt uitgesproken dat het de hoorders 'gegeven wordt'.",
+      "perlocutionaire_werkwoorden": [
+        "vertrouwen",
+        "geloven",
+        "komen",
+        "aanzitten",
+        "vieren"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "85",
+      "procent": "70%",
+      "voorbeelden": [
+        "\"Johannes de Doper kan spreken over Jezus.\"",
+        "\"Het is een Joods feest.\"",
+        "\"De wijn is op.\""
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "wordt",
+        "lijkt",
+        "gebeurt"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "\"Neem dan de uitnodiging aan.\"",
+        "\"Kom, want alle dingen zijn gereed.\""
+      ],
+      "dominante_werkwoorden": [
+        "neem",
+        "kom"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "5",
+      "procent": "3%",
+      "voorbeelden": [
+        "\"Ik vind het eigenlijk wel een mooie gedachte.\"",
+        "\"Zo hoop ik dat het ook ons gegeven wordt.\""
+      ],
+      "dominante_werkwoorden": [
+        "vinden",
+        "hopen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "12",
+      "procent": "15%",
+      "voorbeelden": [
+        "\"De wijn krijgt u uit de hand van Degene...\"",
+        "\"Hij heiligt eenieder die in Hem geloven wil.\""
+      ],
+      "dominante_werkwoorden": [
+        "krijgt",
+        "nodigt",
+        "schenkt"
+      ],
+      "kwaliteit": "De beloften zijn indirect geformuleerd in de derde persoon, wat de performatieve kracht iets verzwakt."
+    },
+    "declaratieven": {
+      "frequentie": "4",
+      "procent": "7%",
+      "voorbeelden": [
+        "\"Vanaf nu is iedereen welkom in Hem.\"",
+        "\"De grenzen zijn geslecht.\""
+      ],
+      "dominante_werkwoorden": [
+        "zijn",
+        "is"
+      ],
+      "autoriteit": "De predikant spreekt met autoriteit namens de Schrift, maar aarzelt om de eerste persoon ('Ik verkondig u') te gebruiken."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75%",
+    "performatief_percentage": "25%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Lange uiteenzetting over de symboliek van de moeder.",
+        "Veel speculatie ('Zou het kunnen dat...').",
+        "Beschrijvende taal over wat er in Kana gebeurde."
+      ],
+      "effect_op_hoorder": "De hoorder wordt een toeschouwer van een interessant theologisch tableau in plaats van een deelnemer."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "LOW",
+      "missende_elementen": [
+        "Directe vrijspraak",
+        "Ik-vormige toezegging namens God"
+      ],
+      "effect_op_hoorder": "De uitnodiging blijft hangen in de beschrijving van de uitnodiging."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "Sterk aan het einde, maar vaak in de 'wij-vorm' of passief.",
+      "voorbeelden": [
+        "\"Het is voor u.\"",
+        "\"De schuld en de scheiding is weggedragen.\""
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "15",
+        "gebruik": "Vaak als 'wij' (inclusief) of 'ik' als zoekende prediker."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Directe adressering aan het einde van de preek ('u').",
+        "performatieve_context": "Gekoppeld aan de uitnodiging voor de tafel."
+      },
+      "derde_persoon": {
+        "frequentie": "120",
+        "gebruik": "Dominant in de exegese en beschrijving van Jezus/Moeder.",
+        "distantie_effect": "Creëert een historische en symbolische afstand."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Narratief van Kana."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theologische waarheden over Jezus."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "De tafel die nu gereed staat."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "n.v.t.",
+      "voorbeelden": [],
+      "probleem": "n.v.t."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "De preek beweegt van de uitleg (Assertief) naar de transformatie van de vaten (Declaratief) naar de uitnodiging (Commissief).",
+      "voorbeelden": [
+        "\"De grenzen zijn geslecht (Dec) -> Neem dan de uitnodiging aan (Dir).\""
+      ],
+      "kwaliteit": "Theologisch zuiver, maar de performatieve landing is kort in vergelijking met de aanloop."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "\"De schuld is weggedragen (Ind). Daarom mogen we komen (Imp).\""
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "De preek is sterk gericht op het wegnemen van drempels voor het Avondmaal door de genade te schilderen, maar blijft lang hangen in het 'uitleggen' van die genade.",
+    "sterke_punten": [
+      {
+        "aspect": "Christocentrisch",
+        "categorie": "Locutie",
+        "tekstueel_bewijs": "\"Hij is de inhoud van het feest.\"",
+        "effect": "Focus op Jezus in plaats van op de mens."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Speculatieve vragen",
+        "categorie": "Assertieven",
+        "tekstueel_bewijs": "\"Zou het kunnen dat...\"",
+        "probleem": "Verzwakt de illocutionaire kracht tot een suggestie.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "Het wordt pas een 'event' in de laatste minuten; daarvoor is het vooral onderwijs.",
+    "sacramentele_kracht": 7,
+    "sacramentele_toelichting": "De koppeling tussen het teken (wijn) en de werkelijkheid (vergeving) is theologisch diep."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Indirect; God spreekt via de uitleg van de prediker.",
+      "prediker_als_mandataris": "Aanwezig in de slotoproep.",
+      "tekstueel_bewijs": [
+        "\"Op de stem van Hem die roept: Kom.\""
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Impliciet.",
+      "perlocutie_theologie": "Ja, 'het wordt ons gegeven'.",
+      "tekstueel_bewijs": [
+        "\"Ik hoop dat het ook ons gegeven wordt.\""
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Ja, de preek bereidt de hoorder voor op de ontmoeting aan de tafel.",
+      "epifanisch_taalgebruik": "Sterk in de beschrijving van de transformatie van water naar wijn.",
+      "tekstueel_bewijs": [
+        "\"Het licht werpt al vooruit aan de tafel.\""
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Vervang vragende zinnen door stellende zinnen en verschuif van de derde naar de tweede persoon.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "\"Zou het kunnen dat God wil dat zijn Zoon midden in deze wereld komt?\"",
+          "voorgestelde_revisie": "\"God zendt Zijn Zoon vandaag naar u toe, midden in uw leven.\"",
+          "verschil": "Verschuift van speculatie naar proclamatie."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "De toezegging is nu vaak een beschrijving van een toezegging.",
+      "suggestie": "Gebruik de 'Ik-vorm' namens Christus.",
+      "voorbeeldzinnen": [
+        "\"Namens Christus zeg ik u: uw zonden zijn weggegeven.\""
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Te veel 'men' en 'we' in het middenstuk.",
+      "suggestie": "Spreek de hoorder direct aan op hun nood aan reiniging.",
+      "voorbeeldzinnen": [
+        "\"U die zich onrein voelt: voor u is deze wijn.\""
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "n.v.t.",
+      "suggestie": "Behoud de huidige structuur in de slotfase."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Een theologisch rijke preek die de hoorder prachtig voorbereidt, maar aan kracht zou winnen door de 'misschien-taal' te vervangen door de 'amen-taal' van de belofte."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "Waar SvT zou kijken naar de relatie tussen zender en ontvanger, laat SAT zien dat de prediker hier optreedt als 'gevolmachtigde' die een nieuwe status (welkom) verleent.",
+    "verschil_met_retoriek": "Het gaat niet om de overtuigingskracht van de metafoor 'wijn', maar om de daadwerkelijke uitnodiging die in de naam van God geschiedt.",
+    "unieke_inzichten_SAT": "SAT legt bloot dat de 'constatieve surplus' in de exegese de hoorder te lang in de rol van toeschouwer houdt."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "staat",
+        "wordt gezegd",
+        "verwijst",
+        "verschijnt",
+        "blijkt",
+        "gebeurt"
+      ],
+      "directief": [
+        "luister",
+        "neem aan",
+        "kom"
+      ],
+      "expressief": [
+        "hopen",
+        "vinden",
+        "verwonderen"
+      ],
+      "commissief": [
+        "nodigt",
+        "krijgt",
+        "schenkt"
+      ],
+      "declaratief": [
+        "zijn geslecht",
+        "is welkom",
+        "is gereed"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "\"De wijn krijgt u uit de hand van Degene die de vaten vulde.\"",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "Sterk",
+        "effectiviteit": "Zeer effectief als sacramentele toezegging."
+      }
+    ],
+    "notities": "De preek is een schoolvoorbeeld van hoe een goede exegese (locutie) soms de performatieve kracht (illocutie) in de weg kan zitten door te veel 'praten over'."
+  }
+}

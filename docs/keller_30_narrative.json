@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "titel_preek": "David’s Friend",
+    "bijbeltekst": "1 Samuel 18, 19, 20, 23",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2400"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The pursuit of true friendship as a humanizing and life-saving necessity, modeled by Jonathan and fulfilled by Jesus.",
+      "subject": {
+        "identificatie": "The Hearer (Humanity)",
+        "tekstueel_bewijs": [
+          "You’ll never get through life without friends.",
+          "You have to have friends.",
+          "You’re never going to become fully human without friends."
+        ],
+        "frequentie_score": 7
+      },
+      "object": {
+        "identificatie": "True Friendship (Humanization/Survival)",
+        "tekstueel_bewijs": [
+          "What gets you through these tough times is friendship.",
+          "There is nothing more humanizing than friendship."
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "The Triune God (as the source of the social image)",
+        "tekstueel_bewijs": [
+          "Because we’re made in the image of God... God is Father, Son, and Holy Spirit."
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer",
+        "tekstueel_bewijs": [
+          "sent me a friend to comfort me in my terrible loneliness."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Jesus Christ (The Ultimate Friend)",
+        "tekstueel_bewijs": [
+          "Jesus’ saving friendship could be the basis for us to make one another friends."
+        ],
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Loneliness, Adversity, and the 'User' Mentality",
+        "tekstueel_bewijs": [
+          "A user relationship always has a cost-benefit little calculator.",
+          "You’ll never get through your hardest times without friends."
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "The opponent is primarily the lack of social support and the internal tendency toward transactional relationships."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The Soteriological Program: Jesus (S) saves the sinner (O) through his sacrificial friendship.",
+      "subject": "Jesus Christ",
+      "object": "The Sinner/Hearer",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The secondary program (Jesus' work) is presented as the 'power source' or fuel for the primary program (human friendship)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Triune God → Friendship/Humanity → The Hearer",
+      "helper_subject_tegenstander": "Jesus → The Hearer ← Loneliness/Transactionalism",
+      "subject_naar_object": "The Hearer → True Friendship"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 14,
+      "mens_als_subject_count": 38,
+      "ratio": "0.37",
+      "voorbeelden_god_subject": [
+        "God makes a companion for him.",
+        "Jesus Christ looks down from the cross.",
+        "He stayed on the cross."
+      ],
+      "voorbeelden_mens_subject": [
+        "You have to have friends.",
+        "You have to open up your schedule.",
+        "You must discover somebody who has a common passion."
+      ],
+      "rutledge_score": 4
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "You have to have friends.",
+          "You must not dress up for a friend.",
+          "You have to let friends into your common life."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "Those who simply 'want friends' can never have any.",
+          "Do you really want to let people in?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "What is friendship? ... there are really three [elements]."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "How do we get the power to be a friend?",
+          "His transparency can become the basis for your transparency."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon heavily emphasizes the obligation (Devoir) to have and be a friend, though it attempts to ground the ability (Pouvoir) in Christ's example."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Covenantal Friendship",
+      "s2": "Adversity/Loneliness",
+      "niet_s1": "Transactional 'User' Relationship",
+      "niet_s2": "Self-Sufficiency (The Garden without Eve)"
+    },
+    "beweging_in_preek": "From S2 (Loneliness) to ~S1 (User relationships) to S1 (Covenantal friendship via Christ).",
+    "theologische_resolutie": "Christ's friendship provides the 'Pouvoir' to move from transactionalism to covenant.",
+    "ernst_van_s2": "Moderate; adversity is seen as inevitable, but loneliness is the primary 'evil' to be contained."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the sermon uses Christ's work as the foundation, the primary narrative drive is 'How you can have better friendships.' It uses a 'Power-for-Living' model where Grace is the fuel for human performance.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "Where do you get the strength to do that? ... his transparency can become the basis for your transparency.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Substitutionary Language",
+        "tekstueel_bewijs": "He was dying for you because you and I have fallen asleep on him.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jonathan is used as a prototype of the friend we must become, though he is eventually linked to Christ.",
+      "bijbelse_figuren_als_model": [
+        "Jonathan",
+        "David"
+      ],
+      "alternatieve_lezing": "Focus on God as the only Constant Friend to the unfaithful David/Hearer, regardless of human friendship success."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform 'transparency' and 'constancy' to avoid being a 'user'.",
+      "theologische_implicatie": "Sanctification (friendship) is the primary goal; Justification is the means."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 8,
+      "coherentie_beschrijving": "The transition from human friendship to Christ's friendship is rhetorically smooth but structurally shifts the hearer from Subject to Receiver late in the text.",
+      "spanning_punten": [
+        "The 'necessity' of friends vs. the 'sufficiency' of Christ."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "His transparency can become the basis for your transparency.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon attributes the 'Pouvoir' to the 'saving friendship of Jesus' rather than the specific agency of the Spirit."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is described as being a 'user' or being 'deceived' about flaws."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God or Man?"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'How-To' on friendship with a Christological 'Power-Source' appended at the end.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "The hearer is the Subject of 'becoming human' through friendship.",
+      "voorgestelde_herpositionering": "Make Christ the Subject who befriends the friendless.",
+      "voorbeeld_revisie": "Instead of 'You need friends to be human,' use 'Christ befriends you to restore your humanity.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hearer as the one who must 'discover' and 'add' constancy.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that we are the 'Sauls' whom Jonathan/Christ protects despite our enmity."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Heavy Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as gift).",
+      "concrete_suggestie": "Focus more on how Christ's friendship *creates* the heart that wants to be a friend, rather than just providing a 'basis'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Loneliness/Adversity.",
+      "voorgestelde_intensivering": "The 'Opponent' should be the spiritual death that makes us incapable of love.",
+      "theologische_rationale": "To make the 'Helper' (Christ) more than just a social model."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "The hierarchy is mostly intact, but the ethical program dominates the word count.",
+      "voorgestelde_structuur": "Soteriology (Christ's friendship) → Ethics (Our friendship)."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A masterful rhetorical bridge between human experience and the Gospel, though structurally leaning toward a 'Gospel-powered' moralism."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, the sermon is about 'Friendship'; semiotically, it is about the 'Subject's competence'.",
+    "verschil_met_exegese": "Exegesis focuses on David/Jonathan; Greimas shows the hearer is being cast as David in need of a Jonathan.",
+    "unieke_inzichten_greimas": "Reveals that God is used as a 'Helper' to the human 'Subject' in the primary narrative arc."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "You (must have friends)",
+      "Jonathan (made a covenant)",
+      "Jesus (laid down his life)",
+      "We (are like the monster)"
+    ],
+    "volledige_object_lijst": [
+      "Friendship",
+      "Humanity",
+      "Salvation"
+    ],
+    "werkwoord_frequentie": {
+      "have/need": {
+        "count": 12,
+        "primair_subject": "Man"
+      },
+      "save/lay down": {
+        "count": 5,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The Frankenstein illustration serves as a powerful 'Sender' of values regarding humanization."
+  }
+}

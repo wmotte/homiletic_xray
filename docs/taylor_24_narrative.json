@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "titel_preek": "A Completed Task",
+    "bijbeltekst": "John 17:4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Jesus Christ completes the specific work assigned by the Father, specifically the unmasking of sin and the defeat of evil's deception through the cross.",
+      "subject": {
+        "identificatie": "Jesus Christ",
+        "tekstueel_bewijs": [
+          "I have finished the work which thou gavest me to do",
+          "Jesus outmaneuvered the powers of hell",
+          "Jesus snatched the mask from evil and exposed it"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "The completion of the divine mission / Unmasking of Sin",
+        "tekstueel_bewijs": [
+          "the work which thou gavest me",
+          "showing this pretender for what it is"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father",
+        "tekstueel_bewijs": [
+          "the work which thou gavest me to do"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "The World / Humanity",
+        "tekstueel_bewijs": [
+          "showed the world that it is hideous and terrible"
+        ],
+        "positie_hoorder": "The hearer begins as Receiver of the revelation but is shifted to Subject in the conclusion."
+      },
+      "helper": {
+        "identificatie": "The Father (through the mandate) and Jesus' own resolve",
+        "tekstueel_bewijs": [
+          "he states his sense of fulfillment in a prayer"
+        ],
+        "rol_van_god": "God is both Sender and the one to whom the Subject (Jesus) returns.",
+        "rol_van_geest": "ABSENT"
+      },
+      "tegenstander": {
+        "identificatie": "Sin / Evil / The Powers of Hell",
+        "tekstueel_bewijs": [
+          "the powers of hell",
+          "sin — rebellion against God",
+          "the death angel's wings"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Sin is described as a 'monster' and a 'fiend' that deceives and murders, requiring a divine Subject to unmask it."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The believer's call to unmask evil and support the truth in society.",
+      "subject": "The Hearer / 'You and I'",
+      "object": "Social justice / Support of truth",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The sermon moves from what Jesus did (unmasking sin) to what the hearer must now do (unmasking racism/social evil)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God the Father → Finished Work/Truth → Humanity",
+      "helper_subject_tegenstander": "Divine Mandate → Jesus ← Deceptive Sin/Death",
+      "subject_naar_object": "Jesus → Unmasking of Evil"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "14",
+      "mens_als_subject_count": "28",
+      "ratio": "0.5",
+      "voorbeelden_god_subject": [
+        "Jesus outmaneuvered the powers of hell",
+        "Jesus snatched the mask from evil",
+        "Jesus corrects us"
+      ],
+      "voorbeelden_mens_subject": [
+        "We seem so seldom able to complete the job",
+        "We only begin to understand",
+        "You and I are called upon to walk in the light"
+      ],
+      "rutledge_score": "6"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "The mask must come off",
+          "we are called upon to walk in the light"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "only wanting to protect the people"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Jesus unmasks sin forever for what it is",
+          "showed the world that it is hideous"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "5",
+        "voorbeelden": [
+          "Jesus outmaneuvered the powers of hell",
+          "we are called upon... to support it and serve it"
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "The sermon is primarily 'revelatory'. It focuses on Jesus 'showing' or 'unmasking' (Savoir) so that the hearer 'must' (Devoir) act accordingly."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Truth/Light (Unmasked)",
+      "s2": "Sin/Deception (Masked)",
+      "niet_s1": "Confusion/Racism",
+      "niet_s2": "Exposure/Judgment"
+    },
+    "beweging_in_preek": "Moves from the 'Unfinished' (Humanity) to the 'Finished' (Jesus) to the 'Unmasking' (Revelation) to the 'Social Duty' (Response).",
+    "theologische_resolutie": "The tension is resolved by Jesus' victory on the cross which 'outmaneuvered' the deception of sin.",
+    "ernst_van_s2": "Very high; sin is treated as a deceptive, murderous power, not just a mistake."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the ending has strong ethical imperatives, the 'engine' of the sermon is Christus Victor. Jesus is the Subject of the primary salvific action (unmasking sin).",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Shift to human effort in the peroration",
+        "tekstueel_bewijs": "this is what you and I are called upon to do in our own lives",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christus Victor Motif",
+        "tekstueel_bewijs": "Jesus outmaneuvered the powers of hell",
+        "sterkte": "STRONG"
+      },
+      {
+        "indicator": "Substitutionary/Representative Completion",
+        "tekstueel_bewijs": "Jesus corrects us about any impression... he has done his job",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Jesus is not presented as a model to imitate in his finishing, but as the one who finished what we cannot.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric focus remains on Christ's unique work."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief that the 'unfinished' nature of life is met by Christ's 'finished' work.",
+      "theologische_implicatie": "Justification is external to the hearer's success."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "8",
+      "coherentie_beschrijving": "Strong integration between the metaphor of the painting and the work of Christ.",
+      "spanning_punten": [
+        "The transition from the cosmic unmasking of sin to the specific social critique of American racism feels slightly abrupt actantially."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "Jesus snatched the mask from the monster and showed the world that it is hideous",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The sermon assumes the hearer can 'support and serve' once the truth is shown, without explicit mention of the Spirit's power."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "High; sin is a 'fiend' and 'murderer' that deceives even the 'civilized'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "God (in Christ)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully positions Christ as the Subject of the 'Finished Work', contrasting it with the 'Unfinished' Subject of human life.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "The hearer is suddenly made Subject of 'unmasking' in the end.",
+      "voorgestelde_identificatie": "The hearer as one in whom Christ continues to unmask sin.",
+      "strategie": "Frame the social action as a participation in Christ's ongoing unmasking rather than a new task for the hearer."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominance of Savoir (Knowing/Seeing) and Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (Enablement).",
+      "concrete_suggestie": "Add how the 'Finished Work' provides the power (Pouvoir) to face the 'ugly racism' mentioned."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Excellent",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The description of sin as a deceptive mask is a powerful narrative device."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ finishes) clearly precedes Ethics (We walk in light)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of narrative to contrast human limitation with divine completion."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the Heysen painting anecdote; Greimas shows that the painting is an actantial foil for the 'Unfinished Subject'.",
+    "verschil_met_exegese": "Exegesis would focus on the High Priestly Prayer context; Greimas focuses on the functional role of 'Finishing' as a narrative value.",
+    "unieke_inzichten_greimas": "Reveals that the 'Mask' is the primary Opponent, making the cross a semiotic act of 'unmasking' rather than just a legal transaction."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Jesus (finished)",
+      "Sin (deceived)",
+      "We (must walk)",
+      "Heysen (could not finish)"
+    ],
+    "volledige_object_lijst": [
+      "The work",
+      "The mask",
+      "The truth"
+    ],
+    "werkwoord_frequentie": {
+      "finished": {
+        "count": "8",
+        "primair_subject": "God/Jesus"
+      },
+      "unmasked/snatched": {
+        "count": "4",
+        "primair_subject": "Jesus"
+      }
+    },
+    "notities": "The sermon is a classic example of theocentric narrative where the human 'lack' (unfinished life) is resolved by the divine 'performance' (finished work)."
+  }
+}

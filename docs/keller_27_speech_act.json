@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "titel_preek": "Saul’s Rejection",
+    "bijbeltekst": "1 Samuel 15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explains the narrative of Saul's disobedience regarding the Amalekites, defines self-deception via psychological and historical examples, and connects the solution to the unconditional love of God in Christ.",
+      "exegetische_kwaliteit": "High. Detailed focus on the Hebrew nuances of 'listening' vs 'obeying' and the cultural context of 'herem' (justice vs imperialism).",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily teaching and explaining the mechanism of the human heart, shifting toward the end to an invitation to rest in grace.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I want to bring to your attention...",
+        "The purpose of this text is to get you to think about yourself.",
+        "Jesus Christ did all of that for you."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Self-reflection, breaking of denial, and comfort in the gospel's unconditional love.",
+      "pneumatologisch_bewustzijn": "Implicit. The Spirit is not explicitly invoked as the agent of change until the closing prayer.",
+      "perlocutionaire_werkwoorden": [
+        "repent",
+        "admit",
+        "rest",
+        "believe",
+        "stop hiding"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "High",
+      "procent": "70%",
+      "voorbeelden": [
+        "Saul started out as a modest man.",
+        "Self-deception is the ability to know something at one level but not know it at another.",
+        "The Amalekites were a violent people."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "says",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "Moderate",
+      "procent": "15%",
+      "voorbeelden": [
+        "Let’s look at the story itself.",
+        "Go to the book of Amos.",
+        "You have to live into it."
+      ],
+      "dominante_werkwoorden": [
+        "look",
+        "see",
+        "admit",
+        "take"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "Low",
+      "procent": "5%",
+      "voorbeelden": [
+        "I think this is extraordinarily realistic of God.",
+        "I’ll be brief about it."
+      ],
+      "dominante_werkwoorden": [
+        "think",
+        "believe",
+        "hope"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "Low/Moderate",
+      "procent": "8%",
+      "voorbeelden": [
+        "He wants to be gracious to you.",
+        "You can have that unconditional love."
+      ],
+      "dominante_werkwoorden": [
+        "can have",
+        "will",
+        "gives"
+      ],
+      "kwaliteit": "The promises are present but often framed as possibilities ('you can have') rather than direct bestowals ('I give you')."
+    },
+    "declaratieven": {
+      "frequentie": "Very Low",
+      "procent": "2%",
+      "voorbeelden": [
+        "Father, free us...",
+        "The gospel message is liberation."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "free"
+      ],
+      "autoriteit": "The preacher speaks with exegetical authority but rarely uses the 'I' of the mandatory to declare forgiveness directly."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive use of 3rd person historical narrative.",
+        "Long psychological illustrations (car, pilot, Germany) that 'talk about' the problem.",
+        "Explanation of the 'circular argument' of grace rather than the act of gracing."
+      ],
+      "effect_op_hoorder": "The hearer understands the 'mechanics' of sin and grace but may remain an observer of the theory."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct address of the promise ('Today, God says to you...')",
+        "First-person mandatory speech"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without a 'sacramental encounter'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "3",
+      "kwaliteit_toezeggen": "Theologically sound but rhetorically descriptive.",
+      "voorbeelden": [
+        "You can have that unconditional love.",
+        "He wants to be gracious to you."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Used for personal anecdotes (the car) and to build rapport."
+      },
+      "tweede_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Used to pull the listener into the psychological diagnosis ('You filter it out').",
+        "performatieve_context": "Mostly used in the 'Directive' or 'Assertive' sense (describing the listener's state)."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Dominates the exegesis of Saul and the historical examples.",
+        "distantie_effect": "Creates a 'lecture' feel for the first 60% of the text."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Exegesis of 1 Samuel and historical anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "45%",
+        "gebruik": "Describing how self-deception works as a general rule."
+      },
+      "actueel_present": {
+        "frequentie": "15%",
+        "gebruik": "The application of the Gospel 'now'."
+      }
+    },
+    "adressering_effectiviteit": 6
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "It avoids pure moralism (Assertive -> Directive).",
+      "voorbeelden": [],
+      "probleem": "N/A"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Moves from Assertive (Saul/Psychology) to Commissive (God's love) to Directive (Exhort one another).",
+      "voorbeelden": [
+        "The gospel message is liberation... Now come as the sinner you are."
+      ],
+      "kwaliteit": "The logic is sacramental, but the delivery remains largely constative (talking about the pattern)."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Because he loved you... he brought you out.",
+        "There is nothing more liberating than to be so loved you can finally admit that you’re flawed."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a masterclass in 'explaining' the human condition and the 'theory' of grace, but it stays in the mode of a lecture about the Gospel rather than being the event of the Gospel itself.",
+    "sterke_punten": [
+      {
+        "aspect": "Psychological Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Self-deception is the ability to know something at one level but not know it at another.",
+        "effect": "Creates high resonance and 'Aha' moments for the hearer."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Constative Surplus",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The long section on the car, the pilot, and the German town.",
+        "probleem": "The sermon spends too much time 'talking about' human failure and not enough 'performing' the divine solution.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 5,
+    "gebeuren_toelichting": "It is an 'event' of understanding, but less so an 'event' of encounter.",
+    "sacramentele_kracht": 4,
+    "sacramentele_toelichting": "The preacher describes the medicine beautifully but rarely administers it directly to the patient's lips."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "God is the object of the sermon more than the subject speaking through it.",
+      "prediker_als_mandataris": "The preacher acts as an expert guide/teacher.",
+      "tekstueel_bewijs": [
+        "I want to bring to your attention...",
+        "Let me give you an example."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Only in the closing prayer.",
+      "perlocutie_theologie": "Implicitly left to the hearer's processing of the information.",
+      "tekstueel_bewijs": [
+        "Father, free us..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "The sermon is treated as a 'clarifying agent' for the mind.",
+      "epifanisch_taalgebruik": "Low. The language is analytical.",
+      "tekstueel_bewijs": [
+        "It’s an extremely important subject I want to bring to your attention."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/means' to 'gives/declares'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The gospel message is liberation.",
+          "voorgestelde_revisie": "By the authority of Jesus Christ, I declare you are liberated from your past.",
+          "verschil": "Moves from a fact about the gospel to the act of the gospel."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Promises are buried in third-person descriptions.",
+      "suggestie": "Use direct 'I-Thou' address for the promise of grace.",
+      "voorbeeldzinnen": [
+        "To you who feel small today: God has anointed you as His own child."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they'.",
+      "suggestie": "Address the 'You' of the congregation more frequently in the declarative sections.",
+      "voorbeeldzinnen": [
+        "You don't have to hide anymore."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "The balance is good, but the indicative needs more performative force.",
+      "suggestie": "Make the indicative a 'gift' rather than a 'fact'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually brilliant and pastorally sensitive, but it risks remaining a 'talk about God' rather than a 'word from God'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SAT reveals that the preacher isn't just 'sending a message' about self-deception, but failing to 'perform' the counter-act of grace.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is perfect (structure, stories). SAT shows the illocutionary force is weaker than the rhetorical polish.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'Toezegging' (Commissive) is the missing link that would turn this lecture into a sacramental event."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "says",
+        "wrote",
+        "was",
+        "means",
+        "happened"
+      ],
+      "directief": [
+        "look",
+        "go",
+        "see",
+        "exhort",
+        "admit"
+      ],
+      "expressief": [
+        "think",
+        "surprised",
+        "feel"
+      ],
+      "commissief": [
+        "can have",
+        "wants to be",
+        "will"
+      ],
+      "declaratief": [
+        "free (in prayer)",
+        "is (as definition)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "To obey is better than sacrifice.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Teaching a principle.",
+        "effectiviteit": "High for understanding."
+      },
+      {
+        "zin": "He wants to be gracious to you.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "Stating God's intent.",
+        "effectiviteit": "Moderate; lacks the 'I grant you' force."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'Keller-style' analytical apologetic, which is high in locutionary clarity but often stays in the constative realm."
+  }
+}

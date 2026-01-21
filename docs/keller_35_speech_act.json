@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "titel_preek": "I Believe",
+    "bijbeltekst": "Acts 17:16-34",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2800"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "An analysis of Paul's speech at the Areopagus, contrasting Christian belief with secular worldviews and ancient philosophies (Stoicism/Epicureanism).",
+      "exegetische_kwaliteit": "High. The preacher explains the Socratic method (dialegomai) and the historical context of the Athenian marketplace effectively.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is asserting the necessity of belief and arguing for the intellectual/emotional superiority of the Gospel.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 8,
+      "voorbeelden": [
+        "I see that in every way you are very religious.",
+        "I would like to suggest this is what I think he would do with you and me.",
+        "Christianity has that for you."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellectual conviction of the 'reasonableness' of faith and encouragement for Christians to engage the marketplace.",
+      "pneumatologisch_bewustzijn": "Low. The sermon focuses on the 'method' of Paul and the 'logic' of the Gospel rather than the immediate agency of the Spirit.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "reason",
+        "engage",
+        "understand",
+        "rethink"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": 142,
+      "procent": "80%",
+      "voorbeelden": [
+        "Athens was the intellectual center of the Roman world.",
+        "Everyone is deeply religious.",
+        "The old Greek worldview did not give them the resources for handling suffering."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "believe",
+        "says",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": 12,
+      "procent": "7%",
+      "voorbeelden": [
+        "Walk in his footsteps.",
+        "Plunge into the marketplace.",
+        "Go and do likewise."
+      ],
+      "dominante_werkwoorden": [
+        "walk",
+        "plunge",
+        "do",
+        "look"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": 8,
+      "procent": "5%",
+      "voorbeelden": [
+        "I don't know who you are here tonight.",
+        "It’s a word that actually means angry and indignant."
+      ],
+      "dominante_werkwoorden": [
+        "know",
+        "feel",
+        "wish"
+      ]
+    },
+    "commissieven": {
+      "frequentie": 4,
+      "procent": "3%",
+      "voorbeelden": [
+        "Christianity has that for you.",
+        "The whole earth is going to be made perfect."
+      ],
+      "dominante_werkwoorden": [
+        "has",
+        "going to be"
+      ],
+      "kwaliteit": "Weak. The promises are stated as general theological facts (constatives) rather than direct addresses from God to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": 2,
+      "procent": "1%",
+      "voorbeelden": [
+        "Let us pray."
+      ],
+      "dominante_werkwoorden": [
+        "pray"
+      ],
+      "autoriteit": "Low. The preacher functions as a teacher/apologist rather than a sacramental herald."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'talking about' Paul's method.",
+        "Lengthy philosophical quotes (Anscombe, Sacks, Solovyov).",
+        "Third-person descriptions of what 'secular people' or 'Christians' do."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a debate rather than a participant in an encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace",
+        "Present-tense address of God's action now"
+      ],
+      "effect_op_hoorder": "Information about God's adequacy is provided, but God does not 'happen' to the hearer."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes the 'hope' of the resurrection but does not 'bestow' it.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": 45,
+        "gebruik": "Preacher as teacher/analyst ('I think', 'I'd like you to get')."
+      },
+      "tweede_persoon": {
+        "frequentie": 32,
+        "gebruik": "Hypothetical address ('If he came to you') or moral appeal at the end."
+      },
+      "derde_persoon": {
+        "frequentie": 120,
+        "gebruik": "Dominant. Talking about Paul, Athenians, secular people, and 'the resurrection'."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical narrative of Acts 17."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about worldviews and philosophy."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Closing prayer and final call to action."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of worldviews) -> Directive (Go and do likewise).",
+      "voorbeelden": [
+        "Christianity has that for you... Walk in his footsteps."
+      ],
+      "probleem": "The 'Promise' (Commissive) is bypassed; the indicative is used as a logical proof rather than a sacramental gift."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Jesus... did it for us. Walk in his footsteps."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a brilliant apologetic lecture. It analyzes the 'why' and 'how' of belief but remains in the realm of 'talking about' the Gospel.",
+    "sterke_punten": [
+      {
+        "aspect": "Intellectual Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Analysis of Elizabeth Anscombe's moral philosophy.",
+        "effect": "Engages the mind of the skeptic."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Illocutionary Force",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "The sermon ends with 'Go and do likewise' without a preceding 'I give you strength'.",
+        "probleem": "Moralism",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an event of 'learning', not a sacramental event of 'encounter'.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "God is the object of the sermon's analysis, not the subject of the sermon's action."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher speaks about God.",
+      "prediker_als_mandataris": "The preacher acts as an apologist/teacher.",
+      "tekstueel_bewijs": [
+        "What we’re doing... is looking at a lot of the basic beliefs."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly relies on the logic of the argument to produce belief.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No, the sermon is a means of explanation.",
+      "epifanisch_taalgebruik": "No.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/says' to 'gives/promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Christianity has that for you.",
+          "voorgestelde_revisie": "Today, Christ offers this hope to you personally.",
+          "verschil": "Moves from a general fact to a direct offer."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The resurrection is treated as a historical/philosophical solution to suffering.",
+      "suggestie": "Proclaim the resurrection as a present reality for the hearer's own suffering.",
+      "voorbeeldzinnen": [
+        "Because He is risen, I declare to you that your suffering is not the end."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' (Athenians) and 'we' (general).",
+      "suggestie": "Use 'You' in the context of God's promise.",
+      "voorbeeldzinnen": [
+        "God is not far from you right now."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'do likewise' at the end feels like a heavy burden after a long lecture.",
+      "suggestie": "Ground the 'going' in the 'being sent' by a present Christ."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually masterful but homiletically 'stuck' in the constative. To become an 'event', it must move from explaining Paul's sermon to being a sermon."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' or 'appeal'; SAT reveals the lack of 'Divine action' (Declarative).",
+    "verschil_met_retoriek": "Rhetorically excellent (persuasive), but illocutionarily weak (not performative).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Good News' content, the 'Act' of the sermon is merely 'Reporting' rather than 'Bestowing'."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "believe",
+        "says",
+        "means",
+        "think",
+        "arguing",
+        "reasoned"
+      ],
+      "directief": [
+        "walk",
+        "plunge",
+        "do",
+        "look",
+        "repent"
+      ],
+      "expressieven": [
+        "distressed",
+        "know",
+        "feel"
+      ],
+      "commissief": [
+        "has",
+        "promises (implied)"
+      ],
+      "declaratief": [
+        "pray"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "This is what I am going to proclaim to you.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Announcement of intent",
+        "effectiviteit": "Creates expectation but stays in the 'talking about' phase."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Apologetic Constative Surplus'."
+  }
+}

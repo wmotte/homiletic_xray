@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "titel_preek": "49_Vriezenveen (Jezus in de tempel)",
+    "bijbeltekst": "Lukas 2:41-52",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2200"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "De zoektocht van de mens (Jozef/Maria/Hoorder) naar de verloren Jezus om gemeenschap te herstellen.",
+      "subject": {
+        "identificatie": "De mens (Jozef, Maria, en bij extensie de hoorder)",
+        "tekstueel_bewijs": [
+          "Wie heeft vanmorgen gevraagd: 'Mag ik U zien, Heer Jezus?'",
+          "Ze zijn hem niet alleen kwijt, ze zijn ook boos.",
+          "Hoe je dan zoeken, zoeken."
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "De nabijheid/het gevoel van Jezus (Liefde, rust, ontmoeting)",
+        "tekstueel_bewijs": [
+          "Mag ik Uw liefde voelen, Uw rust ervaren?",
+          "Het verschil tussen Jezus heel dicht bij je, of voor je gevoel heel ver weg."
+        ],
+        "aard_van_object": "THERAPEUTIC"
+      },
+      "zender": {
+        "identificatie": "De Prediker/De Wet (als bron van de plicht om te zoeken)",
+        "tekstueel_bewijs": [
+          "Wist u niet dat als u zonder Jezus bent, verloren bent?",
+          "Je mag je handjes wel samen knijpen van dankbaarheid."
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "De hoorder (als degene die de rust/zaligheid moet ontvangen)",
+        "tekstueel_bewijs": [
+          "Zodat u zelf kon zeggen: 'Ik heb Zijn heerlijkheid gezien.'"
+        ],
+        "positie_hoorder": "SUBJECT_HERO"
+      },
+      "helper": {
+        "identificatie": "De middelen (Bijbel, kerkbezoek, predikant)",
+        "tekstueel_bewijs": [
+          "Daarin spreekt Hij. Of blijft Hij veel dicht?",
+          "Jezus is hier om tot ons te spreken... door middel van Zijn dienaren."
+        ],
+        "rol_van_god": "INSTRUMENTAL",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "Onverschilligheid, ongeloof, gewenning en de duivel",
+        "tekstueel_bewijs": [
+          "Zijn Jozef en Maria gewend geraakt aan dit kind?",
+          "Die duivel... die maakt je toch zo bang."
+        ],
+        "ernst_tegenstander": "PSYCHOLOGICAL",
+        "toelichting_ernst": "De tegenstander wordt primair gezocht in de psychologische gesteldheid van de hoorder (gewenning, angst) in plaats van een kosmisch-juridisch probleem dat enkel door God opgelost kan worden."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Het heilswerk van Jezus (het 'moeten' van de Zoon)",
+      "subject": "Jezus",
+      "object": "De wil van de Vader / Verzoening",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "Het werk van Jezus wordt gepresenteerd als de noodzakelijke achtergrond, maar de focus ligt op de subjectieve toe-eigening en de zoektocht van de mens."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Prediker/Wet → Ontmoeting met Jezus → Hoorder",
+      "helper_subject_tegenstander": "Bijbel/Kerk → Hoorder ← Gewenning/Ongeloof",
+      "subject_naar_object": "Hoorder → Gevoel van Jezus' nabijheid"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "12",
+      "mens_als_subject_count": "45",
+      "ratio": "0.26",
+      "voorbeelden_god_subject": [
+        "God wil tot mij spreken.",
+        "Hij wil u alles geven wat u nodig hebt."
+      ],
+      "voorbeelden_mens_subject": [
+        "Jullie kunnen zonder de Heer Jezus niet.",
+        "U vindt het gewoon, toch?",
+        "Wij raken makkelijk aan dingen gewend."
+      ],
+      "rutledge_score": "3"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Wist u niet dat ik moet zijn?",
+          "U zou wel kunnen weten waar u mij kan vinden."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Wie heeft vanmorgen gevraagd: 'Mag ik U zien?'",
+          "Als je een echte liefdesverhouding hebt, dan weet je dat."
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Wist u niet...?",
+          "Wij kennen onze Bijbel te weinig."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Zonder mij kunt gij niets doen."
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "De preek hamert op de plicht (Devoir) en de motivatie (Vouloir) van de hoorder. Het onvermogen (Pouvoir) wordt genoemd, maar de oplossing wordt gezocht in het 'beter zoeken' en 'niet onverschillig zijn'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Nabijheid/Liefde",
+      "s2": "Verlorenheid/Hel",
+      "niet_s1": "Gewenning/Onverschilligheid",
+      "niet_s2": "Zoeken met angst"
+    },
+    "beweging_in_preek": "De preek beweegt van S1 (missen van Jezus) naar ~S1 (gewenning), dreigt met S2 (de hel) om de hoorder naar ~S2 (actief zoeken) te dwingen.",
+    "theologische_resolutie": "De resolutie is voorwaardelijk: als de mens zoekt en niet onverschillig is, is Jezus daar.",
+    "ernst_van_s2": "S2 wordt retorisch zwaar aangezet ('tot de hel toe nedergestoten'), maar functioneert vooral als pedagogisch dreigement."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "Hoewel de taal orthodox is en Jezus 'Zaligmaker' noemt, is de actantiële structuur diep antropocentrisch. De mens is het actieve subject dat moet zoeken, niet gewend mag raken en moet verlangen. Jezus is het passieve object dat 'gevonden' moet worden.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Voorwaardelijkheid",
+        "tekstueel_bewijs": "Als je een echte liefdesverhouding met de Heer Jezus hebt, dan weet je dat.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Focus op menselijke activiteit",
+        "tekstueel_bewijs": "Hoe je dan zoeken, zoeken.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Christocentrische titels",
+        "tekstueel_bewijs": "Dit kind is God uit God, Licht uit Licht.",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jozef en Maria worden als negatief voorbeeld (onachtzaamheid) en positief voorbeeld (zoeken met angst) gesteld voor de hoorder.",
+      "bijbelse_figuren_als_model": [
+        "Jozef",
+        "Maria"
+      ],
+      "alternatieve_lezing": "De nadruk zou kunnen liggen op Jezus die, ondanks de onachtzaamheid van zijn ouders, trouw blijft aan de missie van Zijn Vader."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Druk om te presteren in spiritualiteit (niet onverschillig zijn, harder zoeken).",
+      "theologische_implicatie": "Synergisme: de redding/ervaring van heil hangt af van de menselijke alertheid."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "Er is een spanning tussen Jezus als 'Zaligmaker' (Soteriologie) en de hoorder die hem niet mag kwijtraken (Ethiek/Psychologie).",
+      "spanning_punten": [
+        "Jezus die 'alles doet' versus de hoorder die 'handjes moet samenknijpen'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Jezus droeg mijn zonden weg.",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "De Geest helpt bij het begrijpen van het Woord, maar de hoorder moet zelf de Bijbel openen."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Zonde wordt hier vooral gezien als 'onachtzaamheid' en 'gewenning'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek is narratief gericht op de inspanning van de mens om Jezus niet te verliezen. God is vaker lijdend voorwerp van menselijk zoeken dan handelend subject van verlossing.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "De hoorder is het subject van 'zoeken', 'vinden' en 'liefhebben'.",
+      "voorgestelde_herpositionering": "Maak Jezus subject van het zoeken naar de dwalende mens.",
+      "voorbeeld_revisie": "Niet: 'Wij moeten Hem zoeken met angst', maar: 'Jezus bleef in de tempel om de weg te bereiden voor ouders die Hem telkens weer zouden vergeten.'"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hoorder als de wanhopige zoeker.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Benadruk dat Jezus Zich laat vinden, zelfs door onachtzame mensen."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominantie van Devoir (moeten) en Vouloir (willen).",
+      "voorgestelde_balans": "Focus op Pouvoir (Gods macht) en de schenking van competentie.",
+      "concrete_suggestie": "Preek meer over wat Jezus bewerkt in de onwetende mens in plaats van de onwetendheid te bestraffen."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Zonde als 'gewenning'.",
+      "voorgestelde_intensivering": "Zonde als totale onmacht.",
+      "theologische_rationale": "Alleen bij een 'zware' tegenstander wordt de genade echt 'groot'."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "De ethiek van het 'niet onverschillig zijn' overschaduwt de soteriologie.",
+      "voorgestelde_structuur": "Eerst de zekerheid van Jezus' aanwezigheid, dan de oproep tot waakzaamheid."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "De preek heeft een warm hart voor Jezus, maar legt een zware last op de schouders van de hoorder door de grammatica van de actie bij de mens te leggen."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch is de preek bevlogen en direct; actantieel is hij echter dwingend en antropocentrisch.",
+    "verschil_met_exegese": "De exegese volgt de tekst, maar de actantiële invulling maakt van een geschiedenis over Jezus' godheid een les in menselijke spiritualiteit.",
+    "unieke_inzichten_greimas": "Greimas legt bloot dat ondanks het vele noemen van 'Jezus', de hoorder de eigenlijke held van het verhaal is die de hindernis van onverschilligheid moet overwinnen."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "U (hoorder) - missen",
+      "Jozef/Maria - kwijtraken",
+      "Wij - gewend raken",
+      "Jezus - schitteren",
+      "U (hoorder) - zoeken"
+    ],
+    "volledige_object_lijst": [
+      "Jezus",
+      "Liefde",
+      "Rust",
+      "Zaligheid"
+    ],
+    "werkwoord_frequentie": {
+      "zoeken": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "missen": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "spreken": {
+        "count": "5",
+        "primair_subject": "God/Jezus"
+      }
+    },
+    "notities": "De preek vertoont sterke kenmerken van 'bevindelijke moralisme': de nadruk ligt op de juiste innerlijke gesteldheid als voorwaarde voor het heil."
+  }
+}

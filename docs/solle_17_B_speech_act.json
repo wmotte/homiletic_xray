@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "titel_preek": "Der Glaube arbeitet an der Angst",
+    "bijbeltekst": "Markus 4:35-41 (Sturmstillung)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon discusses the nature of fear (psychological and social) and contrasts it with faith, using the story of Jesus in the storm as a metaphor for modern crises (ecology, economy, sin).",
+      "exegetische_kwaliteit": "Moderate. The preacher explicitly moves away from the 'nature miracle' (locutionary content) to a psychological/sociological interpretation.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is explaining and analyzing the human condition (Assertive), with occasional attempts to encourage (Expressive) and a few moments of divine promise (Commissive).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "\"Ich glaube, dass für uns die Durchbrechung der Naturgesetze nicht so interessant ist...\"",
+        "\"Gott sagt uns, du bist nicht allein.\"",
+        "\"Wir können unsere Angst umgestalten.\""
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel understood in their fear and be motivated to join groups for social change.",
+      "pneumatologisch_bewustzijn": "Low. The focus is on 'working on fear' (human effort) rather than the Spirit's intervention.",
+      "perlocutionaire_werkwoorden": [
+        "understand",
+        "reflect",
+        "organize",
+        "rechannel (energy)"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "high",
+      "procent": "70%",
+      "voorbeelden": [
+        "\"Unser Schiff ist nahe am Kentern.\"",
+        "\"Die Psychotherapeuten sagen...\"",
+        "\"Sünde ist eine, die uns von der gesamten Menschheit trennt.\""
+      ],
+      "dominante_werkwoorden": [
+        "wissen",
+        "meinen",
+        "glauben (as opinion)",
+        "sein",
+        "entstehen"
+      ]
+    },
+    "directieven": {
+      "frequentie": "medium",
+      "procent": "15%",
+      "voorbeelden": [
+        "\"Wir sollten uns abgewöhnen...\"",
+        "\"Man muss natürlich wissen...\""
+      ],
+      "dominante_werkwoorden": [
+        "sollen",
+        "müssen",
+        "lassen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "low",
+      "procent": "8%",
+      "voorbeelden": [
+        "\"Ich habe von einer Arbeiterin gelesen...\"",
+        "\"Ich denke da gerade an junge Leute.\""
+      ],
+      "dominante_werkwoorden": [
+        "denken",
+        "fühlen",
+        "erinnern"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "very low",
+      "procent": "5%",
+      "voorbeelden": [
+        "\"Gott sagt uns, du bist nicht allein.\"",
+        "\"Ich habe die Welt überwunden.\""
+      ],
+      "dominante_werkwoorden": [
+        "sagen (God speaking)",
+        "überwinden"
+      ],
+      "kwaliteit": "Weak. The promises are mostly reported as general truths rather than direct speech-acts from God to the listener."
+    },
+    "declaratieven": {
+      "frequentie": "minimal",
+      "procent": "2%",
+      "voorbeelden": [
+        "\"Selig sind, die da Angst haben.\""
+      ],
+      "dominante_werkwoorden": [
+        "sein (beatitude)"
+      ],
+      "autoriteit": "Low. The preacher acts more as a social analyst than a mandatory of the Word."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive psychological explanation of birth trauma.",
+        "Sociological analysis of the 'rich industrial nations'.",
+        "Talking *about* what faith means instead of *doing* faith."
+      ],
+      "effect_op_hoorder": "Intellectual agreement or social guilt, but no sacramental encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Authoritative Proclamation"
+      ],
+      "effect_op_hoorder": "The hearer remains a spectator of their own fear."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Vague and embedded in third-person descriptions.",
+      "voorbeelden": [
+        "\"Gott sagt uns, du bist nicht allein.\""
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "high",
+        "gebruik": "Mostly 'Wir' (inclusive we) to create a shared social analysis."
+      },
+      "tweede_persoon": {
+        "frequentie": "low",
+        "gebruik": "Rarely used to address the individual conscience.",
+        "performatieve_context": "Used only when quoting Jesus' question."
+      },
+      "derde_persoon": {
+        "frequentie": "high",
+        "gebruik": "Talking about 'the people', 'the youth', 'the psychotherapists'.",
+        "distantie_effect": "Creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "20%",
+        "gebruik": "Biblical narrative and psychological origins."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "General descriptions of how fear works."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "Current social crises."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of fear) -> Directive (We must work on fear in groups).",
+      "voorbeelden": [
+        "Analysis of birth trauma leading to the suggestion of group dynamics."
+      ],
+      "probleem": "The 'Gospel' is replaced by 'Psychology', making the directive a human task rather than a response to grace."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the declarative link.",
+      "voorbeelden": [],
+      "kwaliteit": "n/a"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "\"Wir können unsere Angst umgestalten... Selig sind, die da Angst haben.\""
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a psychological and political essay. It talks *about* the text and *about* the human condition, but the Word of God does not *act* upon the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Relevance",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Reference to 'Wachstumskrise' and 'Arbeitsplätze'.",
+        "effect": "Connects the biblical text to modern life."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Performative Deficit",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The whole section on birth trauma.",
+        "probleem": "Replaces the creative Word with explanatory theory.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an 'event' of social reflection, not a sacramental 'event' of God speaking.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher remains a moderator of ideas rather than a herald of the King."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of discussion.",
+      "prediker_als_mandataris": "No. The preacher is a 'fellow seeker' or 'analyst'.",
+      "tekstueel_bewijs": [
+        "\"Ich glaube, dass für uns...\""
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is attributed to 'group dynamics' and 'working on fear'.",
+      "tekstueel_bewijs": [
+        "\"Die wirkliche Verwandlung... geschieht in Gruppen.\""
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a means of enlightenment.",
+      "epifanisch_taalgebruik": "No.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is', 'means', and 'can'. Too few 'I promise you' or 'Christ says to you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "\"Gott sagt uns, du bist nicht allein.\"",
+          "voorgestelde_revisie": "\"Im Namen Christi sage ich dir heute: Du bist nicht allein!\"",
+          "verschil": "Shifts from a report of a fact to a direct address (Commissive)."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in a list of possibilities.",
+      "suggestie": "Use the 'Toezegging' (Promise) as the climax before the call to action.",
+      "voorbeeldzinnen": [
+        "\"Christus ist hier im Sturm deines Lebens und er gebietet deiner Angst Einhalt.\""
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Overuse of 'Wir' hides the individual.",
+      "suggestie": "Address the 'Du' directly.",
+      "voorbeeldzinnen": [
+        "\"Du, der du heute Morgen mit dieser spezifischen Angst gekommen bist...\""
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative (work on fear) is based on psychological possibility, not divine gift.",
+      "suggestie": "Base the 'working' on the 'having been saved'."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The sermon is intellectually stimulating but homiletically 'stuck' in the constative. To become an 'event', it must dare to speak for God, not just about Him."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-disclosure' of the preacher's own fear; SAT reveals the lack of a 'Declarative' that changes the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is strong (metaphors of ships/factories), but SAT shows it lacks the illocutionary 'punch' of a promise.",
+    "unieke_inzichten_SAT": "SAT exposes that the preacher is 'talking about' the storm while the hearer is still drowning, instead of reaching out a hand through a Commissive act."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "sein",
+        "wissen",
+        "bedeuten",
+        "gehören",
+        "erklären",
+        "bestehen"
+      ],
+      "directief": [
+        "sollen",
+        "müssen",
+        "lassen",
+        "umbauen"
+      ],
+      "expressief": [
+        "meinen",
+        "glauben",
+        "denken",
+        "hoffen"
+      ],
+      "commissief": [
+        "sagen (God)",
+        "versprechen"
+      ],
+      "declaratief": [
+        "seligsprechen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "\"Der Glaube nimmt die Angst an... Er bearbeitet sie.\"",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a process.",
+        "effectiviteit": "Low. It remains a theory of faith."
+      }
+    ],
+    "notities": "The sermon is a classic example of 1970s/80s 'Political/Psychological Preaching' where the performative power of the Gospel is often traded for constative social analysis."
+  }
+}

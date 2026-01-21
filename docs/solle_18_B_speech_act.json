@@ -1,0 +1,308 @@
+{
+  "metadata": {
+    "titel_preek": "Es ist noch nicht erschienen, was wir sein werden",
+    "bijbeltekst": "1. Johannes 3, 1-3",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "950"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Theological reflection on the tension between 'already' (mysticism) and 'not yet' (prophetic hope). Uses Ernst Bloch and Teresa of Avila as interlocutors.",
+      "exegetische_kwaliteit": "Thematic-philosophical rather than strictly exegetical. Focuses on the semantic weight of 'noch nicht'.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher is primarily describing a theological worldview and reflecting on personal encounters with the text.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Ich beginne mit der prophetischen Stimme.",
+        "Das Wort hat mich seither nicht mehr verlassen.",
+        "Gott ist die Liebe."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellectual inspiration, fostering a sense of hope, encouraging a specific perspective on the world.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the word's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "verstehen",
+        "hoffen",
+        "nachdenken",
+        "sehen"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "Die eine Stimme ist die der prophetischen Tradition.",
+        "Bloch galt als Marxist.",
+        "Gott hat jeden von uns erschaffen."
+      ],
+      "dominante_werkwoorden": [
+        "sein",
+        "heißen",
+        "bedeuten",
+        "glauben"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "4%",
+      "voorbeelden": [
+        "Bleib in der Liebe.",
+        "Lasst uns doch versuchen...",
+        "Isolier dich nicht."
+      ],
+      "dominante_werkwoorden": [
+        "bleiben",
+        "versuchen",
+        "isolieren"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "28",
+      "procent": "15%",
+      "voorbeelden": [
+        "Mir ist das nicht ganz geheuer.",
+        "Ich scheue mich nicht.",
+        "Ich denke..."
+      ],
+      "dominante_werkwoorden": [
+        "denken",
+        "fühlen",
+        "meinen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "Wir werden ihm gleich sein (quoted as future fact, not direct promise)."
+      ],
+      "dominante_werkwoorden": [
+        "werden"
+      ],
+      "kwaliteit": "Weak. Promises are treated as objects of hope rather than direct speech acts from God to the listener."
+    },
+    "declaratieven": {
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "Low. The preacher acts as a witness/thinker, not as a mandatory of the keys."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive biographical anecdotes (Bloch).",
+        "Theological definitions (Mystik vs. Prophetie).",
+        "Third-person descriptions of God's nature."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological lecture rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise (Toezegging)",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'perspective' but no 'event' of grace."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "Non-existent as direct address.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "high",
+        "gebruik": "Autobiographical 'I' and inclusive 'We' (humanity)."
+      },
+      "tweede_persoon": {
+        "frequentie": "low",
+        "gebruik": "Rarely used, mostly in quotes or general appeals.",
+        "performatieve_context": "Minimal."
+      },
+      "derde_persoon": {
+        "frequentie": "dominant",
+        "gebruik": "Talking about Bloch, Johannes, God, and 'the world'.",
+        "distantie_effect": "Strong. It creates a 'subject-object' relationship with the Gospel."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biographical and biblical history."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Theological definitions and general truths."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'Now' of the preaching moment."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analysis of the world/Bloch) -> Directive (Let us try to hope).",
+      "voorbeelden": [
+        "Analysis of 1989 and the market -> Lasst uns versuchen..."
+      ],
+      "probleem": "The imperative is not grounded in a performative declaration of grace, but in a philosophical necessity."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the link of the Promise.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Because God is love (Assertive), we should try to hope (Directive)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a high-level theological essay. It talks *about* the 'event' of hope without *performing* the event of the Word.",
+    "sterke_punten": [
+      {
+        "aspect": "Intellectual Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Analysis of Bloch's atheistic utopia.",
+        "effect": "Engages the educated mind."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The whole sermon stays in 'we' and 'it'.",
+        "probleem": "No direct encounter between God and the hearer.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 2,
+    "gebeuren_toelichting": "It is a reflection on an event, not an event itself.",
+    "sacramentele_kracht": 1,
+    "sacramentele_toelichting": "The preacher does not use the authority to bind or loose, only to explain."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of discussion.",
+      "prediker_als_mandataris": "No. Preacher acts as a religious intellectual.",
+      "tekstueel_bewijs": [
+        "Ich verstehe dieses..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly psychological rather than pneumatological.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. Sermon as a medium of 'meaning'.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is' and 'means' to 'gives' and 'promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Gott ist die Liebe.",
+          "voorgestelde_revisie": "Gott liebt dich jetzt in diesem Wort.",
+          "verschil": "Moves from a fact to an act."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried in quotes.",
+      "suggestie": "Directly address the congregation with the promise of 1 John 3.",
+      "voorbeeldzinnen": [
+        "Dir ist heute zugesagt: Du bist Gottes Kind."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' and 'We'.",
+      "suggestie": "Use 'You' (Du/Ihr) to create the illocutionary space for the Spirit.",
+      "voorbeeldzinnen": [
+        "Hörst du das 'Noch nicht' für dein Leben?"
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "Moral appeal (try to hope) lacks the power of the gift.",
+      "suggestie": "Ground the hope in the declarative 'You are forgiven/renewed'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A brilliant essay, but a weak sermon in terms of Speech Act Theory. It informs but does not transform."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's self-revelation (Bloch story); SAT reveals the lack of a creative 'Word-act'.",
+    "verschil_met_retoriek": "Rhetorically elegant, but illocutionarily empty of divine mandate.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'mystical' theme, the language remains 'constative' and thus 'un-mystical' in its effect."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "heißt",
+        "war",
+        "galt",
+        "bedeutet"
+      ],
+      "directief": [
+        "bleib",
+        "versuchen",
+        "lassen"
+      ],
+      "expressief": [
+        "glaube",
+        "denke",
+        "hoffe"
+      ],
+      "commissief": [
+        "werden"
+      ],
+      "declaratief": []
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Gott ist die Liebe.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Descriptive",
+        "effectiviteit": "Low (Information only)"
+      }
+    ],
+    "notities": "The sermon is a classic example of 'talking about' God rather than 'speaking from' God."
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "titel_preek": "Wider den Geist der Kaufmannschaft",
+    "bijbeltekst": "Hiob (Job) 1, 2, 13, 14, 38, 42",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2100"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The search for a 'disinterested' love for God (Religion pur) that persists despite suffering and the silence of God, moving beyond the 'mercantile' logic of reward and punishment.",
+      "subject": {
+        "identificatie": "The Human/Hiob (and the Preacher/Hearer as co-subjects)",
+        "tekstueel_bewijs": [
+          "Hiob lebt seinen Glauben 'gratis'",
+          "Ich lasse die Toten nicht allein, ich gebe die Hoffnung nicht auf",
+          "In Deine Lieb versenken will ich mich ganz hinab"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Mystical love 'without a why' (Amour fou) / Integrity of faith",
+        "tekstueel_bewijs": [
+          "eine liebende und absichtsfreie Begegnung zweier Freiheiten",
+          "Religion pur, die nicht aus Angst vor Strafen reagiert"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "The Truth / The 'Hidden' God of the Cross",
+        "tekstueel_bewijs": [
+          "Gott hat uns gelehrt, groß vom Menschen zu denken",
+          "Christus, das aufgedeckte Antlitz Gottes"
+        ],
+        "rol_interpretatie": "OTHER"
+      },
+      "ontvanger": {
+        "identificatie": "God (who wins the bet) and the Human (who gains dignity)",
+        "tekstueel_bewijs": [
+          "hilft so Gott, die Wette zu gewinnen",
+          "die Würde der Untröstlichkeit"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "The 'Other Hiob' (Christ) / The 'Trotz' (Defiance)",
+        "tekstueel_bewijs": [
+          "Der andere Gott, der Hiob geworden ist",
+          "sei es nur aus Trotz"
+        ],
+        "rol_van_god": "God is both the Opponent (as the silent/powerful one) and the Helper (as the suffering Christ).",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "The Spirit of Merchantry (Satan) / The Friends' Ideology",
+        "tekstueel_bewijs": [
+          "der Geist der Kaufmannschaft",
+          "die banalen Welterklärungskünstler"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is the very structure of 'do ut des' (mercantile logic) which threatens the possibility of true love."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "The political/ethical solidarity with the tortured and the victims of history.",
+      "subject": "The Hearer/Preacher",
+      "object": "Solidarity/Not leaving the dead alone",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "The mystical love for God (Program 1) enables the 'dignity of inconsolability' and solidarity (Program 2)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Truth/Cross → Pure Love → God/Humanity",
+      "helper_subject_tegenstander": "Suffering Christ → Hiob/Hearer ← Mercantile Logic/Satan",
+      "subject_naar_object": "Hiob/Hearer → Disinterested Faith"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "68",
+      "ratio": "0.61",
+      "voorbeelden_god_subject": [
+        "Gott hat Hiob in die Hand des Satans gegeben",
+        "Gott fragt vielmehr ziemlich entrüstet",
+        "Gott hat uns gelehrt, groß vom Menschen zu denken"
+      ],
+      "voorbeelden_mens_subject": [
+        "Hiob lebt seinen Glauben 'gratis'",
+        "Ich lasse die Toten nicht allein",
+        "Wir sollten es aufgeben, Gott zu verteidigen"
+      ],
+      "rutledge_score": "5"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Es ist die Pflicht der Sprache des Glaubens"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Ich möchte Hiobs Frau verstehen lernen",
+          "mein Herz will ich Dir schenken"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "6",
+        "voorbeelden": [
+          "Religion nur versteht, wenn man die Liebe zu Gott 'ohne Warum' denken kann"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Kann sie sich auch im Leiden durchhalten?",
+          "Gott hilft so Gott, die Wette zu gewinnen"
+        ]
+      },
+      "dominante_modaliteit": "VOULOIR",
+      "modale_interpretatie": "The sermon focuses on the 'Willing' (Desire) of the soul to love God without calculation, a mystical recruitment of the heart."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Gratis Love (Chinam)",
+      "s2": "Mercantile Logic (Deal)",
+      "niet_s1": "Atheism of Despair",
+      "niet_s2": "Ideological Theodicy (Friends)"
+    },
+    "beweging_in_preek": "Moves from S2 (The Friends/Satan) to ~S2 (Theodicy rejection) to ~S1 (Atheistic shadow) and finally to S1 (Mystical love/Christ).",
+    "theologische_resolutie": "The tension is resolved not by explanation, but by the 'Other Hiob' (Christ) who loses the bet of life but embodies the face of God.",
+    "ernst_van_s2": "Extremely high; the 'Deal' is presented as a cosmic temptation."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "While the human is very active as a subject, it is a 'passive activity' of mystical surrender. It avoids moralism by rejecting the 'law of reward' and grounding the human's ability to love in the suffering of Christ.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric effort",
+        "tekstueel_bewijs": "Ich lasse die Toten nicht allein, ich gebe die Hoffnung nicht auf",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Rejection of Performance-Logic",
+        "tekstueel_bewijs": "Hiob lebt seinen Glauben 'gratis'",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Christological grounding",
+        "tekstueel_bewijs": "Der andere Gott, der Hiob geworden ist",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Hiob is used as a model of 'disinterested faith', but specifically as one who 'helps God win', shifting the focus to God's reputation.",
+      "bijbelse_figuren_als_model": [
+        "Hiob",
+        "Hiobs Frau"
+      ],
+      "alternatieve_lezing": "God maintains his love for Hiob even when he delivers him to Satan (Theocentric)."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Empowerment through defiance (Trotz) and surrender.",
+      "theologische_implicatie": "Faith is seen as a 'mystical participation' rather than a 'legal standing'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "The dialogue structure between Sölle and Steffensky creates a dialectic that mirrors the tension between the 'God of Power' and the 'God of Love'.",
+      "spanning_punten": [
+        "The tension between 'God as Opponent' (Sölle) and 'God as Power' (Steffensky)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "PARTICIPATION",
+      "tekstueel_bewijs": "In Deine Lieb versenken will ich mich ganz hinab",
+      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The Spirit is not explicitly named, but the 'Pouvoir' is granted through the 'Face of Christ'."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Sin is defined here as 'Kaufmannschaft' (treating God as a vending machine)."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully dismantles the moralistic 'Subject = Man, Object = Reward' structure, replacing it with a 'Subject = Man, Object = God's Glory' mystical structure.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "The hearer might feel they must achieve 'Amour fou' by their own strength.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Emphasize that the 'Other Hiob' (Christ) has already won the bet for us."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strong Vouloir (Desire)",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as enablement)",
+      "concrete_suggestie": "Focus more on how the 'Face of Christ' enables the heart to love."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "Strongly developed (Satan/Merchantry)",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Christ as Hiob) → Ethics (Solidarity)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A profound deconstruction of moralistic religion that uses the Actantial model to expose the 'deal' we try to make with God."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the Sölle/Steffensky dialogue; semiotics reveals they are two voices of one Subject searching for one Object.",
+    "verschil_met_exegese": "Exegesis would argue about the Hebrew 'Chinam'; semiotics shows how 'Chinam' functions as the 'Value-Object' of the whole narrative.",
+    "unieke_inzichten_greimas": "Reveals that the 'Friends' are not just characters, but the 'Opponent' actant representing a specific semiotic system (The Mercantile)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Gott (fragt, fordert, führt vor, lässt Muskeln spielen)",
+      "Hiob (lebt Glauben, hilft Gott, spricht)",
+      "Wir (lassen nicht allein, geben Hoffnung nicht auf, versenken uns)"
+    ],
+    "volledige_object_lijst": [
+      "Religion pur",
+      "Würde der Untröstlichkeit",
+      "Ganzheit"
+    ],
+    "werkwoord_frequentie": {
+      "lieben": {
+        "count": "8",
+        "primair_subject": "Man"
+      },
+      "quälen": {
+        "count": "5",
+        "primair_subject": "Other"
+      }
+    },
+    "notities": "The sermon is a rare example of 'Grace' that doesn't sound 'cheap' because the Opponent (Suffering/Satan) is taken with extreme seriousness."
+  }
+}

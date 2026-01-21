@@ -1,0 +1,331 @@
+{
+  "metadata": {
+    "titel_preek": "God’s Cut-and-Fill Operation",
+    "bijbeltekst": "Isaiah 40:3–5; Mark 1:1-8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher explains the imagery of Isaiah 40 (highway construction) and the role of John the Baptist as the herald of the new age. Content focuses on the 'cut-and-fill' metaphor for repentance and reconciliation.",
+      "exegetische_kwaliteit": "High. Connects the Hebrew Bible (Malachi/Isaiah) with the New Testament (Mark/Luke) and liturgical tradition.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The sermon primarily functions as an explanation of what Advent and repentance 'mean', with a shift toward moral exhortation (directives) regarding family reconciliation.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Advent is the season when the church makes a strenuous effort...",
+        "The role of John the Baptist is to prepare us...",
+        "Repentance is for the strong."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel the need for reconciliation and be motivated to ask for forgiveness in their private lives.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned as the agent of the 'event'.",
+      "perlocutionaire_werkwoorden": [
+        "reflect",
+        "repent",
+        "reconcile",
+        "understand"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "John the Baptist stands at the edge of the universe.",
+        "The new day of the righteousness of God is coming.",
+        "Mark’s version of the story is the most stark."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "means",
+        "stands",
+        "shows"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Fall on your knees!",
+        "Seek reconciliation.",
+        "Take a good long look at our own deficiencies."
+      ],
+      "dominante_werkwoorden": [
+        "fall",
+        "seek",
+        "take",
+        "prepare"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "I find him more and more fascinating.",
+        "I didn’t like it one bit."
+      ],
+      "dominante_werkwoorden": [
+        "find",
+        "like",
+        "love"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "2%",
+      "voorbeelden": [
+        "As God has promised us, the trip is still going to be fun."
+      ],
+      "dominante_werkwoorden": [
+        "promised"
+      ],
+      "kwaliteit": "Weak. The promise is used as a concluding sentiment rather than a foundational illocutionary act."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "Amen"
+      ],
+      "autoriteit": "Low. The preacher describes God's leveling but does not perform the leveling through the word (e.g., 'I declare you forgiven')."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'It means...'",
+        "Historical/literary analysis of Handel and Godspell",
+        "Third-person descriptions of John the Baptist"
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a theological concept rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'to-do' list (reconcile with family) without the 'done' word of the Gospel."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon talks *about* the promise of reconciliation but does not *bestow* it.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Anecdotal (childhood memories) and homiletical 'we'."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Moral application toward the end.",
+        "performatieve_context": "Mostly used for directives ('you need to be here')."
+      },
+      "derde_persoon": {
+        "frequentie": "110",
+        "gebruik": "Describing John, Mark, Isaiah, and 'people'.",
+        "distantie_effect": "Significant. God and the text are objects of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and personal anecdote."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Defining what repentance and Advent 'is'."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the worship service."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Explanation of John/Isaiah) -> Directive (You should ask for forgiveness).",
+      "voorbeelden": [
+        "Repentance is for the strong... Therefore, the most important way that we can participate... is to seek reconciliation."
+      ],
+      "probleem": "The imperative (Directive) is not preceded by a performative declaration of grace (Commissive/Declarative), leading to moralism."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "None"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Reconciliation is hard work... it requires daily repentance."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a high-quality lecture on the theology of Advent and the psychology of reconciliation, but it remains 'about' God rather than being an 'act' of God.",
+    "sterke_punten": [
+      {
+        "aspect": "Metaphorical Coherence",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "God’s Cut-and-Fill Operation",
+        "effect": "Provides a vivid mental model for the biblical text."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Commissives",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The whole sermon.",
+        "probleem": "God never speaks a promise directly to the hearer.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an educational event, not a sacramental event. The 'happening' is limited to the hearer's cognitive processing.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher acts as a commentator on the text rather than a mandatory of the Living Word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the preacher's sentences, not the speaker of the sermon.",
+      "prediker_als_mandataris": "Weak. The preacher speaks as a teacher/analyst.",
+      "tekstueel_bewijs": [
+        "I asked both of them a fundamental question..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is attributed to human effort/psychology (asking for forgiveness).",
+      "tekstueel_bewijs": [
+        "Reconciliation is hard work."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a preparation for a life of effort.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": [
+        "The message of John the Baptist is much better for us than the message of all those catalogues."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Shift from 'is/means' (Assertive) to 'gives/promises/declares' (Commissive/Declarative).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The role of John the Baptist is to prepare us for the appearance of God’s own self.",
+          "voorgestelde_revisie": "Today, through this Word, God appears to you to level the mountains of your pride.",
+          "verschil": "Moves from a historical fact to a present divine action."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'good news' is described as a concept rather than delivered as a gift.",
+      "suggestie": "Insert a clear Commissive after the 'cut-and-fill' explanation.",
+      "voorbeeldzinnen": [
+        "In this very moment, Christ promises to fill the valleys of your despair."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'I' (preacher) and 'He' (John/God).",
+      "suggestie": "Use the 'I-Thou' address of the Gospel.",
+      "voorbeeldzinnen": [
+        "God is not just leveling 'the' hills; He is leveling *your* hills today."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The call to reconcile feels like a heavy burden because the power to do so isn't given first.",
+      "suggestie": "Declare the hearer reconciled to God before asking them to reconcile with family."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually engaging and pastorally sensitive, but it lacks the 'sacramental bite' of a performative event. It talks about the highway without actually driving the hearer onto it."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (the childhood story). SAT reveals that this story, while charming, remains a constative locution that does not perform grace.",
+    "verschil_met_retoriek": "Rhetorically, the 'cut-and-fill' metaphor is excellent. However, SAT shows that a good metaphor is still just an Assertive if it doesn't carry illocutionary force.",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Amen', the sermon functions more like a psychological lecture on family systems than a heraldic proclamation."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "means",
+        "stands",
+        "puzzled",
+        "expect",
+        "encroaches",
+        "presents",
+        "know",
+        "understands"
+      ],
+      "directief": [
+        "prepare",
+        "fall",
+        "seek",
+        "take",
+        "repent"
+      ],
+      "expressief": [
+        "love",
+        "find",
+        "fascinating",
+        "disappointment"
+      ],
+      "commissief": [
+        "promised"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Repentance is for the strong.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Defining a concept.",
+        "effectiviteit": "Informative but not transformative."
+      },
+      {
+        "zin": "Fall on your knees!",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Commanding.",
+        "effectiviteit": "Strong, but lacks the 'why' of grace in the immediate context."
+      }
+    ],
+    "notities": "The sermon relies heavily on the authority of psychoanalysts and historical context, which reinforces the 'Constative Surplus'."
+  }
+}

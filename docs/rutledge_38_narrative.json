@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "titel_preek": "Beyond the Valley of Ashes",
+    "bijbeltekst": "Isaiah 40:3–5; Luke 1:13, 16–17, 30–33",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The 'Arriving God' moves from the future into the human 'Valley of Ashes' (the past/death) to seize and rescue a people trapped in illusion and decay.",
+      "subject": {
+        "identificatie": "The Oncoming Lord / God",
+        "tekstueel_bewijs": [
+          "God is on the move toward us",
+          "the heralding announcement of the arriving God",
+          "we are met by the oncoming Lord"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Rescue/Future Kingdom/Peace",
+        "tekstueel_bewijs": [
+          "the only One in whom the promise of peace will some day be fulfilled",
+          "the great coming day of the kingdom of God"
+        ],
+        "aard_van_object": "ESCHATOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God the Father / The Promise",
+        "tekstueel_bewijs": [
+          "for the mouth of the Lord has spoken",
+          "God is out ahead of us"
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "Israel / The Hearer / Mankind",
+        "tekstueel_bewijs": [
+          "Emmanuel shall come to thee, O Israel",
+          "In our valley of ashes, we are seized by hope"
+        ],
+        "positie_hoorder": "RECEIVER"
+      },
+      "helper": {
+        "identificatie": "The Holy Spirit / Advent Proclamation",
+        "tekstueel_bewijs": [
+          "the Holy Spirit breathes life from the dead",
+          "By thine own eternal Spirit rule in all our hearts"
+        ],
+        "rol_van_god": "SUBJECT",
+        "rol_van_geest": "EXTERNAL_HELPER"
+      },
+      "tegenstander": {
+        "identificatie": "The Past / Illusion / Sin / Death",
+        "tekstueel_bewijs": [
+          "the past is a destroying current",
+          "valley of ashes where nothing can grow",
+          "graveyard of dreams"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is not just bad behavior but an ontological 'current' that 'ceaselessly' bears humans back to death and futility."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The ethical response of the believer to the arriving Kingdom.",
+      "subject": "The Believer / 'We'",
+      "object": "Ethical actions (forgiving, justice, etc.)",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "The secondary program is explicitly fueled by the primary: 'Trusting in that promise, we can do things...'"
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Kingdom/Peace → Israel/Hearer",
+      "helper_subject_tegenstander": "Holy Spirit → The Oncoming Lord ← The Past/Death",
+      "subject_naar_object": "God → Human Rescue"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "42",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5:1",
+      "voorbeelden_god_subject": [
+        "God is on the move toward us",
+        "the Holy Spirit breathes life",
+        "the Sun rises upon us"
+      ],
+      "voorbeelden_mens_subject": [
+        "we beat on, boats against the current",
+        "we try to create artificial worlds",
+        "we can change our habits"
+      ],
+      "rutledge_score": "9"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "Advent summons us to... renounce"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "I’m dreaming of a white Christmas"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "3",
+        "voorbeelden": [
+          "we recognize that we are hearing something entirely new"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "we can do things we thought we could not do",
+          "Relying on him, we can change"
+        ]
+      },
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "The sermon focuses on the endowment of power (Pouvoir) from an external source (God) because the human subject is characterized by 'incapacity'."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The Future (God's Kingdom)",
+      "s2": "The Past (Valley of Ashes/Death)",
+      "niet_s1": "Artificial Light (Sentimentality)",
+      "niet_s2": "The Wilderness (Preparation)"
+    },
+    "beweging_in_preek": "From S2 (The Past) through ~S1 (Sentimentality) to ~S2 (Wilderness/Renunciation) and finally to S1 (The Oncoming Lord).",
+    "theologische_resolutie": "The tension is resolved by the 'countervailing motion' of God who arrives from the future to break the cycle of the past.",
+    "ernst_van_s2": "Extremely high; the past is described as a 'destroying current' and a 'graveyard'."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "The sermon is rigorously theocentric. It identifies human helplessness and places the agency of rescue entirely on God's 'oncoming' movement.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Potential Exemplarism in ethical list",
+        "tekstueel_bewijs": "we can change our habits, confront our addictions...",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "God as Active Subject",
+        "tekstueel_bewijs": "God is on the move toward us, not the other way round.",
+        "sterkte": "VERY_STRONG"
+      },
+      {
+        "indicator": "Heavy Opponent",
+        "tekstueel_bewijs": "the past is a destroying current, ready to swallow us up in futility.",
+        "sterkte": "STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "false",
+      "beschrijving": "Biblical figures (John the Baptist, Mary) are used as recipients of the promise or heralds, not as moral models to imitate.",
+      "bijbelse_figuren_als_model": [],
+      "alternatieve_lezing": "Theocentric: Mary and Zechariah are subjects of God's favor and action."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Relief and hope; the burden of 'making peace' is replaced by the 'arriving peace' of God.",
+      "theologische_implicatie": "Monergistic rescue; the human role is to be 'seized by hope'."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "10",
+      "coherentie_beschrijving": "The transition from the primary program (God's arrival) to the secondary (our response) is perfectly logical: 'Trusting in that promise, we can...'",
+      "spanning_punten": []
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "CHRISTUS_VICTOR",
+      "tekstueel_bewijs": "the countervailing motion that lifts the boats clear... God is enlisting us on the side of his future.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "INDWELLING_POWER",
+      "competentie_schenking": "The Spirit 'breathes life' into the 'incapacity' of the hearer."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Sin is a 'destroying current' and 'darkness' that humans cannot escape via 'artificial light'."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the primary narrative. The hearer is positioned as the Receiver in a valley of ashes, waiting for an external rescue.",
+    "subject_herpositionering": {
+      "nodig": "false",
+      "huidige_probleem": "None",
+      "voorgestelde_herpositionering": "N/A",
+      "voorbeeld_revisie": "N/A"
+    },
+    "identificatie_herstel": {
+      "nodig": "false",
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Strongly weighted toward Pouvoir (God's power).",
+      "voorgestelde_balans": "Maintain as is; this is the 'Grammar of Grace'.",
+      "concrete_suggestie": "N/A"
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "Strongly developed (The Valley of Ashes).",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "false",
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (God's arrival) → Ethics (Our response)."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in theocentric preaching. The use of Gatsby as a foil for the 'destroying current' of the past creates a profound need for the 'Oncoming Lord'."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "While a rhetorical analysis would focus on the Gatsby metaphor, Greimasian analysis reveals that Gatsby is the 'Opponent' (the past) and God is the 'Subject' (the future).",
+    "verschil_met_exegese": "Exegesis explains Isaiah 40; semiotics shows how Isaiah 40 functions as a 'Pouvoir-faire' (endowment of power) for the modern hearer.",
+    "unieke_inzichten_greimas": "Reveals that the 'ethical list' at the end is not a new mandate (Devoir) but a consequence of the Subject-switch (God taking over the boat)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "God (is on the move)",
+      "The Holy Spirit (breathes)",
+      "The Sun (rises)",
+      "The past (swallows)",
+      "We (beat on)",
+      "We (can change)"
+    ],
+    "volledige_object_lijst": [
+      "Peace",
+      "The Kingdom",
+      "Rescue",
+      "Hope"
+    ],
+    "werkwoord_frequentie": {
+      "come/arrive": {
+        "count": "12",
+        "primair_subject": "God"
+      },
+      "can": {
+        "count": "8",
+        "primair_subject": "Man (enabled by God)"
+      }
+    },
+    "notities": "The sermon follows Fleming Rutledge's own rule perfectly: God is the subject of the active verbs of salvation."
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "metadata": {
+    "titel_preek": "Der Baum der Erkenntnis und der Baum des Lebens",
+    "bijbeltekst": "Genesis 3",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon reinterprets the Fall (Genesis 3) as a 'Coming Out' and a process of birth/liberation, specifically addressing the 'tradition of insult' against women.",
+      "exegetische_kwaliteit": "High. Uses Hebrew etymology (Adam/Adama) and contrasts traditional patriarchal readings with a liberation-theological hermeneutic.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The preacher primarily asserts a new interpretation and expresses solidarity, with occasional calls to praise and gratitude.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Ich verstehe die Urgeschichte als den Kampf zweier Traditionen.",
+        "Lasst uns Eva loben!",
+        "Ich danke Dir, dass Du mich als Frau erschaffen hast."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Empowerment of women, intellectual liberation from patriarchal guilt, and a sense of divine solidarity in the 'coldness' of the world.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly mentioned; the focus is on human action and the 'message of the Bible'.",
+      "perlocutionaire_werkwoorden": [
+        "empower",
+        "rethink",
+        "identify",
+        "praise"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "85",
+      "procent": "70%",
+      "voorbeelden": [
+        "Unsere Identität ist nicht bruchlos da.",
+        "Diese Beleidigungstradition geht tief.",
+        "Die Wörter Sünde und Fall erscheinen im biblischen Text nicht."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "heißt",
+        "bedeutet",
+        "steht"
+      ]
+    },
+    "directieven": {
+      "frequentie": "12",
+      "procent": "10%",
+      "voorbeelden": [
+        "Lasst uns die biblische Tradition im Sinne des Coming out verstehen.",
+        "Lasst uns Eva loben!",
+        "Lasst uns tun, was Gott tut."
+      ],
+      "dominante_werkwoorden": [
+        "lasst uns",
+        "sollen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "12%",
+      "voorbeelden": [
+        "Ich danke Dir, dass Du mich als Frau erschaffen hast.",
+        "Diese Bemerkung hat mich sehr nachdenklich gemacht."
+      ],
+      "dominante_werkwoorden": [
+        "danken",
+        "fühlen",
+        "meinen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "3",
+      "procent": "5%",
+      "voorbeelden": [
+        "Die Gesamtbotschaft der Bibel sagt, dass Gott auf unserer Seite steht.",
+        "Er geht mit uns."
+      ],
+      "dominante_werkwoorden": [
+        "steht",
+        "geht"
+      ],
+      "kwaliteit": "Weak. The promises are framed as general biblical truths (Assertives) rather than direct, first-person commissives from God to the hearer."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "3%",
+      "voorbeelden": [
+        "Ich lese den Schluss..."
+      ],
+      "dominante_werkwoorden": [
+        "lesen"
+      ],
+      "autoriteit": "Low. There is no sacramental declaration of forgiveness or new status; the authority is hermeneutical rather than apostolic."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive historical-critical explanation",
+        "Talking about the text's reception history",
+        "Describing God's character in the 3rd person"
+      ],
+      "effect_op_hoorder": "The hearer gains a new perspective (information) but remains an observer of a theological debate."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct promise (Toezegging)",
+        "Absolution",
+        "Direct address of God's 'I' to the hearer's 'You'"
+      ],
+      "effect_op_hoorder": "Intellectual agreement without a transformative encounter."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The 'promises' are actually descriptions of what the Bible says, not direct speech acts.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "22",
+        "gebruik": "Personal anecdotes and 'We' as a collective of women/Christians."
+      },
+      "tweede_persoon": {
+        "frequentie": "8",
+        "gebruik": "Addressing 'Dear sisters', but rarely as the object of God's action.",
+        "performatieve_context": "Low"
+      },
+      "derde_persoon": {
+        "frequentie": "65",
+        "gebruik": "Talking about 'The woman', 'Adam', 'God', 'The tradition'.",
+        "distantie_effect": "High distance; the text is treated as an object of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical narrative and history of interpretation."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General theological and anthropological truths."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate liturgical moment of prayer."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (New interpretation of Genesis) -> Directive (Let us praise/Let us act).",
+      "voorbeelden": [
+        "Genesis 3 is quite different... Let us praise Eva!"
+      ],
+      "probleem": "The imperative to 'praise' or 'act' is not grounded in a performative act of God's grace, but in a new intellectual insight."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "None"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Lasst uns tun, was Gott tut (Directive) based on: Gott machte Röcke (Assertive/Past)."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a feminist-theological lecture. It successfully deconstructs harmful traditions but fails to transition from 'talking about' liberation to 'performing' liberation through the Word.",
+    "sterke_punten": [
+      {
+        "aspect": "Hermeneutical shift",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Coming out – herauskommen – ist ein Befreiungswort.",
+        "effect": "Breaks the power of traditional shaming."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Illocutionary Force",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Die Gesamtbotschaft der Bibel sagt, dass Gott auf unserer Seite steht.",
+        "probleem": "Third-person reporting of a promise is not a promise.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an 'event' of political/social education, but not a 'sacramental event' where God speaks directly to the soul.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher remains a commentator on the text rather than a mandatory of the living Christ."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the story, not the speaker of the sermon.",
+      "prediker_als_mandataris": "No. The preacher is an advocate for a specific reading.",
+      "tekstueel_bewijs": [
+        "Ich verstehe die Urgeschichte als..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly humanistic; the effect depends on the hearer's willingness to change their perspective.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a means of enlightenment.",
+      "epifanisch_taalgebruik": "Low.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 3rd person 'is' and 'was' verbs. Needs more 1st/2nd person 'I promise you' or 'God says to you'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Die Gesamtbotschaft der Bibel sagt, dass Gott auf unserer Seite steht.",
+          "voorgestelde_revisie": "Höre das Wort des Herrn: Ich stehe an deiner Seite in deinem Coming Out.",
+          "verschil": "Shifts from a report to an encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "Grace is described as a historical fact (the coats of skins) rather than a present gift.",
+      "suggestie": "Use the 'coats of skins' as a declarative act of covering the hearer's shame today.",
+      "voorbeeldzinnen": [
+        "Gott kleidet dich heute neu ein, damit du dich nicht mehr schämen musst."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "The 'You' is mostly plural and collective.",
+      "suggestie": "Address the individual 'You' (Du) to make the liberation personal.",
+      "voorbeeldzinnen": [
+        "Du bist nicht mehr das zweite Geschlecht; Gott nennt dich sein Ebenbild."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative 'Let us act' is too heavy because the indicative 'God has freed you' is only presented as an interpretation.",
+      "suggestie": "Declare freedom first, then invite response."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is intellectually brilliant and rhetorically brave, but it stays in the classroom. To become a sacramental event, the preacher must dare to speak in God's name, not just about God's book."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Relationship' aspect between the preacher and the sisters; SAT reveals that the 'Appeal' lacks a divine 'Sender' act.",
+    "verschil_met_retoriek": "Rhetorically, this is a strong persuasive speech; SAT shows it lacks the 'Creative Word' (Declarative) that changes the hearer's status before God.",
+    "unieke_inzichten_SAT": "SAT exposes that even 'progressive' preaching can be 'legalistic' if it replaces old dogmas with new interpretations without a performative promise."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "sind",
+        "haben",
+        "bedeutet",
+        "erscheinen",
+        "geht",
+        "war",
+        "wurde"
+      ],
+      "directief": [
+        "lasst uns",
+        "sollen",
+        "müssen"
+      ],
+      "expressief": [
+        "danken",
+        "meinen",
+        "glauben"
+      ],
+      "commissief": [
+        "steht",
+        "geht mit"
+      ],
+      "declaratief": [
+        "lesen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Gott machte Adam und seinem Weibe Röcke von Fellen und kleidete sie.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Reporting a past event.",
+        "effectiviteit": "Low performativity; it remains in the past tense."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the 'What' (Exegesis) overwhelms the 'What for' (Illocution)."
+  }
+}

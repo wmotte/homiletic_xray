@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "titel_preek": "Wer hat dich so geschlagen? Ein Passionsgottesdienst",
+    "bijbeltekst": "Johannes 18-19 (Passiegeschiedenis)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Een sociaal-kritische passiepreek die de kruisiging van Jezus verbindt met actueel onrecht (bewapening, uitbuiting, armoede).",
+      "exegetische_kwaliteit": "De exegese is narratief en actualiserend; de tekst wordt niet zozeer uitgelegd als wel gespiegeld aan de moderne tijd.",
+      "omvang_procent": "40%"
+    },
+    "illocutie": {
+      "beschrijving": "De prediker probeert de hoorder te confronteren met medeplichtigheid en op te roepen tot solidariteit met de lijdende Christus in de arme.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": "7",
+      "voorbeelden": [
+        "Ich habe dich geschlagen, Jesus.",
+        "Gott wird heutzutage gefoltert.",
+        "Wo stehen wir denn?"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Schuldbewustzijn, politiek-ethische bekering en identificatie met de gemarginaliseerden.",
+      "pneumatologisch_bewustzijn": "Laag; de nadruk ligt op de menselijke keuze en de ethische navolging.",
+      "perlocutionaire_werkwoorden": [
+        "erkennen",
+        "omkeren",
+        "meelijden",
+        "handelen"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "65%",
+      "voorbeelden": [
+        "Christus lebt aus der Wahrheit Gottes.",
+        "Pilatus ist ein liberaler Kolonialbeamter.",
+        "Gott ist der ganze Weg der Liebe."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "haben",
+        "bleibt"
+      ]
+    },
+    "directieven": {
+      "frequentie": "28",
+      "procent": "15%",
+      "voorbeelden": [
+        "Wo bist du, Adam?",
+        "Wie weit wirst du dich op mich einlassen?",
+        "Wir müssen den Geist des Sieges austreiben."
+      ],
+      "dominante_werkwoorden": [
+        "müssen",
+        "fragen",
+        "gehen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "35",
+      "procent": "15%",
+      "voorbeelden": [
+        "Ich, ich und meine Sünden.",
+        "Er ist traurig, weil er viel weiß."
+      ],
+      "dominante_werkwoorden": [
+        "leiden",
+        "fühlen",
+        "klagen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "3%",
+      "voorbeelden": [
+        "Gott trennt sich nicht von der Liebe."
+      ],
+      "dominante_werkwoorden": [
+        "trennen"
+      ],
+      "kwaliteit": "Zwak; de belofte is eerder een algemene waarheid (assertief) dan een directe toezegging aan de hoorder."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "Es ist vollbracht."
+      ],
+      "dominante_werkwoorden": [
+        "ist vollbracht"
+      ],
+      "autoriteit": "De prediker citeert Jezus, maar spreekt zelf geen nieuwe werkelijkheid uit over de hoorder."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Lange beschrijvingen van politieke situaties",
+        "Psychologisering van Pilatus",
+        "Definitie van wat 'Wahrheit' is"
+      ],
+      "effect_op_hoorder": "De hoorder wordt een toeschouwer van een moreel drama in plaats van een ontvanger van genade."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "CRITICAL",
+      "missende_elementen": [
+        "Absolutie",
+        "Directe belofte van heil",
+        "Sacramentele vrijspraak"
+      ],
+      "effect_op_hoorder": "De hoorder blijft achter met de last van de wereld zonder de bevrijding van het 'pro me'."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "Nihil; er wordt over God gesproken, maar God spreekt niet direct bevrijdend tot de mens.",
+      "voorbeelden": [],
+      "moment_in_preek": "N.v.t."
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Collectief schuldbewustzijn ('Wir', 'Ich' als identificatie)."
+      },
+      "tweede_persoon": {
+        "frequentie": "12",
+        "gebruik": "Retorische vragen en morele appèl.",
+        "performatieve_context": "Nee, vooral vragend/confronterend."
+      },
+      "derde_persoon": {
+        "frequentie": "120",
+        "gebruik": "Beschrijving van Jezus, Pilatus en de wereldpolitiek.",
+        "distantie_effect": "Hoog; creëert een analyse van de wereldtoestand."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Passie-evangelie."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "Algemene waarheden over macht en waarheid."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "Nu-moment van de politieke crisis."
+      }
+    },
+    "adressering_effectiviteit": "5"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Analyse van onrecht) -> Directive (Vraag naar betrokkenheid/schuld).",
+      "voorbeelden": [
+        "Wir sind Sieger... darum ist unser Verhältnis zur Wahrheit gestört... wir müssen uns auf die Seite der Armen stellen."
+      ],
+      "probleem": "De wet (onrecht) wordt gevolgd door een morele eis, zonder dat het evangelie als performatieve bevrijding (toezegging) tussenbeide komt."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Ontbreekt.",
+      "voorbeelden": [],
+      "kwaliteit": "Onvoldoende performatieve kracht."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Wer immer die Wahrheit selbst haben will, muss den Geist des Sieges austreiben."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "De preek is een krachtig moreel manifest, maar blijft steken in 'praten over' (constatief) en 'eisen van' (directief). Het 'gebeuren' van de verzoening vindt niet plaats in de taal zelf.",
+    "sterke_punten": [
+      {
+        "aspect": "Actualiteit",
+        "categorie": "Locutie",
+        "tekstueel_bewijs": "Die Aufrüstung und der Hunger sind die beiden Arme des Kreuzes.",
+        "effect": "Maakt de tekst urgent."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Ontbreken van Commissieven",
+        "categorie": "Illocutie",
+        "tekstueel_bewijs": "N.v.t. (afwezigheid)",
+        "probleem": "Geen troost of belofte.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "4",
+    "gebeuren_toelichting": "Het is een intellectueel en emotioneel evenement, maar geen heilsevent in de zin van een sacramentele ontmoeting.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "De taal bemiddelt geen genade, maar bewustzijn."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Nee, God is het lijdende object van menselijk handelen.",
+      "prediker_als_mandataris": "Nee, de prediker spreekt als een solidaire getuige/analyticus.",
+      "tekstueel_bewijs": [
+        "Gott wird heutzutage gefoltert."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Nee.",
+      "perlocutie_theologie": "Nee, het effect wordt gezocht in menselijke morele reactie.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Nee, de preek is een spiegel voor de wereld.",
+      "epifanisch_taalgebruik": "Zwak; eerder beschrijvend-analytisch.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Vervang 30% van de assertieven (beschrijvingen) door commissieven (beloften) en declaratieven (vrijspraak).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Christen geben eine andere Antwort. Sie sagen: ICH.",
+          "voorgestelde_revisie": "Ik zeg u in de naam van Christus: Uw schuld is gedragen.",
+          "verschil": "Verschuiving van zelf-analyse naar ontvangen genade."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "De hoorder wordt verpletterd door de schuld van het systeem.",
+      "suggestie": "Voeg een expliciete belofte van Christus toe aan de hoorder.",
+      "voorbeeldzinnen": [
+        "Christus belooft u vandaag: Ik ben voor u de weg gegaan die u niet kunt gaan."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Te veel 'man' en 'wir'.",
+      "suggestie": "Spreek de hoorder direct aan met 'U'.",
+      "voorbeeldzinnen": [
+        "Voor u hangt Hij daar."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "De eis (navolging) is niet gefundeerd in de gave (vergeving).",
+      "suggestie": "Eerst de bevrijding declareren, dan de ethiek vragen."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "Een retorisch meesterwerk van politieke theologie, maar homiletisch een 'constatief surplus' dat de hoorder onverlost achterlaat."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT zou focussen op de 'appèl-zijde' van de prediker; SAT laat zien dat de 'declaratieve' goddelijke autoriteit ontbreekt.",
+    "verschil_met_retoriek": "Retorisch is de preek sterk door de herhaling ('Wer hat dich...'), maar SAT diagnosticeert dat de illocutionaire kracht beperkt blijft tot 'bewustmaken'.",
+    "unieke_inzichten_SAT": "SAT onthult dat ondanks de emotionele diepte, de preek taalkundig niet 'doet' wat hij 'zegt' (verzoening bewerken)."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "sind",
+        "haben",
+        "wissen",
+        "heißt",
+        "bleibt"
+      ],
+      "directief": [
+        "müssen",
+        "fragen",
+        "nehmen",
+        "richten"
+      ],
+      "expressief": [
+        "leiden",
+        "fühlen",
+        "ertragen",
+        "stören"
+      ],
+      "commissief": [
+        "trennen (niet)",
+        "versprechen (impliciet)"
+      ],
+      "declaratief": [
+        "ist vollbracht"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Gott wird heutzutage gefoltert.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Shock-effect/Beschrijving",
+        "effectiviteit": "Hoog voor bewustwording, laag voor sacrament."
+      }
+    ],
+    "notities": "De preek is sterk beïnvloed door de bevrijdingstheologie van Dorothee Sölle."
+  }
+}

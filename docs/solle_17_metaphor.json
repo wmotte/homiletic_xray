@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "titel_preek": "Der Glaube arbeitet an der Angst",
+    "bijbeltekst": "Markus 4,35-41 (Sturmstillung)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY/ARCHITECTURAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Unser Schiff ist nahe am Kentern",
+          "Das Schiff der reichen Industrienationen",
+          "Angst ist ein Gefängnis"
+        ],
+        "conceptuele_metafoor": "SOCIETY IS A SHIP IN A STORM"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "Psychogesetze",
+          "Vermeidungsstrategie",
+          "psychoanalytische Theorie",
+          "Angst bearbeiten"
+        ],
+        "conceptuele_metafoor": "FAITH IS PSYCHOTHERAPEUTIC LABOR"
+      },
+      {
+        "domein_type": "AGRARIAN/INDUSTRIAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Schmiedetechnik",
+          "aus Schwertern Pflüge machen",
+          "Angst umbauen",
+          "umfunktionieren"
+        ],
+        "conceptuele_metafoor": "SANCTIFICATION IS RECYCLING/RETOOLING"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Angst ist ein Gefängnis, in das wir uns einschließen, und wir sind selber der Wächter und der Gefangene.",
+        "brondomein": {
+          "naam": "Prison",
+          "concrete_elementen": [
+            "Wächter",
+            "Gefangener",
+            "Zelle",
+            "Einschließen"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Sin/Anxiety",
+          "doctrinale_traditie": "Existentialist/Liberation Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Wächter (Guard)",
+            "doel_element": "The self-suppressing ego"
+          },
+          {
+            "bron_element": "Gefangener (Prisoner)",
+            "doel_element": "The suffering soul"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Anxiety is self-imposed and restrictive."
+          ],
+          "theologische_implicaties": [
+            "Sin is incurvatus in se (turned inward on oneself)."
+          ],
+          "ethische_implicaties": [
+            "Liberation requires breaking internal and external structures."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that one has the key to their own salvation/release."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the 'prison' metaphor by making the subject both the guard and the prisoner, creating a psychological paradox."
+      },
+      {
+        "metafoor_expressie": "Gott will uns an diesen Stromkreis der Liebe anschließen.",
+        "brondomein": {
+          "naam": "Electricity/Circuitry",
+          "concrete_elementen": [
+            "Stromkreis",
+            "Anschließen",
+            "Energie"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Grace/Communion",
+          "doctrinale_traditie": "Modern/Technological"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Power Source",
+            "doel_element": "God's Love"
+          },
+          {
+            "bron_element": "Plug/Connection",
+            "doel_element": "Faith"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Grace is a constant flow of energy available for use."
+          ],
+          "theologische_implicaties": [
+            "Participation in the divine nature (Theosis) via connection."
+          ],
+          "ethische_implicaties": [
+            "The believer must remain 'plugged in' to function."
+          ],
+          "onbedoelde_consequenties": [
+            "Mechanistic view of God; grace as impersonal 'juice'."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses 20th-century industrial imagery to describe the mystical union with God."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MIXED",
+      "coherentie_verklaring": "The sermon shifts between a psychological/therapeutic world (inner anxiety) and a socio-political world (global capitalism). It attempts to bridge these using the metaphor of 'retooling' (Schmiedetechnik).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Middle to End",
+          "metafoor_a": "GOD IS A MOTHER/WOMB (Geborgenheit im Leib)",
+          "metafoor_b": "GOD IS A CO-COMBATANT (Reale Kämpfe/Waffen)",
+          "conflict_beschrijving": "The passive safety of the womb conflicts with the active aggression of political struggle.",
+          "entailment_conflict": "Womb entails total protection/passivity; Struggle entails risk/activity.",
+          "ernst": "MODERATE"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Section on 'Umbauen'",
+          "gemengde_metaforen": [
+            "Military (Swords) and Agrarian (Ploughs)"
+          ],
+          "blending_strategie": "Biblical intertextuality (Micah 4) used to justify the transformation of psychological energy into social action."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'Ship' metaphor by applying it to specific 1970s economic crises (growth crisis, job loss).",
+        "voorbeeld": "Unser Schiff ist nahe am Kentern... ich brauche Sie nur zu erinnern an die Wachstumskrise."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "God is framed primarily as a means to resolve 'Trennungsangst' (separation anxiety).",
+        "voorbeeld": "Die Psychotherapeuten sagen... alle Angst entsteht aus Trennungsangst... Gott sagt uns, du bist nicht allein.",
+        "potentiele_impact": "Congregation may view God as a psychological tool rather than a sovereign being.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A stormy sea where a ship (Society/The Church) is about to sink.",
+      "sub_worlds": [
+        "The Factory/Supermarket (The world of production/consumption)",
+        "The Womb (The world of primal security)",
+        "The Forge/Blacksmith (The world of transformation)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Introduction",
+          "van_wereld": "Ancient Nature Miracle",
+          "naar_wereld": "Modern Economic Crisis",
+          "effectiviteit": "High - makes the text immediately relevant."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "The World as a Dangerous Place",
+          "hoe_versterkt": "Detailed listing of social and economic threats."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Jesus as 'Superstar' / Distant God",
+          "verstoring_strategie": "Emphasizing his sweat and tears (humanity).",
+          "vervangend_schema": "Jesus as Brother/Friend/Co-worker."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Sturmstillung' gospel reading but pivots to political theology."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by 'Transformation' metaphors (retooling, rebuilding, working on). It successfully moves from a passive 'Ship in a Storm' (victimhood) to an active 'Blacksmith' (agency). However, it leans heavily on psychological source domains which risk overshadowing the transcendent nature of the divine.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Sünde (Sin)",
+        "huidige_status": "CONVENTIONAL",
+        "suggestie": "Deepen the 'White Face/Long Nose' imagery to flesh out the 'Sin as Global Exploitation' metaphor.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "Describe the physical distance between the 'Sated Table' and the 'Empty Bowl' as a physical chasm."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "Psychological healing vs. Political struggle",
+        "resolutie_strategie": "Use the metaphor of 'Training' or 'Exercise' to show how inner peace provides the stamina for outer conflict."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Angst als Mordinstrument (Anxiety as a weapon)",
+        "problematisch_entailment": "If anxiety is a weapon I use against myself, I am my own enemy.",
+        "aanbeveling": "Clarify that the 'Enemy' is the systemic structure that handed us the weapon, not just the self."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL (Foundation)",
+        "rationale": "To provide a sense of stability that 'Electricity' or 'Wombs' lack in a political context.",
+        "doel_concept": "The Word of God as Ground"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful example of using CMT to bridge the gap between the internal psyche and the external political world."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Focuses on how the 'Ship' metaphor functions as a cognitive map for economic crisis rather than just a poetic image.",
+    "verschil_met_kolb": "Moves beyond 'experience' into the 'conceptual mapping' of how the experience of a factory worker relates to the doctrine of sin.",
+    "unieke_inzichten_CMT": "Reveals that the preacher treats 'Faith' not as a noun (object) but as a verb/process (labor/retooling)."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Dschungel der Gesellschaft",
+      "Schiff nah am Kentern",
+      "Blut schwitzen",
+      "Trennungsangst",
+      "Stromkreis der Liebe",
+      "Angst umbauen",
+      "Schmiedetechnik",
+      "Gefängnis der Angst"
+    ],
+    "woord_frequentie_analyse": {
+      "Angst": "28",
+      "Glaube": "12",
+      "Welt": "10",
+      "Trennungsangst": "4"
+    },
+    "notities": "Sermon reflects the 'Political Turn' in German homiletics (likely Dorothee Sölle or similar school)."
+  }
+}

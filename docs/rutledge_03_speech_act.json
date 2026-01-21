@@ -1,0 +1,337 @@
+{
+  "metadata": {
+    "titel_preek": "Whispers in Darkness",
+    "bijbeltekst": "Amos 5:18–24; Matthew 25:1-13 (Parable of the Ten Virgins)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the 'ominous' tone of the end of the church year, contrasting affluent suburban security with the biblical reality of judgment, chaos, and the necessity of 'premium oil' (costly action) for the lamps of faith.",
+      "exegetische_kwaliteit": "High. The preacher connects the 'Day of the Lord' in Amos with the midnight crisis in Matthew, utilizing T.S. Eliot and current events to bridge the horizon of the text and the hearer.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is ASSERTIVE (describing the season and the world's state) and DIRECTIVE (urging the congregation to move beyond sentimentality).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "I wonder how many of you have noticed that something ominous is going on...",
+        "The church can’t survive on sentiment and nostalgia.",
+        "Everyone can lend a hand to the needy."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To strip away false security (optimism) and replace it with a sober, active hope that manifests in sacrificial service.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is not explicitly invoked as the agent of the 'event'; the focus is on the preacher's logic and the hearer's resolve.",
+      "perlocutionaire_werkwoorden": [
+        "awaken",
+        "reconsider",
+        "act",
+        "hope",
+        "sacrifice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "The world is full of danger and unpredictability.",
+        "Jesus was not sheltered from the storm.",
+        "This really happened."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "writes",
+        "happened",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Listen to the words of the prophet Amos...",
+        "We must learn to understand...",
+        "Everyone can offer encouragement."
+      ],
+      "dominante_werkwoorden": [
+        "listen",
+        "must",
+        "can",
+        "do"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "I wonder how many of you...",
+        "I think this is meant to be bitterly ironic.",
+        "I hate, I despise your feast days (quoting God)."
+      ],
+      "dominante_werkwoorden": [
+        "wonder",
+        "think",
+        "hope"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "Christian hope builds its foundation on the promise of the living God..."
+      ],
+      "dominante_werkwoorden": [
+        "promises",
+        "will"
+      ],
+      "kwaliteit": "The promises are generalized and kept at a distance (talking about the promise rather than speaking the promise)."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "Christ has died; Christ is risen; Christ will come again."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "amen"
+      ],
+      "autoriteit": "The preacher relies on liturgical formulas at the very end rather than personal mandating authority."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of literary quotes (Eliot, Auden, Kakutani).",
+        "Third-person descriptions of 'the church' and 'the world'.",
+        "Talking about the 'Day of the Lord' rather than declaring it."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a profound cultural and theological analysis rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise (Toezegging)",
+        "Sacramental 'I' address"
+      ],
+      "effect_op_hoorder": "The hearer is left with a 'to-do' list (Directive) to solve the 'randomness' described (Assertive)."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon describes the 'foundation of the promise' but does not actually deliver a promise to the specific congregation.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "28",
+        "gebruik": "Mostly 'I' as a literary critic or 'We' as a general group of Christians."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Used to describe the congregation's lifestyle ('you are slender') or to give moral suggestions.",
+        "performatieve_context": "Rarely used in a declarative sense."
+      },
+      "derde_persoon": {
+        "frequentie": "High",
+        "gebruik": "Dominates the sermon through stories of Jonathan Daniels, Barry Bearak, and literary characters.",
+        "distantie_effect": "Creates a 'lecture' atmosphere where God and the Gospel are objects of study."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Historical examples and movie/book reviews."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about the world and theology."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The 'now' of the liturgical season."
+      }
+    },
+    "adressering_effectiviteit": 4
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (The world is chaotic) -> Directive (You should do costly actions).",
+      "voorbeelden": [
+        "The world is random... Everyone can lend a hand to the needy."
+      ],
+      "probleem": "The 'Directive' is not fueled by a 'Commissive' (God's promise), but by the hearer's own effort to prove their faith isn't for 'sissies'."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Weak"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "The only thing that truly glorifies Jesus... is costly action."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "APPEALING_LEGALISTIC",
+    "diagnose_toelichting": "While intellectually sophisticated, the sermon functions as a moral appeal. It diagnoses a problem (chaos/sentimentality) and prescribes a human solution (costly action) without a performative delivery of grace.",
+    "sterke_punten": [
+      {
+        "aspect": "Locutionary Depth",
+        "categorie": "Exegesis/Culture",
+        "tekstueel_bewijs": "The use of Maya Lin's memorial to illustrate Amos.",
+        "effect": "Engages the intellect and imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Illocutionary Force",
+        "categorie": "Commissives",
+        "tekstueel_bewijs": "The lack of 'I promise you in the name of Christ'.",
+        "probleem": "The sermon talks about hope but does not 'give' hope.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is a brilliant lecture about the 'Day of the Lord,' but the 'Day' does not arrive in the speaking itself.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher remains a commentator on the text rather than a mandatory of the Word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the sermon, not the speaker through the sermon.",
+      "prediker_als_mandataris": "No. The preacher acts as a 'critic' or 'observer'.",
+      "tekstueel_bewijs": [
+        "That is the only thing that keeps me believing."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is sought through the preacher's rhetorical persuasion.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a 'call to rethink'.",
+      "epifanisch_taalgebruik": "Low. The language is descriptive/analytical.",
+      "tekstueel_bewijs": [
+        "We need to understand the difference between optimism and hope."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is drowning in 'is' and 'says'. It needs 'I declare' and 'He promises'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Christian hope builds its foundation on the promise of the living God.",
+          "voorgestelde_revisie": "Today, the living God promises you: I will lead you through the chaos.",
+          "verschil": "Moves from a definition of hope to an act of promising."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'premium oil' is presented as something the hearer must provide.",
+      "suggestie": "Present Christ as the oil given to the hearer.",
+      "voorbeeldzinnen": [
+        "Christ gives you the oil of His own life this morning."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they'.",
+      "suggestie": "Use 'You' (singular/plural) for the declaration of grace.",
+      "voorbeeldzinnen": [
+        "You do not have to fear the darkness, for Christ is here for you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative (do costly action) is not preceded by a performative indicative (you are forgiven/empowered).",
+      "suggestie": "Declare the hearer's new identity in Christ before asking for sacrifice."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is a literary masterpiece but a performative desert. Shift from being a 'reviewer' of God's work to being an 'ambassador' of God's voice."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-Revelation' of the preacher's doubt; SAT reveals that this doubt hinders the 'Declarative' force of the office.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (pathos/logos). Performativity-wise, it fails to 'do' what it 'says'.",
+    "unieke_inzichten_SAT": "SAT exposes that the preacher is 'talking about' the darkness rather than 'speaking into' the darkness."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "read",
+        "gather",
+        "gave",
+        "know",
+        "press",
+        "happens",
+        "sense",
+        "counts",
+        "represents",
+        "waits",
+        "breathes",
+        "whispers"
+      ],
+      "directief": [
+        "listen",
+        "look",
+        "make a point",
+        "rethink",
+        "practice",
+        "lend a hand",
+        "do something"
+      ],
+      "expressief": [
+        "wonder",
+        "love",
+        "hate",
+        "despise",
+        "feel"
+      ],
+      "commissief": [
+        "promises",
+        "will (future tense)"
+      ],
+      "declaratief": [
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "The truth about God is written in the lives and in the deaths of those who have made a sacrificial commitment.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a condition for truth.",
+        "effectiviteit": "Low performativity; creates a burden of proof on the hearer."
+      }
+    ],
+    "notities": "The sermon functions as a 'theological essay' delivered orally."
+  }
+}

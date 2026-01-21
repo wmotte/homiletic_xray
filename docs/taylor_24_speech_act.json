@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "titel_preek": "A Completed Task",
+    "bijbeltekst": "John 17:4",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the 'finished work' of Jesus through the lens of an unfinished painting by Hans Heysen. It contrasts human incompleteness with Christ's completion, specifically focusing on how the cross unmasks the true nature of sin and evil.",
+      "exegetische_kwaliteit": "Moderate. The sermon uses the text as a thematic springboard rather than a verse-by-verse exposition. It focuses on the narrative and existential weight of the 'finished work'.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is descriptive and illustrative (Assertive), aiming to provide a new perspective on the Passion as an 'unmasking'.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Jesus corrects us about any impression we may have...",
+        "Sin has always looked like something beautiful.",
+        "Jesus at Calvary snatched the mask from evil."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "The hearer should feel a sense of awe at Christ's victory and a sober realization of the ugliness of sin and racism.",
+      "pneumatologisch_bewustzijn": "Low. The role of the Holy Spirit in making the word 'eventful' is not explicitly mentioned.",
+      "perlocutionaire_werkwoorden": [
+        "realize",
+        "behold",
+        "reflect",
+        "support",
+        "serve"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "There hangs in my office a painting.",
+        "Sin has always deceived men and women.",
+        "It was an unfinished task."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "seemed",
+        "looked",
+        "has"
+      ]
+    },
+    "directieven": {
+      "frequentie": "8",
+      "procent": "5%",
+      "voorbeelden": [
+        "The mask must come off.",
+        "We are called upon to walk in the light."
+      ],
+      "dominante_werkwoorden": [
+        "must",
+        "called upon",
+        "summoned"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "15",
+      "procent": "10%",
+      "voorbeelden": [
+        "I have not forgotten a word.",
+        "I asked the artist about the canvas."
+      ],
+      "dominante_werkwoorden": [
+        "asked",
+        "felt",
+        "forgotten"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "Every valley shall be filled (quoted as promise)."
+      ],
+      "dominante_werkwoorden": [
+        "shall be"
+      ],
+      "kwaliteit": "Weak. The promises are quoted as general biblical future-states rather than God binding Himself to the hearer in the moment."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "I have finished the work (Jesus' declaration, not the preacher's)."
+      ],
+      "dominante_werkwoorden": [
+        "finished"
+      ],
+      "autoriteit": "Low. The preacher describes Jesus' declaration but does not perform a declarative act (e.g., 'Your sins are forgiven') toward the congregation."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "90%",
+    "performatief_percentage": "10%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive storytelling about the painting (Paragraph 1).",
+        "Third-person descriptions of Jesus' life and death.",
+        "Theological descriptions of sin's 'mask'."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a beautiful narrative rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental Address"
+      ],
+      "effect_op_hoorder": "Information about the cross is provided, but the cross is not 'applied' to the hearer's current guilt or need."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "None. The sermon describes Jesus' work but does not 'deliver' it to the hearer.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "22",
+        "gebruik": "Personal anecdotes (the painting, the roommate)."
+      },
+      "tweede_persoon": {
+        "frequentie": "4",
+        "gebruik": "Generic 'you and I' in the conclusion.",
+        "performatieve_context": "Moral/Directive context rather than Commissive."
+      },
+      "derde_persoon": {
+        "frequentie": "85",
+        "gebruik": "Describing Jesus, the artist, sin, and society.",
+        "distantie_effect": "High. It creates a 'lecture' or 'storytelling' atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Historical narrative of Jesus and the artist."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about sin and life."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Brief application at the end."
+      }
+    },
+    "adressering_effectiviteit": "3"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Jesus finished his work) -> Directive (We must walk in the light).",
+      "voorbeelden": [
+        "Jesus snatched the mask... this is what you and I are called upon to do."
+      ],
+      "probleem": "It skips the 'Toezegging' (Promise). The hearer is told what Jesus did and what they must do, but not what Jesus does FOR them now."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive bridge.",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Once we have confronted the truth... [we are called] to support it and serve it."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a theological essay or a reflective talk. It provides excellent metaphors but fails to transition from 'talking about' God to 'speaking for' God.",
+    "sterke_punten": [
+      {
+        "aspect": "Metaphor",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The Heysen painting.",
+        "effect": "Engages the imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire middle section on sin.",
+        "probleem": "Objectifies the hearer.",
+        "ernst": "SEVERE"
+      }
+    ],
+    "gebeuren_score": "3",
+    "gebeuren_toelichting": "It is a 'talk' about an event (the Cross), but the sermon itself does not become an event of grace.",
+    "sacramentele_kracht": "2",
+    "sacramentele_toelichting": "Lacks the 'Promissio' which is the heart of the sacramental word."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. The preacher speaks about God.",
+      "prediker_als_mandataris": "Weak. The preacher acts as a witness/narrator, not a herald.",
+      "tekstueel_bewijs": [
+        "Jesus corrects us...",
+        "I have not forgotten..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly assumes the hearer will be convinced by the logic of the metaphor.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a means of information/inspiration.",
+      "epifanisch_taalgebruik": "Low. The language is descriptive, not creative.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is drowning in past-tense assertives. It needs a radical shift to present-tense commissives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus at Calvary snatched the mask from evil.",
+          "voorgestelde_revisie": "Today, through this Word, Jesus snatches the mask from the evil that haunts your life.",
+          "verschil": "Moves from historical fact to present event."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The 'finished work' is left in the past.",
+      "suggestie": "Explicitly promise the hearer that Christ's completion covers their incompleteness.",
+      "voorbeeldzinnen": [
+        "Because He finished the work, your unfinished life is accepted in Him."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Use direct address to apply the 'unmasking' of sin.",
+      "voorbeeldzinnen": [
+        "You no longer have to hide behind your mask."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The imperative to 'serve the truth' feels like a burden because the indicative of grace wasn't personally applied.",
+      "suggestie": "Ground the call to action in the promise of the Spirit."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and theologically sound, but homiletically 'stuck' in the constative. By turning the 'finished work' into a 'present promise,' it would achieve sacramental power."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (the painting story). SAT reveals that this story, while charming, lacks illocutionary force.",
+    "verschil_met_retoriek": "Rhetorically, the painting is a great 'hook'. Homiletically (SAT), it is a locutionary surplus that delays the performative encounter.",
+    "unieke_inzichten_SAT": "SAT exposes that the sermon is 'talking about' the cross rather than 'handing over' the benefits of the cross."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "hangs",
+        "was",
+        "could see",
+        "caught",
+        "said",
+        "assumed",
+        "defied",
+        "defeated",
+        "are fated",
+        "seems",
+        "is",
+        "reminds",
+        "states",
+        "waited",
+        "worked"
+      ],
+      "directief": [
+        "must come off",
+        "called upon",
+        "summoned"
+      ],
+      "expressief": [
+        "treasured",
+        "asked",
+        "thought",
+        "not forgotten"
+      ],
+      "commissief": [
+        "shall be filled",
+        "shall be made straight"
+      ],
+      "declaratief": [
+        "finished (in quote)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Jesus at Calvary snatched the mask from evil.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Describing a past event.",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "To this you and I are summoned day by day.",
+        "categorie": "DIRECTIVE",
+        "illocutionaire_kracht": "Moral obligation.",
+        "effectiviteit": "Potentially legalistic without a prior promise."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Constative Surplus'. It is a high-quality lecture on the meaning of the cross, but it lacks the performative 'I-Thou' address required for a sacramental event."
+  }
+}

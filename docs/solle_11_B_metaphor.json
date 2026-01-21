@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "titel_preek": "Wer hat dich so geschlagen? Ein Passionsgottesdienst",
+    "bijbeltekst": "Johannes 18-19 (Passionsgeschichte)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1550"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Was bringt ihr für Klage wider diesen Menschen?",
+          "richtet ihn nach eurem Gesetz",
+          "Ich finde keine Schuld an ihm",
+          "In einem Unrechtsstaat ist der einzige Ort eines freien Mannes das Gefängnis"
+        ],
+        "conceptuele_metafoor": "SIN IS SYSTEMIC INJUSTICE / THE WORLD IS A COURTROOM"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Umschuldung der verarmten Länder",
+          "System von Profit und Tod",
+          "Aktien und Militär",
+          "Judas, der bezahlt wird"
+        ],
+        "conceptuele_metafoor": "SIN IS GLOBAL CAPITALIST EXPLOITATION"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "4",
+        "kernfrasen": [
+          "geschlechtskrank",
+          "verbraucht",
+          "Plagen so übel zugericht"
+        ],
+        "conceptuele_metafoor": "SUFFERING IS PHYSICAL MUTILATION"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Die Aufrüstung und der Hunger sind die beiden Arme des Kreuzes",
+        "brondomein": {
+          "naam": "Anatomy/Crucifixion Instrument",
+          "concrete_elementen": [
+            "arms",
+            "crossbeam",
+            "hanging body"
+          ],
+          "belichaamde_basis": "balance/verticality"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Structural Sin / Contemporary Passion",
+          "doctrinale_traditie": "Liberation Theology / Political Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Horizontal beam (Arms)",
+            "doel_element": "Global Militarism (Aufrüstung) and Poverty (Hunger)"
+          },
+          {
+            "bron_element": "The Crucified One",
+            "doel_element": "The Global Poor (die Armen)"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Political policy is not neutral; it is an instrument of execution."
+          ],
+          "theologische_implicaties": [
+            "Christ's passion is not a past event but a continuous present reality in the suffering of the poor."
+          ],
+          "ethische_implicaties": [
+            "Resistance to militarism is a direct act of piety/relief of Christ's suffering."
+          ],
+          "onbedoelde_consequenties": [
+            "May reduce the unique salvific nature of the historical cross to a mere symbol for social suffering."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the physical horror of the cross by mapping it onto modern geopolitical structures."
+      },
+      {
+        "metafoor_expressie": "Christus ist wie Feuer... wird man selbst das Feuer.",
+        "brondomein": {
+          "naam": "Fire",
+          "concrete_elementen": [
+            "light",
+            "warmth",
+            "consumption/transformation"
+          ],
+          "belichaamde_basis": "force/temperature"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Union with Christ / Discipleship",
+          "doctrinale_traditie": "Mysticism / Radical Discipleship"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Approaching the flame",
+            "doel_element": "Deepening commitment to Christ"
+          },
+          {
+            "bron_element": "Becoming the fire",
+            "doel_element": "Total identification with Christ's love/suffering"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Faith is dangerous and transformative, not just intellectual."
+          ],
+          "theologische_implicaties": [
+            "Theosis/Sanctification through suffering."
+          ],
+          "ethische_implicaties": [
+            "Total self-sacrifice."
+          ],
+          "onbedoelde_consequenties": [
+            "Could imply loss of individual agency or destructive fanaticism."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses a classic image but applies it to the context of political risk (prison)."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The preacher consistently uses the 'World as a Courtroom/Prison' schema to bridge the biblical trial of Jesus with modern political injustice.",
+      "incoherentie_punten": [],
+      "succesvolle_blending": [
+        {
+          "locatie": "Section: Wer ist frei?",
+          "gemengde_metaforen": [
+            "Prison",
+            "Freedom",
+            "Bach's Music (Blockflöte)"
+          ],
+          "blending_strategie": "Paradox: The prison becomes the 'place of God' and music becomes the 'disturbance' of power."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Dead Metaphor' of being 'guilty' of Jesus' death by linking it to specific economic participation (tourism, banking).",
+        "voorbeeld": "Ich sorgte dafür, dass du frühzeitig ins Bordell kamst für die Touristen."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The identification of God with the poor is so strong it may collapse the transcendence of God into mere social immanence.",
+        "voorbeeld": "Gott wird heutzutage gefoltert.",
+        "potentiele_impact": "Congregation may view God only as a victim, losing the sense of God as Deliverer.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A global courtroom where the 'First World' is the judge/Pilate and the 'Third World' is the scourged Christ.",
+      "sub_worlds": [
+        "The historical trial in Jerusalem",
+        "The Philippine brothels",
+        "The nuclear silos in Mutlangen",
+        "The mystical interior of the 'Fire'"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Wer hat dich so geschlagen?",
+          "van_wereld": "Historical Biblical Text",
+          "naar_wereld": "Modern Global Economy",
+          "effectiviteit": "Extremely effective in creating 'Schema Disruption'."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "Corporate Guilt",
+          "hoe_versterkt": "By listing specific systemic sins (taxation, technology, tourism)."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as the Almighty Victor",
+          "verstoring_strategie": "Contrasting 'Spirit of Victory' with 'Truth'.",
+          "vervangend_schema": "God as the Non-violent Sufferer"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly fits the 'Lament' and 'Repentance' schemas of Passion Friday."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JURIDICAL and ECONOMIC domains, used to create a 'Political Passion.' It successfully moves from the 'Dead Metaphor' of personal sin to the 'Living Metaphor' of systemic complicity. The landscape is one of stark contrasts: Power vs. Truth, Victory vs. Love.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Jesus as King",
+        "huidige_status": "Conventional/Political",
+        "suggestie": "Deepen the 'King' metaphor by contrasting it with the 'Kaiser' (Imperial) source domain more concretely.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "A King whose 'throne' is the torture bench."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The transition from 'God as victim' to 'God as fire'.",
+        "resolutie_strategie": "Explain how the 'fire' of love is what enables the 'suffering' of the victim."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "The Prison is the place of God",
+        "problematisch_entailment": "Suggests that liberation/release is 'leaving God'.",
+        "aanbeveling": "Clarify that God is in the prison to break the bars, not to sanctify incarceration itself."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN (Seeds/Growth)",
+        "rationale": "To provide a sense of hope/future beyond the 'Courtroom' and 'Prison' imagery.",
+        "doel_concept": "The Resurrection/Future of the Kingdom"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterful use of CMT to bridge the 'horizons' of the biblical text and the modern hearer. The sermon effectively 'breaks' the comfortable schemas of the listeners."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of focusing on the beauty of Bach's music, CMT analyzes how the music functions as a 'Schema Disruption' against militarism.",
+    "verschil_met_kolb": "Moves beyond 'experience' to the cognitive mapping of 'Global Economy' onto 'The Body of Christ'.",
+    "unieke_inzichten_CMT": "Reveals that the preacher is using the 'TRUTH IS ACTION' metaphor to replace the 'TRUTH IS PROPOSITION' schema common in Western intellectualism."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Schürhaken des Mannes",
+      "Arme des Kreuzes",
+      "Schatten des Kreuzes",
+      "Geist des Sieges",
+      "Lakai der Weltherrschaft",
+      "Gott als Feuer"
+    ],
+    "woord_frequentie_analyse": {
+      "Wahrheit": "12",
+      "Macht": "10",
+      "Volk": "8",
+      "geschlagen": "7",
+      "frei": "6"
+    },
+    "notities": "The sermon is highly influenced by the 1980s peace movement and liberation theology."
+  }
+}

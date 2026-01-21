@@ -1,0 +1,269 @@
+{
+  "metadata": {
+    "titel_preek": "Dass wir lieben können",
+    "bijbeltekst": "1. Johannesbrief (implizit 1 Joh 3,17; 4,8)",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1250"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "Die Reduktion der christlichen Tradition auf den Kern der Liebe ('All you need is love') und deren horizontale Umsetzung in der Welt.",
+      "subject": {
+        "identificatie": "Wir / Der Mensch (Kollektives Subjekt)",
+        "tekstueel_bewijs": [
+          "dass wir unser Leben so zu bauen versuchen",
+          "wir müssen verkürzen",
+          "wir werden versuchen... den Kern neu zu entfalten"
+        ],
+        "frequentie_score": 9
+      },
+      "object": {
+        "identificatie": "Liebe / Horizontale Humanität / Weltgestaltung",
+        "tekstueel_bewijs": [
+          "All you need is love",
+          "das Feld der Horizontalen",
+          "politische Erwägung"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "Die Banalität des Evangeliums / Die neue Theologie",
+        "tekstueel_bewijs": [
+          "Die Botschaft des Evangeliums ist so einfach",
+          "Diese banale Wahrheit"
+        ],
+        "rol_interpretatie": "THERAPIST"
+      },
+      "ontvanger": {
+        "identificatie": "Die Welt / Die Hungernden / Die Gesellschaft",
+        "tekstueel_bewijs": [
+          "innerhalb unserer eigenen Generation",
+          "die Hungernden",
+          "die Dritte Welt"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Gott (als Kraft/Feuer) / Politische Pläne",
+        "tekstueel_bewijs": [
+          "Gott ist die Kraft, das Feuer, das unsere Liebe trägt",
+          "konkrete Pläne, um dieses Unglück aufzuhalten"
+        ],
+        "rol_van_god": "Is God Subject, Helper, or absent?",
+        "rol_van_geest": "External help or indwelling power?"
+      },
+      "tegenstander": {
+        "identificatie": "Traditionelle Dogmatik / Angst / Kapitalismus",
+        "tekstueel_bewijs": [
+          "kirchliche Reflexionen immer mehr zerrüttet",
+          "Angst vor der Banalität",
+          "Zugehörigkeit zum westlichen Kapitalismus"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "Der Gegner ist primär ein falsches Bewusstsein (Dogma) oder ein ökonomisches System, kein metaphysisches Übel."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "Die Dekonstruktion des 'Über-Ich'-Gottes der Tradition.",
+      "subject": "Der moderne Mensch / Der Prediger",
+      "object": "Befreiung von religiöser Sicherheit/Angst",
+      "verhouding_tot_primair": "HIERARCHICAL",
+      "toelichting_verhouding": "Die Beseitigung des vertikalen Gottes ist Voraussetzung für die horizontale Liebe."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Banalität → Liebe → Welt",
+      "helper_subject_tegenstander": "Gott-Kraft → Wir ← Dogma/Kapitalismus",
+      "subject_naar_object": "Wir → Politische Liebe"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 4,
+      "mens_als_subject_count": 42,
+      "ratio": "0.09",
+      "voorbeelden_god_subject": [
+        "Gott ist, dass wir lieben können",
+        "er ist längst da"
+      ],
+      "voorbeelden_mens_subject": [
+        "wir müssen verkürzen",
+        "wir werden versuchen",
+        "wir geben 0,3 %",
+        "wir sollten aufhören"
+      ],
+      "rutledge_score": 2
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "dass wir uns gegenseitig lieben sollen",
+          "wir müssen verkürzen",
+          "wir sollten aufhören"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "Ich wünsche mir",
+          "Sehnsucht nach Geborgenheit"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 7,
+        "voorbeelden": [
+          "Wir wissen schon heute",
+          "neu zu entfalten und neu zu reflektieren"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "Gott ist, dass wir lieben können",
+          "nicht genügend in der Lage sind"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "Trotz der Ablehnung des 'Befehls' dominiert das Sollen (Devoir) in Form einer ethischen Notwendigkeit."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Liebe (Horizontal)",
+      "s2": "Dogma (Vertikal)",
+      "niet_s1": "Zynismus/Kapitalismus",
+      "niet_s2": "Banalität"
+    },
+    "beweging_in_preek": "Von S2 (Dogma) über Nicht-S2 (Banalität) zu S1 (Liebe).",
+    "theologische_resolutie": "Gott wird als S1 (Liebe) redefiniert, wodurch S2 (Dogma) als unnötig wegfällt.",
+    "ernst_van_s2": "S2 wird als Hindernis, nicht als rettende Instanz gesehen."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Obwohl der Prediger 'Gesetz' ablehnt, ist die Struktur rein anthropozentrisch. Der Mensch ist das handelnde Subjekt, Gott ist nur die energetische Ressource (Helper) für menschliche Aktion.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Instrumentalisierung Gottes",
+        "tekstueel_bewijs": "Gott ist die Kraft, das Feuer, das unsere Liebe trägt.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Soteriologie durch Ethik ersetzt",
+        "tekstueel_bewijs": "Punkt, an dem sich das ewige Leben in unserer Welt und für uns entscheidet.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Indikativ der Ermöglichung",
+        "tekstueel_bewijs": "dass Liebe eine gute Botschaft ist, eine Ermöglichung",
+        "sterkte": "WEAK"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Jesus wird nicht als Retter, sondern als Lehrer der Banalität und Überwinder des Über-Ichs dargestellt.",
+      "bijbelse_figuren_als_model": [
+        "Jesus",
+        "Johannes"
+      ],
+      "alternatieve_lezing": "Christus als derjenige, der die Liebe Gottes *ist*, wo wir versagen."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Aktivierung zur politischen Tat, aber potenzieller Burnout durch Selbsterlösung.",
+      "theologische_implicatie": "Pelagianismus: Der Mensch rettet die Welt durch Liebe."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 7,
+      "coherentie_beschrijving": "Der Text ist in seiner horizontalen Logik sehr kohärent, bricht aber radikal mit der christlichen Tradition.",
+      "spanning_punten": [
+        "Liebe als 'Gute Nachricht' vs. Liebe als politisches 'Sollen'."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "All you need is love. Das ist das Evangelium, nichts darüber hinaus.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "Gott als vage 'Kraft' ersetzt die Person des Heiligen Geistes."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "SOCIAL",
+      "ernst_diagnose": "Sünde ist primär mangelndes politisches Engagement und Festhalten an Dogmen."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_COMPLETED",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "Das Subjekt der Erzählung ist das 'Wir'. Gott ist zum Adjuvanten (Helfer) degradiert. Das Objekt ist eine ethische Weltverbesserung.",
+    "subject_herpositionering": {
+      "nodig": true,
+      "huidige_probleem": "Der Mensch muss die Liebe 'bauen' und 'entfalten'.",
+      "voorgestelde_herpositionering": "Gott als Subjekt der Liebe, der den Menschen liebt, bevor dieser liebt.",
+      "voorbeeld_revisie": "Nicht 'Wir bauen unser Leben auf Liebe', sondern 'Die Liebe Gottes baut uns zu einem neuen Leben auf'."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "Hörer als Macher der Liebe.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Den Hörer zuerst als den Hungernden/Bedürftigen vor Gott definieren."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominanz von Devoir (Sollen).",
+      "voorgestelde_balans": "Pouvoir (Können) als Geschenk Gottes.",
+      "concrete_suggestie": "Betonen, dass wir *nicht* lieben können, außer Gott tut es in uns."
+    },
+    "tegenstander_intensivering": {
+      "nodig": true,
+      "huidige_status": "Gegner ist nur 'Angst' oder 'Struktur'.",
+      "voorgestelde_intensivering": "Sünde als radikale Unfähigkeit zur Liebe (Cor incurvatum in se).",
+      "theologische_rationale": "Nur ein schwerer Gegner macht einen göttlichen Retter notwendig."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": true,
+      "probleem": "Soteriologie ist in Ethik aufgegangen.",
+      "voorgestelde_structuur": "1. Gott liebt den Gottlosen (Soteriologie). 2. Der Geliebte liebt den Nächsten (Ethik)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "Die rhetorische Kraft ist stark, aber die actantielle Struktur ist rein humanistisch. Das Evangelium wird zur moralischen Aufgabe."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Retorisch wirkt die Predigt befreiend; semiotisch ist sie eine totale Verpflichtung des Menschen.",
+    "verschil_met_exegese": "Exgetisch wird 1. Joh 4,8 ('Gott ist Liebe') in 'Liebe ist Gott' verkehrt.",
+    "unieke_inzichten_greimas": "Greimas zeigt, dass Gott hier kein 'Sender' von Gnade ist, sondern nur ein 'Helper' für menschliche Politik."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wir (bauen)",
+      "Wir (machen Gedanken)",
+      "Wir (müssen verkürzen)",
+      "Wir (geben 0,3 %)",
+      "Gott (ist Kraft)"
+    ],
+    "volledige_object_lijst": [
+      "Liebe",
+      "Welt",
+      "politisches Ziel",
+      "Humanität"
+    ],
+    "werkwoord_frequentie": {
+      "lieben": {
+        "count": 15,
+        "primair_subject": "Man"
+      },
+      "müssen/sollen": {
+        "count": 12,
+        "primair_subject": "Man"
+      }
+    },
+    "notities": "Die Predigt ist ein klassisches Beispiel für die Transformation von Theologie in Anthropologie unter dem Deckmantel der 'Banalität'."
+  }
+}

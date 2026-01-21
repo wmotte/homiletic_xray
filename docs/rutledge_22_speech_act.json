@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "titel_preek": "We Will Be There",
+    "bijbeltekst": "Matthew 25:31-46",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1850"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explains the Parable of the Sheep and the Goats, contextualized with a local story of the Moritz family and the liturgical feast of Christ the King, leading into a stewardship appeal.",
+      "exegetische_kwaliteit": "Strong. It correctly identifies the 'surprise' element of the parable and the identification of Christ with the 'least'.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily asserting the reality of future judgment and describing the nature of true Christian giving.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "The Lord Jesus Christ is Lord and King over all creation!",
+        "You're going to be there, and I'm going to be there.",
+        "Christian giving does not glorify the giver; it glorifies Christ."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the congregation to give money out of gratitude rather than guilt, and to instill a sense of awe regarding the final judgment.",
+      "pneumatologisch_bewustzijn": "Minimal until the very end; the Spirit is mentioned in the final paragraph as the agent of transformation.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "pledge",
+        "repent",
+        "rejoice",
+        "give"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "70%",
+      "voorbeelden": [
+        "The front page... featured an amazing story.",
+        "Jesus said, 'When the Son of man comes...'",
+        "This is not what the parable means."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "said",
+        "tells",
+        "means"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Let’s pause for a moment.",
+        "Let’s allow this awesome spectacle to penetrate our consciousness.",
+        "I suggest you not give a single cent."
+      ],
+      "dominante_werkwoorden": [
+        "let's",
+        "decide",
+        "give",
+        "suggest"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "I love to see my name among the patrons.",
+        "It should make our brains crunch just to think about it.",
+        "I believe we have more of a vision..."
+      ],
+      "dominante_werkwoorden": [
+        "love",
+        "believe",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "5",
+      "procent": "5%",
+      "voorbeelden": [
+        "He has compensated for our too-short list of good deeds.",
+        "He will make us into those who will someday hear the blessed words."
+      ],
+      "dominante_werkwoorden": [
+        "compensated",
+        "will make",
+        "offering"
+      ],
+      "kwaliteit": "Moderate. The promises are largely relegated to the final paragraph."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "I suggest you think again.",
+        "Amen."
+      ],
+      "dominante_werkwoorden": [
+        "suggest",
+        "Amen"
+      ],
+      "autoriteit": "Low. The preacher avoids direct sacramental declarations (e.g., 'I declare you forgiven') in favor of describing God's actions."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Extensive storytelling about the Moritz family.",
+        "Detailed explanation of the Tanglewood donation.",
+        "Theological descriptions of the judgment scene in the 3rd person."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a future event or a student of a theological concept rather than a participant in a current encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the specific 'you' in the pews",
+        "Present-tense sacramental address"
+      ],
+      "effect_op_hoorder": "The hearer may feel the weight of the 'short checklist' without the immediate 'event' of being lifted by the Word."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "2",
+      "kwaliteit_toezeggen": "Theologically rich but structurally delayed.",
+      "voorbeelden": [
+        "He has compensated for our too-short list of good deeds by his one great deed."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Personal anecdotes (Tanglewood) and inclusive 'we' regarding judgment."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Direct address regarding stewardship and the reality of being at the judgment.",
+        "performatieve_context": "Used mostly in warning or directive contexts."
+      },
+      "derde_persoon": {
+        "frequentie": "60",
+        "gebruik": "Describing Jesus, the Moritzes, and the biblical characters.",
+        "distantie_effect": "Creates a narrative distance where the Gospel is a 'story' being told."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical history and the Berkshire Eagle story."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "Theological truths about Christ's Lordship."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The moment of pledging and the final blessing."
+      }
+    },
+    "adressering_effectiviteit": "6"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "MIXED",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Judgment is coming) -> Directive (Decide your pledge).",
+      "voorbeelden": [
+        "On that climactic and final day, we will be there... Today is the day for us to decide what we are going to do about our pledges."
+      ],
+      "probleem": "Risk of moralism where the 'event' is the human act of pledging rather than the Divine act of grace."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "The final paragraph moves from the 'short list' (Assertive) to Christ's 'one great deed' (Commissive) to the future inheritance (Commissive).",
+      "voorbeelden": [
+        "He has compensated... Now by his indwelling Spirit he will make us..."
+      ],
+      "kwaliteit": "Strong finish, but lacks a present-tense Declarative ('I announce to you...')."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Our financial gifts... should come in response to the King in awe."
+      ],
+      "voorbeelden_slechte_verhouding": [
+        "If we get our finances on a solid footing, we can begin to move out..."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "COMFORTING_EVANGELICAL",
+    "diagnose_toelichting": "The sermon is highly informative and ends with a strong evangelical promise, but it functions more as a 'talk about' the judgment and stewardship than a sacramental 'event' of the Kingdom arriving.",
+    "sterke_punten": [
+      {
+        "aspect": "Christological Focus",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The crucified One will be the Judge.",
+        "effect": "Establishes the unique authority of Christ."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Anecdotal Surplus",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The long Tanglewood story.",
+        "probleem": "Distracts from the illocutionary force of the biblical text.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "The sermon 'happens' most clearly in the final paragraph where the preacher addresses the 'poor specimens' directly with the Gospel.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "It lacks the 'Creative Word' (Declarative) that changes the hearer's status here and now."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Implicitly, through the reading of the Gospel.",
+      "prediker_als_mandataris": "Moderate; the preacher speaks as an observer of the text more than a herald of the King.",
+      "tekstueel_bewijs": [
+        "I suggest you think again."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, in the final sentences.",
+      "perlocutie_theologie": "The preacher acknowledges the Spirit will 'make us' into the redeemed.",
+      "tekstueel_bewijs": [
+        "Now by his indwelling Spirit he will make us..."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Partially; it points to grace but doesn't always 'mediate' it performatively.",
+      "epifanisch_taalgebruik": "Only in the descriptions of the throne room.",
+      "tekstueel_bewijs": [
+        "He will be surrounded with all the unmistakable accoutrements of majesty."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many past-tense and third-person verbs. Needs more present-tense second-person performatives.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "The division of the sheep and goats is not based on who is good and who is bad.",
+          "voorgestelde_revisie": "Today, Christ does not look at your checklist; He looks at you and calls you His own.",
+          "verschil": "Moves from a definition to an encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is a conclusion rather than the engine of the sermon.",
+      "suggestie": "Interweave the promise of Christ's 'one great deed' throughout the stewardship section.",
+      "voorbeeldzinnen": [
+        "Because He has already given you the Kingdom, you are free to give."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' (inclusive) can sometimes dilute the 'you' (direct address).",
+      "suggestie": "Use 'You' when declaring the Gospel promise.",
+      "voorbeeldzinnen": [
+        "Christ has covered your unrighteousness."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The stewardship appeal feels slightly like a separate 'business' section.",
+      "suggestie": "Ground the act of pledging explicitly in the Declarative of being 'Blessed of the Father'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A solid, orthodox sermon that successfully avoids legalism, but could be transformed into a powerful 'event' by shifting from describing the judgment to proclaiming the Judge's mercy directly to the hearer."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "While SvT would focus on the 'appeal' (giving money) or 'self-revelation' (Tanglewood story), SAT identifies that the sermon's power is missing in the lack of Declarative acts.",
+    "verschil_met_retoriek": "Rhetoric would praise the 'short checklist' hook; SAT critiques it for being a Constative that doesn't necessarily 'do' something to the soul.",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon is 'talking about' the King more than letting the King speak."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "featured",
+        "told",
+        "were killed",
+        "founded",
+        "sponsored",
+        "look back",
+        "find",
+        "said"
+      ],
+      "directief": [
+        "prepare",
+        "pause",
+        "allow",
+        "let's",
+        "decide",
+        "pledge",
+        "think again"
+      ],
+      "expressief": [
+        "caught my eye",
+        "love",
+        "feel",
+        "believe",
+        "rejoicing"
+      ],
+      "commissief": [
+        "promises",
+        "compensated",
+        "will make",
+        "offering"
+      ],
+      "declaratief": [
+        "suggest",
+        "Amen"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "He has compensated for our too-short list of good deeds by his one great deed.",
+        "categorie": "COMMISSIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "This is the theological heart that saves the sermon from moralism."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'event' of the future judgment to create gravity, but the 'event' of the preaching itself is secondary to the information provided."
+  }
+}

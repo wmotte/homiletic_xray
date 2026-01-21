@@ -9,19 +9,19 @@
     "parent": {
       "freedom_from_critical_parent_CP": {
         "score": 8,
-        "score_explanation": "10 = Completely free from coercive judgments. The preacher largely avoids 'shaming' the listener for suffering, though there is a mild CP tone when critiquing 'New Yorkers' and 'Americans'.",
+        "score_explanation": "10 = Completely free from coercive judgments. The preacher avoids 'shaming' the sufferer, though he uses 'must' in a theological/inevitability sense.",
         "presence_of_coercion": "Low",
-        "analysis": "The preacher uses 'must' and 'inevitable' as ontological realities of life rather than moralistic demands. The judgment is directed at cultural attitudes (materialism/stoicism) rather than the listener's character.",
+        "analysis": "Coercion is minimal. The 'must' is framed as a reality of a broken world rather than a moralistic demand for performance.",
         "quotes": [
-          "I don’t care how hard you work... You cannot stop bereavement.",
-          "Americans are considerably more traumatized by suffering."
+          "It’s necessary that you suffer.",
+          "You should be prepared for it, because if you’re not prepared for it, you’re not ready for life."
         ]
       },
       "healthy_care_NP": {
         "score": 9,
-        "score_explanation": "10 = Healthy, non-smothering care. The preacher validates pain ('Don’t be a stoic; cry') without creating a dependency on the preacher himself.",
+        "score_explanation": "10 = Healthy, non-smothering care. The preacher validates pain rather than dismissing it.",
         "presence": "High",
-        "analysis": "The Nurturing Parent is evident in the permission given to the listener to feel pain. It promotes autonomy by encouraging the listener to 'take hold of God' directly.",
+        "analysis": "The Nurturing Parent is strong but healthy; he gives permission to grieve ('Don't be stoic; cry'), which promotes emotional autonomy.",
         "quotes": [
           "When you hurt, hurt. Don’t be a stoic; cry.",
           "He can be our friend. He can be with us."
@@ -30,43 +30,43 @@
     },
     "adult": {
       "score": 8,
-      "score_explanation": "10 = Strong Adult presence. The sermon is highly structural, logical, and uses empirical analogies (goldsmithing, economic data).",
+      "score_explanation": "10 = Strong Adult presence. The sermon uses logical structures and metaphors to process reality.",
       "presence": "High",
-      "analysis": "The preacher addresses the listener as a thinking subject, providing a logical framework (Inevitability, Potential, Disciplines) and testing the theology against reality (the 2009 recession).",
+      "analysis": "The preacher uses an 'Adult' data-processing approach to explain the mechanics of goldsmithing and the psychological impact of suffering.",
       "quotes": [
-        "The image he’s using is a furnace... It’s a fascinating and fruitful image to meditate on.",
-        "Let’s take a look and see what these two passages... pull out three things."
+        "I’d like to pull out three things: the inevitability... the good potential... and the disciplines.",
+        "The fire makes the impurities separate from the gold so that the goldsmith can skim them off."
       ]
     },
     "child": {
       "freedom_from_adapted_child_AC": {
-        "score": 9,
-        "score_explanation": "10 = Free from fear/compliance. The preacher does not use fear of God to force compliance, but rather uses the 'Free Child' of Christ to alleviate fear.",
+        "score": 7,
+        "score_explanation": "10 = Free from fear/compliance. The preacher challenges the 'New Yorker' and 'American' AC tendencies.",
         "presence_of_adaptation": "Low",
-        "analysis": "The preacher actively deconstructs the 'Adapted Child' response (stoicism/stiff upper lip) and encourages authentic emotional expression.",
+        "analysis": "The preacher discourages the 'Adapted Child' response of 'giving the right Christian answer' to look good.",
         "quotes": [
-          "That’s like self-hypnosis. That’s not courage."
+          "I’m a pastor, and I guess they think they’re supposed to give me a Christian answer... That’s not the Bible."
         ]
       },
       "free_child_FC": {
-        "score": 7,
-        "score_explanation": "10 = Authentic, playful, joyful. There is a sense of 'inexpressible joy' mentioned, though the subject matter (suffering) keeps the tone serious.",
-        "presence": "Medium",
-        "analysis": "The FC is present in the 'inexpressible joy' and the creative use of the Shadrach/Meshach narrative, inviting the listener into a sense of wonder.",
+        "score": 4,
+        "score_explanation": "10 = Authentic, playful, joyful. The sermon is somber, fitting the topic, but lacks spontaneous FC energy.",
+        "presence": "Low",
+        "analysis": "While the sermon mentions 'inexpressible joy,' the tone remains largely in the Adult/Parent range due to the gravity of the subject matter.",
         "quotes": [
-          "I see four men walking around unbound and unharmed in the fire."
+          "I’ve never been happier in my life."
         ]
       }
     },
-    "dominant_ego_position": "Adult (processing the reality of suffering) with a strong Nurturing Parent (validating the pain)."
+    "dominant_ego_position": "Adult and Nurturing Parent"
   },
   "transaction_analysis": {
-    "primary_transaction_style": "Adult -> Adult",
-    "analysis": "The preacher primarily uses information-sharing and logical deduction. Even when moving into Parent roles, it is to offer 'permission' (NP) rather than 'prohibition' (CP).",
-    "ulterior_motives": "None detected. The preacher is transparent about the difficulty of the topic and does not promise a 'quick fix' (which would be a Parent-Child con).",
+    "primary_transaction_style": "Adult -> Adult (Complementary)",
+    "analysis": "The preacher primarily invites the listener to analyze their own life and 'impurities' logically. He treats the listener as a capable agent who can choose to 'skim off' impurities.",
+    "ulterior_motives": "None detected. The social message (suffering is hard) matches the psychological message (it is okay to feel pain).",
     "communicative_purity_score": 9,
-    "purity_explanation": "The sermon is highly transparent. It avoids the 'Bait & Switch' of promising prosperity for faith.",
-    "risk_explanation": "The only minor risk is the 'I'm Only Trying To Help You' (ITHY) dynamic if the preacher presented himself as the expert on pain, but he avoids this by citing his own observations as a learner."
+    "purity_explanation": "The preacher is transparent about the difficulty of the Christian life and does not offer 'easy' escapes.",
+    "risk_explanation": "A minor risk of a 'Parent -> Child' dynamic exists when prescribing 'disciplines,' but it is mitigated by the permission to cry."
   },
   "games_analysis": {
     "detected_games": [
@@ -82,29 +82,29 @@
         "evidence_quotes": []
       }
     ],
-    "absence_of_games_analysis": "The preacher avoids 'Ain't It Awful' by moving from the reality of suffering to the agency of the believer. He avoids 'NIGYSOB' by identifying with the 'unrighteous' and placing the focus on Christ’s suffering rather than the congregation's failures."
+    "absence_of_games_analysis": "The preacher avoids 'ITHY' (I'm Only Trying To Help You) by acknowledging that he cannot take the pain away and that the 'fire' is necessary. He avoids 'NIGYSOB' by not using the 'impurities' as a way to attack the listener, but as a shared human condition."
   },
   "drama_triangle_analysis": {
     "preacher_roles": {
-      "rescuer": "Low; he points to Christ as the Rescuer rather than his own advice.",
-      "persecutor": "Low; he critiques cultural stoicism but not the individuals themselves.",
-      "victim": "None; he maintains a position of Adult stability."
+      "rescuer": "Low. He points to Jesus as the companion in the fire rather than himself as the solver of the problem.",
+      "persecutor": "Very Low. He critiques 'New Yorkers' and 'Americans' generally, but not the specific listener in a shaming way.",
+      "victim": "None. He maintains a stable, objective presence."
     },
-    "congregation_position": "The congregation is invited to move from 'Victim' (of circumstances) to 'Adult' (choosing disciplines and faith).",
-    "escape_possibilities": "The sermon offers a clear exit from the triangle by promoting 'autonomy' through the 'disciplines of suffering'—specifically the permission to grieve (breaking the Stoic/Adapted Child script)."
+    "congregation_position": "The congregation is invited to move from 'Victim' (of circumstances) to 'Adult' (processing the trial with Christ).",
+    "escape_possibilities": "The sermon offers autonomy by encouraging the listener to 'take hold of God' for themselves."
   },
   "conclusion_and_recommendation": {
-    "psychological_health_score": 9,
-    "summary": "This sermon is psychologically robust and largely game-free. It avoids the common homiletical trap of the 'Critical Parent' who demands joy during trials. Instead, it uses an 'Adult' ego state to process the reality of pain while using a 'Nurturing Parent' state to give the listener permission to grieve. By deconstructing stoicism, the preacher prevents the listener from falling into a 'False Self' or 'Adapted Child' persona. The use of the 2009 recession example grounds the spiritual claims in reality-testing, a hallmark of the Adult ego state.",
+    "psychological_health_score": 8.5,
+    "summary": "The sermon is psychologically robust. It avoids the common religious trap of 'Stoicism' (Adapted Child/Critical Parent) and instead promotes emotional honesty and Adult-level self-reflection. By giving the listener permission to 'cry' while maintaining moral 'disciplines,' it balances the Nurturing Parent and Adult ego states effectively. It avoids manipulative games by being realistic about the 'inevitability' of pain rather than promising a 'Rescuer' exit.",
     "strengths": [
-      "Validation of authentic emotion (Free Child/NP).",
-      "Clear, logical structure (Adult).",
-      "Avoidance of the 'Prosperity' game/con."
+      "Validation of negative emotions (permission to grieve).",
+      "Clear Adult-level structure and logical metaphors.",
+      "Avoidance of shaming language regarding 'impurities'."
     ],
     "areas_for_improvement": [
-      "Slightly high 'Critical Parent' generalizations regarding 'Americans' or 'New Yorkers' could alienate some listeners.",
-      "More 'Free Child' spontaneity could balance the heavy 'Adult' processing."
+      "Could incorporate more 'Free Child' elements to illustrate the 'inexpressible joy' mentioned in the text.",
+      "The 'American/New Yorker' critique borders on a mild 'Critical Parent' generalization."
     ],
-    "advice_for_game_free_communication": "Continue to offer 'Permissions' rather than 'Injunctions.' The phrase 'Don't be a stoic; cry' is a powerful NP permission that breaks dysfunctional scripts."
+    "advice_for_game_free_communication": "Continue to emphasize the 'with-ness' of the divine (Adult-Adult companionship) rather than just the 'must-ness' of the refining process."
   }
 }

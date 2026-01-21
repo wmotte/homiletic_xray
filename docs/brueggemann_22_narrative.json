@@ -1,0 +1,271 @@
+{
+  "metadata": {
+    "titel_preek": "Checkpoint John",
+    "bijbeltekst": "Matthew 3:1-12",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1450"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The hearer is a traveler on an 'underground railroad' attempting to cross a hazardous border (Checkpoint John) to reach a land of freedom and well-being (Jesus/The Kingdom).",
+      "subject": {
+        "identificatie": "The Hearer ('We')",
+        "tekstueel_bewijs": [
+          "We too are on the underground railroad",
+          "We walk cautiously up to the checkpoint",
+          "We eagerly look to sweet Jesus"
+        ],
+        "frequentie_score": "9"
+      },
+      "object": {
+        "identificatie": "Entry into the Kingdom/Jesus/Freedom",
+        "tekstueel_bewijs": [
+          "the land of hoped-for freedom",
+          "the sweet-smelling Jesus of Christmas",
+          "a version of the kingdom of God"
+        ],
+        "aard_van_object": "SOTERIOLOGICAL/ETHICAL"
+      },
+      "zender": {
+        "identificatie": "John the Baptist (as the gatekeeper of God's values)",
+        "tekstueel_bewijs": [
+          "John does all the talking",
+          "You are totally in his hands and at his mercy"
+        ],
+        "rol_interpretatie": "JUDGE"
+      },
+      "ontvanger": {
+        "identificatie": "The Hearer (as potential beneficiary of the Kingdom)",
+        "tekstueel_bewijs": [
+          "yearning for a new regime under a better governance"
+        ],
+        "positie_hoorder": "Subject"
+      },
+      "helper": {
+        "identificatie": "The Slaves/Ancestors (as examples); The Spirit (briefly mentioned at the end)",
+        "tekstueel_bewijs": [
+          "Like those old slaves, we yearn to steal away"
+        ],
+        "rol_van_god": "Absent (God is the Destination, not the Actor)",
+        "rol_van_geest": "External help"
+      },
+      "tegenstander": {
+        "identificatie": "John the Baptist (Functional Opponent/Obstacle); The Ax; Old Credentials",
+        "tekstueel_bewijs": [
+          "rude, ominous border guards",
+          "the ax is lying at the root of the trees",
+          "Checkpoint John... is as spooky and intimidating as Checkpoint Charlie"
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "The opponent is the 'verdict' of John which carries the threat of fire (destruction)."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "The production of 'fruit' (ethical behavior) required to pass the checkpoint.",
+      "subject": "The Hearer",
+      "object": "Fruit of Righteousness/Justice",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon suggests one must produce the fruit of the new regime while still in the old regime to be granted entry into the new regime."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "John/Law → Entry/Jesus → The Hearer",
+      "helper_subject_tegenstander": "Slaves' Example → The Hearer ← John/The Ax",
+      "subject_naar_object": "The Hearer → Ethical Performance → Entry"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "42",
+      "ratio": "0.095",
+      "voorbeelden_god_subject": [
+        "God's people are always poised",
+        "God... [who] gave the good land"
+      ],
+      "voorbeelden_mens_subject": [
+        "We walk cautiously",
+        "We eagerly look",
+        "We have work to do",
+        "Act differently",
+        "You cannot get to Jesus except by way of John"
+      ],
+      "rutledge_score": "2"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Bear fruit worthy of repentance",
+          "Act differently... if you want in here",
+          "the required fruits"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "yearning for a new regime",
+          "we eagerly look",
+          "wanting to get our lives in order"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "John issues a stern imperative",
+          "The New Testament is rich in its inventories"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "2",
+        "voorbeelden": [
+          "we could indeed be different"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily weighted toward Obligation (Devoir) and Desire (Vouloir). It assumes the hearer has the Power (Pouvoir) to change if the threat is severe enough."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "The Kingdom/Jesus",
+      "s2": "The Ax/Fire",
+      "niet_s1": "Old Regime/Greed",
+      "niet_s2": "Fruit-bearing/Repentance"
+    },
+    "beweging_in_preek": "Movement from ~S1 (Old Regime) to ~S2 (Performance) in order to reach S1 (Jesus) and avoid S2 (Fire).",
+    "theologische_resolutie": "Resolution is conditional: entry depends on the hearer's ability to 'act differently' under pressure.",
+    "ernst_van_s2": "High. The threat of being 'cut down' is used as the primary motivator."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While using the language of Advent and the 'Kingdom,' the actantial structure places the human hearer as the Subject who must achieve 'fruit' to gain access to a passive God/Jesus.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "Act differently... if you want in here.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Human as Subject of Transformation",
+        "tekstueel_bewijs": "the transformation requires leaving and stealing away to the new.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Desire for the Kingdom",
+        "tekstueel_bewijs": "yearning for a new regime under a better governance",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The slaves and the exiles are used as models of 'resolve' and 'intention' for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [
+        "The Slaves",
+        "Abraham (deconstructed)",
+        "The Exiles"
+      ],
+      "alternatieve_lezing": "God as the one who 'steals us away' from slavery, rather than us 'stealing away' to Him."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Anxiety and pressure; the 'stomach tightens.'",
+      "theologische_implicatie": "Salvation is a reward for ethical reorientation (Pelagian tendency)."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The metaphor of the checkpoint is consistently applied, but it creates a theological paradox where one must be 'new' to enter the 'new.'",
+      "spanning_punten": [
+        "The hearer must produce 'fruit of the spirit' before they have entered the realm of the Spirit."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Act like you have changed. Get on with the task.",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "The hearer is expected to generate 'fruit' through 'resolve' and 'intention' rather than spiritual endowment."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "High (Vipers/Fire), but treated as a set of 'old patterns' that can be left behind by choice."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a 'Recruitment' narrative. The hearer is the Subject, Jesus is the Object (Value), and John is the Opponent (Hurdle). God is not an active participant in the crossing.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The hearer is tasked with the 'hazardous journey' and the 'fruit-bearing' as a prerequisite.",
+      "voorgestelde_herpositionering": "Make Jesus the Subject who crosses the border to find the 'vipers.'",
+      "voorbeeld_revisie": "Instead of 'You cannot get to Jesus,' use 'Jesus has crossed the hazardous border of our rebellion to reach us at the checkpoint.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'Border Crosser.'",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "Identify the hearer as the 'tree' that cannot produce fruit, whom the Gardener (Jesus) spares and nourishes."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Devoir (Must)",
+      "voorgestelde_balans": "Pouvoir (Can/Grace)",
+      "concrete_suggestie": "Focus on how the 'sweet-smelling Jesus' provides the power to be different, rather than demanding it as an entry fee."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "false",
+      "huidige_status": "The opponent (John/Judgment) is already very intense.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "The Law is preached clearly; the lack is in the Gospel (the Subject-switch)."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Program 2) is made the condition for Soteriology (Program 1).",
+      "voorgestelde_structuur": "Soteriology (Jesus brings us home) → Ethics (Therefore, we live as citizens of the home)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The imagery of Checkpoint Charlie is rhetorically brilliant, but structurally, it traps the hearer in a legalistic loop where they must save themselves to be saved."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "A rhetorical analysis would praise the 'Checkpoint' metaphor; semiotics reveals that this metaphor makes the Gospel a transaction.",
+    "verschil_met_exegese": "Exegesis might focus on the historical John; semiotics focuses on how John functions as a 'blocker' in the preacher's story.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'Jesus' is merely a passive prize (Object) rather than the Savior (Subject)."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "We (walk, yearn, look, imagine)",
+      "John (speaks, tears up, issues)",
+      "Slaves (sang, knew, imagined)",
+      "The Ax (lies)"
+    ],
+    "volledige_object_lijst": [
+      "Jesus",
+      "The Kingdom",
+      "Fruit",
+      "Freedom"
+    ],
+    "werkwoord_frequentie": {
+      "act": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "yearn": {
+        "count": "3",
+        "primair_subject": "Man"
+      },
+      "save": {
+        "count": "0",
+        "primair_subject": "N/A"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Subjunctive Homiletics'—it describes what *could* happen if the hearer is brave enough."
+  }
+}

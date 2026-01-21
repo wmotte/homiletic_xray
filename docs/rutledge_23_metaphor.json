@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "titel_preek": "When the Man Comes Around",
+    "bijbeltekst": "Luke 21:34; Romans 13:11–12; 1 Peter 4:7, 12, 17",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1550"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "the night is far gone, the day is at hand",
+          "the Bridegroom is advancing",
+          "when the Man comes around"
+        ],
+        "conceptuele_metafoor": "TIME IS A TRAVELER / SALVATION IS AN ARRIVAL"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "purged and purified",
+          "redeemed from fire by fire",
+          "final and fully separated from our sin"
+        ],
+        "conceptuele_metafoor": "SANCTIFICATION IS PURGATION"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "household of God",
+          "gates wide open stand"
+        ],
+        "conceptuele_metafoor": "THE CHURCH IS A HOUSEHOLD"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The night is far gone, the day is at hand",
+        "brondomein": {
+          "naam": "Diurnal Cycle",
+          "concrete_elementen": [
+            "darkness",
+            "dawn",
+            "approaching light"
+          ],
+          "belichaamde_basis": "verticality/path"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Eschatological Urgency",
+          "doctrinale_traditie": "Pauline/Adventist"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Night",
+            "doel_element": "Current sinful age"
+          },
+          {
+            "bron_element": "Day",
+            "doel_element": "Kingdom of God"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The hearer feels a sense of waking up and preparation."
+          ],
+          "theologische_implicaties": [
+            "History is linear and moving toward a climax."
+          ],
+          "ethische_implicaties": [
+            "Cessation of 'sleepy' or indifferent behavior."
+          ],
+          "onbedoelde_consequenties": [
+            "May lead to a dismissal of the value of the present 'night' life."
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Standard biblical imagery, but revitalized through the context of 9/11 and Johnny Cash."
+      },
+      {
+        "metafoor_expressie": "Redeemed from fire by fire",
+        "brondomein": {
+          "naam": "Metallurgy/Refining",
+          "concrete_elementen": [
+            "heat",
+            "destruction of dross",
+            "purification"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Judgment/Purgation",
+          "doctrinale_traditie": "Anglican/Catholic-leaning"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Fire",
+            "doel_element": "God's holiness/judgment"
+          },
+          {
+            "bron_element": "Dross",
+            "doel_element": "Human sin"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Judgment is painful but necessary for beauty/purity."
+          ],
+          "theologische_implicaties": [
+            "God does not accept sin; he destroys it to save the person."
+          ],
+          "ethische_implicaties": [
+            "Willingness to undergo hardship for spiritual growth."
+          ],
+          "onbedoelde_consequenties": [
+            "Could be interpreted as justifying physical violence as 'refining'."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses T.S. Eliot to re-frame the terrifying aspect of judgment as a mercy."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The sermon uses the overarching theme of 'Reality' to bridge the gap between cultural darkness (war, death) and theological light (Advent).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Section on Purgatory",
+          "metafoor_a": "God as Judge (Juridical)",
+          "metafoor_b": "Fire as Refiner (Medical/Process)",
+          "conflict_beschrijving": "The shift from a legal standing to a physical process of cleaning.",
+          "entailment_conflict": "A judge usually declares a status; a fire changes a substance.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Conclusion",
+          "gemengde_metaforen": [
+            "Johnny Cash (The Man in Black)",
+            "The Bridegroom",
+            "The Watchman"
+          ],
+          "blending_strategie": "All are unified under the schema of 'The Arrival'—the one who comes at midnight."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Uses the 'Man in Black' persona to give weight to the 'Dead' metaphor of the Second Coming.",
+        "voorbeeld": "When the Man comes around for him, Johnny Cash was ready."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The use of 'fire' and 'purgatory' might be literalized by hearers as physical torture rather than spiritual refining.",
+        "voorbeeld": "redeemed from fire by fire",
+        "potentiele_impact": "Fear-based faith rather than hope-based faith.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A dark, post-9/11 New York City, filled with newspapers and military funerals.",
+      "sub_worlds": [
+        "The Nashville memorial for Johnny Cash",
+        "The eschatological 'Midnight' of the Bridegroom",
+        "The 'Household of God' under judgment"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Opening",
+          "van_wereld": "Present day NYC",
+          "naar_wereld": "Theological Advent",
+          "effectiviteit": "High; uses the newspaper as a bridge."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Truth-Teller",
+          "hoe_versterkt": "By contrasting God's 'reality' with the 'bland inoffensiveness' of culture."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "American Exceptionalism",
+          "verstoring_strategie": "Critiquing the idea that judgment is only for 'others' (terrorists/French).",
+          "vervangend_schema": "Universal Human Depravity/Need for Purgation"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Perfectly aligns with the 'Four Last Things' of traditional Advent."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'Darkness vs. Light' and 'Arrival' domains. It successfully avoids the 'Economic' domain (transactional salvation) in favor of a 'Medical/Refining' domain that emphasizes character transformation over mere legal status.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "The Bridegroom",
+        "huidige_status": "Can feel overly sentimental or archaic.",
+        "suggestie": "Link the Bridegroom's arrival to the 'Man in Black's' grit.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The Bridegroom isn't a figure on a wedding cake; he is the one who walks into the darkness of the prison to find us."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'Judgment' (Juridical) to 'Refining' (Medical).",
+        "resolutie_strategie": "Explicitly state that God's judgment IS his healing—that the 'verdict' is the beginning of the 'cure'."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Sin as Darkness",
+        "problematisch_entailment": "Implies darkness is inherently evil, which can have racial undertones.",
+        "aanbeveling": "Balance with 'The Cloud of Unknowing' or darkness as the place where God dwells."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To ground the 'wheat and chaff' reference more concretely.",
+        "doel_concept": "Judgment as Sorting"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using cultural icons (Cash, Havel) to reactivate dormant eschatological metaphors."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the use of Johnny Cash as 'cool,' CMT shows how Cash functions as a cognitive bridge to the concept of 'The Judge'.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT focuses on the underlying conceptual mappings that make the experience meaningful.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher is attempting to overwrite the 'LIFE IS A SHOPPING MALL' schema with the 'LIFE IS A VIGIL' schema."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Life's darker side",
+      "The night is far gone",
+      "Hunkers down",
+      "Noses pushed up against reality",
+      "Household of God",
+      "Refiner's fire",
+      "When the Man comes around",
+      "The Bridegroom is advancing"
+    ],
+    "woord_frequentie_analyse": {
+      "darkness": "6",
+      "reality": "8",
+      "judgment": "7",
+      "death": "5"
+    },
+    "notities": "The sermon relies heavily on the 'Container' schema (In the darkness, in the world) to create a sense of immersion."
+  }
+}

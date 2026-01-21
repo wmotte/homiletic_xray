@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "titel_preek": "Auferstehung: Geschichten aus dem Morgengrauen",
+    "bijbeltekst": "Lukas 24 (Emmaus), 1 Korinther 15, Markus 10",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "Theological reflection on the nature of resurrection, the Emmaus story, and the critique of 'thinking in reality' (in echt denken). Focus on social justice and political implications of faith.",
+      "exegetische_kwaliteit": "Moderate. The text uses the Emmaus story as a springboard for philosophical and socio-political critique rather than a verse-by-verse exposition.",
+      "omvang_procent": "75%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is teaching and reflecting (Asserting), with a strong secondary force of social critique (Directing).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "Ich will damit nicht sagen, dass es keine Wahrheit gibt.",
+        "Glauben heißt, sich in die Versprechungen des Lebens zu stürzen.",
+        "Auferstehung ist immer auch Aufstand!"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "Intellectual shift in the hearer's understanding of resurrection; motivation for political/social activism.",
+      "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned as a 'spirit of calculation' to be avoided, but not as the primary agent of the sermon's efficacy.",
+      "perlocutionaire_werkwoorden": [
+        "rethink",
+        "realize",
+        "act",
+        "resist"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "80%",
+      "voorbeelden": [
+        "Die Geschichten spielen meistens im Morgengrauen.",
+        "Gott ist höflich.",
+        "Das Leben ist rätselhaft."
+      ],
+      "dominante_werkwoorden": [
+        "sein",
+        "haben",
+        "bedeuten",
+        "erzählen"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Wir brauchen die Tradition.",
+        "Wer das Reich Gottes nicht annimmt wie ein Kind...",
+        "Gegen den Tod zu kämpfen..."
+      ],
+      "dominante_werkwoorden": [
+        "müssen",
+        "brauchen",
+        "sollen"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "7%",
+      "voorbeelden": [
+        "Ich möchte hier eine Geschichte erzählen.",
+        "Ein wunderbarer Satz!",
+        "Wir schreien, dass die Toten leben sollen."
+      ],
+      "dominante_werkwoorden": [
+        "möchten",
+        "wollen",
+        "fühlen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "2%",
+      "voorbeelden": [
+        "Ich bleibe bei euch!",
+        "Die Tradition des Glaubens bietet uns an..."
+      ],
+      "dominante_werkwoorden": [
+        "bleiben",
+        "anbieten"
+      ],
+      "kwaliteit": "Weak. Promises are mostly quoted as historical text rather than spoken directly to the congregation."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "Jesus und Buddha werden Brüder sein."
+      ],
+      "dominante_werkwoorden": [
+        "sein"
+      ],
+      "autoriteit": "Low. The preacher speaks as an essayist/thinker rather than a mandatory of God."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive use of 'I want to say', 'I mean', 'One could say'.",
+        "Third-person descriptions of 'the believers' and 'the doubters'.",
+        "Abstract definitions of resurrection."
+      ],
+      "effect_op_hoorder": "The hearer becomes an observer of a theological lecture rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Direct absolution",
+        "Direct promise of grace to the 'You'",
+        "Sacramental address"
+      ],
+      "effect_op_hoorder": "Cognitive agreement without existential relief."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "N/A",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "45",
+        "gebruik": "Preacher as 'I' (thinker/storyteller) and 'We' (humanity/society)."
+      },
+      "tweede_persoon": {
+        "frequentie": "2",
+        "gebruik": "Almost non-existent. Only in quotes ('Are you saved?').",
+        "performatieve_context": "None."
+      },
+      "derde_persoon": {
+        "frequentie": "120",
+        "gebruik": "Dominant. Talking about Jesus, the disciples, the 'Glaubensversicherten', and 'the poor'.",
+        "distantie_effect": "High. It creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "30%",
+        "gebruik": "Biblical narrative and historical anecdotes."
+      },
+      "tijdloos_present": {
+        "frequentie": "60%",
+        "gebruik": "General theological and ethical truths."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "Current political situation (Dover, global economy)."
+      }
+    },
+    "adressering_effectiviteit": 2
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Resurrection is political) -> Directive (We must fight for justice).",
+      "voorbeelden": [
+        "Auferstehung ist immer auch Aufstand! ... Gegen den Tod zu kämpfen suspendiert die Lebenszweifel."
+      ],
+      "probleem": "The imperative (action) is not grounded in a performative gift (promise), but in a conceptual definition."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "N/A"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "An die Auferstehung Christi zu glauben heißt heute, gegen die Schändung des Lebens mit ihm aufzustehen."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as a theological essay. It explains 'what resurrection means' rather than 'bestowing resurrection' on the hearer.",
+    "sterke_punten": [
+      {
+        "aspect": "Intellectual Depth",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "Mama, du denkst immer nur in echt.",
+        "effect": "Challenges the hearer's worldview."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "Entire text lacks 'You' (Du/Ihr).",
+        "probleem": "No direct encounter.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 3,
+    "gebeuren_toelichting": "It is an event of 'thinking about' God, but not an event of 'God speaking'.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "Lacks the 'Toezegging' (Promise) which is the heart of the sacramental sermon."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the object of the preacher's reflection.",
+      "prediker_als_mandataris": "No. The preacher speaks as a social critic and intellectual.",
+      "tekstueel_bewijs": [
+        "Ich möchte hier eine Geschichte erzählen...",
+        "Ich will damit nicht sagen..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "The effect is sought through ethical appeal rather than the Spirit's work through the Word.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a medium of ethical mobilization.",
+      "epifanisch_taalgebruik": "Low. The language is descriptive/analytical.",
+      "tekstueel_bewijs": []
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'means' (Assertives); too many 'must' (Directives). No 'I promise you' (Commissives).",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Die Auferstehung Christi bedeutet nicht, dass Christus von uns fort ist.",
+          "voorgestelde_revisie": "Christus ist nicht fort; er steht jetzt hier in eurer Mitte und sagt: Ich bin bei euch.",
+          "verschil": "Shifts from a definition to a presence."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise of the gospel is treated as a 'fremde Sprache' (foreign language) rather than a current gift.",
+      "suggestie": "Use the 2nd person to apply the Emmaus promise to the specific sorrows of the congregation.",
+      "voorbeeldzinnen": [
+        "Heute bricht er auch für euch das Brot.",
+        "In eurer Trauer verspricht er euch: Ich lebe, und ihr sollt auch leben."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Total absence of the hearer as a subject.",
+      "suggestie": "Replace 'man' and 'wir' with 'Du' and 'Ihr'.",
+      "voorbeeldzinnen": [
+        "Wo denkt ihr 'nur in echt'?",
+        "Euch gilt dieser Aufstand des Lebens."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'Aufstand' (Insurrection) feels like a burden because it isn't preceded by the 'Zuspruch' (Assurance).",
+      "suggestie": "Ground the call to justice in the fact that Christ has already overcome the powers of death for the hearer."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A brilliant intellectual and ethical essay, but homiletically 'stuck' in the constative. To become an 'event', it needs to stop talking about the 'foreign language' of the Bible and start speaking it directly to the people."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (Enkelgeschichte); SAT reveals the lack of a 'Declarative' act that changes the hearer's status before God.",
+    "verschil_met_retoriek": "Rhetorically strong (metaphors, structure), but illocutionarily weak (no binding promise).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'radical' content, the linguistic form remains safe, descriptive, and non-sacramental."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "spielen",
+        "sein",
+        "kennen",
+        "warten",
+        "berichten",
+        "bedeuten"
+      ],
+      "directief": [
+        "müssen",
+        "brauchen",
+        "kämpfen",
+        "aufstehen"
+      ],
+      "expressief": [
+        "hoffen",
+        "wollen",
+        "möchten"
+      ],
+      "commissief": [
+        "bleiben",
+        "anbieten"
+      ],
+      "declaratief": [
+        "werden (in eschatological sense)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Auferstehung ist immer auch Aufstand!",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Defining a concept.",
+        "effectiviteit": "High intellectually, low sacramentally."
+      }
+    ],
+    "notities": "The sermon is a classic example of 'Kulturprotestantismus' logic: using the text to address social issues without using the specific performative power of the office of the keys."
+  }
+}

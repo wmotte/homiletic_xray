@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "titel_preek": "A Strange Question In A Cemetery",
+    "bijbeltekst": "John 20:15",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The preacher describes the universal experience of grief, the finality of death, and the biblical narrative of Mary Magdalene at the tomb, concluding with the victory of Christ.",
+      "exegetische_kwaliteit": "Moderate. The sermon focuses more on the existential weight of the narrative than on technical exegesis, using the text as a springboard for a meditation on love and death.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "The primary force is descriptive and evocative. The preacher seeks to paint a picture of human despair to contrast it with the Easter hope.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "It is Easter!",
+        "Death will enter, and there will be one less of that happy circle.",
+        "Jesus was there in the cemetery and alive."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To comfort the grieving and instill a sense of hope that transcends the grave.",
+      "pneumatologisch_bewustzijn": "Low. The sermon relies on the rhetorical power of the 'Easter sentiment' rather than an explicit invocation of the Spirit's work.",
+      "perlocutionaire_werkwoorden": [
+        "hope",
+        "believe",
+        "feel comforted",
+        "rejoice"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "88%",
+      "voorbeelden": [
+        "A hope is in people's hearts today.",
+        "The specter of death hovered over the room.",
+        "Love is a stubborn thing."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "was",
+        "stood",
+        "looked",
+        "died"
+      ]
+    },
+    "directieven": {
+      "frequentie": "6",
+      "procent": "4%",
+      "voorbeelden": [
+        "See that family all laughing and gay.",
+        "Go into almost any cemetery.",
+        "Then let the glad anthems of Easter ring."
+      ],
+      "dominante_werkwoorden": [
+        "see",
+        "go",
+        "let"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "10",
+      "procent": "6%",
+      "voorbeelden": [
+        "How we need Easter.",
+        "I do not say now... in any flippant or critical sense."
+      ],
+      "dominante_werkwoorden": [
+        "need",
+        "say",
+        "admire"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "2",
+      "procent": "1%",
+      "voorbeelden": [
+        "We shall meet again where the load has lifted."
+      ],
+      "dominante_werkwoorden": [
+        "shall meet"
+      ],
+      "kwaliteit": "Weak. The promises are framed as general religious hopes ('we can believe') rather than direct divine commitments."
+    },
+    "declaratieven": {
+      "frequentie": "1",
+      "procent": "1%",
+      "voorbeelden": [
+        "It is Easter!"
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Low. The 'is' functions more as a calendar statement than a reality-altering declaration of the New Creation."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "92%",
+    "performatief_percentage": "8%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive storytelling about a hospital visit.",
+        "Generalizations about the nature of love.",
+        "Third-person description of Mary's actions."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a moving story rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Authoritative Proclamation"
+      ],
+      "effect_op_hoorder": "Emotional resonance without sacramental assurance."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": 0,
+      "kwaliteit_toezeggen": "The sermon speaks *about* hope but does not *bequeath* hope through a direct word of Christ.",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Anecdotal ('I stood') and collective ('We seem')."
+      },
+      "tweede_persoon": {
+        "frequentie": "5",
+        "gebruik": "Rhetorical ('If you do not believe it, go...'). Not used for direct address of the Gospel."
+      },
+      "derde_persoon": {
+        "frequentie": "130",
+        "gebruik": "Dominant. Talking about 'people', 'Mary', 'Jesus', and 'Love'.",
+        "distantie_effect": "High. It treats the Resurrection as a historical or philosophical fact to be observed."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "60%",
+        "gebruik": "Narrating the crucifixion and the hospital anecdote."
+      },
+      "tijdloos_present": {
+        "frequentie": "30%",
+        "gebruik": "General truths about love and death."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The concluding 'now' of the sermon."
+      }
+    },
+    "adressering_effectiviteit": 3
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Description of death/Mary) -> Directive (Let the anthems ring/We can believe).",
+      "voorbeelden": [
+        "Jesus has been here now, and we can believe..."
+      ],
+      "probleem": "The 'belief' is presented as a human possibility or consequence of a fact, rather than a gift created by a performative word."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "Missing the Declarative/Commissive link.",
+      "voorbeelden": [],
+      "kwaliteit": "None"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "Then let the glad anthems of Easter ring, for Jesus has been here."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon functions as an evocative lecture on the meaning of Easter. It describes the 'event' of the resurrection but does not function as an 'event' itself.",
+    "sterke_punten": [
+      {
+        "aspect": "Pathos",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The description of the man in the hospital.",
+        "effect": "Creates deep emotional resonance."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The entire section on Mary is in the 3rd person.",
+        "probleem": "The hearer is an observer of Mary's grief, not the recipient of Christ's word.",
+        "ernst": "CRITICAL"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a moving speech, but the lack of performative verbs (I, You, Today) prevents it from becoming a sacramental encounter.",
+    "sacramentele_kracht": 2,
+    "sacramentele_toelichting": "The preacher does not speak 'in persona Christi' or deliver a specific promise (Toezegging)."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No. God is the subject of the talk, not the speaker of the word.",
+      "prediker_als_mandataris": "Weak. The preacher acts as a storyteller/poet.",
+      "tekstueel_bewijs": [
+        "I stood not too long ago...",
+        "Faith declares..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No.",
+      "perlocutie_theologie": "Implicitly assumes that rhetorical beauty will produce faith.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No. The sermon is a reflection on grace, not a means of it.",
+      "epifanisch_taalgebruik": "Low. The language is more nostalgic than epiphanic.",
+      "tekstueel_bewijs": [
+        "The wistful dream of life being stronger than death returns..."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "The sermon is drowning in 'is' and 'was'. It needs 'give', 'forgive', 'promise', and 'declare'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Jesus was there in the cemetery and alive.",
+          "voorgestelde_revisie": "The Living Christ stands before you now and says: 'Do not weep!'",
+          "verschil": "Shifts from a historical report to a present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The hope is 'wistful' and 'dream-like' rather than promised.",
+      "suggestie": "Insert a direct Commissive act.",
+      "voorbeeldzinnen": [
+        "Because He lives, I promise you in His name: death shall not have the last word over your life."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Address the grieving directly.",
+      "voorbeeldzinnen": [
+        "You, who stand at the graveside today, hear His voice calling your name."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The indicative is a past-tense story, making the imperative a psychological effort.",
+      "suggestie": "Make the indicative a present-tense declaration."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful and emotionally stirring, but it remains a 'talking about' the resurrection. To become a sacramental event, it must dare to speak the Word of God directly to the hearer in the second person."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' of his hospital visit; SAT reveals that this focus actually weakens the divine illocution.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is strong (metaphor, pathos). Homiletically (SAT), it is weak because it lacks the 'Creative Word' (Declarative).",
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'Easter' theme, the sermon's grammar is still 'Friday' grammar—describing a corpse/history rather than enacting a Resurrection."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "was",
+        "stood",
+        "hovered",
+        "asked",
+        "looked",
+        "cried",
+        "seems",
+        "killed",
+        "buried"
+      ],
+      "directief": [
+        "see",
+        "go",
+        "let",
+        "believe"
+      ],
+      "expressief": [
+        "need",
+        "admire",
+        "hope"
+      ],
+      "commissief": [
+        "shall meet"
+      ],
+      "declaratief": [
+        "is (Easter)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Jesus was there in the cemetery and alive.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Reporting",
+        "effectiviteit": "Low. It informs the mind but does not confront the person."
+      }
+    ],
+    "notities": "The sermon relies heavily on the 'stubborn quality of love' as a human bridge to the divine, which risks Pelagianism if not grounded in a performative word of grace."
+  }
+}

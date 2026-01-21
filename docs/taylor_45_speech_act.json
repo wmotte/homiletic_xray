@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "titel_preek": "The Christian's Dearest Sight",
+    "bijbeltekst": "Hebrews 2:9",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1450"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "The sermon explores the contrast between the 'not yet' of human dominion (suffering, failure, social decay) and the 'seeing' of Jesus as the fulfillment of human destiny and the image of God.",
+      "exegetische_kwaliteit": "Moderate. It uses the tension in Hebrews 2 between the Psalm 8 ideal and the current reality, though it leans heavily on anecdotal illustration.",
+      "omvang_procent": "85%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily describing the beauty of Jesus and the reality of human suffering, with occasional invitations to look toward Him.",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 6,
+      "voorbeelden": [
+        "We see Jesus.",
+        "God only is great.",
+        "The clearest vision we have of the divine nature is in Jesus Christ."
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To comfort the hearer amidst suffering and to inspire a renewed focus on Christ's character.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly mentioned as the agent of 'seeing'.",
+      "perlocutionaire_werkwoorden": [
+        "believe",
+        "endure",
+        "visualize",
+        "hope"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "142",
+      "procent": "75%",
+      "voorbeelden": [
+        "The writer of Hebrews says...",
+        "We are all making it along somehow.",
+        "The sad truth is that we have not mastered the ugly passions."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "says",
+        "was",
+        "saw",
+        "has"
+      ]
+    },
+    "directieven": {
+      "frequentie": "18",
+      "procent": "10%",
+      "voorbeelden": [
+        "Read the words of Jesus.",
+        "We must pray often.",
+        "See him according to your need."
+      ],
+      "dominante_werkwoorden": [
+        "must",
+        "read",
+        "see",
+        "go"
+      ],
+      "fundament_check": false
+    },
+    "expressieven": {
+      "frequentie": "12",
+      "procent": "8%",
+      "voorbeelden": [
+        "I was struck with the excitement.",
+        "I say to you that this is the dearest sight."
+      ],
+      "dominante_werkwoorden": [
+        "struck",
+        "say",
+        "feel"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "4",
+      "procent": "4%",
+      "voorbeelden": [
+        "Jesus Christ is close by.",
+        "We shall see him as he is."
+      ],
+      "dominante_werkwoorden": [
+        "is",
+        "shall"
+      ],
+      "kwaliteit": "Weak; mostly stated as general future truths rather than direct divine promises addressed to the hearer now."
+    },
+    "declaratieven": {
+      "frequentie": "2",
+      "procent": "3%",
+      "voorbeelden": [
+        "God only is great (quoted)",
+        "Go on, preacher (quoted)"
+      ],
+      "dominante_werkwoorden": [
+        "is"
+      ],
+      "autoriteit": "Low; the preacher describes declarations made by others rather than declaring grace directly."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "85%",
+    "performatief_percentage": "15%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "SEVERE",
+      "indicatoren": [
+        "Extensive storytelling about Dr. Wyatt Walker and Louis XIV.",
+        "Long descriptions of social decay and physical ailments.",
+        "Talking 'about' the text rather than letting the text speak."
+      ],
+      "effect_op_hoorder": "The hearer becomes a spectator of a beautiful description rather than a participant in a divine encounter."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "missende_elementen": [
+        "Absolution",
+        "Direct Promise",
+        "Sacramental 'I' of God"
+      ],
+      "effect_op_hoorder": "Inspiration without transformation; the 'sight' remains a mental image."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": false,
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "N/A",
+      "voorbeelden": [],
+      "moment_in_preek": "N/A"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "24",
+        "gebruik": "Homiletical 'we' and personal anecdotes."
+      },
+      "tweede_persoon": {
+        "frequentie": "15",
+        "gebruik": "Direct address usually in the context of moral advice (must) or rhetorical questions.",
+        "performatieve_context": "Low"
+      },
+      "derde_persoon": {
+        "frequentie": "80",
+        "gebruik": "Dominant; describing Jesus, the writer of Hebrews, and the state of the world.",
+        "distantie_effect": "High; creates a lecture-like atmosphere."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Anecdotes and biblical history."
+      },
+      "tijdloos_present": {
+        "frequentie": "50%",
+        "gebruik": "General truths about human nature and Christ's character."
+      },
+      "actueel_present": {
+        "frequentie": "10%",
+        "gebruik": "The immediate moment of preaching."
+      }
+    },
+    "adressering_effectiviteit": "5"
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "FAULTY",
+    "foutief_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Assertive (Human failure) -> Directive (We must pray/read).",
+      "voorbeelden": [
+        "We see not yet all things put under him... We must pray often."
+      ],
+      "probleem": "The 'Promise' (Commissive) is missing as the bridge, leading to moralism."
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": false,
+      "beschrijving": "N/A",
+      "voorbeelden": [],
+      "kwaliteit": "Poor"
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": false,
+      "voorbeelden_goede_verhouding": [],
+      "voorbeelden_slechte_verhouding": [
+        "It is hard keeping Christ in sight... We must pray often."
+      ]
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "INFORMATIVE_TEACHING",
+    "diagnose_toelichting": "The sermon is a high-quality lecture on the beauty of Christ, but it remains in the realm of 'talking about' (constative) rather than 'bestowing' (performative).",
+    "sterke_punten": [
+      {
+        "aspect": "Vivid Imagery",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The water at Cana... saw its Creator and blushed red into wine.",
+        "effect": "Engages the imagination."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Lack of Direct Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "We see not yet all things put under him.",
+        "probleem": "Keeps the gospel as a third-person observation.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is an aesthetic event, but not necessarily a sacramental one where God acts upon the hearer.",
+    "sacramentele_kracht": "3",
+    "sacramentele_toelichting": "The preacher describes the medicine but does not administer it."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "No; the preacher is the narrator of God's past actions.",
+      "prediker_als_mandataris": "Weak; acts more as a witness/tour guide.",
+      "tekstueel_bewijs": [
+        "I say to you that this is the dearest sight."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "No",
+      "perlocutie_theologie": "Implicitly assumed but not articulated.",
+      "tekstueel_bewijs": []
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "No; sermon as an 'oration' or 'vision'.",
+      "epifanisch_taalgebruik": "Yes, in the descriptive sense.",
+      "tekstueel_bewijs": [
+        "catch a vision of the glory of the Divine."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'was' verbs; needs more 'give', 'forgive', and 'promise'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Christ came into the world to save sinners.",
+          "voorgestelde_revisie": "Christ comes to you now to save you from your sins.",
+          "verschil": "Shifts from a historical fact to a present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The grace is described as a 'sight' rather than a 'gift'.",
+      "suggestie": "Incorporate the 'Toezegging' (Promise) directly after the description of human failure.",
+      "voorbeeldzinnen": [
+        "Because you cannot master your passions, Christ promises to master them for you."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Over-reliance on 'we'.",
+      "suggestie": "Use 'you' to apply the promise specifically to the hearer's pain.",
+      "voorbeeldzinnen": [
+        "You, with the twisted limbs; you, with the shameful memory—Jesus sees you."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": true,
+      "probleem": "The 'must' (directive) is not fueled by the 'is' (commissive).",
+      "suggestie": "Make the 'doing' a response to the 'receiving'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon is rhetorically beautiful but needs to move from being a 'sight' to being a 'voice' that addresses the hearer in God's name."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his trip, his feelings); SAT focuses on the lack of a 'Declarative' act that changes the hearer's status.",
+    "verschil_met_retoriek": "Rhetoric praises the 'water into wine' imagery; SAT notes that the imagery is still just an Assertive (describing a miracle) rather than a Commissive (promising a miracle).",
+    "unieke_inzichten_SAT": "SAT reveals that the sermon's 'event' character is stifled by a 3rd-person narrative surplus."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "is",
+        "says",
+        "talked",
+        "was",
+        "had",
+        "read",
+        "heard",
+        "expressed",
+        "filled",
+        "stood"
+      ],
+      "directief": [
+        "read",
+        "do",
+        "leave",
+        "go",
+        "be",
+        "offer",
+        "pray",
+        "keep"
+      ],
+      "expressief": [
+        "struck",
+        "desire",
+        "envy",
+        "hate",
+        "pessimistic"
+      ],
+      "commissief": [
+        "is (near)",
+        "shall (see)"
+      ],
+      "declaratief": [
+        "is (great)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "But we see Jesus.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Weak",
+        "effectiviteit": "Informative but distant."
+      },
+      {
+        "zin": "Go on, preacher, we can see Jesus in the darkness.",
+        "categorie": "DECLARATIVE (Quoted)",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "The most performative moment, yet it is a quote of someone else's speech act."
+      }
+    ],
+    "notities": "The sermon relies on the beauty of the 'sight' to do the work that the 'word' should do."
+  }
+}

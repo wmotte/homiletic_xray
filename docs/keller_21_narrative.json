@@ -1,0 +1,271 @@
+[
+  {
+    "metadata": {
+      "titel_preek": "Prayer of Confession",
+      "bijbeltekst": "Psalm 32",
+      "analyse_datum": "2024-05-22",
+      "geschat_aantal_woorden": "3200"
+    },
+    "actantiele_analyse": {
+      "primair_narratief_programma": {
+        "beschrijving": "The movement from the 'poisonous reality' of sin (uncovered/exposed) to the state of being 'blessed' (covered/forgiven) through the substitutionary work of Christ.",
+        "subject": {
+          "identificatie": "God (specifically Jesus Christ in the climax)",
+          "tekstueel_bewijs": [
+            "And you forgave the guilt of my sin",
+            "Jesus Christ was uncovered for me",
+            "He paid the price",
+            "He's the real true love, because he can always get the stain out"
+          ],
+          "frequentie_score": "8"
+        },
+        "object": {
+          "identificatie": "The 'Covering' of the sinner (Justification/Forgiveness)",
+          "tekstueel_bewijs": [
+            "Blessed is the one whose transgressions are forgiven, whose sins are covered"
+          ],
+          "aard_van_object": "SOTERIOLOGICAL"
+        },
+        "zender": {
+          "identificatie": "The Holy God / The Bible (as the straightedge)",
+          "tekstueel_bewijs": [
+            "The clear standard has to be what God thinks",
+            "You need to believe the Bible is true"
+          ],
+          "rol_interpretatie": "JUDGE/LOVING_FATHER"
+        },
+        "ontvanger": {
+          "identificatie": "The Hearer / The Sinner",
+          "tekstueel_bewijs": [
+            "Blessed is the one",
+            "Father, accept me because of what Jesus did"
+          ],
+          "positie_hoorder": "RECEIVER_SAVED"
+        },
+        "helper": {
+          "identificatie": "The Gospel / The Bible / True Confession",
+          "tekstueel_bewijs": [
+            "The Bible... will teach us three things",
+            "That's the gospel"
+          ],
+          "rol_van_god": "Subject",
+          "rol_van_geest": "External help through the Word"
+        },
+        "tegenstander": {
+          "identificatie": "Sin as a Cosmic Power (Self-assertion) and False Confession (Self-pity/Self-flagellation)",
+          "tekstueel_bewijs": [
+            "rebellious self-assertion",
+            "the accuser roar",
+            "self-pity nor self-flagellation"
+          ],
+          "ernst_tegenstander": "COSMIC",
+          "toelichting_ernst": "Sin is described as an active inclination to 'break stuff' and a 'poisonous reality' that requires the death of the Son of God to overcome."
+        }
+      },
+      "secundair_narratief_programma": {
+        "aanwezig": true,
+        "beschrijving": "The transformation of the heart (Sanctification) where the believer begins to hate sin and love God.",
+        "subject": "The Believer (empowered by the Cross)",
+        "object": "Hating the sin itself / Changing the heart",
+        "verhouding_tot_primair": "SEQUENTIAL",
+        "toelichting_verhouding": "The secondary program (ethics/change) is explicitly presented as a consequence of the primary program (grace/forgiveness)."
+      },
+      "actantieel_schema_visualisatie": {
+        "zender_naar_ontvanger": "God/Bible → Forgiveness/Covering → Sinner",
+        "helper_subject_tegenstander": "Gospel → Jesus Christ ← Sin/Death/Self-assertion",
+        "subject_naar_object": "Jesus Christ → Covering the Sinner"
+      }
+    },
+    "grammaticale_analyse": {
+      "subject_check": {
+        "god_als_subject_count": "42",
+        "mens_als_subject_count": "35",
+        "ratio": "1.2",
+        "voorbeelden_god_subject": [
+          "God has to forgive you",
+          "Jesus Christ was uncovered for me",
+          "He paid your debt"
+        ],
+        "voorbeelden_mens_subject": [
+          "I acknowledged my sin",
+          "We don't like to talk about sin",
+          "You need to take full responsibility"
+        ],
+        "rutledge_score": "9"
+      },
+      "modale_analyse": {
+        "devoir_faire": {
+          "prominentie": "4",
+          "voorbeelden": [
+            "You need a clear standard",
+            "You must be controlled by bit and bridle"
+          ]
+        },
+        "vouloir_faire": {
+          "prominentie": "6",
+          "voorbeelden": [
+            "I realized the reason I wanted to steal",
+            "You start to hate the sin"
+          ]
+        },
+        "savoir_faire": {
+          "prominentie": "5",
+          "voorbeelden": [
+            "The Bible... will teach us three things"
+          ]
+        },
+        "pouvoir_faire": {
+          "prominentie": "9",
+          "voorbeelden": [
+            "He can always get the stain out",
+            "God is greater than our hearts",
+            "He can silence that voice"
+          ]
+        },
+        "dominante_modaliteit": "POUVOIR",
+        "modale_interpretatie": "The sermon focuses on the 'Pouvoir' (Power) of God to do what the human 'Devoir' (Obligation) cannot achieve."
+      }
+    },
+    "semiotisch_vierkant_analyse": {
+      "primaire_tegenstelling": {
+        "s1": "Covered (Grace/Forgiveness)",
+        "s2": "Uncovered (Judgment/Exposure)",
+        "niet_s1": "Self-Covering (Moralism/Denial)",
+        "niet_s2": "Exposed but Unforgiven (Despair/Kafkaesque guilt)"
+      },
+      "beweging_in_preek": "Moves from the 'Uncovered' state of modern guilt (S2) to the failure of 'Self-Covering' (~S1), then to Christ being 'Uncovered' (S2) so the sinner can be 'Covered' (S1).",
+      "theologische_resolutie": "Substitutionary atonement: Christ takes S2 to provide S1.",
+      "ernst_van_s2": "Very high; exposure is described as 'hell' and 'intolerable'."
+    },
+    "diagnostische_evaluatie": {
+      "primaire_classificatie": "GRACE",
+      "classificatie_toelichting": "The sermon is structurally theocentric. While it calls for human action (confession), it grounds the possibility and efficacy of that action entirely in the finished work of Christ.",
+      "indicatoren_moralisme": [
+        {
+          "indicator": "Focus on human effort in confession",
+          "tekstueel_bewijs": "You need to take full responsibility for what you've done wrong.",
+          "ernst": "LOW"
+        }
+      ],
+      "indicatoren_genade": [
+        {
+          "indicator": "God as the Subject of Salvation",
+          "tekstueel_bewijs": "Jesus Christ was uncovered for me... He paid the price.",
+          "sterkte": "VERY_STRONG"
+        },
+        {
+          "indicator": "Unconditional Basis of Forgiveness",
+          "tekstueel_bewijs": "God has to forgive you... It would be unjust for him not to.",
+          "sterkte": "STRONG"
+        }
+      ],
+      "exemplarisme_check": {
+        "aanwezig": false,
+        "beschrijving": "David is used as a fellow-sufferer and recipient of grace, not a moral hero to emulate.",
+        "bijbelse_figuren_als_model": [
+          "David",
+          "Paul"
+        ],
+        "alternatieve_lezing": "The sermon already provides a theocentric reading: God saves David, God justifies Paul."
+      },
+      "identificatie_patroon": {
+        "hoorder_identificeert_met": "RECEIVER_SAVED",
+        "effect_op_hoorder": "Relief from guilt and 'the voice' of condemnation.",
+        "theologische_implicatie": "Monergistic justification leads to psychological liberation."
+      },
+      "narratieve_coherentie": {
+        "coherentie_score": "10",
+        "coherentie_beschrijving": "The transition from the problem of sin to the solution in Christ is logically and narratively seamless.",
+        "spanning_punten": [
+          "The tension between God's justice and mercy is resolved through the 'legal' payment of Christ."
+        ]
+      }
+    },
+    "theologische_diepte_analyse": {
+      "soteriologie": {
+        "primaire_model": "SUBSTITUTION",
+        "tekstueel_bewijs": "He was uncovered so that our sins could be covered.",
+        "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+      },
+      "pneumatologie": {
+        "rol_heilige_geest": "UNCLEAR",
+        "competentie_schenking": "The sermon focuses more on Christological work than Pneumatological indwelling."
+      },
+      "hamartologie": {
+        "aard_van_zonde": "COSMIC_POWER",
+        "ernst_diagnose": "Critical; sin is a 'poisonous reality' that 'breaks stuff' and requires death to fix."
+      },
+      "eschatologie": {
+        "hoop_structuur": "ALREADY_COMPLETED",
+        "actant_van_voltooiing": "God"
+      }
+    },
+    "aanbevelingen": {
+      "actantiele_audit_samenvatting": "The sermon successfully maintains God as the primary Subject of the saving action.",
+      "subject_herpositionering": {
+        "nodig": false,
+        "huidige_probleem": "None",
+        "voorgestelde_herpositionering": "N/A",
+        "voorbeeld_revisie": "N/A"
+      },
+      "identificatie_herstel": {
+        "nodig": false,
+        "problematische_identificatie": "None",
+        "voorgestelde_identificatie": "N/A",
+        "strategie": "N/A"
+      },
+      "modale_balans": {
+        "huidige_onbalans": "Slightly low on the 'how-to' of the secondary program (sanctification).",
+        "voorgestelde_balans": "Increase 'Pouvoir' of the Spirit in the daily life of the believer.",
+        "concrete_suggestie": "Explicitly link the Holy Spirit's power to the 'hating of sin'."
+      },
+      "tegenstander_intensivering": {
+        "nodig": false,
+        "huidige_status": "Strongly defined as both internal impulse and external condemnation.",
+        "voorgestelde_intensivering": "N/A",
+        "theologische_rationale": "N/A"
+      },
+      "narratieve_hierarchie_herstel": {
+        "nodig": false,
+        "probleem": "None",
+        "voorgestelde_structuur": "Soteriology → Ethics (already present)."
+      },
+      "overall_beoordeling": "EXCELLENT",
+      "slotopmerking": "A masterclass in grace-centered preaching that uses structural analysis to dismantle modern secular guilt and replace it with the 'Covering' of Christ."
+    },
+    "comparatieve_analyse": {
+      "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the use of Kafka and Sartre; semiotic analysis reveals these are 'Opponents' (voices of condemnation) that only the 'Subject' (Christ) can defeat.",
+      "verschil_met_exegese": "Exegesis would focus on the Hebrew words pesha and chata'ah; semiotics shows how these words function as the 'Lack' that initiates the narrative arc.",
+      "unieke_inzichten_greimas": "Greimas reveals that the 'True Love' in the fairy tale is a functional equivalent to the 'Subject' in the soteriological program."
+    },
+    "appendices": {
+      "volledige_subject_lijst": [
+        "God forgave",
+        "Jesus paid",
+        "I acknowledged",
+        "The Lord surrounds"
+      ],
+      "volledige_object_lijst": [
+        "Forgiveness",
+        "Covering",
+        "The Tunic",
+        "The Heart"
+      ],
+      "werkwoord_frequentie": {
+        "forgive": {
+          "count": "12",
+          "primair_subject": "God"
+        },
+        "confess": {
+          "count": "15",
+          "primair_subject": "Man"
+        },
+        "cover": {
+          "count": "18",
+          "primair_subject": "God"
+        }
+      },
+      "notities": "The sermon uses a 'Subject-switch' where the hearer's attempt to cover themselves fails, and Christ becomes the Subject who covers them."
+    }
+  }
+]

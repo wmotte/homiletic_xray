@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "titel_preek": "Trost ohne Gerechtigkeit: Wie die Bibel entstellt wird",
+    "bijbeltekst": "Jesaja 62",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "The narrative describes the transformation of passive, silenced believers into active 'watchmen' who demand justice from God and engage in political liberation to establish a city of righteousness.",
+      "subject": {
+        "identificatie": "The 'We' (Christians/Activists/Watchmen)",
+        "tekstueel_bewijs": [
+          "Wir versuchen mit dieser Aktion, etwas für die Leute in El Salvador zu tun",
+          "Wir brauchen die Realität der Menschen",
+          "Eben das muss ich immer wieder von Neuem lernen"
+        ],
+        "frequentie_score": "8"
+      },
+      "object": {
+        "identificatie": "Justice and Social Liberation (Jerusalem as a city of righteousness)",
+        "tekstueel_bewijs": [
+          "bis dass wie Lichtglanz sein Recht hervorbricht",
+          "Kampf für Befreiung",
+          "Gerechtigkeit"
+        ],
+        "aard_van_object": "ETHICAL"
+      },
+      "zender": {
+        "identificatie": "The Prophet/The Text (as a call to action)",
+        "tekstueel_bewijs": [
+          "Die Wächter sollen nicht schweigen, sagt unser Text"
+        ],
+        "rol_interpretatie": "LAWGIVER"
+      },
+      "ontvanger": {
+        "identificatie": "The Oppressed (El Salvador, Soweto, etc.) and the Hearers",
+        "tekstueel_bewijs": [
+          "etwas für die Leute in El Salvador zu tun",
+          "nimmer verlassene Stadt, in der niemand einsam zu sein hat"
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Social analysis, political awareness, and the 'Dream of the man from Nazareth'",
+        "tekstueel_bewijs": [
+          "wir brauchen den sozialen und ökonomischen Hintergrund",
+          "dem Traum des Mannes aus Nazareth anhängen"
+        ],
+        "rol_van_god": "God is the Object of the watchmen's demands (the one who must be reminded), not the primary Subject.",
+        "rol_van_geest": "Absent"
+      },
+      "tegenstander": {
+        "identificatie": "Silence, Church Tradition, Academic Neutrality, and Colonialism",
+        "tekstueel_bewijs": [
+          "das herrschende Schweigen",
+          "kirchliche Auswahl",
+          "Wissenschaft... als eine Art Panzer"
+        ],
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily a structural and psychological barrier to activism rather than a cosmic or ontological power."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": "true",
+      "beschrijving": "God's action in restoring Jerusalem.",
+      "subject": "God",
+      "object": "Restoration of Jerusalem",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "God's action is conditional upon the Subject (Watchmen) not giving Him rest. The human program triggers the divine program."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "Prophetic Text → Justice/Liberation → The Oppressed",
+      "helper_subject_tegenstander": "Social Awareness → The Activist/We ← Silence/Church Tradition",
+      "subject_naar_object": "The Watchmen → Reminding God/Establishing Justice"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "22",
+      "ratio": "0.18",
+      "voorbeelden_god_subject": [
+        "bis er Jerusalem aufrichtet",
+        "Gott, der Gerechtigkeit schafft"
+      ],
+      "voorbeelden_mens_subject": [
+        "Wir versuchen mit dieser Aktion...",
+        "Ich schreibe diese Zeilen...",
+        "Wir brauchen die Realität...",
+        "Sie rufen und rufen..."
+      ],
+      "rutledge_score": "2"
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": "9",
+        "voorbeelden": [
+          "Die Wächter sollen nicht schweigen",
+          "Eben das muss ich immer wieder von Neuem lernen"
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": "7",
+        "voorbeelden": [
+          "Wir versuchen...",
+          "dem Traum... anhängen"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": "8",
+        "voorbeelden": [
+          "Um die Bibel richtig zu verstehen, brauchen wir den sozialen und ökonomischen Hintergrund"
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": "4",
+        "voorbeelden": [
+          "Es wird für sie möglich, Gott zu loben, wenn sie sich eins wissen mit dem Kampf"
+        ]
+      },
+      "dominante_modaliteit": "DEVOIR",
+      "modale_interpretatie": "The sermon is heavily focused on the obligation (Devoir) and the cognitive competence (Savoir) of the believer to act. Power (Pouvoir) is derived from political solidarity rather than divine endowment."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Justice/Political Action",
+      "s2": "Injustice/Oppression",
+      "niet_s1": "Silence/False Piety",
+      "niet_s2": "Cheap Comfort"
+    },
+    "beweging_in_preek": "From ~S1 (Silence/Church tradition) to S1 (Activism/Watchmen).",
+    "theologische_resolutie": "Resolution is found in the 'Watchman' breaking the silence to force God's hand.",
+    "ernst_van_s2": "S2 is taken very seriously as social suffering, but less so as a spiritual/ontological condition."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "While the sermon uses the language of liberation, the actantial structure is anthropocentric. The human 'We' is the primary subject of change, and God is the object of human persuasion.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Anthropocentric Subjectivity",
+        "tekstueel_bewijs": "Wir versuchen mit dieser Aktion, etwas für die Leute in El Salvador zu tun.",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Conditional Grace",
+        "tekstueel_bewijs": "Es wird für sie möglich, Gott zu loben, wenn sie sich eins wissen mit dem Kampf für Befreiung.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Identification with the suffering",
+        "tekstueel_bewijs": "Die Stadt wird hier mit einer Frau verglichen...",
+        "sterkte": "MODERATE"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": "true",
+      "beschrijving": "The Prophet and the 'Watchmen' are used as models for the hearer to emulate.",
+      "bijbelse_figuren_als_model": [
+        "Der Prophet",
+        "Wächter"
+      ],
+      "alternatieve_lezing": "God is the Watchman who never slumbers or sleeps (Psalm 121), who Himself breaks the silence of death."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Pressure to perform; guilt for silence; call to activism.",
+      "theologische_implicatie": "Soteriology is equated with political liberation achieved through human vigilance."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "The sermon is coherent in its political-theological framework, but the narrative hierarchy is inverted: the secondary program (ethics) has swallowed the primary program (soteriology).",
+      "spanning_punten": [
+        "God is 'reminded' by humans, implying God might otherwise forget or remain passive."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "dem Traum des Mannes aus Nazareth anhängen",
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "ABSENT",
+      "competentie_schenking": "Competence is gained through social analysis and 'learning' to speak."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "SOCIAL",
+      "ernst_diagnose": "Sin is identified as silence, colonialist structures, and academic detachment."
+    },
+    "eschatologie": {
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man (as the one who forces God to act)"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "The sermon functions as a recruitment speech for political activism. God is a passive recipient of human petitions rather than the initiator of salvation.",
+    "subject_herpositionering": {
+      "nodig": "true",
+      "huidige_probleem": "The 'We' is the subject of almost all transformative verbs.",
+      "voorgestelde_herpositionering": "Make God the subject who calls the watchmen and who guarantees the justice He promises.",
+      "voorbeeld_revisie": "Instead of 'We must remind God,' use 'God has promised He will not rest, and He enlists us in His movement.'"
+    },
+    "identificatie_herstel": {
+      "nodig": "true",
+      "problematische_identificatie": "Hearer as the 'Heroic Watchman'.",
+      "voorgestelde_identificatie": "Hearer as the 'Receiver' of God's unmerited justice.",
+      "strategie": "Emphasize that the 'Korn' and 'Wein' are gifts from God before they are fruits of labor."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominance of Devoir (Must).",
+      "voorgestelde_balans": "Increase Pouvoir (Grace as empowerment).",
+      "concrete_suggestie": "Focus on how the Spirit gives speech to the 'gelähmt und sprachlos'."
+    },
+    "tegenstander_intensivering": {
+      "nodig": "true",
+      "huidige_status": "Opponent is 'silence' or 'bad theology'.",
+      "voorgestelde_intensivering": "Identify the 'Opponent' as the power of Death which only God can conquer.",
+      "theologische_rationale": "If the opponent is just 'silence', the solution is just 'talking'. If the opponent is Death, we need a Savior."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": "true",
+      "probleem": "Ethics (Program 2) is the only program.",
+      "voorgestelde_structuur": "Establish God's definitive action in Christ (Program 1) as the ground for political witness (Program 2)."
+    },
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "The passion for justice is commendable, but the sermon risks exhausting the hearer by making the restoration of the world dependent on human vigilance."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Rhetorically, this is a powerful call to justice; actantially, it is a work-righteousness of activism.",
+    "verschil_met_exegese": "Exegesis focuses on the historical Isaiah; Greimas reveals the preacher has replaced the Divine Subject with a Political Subject.",
+    "unieke_inzichten_greimas": "Greimas exposes that 'God' in this sermon is a 'Destinataire' (Receiver) of human demands rather than the 'Destinateur' (Sender) of grace."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Wir (fasten/beten)",
+      "Wir (versuchen)",
+      "Ich (lese)",
+      "Menschen (kämpfen)",
+      "Wir (brauchen)",
+      "Wächter (schweigen nicht)",
+      "Prophet (identifiziert sich)",
+      "Ich (muss lernen)",
+      "Wir (sind diese Wächter)"
+    ],
+    "volledige_object_lijst": [
+      "Gerechtigkeit",
+      "Befreiung",
+      "Jerusalem",
+      "Korn und Wein"
+    ],
+    "werkwoord_frequentie": {
+      "schweigen": {
+        "count": "6",
+        "primair_subject": "Man"
+      },
+      "handeln/tun": {
+        "count": "4",
+        "primair_subject": "Man"
+      },
+      "aufrichten": {
+        "count": "1",
+        "primair_subject": "God"
+      }
+    },
+    "notities": "The sermon is a classic example of 'Liberation Theology' where the actantial subject is shifted to the 'poor' or the 'solidary Christian'."
+  }
+}

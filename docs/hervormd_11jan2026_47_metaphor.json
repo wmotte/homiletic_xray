@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "titel_preek": "51_Westerhaar - De Doop van Jezus",
+    "bijbeltekst": "Mattheüs 3",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Dit is mijn geliefde Zoon",
+          "In Hem vind ik vreugde",
+          "kinderen van de hemelse Vader",
+          "zonen en dochters van God"
+        ],
+        "conceptuele_metafoor": "GOD IS FATHER / BELIEVERS ARE CHILDREN"
+      },
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "voor de schuld van de mensen te betalen",
+          "verkeerde dingen van hen overnemen",
+          "Wat een rijkdom"
+        ],
+        "conceptuele_metafoor": "SIN IS DEBT / SALVATION IS ECONOMIC TRANSACTION"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "de weg om alle gerechtigheid te vervullen",
+          "die weg eindigt aan het kruis",
+          "we kunnen hem niet volgen"
+        ],
+        "conceptuele_metafoor": "LIFE/MINISTRY IS A PATH"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "4",
+        "kernfrasen": [
+          "me laten besmetten door hun schuld"
+        ],
+        "conceptuele_metafoor": "SIN IS A CONTAGIOUS DISEASE"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Ik wil me laten besmetten door hun schuld.",
+        "brondomein": {
+          "naam": "Sickness/Contagion",
+          "concrete_elementen": [
+            "besmetting",
+            "virus/bacterie",
+            "overdracht"
+          ],
+          "belichaamde_basis": "container (body being invaded)"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Atonement / Substitution",
+          "doctrinale_traditie": "Reformed/Substitutionary Atonement"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Pathogen",
+            "doel_element": "Sin/Guilt"
+          },
+          {
+            "bron_element": "Infection",
+            "doel_element": "Taking on human nature/sin"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Sin is something that can be 'caught' or transferred physically."
+          ],
+          "theologische_implicaties": [
+            "Christ's holiness is put at risk by human proximity."
+          ],
+          "ethische_implicaties": [
+            "Solidarity with the 'unclean' or marginalized."
+          ],
+          "onbedoelde_consequenties": [
+            "Sin seen as a passive condition rather than an active choice."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The use of 'besmetten' (contaminate/infect) in the context of baptism is a fresh, visceral way to describe the Incarnation."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully bridges the 'Relational' domain (Father/Son) with the 'Economic' domain (Debt/Payment) by using the concept of 'Gerechtigheid' (Righteousness/Justice) as the link.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Midden van de preek",
+          "metafoor_a": "Jezus als Vriend/Redder",
+          "metafoor_b": "Jezus als degene die schuld betaalt",
+          "conflict_beschrijving": "The shift from an intimate friendship to a legal/financial transaction is abrupt.",
+          "entailment_conflict": "Friends don't usually 'pay off' each other's legal debts in a courtroom setting; it changes the power dynamic.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Slot",
+          "gemengde_metaforen": [
+            "Genade (Gift)",
+            "Verbinding (Relational)"
+          ],
+          "blending_strategie": "The preacher uses the 'Child' status to explain why the 'Gift' is unconditional."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "The use of 'besmetten' (contaminate) for the baptism of Jesus gives a physical, urgent sense to the doctrine of substitution.",
+        "voorbeeld": "Ik wil me laten besmetten door hun schuld."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "COMMODIFICATION",
+        "beschrijving": "Frequent use of 'paying' and 'wealth' can reduce faith to a balance sheet.",
+        "voorbeeld": "om zo voor de schuld van de mensen te betalen",
+        "potentiele_impact": "Congregation views God as a bookkeeper.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The Jordan River during Jesus' baptism.",
+      "sub_worlds": [
+        "The modern church during a baptism service",
+        "The cross at Golgotha",
+        "The domestic 'home' world (reading children's bibles)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Climax",
+          "van_wereld": "Historical Jordan",
+          "naar_wereld": "Present day congregation",
+          "effectiviteit": "High; it makes the 'voice from heaven' audible to the modern hearer."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Father",
+          "hoe_versterkt": "Repeated emphasis on the 'Beloved Son' and 'Heavenly Father'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Baptism as human achievement",
+          "verstoring_strategie": "Emphasizing that infants do nothing.",
+          "vervangend_schema": "Baptism as pure Grace/Gift."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Perfectly aligned with the 'Dopelingendienst' (Baptism service)."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by Relational and Economic metaphors. It successfully portrays God as a loving Father while maintaining a Reformed focus on the 'payment' of sin. However, the transition between 'sin as debt' and 'sin as sickness' (besmetting) is brief and could be explored more deeply to avoid confusion.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "SIN IS DEBT",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Connect the 'payment' to the 'contamination' metaphor to show the cost is not just money, but health/life.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Jezus betaalt niet met geld, maar met zijn eigen gezonde leven voor onze zieke schuld."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The King vs. The Servant",
+        "resolutie_strategie": "Use the 'Adoption' metaphor more explicitly to show how the King's Son makes us royalty too."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOD IS FATHER",
+        "problematisch_entailment": "Can imply a passive, 'spoiled' child.",
+        "aanbeveling": "Balance with the 'Discipleship as Journey' metaphor to emphasize growth."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To describe the 'foundation' of the church/family in the context of raising children.",
+        "doel_concept": "Christian Upbringing"
+      }
+    ],
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A solid, theologically grounded sermon that uses familial metaphors effectively to comfort and instruct parents."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Instead of just noting the beauty of the 'dove' imagery, CMT shows how the 'Open Heaven' functions as a Container metaphor (breaking the barrier between God and man).",
+    "verschil_met_kolb": "While Kolb would focus on the learning styles (experience/reflection), CMT focuses on the underlying conceptual structures like 'Gerechtigheid' as a 'Path'.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher views sin primarily as a substance that can be transferred (besmetting) or a debt that can be paid, which dictates the logic of the atonement presented."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Hemel gaat open",
+      "Witte duif",
+      "Stem uit de hemel",
+      "Weg eindigt aan het kruis",
+      "Schuld betalen",
+      "Besmetten door schuld",
+      "Rijkdom van de doop",
+      "Vrede in je hart"
+    ],
+    "woord_frequentie_analyse": {
+      "doop": "18",
+      "Jezus": "22",
+      "kinderen": "12",
+      "gerechtigheid": "6",
+      "schuld": "5"
+    },
+    "notities": "The preacher uses 'Gerechtigheid' as a central pivot point between legal and relational domains."
+  }
+}

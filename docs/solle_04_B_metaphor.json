@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "titel_preek": "Der Baum der Erkenntnis und der Baum des Lebens",
+    "bijbeltekst": "Genesis 3",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Coming out",
+          "herauskommen",
+          "Weg zur Menschwerdung",
+          "Stufe seines Lebens verlässt"
+        ],
+        "conceptuele_metafoor": "LIBERATION IS A JOURNEY OUT OF CONFINEMENT"
+      },
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "Austreibung ist eine Phase des Gebärens",
+          "Frucht wird ausgetrieben aus dem Mutterleib",
+          "Eltern vor ihren Kindern, die ihnen über den Kopf wachsen"
+        ],
+        "conceptuele_metafoor": "CREATION/FALL IS CHILDBIRTH"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Beleidigungstradition",
+          "legalistische Veränderung",
+          "bestraft",
+          "verflucht"
+        ],
+        "conceptuele_metafoor": "TRADITION IS A LEGAL INJURY"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Austreibung ist eine Phase des Gebärens",
+        "brondomein": {
+          "naam": "Obstetrics/Childbirth",
+          "concrete_elementen": [
+            "Mutterleib",
+            "Frucht",
+            "Austreibung",
+            "Schmerz"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "The Fall / Expulsion from Eden",
+          "doctrinale_traditie": "Feminist Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Mutterleib (Womb)",
+            "doel_element": "Garden of Eden"
+          },
+          {
+            "bron_element": "Austreibung (Expulsion/Birth)",
+            "doel_element": "The Fall/Sin"
+          },
+          {
+            "bron_element": "Neugeborenes (Newborn)",
+            "doel_element": "Autonomous Humanity"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The Fall is necessary for growth",
+            "Pain is a byproduct of development, not just punishment"
+          ],
+          "theologische_implicaties": [
+            "Original Sin is reframed as Original Maturation",
+            "God as Midwife rather than Executioner"
+          ],
+          "ethische_implicaties": [
+            "Embrace the struggle of independence",
+            "Validation of female biological experience as a theological lens"
+          ],
+          "onbedoelde_consequenties": [
+            "May minimize the moral gravity of 'disobedience' by naturalizing it"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the biological reality of birth to disrupt the 'Dead' metaphor of the Fall as a purely downward moral collapse."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully links the biological metaphor of birth with the political metaphor of 'Coming Out', creating a unified theme of 'Emergence'.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "GOD IS MIDWIFE (Birth)",
+          "metafoor_b": "GOD IS TAILOR (Clothing)",
+          "conflict_beschrijving": "The shift from the internal biological process of birth to the external provision of clothing creates a slight functional jump.",
+          "entailment_conflict": "Birth implies autonomy; clothing implies dependency/protection.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Middle section",
+          "gemengde_metaforen": [
+            "Genesis 3",
+            "Coming Out (LGBTQ+ movement)"
+          ],
+          "blending_strategie": "The preacher uses the spatial logic of 'leaving a restricted space' to bridge biblical narrative and modern identity politics."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Transforms the 'Fall' from a static state of shame into a dynamic process of birth.",
+        "voorbeeld": "Austreibung ist eine Phase des Gebärens."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "The gravity of sin is replaced by the necessity of growth, potentially losing the concept of moral transgression.",
+        "voorbeeld": "Schiller hat den so genannten Sündenfall als den glücklichsten Moment der Weltgeschichte verstanden.",
+        "potentiele_impact": "Congregation may view all conflict as 'growth' rather than needing repentance.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A cold, harsh world outside the garden where humanity must work and learn.",
+      "sub_worlds": [
+        "The 'Beleidigungstradition' (a world of historical linguistic injury)",
+        "The 'Mutterleib' (the pre-conscious safety of Eden)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Introduction",
+          "van_wereld": "Abstract theology",
+          "naar_wereld": "The physical reality of being a woman in history",
+          "effectiviteit": "High"
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Provider",
+          "hoe_versterkt": "Reinforced through the image of God making coats of skins."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "The Fall as a 'Mistake'",
+          "verstoring_strategie": "Reframing it as 'Coming Out' and 'Birth'.",
+          "vervangend_schema": "The Fall as Maturation."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits a service focused on liberation or feminist perspectives."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by 'Spatial' and 'Biological' metaphors. It moves from the 'Container' of the womb/Eden to the 'Path' of the world. It successfully challenges the 'Juridical' domain (guilt/punishment) by overwriting it with 'Developmental' imagery.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "The Serpent",
+        "huidige_status": "Conventional/Evil",
+        "suggestie": "Deepen the source domain of the serpent as a symbol of 'shedding skin' to match the birth/growth theme.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The snake sheds its skin just as we shed the 'Beleidigungstradition'."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "God as jealous parent vs. God as provider of clothes.",
+        "resolutie_strategie": "Explicitly bridge the two by describing the clothes as a 'parental blessing' for a child leaving home."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "COMING OUT",
+        "problematisch_entailment": "Implies that the 'Garden' was a closet or a place of deception.",
+        "aanbeveling": "Clarify that Eden was 'good' but 'incomplete' for adult humanity."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To describe the 'Beleidigungstradition' as a prison or a house with no rooms for women.",
+        "doel_concept": "Systemic Patriarchy"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in metaphorical reframing that uses CMT principles to liberate a text from toxic interpretations."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "Focuses on how 'Birth' logic changes the hearer's view of God, not just the beauty of the birth imagery.",
+    "verschil_met_kolb": "Moves beyond 'experience' to the cognitive structures that make the experience meaningful.",
+    "unieke_inzichten_CMT": "Reveals that the preacher is using the 'CONTAINER' image schema to redefine the entire history of salvation."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Erbe der Tradition",
+      "Beleidigungstradition",
+      "Rippe bis zur Hexe",
+      "stummer Teil",
+      "Baum der Erkenntnis",
+      "Wollust den Augen",
+      "Sündenfall",
+      "Austreibung ist Gebären",
+      "Coming out",
+      "Kälte der Erde",
+      "Röcke von Fellen"
+    ],
+    "woord_frequentie_analyse": {
+      "Frau": "12",
+      "Tradition": "10",
+      "Erkenntnis": "8",
+      "Mensch": "9",
+      "Leben": "11"
+    },
+    "notities": "The sermon relies heavily on the 'UP/DOWN' verticality being replaced by 'IN/OUT' containment logic."
+  }
+}

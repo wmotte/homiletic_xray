@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "titel_preek": "An der Furt – Da rang einer mit ihm bis zur Morgenröte",
+    "bijbeltekst": "Genesis 32:22-32",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "1650"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "Das Leben ist keine Autobahn, sondern eher eine Reise",
+          "über den dunklen Fluss übersetzen",
+          "Lebensübergänge",
+          "Furt des Jabbok"
+        ],
+        "conceptuele_metafoor": "LIFE IS A JOURNEY / TRANSITION IS CROSSING A RIVER"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Da rang einer mit ihm",
+          "überfällt ihn",
+          "Gottesstreiter",
+          "Beten und Kämpfen gehören zusammen"
+        ],
+        "conceptuele_metafoor": "SPIRITUAL LIFE IS A WRESTLING MATCH"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "beschädigt",
+          "Hüfte Jakobs verrenkt",
+          "Heil ihn doch, Gott",
+          "an der Selbstzerstörung ersticken"
+        ],
+        "conceptuele_metafoor": "SUFFERING IS PHYSICAL INJURY / PRAYER IS HEALING"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Das Leben ist keine Autobahn, sondern eher eine Reise",
+        "brondomein": {
+          "naam": "Infrastructure/Travel",
+          "concrete_elementen": [
+            "Autobahn",
+            "Reise",
+            "Unterbrechung"
+          ],
+          "belichaamde_basis": "path"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Human Existence",
+          "doctrinale_traditie": "Existentialist/Liberal"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Autobahn (High-speed, smooth road)",
+            "doel_element": "Easy, predictable life"
+          },
+          {
+            "bron_element": "River crossing",
+            "doel_element": "Painful life transitions"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Life is not meant to be fast and easy",
+            "Obstacles are inherent to the path"
+          ],
+          "theologische_implicaties": [
+            "God is found in the 'interruptions' rather than the smooth progress"
+          ],
+          "ethische_implicaties": [
+            "Patience and endurance are required when the 'road' breaks"
+          ],
+          "onbedoelde_consequenties": [
+            "May imply that a 'smooth' life is less authentic or ungodly"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Contrast between modern 'Autobahn' and ancient 'Journey' re-activates the source domain."
+      },
+      {
+        "metafoor_expressie": "Gott überfällt uns",
+        "brondomein": {
+          "naam": "Ambush/Assault",
+          "concrete_elementen": [
+            "Überfall",
+            "Angreifer",
+            "Dunkle Macht"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Divine Providence/Theodicy",
+          "doctrinale_traditie": "Crisis Theology"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Attacker",
+            "doel_element": "God"
+          },
+          {
+            "bron_element": "Physical struggle",
+            "doel_element": "Spiritual crisis/Prayer"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "God is dangerous and unpredictable",
+            "Suffering is a direct encounter with the Divine"
+          ],
+          "theologische_implicaties": [
+            "Rejection of the 'nice' liberal God",
+            "God is the source of both wound and blessing"
+          ],
+          "ethische_implicaties": [
+            "One must 'wrestle' with God rather than submit passively"
+          ],
+          "onbedoelde_consequenties": [
+            "Could be interpreted as God being the author of evil/abuse"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Shocking imagery that disrupts the 'God is love' schema."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully links the physical geography of the Jabbok (river, night, struggle) to the psychological geography of life transitions and the theological act of prayer.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Ending poem",
+          "metafoor_a": "GOD IS AN ATTACKER/DEMON",
+          "metafoor_b": "GOD IS A BANK",
+          "conflict_beschrijving": "The shift from the visceral physical struggle to a financial metaphor (Bank that forgives debtors) is abrupt.",
+          "entailment_conflict": "Wrestling requires physical presence; a bank is an abstract institution.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Middle section",
+          "gemengde_metaforen": [
+            "Wrestling",
+            "Prayer"
+          ],
+          "blending_strategie": "PRAYER IS WRESTLING: The physical exertion of Jacob is blended with the mental/spiritual exertion of the intercessor."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the 'Jacob at Jabbok' story by mapping it onto modern anxieties (aging, career changes).",
+        "voorbeeld": "Ich habe Angst davor, älter zu werden... den dunklen Fluss vor mir."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The metaphor of God as an 'attacker' or 'demon' could be traumatizing for victims of actual violence.",
+        "voorbeeld": "Gott überfällt uns... Er hat das Gesicht des Bösen.",
+        "potentiele_impact": "Congregants may fear God as an abusive figure.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The riverbank at night (Jabbok), characterized by isolation and physical struggle.",
+      "sub_worlds": [
+        "The room of the hidden Jewish woman (1940s)",
+        "The sickbed of the mother",
+        "The political protest/blockade"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Transition to childhood memory",
+          "van_wereld": "Biblical Jabbok",
+          "naar_wereld": "War-time Germany",
+          "effectiviteit": "Highly effective in grounding the abstract 'transition' in a concrete sensory memory (cold glass)."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Sovereign/Powerful",
+          "hoe_versterkt": "By emphasizing God's ability to 'overpower' and 'wound' the individual."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "God as a 'Tischlein-deck-dich' (Magic Provider)",
+          "verstoring_strategie": "Contrasting the 'liberal error' of a 'nice' God with the 'dark God' of the Jabbok.",
+          "vervangend_schema": "God as the Wrestler/Partner in struggle."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits well with a service focused on lament or transition."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'LIFE IS A JOURNEY' and 'PRAYER IS STRUGGLE' domains. It avoids the 'Economic' domain for most of the text, focusing instead on the 'Physical/Force' domain. This creates a very visceral, embodied experience for the listener.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "GOD IS FATHER",
+        "huidige_status": "Used conventionally at the end.",
+        "suggestie": "Deepen the source by connecting the 'Father' to the 'Wrestler'—a father who trains his child through play-fighting.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "Gott wie ein Vater, der uns im Ringkampf des Lebens die Stirn bietet, damit wir stark werden."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The jump from the 'Dying Mother' to 'Political Blockades'.",
+        "resolutie_strategie": "Use the 'Resistance' (Widerstand) element as the bridge: resisting death and resisting injustice are both forms of 'clutching' God's blessing."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Gott als Überfalltäter (God as Mugger)",
+        "problematisch_entailment": "Muggers are malicious; God is not.",
+        "aanbeveling": "Clarify that the 'attack' is a form of 'severe mercy' or 'transformative crisis' rather than random malice."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To describe the 'breaking' of old life structures and the 'founding' of the new name/identity.",
+        "doel_concept": "Conversion/Identity change"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful, cognitively rich sermon that uses CMT to bridge the gap between ancient text and modern existential crisis."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'dark river' imagery; CMT shows how this imagery functions as a cognitive map for navigating grief.",
+    "verschil_met_kolb": "Kolb would focus on the 'experience' of the mother; CMT focuses on how the 'mother's death' is mapped onto the 'river crossing' schema.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher is systematically replacing the 'God is a Life Coach' schema with a 'God is a Combatant' schema to increase theological resilience."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Leben ist keine Autobahn",
+      "Dunkler Fluss",
+      "Risse und Abbrüche",
+      "Schutzmechanismen",
+      "Gott überfällt uns",
+      "Blutsauger/Dämon",
+      "Eingezweckt in die Welt",
+      "Ich lasse dich nicht",
+      "Gottesstreiter",
+      "Tischlein-deck-dich-Gott",
+      "Eingekapselt",
+      "Wasser des Lebens",
+      "Bank die vergibt"
+    ],
+    "woord_frequentie_analyse": {
+      "ringen": "12",
+      "Gott": "28",
+      "Fluss": "8",
+      "Angst": "10",
+      "Segen": "15"
+    },
+    "notities": "The sermon relies heavily on 'Force' and 'Path' image schemas."
+  }
+}

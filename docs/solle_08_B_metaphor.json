@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "titel_preek": "Trost ohne Gerechtigkeit: Wie die Bibel entstellt wird",
+    "bijbeltekst": "Jesaja 62",
+    "analyse_datum": "2023-10-27",
+    "geschat_aantal_woorden": "550"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "ECONOMIC",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "Korn sammeln, die sollen es essen",
+          "Wein trinken, den du erarbeitet hast",
+          "sozialen und ökonomischen Hintergrund",
+          "nicht an Aktien und Bomben glauben"
+        ],
+        "conceptuele_metafoor": "JUSTICE IS THE RIGHT TO CONSUME ONE'S OWN LABOR"
+      },
+      {
+        "domein_type": "MILITARY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "Wissenschaft als eine Art Panzer",
+          "Kampf für Befreiung",
+          "Feinden zur Speise geben"
+        ],
+        "conceptuele_metafoor": "THEOLOGICAL DISCOURSE IS DEFENSIVE WARFARE"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "Steine wegräumen",
+          "nicht rasten",
+          "Wegbereitung"
+        ],
+        "conceptuele_metafoor": "SOCIAL LIBERATION IS CLEARING A PATH"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "Wissenschaft... benutzt als eine Art Panzer",
+        "brondomein": {
+          "naam": "MILITARY/ARMOR",
+          "concrete_elementen": [
+            "Panzer (Tank/Armor)",
+            "protection from impact",
+            "isolation"
+          ],
+          "belichaamde_basis": "CONTAINER"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Academic Theology/Neutrality",
+          "doctrinale_traditie": "Liberation Theology (Critique of Scholasticism)"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Armor/Tank",
+            "doel_element": "Academic objectivity"
+          },
+          {
+            "bron_element": "External projectiles",
+            "doel_element": "Human suffering/Historical reality"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Theology is used to keep reality at a distance.",
+            "Neutrality is a weapon of self-defense against empathy."
+          ],
+          "theologische_implicaties": [
+            "Theology without 'Betroffenheit' (emotional impact) is dead and defensive."
+          ],
+          "ethische_implicaties": [
+            "The scholar is complicit in injustice by remaining 'protected' from it."
+          ],
+          "onbedoelde_consequenties": [
+            "Suggests that all systematic or academic study is inherently obstructive to faith."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher revitalizes the dead metaphor of 'academic shield' by using the heavy, modern imagery of a 'Panzer' (tank/armor)."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The sermon is tightly bound by the tension between 'Silence' (Injustice) and 'Voice/Song' (Justice). The economic and military metaphors serve this central binary.",
+      "incoherentie_punten": [
+        {
+          "locatie": "Conclusion",
+          "metafoor_a": "Wächter (Military/Security)",
+          "metafoor_b": "Singen (Aesthetic/Joy)",
+          "conflict_beschrijving": "The 'Watchman' is a figure of vigilance and potential violence, while 'Singing' implies peace and celebration.",
+          "entailment_conflict": "A watchman's duty is to look for danger; a singer's duty is to express beauty. The preacher attempts to merge them as 'vocal activism'.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Paragraph 2",
+          "gemengde_metaforen": [
+            "Economic Labor",
+            "Liturgical Praise"
+          ],
+          "blending_strategie": "The preacher argues that liturgical 'Praise' is impossible without 'Economic Justice', making the stomach a prerequisite for the soul."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Re-activates the agrarian metaphors of Isaiah by mapping them onto modern El Salvador (coffee/corn/labor).",
+        "voorbeeld": "die das Korn sammeln, die sollen es essen"
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The Kingdom of God (Jerusalem) is almost entirely collapsed into socio-political liberation.",
+        "voorbeeld": "Jerusalem der Name der Stadt ist, in der Gerechtigkeit wohnt, auch in unseren Städten",
+        "potentiele_impact": "Congregation may view faith solely as political activism, losing the transcendent dimension.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "A prayer vigil in Washington D.C. during Holy Week.",
+      "sub_worlds": [
+        "The war-torn fields of El Salvador",
+        "The academic lecture hall of a German church leader",
+        "The eschatological 'Singing City' of the Shakers"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 1",
+          "van_wereld": "Washington D.C. (Present)",
+          "naar_wereld": "Isaiah's Jerusalem (Biblical Past)",
+          "effectiviteit": "High - creates a sense of 'prophetic now'."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Liberator",
+          "hoe_versterkt": "By emphasizing God's intolerance for stolen labor."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Theology as Abstract Truth",
+          "verstoring_strategie": "Using the 'Panzer' metaphor to frame abstraction as a cowardly defense mechanism.",
+          "vervangend_schema": "Theology as 'Betroffenheit' (being affected/moved)."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Strongly challenges the 'Perikopenordnung' (lectionary) for its omissions."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'JUSTICE IS PHYSICAL SUSTENANCE' and 'SILENCE IS COMPLICITY' metaphors. It successfully moves away from 'Dead' ecclesiastical language into 'Living' political reality. However, it risks a purely horizontal mapping where the 'Target' (God's Kingdom) is entirely consumed by the 'Source' (Social Justice).",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Wächter (Watchman)",
+        "huidige_status": "Risk of being seen as 'police' or 'superhuman'.",
+        "suggestie": "Deepen the source domain by describing the physical exhaustion and vulnerability of a night watchman.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The watchman whose eyes sting from the cold wind of the night."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The transition from 'Panzer' (Academic) to 'Lying through silence'.",
+        "resolutie_strategie": "Connect the 'Armor' of the academic to the 'Gag' of the silent woman to show how both prevent the 'Song' of truth."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "Theology as a Panzer",
+        "problematisch_entailment": "If theology is a tank, the preacher (as an activist) might be seen as an anti-tank weapon, which introduces a violent subtext.",
+        "aanbeveling": "Balance with the 'Healing' domain to ensure the 'Song' is not just a battle cry."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "MEDICAL",
+        "rationale": "To address the 'paralysis' and 'speechlessness' the preacher felt in the lecture hall as a condition needing healing.",
+        "doel_concept": "Restoration of the prophetic voice"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A powerful example of how CMT can expose the political implications of 'neutral' religious language."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'Shaker song' imagery; CMT reveals that the song is a cognitive shift from 'lying silence' to 'truthful existence'.",
+    "verschil_met_kolb": "Unlike Kolb's learning cycles, CMT focuses on how the 'Panzer' metaphor physically structures the hearer's rejection of academic distance.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is not just 'using' metaphors, but is attempting to overwrite the 'RELIGION IS PRIVATE' schema with 'FAITH IS PUBLIC LABOR'."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Korn als Speise",
+      "Wein trinken",
+      "Trost ohne Gerechtigkeit",
+      "Wächter",
+      "Lichtglanz des Rechts",
+      "Steine wegräumen",
+      "Wissenschaft als Panzer",
+      "Arbeiter im Weinberg",
+      "Traum des Mannes aus Nazareth",
+      "Durch Schweigen lügen"
+    ],
+    "woord_frequentie_analyse": {
+      "schweigen": "6",
+      "Gerechtigkeit": "4",
+      "Wächter": "5",
+      "Gott": "7",
+      "Menschen": "5"
+    },
+    "notities": "The sermon is a classic of 20th-century Liberation Theology, using cognitive dissonance (omitted verses) to trigger a schema re-evaluation."
+  }
+}

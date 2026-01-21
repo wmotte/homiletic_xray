@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "titel_preek": "Living With Change",
+    "bijbeltekst": "Isaiah 40:6–8",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1150"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
+        "kernfrasen": [
+          "mortal journey",
+          "keep moving",
+          "on the march",
+          "trudging a weary and rough way",
+          "pilgrimage seems hopeless"
+        ],
+        "conceptuele_metafoor": "LIFE IS A JOURNEY"
+      },
+      {
+        "domein_type": "AGRARIAN",
+        "prominentie_score": "8",
+        "kernfrasen": [
+          "All flesh is grass",
+          "flower of the field",
+          "grass withereth",
+          "flower fadeth"
+        ],
+        "conceptuele_metafoor": "HUMAN EXISTENCE IS VEGETATION"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "sailing on a restless sea",
+          "bounding tempestuous sea",
+          "How shall we steer?",
+          "North Star"
+        ],
+        "conceptuele_metafoor": "LIFE IS A SEA VOYAGE"
+      },
+      {
+        "domein_type": "ARCHITECTURAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "architecture of Babylonian power",
+          "unsupported by the Rock of Ages",
+          "erected upon shifting sand"
+        ],
+        "conceptuele_metafoor": "POLITICAL POWER IS A BUILDING"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "All flesh is grass",
+        "brondomein": {
+          "naam": "Plant Life Cycle",
+          "concrete_elementen": [
+            "grass",
+            "withering",
+            "fading",
+            "seasonal growth"
+          ],
+          "belichaamde_basis": "cycle/balance"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Human Mortality",
+          "doctrinale_traditie": "Biblical/Prophetic"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Greenery",
+            "doel_element": "Human vitality"
+          },
+          {
+            "bron_element": "Withering",
+            "doel_element": "Death/Aging"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Human life is temporary and fragile",
+            "Beauty is fleeting"
+          ],
+          "theologische_implicaties": [
+            "Creaturely dependence on the Creator",
+            "Inevitability of judgment/end"
+          ],
+          "ethische_implicaties": [
+            "Humility regarding one's status",
+            "Detachment from material success"
+          ],
+          "onbedoelde_consequenties": [
+            "Potential nihilism if the 'Word' is not emphasized"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "While biblical, the preacher revitalizes it by contrasting it with the 'masonry' of Babylon."
+      },
+      {
+        "metafoor_expressie": "The North Star",
+        "brondomein": {
+          "naam": "Celestial Navigation",
+          "concrete_elementen": [
+            "Pole Star",
+            "navigator",
+            "compass",
+            "fixed position"
+          ],
+          "belichaamde_basis": "verticality/orientation"
+        },
+        "doeldomein": {
+          "theologisch_concept": "The Word of God",
+          "doctrinale_traditie": "Orthodox/Reformed"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Fixed Star",
+            "doel_element": "Eternal Word"
+          },
+          {
+            "bron_element": "Navigator",
+            "doel_element": "Believer"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Truth is objective and unchanging",
+            "Direction is possible despite chaos"
+          ],
+          "theologische_implicaties": [
+            "Sola Scriptura as a guiding principle",
+            "God's immutability"
+          ],
+          "ethische_implicaties": [
+            "Need for constant 'checking' of one's life against Scripture"
+          ],
+          "onbedoelde_consequenties": [
+            "Rigidity; inability to adapt to new contexts"
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "The preacher uses technical details of navigation to re-activate the source domain."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher moves from terrestrial movement (marching) to maritime movement (sailing) to celestial guidance (North Star). The transition is logical as it moves from the problem (instability) to the solution (fixed point).",
+      "incoherentie_punten": [
+        {
+          "locatie": "Transition to North Star",
+          "metafoor_a": "LIFE IS A SEA VOYAGE",
+          "metafoor_b": "GOD'S WORD IS A STAR",
+          "conflict_beschrijving": "The preacher explicitly states 'To change the prophet's figure', acknowledging the shift from grass to stars.",
+          "entailment_conflict": "Grass requires sun/rain; stars require night/darkness. The shift is abrupt but rhetorically signaled.",
+          "ernst": "LOW"
+        }
+      ],
+      "succesvolle_blending": [
+        {
+          "locatie": "Babylonian section",
+          "gemengde_metaforen": [
+            "Architecture",
+            "Military",
+            "Economics"
+          ],
+          "blending_strategie": "The preacher blends these into a single 'World' of human achievement that is ultimately 'shifting sand'."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Takes the 'dead' metaphor of grass and places it against the concrete imagery of Babylonian hanging gardens.",
+        "voorbeeld": "The humble, ill-clad slaves looking at this dazzling sight..."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The focus on the 'North Star' as a literal fixed point might ignore that stars also move over millennia (precession), though for homiletic purposes it holds.",
+        "voorbeeld": "The one heavenly light which does not change position.",
+        "potentiele_impact": "Minor intellectual friction for scientifically minded hearers.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "Exilic Babylon: A world of massive masonry, hanging gardens, and oppressive power.",
+      "sub_worlds": [
+        "The 'Native Clime' (Heavenly home)",
+        "The Tempestuous Sea (Current life)",
+        "The Night Sky (Navigation)"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "Paragraph 4",
+          "van_wereld": "Modern psychological discourse",
+          "naar_wereld": "Ancient Babylon",
+          "effectiviteit": "Highly effective immersion into the biblical narrative."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Immutable",
+          "hoe_versterkt": "Contrasted with the 'restless sea' and 'fading flowers'."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Success is Permanent",
+          "verstoring_strategie": "Mapping success to 'fading flowers' and 'shifting sand'.",
+          "vervangend_schema": "Success is a temporary 'day of calm' on a dangerous sea."
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits a service of lament or transition (New Year/Funeral)."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is a masterclass in using CMT to bridge the gap between ancient text and modern anxiety. It relies heavily on the JOURNEY domain, specifically the sub-domain of the SEA VOYAGE, to communicate the instability of life. The theological weight is carried by the contrast between the ORGANIC (grass) and the CELESTIAL (star).",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "WORD IS A STAR",
+        "huidige_status": "Slightly conventional",
+        "suggestie": "Deepen the source by describing the 'darkness' required to see the star.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The darker the Babylonian night, the brighter the Word shines."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The shift from 'marching' to 'sailing'.",
+        "resolutie_strategie": "Use a bridge metaphor of 'Pathfinding' that applies to both land and sea."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "LIFE IS A SEA VOYAGE",
+        "problematisch_entailment": "Suggests we are at the mercy of 'winds' (fate).",
+        "aanbeveling": "Emphasize the 'Captain' or 'Pilot' to maintain divine agency."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To contrast the 'Word' not just with grass, but with the 'masonry' of our own lives.",
+        "doel_concept": "The Word as Foundation"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "The sermon successfully uses embodied experiences of movement and sight to make the abstract concept of 'eternity' tangible."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'musical' prose; CMT reveals the underlying cognitive structure of 'stability vs. movement'.",
+    "verschil_met_kolb": "Kolb focuses on the 'four-fold' movement; CMT focuses on the 'mapping' of Babylon to modern neighborhoods.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher uses 'Verticality' (North Star) to solve the problem of 'Horizontal' instability (the march)."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "All flesh is grass",
+      "Time marches on",
+      "Mortal journey",
+      "Native clime",
+      "Trailing clouds of glory",
+      "Military juggernaut",
+      "Economic colossus",
+      "Iron grip",
+      "Galling yoke",
+      "Rock of Ages",
+      "Shifting sand",
+      "Trumpet of doom",
+      "Endless desert",
+      "Sword passes to the heart",
+      "Restless sea",
+      "White-capped waves",
+      "North Star"
+    ],
+    "woord_frequentie_analyse": {
+      "change": "12",
+      "grass": "6",
+      "star": "5",
+      "world": "7",
+      "forever": "3"
+    },
+    "notities": "The sermon utilizes a high degree of 'Text World' immersion, particularly in the description of Babylon's tax structures and gardens."
+  }
+}

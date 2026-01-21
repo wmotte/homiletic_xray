@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "titel_preek": "Het getuigenis van Johannes de Doper: Leren herkennen en aanwijzen",
+    "bijbeltekst": "Johannes 1:19-34",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "1650"
+  },
+  "actantiele_analyse": {
+    "primair_narratief_programma": {
+      "beschrijving": "De overgang van een morele orde (Johannes) naar een ontologische genade-orde (Jezus), waarbij de hoorder wordt opgeroepen Jezus te herkennen als de drager van het bestaan.",
+      "subject": {
+        "identificatie": "Jezus (als het Lam/het Woord)",
+        "tekstueel_bewijs": [
+          "Hij zal de woestijn laten bloeien.",
+          "Hij zal in de woestijn leven brengen.",
+          "Iemand die de wereld en de zonde van de wereld draagt en opteelt."
+        ],
+        "frequentie_score": 6
+      },
+      "object": {
+        "identificatie": "Het wegnemen van de zonde (middelmatigheid) en het schenken van voluit leven.",
+        "tekstueel_bewijs": [
+          "tot een leven dat er zijn mag, een leven dat er kan zijn, voluit.",
+          "iemand die dit alles verheft en wel tot zijn bestemming brengt."
+        ],
+        "aard_van_object": "SOTERIOLOGICAL"
+      },
+      "zender": {
+        "identificatie": "God (als de bron van de Stem/het Woord)",
+        "tekstueel_bewijs": [
+          "verwijzing naar de Godsnaam, JHWH.",
+          "het laatste woord van God over de wereld."
+        ],
+        "rol_interpretatie": "LOVING_FATHER"
+      },
+      "ontvanger": {
+        "identificatie": "De mensheid / de gemeente",
+        "tekstueel_bewijs": [
+          "om bij de mensen te komen wonen en hen tot leven te wekken.",
+          "die jou ziet, die jou peilt en die jou geeft wat je nodig hebt."
+        ],
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
+      },
+      "helper": {
+        "identificatie": "Johannes de Doper / De Ambtsdragers",
+        "tekstueel_bewijs": [
+          "Johannes de getuige, Johannes de aanwijzer.",
+          "Zou het ambt... in het teken kunnen gaan staan van leren herkennen en van verwijzen?"
+        ],
+        "rol_van_god": "God is Subject (Jezus), Johannes is de instrumentele aanwijzer.",
+        "rol_van_geest": "External help (de duif als metafoor voor vrede/energie)."
+      },
+      "tegenstander": {
+        "identificatie": "De 'zonde van de wereld' (middelmatigheid, gemankeerde moraal, machtsmisbruik).",
+        "tekstueel_bewijs": [
+          "die best denkbare wereld die wij met z'n allen op z'n hoofd weten te creëren.",
+          "het liegen, het gelieg en het bedrieg."
+        ],
+        "ernst_tegenstander": "COSMIC",
+        "toelichting_ernst": "Zonde wordt hier niet slechts als morele fout gezien, maar als een ontologische toestand van 'niet tot bestemming komen' die de mens zelf niet kan doorbreken."
+      }
+    },
+    "secundair_narratief_programma": {
+      "aanwezig": true,
+      "beschrijving": "De hoorder (ambtsdrager) die leert Jezus te herkennen en aan te wijzen.",
+      "subject": "De hoorder / De gemeente",
+      "object": "Herkenning van de Christus",
+      "verhouding_tot_primair": "SEQUENTIAL",
+      "toelichting_verhouding": "Het secundaire programma (herkennen) is afhankelijk van de verschijning van het primaire Subject (Jezus)."
+    },
+    "actantieel_schema_visualisatie": {
+      "zender_naar_ontvanger": "God → Voluit Leven → De Gemeente",
+      "helper_subject_tegenstander": "Johannes/Ambt → Jezus ← Zonde/Moraal",
+      "subject_naar_object": "Jezus → Wegnemen van zonde"
+    }
+  },
+  "grammaticale_analyse": {
+    "subject_check": {
+      "god_als_subject_count": 28,
+      "mens_als_subject_count": 45,
+      "ratio": "0.62",
+      "voorbeelden_god_subject": [
+        "Hij zal de woestijn laten bloeien.",
+        "Jezus is die verhulling.",
+        "Hij geeft wat je nodig hebt."
+      ],
+      "voorbeelden_mens_subject": [
+        "Wij zeggen veel makkelijker wie we niet zijn.",
+        "Wij oefenen ons om Hem te leren herkennen.",
+        "Laten we het best denkbare doen."
+      ],
+      "rutledge_score": 7
+    },
+    "modale_analyse": {
+      "devoir_faire": {
+        "prominentie": 4,
+        "voorbeelden": [
+          "dat het zo niet verder kan, dat alles anders moet."
+        ]
+      },
+      "vouloir_faire": {
+        "prominentie": 5,
+        "voorbeelden": [
+          "Zou het ambt... in het teken kunnen gaan staan van...?"
+        ]
+      },
+      "savoir_faire": {
+        "prominentie": 8,
+        "voorbeelden": [
+          "Leren herkennen en van verwijzen.",
+          "Weten wie Hij is."
+        ]
+      },
+      "pouvoir_faire": {
+        "prominentie": 6,
+        "voorbeelden": [
+          "Een leven dat er kan zijn, voluit.",
+          "Niet in staat om het leven zelf te dragen."
+        ]
+      },
+      "dominante_modaliteit": "SAVOIR",
+      "modale_interpretatie": "De preek focust op de epistemologische competentie (herkennen) als voorwaarde voor de existentiële bevrijding."
+    }
+  },
+  "semiotisch_vierkant_analyse": {
+    "primaire_tegenstelling": {
+      "s1": "Genade/Zijn (Jezus)",
+      "s2": "Oordeel/Woestijn (Zonde)",
+      "niet_s1": "Moraal/Wet (Johannes)",
+      "niet_s2": "Middelmatigheid/Berusting"
+    },
+    "beweging_in_preek": "Van niet-S1 (Johannes' moraal) via de ontkenning van eigen kunnen naar S1 (Jezus als het Lam).",
+    "theologische_resolutie": "De spanning tussen moraal en werkelijkheid wordt opgelost door Jezus als 'drager' van de zonde te introduceren.",
+    "ernst_van_s2": "Hoog; de woestijn en de 'zonde van de wereld' worden als onoverkomelijk voor de mens beschreven."
+  },
+  "diagnostische_evaluatie": {
+    "primaire_classificatie": "GRACE",
+    "classificatie_toelichting": "Hoewel er veel aandacht is voor de menselijke taak (herkennen), wordt de moraal expliciet gedegradeerd tot 'voorlopig' en wordt Jezus als het enige Subject van redding gepresenteerd.",
+    "indicatoren_moralisme": [
+      {
+        "indicator": "Focus op menselijke inspanning in de kerk",
+        "tekstueel_bewijs": "Wij oefenen ons om Hem te leren herkennen.",
+        "ernst": "LOW"
+      }
+    ],
+    "indicatoren_genade": [
+      {
+        "indicator": "Subject-switch naar Christus",
+        "tekstueel_bewijs": "Stel je voor dat Johannes het laatste woord van God was... dan zou de moraal het laatste woord hebben.",
+        "sterkte": "VERY_STRONG"
+      }
+    ],
+    "exemplarisme_check": {
+      "aanwezig": true,
+      "beschrijving": "Johannes wordt als model gesteld voor de ambtsdrager, maar niet als moreel ideaal, maar als model van zelf-relativering.",
+      "bijbelse_figuren_als_model": [
+        "Johannes de Doper"
+      ],
+      "alternatieve_lezing": "De preek doet dit al: Johannes is niet de held, maar de getuige van de Held."
+    },
+    "identificatie_patroon": {
+      "hoorder_identificeert_met": "RECEIVER_SAVED",
+      "effect_op_hoorder": "Ontlasting van de druk om 'de Messias' te moeten zijn; troost in middelmatigheid.",
+      "theologische_implicatie": "Soteriologie gaat vooraf aan ethiek."
+    },
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "De overgang van Johannes naar Jezus is de rode draad die zowel de exegese als de toepassing (ambt) stuurt.",
+      "spanning_punten": [
+        "De spanning tussen 'wij moeten oefenen' (Savoir-faire) en 'Hij doet het' (Performance)."
+      ]
+    }
+  },
+  "theologische_diepte_analyse": {
+    "soteriologie": {
+      "primaire_model": "SUBSTITUTION",
+      "tekstueel_bewijs": "Zie het lam van God dat de zonde van de wereld wegdraagt.",
+      "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
+    },
+    "pneumatologie": {
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "De Geest (duif) brengt rust en energie die nodig is voor herkenning."
+    },
+    "hamartologie": {
+      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
+      "ernst_diagnose": "Zonde is het 'niet tot bestemming komen', een fundamenteel tekortschieten van de menselijke orde."
+    },
+    "eschatologie": {
+      "hoop_structuur": "ALREADY_AND_NOT_YET",
+      "actant_van_voltooiing": "God"
+    }
+  },
+  "aanbevelingen": {
+    "actantiele_audit_samenvatting": "De preek deconstrueert de mens als Subject van morele verbetering en herpositioneert de mens als Receiver van Gods ontologische ingrijpen in Christus.",
+    "subject_herpositionering": {
+      "nodig": false,
+      "huidige_probleem": "N.v.t.",
+      "voorgestelde_herpositionering": "Blijf benadrukken dat zelfs het 'herkennen' een gave is (Savoir-donné).",
+      "voorbeeld_revisie": "N.v.t."
+    },
+    "identificatie_herstel": {
+      "nodig": true,
+      "problematische_identificatie": "De hoorder kan zich te veel focussen op de 'oefening' van het herkennen.",
+      "voorgestelde_identificatie": "Identificatie met de 'onwetende' die door Jezus gevonden wordt.",
+      "strategie": "Benadruk dat Jezus op Johannes toekwam voordat Johannes wees."
+    },
+    "modale_balans": {
+      "huidige_onbalans": "Dominantie van Savoir (weten/herkennen).",
+      "voorgestelde_balans": "Meer Pouvoir (de kracht van de Geest).",
+      "concrete_suggestie": "Werk de metafoor van de 'energie van de duif' verder uit als transformerende kracht."
+    },
+    "tegenstander_intensivering": {
+      "nodig": false,
+      "huidige_status": "De tegenstander (zonde als middelmatigheid) is zeer scherp neergezet.",
+      "voorgestelde_intensivering": "N.v.t.",
+      "theologische_rationale": "De ernst van de zonde maakt de noodzaak van de Subject-switch naar Christus duidelijk."
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "Geen",
+      "voorgestelde_structuur": "De huidige structuur (Eerst Christus, dan de getuige) is correct."
+    },
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "Een diepzinnige preek die de verleidelijke valstrik van moralisme in de kerk effectief blootlegt en vervangt door een christocentrisch perspectief."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_retorische_analyse": "Waar retorica kijkt naar de overtuigingskracht van de metaforen (lam/duif), laat Greimas zien dat deze metaforen de actantiele rol van Jezus als 'Helper' en 'Subject' transformeren.",
+    "verschil_met_exegese": "De analyse focust niet op de historische context van de Levieten, maar op de functionele rol van de 'vraagsteller' als katalysator voor de negatieve identiteitsbepaling van de mens.",
+    "unieke_inzichten_greimas": "Het legt bloot dat de preek 'werkt' omdat het de hoorder ontslaat van de rol van 'Messias' (Subject) en herstelt als 'Ontvanger'."
+  },
+  "appendices": {
+    "volledige_subject_lijst": [
+      "Johannes (getuigt)",
+      "Jezus (draagt zonde)",
+      "Moraal (schiet tekort)",
+      "Wij (oefenen)"
+    ],
+    "volledige_object_lijst": [
+      "Het Lam",
+      "Voluit leven",
+      "Rechtvaardigheid"
+    ],
+    "werkwoord_frequentie": {
+      "herkennen": {
+        "count": 12,
+        "primair_subject": "Man"
+      },
+      "dragen": {
+        "count": 4,
+        "primair_subject": "God"
+      }
+    },
+    "notities": "De preek balanceert op de grens van epistemologie (kennen) en ontologie (zijn)."
+  }
+}

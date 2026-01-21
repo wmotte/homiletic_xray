@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "titel_preek": "The Fathers of Jesus",
+    "bijbeltekst": "Matthew 1:18-25",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2400"
+  },
+  "primaire_analyse": {
+    "dominante_domeinen": [
+      {
+        "domein_type": "RELATIONAL_FAMILIAL",
+        "prominentie_score": "10",
+        "kernfrasen": [
+          "The perspective of the earthly father... and the heavenly Father",
+          "You do not name Jesus; Jesus names you",
+          "Self-giving is the way to freedom and joy"
+        ],
+        "conceptuele_metafoor": "GOD IS FATHER / RELATIONSHIP IS MUTUAL SELF-GIVING"
+      },
+      {
+        "domein_type": "JURIDICAL",
+        "prominentie_score": "7",
+        "kernfrasen": [
+          "faithful to the law",
+          "broken the moral law",
+          "someone has to take your punishment"
+        ],
+        "conceptuele_metafoor": "SIN IS LAW-BREAKING / SALVATION IS JUSTIFICATION"
+      },
+      {
+        "domein_type": "MEDICAL",
+        "prominentie_score": "6",
+        "kernfrasen": [
+          "lie entered into the bloodstream",
+          "wounded at the core of our being",
+          "what in the world would heal you and me?"
+        ],
+        "conceptuele_metafoor": "SIN IS A HEREDITARY DISEASE / SALVATION IS HEALING"
+      }
+    ],
+    "metafoor_inventaris": [
+      {
+        "metafoor_expressie": "The lie entered into the bloodstream of the human race.",
+        "brondomein": {
+          "naam": "Biology/Pathology",
+          "concrete_elementen": [
+            "bloodstream",
+            "infection",
+            "heredity"
+          ],
+          "belichaamde_basis": "container"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Original Sin",
+          "doctrinale_traditie": "Reformed/Augustinian"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Pathogen",
+            "doel_element": "The lie of self-determination"
+          },
+          {
+            "bron_element": "Bloodstream",
+            "doel_element": "Human nature/soul"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "Sin is not just an act but a systemic condition."
+          ],
+          "theologische_implicaties": [
+            "Total depravity; inability to cure oneself."
+          ],
+          "ethische_implicaties": [
+            "Need for an external 'physician' or savior."
+          ],
+          "onbedoelde_consequenties": [
+            "May diminish personal agency or responsibility for specific acts."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Re-activates the abstract concept of 'Original Sin' by using a visceral, biological image."
+      },
+      {
+        "metafoor_expressie": "You do not name Jesus; Jesus names you.",
+        "brondomein": {
+          "naam": "Naming/Authority",
+          "concrete_elementen": [
+            "naming a child",
+            "CEO naming a company",
+            "authority"
+          ],
+          "belichaamde_basis": "balance/force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Lordship of Christ",
+          "doctrinale_traditie": "Evangelical/Reformed"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Namer",
+            "doel_element": "Sovereign God"
+          },
+          {
+            "bron_element": "Named",
+            "doel_element": "The Believer"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "To be named is to be owned and defined."
+          ],
+          "theologische_implicaties": [
+            "God's sovereignty over identity."
+          ],
+          "ethische_implicaties": [
+            "Submission to divine will; loss of 'self-determination'."
+          ],
+          "onbedoelde_consequenties": [
+            "Potential for feeling erased or controlled."
+          ]
+        },
+        "vitaliteit_status": "LIVING",
+        "vitaliteit_toelichting": "Uses the social convention of naming to explain the abstract concept of 'Lordship'."
+      }
+    ]
+  },
+  "diagnostische_evaluatie": {
+    "coherentie_analyse": {
+      "overall_coherentie": "HIGHLY_COHERENT",
+      "coherentie_verklaring": "The preacher successfully bridges the Juridical (Law) and Relational (Father) domains by using the person of Joseph as a bridge. He moves from the 'Law' to 'Grace' through the metaphor of 'Self-Giving'.",
+      "incoherentie_punten": [],
+      "succesvolle_blending": [
+        {
+          "locatie": "Section on the Godhead",
+          "gemengde_metaforen": [
+            "Dance/Rhythm",
+            "Family/Father-Son",
+            "Sacrifice"
+          ],
+          "blending_strategie": "Blends the relational Trinity with the 'rhythm of being' to show that self-abdication is the fundamental law of reality."
+        }
+      ]
+    },
+    "sterktes": [
+      {
+        "sterkte_type": "REVITALIZATION",
+        "beschrijving": "Revitalizes the 'Immanuel' concept by contrasting it with the 'Buffet' metaphor of religious pluralism.",
+        "voorbeeld": "It will not ever sit on the buffet."
+      }
+    ],
+    "risicos": [
+      {
+        "risico_type": "PATRIARCHY",
+        "beschrijving": "Heavy reliance on 'Father' and 'CEO' imagery may reinforce traditional power structures.",
+        "voorbeeld": "The namer is the one in authority.",
+        "potentiele_impact": "Could alienate those with negative father-figures or those sensitive to gendered language.",
+        "ernst": "LOW"
+      }
+    ],
+    "text_world_analyse": {
+      "primaire_wereld": "The first-century household of Joseph and Mary.",
+      "sub_worlds": [
+        "A modern buffet restaurant",
+        "Macy's department store during Christmas",
+        "FAO Schwarz toy store",
+        "The inner life of the Trinity",
+        "A Dorothy Sayers novel"
+      ],
+      "world_building_effectiviteit": "VIVID",
+      "deictic_shifts": [
+        {
+          "locatie": "FAO Schwarz story",
+          "van_wereld": "Theological exposition",
+          "naar_wereld": "Narrative parable",
+          "effectiviteit": "Highly effective in illustrating the 'wound' of distrust."
+        }
+      ]
+    },
+    "schema_analyse": {
+      "versterkte_schemas": [
+        {
+          "schema_naam": "God as Sovereign",
+          "hoe_versterkt": "Through the 'Naming' and 'CEO' metaphors."
+        }
+      ],
+      "verstoorde_schemas": [
+        {
+          "schema_naam": "Freedom as Autonomy",
+          "hoe_verstoring_strategie": "Uses the 'Seed' and 'Marriage' metaphors to show that true freedom is found in self-abdication.",
+          "vervangend_schema": "Freedom as Glad Surrender"
+        }
+      ],
+      "liturgische_schema_aansluiting": "Fits Advent themes of expectation and the 'scandal' of the Incarnation."
+    }
+  },
+  "aanbevelingen": {
+    "metafoor_audit_samenvatting": "The sermon is dominated by Relational and Juridical domains, which is appropriate for a text about Joseph and the Law. However, it brilliantly pivots to a Medical/Pathological domain (the 'wound' and 'bloodstream') to explain the psychological resistance to the Gospel. The use of the 'Author writing herself into the story' is a powerful literary metaphor for the Incarnation.",
+    "revitalisatie_suggesties": [
+      {
+        "doel_metafoor": "Immanuel (God with us)",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Deepen the 'Author' metaphor.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "God didn't just send a letter to the characters in the book; he became a character and felt the ink on his own skin."
+      }
+    ],
+    "coherentie_verbeteringen": [
+      {
+        "incoherentie": "The tension between 'Law' and 'Grace'.",
+        "resolutie_strategie": "Explicitly link Joseph's 'quiet divorce' (mercy within law) to God's 'self-giving' (grace fulfilling law)."
+      }
+    ],
+    "entailment_checks": [
+      {
+        "metafoor": "GOD IS CEO",
+        "problematisch_entailment": "God as cold, corporate, or profit-driven.",
+        "aanbeveling": "Balance with the 'Father' and 'Lover' imagery used later in the sermon."
+      }
+    ],
+    "alternatieve_domeinen": [
+      {
+        "voorgesteld_domein": "ARCHITECTURAL",
+        "rationale": "To describe the 'foundation' of the lie in the human heart.",
+        "doel_concept": "Original Sin"
+      }
+    ],
+    "overall_beoordeling": "EXCELLENT",
+    "slotopmerking": "A masterclass in using CMT to make abstract Christology (the two natures of Christ) and Soteriology (grace vs. works) psychologically accessible."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'FAO Schwarz' story for its pathos, CMT reveals it as a crucial mapping of the 'Distrust Schema' that prevents the hearer from accepting the 'Grace Schema'.",
+    "verschil_met_kolb": "Unlike Kolb's learning cycles, CMT shows that the hearer isn't just 'learning' but is having their mental architecture re-mapped.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using the 'Naming' metaphor to shift the hearer from a 'Subject' to an 'Object' of divine action, which is the essence of the sermon's call to surrender."
+  },
+  "appendices": {
+    "volledige_metafoor_lijst": [
+      "Religion as a buffet",
+      "Moral bipolarity",
+      "Sin as a lie in the bloodstream",
+      "God as the Author writing himself into the story",
+      "The seed dying to live",
+      "The namer as the authority",
+      "The wound at the core of our being"
+    ],
+    "woord_frequentie_analyse": {
+      "father": "12",
+      "law": "8",
+      "save": "9",
+      "give": "15",
+      "authority": "7",
+      "lie": "5"
+    },
+    "notities": "The sermon relies heavily on the 'Self-Giving' metaphor as the ultimate resolution to the Juridical/Relational tension."
+  }
+}

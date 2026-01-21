@@ -1,0 +1,339 @@
+{
+  "metadata": {
+    "titel_preek": "Die Auferstehung der Frauen",
+    "bijbeltekst": "Johannes 20,1-18; Jesaja 40; Psalm 31",
+    "analyse_datum": "2024-05-22",
+    "geschat_aantal_woorden": "2800"
+  },
+  "drievoudige_structuur_analyse": {
+    "locutie": {
+      "beschrijving": "A dialogue-sermon between Luise Schottroff (exegete) and Dorothee Sölle (poet/theologian). Content focuses on Mary Magdalene's grief, the political context of Roman occupation, modern ecological/political despair (Chernobyl, Apartheid), and the vision of a 'Women's Church' (Frauenkirche).",
+      "exegetische_kwaliteit": "High. Strong socio-historical context regarding Roman crucifixion practices and the Johannine community's trauma.",
+      "omvang_procent": "65%"
+    },
+    "illocutie": {
+      "beschrijving": "Primarily Assertive (describing the world's pain) and Expressive (lamenting). The illocutionary force shifts toward the end into Commissive (promises of the Spirit) and Directive (sending out).",
+      "primaire_kracht": "ASSERTING",
+      "helderheid_score": 7,
+      "voorbeelden": [
+        "Ich will mit Maria Magdalena weinen (Expressive)",
+        "Auferstehung ist Macht (Assertive)",
+        "Gehe zu meinen Brüdern und sage ihnen (Directive/Scripture Quote)",
+        "Ihr werdet neue Kraft empfangen (Commissive/Promise)"
+      ]
+    },
+    "perlocutie": {
+      "beoogd_effect": "To move the hearer from resignation/cynicism to political and spiritual agency (Auferstehungsprozesse).",
+      "pneumatologisch_bewustzijn": "Yes, explicitly mentioned as the 'breath' of Jesus and the 'Spirit of courage'.",
+      "perlocutionaire_werkwoorden": [
+        "trösten",
+        "politisieren",
+        "ermutigen",
+        "aufstehen"
+      ]
+    }
+  },
+  "werkwoord_analyse": {
+    "assertieven": {
+      "frequentie": "145",
+      "procent": "60%",
+      "voorbeelden": [
+        "Das Johannesevangelium erzählt...",
+        "Die Welt hasst Gott.",
+        "Auferstehung ist Macht."
+      ],
+      "dominante_werkwoorden": [
+        "ist",
+        "sind",
+        "erzählt",
+        "wissen",
+        "heißt"
+      ]
+    },
+    "directieven": {
+      "frequentie": "28",
+      "procent": "12%",
+      "voorbeelden": [
+        "Hör doch auf.",
+        "Gehe zu meinen Brüdern!",
+        "Dreht euch um!"
+      ],
+      "dominante_werkwoorden": [
+        "gehe",
+        "sage",
+        "lass",
+        "gib",
+        "seht"
+      ],
+      "fundament_check": true
+    },
+    "expressieven": {
+      "frequentie": "42",
+      "procent": "18%",
+      "voorbeelden": [
+        "Ich will weinen.",
+        "Ich bin müde.",
+        "Ich suche Gerechtigkeit."
+      ],
+      "dominante_werkwoorden": [
+        "weinen",
+        "klagen",
+        "hoffen",
+        "fühlen"
+      ]
+    },
+    "commissieven": {
+      "frequentie": "12",
+      "procent": "5%",
+      "voorbeelden": [
+        "Gott verspricht sie nicht einem nuklearen Winter auszuliefern.",
+        "Ihr werdet neue Kraft empfangen.",
+        "Er ist bei euch."
+      ],
+      "dominante_werkwoorden": [
+        "versprechen",
+        "werden",
+        "sein"
+      ],
+      "kwaliteit": "Strong but late. The promises are concentrated in the final 'Frauenaussendung'."
+    },
+    "declaratieven": {
+      "frequentie": "5",
+      "procent": "2%",
+      "voorbeelden": [
+        "Ich habe den Herrn gesehen.",
+        "Wir haben die Vision."
+      ],
+      "dominante_werkwoorden": [
+        "verkünden",
+        "sehen"
+      ],
+      "autoriteit": "The authority is derived from the 'X-factor' (God) and the shared experience of the 'Women's Church'."
+    }
+  },
+  "constatief_performatief_diagnose": {
+    "primaire_classificatie": "CONSTATIVE_SURPLUS",
+    "constatief_percentage": "75%",
+    "performatief_percentage": "25%",
+    "constatief_surplus_analyse": {
+      "aanwezig": true,
+      "ernst": "MODERATE",
+      "indicatoren": [
+        "Long historical explanations of Roman law",
+        "Extensive descriptions of the 1983 church congress",
+        "Sociological analysis of the 'Two-thirds society'"
+      ],
+      "effect_op_hoorder": "The hearer is well-informed and politically sharpened, but might feel like a spectator of a lecture for the first two-thirds."
+    },
+    "performatief_deficit_analyse": {
+      "aanwezig": true,
+      "ernst": "LOW",
+      "missende_elementen": [
+        "Direct absolution",
+        "Immediate sacramental address ('I say to you today')"
+      ],
+      "effect_op_hoorder": "Delayed encounter with the living Christ until the final section."
+    },
+    "toezegging_check": {
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": "4",
+      "kwaliteit_toezeggen": "High theological quality, addressing the hearer as 'Sisters'.",
+      "voorbeelden": [
+        "Liebe Schwestern, ihr werdet neue Kraft empfangen."
+      ],
+      "moment_in_preek": "End"
+    }
+  },
+  "adressering_analyse": {
+    "persoonsvorm_distributie": {
+      "eerste_persoon": {
+        "frequentie": "High",
+        "gebruik": "Subjective identification (I want to weep, I am tired)."
+      },
+      "tweede_persoon": {
+        "frequentie": "Moderate",
+        "gebruik": "Direct address to the 'Sisters' and 'Brothers' in the final sending.",
+        "performatieve_context": "Used for the final blessing/sending."
+      },
+      "derde_persoon": {
+        "frequentie": "Dominant",
+        "gebruik": "Describing Mary, the Romans, the ANC, the government.",
+        "distantie_effect": "Creates a historical/political distance that requires bridging."
+      }
+    },
+    "tijdsdimensie": {
+      "verleden_tijd": {
+        "frequentie": "40%",
+        "gebruik": "Biblical and political history."
+      },
+      "tijdloos_present": {
+        "frequentie": "40%",
+        "gebruik": "General truths about the 'World' and 'Death'."
+      },
+      "actueel_present": {
+        "frequentie": "20%",
+        "gebruik": "The 'Now' of the Auferstehungsprozess."
+      }
+    },
+    "adressering_effectiviteit": 7
+  },
+  "sacramenteel_patroon_analyse": {
+    "patroon_identificatie": "SACRAMENTAL",
+    "foutief_patroon": {
+      "aanwezig": false,
+      "beschrijving": "n/a",
+      "voorbeelden": [],
+      "probleem": "n/a"
+    },
+    "sacramenteel_patroon": {
+      "aanwezig": true,
+      "beschrijving": "Lament (Expressive) -> Analysis (Assertive) -> Promise (Commissive) -> Sending (Directive).",
+      "voorbeelden": [
+        "Ich will weinen... Gott verspricht... Geht hin!"
+      ],
+      "kwaliteit": "The pattern is sound but the 'Assertive' phase is very long, delaying the sacramental event."
+    },
+    "indicatief_imperatief_verhouding": {
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
+      "voorbeelden_goede_verhouding": [
+        "Er ist bei euch (Indicative) ... Geht zu meinen Brüdern (Imperative)."
+      ],
+      "voorbeelden_slechte_verhouding": []
+    }
+  },
+  "diagnostische_evaluatie": {
+    "primaire_diagnose": "SACRAMENTAL_CREATIVE",
+    "diagnose_toelichting": "Despite the constative surplus, the sermon functions as a 'speech act' because it moves from description to the actual 'Aussendung' (sending) which constitutes the church as a 'Frauenkirche'.",
+    "sterke_punten": [
+      {
+        "aspect": "Identification",
+        "categorie": "Expressive",
+        "tekstueel_bewijs": "Ich will mit Maria Magdalena weinen.",
+        "effect": "Hearer feels seen in their despair."
+      }
+    ],
+    "zwakke_punten": [
+      {
+        "aspect": "Information Overload",
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "Tacitus berichtet über die römische Praxis...",
+        "probleem": "Interrupts the flow of the 'event' with academic data.",
+        "ernst": "MODERATE"
+      }
+    ],
+    "gebeuren_score": 8,
+    "gebeuren_toelichting": "The transition from 'weeping' to 'walking' is a tangible event in the text.",
+    "sacramentele_kracht": 7,
+    "sacramentele_toelichting": "The 'Toezegging' (Promise) at the end is powerful but could have been woven throughout."
+  },
+  "theologische_diepte_analyse": {
+    "openbaringsleer": {
+      "god_als_spreker": "Yes, through the 'X-factor' and the words of the Risen Christ.",
+      "prediker_als_mandataris": "Yes, the preachers act as 'messengers' (angels).",
+      "tekstueel_bewijs": [
+        "Jesus sagt: Ihr Frauen! Geht..."
+      ]
+    },
+    "pneumatologie": {
+      "geest_rol_erkend": "Yes, the Spirit is the 'breath' and 'courage'.",
+      "perlocutie_theologie": "Implicitly left to the Spirit to 'make us visible'.",
+      "tekstueel_bewijs": [
+        "Der Geist wird euch helfen."
+      ]
+    },
+    "sacramentstheologie": {
+      "preek_als_genademiddel": "Yes, the sermon is seen as an 'Auferstehungsprozess'.",
+      "epifanisch_taalgebruik": "Yes, especially in the 'X-factor' section.",
+      "tekstueel_bewijs": [
+        "Gott ist schön in ihr."
+      ]
+    }
+  },
+  "aanbevelingen": {
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'was' verbs; needs more 'I promise you' and 'You are'.",
+    "performatieve_intensivering": {
+      "nodig": true,
+      "specifieke_suggesties": [
+        {
+          "huidige_formulering": "Das Johannesevangelium erzählt, Maria Magdalena sei...",
+          "voorgestelde_revisie": "Maria Magdalena steht heute hier unter uns am Grab.",
+          "verschil": "Shifts from historical report to present encounter."
+        }
+      ]
+    },
+    "toezegging_versterking": {
+      "nodig": true,
+      "probleem": "The promise is buried at the very end.",
+      "suggestie": "Interject the 'Doch' of God earlier into the lament sections.",
+      "voorbeeldzinnen": [
+        "Mitten in deinem Weinen sagt er deinen Namen."
+      ]
+    },
+    "adressering_verbetering": {
+      "nodig": true,
+      "probleem": "Too much 'they' (Romans, Jews, Government).",
+      "suggestie": "Use 'we' and 'you' more consistently.",
+      "voorbeeldzinnen": [
+        "Ihr seid diese Frauen am Grab."
+      ]
+    },
+    "indicatief_imperatief_herstel": {
+      "nodig": false,
+      "probleem": "n/a",
+      "suggestie": "Maintain the current strong foundation."
+    },
+    "overall_beoordeling": "GOOD",
+    "slotopmerking": "A powerful example of political-sacramental preaching that successfully bridges the gap between ancient text and modern trauma through performative lament and sending."
+  },
+  "comparatieve_analyse": {
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-disclosure' of Schottroff/Sölle; SAT focuses on the 'Declaration' of Resurrection as a new reality.",
+    "verschil_met_retoriek": "It is not just persuading people to be political; it is 'breathing' the Spirit into them (Illocution).",
+    "unieke_inzichten_SAT": "SAT reveals that the 'Women's Church' is not just an idea, but is 'called into being' by the final Commissive acts."
+  },
+  "appendices": {
+    "volledige_werkwoord_lijst": {
+      "assertief": [
+        "ist",
+        "sind",
+        "berichtet",
+        "wussten",
+        "bedeutet",
+        "erzählt"
+      ],
+      "directief": [
+        "gehe",
+        "sage",
+        "hör auf",
+        "lass",
+        "gib",
+        "seht"
+      ],
+      "expressief": [
+        "weinen",
+        "klagen",
+        "hoffen",
+        "suchen",
+        "zweifeln"
+      ],
+      "commissief": [
+        "versprechen",
+        "werden",
+        "sein (als Zusage)"
+      ],
+      "declaratief": [
+        "verkünden",
+        "sehen (als Zeugnis)"
+      ]
+    },
+    "kernzinnen_analyse": [
+      {
+        "zin": "Ich habe den Herrn gesehen.",
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "High",
+        "effectiviteit": "Creates a new reality for the speaker and hearer."
+      }
+    ],
+    "notities": "The dialogue format naturally increases the 'Expressive' count but can also lead to 'talking about' the dialogue itself."
+  }
+}
