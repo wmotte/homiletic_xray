@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "analysis_date": "2024-05-22",
+    "sermon_title": "Das achte Gebot: Du sollst nicht falsch Zeugnis reden wider deinen Nächsten",
+    "bible_text": "Exodus 20:16 / Deuteronomy 5:20",
+    "notes": "The sermon focuses on the political and social dimensions of the 8th commandment, moving from historical context to contemporary political critique."
+  },
+  "ego_positions_scan": {
+    "parent": {
+      "freedom_from_critical_parent_CP": {
+        "score": 7,
+        "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
+        "presence_of_coercion": "Medium",
+        "analysis": "The preacher avoids traditional moralistic shaming ('you are a sinner'). However, a new political CP emerges that judges specific political stances (Reagan, NATO, media) with high moral certainty.",
+        "quotes": [
+          "Diese Benennung... ist eine Propagandalüge",
+          "Du wirst nicht behaupten, dass das winzige Nicaragua die Vereinigten Staaten bedroht"
+        ]
+      },
+      "healthy_care_NP": {
+        "score": 8,
+        "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
+        "presence": "High",
+        "analysis": "Strong Nurturing Parent focused on the 'vulnerable' and 'disadvantaged'. The care is directed toward the victims of history rather than creating a dependent congregation.",
+        "quotes": [
+          "Ich denke als Schreibende eher an den weniger Privilegierten... die Armen."
+        ]
+      }
+    },
+    "adult": {
+      "score": 9,
+      "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
+      "presence": "High",
+      "analysis": "The sermon is highly intellectual and analytical. It processes historical data, legal structures, and linguistic nuances. It invites the listener to think and differentiate between private and public spheres.",
+      "quotes": [
+        "Ich will von drei verschiedenen realen Situationen ausgehen...",
+        "Diese Unterscheidung scheint mir sehr zutreffend..."
+      ]
+    },
+    "child": {
+      "freedom_from_adapted_child_AC": {
+        "score": 8,
+        "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher does not use fear of God to demand compliance. Instead, she models a 'Free Child' that is willing to be 'non-consensus-capable' like Jesus.",
+        "quotes": [
+          "Du wirst dich erinnern, dass Jesus von Nazareth auch nicht konsensfähig war."
+        ]
+      },
+      "free_child_FC": {
+        "score": 6,
+        "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
+        "presence": "Medium",
+        "analysis": "Authenticity is high, but the 'playful' aspect of the Free Child is suppressed by the gravity of the political topics (war, hunger, lies).",
+        "quotes": [
+          "Es hat mich sehr getröstet, das bei Luther zu lesen..."
+        ]
+      }
+    },
+    "dominant_ego_position": "Adult with Nurturing Parent undertones"
+  },
+  "transaction_analysis": {
+    "primary_transaction_style": "Adult -> Adult",
+    "analysis": "The preacher primarily provides information and historical context, treating the congregation as partners in an ethical search for truth. However, there is an ulterior 'Parent -> Child' transaction when she defines what 'truth' must look like in specific political contexts.",
+    "ulterior_motives": "Socially: 'Let us examine the 8th commandment.' Psychologically: 'I am the one who sees through the propaganda; follow my gaze to be moral.'",
+    "communicative_purity_score": 7,
+    "purity_explanation": "10 = Completely transparent. 0 = Highly manipulative. The sermon is mostly transparent but uses the authority of the pulpit to validate a specific political ideology as the only 'truthful' one.",
+    "risk_explanation": "The risk is a 'Bait and Switch' where the definition of 'Truth' shifts from 'not lying in court' to 'agreeing with the preacher's geopolitical analysis'."
+  },
+  "games_analysis": {
+    "detected_games": [
+      {
+        "name": "Ain't It Awful",
+        "probability": "Medium",
+        "formula_g_analysis": {
+          "con": "Let's talk about the importance of truth.",
+          "gimmick": "The listener's shared frustration with 'the system' or 'the media'.",
+          "switch": "Moving from biblical exegesis to a list of global grievances (Reagan, Pentagon, Media).",
+          "payoff": "A shared feeling of moral superiority over the 'lying' world."
+        },
+        "evidence_quotes": [
+          "Diese Großideologie, die uns zu mehr Rüstungswahnsinn... verurteilt."
+        ]
+      }
+    ],
+    "absence_of_games_analysis": "The sermon avoids 'NIGYSOB' because it doesn't target the congregation's personal sins, but rather external structures."
+  },
+  "drama_triangle_analysis": {
+    "preacher_roles": {
+      "rescuer": "High. The preacher positions herself as the defender of the 'belied' and 'voiceless'.",
+      "persecutor": "Medium. Directed at political figures (Reagan) and the 'lying' media.",
+      "victim": "Low/Medium. Briefly mentions personal 'persecution' (hate mail) to build rapport with Luther."
+    },
+    "congregation_position": "The congregation is invited to move from being 'Victims' of propaganda to becoming 'Rescuers' of the truth alongside the preacher.",
+    "escape_possibilities": "The emphasis on 'Gewissensbildung' (conscience formation) offers a path toward Adult autonomy."
+  },
+  "conclusion_and_recommendation": {
+    "psychological_health_score": 8,
+    "summary": "The sermon is psychologically robust, favoring Adult-Adult communication over traditional Parent-Child authoritarianism. It promotes autonomy and critical thinking. However, it occasionally slips into a 'Moral Superiority' game by equating specific political opinions with biblical 'Truth', which can create a new form of 'Adapted Child' compliance within a political subculture.",
+    "strengths": [
+      "High transparency regarding personal doubts (the Reagan church-attendance anecdote).",
+      "Strong promotion of personal responsibility and conscience.",
+      "Avoidance of shame-based theology."
+    ],
+    "areas_for_improvement": [
+      "The transition from 'historical fact' to 'political judgment' is sometimes too fast, bypassing the listener's Adult processing.",
+      "Risk of creating an 'us vs. them' (Victim vs. Persecutor) world view."
+    ],
+    "advice_for_game_free_communication": "To remain entirely game-free, the preacher could explicitly acknowledge that other 'Adults' might reach different political conclusions from the same biblical 'Truth', thereby fully respecting the listener's autonomy."
+  }
+}
