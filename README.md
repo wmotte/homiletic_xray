@@ -1,10 +1,10 @@
 # Homiletic Feedback Toolkit
 
-A comprehensive analysis of sermons using six homiletical frameworks.
+A comprehensive analysis of sermons using nine homiletical frameworks.
 
 ## Overview
 
-This toolkit analyzes sermons through six complementary lenses:
+This toolkit analyzes sermons through nine complementary lenses:
 
 1. **Dekker's Theses** - "What is a Sermon?" (Dr. W.M. Dekker's 8 theological criteria)
 2. **Aristotelian Modes** - Classical rhetoric (Logos, Pathos, Ethos)
@@ -12,10 +12,13 @@ This toolkit analyzes sermons through six complementary lenses:
 4. **Kolb's Learning Cycle** - Experiential learning in preaching
 5. **Aesthetic Turn** - Contemporary homiletical aesthetics
 6. **Transactional Analysis** - Psychological dynamics and manipulation detection (Eric Berne)
+7. **Conceptual Metaphor Theory** - Cognitive linguistics analysis of metaphorical mappings (Lakoff & Johnson)
+8. **Narrative Semiotics** - Actantial/Greimassian analysis of narrative structure and theological roles
+9. **Speech Act Theory** - Illocutionary force analysis (Austin, Searle)
 
-## The Six Methods: Complementary Perspectives
+## The Nine Methods: Complementary Perspectives
 
-The six analytical methods each offer a unique perspective on preaching practice:
+The nine analytical methods each offer a unique perspective on preaching practice:
 
 **Dekker's Theses** evaluate theological content: Is the sermon scriptural, Christocentric, and existential?
 
@@ -29,6 +32,12 @@ The six analytical methods each offer a unique perspective on preaching practice
 
 **Transactional Analysis** tests psychological health: Is the communication free from manipulation and does it promote autonomy?
 
+**Conceptual Metaphor Theory** uncovers cognitive mappings: What conceptual metaphors structure the sermon's theology and what are their entailments?
+
+**Narrative Semiotics** reveals narrative roles: Who is the Subject of salvation and where is the hearer positioned in the actantial schema?
+
+**Speech Act Theory** analyzes performative force: Does the sermon merely describe or does it actually bestow grace through declarative speech acts?
+
 Together, these methods form a holistic evaluation:
 
 - **Dekker asks:** "Is it true?"
@@ -37,19 +46,22 @@ Together, these methods form a holistic evaluation:
 - **Schulz von Thun asks:** "Is it congruent?"
 - **Aesthetic Turn asks:** "Is it beautiful?"
 - **TA asks:** "Is it healthy?"
+- **CMT asks:** "Is it cognitively coherent?"
+- **Narrative Semiotics asks:** "Is it grace-structured?"
+- **Speech Act Theory asks:** "Does it perform what it proclaims?"
 
 A sermon can be theologically sound (Dekker: high) yet fail to reach different learning styles (Kolb: low), lack emotional impact (Aristotle: low Pathos), be aesthetically flat (Aesthetics: low), or be psychologically manipulative (TA: low). By using all methods, the preacher gains a complete picture of strengths and weaknesses.
 
 ## Features
 
-- ✅ **6 Analytical Frameworks** - Comprehensive multi-perspective sermon evaluation
+- ✅ **9 Analytical Frameworks** - Comprehensive multi-perspective sermon evaluation
 - ✅ **English Prompts** - Professional, theologically rigorous analysis prompts
 - ✅ **Batch Processing** - Analyze multiple sermons automatically
 - ✅ **JSON Output** - Structured, parseable results for further analysis
 - ✅ **Strict Grading** - Academic rigor with 1-10 scoring (7+ is exceptional)
 - ✅ **Detailed Feedback** - Quotes, strengths, improvement points, and overall assessment
 
-## The Six Analytical Frameworks
+## The Nine Analytical Frameworks
 
 ### 1. Dekker's Theses (Theological)
 Analyzes sermons against Dr. W.M. Dekker's 8 criteria for "What is a Sermon?":
@@ -146,7 +158,73 @@ Based on Eric Berne's Transactional Analysis, this framework exposes psychologic
 
 **Best for:** Psychological health, detecting manipulation, promoting Adult-Adult communication, avoiding guilt-driven rhetoric
 
---
+### 7. Conceptual Metaphor Theory (Cognitive)
+Based on Lakoff & Johnson's cognitive linguistics, this framework analyzes the conceptual metaphors that structure theological understanding:
+
+**Metaphor Domain Analysis:**
+- Identification of source and target domains
+- Mapping structure between concrete and abstract concepts
+- Coherence and conflict between metaphorical systems
+
+**Entailment Analysis:**
+- Cognitive implications of metaphorical choices
+- Theological implications (intended and unintended)
+- Ethical and pastoral entailments
+- Risk of problematic inferences
+
+**Vitality Assessment:**
+- Dead metaphors vs. living metaphors
+- Conventional vs. novel metaphorical expressions
+- Strategies for revitalizing theological language
+
+**Best for:** Understanding how language shapes theological cognition, identifying hidden assumptions, ensuring metaphorical coherence
+
+### 8. Narrative Semiotics (Structural)
+Based on Greimas's actantial model, this framework analyzes the narrative structure and role assignments in sermons:
+
+**Actantial Schema:**
+- **Subject** - Who acts toward the goal (God/Christ or human?)
+- **Object** - What is sought (salvation, transformation, obedience?)
+- **Sender** - Who mandates the quest (divine initiative?)
+- **Receiver** - Who benefits (congregation's position)
+- **Helper** - What aids the quest (Spirit, faith, community)
+- **Opponent** - What opposes (sin, death, world)
+
+**Grammatical Analysis:**
+- God-as-Subject vs. human-as-subject sentence count
+- Modal analysis: Devoir (duty), Vouloir (will), Savoir (knowledge), Pouvoir (ability)
+- Active voice vs. passive voice distribution
+
+**Semiotic Square:**
+- Primary theological oppositions
+- Movement through contraries and contradictions
+- Resolution strategies
+
+**Best for:** Diagnosing moralizing sermons, ensuring God remains the Subject of salvation, positioning hearers as receivers of grace
+
+### 9. Speech Act Theory (Performative)
+Based on Austin and Searle's speech act theory, this framework analyzes the illocutionary force and performative dimension of preaching:
+
+**Illocutionary Analysis:**
+- **Assertives** - Describing, explaining, teaching
+- **Directives** - Commanding, requesting, inviting
+- **Commissives** - Promising, pledging, guaranteeing
+- **Expressives** - Praising, lamenting, thanking
+- **Declaratives** - Absolving, blessing, pronouncing
+
+**Constative vs. Performative:**
+- Constative surplus: Too much describing, not enough doing
+- Performative deficit: Missing declarations and promises
+- Balance between teaching and bestowing
+
+**Address Analysis:**
+- Person distribution (first, second, third person)
+- Temporal orientation (past, present, future)
+- Direct address vs. third-person distance
+
+**Best for:** Ensuring sermons perform what they proclaim, moving from "talking about" God to "speaking for" God, sacramental effectiveness
+
+---
 
 ## Scoring Philosophy
 
@@ -228,6 +306,9 @@ Theoretical frameworks based on:
   - Paul Scott Wilson, Thomas Long - New Homiletic, imagery, narrative
   - Marilyn Chandler McEntyre - stewardship of language, word care
 - **Transactional Analysis:** Dr. Eric Berne - Transactional Analysis, psychological games, ego states
+- **Conceptual Metaphor Theory:** George Lakoff & Mark Johnson - cognitive linguistics, metaphorical mapping
+- **Narrative Semiotics:** Algirdas Julien Greimas - actantial model, semiotic square; adapted for homiletics by Fleming Rutledge's grammar of grace
+- **Speech Act Theory:** J.L. Austin & John Searle - illocutionary acts, performative language; applied to homiletics in sacramental theology
 
 ## Contact
 
