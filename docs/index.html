@@ -723,6 +723,151 @@
         return t;
     }
 
+    // Translate uppercase tags with underscores to readable text
+    function translateTag(tag) {
+        if (!tag) return '';
+        const translations = {
+            // Overall assessments
+            'EXCELLENT': 'Excellent',
+            'VERY_GOOD': 'Very Good',
+            'GOOD': 'Good',
+            'ADEQUATE': 'Adequate',
+            'NEEDS_IMPROVEMENT': 'Needs Improvement',
+            'WEAK': 'Weak',
+
+            // Coherence
+            'VERY_COHERENT': 'Very Coherent',
+            'MOSTLY_COHERENT': 'Mostly Coherent',
+            'COHERENT': 'Coherent',
+            'INCOHERENT': 'Incoherent',
+
+            // Vitality
+            'LIVING': 'Living',
+            'CONVENTIONAL': 'Conventional',
+            'DEAD': 'Dead',
+
+            // Narrative classifications
+            'GRACE': 'Grace',
+            'MORALISM': 'Moralism',
+            'MIXED': 'Mixed',
+
+            // Strength levels
+            'VERY_STRONG': 'Very Strong',
+            'STRONG': 'Strong',
+            'MODERATE': 'Moderate',
+            'LOW': 'Low',
+            'SEVERE': 'Severe',
+
+            // Soteriology models
+            'CHRISTUS_VICTOR': 'Christus Victor',
+            'MORAL_INFLUENCE': 'Moral Influence',
+            'SUBSTITUTION': 'Substitution',
+            'SATISFACTION': 'Satisfaction',
+            'THEOSIS': 'Theosis',
+            'PARTICIPATION': 'Participation',
+
+            // Human role in salvation
+            'ACTIVE_PARTICIPANT': 'Active Participant',
+            'PASSIVE_RECEIVER': 'Passive Receiver',
+            'PRIMARY_ACTOR': 'Primary Actor',
+
+            // Pneumatology
+            'INDWELLING_POWER': 'Indwelling Power',
+            'EXTERNAL_HELPER': 'External Helper',
+            'ABSENT': 'Absent',
+
+            // Hamartiology
+            'COSMIC_POWER': 'Cosmic Power',
+            'MORAL_MISTAKE': 'Moral Mistake',
+            'EXISTENTIAL_STATE': 'Existential State',
+            'ONTOLOGICAL_DAMAGE': 'Ontological Damage',
+
+            // Eschatology
+            'ALREADY_AND_NOT_YET': 'Already and Not Yet',
+            'NOT_YET': 'Not Yet',
+            'FUTURISTIC': 'Futuristic',
+            'REALIZED': 'Realized',
+            'UNDEFINED': 'Undefined',
+
+            // Speech Act classifications
+            'CONSTATIVE_SURPLUS': 'Constative Surplus',
+            'PERFORMATIVE_DOMINANT': 'Performative Dominant',
+            'BALANCED': 'Balanced',
+            'INFORMATIVE_TEACHING': 'Informative Teaching',
+            'COMFORTING_EVANGELICAL': 'Comforting Evangelical',
+            'ASSERTING': 'Asserting',
+            'FAULTY': 'Faulty',
+
+            // Domain types
+            'MILITARY': 'Military',
+            'JURIDICAL': 'Juridical',
+            'JOURNEY': 'Journey',
+            'ARCHITECTURAL': 'Architectural',
+            'AGRARIAN': 'Agrarian',
+            'ECONOMIC': 'Economic',
+            'MEDICAL': 'Medical',
+            'RELATIONAL_FAMILIAL': 'Relational/Familial',
+            'THEATER': 'Theater',
+            'ACOUSTIC': 'Acoustic',
+
+            // Modal analysis
+            'SAVOIR': 'Savoir (know)',
+            'SAVOIR-FAIRE': 'Savoir-faire (know how)',
+            'DEVOIR': 'Devoir (must)',
+            'DEVOIR-FAIRE': 'Devoir-faire (must do)',
+            'VOULOIR': 'Vouloir (will)',
+            'VOULOIR-FAIRE': 'Vouloir-faire (want to do)',
+            'POUVOIR': 'Pouvoir (can)',
+            'POUVOIR-FAIRE': 'Pouvoir-faire (can do)',
+
+            // Narrative roles
+            'SUBJECT_HERO': 'Subject/Hero',
+            'RECEIVER_SAVED': 'Receiver/Saved',
+            'SUBJECT': 'Subject',
+            'INSTRUMENTAL_HELPER': 'Instrumental Helper',
+            'THERAPIST': 'Therapist',
+            'LOVING_FATHER': 'Loving Father',
+
+            // Object types
+            'SOTERIOLOGICAL': 'Soteriological',
+            'THERAPEUTIC': 'Therapeutic',
+            'ETHICAL': 'Ethical',
+
+            // Opponent severity
+            'COSMIC': 'Cosmic',
+            'SOCIAL': 'Social',
+            'PERSONAL': 'Personal',
+
+            // Relationship types
+            'SEQUENTIAL': 'Sequential',
+            'PARALLEL': 'Parallel',
+            'HIERARCHICAL': 'Hierarchical',
+
+            // Strength types (metaphor)
+            'REVITALIZATION': 'Revitalization',
+            'CONTEXTUAL_FIT': 'Contextual Fit',
+            'THEOLOGICAL_DEPTH': 'Theological Depth',
+
+            // Risk types
+            'LITERALIZATION': 'Literalization',
+            'INCOHERENCE': 'Incoherence',
+
+            // World building
+            'VIVID': 'Vivid',
+
+            // Strategies
+            'NARRATIVE_EMBODIMENT': 'Narrative Embodiment'
+        };
+
+        // Return translation if exists, otherwise convert underscores to spaces and title case
+        if (translations[tag]) {
+            return translations[tag];
+        }
+
+        // Fallback: convert UPPERCASE_WITH_UNDERSCORES to Title Case With Spaces
+        return tag.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase()).replace(/\b\w+/g, w => w.charAt(0) + w.slice(1).toLowerCase());
+    }
+
     // Helper function to get score class
     function getScoreClass(score) {
         if (score >= 8) {
@@ -1685,7 +1830,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         let html = `<div class="card full-width">
             <div class="card-header">
                 <span class="card-title">💬 Speech Act Theory (Austin/Searle)</span>
-                <span class="score-badge ${classificatie.includes('PERFORMATIEF') ? 'score-high' : classificatie.includes('SURPLUS') ? 'score-low' : 'score-mid'}">${classificatie}</span>
+                <span class="score-badge ${classificatie.includes('PERFORMATIEF') || classificatie.includes('PERFORMATIVE') ? 'score-high' : classificatie.includes('SURPLUS') ? 'score-low' : 'score-mid'}">${translateTag(classificatie)}</span>
             </div>
             <div class="text-content">
                 <p><strong>Constative:</strong> ${diagnose.constatief_percentage || '?'}% | <strong>Performative:</strong> ${diagnose.performatief_percentage || '?'}%</p>
@@ -1781,7 +1926,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         }
 
         html += `<div class="card full-width">
-            <div class="card-header"><span class="card-title">Recommendations</span><span class="score-badge ${aanbev.overall_beoordeling === 'EXCELLENT' ? 'score-high' : 'score-mid'}">${aanbev.overall_beoordeling || 'N/A'}</span></div>
+            <div class="card-header"><span class="card-title">Recommendations</span><span class="score-badge ${aanbev.overall_beoordeling === 'EXCELLENT' ? 'score-high' : 'score-mid'}">${translateTag(aanbev.overall_beoordeling) || 'N/A'}</span></div>
             <div class="text-content">
                 <p><strong>Verb Audit:</strong> ${formatText(aanbev.werkwoord_audit_samenvatting || '')}</p>
                 ${suggestiesHTML}
@@ -1797,6 +1942,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         const primair = data.primaire_analyse || {};
         const diag = data.diagnostische_evaluatie || {};
         const aanbev = data.aanbevelingen || {};
+        const app = data.appendices || {};
 
         const overall = aanbev.overall_beoordeling || 'Unknown';
         const coherentie = diag.coherentie_analyse?.overall_coherentie || 'Unknown';
@@ -1804,10 +1950,12 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         let html = `<div class="card full-width">
             <div class="card-header">
                 <span class="card-title">🧠 Conceptual Metaphor Theory (Lakoff/Johnson)</span>
-                <span class="score-badge ${overall === 'EXCELLENT' ? 'score-high' : overall.includes('GOED') ? 'score-mid' : 'score-low'}">${overall}</span>
+                <span class="score-badge ${overall === 'EXCELLENT' ? 'score-high' : overall.includes('GOED') || overall.includes('GOOD') ? 'score-mid' : 'score-low'}">${translateTag(overall)}</span>
             </div>
             <div class="text-content">
-                <p><strong>Coherence:</strong> ${coherentie}</p>
+                <p><strong>Sermon:</strong> ${meta.titel_preek || 'Unknown'}</p>
+                <p><strong>Scripture:</strong> ${meta.bijbeltekst || 'Unknown'}</p>
+                <p><strong>Coherence:</strong> ${translateTag(coherentie)}</p>
                 <p>${formatText(diag.coherentie_analyse?.coherentie_verklaring || '')}</p>
             </div>
         </div>`;
@@ -1834,26 +1982,88 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             <div class="text-content">${domeinenHTML}</div>
         </div>`;
 
-        // Metaphor Inventory
+        // Coherence Analysis (Extended)
+        const coherentieData = diag.coherentie_analyse || {};
+        const incoherentiePunten = coherentieData.incoherentie_punten || [];
+        const succesvolleBlending = coherentieData.succesvolle_blending || [];
+
+        if (incoherentiePunten.length > 0 || succesvolleBlending.length > 0) {
+            let coherentieHTML = '';
+
+            if (succesvolleBlending.length > 0) {
+                coherentieHTML += '<div style="margin-bottom: 1rem;"><strong>Successful Blending:</strong>';
+                succesvolleBlending.forEach(b => {
+                    coherentieHTML += `
+                        <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; font-size: 0.85rem;">
+                            <p style="margin: 0;"><strong>Location:</strong> ${formatText(b.locatie || '')}</p>
+                            ${b.gemengde_metaforen?.length ? `<p style="margin: 0.25rem 0; font-size: 0.8rem; color: var(--text-muted);">Metaphors: ${b.gemengde_metaforen.map(m => formatText(m)).join(', ')}</p>` : ''}
+                            ${b.blending_strategie ? `<p style="margin: 0.25rem 0; font-size: 0.8rem;">${formatText(b.blending_strategie)}</p>` : ''}
+                        </div>`;
+                });
+                coherentieHTML += '</div>';
+            }
+
+            if (incoherentiePunten.length > 0) {
+                coherentieHTML += '<div><strong>Incoherence Points:</strong>';
+                incoherentiePunten.forEach(p => {
+                    if (typeof p === 'object') {
+                        coherentieHTML += `
+                            <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; font-size: 0.85rem; border-left: 3px solid var(--warning-color);">
+                                <p style="margin: 0;"><strong>Location:</strong> ${formatText(p.locatie || '')}</p>
+                                ${p.metafoor_a ? `<p style="margin: 0.25rem 0; font-size: 0.8rem;">Metaphor A: ${formatText(p.metafoor_a)} vs Metaphor B: ${formatText(p.metafoor_b || '')}</p>` : ''}
+                                ${p.conflict_beschrijving ? `<p style="margin: 0.25rem 0; font-size: 0.8rem; color: var(--text-muted);">${formatText(p.conflict_beschrijving)}</p>` : ''}
+                                ${p.ernst ? `<p style="margin: 0.25rem 0; font-size: 0.75rem; color: var(--warning-color);">Severity: ${p.ernst}</p>` : ''}
+                            </div>`;
+                    } else {
+                        coherentieHTML += `<p style="margin: 0.25rem 0; font-size: 0.85rem;">${formatText(p)}</p>`;
+                    }
+                });
+                coherentieHTML += '</div>';
+            }
+
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Coherence Analysis</span></div>
+                <div class="text-content">${coherentieHTML}</div>
+            </div>`;
+        }
+
+        // Metaphor Inventory (with Entailments)
         const metaforen = primair.metafoor_inventaris || [];
         let metafoorHTML = '';
-        metaforen.forEach((meta, idx) => {
-            const vitaliteit = meta.vitaliteit_status || 'UNKNOWN';
+        metaforen.forEach((m, idx) => {
+            const vitaliteit = m.vitaliteit_status || 'UNKNOWN';
             const vitaliteitColor = vitaliteit === 'LEVEND' || vitaliteit === 'LIVING' ? 'var(--success-color)' : vitaliteit === 'DOOD' || vitaliteit === 'DEAD' ? 'var(--danger-color)' : 'var(--warning-color)';
+            const vitaliteitDisplay = translateTag(vitaliteit);
 
             let mappingHTML = '';
-            if (meta.mapping_structuur && meta.mapping_structuur.length > 0) {
+            if (m.mapping_structuur && m.mapping_structuur.length > 0) {
                 mappingHTML = '<p style="margin: 0.25rem 0; font-size: 0.8rem; color: var(--text-muted);">';
-                mappingHTML += meta.mapping_structuur.map(m => `${formatText(m.bron_element)} → ${formatText(m.doel_element)}`).join('; ');
+                mappingHTML += m.mapping_structuur.map(mp => `${formatText(mp.bron_element)} → ${formatText(mp.doel_element)}`).join('; ');
                 mappingHTML += '</p>';
+            }
+
+            // Entailments
+            let entailmentsHTML = '';
+            if (m.entailments) {
+                const ent = m.entailments;
+                let allImplicaties = [];
+                if (ent.theologische_implicaties?.length) allImplicaties.push(...ent.theologische_implicaties);
+                if (ent.cognitieve_implicaties?.length) allImplicaties.push(...ent.cognitieve_implicaties);
+                if (ent.ethische_implicaties?.length) allImplicaties.push(...ent.ethische_implicaties);
+                if (ent.onbedoelde_consequenties?.length) allImplicaties.push(...ent.onbedoelde_consequenties.filter(c => c !== 'Geen' && c !== 'None'));
+
+                if (allImplicaties.length > 0) {
+                    entailmentsHTML = `<p style="margin: 0.25rem 0; font-size: 0.8rem; color: var(--text-muted);"><strong>Implications:</strong> ${allImplicaties.slice(0, 3).map(i => formatText(i)).join('; ')}</p>`;
+                }
             }
 
             metafoorHTML += `
                 <div style="margin-bottom: 0.75rem; padding-bottom: 0.75rem; ${idx < metaforen.length - 1 ? 'border-bottom: 1px solid var(--border-color);' : ''}">
-                    <p style="font-weight: bold; margin-bottom: 0.25rem; font-size: 0.9rem;">"${formatText(meta.metafoor_expressie)}"</p>
-                    <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Source:</strong> ${formatText(meta.brondomein?.naam || 'Unknown')} → <strong>Target:</strong> ${formatText(meta.doeldomein?.theologisch_concept || 'Unknown')}</p>
+                    <p style="font-weight: bold; margin-bottom: 0.25rem; font-size: 0.9rem;">"${formatText(m.metafoor_expressie)}"</p>
+                    <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Source:</strong> ${formatText(m.brondomein?.naam || 'Unknown')} → <strong>Target:</strong> ${formatText(m.doeldomein?.theologisch_concept || 'Unknown')}</p>
                     ${mappingHTML}
-                    <p style="margin: 0.25rem 0; font-size: 0.8rem; color: ${vitaliteitColor};"><strong>Vitality:</strong> ${vitaliteit} — <span style="font-style: italic; color: var(--text-muted);">${formatText(meta.vitaliteit_toelichting || '')}</span></p>
+                    ${entailmentsHTML}
+                    <p style="margin: 0.25rem 0; font-size: 0.8rem; color: ${vitaliteitColor};"><strong>Vitality:</strong> ${vitaliteitDisplay} — <span style="font-style: italic; color: var(--text-muted);">${formatText(m.vitaliteit_toelichting || '')}</span></p>
                 </div>`;
         });
 
@@ -1871,7 +2081,8 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             evalHTML += '<h4 style="color: var(--success-color); margin-top: 0;">Strengths</h4>';
             sterktes.forEach(s => {
                 evalHTML += `<div style="margin-bottom: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid var(--success-color);">
-                    <p style="margin: 0;">${formatText(s.beschrijving)}</p>
+                    <p style="margin: 0;"><strong>${s.sterkte_type || 'Strength'}:</strong> ${formatText(s.beschrijving)}</p>
+                    ${s.voorbeeld ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">"${formatText(s.voorbeeld)}"</p>` : ''}
                 </div>`;
             });
         }
@@ -1879,9 +2090,11 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         if (risicos.length > 0) {
             evalHTML += '<h4 style="color: var(--warning-color); margin-top: 1rem;">Risks</h4>';
             risicos.forEach(r => {
-                const ernstColor = r.ernst === 'ERNSTIG' || r.ernst === 'SEVERE' ? 'var(--danger-color)' : 'var(--warning-color)';
+                const ernstColor = r.ernst === 'ERNSTIG' || r.ernst === 'SEVERE' || r.ernst === 'HIGH' ? 'var(--danger-color)' : r.ernst === 'MODERATE' || r.ernst === 'MATIG' ? 'var(--warning-color)' : 'var(--success-color)';
                 evalHTML += `<div style="margin-bottom: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid ${ernstColor};">
-                    <p style="margin: 0;"><strong>${r.risico_type || 'Risk'}</strong> (${r.ernst}): ${formatText(r.beschrijving)}</p>
+                    <p style="margin: 0;"><strong>${r.risico_type || 'Risk'}</strong> <span style="color: ${ernstColor};">(${r.ernst})</span>: ${formatText(r.beschrijving)}</p>
+                    ${r.voorbeeld ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">"${formatText(r.voorbeeld)}"</p>` : ''}
+                    ${r.potentiele_impact ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; color: var(--text-muted);"><strong>Impact:</strong> ${formatText(r.potentiele_impact)}</p>` : ''}
                 </div>`;
             });
         }
@@ -1893,14 +2106,184 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             </div>`;
         }
 
-        // Recommendations
+        // Text World Analysis
+        const textWorld = diag.text_world_analyse;
+        if (textWorld) {
+            let deicticHTML = '';
+            if (textWorld.deictic_shifts?.length > 0) {
+                deicticHTML = '<div style="margin-top: 0.75rem;"><strong>Deictic Shifts:</strong>';
+                textWorld.deictic_shifts.forEach(d => {
+                    deicticHTML += `
+                        <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; font-size: 0.85rem;">
+                            <p style="margin: 0;"><strong>${formatText(d.locatie || '')}:</strong> ${formatText(d.van_wereld || '')} → ${formatText(d.naar_wereld || '')}</p>
+                            ${d.effectiviteit ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; color: var(--text-muted);">${formatText(d.effectiviteit)}</p>` : ''}
+                        </div>`;
+                });
+                deicticHTML += '</div>';
+            }
+
+            html += `<div class="card">
+                <div class="card-header">
+                    <span class="card-title">Text World Analysis</span>
+                    ${textWorld.world_building_effectiviteit ? `<span class="score-badge score-mid">${translateTag(textWorld.world_building_effectiviteit)}</span>` : ''}
+                </div>
+                <div class="text-content">
+                    <p><strong>Primary World:</strong> ${formatText(textWorld.primaire_wereld || '')}</p>
+                    ${textWorld.sub_worlds?.length > 0 ? `<p style="margin-top: 0.5rem;"><strong>Sub-worlds:</strong> ${textWorld.sub_worlds.map(w => formatText(w)).join('; ')}</p>` : ''}
+                    ${deicticHTML}
+                </div>
+            </div>`;
+        }
+
+        // Schema Analysis
+        const schemaAnalyse = diag.schema_analyse;
+        if (schemaAnalyse) {
+            let schemaHTML = '';
+
+            if (schemaAnalyse.versterkte_schemas?.length > 0) {
+                schemaHTML += '<div style="margin-bottom: 0.75rem;"><strong>Reinforced Schemas:</strong>';
+                schemaAnalyse.versterkte_schemas.forEach(s => {
+                    schemaHTML += `
+                        <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid var(--success-color); font-size: 0.85rem;">
+                            <p style="margin: 0;"><strong>${formatText(s.schema_naam || '')}</strong></p>
+                            ${s.hoe_versterkt ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; color: var(--text-muted);">${formatText(s.hoe_versterkt)}</p>` : ''}
+                        </div>`;
+                });
+                schemaHTML += '</div>';
+            }
+
+            if (schemaAnalyse.verstoorde_schemas?.length > 0) {
+                schemaHTML += '<div style="margin-bottom: 0.75rem;"><strong>Disrupted Schemas:</strong>';
+                schemaAnalyse.verstoorde_schemas.forEach(s => {
+                    schemaHTML += `
+                        <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid var(--warning-color); font-size: 0.85rem;">
+                            <p style="margin: 0;"><strong>${formatText(s.schema_naam || '')}</strong></p>
+                            ${s.verstoring_strategie ? `<p style="margin: 0.25rem 0; font-size: 0.8rem;">${formatText(s.verstoring_strategie)}</p>` : ''}
+                            ${s.vervangend_schema ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; color: var(--text-muted);">→ ${formatText(s.vervangend_schema)}</p>` : ''}
+                        </div>`;
+                });
+                schemaHTML += '</div>';
+            }
+
+            if (schemaAnalyse.liturgische_schema_aansluiting) {
+                schemaHTML += `<p style="font-size: 0.85rem;"><strong>Liturgical Connection:</strong> ${formatText(schemaAnalyse.liturgische_schema_aansluiting)}</p>`;
+            }
+
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Schema Analysis</span></div>
+                <div class="text-content">${schemaHTML}</div>
+            </div>`;
+        }
+
+        // Extended Recommendations
+        let aanbevHTML = '';
+
+        if (aanbev.metafoor_audit_samenvatting) {
+            aanbevHTML += `<p style="margin-bottom: 1rem;">${formatText(aanbev.metafoor_audit_samenvatting)}</p>`;
+        }
+
+        // Revitalization Suggestions
+        if (aanbev.revitalisatie_suggesties?.length > 0) {
+            aanbevHTML += '<div style="margin-bottom: 1rem;"><strong>Revitalization Suggestions:</strong>';
+            aanbev.revitalisatie_suggesties.forEach(s => {
+                aanbevHTML += `
+                    <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; font-size: 0.85rem;">
+                        <p style="margin: 0;"><strong>${formatText(s.doel_metafoor || '')}</strong></p>
+                        ${s.huidige_status ? `<p style="margin: 0.25rem 0; font-size: 0.8rem; color: var(--text-muted);">Status: ${formatText(s.huidige_status)}</p>` : ''}
+                        ${s.suggestie ? `<p style="margin: 0.25rem 0; font-size: 0.8rem;">${formatText(s.suggestie)}</p>` : ''}
+                        ${s.voorbeeld ? `<p style="margin: 0.25rem 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">"${formatText(s.voorbeeld)}"</p>` : ''}
+                    </div>`;
+            });
+            aanbevHTML += '</div>';
+        }
+
+        // Coherence Improvements
+        if (aanbev.coherentie_verbeteringen?.length > 0) {
+            aanbevHTML += '<div style="margin-bottom: 1rem;"><strong>Coherence Improvements:</strong>';
+            aanbev.coherentie_verbeteringen.forEach(c => {
+                aanbevHTML += `
+                    <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; font-size: 0.85rem;">
+                        ${c.incoherentie ? `<p style="margin: 0;"><strong>Problem:</strong> ${formatText(c.incoherentie)}</p>` : ''}
+                        ${c.resolutie_strategie ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem;"><strong>Solution:</strong> ${formatText(c.resolutie_strategie)}</p>` : ''}
+                    </div>`;
+            });
+            aanbevHTML += '</div>';
+        }
+
+        // Entailment Checks
+        if (aanbev.entailment_checks?.length > 0) {
+            aanbevHTML += '<div style="margin-bottom: 1rem;"><strong>Entailment Checks:</strong>';
+            aanbev.entailment_checks.forEach(e => {
+                aanbevHTML += `
+                    <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; font-size: 0.85rem;">
+                        ${e.metafoor ? `<p style="margin: 0;"><strong>${formatText(e.metafoor)}</strong></p>` : ''}
+                        ${e.problematisch_entailment ? `<p style="margin: 0.25rem 0; font-size: 0.8rem; color: var(--warning-color);">${formatText(e.problematisch_entailment)}</p>` : ''}
+                        ${e.aanbeveling ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem;">${formatText(e.aanbeveling)}</p>` : ''}
+                    </div>`;
+            });
+            aanbevHTML += '</div>';
+        }
+
+        // Alternative Domains
+        if (aanbev.alternatieve_domeinen?.length > 0) {
+            aanbevHTML += '<div style="margin-bottom: 1rem;"><strong>Alternative Domains:</strong>';
+            aanbev.alternatieve_domeinen.forEach(a => {
+                aanbevHTML += `
+                    <div style="margin-top: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; font-size: 0.85rem;">
+                        ${a.voorgesteld_domein ? `<p style="margin: 0;"><strong>${formatText(a.voorgesteld_domein)}</strong></p>` : ''}
+                        ${a.rationale ? `<p style="margin: 0.25rem 0; font-size: 0.8rem;">${formatText(a.rationale)}</p>` : ''}
+                        ${a.doel_concept ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; color: var(--text-muted);">Target: ${formatText(a.doel_concept)}</p>` : ''}
+                    </div>`;
+            });
+            aanbevHTML += '</div>';
+        }
+
+        // Final Remarks
+        if (aanbev.slotopmerking) {
+            aanbevHTML += `
+                <div style="padding: 0.75rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid var(--primary-color); font-size: 0.9rem;">
+                    <p style="margin: 0; font-style: italic;">${formatText(aanbev.slotopmerking)}</p>
+                </div>`;
+        }
+
         html += `<div class="card full-width">
-            <div class="card-header"><span class="card-title">Recommendations</span></div>
-            <div class="text-content">
-                <p>${formatText(aanbev.metafoor_audit_samenvatting || '')}</p>
-                <div class="advice-box">👉 ${formatText(aanbev.slotopmerking || '')}</div>
+            <div class="card-header">
+                <span class="card-title">Recommendations</span>
+                <span class="score-badge ${aanbev.overall_beoordeling === 'EXCELLENT' ? 'score-high' : 'score-mid'}">${translateTag(aanbev.overall_beoordeling) || 'N/A'}</span>
             </div>
+            <div class="text-content">${aanbevHTML}</div>
         </div>`;
+
+        // Appendices
+        if (app.volledige_metafoor_lijst?.length > 0 || app.woord_frequentie_analyse || app.notities) {
+            let appHTML = '';
+
+            if (app.volledige_metafoor_lijst?.length > 0) {
+                appHTML += `<p style="margin-bottom: 0.5rem;"><strong>Full Metaphor List:</strong> ${app.volledige_metafoor_lijst.map(m => formatText(m)).join('; ')}</p>`;
+            }
+
+            if (app.woord_frequentie_analyse) {
+                const freq = app.woord_frequentie_analyse;
+                const freqItems = Object.entries(freq).map(([k, v]) => {
+                    if (typeof v === 'object' && v.count) {
+                        return `${k}: ${v.count}${v.primair_subject ? ` (${v.primair_subject})` : ''}`;
+                    }
+                    return `${k}: ${v}`;
+                });
+                if (freqItems.length > 0) {
+                    appHTML += `<p style="margin-bottom: 0.5rem;"><strong>Word Frequency:</strong> ${freqItems.join('; ')}</p>`;
+                }
+            }
+
+            if (app.notities) {
+                appHTML += `<p style="margin: 0; font-style: italic; color: var(--text-muted);">${formatText(app.notities)}</p>`;
+            }
+
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Appendices</span></div>
+                <div class="text-content">${appHTML}</div>
+            </div>`;
+        }
 
         container.innerHTML = html;
     }
@@ -1921,10 +2304,12 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         let html = `<div class="card full-width">
             <div class="card-header">
                 <span class="card-title">🎭 Narrative Semiotics (Greimas)</span>
-                <span class="score-badge ${classificatie === 'GENADE' || classificatie === 'GRACE' ? 'score-high' : classificatie === 'MORALISME' || classificatie === 'MORALISM' ? 'score-low' : 'score-mid'}">${classificatie}</span>
+                <span class="score-badge ${classificatie === 'GENADE' || classificatie === 'GRACE' ? 'score-high' : classificatie === 'MORALISME' || classificatie === 'MORALISM' ? 'score-low' : 'score-mid'}">${translateTag(classificatie)}</span>
             </div>
             <div class="text-content">
-                <div style="font-family: var(--font-mono); font-size: 0.85rem; background: var(--bg-element); padding: 0.75rem; border-radius: 6px;">
+                <p><strong>Sermon:</strong> ${meta.titel_preek || 'Unknown'}</p>
+                <p><strong>Scripture:</strong> ${meta.bijbeltekst || 'Unknown'}</p>
+                <div style="font-family: var(--font-mono); font-size: 0.85rem; background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.5rem;">
                     <strong>Rutledge Score:</strong> ${'█'.repeat(rutledge) + '░'.repeat(10 - rutledge)} <span class="score-badge ${rutledgeClass}" style="font-size: 0.75rem; padding: 0.15rem 0.5rem; margin-left: 0.5rem;">${rutledge}/10</span>
                 </div>
                 <p style="margin-top: 0.75rem;">${formatText(diag.classificatie_toelichting || '')}</p>
@@ -1946,7 +2331,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                     <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
                         <strong style="color: var(--primary-color);">Object</strong>
                         <p style="font-size: 0.85rem; margin: 0.4rem 0;">${primair.object?.identificatie || 'Unknown'}</p>
-                        <p style="font-size: 0.75rem; color: var(--text-muted); margin: 0;">${primair.object?.aard_van_object || ''}</p>
+                        <p style="font-size: 0.75rem; color: var(--text-muted); margin: 0;">${translateTag(primair.object?.aard_van_object || '')}</p>
                     </div>
                     <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
                         <strong style="color: var(--accent-color);">Sender</strong>
@@ -1963,11 +2348,34 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                     <div style="background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
                         <strong style="color: var(--danger-color);">Opponent</strong>
                         <p style="font-size: 0.85rem; margin: 0.4rem 0;">${primair.tegenstander?.identificatie || 'Unknown'}</p>
-                        <p style="font-size: 0.75rem; color: var(--text-muted); margin: 0;">${primair.tegenstander?.ernst_tegenstander || ''}</p>
+                        <p style="font-size: 0.75rem; color: var(--text-muted); margin: 0;">${translateTag(primair.tegenstander?.ernst_tegenstander || '')}</p>
                     </div>
                 </div>
             </div>
         </div>`;
+
+        // Secondary Narrative Program
+        const secundair = actant.secundair_narratief_programma || {};
+        if (secundair.aanwezig === 'true' || secundair.aanwezig === true) {
+            html += `<div class="card">
+                <div class="card-header"><span class="card-title">Secondary Narrative Program</span></div>
+                <div class="text-content">
+                    <p style="font-size: 0.9rem; margin-bottom: 0.5rem;">${formatText(secundair.beschrijving || '')}</p>
+                    <div style="display: flex; gap: 0.5rem; margin-top: 0.5rem; font-size: 0.85rem;">
+                        <div style="background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; flex: 1;">
+                            <strong>Subject:</strong> ${secundair.subject || 'Unknown'}
+                        </div>
+                        <div style="background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; flex: 1;">
+                            <strong>Object:</strong> ${secundair.object || 'Unknown'}
+                        </div>
+                    </div>
+                    <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.5rem; font-size: 0.9rem;">
+                        <strong>Relation to Primary:</strong> ${secundair.verhouding_tot_primair || 'Unknown'}
+                        <p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: var(--text-muted);">${formatText(secundair.toelichting_verhouding || '')}</p>
+                    </div>
+                </div>
+            </div>`;
+        }
 
         // Subject Check
         const subjectCheck = gramm.subject_check || {};
@@ -2020,7 +2428,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             <div class="text-content">
                 ${modaleHTML}
                 <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.5rem; font-size: 0.9rem;">
-                    <strong>Dominant:</strong> ${modale.dominante_modaliteit || 'Unknown'}
+                    <strong>Dominant:</strong> ${translateTag(modale.dominante_modaliteit) || 'Unknown'}
                     <p style="margin: 0.25rem 0 0 0; font-size: 0.85rem; color: var(--text-muted);">${formatText(modale.modale_interpretatie || '')}</p>
                 </div>
             </div>
@@ -2052,9 +2460,57 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                 <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.5rem; font-size: 0.9rem;">
                     <p style="margin: 0;"><strong>Movement:</strong> ${formatText(vierkant.beweging_in_preek || '')}</p>
                     <p style="margin: 0.5rem 0 0 0;"><strong>Resolution:</strong> ${formatText(vierkant.theologische_resolutie || '')}</p>
+                    ${vierkant.ernst_van_s2 ? `<p style="margin: 0.5rem 0 0 0;"><strong>Severity of S2:</strong> ${formatText(vierkant.ernst_van_s2)}</p>` : ''}
                 </div>
             </div>
         </div>`;
+
+        // Theological Depth Analysis
+        if (theo && (theo.soteriologie || theo.pneumatologie || theo.hamartologie || theo.eschatologie)) {
+            let theoHTML = '';
+
+            if (theo.soteriologie) {
+                theoHTML += `
+                    <div style="margin-bottom: 0.75rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--bg-element);">
+                        <strong style="color: var(--primary-color); font-size: 0.95rem;">Soteriology:</strong>
+                        <span style="font-size: 0.9rem;"> ${translateTag(theo.soteriologie.primaire_model) || 'Unknown'}</span>
+                        ${theo.soteriologie.tekstueel_bewijs ? `<p style="font-size: 0.8rem; margin: 0.25rem 0; color: var(--text-muted);">${formatText(theo.soteriologie.tekstueel_bewijs)}</p>` : ''}
+                        ${theo.soteriologie.menselijke_rol_in_redding ? `<p style="font-size: 0.85rem; margin: 0.25rem 0;"><em>Human Role:</em> ${translateTag(theo.soteriologie.menselijke_rol_in_redding)}</p>` : ''}
+                    </div>`;
+            }
+
+            if (theo.pneumatologie) {
+                theoHTML += `
+                    <div style="margin-bottom: 0.75rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--bg-element);">
+                        <strong style="color: var(--primary-color); font-size: 0.95rem;">Pneumatology:</strong>
+                        <span style="font-size: 0.9rem;"> ${translateTag(theo.pneumatologie.rol_heilige_geest) || 'Unknown'}</span>
+                        ${theo.pneumatologie.competentie_schenking ? `<p style="font-size: 0.8rem; margin: 0.25rem 0; color: var(--text-muted);">${formatText(theo.pneumatologie.competentie_schenking)}</p>` : ''}
+                    </div>`;
+            }
+
+            if (theo.hamartologie) {
+                theoHTML += `
+                    <div style="margin-bottom: 0.75rem; padding-bottom: 0.75rem; border-bottom: 1px solid var(--bg-element);">
+                        <strong style="color: var(--primary-color); font-size: 0.95rem;">Hamartiology:</strong>
+                        <span style="font-size: 0.9rem;"> ${translateTag(theo.hamartologie.aard_van_zonde) || 'Unknown'}</span>
+                        ${theo.hamartologie.ernst_diagnose ? `<p style="font-size: 0.8rem; margin: 0.25rem 0; color: var(--text-muted);">${formatText(theo.hamartologie.ernst_diagnose)}</p>` : ''}
+                    </div>`;
+            }
+
+            if (theo.eschatologie) {
+                theoHTML += `
+                    <div style="margin-bottom: 0;">
+                        <strong style="color: var(--primary-color); font-size: 0.95rem;">Eschatology:</strong>
+                        <span style="font-size: 0.9rem;"> ${translateTag(theo.eschatologie.hoop_structuur) || 'Unknown'}</span>
+                        ${theo.eschatologie.actant_van_voltooiing ? `<p style="font-size: 0.85rem; margin: 0.25rem 0;"><em>Agent of Completion:</em> ${theo.eschatologie.actant_van_voltooiing}</p>` : ''}
+                    </div>`;
+            }
+
+            html += `<div class="card full-width">
+                <div class="card-header"><span class="card-title">Theological Depth Analysis</span></div>
+                <div class="text-content">${theoHTML}</div>
+            </div>`;
+        }
 
         // Indicators
         const genade = diag.indicatoren_genade || [];
@@ -2086,13 +2542,66 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             </div>`;
         }
 
-        // Recommendations
+        // Extended Recommendations
+        let aanbeveHTML = `<p><strong>Actantial Audit:</strong> ${formatText(aanbev.actantiele_audit_samenvatting || '')}</p>`;
+
+        // Subject Repositioning
+        if (aanbev.subject_herpositionering?.nodig === 'true' || aanbev.subject_herpositionering?.nodig === true) {
+            aanbeveHTML += `
+                <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.75rem; border-left: 3px solid var(--warning-color); font-size: 0.9rem;">
+                    <strong style="color: var(--warning-color);">⚠ Subject Repositioning Needed</strong>
+                    <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Problem:</strong> ${formatText(aanbev.subject_herpositionering.huidige_probleem || '')}</p>
+                    <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Proposed:</strong> ${formatText(aanbev.subject_herpositionering.voorgestelde_herpositionering || '')}</p>
+                    ${aanbev.subject_herpositionering.voorbeeld_revisie ? `<p style="font-size: 0.8rem; font-style: italic; margin: 0.25rem 0; color: var(--text-muted);">"${formatText(aanbev.subject_herpositionering.voorbeeld_revisie)}"</p>` : ''}
+                </div>`;
+        }
+
+        // Identification Repair
+        if (aanbev.identificatie_herstel?.nodig === 'true' || aanbev.identificatie_herstel?.nodig === true) {
+            aanbeveHTML += `
+                <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.75rem; border-left: 3px solid var(--warning-color); font-size: 0.9rem;">
+                    <strong style="color: var(--warning-color);">⚠ Identification Repair Needed</strong>
+                    <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Problematic:</strong> ${formatText(aanbev.identificatie_herstel.problematische_identificatie || '')}</p>
+                    <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Proposed:</strong> ${formatText(aanbev.identificatie_herstel.voorgestelde_identificatie || '')}</p>
+                    <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Strategy:</strong> ${formatText(aanbev.identificatie_herstel.strategie || '')}</p>
+                </div>`;
+        }
+
+        // Modal Balance
+        if (aanbev.modale_balans) {
+            aanbeveHTML += `
+                <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.75rem; font-size: 0.9rem;">
+                    <strong>Modal Balance</strong>
+                    ${aanbev.modale_balans.huidige_onbalans ? `<p style="margin: 0.25rem 0; font-size: 0.85rem;">${formatText(aanbev.modale_balans.huidige_onbalans)}</p>` : ''}
+                    ${aanbev.modale_balans.voorgestelde_balans ? `<p style="margin: 0.25rem 0; font-size: 0.85rem;">${formatText(aanbev.modale_balans.voorgestelde_balans)}</p>` : ''}
+                    ${aanbev.modale_balans.concrete_suggestie ? `<p style="font-style: italic; margin: 0.25rem 0; font-size: 0.8rem; color: var(--text-muted);">${formatText(aanbev.modale_balans.concrete_suggestie)}</p>` : ''}
+                </div>`;
+        }
+
+        // Opponent Intensification
+        if (aanbev.tegenstander_intensivering?.nodig === 'true' || aanbev.tegenstander_intensivering?.nodig === true) {
+            aanbeveHTML += `
+                <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.75rem; border-left: 3px solid var(--warning-color); font-size: 0.9rem;">
+                    <strong style="color: var(--warning-color);">⚠ Opponent Intensification Needed</strong>
+                    ${aanbev.tegenstander_intensivering.huidige_status ? `<p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Current Status:</strong> ${formatText(aanbev.tegenstander_intensivering.huidige_status)}</p>` : ''}
+                    ${aanbev.tegenstander_intensivering.voorgestelde_intensivering ? `<p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Proposed:</strong> ${formatText(aanbev.tegenstander_intensivering.voorgestelde_intensivering)}</p>` : ''}
+                    ${aanbev.tegenstander_intensivering.theologische_rationale ? `<p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Rationale:</strong> ${formatText(aanbev.tegenstander_intensivering.theologische_rationale)}</p>` : ''}
+                </div>`;
+        }
+
+        // Final Verdict
+        aanbeveHTML += `
+            <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-top: 0.75rem; border-left: 3px solid var(--primary-color); font-size: 0.9rem;">
+                <strong>Overall: ${translateTag(aanbev.overall_beoordeling) || 'N/A'}</strong>
+                <p style="margin: 0.25rem 0 0 0; font-style: italic; font-size: 0.85rem; color: var(--text-muted);">${formatText(aanbev.slotopmerking || '')}</p>
+            </div>`;
+
         html += `<div class="card full-width">
-            <div class="card-header"><span class="card-title">Recommendations</span><span class="score-badge ${aanbev.overall_beoordeling === 'EXCELLENT' || aanbev.overall_beoordeling === 'GENADE' ? 'score-high' : 'score-mid'}">${aanbev.overall_beoordeling || 'N/A'}</span></div>
-            <div class="text-content">
-                <p><strong>Actantial Audit:</strong> ${formatText(aanbev.actantiele_audit_samenvatting || '')}</p>
-                <div class="advice-box">👉 ${formatText(aanbev.slotopmerking || '')}</div>
+            <div class="card-header">
+                <span class="card-title">Recommendations</span>
+                <span class="score-badge ${aanbev.overall_beoordeling === 'EXCELLENT' || aanbev.overall_beoordeling === 'GENADE' || aanbev.overall_beoordeling === 'GRACE' ? 'score-high' : 'score-mid'}">${translateTag(aanbev.overall_beoordeling) || 'N/A'}</span>
             </div>
+            <div class="text-content">${aanbeveHTML}</div>
         </div>`;
 
         container.innerHTML = html;
@@ -2195,9 +2704,15 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         if (statisticsData) {
             const sourceData = detailedScores ? statisticsData.detailed : statisticsData.summary;
 
+            // Metrics to exclude from display
+            const excludedMetrics = ['metaphor_Coherence'];
+
             // Filter to only include selected theologians
             const filteredScores = {};
             for (const [metricKey, theologianStats] of Object.entries(sourceData)) {
+                // Skip excluded metrics
+                if (excludedMetrics.includes(metricKey)) continue;
+
                 const filteredTheologians = {};
                 for (const theologian of selectedTheologians) {
                     if (theologianStats[theologian]) {
@@ -2532,8 +3047,15 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         const chartWidth = width - padding.left - padding.right;
         const chartHeight = height - padding.top - padding.bottom;
 
-        // Scale (0-10 fixed, but use 11 for headroom to prevent label clipping)
-        const scale = chartHeight / 11;
+        // Determine y-axis max value based on metric type
+        // ACT metrics (Directives, Declaratives, Commissives, Expressives) use 0-4 scale
+        const lowScaleMetrics = ['speech_act_Directives', 'speech_act_Declaratives', 'speech_act_Commissives', 'speech_act_Expressives'];
+        const isLowScale = lowScaleMetrics.includes(metricKey);
+        const yAxisMax = isLowScale ? 4 : 10;
+        const yAxisHeadroom = isLowScale ? 4.5 : 11; // Headroom to prevent label clipping
+
+        // Scale based on y-axis max
+        const scale = chartHeight / yAxisHeadroom;
 
         // Calculate bar positions
         const numTheologians = selectedTheologians.length;
@@ -2630,8 +3152,8 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                           x1="${padding.left}" y1="${padding.top}"
                           x2="${padding.left}" y2="${padding.top + chartHeight}" />
 
-                    <!-- Y-axis labels -->
-                    ${[0, 2, 4, 6, 8, 10].map(val => {
+                    <!-- Y-axis labels (dynamic based on scale) -->
+                    ${(isLowScale ? [0, 1, 2, 3, 4] : [0, 2, 4, 6, 8, 10]).map(val => {
                         const y = padding.top + chartHeight - (val * scale);
                         return `
                             <line class="chart-axis-line"
@@ -2728,9 +3250,15 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         if (violinData) {
             const sourceData = detailedScores ? violinData.detailed : violinData.summary;
 
+            // Metrics to exclude from display
+            const excludedMetrics = ['metaphor_Coherence'];
+
             // Filter to only include selected theologians
             const filteredData = {};
             for (const [metricKey, theologianData] of Object.entries(sourceData)) {
+                // Skip excluded metrics
+                if (excludedMetrics.includes(metricKey)) continue;
+
                 filteredData[metricKey] = {};
                 for (const theologian of selectedTheologians) {
                     if (theologianData[theologian]) {
@@ -2887,8 +3415,15 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
         const chartWidth = width - padding.left - padding.right;
         const chartHeight = height - padding.top - padding.bottom;
 
-        // Scale (0-10 fixed, but use 11 for headroom to prevent label clipping)
-        const scale = chartHeight / 11;
+        // Determine y-axis max value based on metric type
+        // ACT metrics (Directives, Declaratives, Commissives, Expressives) use 0-4 scale
+        const lowScaleMetrics = ['speech_act_Directives', 'speech_act_Declaratives', 'speech_act_Commissives', 'speech_act_Expressives'];
+        const isLowScale = lowScaleMetrics.includes(metricKey);
+        const yAxisMax = isLowScale ? 4 : 10;
+        const yAxisHeadroom = isLowScale ? 4.5 : 11; // Headroom to prevent label clipping
+
+        // Scale based on y-axis max
+        const scale = chartHeight / yAxisHeadroom;
 
         // Calculate violin positions
         const numTheologians = selectedTheologians.length;
@@ -3012,8 +3547,8 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                           x1="${padding.left}" y1="${padding.top}"
                           x2="${padding.left}" y2="${padding.top + chartHeight}" />
 
-                    <!-- Y-axis labels -->
-                    ${[0, 2, 4, 6, 8, 10].map(val => {
+                    <!-- Y-axis labels (dynamic based on scale) -->
+                    ${(isLowScale ? [0, 1, 2, 3, 4] : [0, 2, 4, 6, 8, 10]).map(val => {
                         const y = padding.top + chartHeight - (val * scale);
                         return `
                             <line class="chart-axis-line"
