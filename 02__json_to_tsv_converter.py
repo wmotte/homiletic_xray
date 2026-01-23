@@ -290,44 +290,44 @@ def extract_analysis_data(data: dict, analysis_type: str) -> dict:
     elif analysis_type == 'esthetiek':
         # Domain A - Poetics of Language
         dom_a = data.get('domain_a_poetics_of_language', {})
-        result['esthetiek.poetics.average_score'] = dom_a.get('average_score_language', '')
+        result['aesthetics.poetics.average_score'] = dom_a.get('average_score_language', '')
         for key, value in dom_a.items():
             if key.startswith('criterion_'):
                 if isinstance(value, dict):
                     criterion_name = key.replace('criterion_', '')
-                    result[f'esthetiek.poetics.{criterion_name}.score'] = value.get('score', '')
-                    result[f'esthetiek.poetics.{criterion_name}.analysis'] = serialize_value(value.get('analysis', ''))
-                    result[f'esthetiek.poetics.{criterion_name}.quotes'] = serialize_value(value.get('quotes', []))
+                    result[f'aesthetics.poetics.{criterion_name}.score'] = value.get('score', '')
+                    result[f'aesthetics.poetics.{criterion_name}.analysis'] = serialize_value(value.get('analysis', ''))
+                    result[f'aesthetics.poetics.{criterion_name}.quotes'] = serialize_value(value.get('quotes', []))
 
         # Domain B - Dramaturgy of Structure
         dom_b = data.get('domain_b_dramaturgy_of_structure', {})
-        result['esthetiek.dramaturgy.average_score'] = dom_b.get('average_score_structure', '')
+        result['aesthetics.dramaturgy.average_score'] = dom_b.get('average_score_structure', '')
         for key, value in dom_b.items():
             if key.startswith('criterion_'):
                 if isinstance(value, dict):
                     criterion_name = key.replace('criterion_', '')
-                    result[f'esthetiek.dramaturgy.{criterion_name}.score'] = value.get('score', '')
-                    result[f'esthetiek.dramaturgy.{criterion_name}.analysis'] = serialize_value(value.get('analysis', ''))
-                    result[f'esthetiek.dramaturgy.{criterion_name}.quotes'] = serialize_value(value.get('quotes', []))
+                    result[f'aesthetics.dramaturgy.{criterion_name}.score'] = value.get('score', '')
+                    result[f'aesthetics.dramaturgy.{criterion_name}.analysis'] = serialize_value(value.get('analysis', ''))
+                    result[f'aesthetics.dramaturgy.{criterion_name}.quotes'] = serialize_value(value.get('quotes', []))
 
         # Kitsch diagnosis
         kitsch = data.get('kitsch_diagnosis', {})
-        result['esthetiek.kitsch.anti_kitsch_score'] = kitsch.get('anti_kitsch_score', '')
-        result['esthetiek.kitsch.analysis'] = serialize_value(kitsch.get('analysis', ''))
-        result['esthetiek.kitsch.quotes'] = serialize_value(kitsch.get('quotes', []))
+        result['aesthetics.kitsch.anti_kitsch_score'] = kitsch.get('anti_kitsch_score', '')
+        result['aesthetics.kitsch.analysis'] = serialize_value(kitsch.get('analysis', ''))
+        result['aesthetics.kitsch.quotes'] = serialize_value(kitsch.get('quotes', []))
 
         # Space for grace
         space = data.get('space_for_grace_analysis', {})
-        result['esthetiek.space_for_grace.space_score'] = space.get('space_score', '')
-        result['esthetiek.space_for_grace.analysis'] = serialize_value(space.get('analysis', ''))
-        result['esthetiek.space_for_grace.quotes'] = serialize_value(space.get('quotes', []))
+        result['aesthetics.space_for_grace.space_score'] = space.get('space_score', '')
+        result['aesthetics.space_for_grace.analysis'] = serialize_value(space.get('analysis', ''))
+        result['aesthetics.space_for_grace.quotes'] = serialize_value(space.get('quotes', []))
 
         # Overall
         overall = data.get('overall_aesthetics', {})
-        result['esthetiek.overall.overall_aesthetic_score'] = overall.get('overall_aesthetic_score', '')
-        result['esthetiek.overall.summary'] = serialize_value(overall.get('summary', ''))
-        result['esthetiek.overall.strengths_top_3'] = serialize_value(overall.get('strengths_top_3', []))
-        result['esthetiek.overall.improvement_points_top_3'] = serialize_value(overall.get('improvement_points_top_3', []))
+        result['aesthetics.overall.overall_aesthetic_score'] = overall.get('overall_aesthetic_score', '')
+        result['aesthetics.overall.summary'] = serialize_value(overall.get('summary', ''))
+        result['aesthetics.overall.strengths_top_3'] = serialize_value(overall.get('strengths_top_3', []))
+        result['aesthetics.overall.improvement_points_top_3'] = serialize_value(overall.get('improvement_points_top_3', []))
 
     elif analysis_type == 'transactional':
         # Ego positions scan
@@ -581,11 +581,9 @@ def extract_analysis_data(data: dict, analysis_type: str) -> dict:
         result['narrative.secundair.beschrijving'] = serialize_value(secundair.get('beschrijving', ''))
         result['narrative.secundair.verhouding'] = serialize_value(secundair.get('verhouding_tot_primair', ''))
 
-        # Grammatical analysis
+        # Grammatical analysis (excluding raw counts: god_als_subject_count, mens_als_subject_count)
         gram = data.get('grammaticale_analyse', {})
         subject_check = gram.get('subject_check', {})
-        result['narrative.grammaticaal.god_subject_count'] = subject_check.get('god_als_subject_count', '')
-        result['narrative.grammaticaal.mens_subject_count'] = subject_check.get('mens_als_subject_count', '')
         result['narrative.grammaticaal.ratio'] = serialize_value(subject_check.get('ratio', ''))
         result['narrative.grammaticaal.rutledge_score'] = subject_check.get('rutledge_score', '')
 

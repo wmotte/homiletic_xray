@@ -6,55 +6,57 @@ D. Sölle Sermons - Model Output Variability Analysis
 EXECUTIVE SUMMARY
 -----------------
 This analysis compares two independent LLM analysis runs (A and B) on the same
-set of D. Sölle sermons across 6 analytical domains to quantify model output
+set of D. Sölle sermons across 9 analytical domains to quantify model output
 variability and assess reliability.
 
 OVERALL STATISTICS
 ------------------
-Total paired comparisons: 1512
-Mean absolute difference: 0.327 points
-SD of absolute difference: 0.564 points
+Total paired comparisons: 1643
+Mean absolute difference: 0.348 points
+SD of absolute difference: 0.638 points
 Median absolute difference: 0 points
-Maximum absolute difference: 4 points
+Maximum absolute difference: 5 points
 
 AGREEMENT METRICS
 -----------------
-Exact matches (difference = 0): 1047 (69.2%)
-Within 1 point: 1456 (96.3%)
-Overall correlation (Pearson r): 0.927
-Overall ICC: 0.927 [0.919-0.934] - Excellent
+Exact matches (difference = 0): 1157 (70.4%)
+Within 1 point: 1562 (95.1%)
+Overall correlation (Pearson r): 0.929
+Overall ICC: 0.929 [0.923-0.936] - Excellent
 
 DOMAIN-LEVEL FINDINGS
 ---------------------
 Ranked by mean absolute difference (highest variability first):
 
-1. transactional: Mean |diff| = 0.43, Correlation = 0.917, Exact matches = 71.9%
-2. schulz_von_thun: Mean |diff| = 0.34, Correlation = 0.817, Exact matches = 66.4%
-3. esthetiek: Mean |diff| = 0.34, Correlation = 0.867, Exact matches = 62.3%
-4. dekker: Mean |diff| = 0.33, Correlation = 0.921, Exact matches = 71.4%
-5. aristoteles: Mean |diff| = 0.33, Correlation = 0.847, Exact matches = 67.9%
-6. kolb: Mean |diff| = 0.27, Correlation = 0.938, Exact matches = 72.3%
+1. narrative: Mean |diff| = 0.61, Correlation = 0.866, Exact matches = 61.9%
+2. speech_act: Mean |diff| = 0.39, Correlation = 0.929, Exact matches = 69.4%
+3. transactional: Mean |diff| = 0.36, Correlation = 0.940, Exact matches = 73.5%
+4. schulz_von_thun: Mean |diff| = 0.34, Correlation = 0.817, Exact matches = 66.4%
+5. dekker: Mean |diff| = 0.33, Correlation = 0.921, Exact matches = 71.4%
+6. metaphor: Mean |diff| = 0.29, Correlation = 0.873, Exact matches = 78.3%
+7. aristoteles: Mean |diff| = 0.29, Correlation = 0.884, Exact matches = 70.1%
+8. kolb: Mean |diff| = 0.27, Correlation = 0.938, Exact matches = 72.3%
 
 KEY INSIGHTS
 ------------
-1. CONSISTENCY LEVEL: The overall ICC of 0.927 indicates excellent agreement between runs, suggesting the LLM produces relatively consistent scores
+1. CONSISTENCY LEVEL: The overall ICC of 0.929 indicates excellent agreement between runs, suggesting the LLM produces relatively consistent scores
    when analyzing the same sermon content.
 
-2. SYSTEMATIC BIAS: The mean difference (B - A) of -0.007 suggests no systematic bias between runs.
+2. SYSTEMATIC BIAS: The mean difference (B - A) of 0.004 suggests no systematic bias between runs.
 
-3. DOMAIN VARIABILITY: transactional shows the highest variability (0.43 mean |diff|), while kolb is most stable (0.27 mean |diff|).
+3. DOMAIN VARIABILITY: narrative shows the highest variability (0.61 mean |diff|), while kolb is most stable (0.27 mean |diff|).
 
 4. SCORE TYPE VARIABILITY: Some specific score types within domains show notably
    higher variability than others (see heatmap and summary_by_score_type.csv).
 
-5. PRACTICAL INTERPRETATION: With 96.3% of scores within 1 point
+5. PRACTICAL INTERPRETATION: With 95.1% of scores within 1 point
    difference, the model shows acceptable reliability for comparative analysis
    across sermons, though individual scores should be interpreted with caution
    (typical uncertainty of ~0.3 points).
 
 RECOMMENDATIONS
 ---------------
-- When comparing sermons, focus on differences > 1.1 points for confidence
+- When comparing sermons, focus on differences > 1.3 points for confidence
 - Consider averaging multiple runs for high-stakes analyses
 - Domain-specific findings should weight reliability levels appropriately
 - Absolute scores are less reliable than relative rankings
@@ -69,6 +71,6 @@ OUTPUT FILES
 - plot_*.pdf: Various visualization files
 
 ================================================================================
-Analysis completed: 2026-01-21 09:42:38
+Analysis completed: 2026-01-23 10:34:46
 ================================================================================
 

@@ -93,6 +93,11 @@ safe_extract <- function(json_data, path) {
       result <- result[[key]]
     }
     if (is.numeric(result)) return(as.numeric(result))
+    # Try to convert string to numeric (handles JSON values stored as strings)
+    if (is.character(result)) {
+      num_result <- suppressWarnings(as.numeric(result))
+      if (!is.na(num_result)) return(num_result)
+    }
     return(NA_real_)
   }, error = function(e) NA_real_)
 }
@@ -120,7 +125,7 @@ extract_scores <- function(json_data, domain) {
       scores[[paste0("criterion_", i)]] <- safe_extract(json_data, c("analysis_per_criterion", criteria[i], "score_1_to_10"))
     }
 
-  } else if (domain == "esthetiek") {
+  } else if (domain == "aesthetics") {
     scores$imagery <- safe_extract(json_data, c("domain_a_poetics_of_language", "criterion_a1_imagery", "score"))
     scores$precision <- safe_extract(json_data, c("domain_a_poetics_of_language", "criterion_a2_carefulness_and_precision", "score"))
     scores$musicality <- safe_extract(json_data, c("domain_a_poetics_of_language", "criterion_a3_musicality_and_rhythm", "score"))
@@ -206,9 +211,7 @@ extract_scores <- function(json_data, domain) {
   } else if (domain == "narrative") {
     # Subject frequency score
     scores$subject_frequentie <- safe_extract(json_data, c("actantiele_analyse", "primair_narratief_programma", "subject", "frequentie_score"))
-    # Grammatical analysis
-    scores$god_subject_count <- safe_extract(json_data, c("grammaticale_analyse", "subject_check", "god_als_subject_count"))
-    scores$mens_subject_count <- safe_extract(json_data, c("grammaticale_analyse", "subject_check", "mens_als_subject_count"))
+    # Grammatical analysis (excluding raw counts: god_als_subject_count, mens_als_subject_count)
     scores$rutledge_score <- safe_extract(json_data, c("grammaticale_analyse", "subject_check", "rutledge_score"))
     # Modal prominences
     scores$modal_devoir <- safe_extract(json_data, c("grammaticale_analyse", "modale_analyse", "devoir_faire", "prominentie"))
@@ -228,7 +231,7 @@ extract_scores <- function(json_data, domain) {
 
 cat("Loading JSON files...\n")
 
-domains <- c("aristoteles", "dekker", "esthetiek", "kolb", "schulz_von_thun", "transactional", "metaphor", "speech_act", "narrative")
+domains <- c("aristoteles", "dekker", "aesthetics", "kolb", "schulz_von_thun", "transactional", "metaphor", "speech_act", "narrative")
 
 # Find all Sölle files
 solle_files_A <- list.files(input_dir, pattern = "^solle_\\d+_[a-z_]+\\.json$", full.names = TRUE)
@@ -442,7 +445,7 @@ cat("\nGenerating visualizations...\n")
 domain_colors <- c(
   "aristoteles" = "#E41A1C",
   "dekker" = "#377EB8",
-  "esthetiek" = "#4DAF4A",
+  "aesthetics" = "#4DAF4A",
   "kolb" = "#984EA3",
   "schulz_von_thun" = "#FF7F00",
   "transactional" = "#A65628",

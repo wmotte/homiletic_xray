@@ -18,7 +18,7 @@ data_raw <- read_tsv(data_file, show_col_types = FALSE)
 domains <- list(
   aristoteles = "aristoteles.overall.overall_rhetorical_score",
   dekker = "dekker.overall.average_score",
-  esthetiek = "esthetiek.overall.overall_aesthetic_score",
+  aesthetics = "aesthetics.overall.overall_aesthetic_score",
   kolb = "kolb.overall.overall_kolb_score",
   schulz = "schulz.overall.overall_communication_score",
   transactional = "transactional.overall.psychological_health_score",

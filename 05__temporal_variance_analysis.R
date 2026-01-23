@@ -80,7 +80,7 @@ cat("Top 3 Theologians:", paste(top_theologians, collapse = ", "), "\n")
 domains <- list(
   aristoteles = "aristoteles.overall.overall_rhetorical_score",
   dekker = "dekker.overall.average_score",
-  esthetiek = "esthetiek.overall.overall_aesthetic_score",
+  aesthetics = "aesthetics.overall.overall_aesthetic_score",
   kolb = "kolb.overall.overall_kolb_score",
   schulz = "schulz.overall.overall_communication_score",
   transactional = "transactional.overall.psychological_health_score",

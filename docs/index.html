@@ -2424,13 +2424,10 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             <div class="text-content">
                 <div style="display: flex; gap: 0.5rem; margin-bottom: 1rem; font-size: 0.9rem;">
                     <div style="background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; flex: 1;">
-                        <strong>God as subject:</strong> ${subjectCheck.god_als_subject_count || 0}
+                        <strong>Ratio (God/Human):</strong> ${subjectCheck.ratio || '0'}
                     </div>
                     <div style="background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; flex: 1;">
-                        <strong>Human as subject:</strong> ${subjectCheck.mens_als_subject_count || 0}
-                    </div>
-                    <div style="background: var(--bg-element); padding: 0.5rem 0.75rem; border-radius: 6px; flex: 1;">
-                        <strong>Ratio:</strong> ${subjectCheck.ratio || '0'}
+                        <strong>Rutledge Score:</strong> ${subjectCheck.rutledge_score || '0'}
                     </div>
                 </div>
                 <h4 style="margin-top: 1rem;">Examples (God as subject):</h4>
