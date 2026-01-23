@@ -784,6 +784,7 @@
 
             // Eschatology
             'ALREADY_AND_NOT_YET': 'Already and Not Yet',
+            'ALREADY_COMPLETED': 'Already Completed',
             'NOT_YET': 'Not Yet',
             'FUTURISTIC': 'Futuristic',
             'REALIZED': 'Realized',
@@ -796,7 +797,13 @@
             'INFORMATIVE_TEACHING': 'Informative Teaching',
             'COMFORTING_EVANGELICAL': 'Comforting Evangelical',
             'ASSERTING': 'Asserting',
+            'ASSERTIVE': 'Assertive',
+            'COMMISSIVE': 'Commissive',
+            'DIRECTIVE': 'Directive',
+            'EXPRESSIVE': 'Expressive',
+            'DECLARATIVE': 'Declarative',
             'FAULTY': 'Faulty',
+            'UNCLEAR': 'Unclear',
 
             // Domain types
             'MILITARY': 'Military',
@@ -827,6 +834,9 @@
             'INSTRUMENTAL_HELPER': 'Instrumental Helper',
             'THERAPIST': 'Therapist',
             'LOVING_FATHER': 'Loving Father',
+            'JUDGE': 'Judge',
+            'SOVEREIGN': 'Sovereign',
+            'HELPER': 'Helper',
 
             // Object types
             'SOTERIOLOGICAL': 'Soteriological',
@@ -851,12 +861,42 @@
             // Risk types
             'LITERALIZATION': 'Literalization',
             'INCOHERENCE': 'Incoherence',
+            'VIOLENCE': 'Violence',
+            'COMMODIFICATION': 'Commodification',
+            'TRIUMPHALISM': 'Triumphalism',
+
+            // Severity (Dutch + English)
+            'ERNSTIG': 'Severe',
+            'MATIG': 'Moderate',
+            'LAAG': 'Low',
+            'HIGH': 'High',
+
+            // Strength (Dutch)
+            'ZEER_STERK': 'Very Strong',
+            'STERK': 'Strong',
+            'GEMIDDELD': 'Moderate',
+            'ZWAK': 'Weak',
+
+            // Vitality (Dutch)
+            'LEVEND': 'Living',
+            'DOOD': 'Dead',
+            'CONVENTIONEEL': 'Conventional',
 
             // World building
             'VIVID': 'Vivid',
 
             // Strategies
-            'NARRATIVE_EMBODIMENT': 'Narrative Embodiment'
+            'NARRATIVE_EMBODIMENT': 'Narrative Embodiment',
+            'DEEPEN_SOURCE': 'Deepen Source',
+            'EXTEND_MAPPING': 'Extend Mapping',
+            'REVITALIZE': 'Revitalize',
+
+            // Emotional/Psychological
+            'GUILT': 'Guilt',
+            'SHAME': 'Shame',
+            'FEAR': 'Fear',
+            'HOPE': 'Hope',
+            'JOY': 'Joy'
         };
 
         // Return translation if exists, otherwise convert underscores to spaces and title case
@@ -1392,7 +1432,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             html += `<div class="card">
                 <div class="card-header"><span class="card-title">${title}</span><span class="score-badge ${cls}">${score}/10</span></div>
                 <div class="text-content">${formatText(value.findings)}</div>
-                ${value.quotes && value.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${value.quotes.map(q => `"${formatText(q)}"`).join('<br>')}</div>` : ''}
+                ${value.quotes && value.quotes.length ? `<div class="quote-box"><span class="quote-header">Quotes</span>${value.quotes.map(q => `\u201c${formatText(q)}\u201d`).join('<br>')}</div>` : ''}
                 <div class="advice-box">👉 ${formatText(value.improvement_point)}</div>
             </div>`;
         }
@@ -1863,7 +1903,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                         <strong>${cat.emoji} ${cat.label}</strong>
                         <span style="font-family: var(--font-mono); font-weight: bold; color: var(--primary-color);">${freq} (${pct})</span>
                     </div>
-                    ${examples.length > 0 ? `<p style="font-size: 0.8rem; color: var(--text-muted); margin: 0.4rem 0 0 0; font-style: italic;">"${formatText(examples[0])}"</p>` : ''}
+                    ${examples.length > 0 ? `<p style="font-size: 0.8rem; color: var(--text-muted); margin: 0.4rem 0 0 0; font-style: italic;">\u201c${formatText(examples[0])}\u201d</p>` : ''}
                 </div>`;
         });
 
@@ -1918,8 +1958,8 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             perfIntens.specifieke_suggesties.forEach(sug => {
                 suggestiesHTML += `
                     <div style="background: var(--bg-element); padding: 0.75rem; border-radius: 6px; margin-bottom: 0.75rem;">
-                        <p style="margin: 0 0 0.5rem 0;"><strong>Current:</strong> "${formatText(sug.huidige_formulering)}"</p>
-                        <p style="margin: 0; color: var(--success-color);"><strong>Proposed:</strong> "${formatText(sug.voorgestelde_revisie)}"</p>
+                        <p style="margin: 0 0 0.5rem 0;"><strong>Current:</strong> \u201c${formatText(sug.huidige_formulering)}\u201d</p>
+                        <p style="margin: 0; color: var(--success-color);"><strong>Proposed:</strong> \u201c${formatText(sug.voorgestelde_revisie)}\u201d</p>
                         <p style="margin: 0.5rem 0 0 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">${formatText(sug.verschil)}</p>
                     </div>`;
             });
@@ -1969,7 +2009,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             domeinenHTML += `
                 <div style="margin-bottom: 0.75rem; background: var(--bg-element); padding: 0.6rem; border-radius: 6px;">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.4rem;">
-                        <strong>${domein.domein_type}</strong>
+                        <strong>${translateTag(domein.domein_type)}</strong>
                         <span class="score-badge ${scoreClass}" style="font-size: 0.75rem; padding: 0.15rem 0.5rem;">${score}/10</span>
                     </div>
                     <p style="font-size: 0.85rem; font-style: italic; margin: 0.4rem 0;">${formatText(domein.conceptuele_metafoor || '')}</p>
@@ -2059,7 +2099,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
 
             metafoorHTML += `
                 <div style="margin-bottom: 0.75rem; padding-bottom: 0.75rem; ${idx < metaforen.length - 1 ? 'border-bottom: 1px solid var(--border-color);' : ''}">
-                    <p style="font-weight: bold; margin-bottom: 0.25rem; font-size: 0.9rem;">"${formatText(m.metafoor_expressie)}"</p>
+                    <p style="font-weight: bold; margin-bottom: 0.25rem; font-size: 0.9rem;">\u201c${formatText(m.metafoor_expressie)}\u201d</p>
                     <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Source:</strong> ${formatText(m.brondomein?.naam || 'Unknown')} → <strong>Target:</strong> ${formatText(m.doeldomein?.theologisch_concept || 'Unknown')}</p>
                     ${mappingHTML}
                     ${entailmentsHTML}
@@ -2081,8 +2121,8 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             evalHTML += '<h4 style="color: var(--success-color); margin-top: 0;">Strengths</h4>';
             sterktes.forEach(s => {
                 evalHTML += `<div style="margin-bottom: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid var(--success-color);">
-                    <p style="margin: 0;"><strong>${s.sterkte_type || 'Strength'}:</strong> ${formatText(s.beschrijving)}</p>
-                    ${s.voorbeeld ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">"${formatText(s.voorbeeld)}"</p>` : ''}
+                    <p style="margin: 0;"><strong>${translateTag(s.sterkte_type) || 'Strength'}:</strong> ${formatText(s.beschrijving)}</p>
+                    ${s.voorbeeld ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">\u201c${formatText(s.voorbeeld)}\u201d</p>` : ''}
                 </div>`;
             });
         }
@@ -2092,8 +2132,8 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             risicos.forEach(r => {
                 const ernstColor = r.ernst === 'ERNSTIG' || r.ernst === 'SEVERE' || r.ernst === 'HIGH' ? 'var(--danger-color)' : r.ernst === 'MODERATE' || r.ernst === 'MATIG' ? 'var(--warning-color)' : 'var(--success-color)';
                 evalHTML += `<div style="margin-bottom: 0.5rem; padding: 0.5rem; background: var(--bg-element); border-radius: 4px; border-left: 3px solid ${ernstColor};">
-                    <p style="margin: 0;"><strong>${r.risico_type || 'Risk'}</strong> <span style="color: ${ernstColor};">(${r.ernst})</span>: ${formatText(r.beschrijving)}</p>
-                    ${r.voorbeeld ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">"${formatText(r.voorbeeld)}"</p>` : ''}
+                    <p style="margin: 0;"><strong>${translateTag(r.risico_type) || 'Risk'}</strong> <span style="color: ${ernstColor};">(${translateTag(r.ernst)})</span>: ${formatText(r.beschrijving)}</p>
+                    ${r.voorbeeld ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">\u201c${formatText(r.voorbeeld)}\u201d</p>` : ''}
                     ${r.potentiele_impact ? `<p style="margin: 0.25rem 0 0 0; font-size: 0.8rem; color: var(--text-muted);"><strong>Impact:</strong> ${formatText(r.potentiele_impact)}</p>` : ''}
                 </div>`;
             });
@@ -2191,7 +2231,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                         <p style="margin: 0;"><strong>${formatText(s.doel_metafoor || '')}</strong></p>
                         ${s.huidige_status ? `<p style="margin: 0.25rem 0; font-size: 0.8rem; color: var(--text-muted);">Status: ${formatText(s.huidige_status)}</p>` : ''}
                         ${s.suggestie ? `<p style="margin: 0.25rem 0; font-size: 0.8rem;">${formatText(s.suggestie)}</p>` : ''}
-                        ${s.voorbeeld ? `<p style="margin: 0.25rem 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">"${formatText(s.voorbeeld)}"</p>` : ''}
+                        ${s.voorbeeld ? `<p style="margin: 0.25rem 0; font-size: 0.8rem; font-style: italic; color: var(--text-muted);">\u201c${formatText(s.voorbeeld)}\u201d</p>` : ''}
                     </div>`;
             });
             aanbevHTML += '</div>';
@@ -2419,7 +2459,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                         <span style="font-size: 0.9rem;"><strong>${mod.label}</strong></span>
                         <span style="font-family: var(--font-mono); font-weight: bold; color: ${mod.color}; font-size: 0.85rem;">${score}/10</span>
                     </div>
-                    ${voorbeelden.length > 0 ? `<p style="font-size: 0.75rem; color: var(--text-muted); margin: 0.25rem 0 0 0; font-style: italic;">"${formatText(voorbeelden[0])}"</p>` : ''}
+                    ${voorbeelden.length > 0 ? `<p style="font-size: 0.75rem; color: var(--text-muted); margin: 0.25rem 0 0 0; font-style: italic;">\u201c${formatText(voorbeelden[0])}\u201d</p>` : ''}
                 </div>`;
         });
 
@@ -2521,7 +2561,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             indicatorenHTML += '<h4 style="color: var(--success-color); margin-top: 0;">Grace Indicators</h4><ul class="summary-list">';
             genade.forEach(g => {
                 const color = g.sterkte === 'ZEER_STERK' || g.sterkte === 'VERY_STRONG' ? 'var(--success-color)' : 'var(--primary-color)';
-                indicatorenHTML += `<li><strong>${g.indicator}</strong> <span style="color: ${color};">(${g.sterkte})</span>: "${formatText(g.tekstueel_bewijs)}"</li>`;
+                indicatorenHTML += `<li><strong>${g.indicator}</strong> <span style="color: ${color};">(${translateTag(g.sterkte)})</span>: \u201c${formatText(g.tekstueel_bewijs)}\u201d</li>`;
             });
             indicatorenHTML += '</ul>';
         }
@@ -2530,7 +2570,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
             indicatorenHTML += '<h4 style="color: var(--warning-color); margin-top: 1rem;">Moralism Indicators</h4><ul class="summary-list">';
             moralisme.forEach(m => {
                 const color = m.ernst === 'ERNSTIG' || m.ernst === 'SEVERE' ? 'var(--danger-color)' : 'var(--warning-color)';
-                indicatorenHTML += `<li><strong>${m.indicator}</strong> <span style="color: ${color};">(${m.ernst})</span>: "${formatText(m.tekstueel_bewijs)}"</li>`;
+                indicatorenHTML += `<li><strong>${m.indicator}</strong> <span style="color: ${color};">(${translateTag(m.ernst)})</span>: \u201c${formatText(m.tekstueel_bewijs)}\u201d</li>`;
             });
             indicatorenHTML += '</ul>';
         }
@@ -2552,7 +2592,7 @@ The Rutledge Score measures whether God or humans are the grammatical subject of
                     <strong style="color: var(--warning-color);">⚠ Subject Repositioning Needed</strong>
                     <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Problem:</strong> ${formatText(aanbev.subject_herpositionering.huidige_probleem || '')}</p>
                     <p style="margin: 0.25rem 0; font-size: 0.85rem;"><strong>Proposed:</strong> ${formatText(aanbev.subject_herpositionering.voorgestelde_herpositionering || '')}</p>
-                    ${aanbev.subject_herpositionering.voorbeeld_revisie ? `<p style="font-size: 0.8rem; font-style: italic; margin: 0.25rem 0; color: var(--text-muted);">"${formatText(aanbev.subject_herpositionering.voorbeeld_revisie)}"</p>` : ''}
+                    ${aanbev.subject_herpositionering.voorbeeld_revisie ? `<p style="font-size: 0.8rem; font-style: italic; margin: 0.25rem 0; color: var(--text-muted);">\u201c${formatText(aanbev.subject_herpositionering.voorbeeld_revisie)}\u201d</p>` : ''}
                 </div>`;
         }
 
