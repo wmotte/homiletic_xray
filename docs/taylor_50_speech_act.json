@@ -3,32 +3,33 @@
     "titel_preek": "The Savior's Parting Gift",
     "bijbeltekst": "Luke 19:42–43",
     "analyse_datum": "2024-05-22",
-    "geschat_aantal_woorden": "2450"
+    "geschat_aantal_woorden": "2400"
   },
   "drievoudige_structuur_analyse": {
     "locutie": {
-      "beschrijving": "The sermon describes Jesus' entry into Jerusalem, the historical context of Palm Sunday, the nature of non-violence, and the emotional response of Jesus to the city's lost opportunity.",
-      "exegetische_kwaliteit": "Strong historical-critical and cultural background (donkey vs. horse, Josephus, prophetic drama), though it pivots quickly to social commentary.",
-      "omvang_procent": "75%"
+      "beschrijving": "The sermon recounts Jesus' entry into Jerusalem, the historical context of the donkey, the prophetic use of drama, and the eventual destruction of the city by Titus. It transitions into a reflection on lost opportunity and God's empathy.",
+      "exegetische_kwaliteit": "Strong historical-critical and cultural background (Josephus, Old Testament parallels), but uses the text primarily as a springboard for existential reflection.",
+      "omvang_procent": "65%"
     },
     "illocutie": {
-      "beschrijving": "Primarily asserting historical facts and moral truths, with a strong undercurrent of warning and a concluding attempt at comfort.",
+      "beschrijving": "The preacher primarily asserts historical facts and moral truths, with a strong shift toward expressing God's empathy in the conclusion.",
       "primaire_kracht": "ASSERTING",
       "helderheid_score": 6,
       "voorbeelden": [
         "The donkey in old Israel was an animal of great honor.",
-        "I do not know whether capital punishment is indeed a deterrent.",
-        "Jesus saw the agency of religion... more interested in appearance than reality."
+        "I do know that two shouts rang out.",
+        "God takes no pleasure in our loss."
       ]
     },
     "perlocutie": {
-      "beoogd_effect": "To instill a sense of urgency regarding spiritual opportunity and to provide comfort through the empathy of God.",
-      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly invoked as the agent of the word's efficacy.",
+      "beoogd_effect": "To instill a sense of urgency regarding spiritual opportunity and to comfort the hearer with the knowledge of God's care.",
+      "pneumatologisch_bewustzijn": "Low; the Spirit is not explicitly invoked as the agent of the word's efficacy within the body of the sermon.",
       "perlocutionaire_werkwoorden": [
         "realize",
         "hear",
-        "make the most of",
-        "hope"
+        "feel",
+        "repent",
+        "trust"
       ]
     }
   },
@@ -38,20 +39,20 @@
       "procent": "70%",
       "voorbeelden": [
         "The entrance of Jesus into Jerusalem... is not immediately clear.",
-        "The idea of drama... was an old and well-used method.",
-        "God takes no pleasure in our loss."
+        "He saw people going about their daily affairs.",
+        "God is powerful."
       ],
       "dominante_werkwoorden": [
         "is",
         "was",
         "saw",
-        "represents",
+        "read",
         "know"
       ]
     },
     "directieven": {
       "frequentie": "18",
-      "procent": "10%",
+      "procent": "9%",
       "voorbeelden": [
         "Make the most of it.",
         "Use the time.",
@@ -66,12 +67,12 @@
       "fundament_check": false
     },
     "expressieven": {
-      "frequentie": "22",
+      "frequentie": "24",
       "procent": "12%",
       "voorbeelden": [
-        "I wish I could say this morning...",
         "I'm glad he cried.",
-        "We throw ourselves... upon thy mercy."
+        "I wish I could say this morning...",
+        "We humbly beg..."
       ],
       "dominante_werkwoorden": [
         "wish",
@@ -82,26 +83,22 @@
     },
     "commissieven": {
       "frequentie": "4",
-      "procent": "5%",
+      "procent": "2%",
       "voorbeelden": [
         "In his tears lies our hope."
       ],
       "dominante_werkwoorden": [
         "lies",
-        "gives (future context)"
+        "gives"
       ],
-      "kwaliteit": "Weak; the promises are mostly described as general theological truths rather than direct divine commitments to the hearer."
+      "kwaliteit": "Weak; the promises are mostly stated as general theological truths (assertives) rather than direct divine commitments to the hearer."
     },
     "declaratieven": {
-      "frequentie": "2",
-      "procent": "3%",
-      "voorbeelden": [
-        "I'd be willing to stop this sermon right now."
-      ],
-      "dominante_werkwoorden": [
-        "stop"
-      ],
-      "autoriteit": "Low; the preacher rarely speaks 'in persona Christi' to change the hearer's status."
+      "frequentie": "0",
+      "procent": "0%",
+      "voorbeelden": [],
+      "dominante_werkwoorden": [],
+      "autoriteit": "The preacher describes God's mercy but does not exercise the authority to pronounce it (e.g., 'I declare to you')."
     }
   },
   "constatief_performatief_diagnose": {
@@ -112,172 +109,176 @@
       "aanwezig": true,
       "ernst": "SEVERE",
       "indicatoren": [
-        "Extensive historical explanation of donkeys and prophets.",
-        "Lengthy detour into capital punishment statistics.",
-        "Third-person descriptions of Jesus' emotions."
+        "Extensive historical lecturing on the donkey and Titus.",
+        "Lengthy sociological detour on capital punishment.",
+        "Third-person description of Jesus' emotions."
       ],
-      "effect_op_hoorder": "The hearer becomes a spectator of history and social ethics rather than a participant in a divine encounter."
+      "effect_op_hoorder": "The hearer becomes a spectator of a historical drama or a theological lecture rather than a participant in a divine encounter."
     },
     "performatief_deficit_analyse": {
       "aanwezig": true,
-      "ernst": "MODERATE",
+      "ernst": "SEVERE",
       "missende_elementen": [
         "Absolution",
         "Direct Promise",
         "Sacramental Address"
       ],
-      "effect_op_hoorder": "The hearer is told that God cares, but does not necessarily experience God caring through the word."
+      "effect_op_hoorder": "Information about God's care is provided, but the 'event' of being cared for by God through the Word is muted."
     },
     "toezegging_check": {
       "toezegging_aanwezig": false,
       "aantal_toezeggen": "0",
-      "kwaliteit_toezeggen": "The sermon talks ABOUT the promise of God's care but does not deliver it as a direct 'I promise you'.",
-      "voorbeelden": [],
-      "moment_in_preek": "N/A"
+      "kwaliteit_toezeggen": "The sermon describes the possibility of grace but lacks a formal 'Toezegging' (Promise).",
+      "voorbeelden": [
+        "It says to me yes, God cares."
+      ],
+      "moment_in_preek": "End"
     }
   },
   "adressering_analyse": {
     "persoonsvorm_distributie": {
       "eerste_persoon": {
         "frequentie": "45",
-        "gebruik": "Used for homiletical 'we' and personal anecdotes/opinions (e.g., 'I do not know')."
+        "gebruik": "Used for personal anecdotes and homiletical 'I know/I read' statements."
       },
       "tweede_persoon": {
-        "frequentie": "28",
-        "gebruik": "Direct address used mostly for moral exhortation ('Make the most, teenager').",
-        "performatieve_context": "Rarely used for grace; mostly for warning."
+        "frequentie": "22",
+        "gebruik": "Used for moral exhortation (Make the most of it) and rhetorical questions.",
+        "performatieve_context": "Rarely used for promising; mostly for warning."
       },
       "derde_persoon": {
         "frequentie": "130",
-        "gebruik": "Dominant mode; describing Jesus, Jerusalem, and society.",
-        "distantie_effect": "High; creates a 'lecture' atmosphere."
+        "gebruik": "Dominant mode; describing Jesus, Jerusalem, and history.",
+        "distantie_effect": "Creates a 'long ago and far away' atmosphere."
       }
     },
     "tijdsdimensie": {
       "verleden_tijd": {
-        "frequentie": "50%",
-        "gebruik": "Historical narrative of Palm Sunday and OT prophets."
+        "frequentie": "60%",
+        "gebruik": "Historical narrative of Palm Sunday and 70 AD."
       },
       "tijdloos_present": {
-        "frequentie": "40%",
-        "gebruik": "General theological and social observations."
+        "frequentie": "30%",
+        "gebruik": "General truths about God's nature."
       },
       "actueel_present": {
         "frequentie": "10%",
-        "gebruik": "The 'now' of the preaching moment."
+        "gebruik": "The immediate moment of the sermon."
       }
     },
-    "adressering_effectiviteit": 4
+    "adressering_effectiviteit": "4"
   },
   "sacramenteel_patroon_analyse": {
     "patroon_identificatie": "FAULTY",
     "foutief_patroon": {
       "aanwezig": true,
-      "beschrijving": "Assertive (Jesus wept/Jerusalem failed) -> Directive (Use your time well).",
+      "beschrijving": "Assertive (History/Theology) -> Directive (Use your time) -> Assertive (God cares).",
       "voorbeelden": [
-        "If thou hadst known... Middle-aged man and woman... use your powers well."
+        "If thou hadst known... (Assertive) -> Use the time (Directive)."
       ],
-      "probleem": "The imperative (Directive) is not grounded in a present-tense gift (Commissive), but in a historical warning."
+      "probleem": "The imperatives (Directives) are not grounded in a present-tense Gospel promise (Commissive), leading to moralism."
     },
     "sacramenteel_patroon": {
       "aanwezig": false,
-      "beschrijving": "Missing the movement from explanation to direct sacramental promise.",
+      "beschrijving": "N/A",
       "voorbeelden": [],
-      "kwaliteit": "Poor"
+      "kwaliteit": "None"
     },
     "indicatief_imperatief_verhouding": {
       "indicatief_aanwezig": true,
       "imperatief_gefundeerd": false,
       "voorbeelden_goede_verhouding": [],
       "voorbeelden_slechte_verhouding": [
-        "The sun will not always shine... use the time."
+        "Middle-aged man and woman... use them well [powers]."
       ]
     }
   },
   "diagnostische_evaluatie": {
     "primaire_diagnose": "INFORMATIVE_TEACHING",
-    "diagnose_toelichting": "The sermon functions as a high-level lecture on biblical history and social ethics with a sentimental conclusion, but lacks the illocutionary force of a divine event.",
+    "diagnose_toelichting": "The sermon functions as a high-quality lecture on the pathos of Jesus and the history of Jerusalem, but fails to transition into a performative event where God acts upon the hearer.",
     "sterke_punten": [
       {
-        "aspect": "Vivid Imagery",
-        "categorie": "Locution",
-        "tekstueel_bewijs": "The tobacco-brown walls that still surround Jerusalem.",
-        "effect": "Engages the imagination."
+        "aspect": "Pathos",
+        "categorie": "Expressive",
+        "tekstueel_bewijs": "Jesus looked at the city in its lostness, and tears came out of his eyes.",
+        "effect": "Creates emotional resonance."
       }
     ],
     "zwakke_punten": [
       {
         "aspect": "Constative Surplus",
-        "categorie": "Illocution",
-        "tekstueel_bewijs": "Lengthy section on capital punishment statistics.",
-        "probleem": "Distracts from the kerygmatic core.",
-        "ernst": "SEVERE"
+        "categorie": "Assertive",
+        "tekstueel_bewijs": "The donkey in old Israel was an animal of great honor.",
+        "probleem": "Too much time spent on background information that doesn't serve the illocutionary goal.",
+        "ernst": "MODERATE"
       }
     ],
-    "gebeuren_score": 3,
-    "gebeuren_toelichting": "It is a speech about God, not an act of God.",
-    "sacramentele_kracht": 2,
-    "sacramentele_toelichting": "The preacher does not use his mandate to declare or promise; he only describes."
+    "gebeuren_score": 4,
+    "gebeuren_toelichting": "It is a reflection on an event (Jesus weeping) rather than being an event itself.",
+    "sacramentele_kracht": 3,
+    "sacramentele_toelichting": "Lacks the 'Pro Me' (For Me) declarative power."
   },
   "theologische_diepte_analyse": {
     "openbaringsleer": {
-      "god_als_spreker": "No; God is the object of study, not the subject of the speech.",
-      "prediker_als_mandataris": "Weak; the preacher speaks as an observer/interpreter.",
+      "god_als_spreker": "God is the object of talk, not the subject of the speaking.",
+      "prediker_als_mandataris": "The preacher acts as an observer/interpreter rather than an ambassador.",
       "tekstueel_bewijs": [
-        "I do not know now whether I'm speaking about old Jerusalem or new New York."
+        "I wish I could say this morning..."
       ]
     },
     "pneumatologie": {
       "geest_rol_erkend": "No",
-      "perlocutie_theologie": "Implicitly relies on human realization rather than the Spirit's work.",
+      "perlocutie_theologie": "Implicitly relies on the preacher's rhetoric to move the heart.",
       "tekstueel_bewijs": []
     },
     "sacramentstheologie": {
-      "preek_als_genademiddel": "No; it is treated as a medium of information and moral reflection.",
-      "epifanisch_taalgebruik": "Low",
-      "tekstueel_bewijs": []
+      "preek_als_genademiddel": "No, it is a means of instruction.",
+      "epifanisch_taalgebruik": "Limited to the description of Jesus' tears.",
+      "tekstueel_bewijs": [
+        "It says to me yes, God cares."
+      ]
     }
   },
   "aanbevelingen": {
-    "werkwoord_audit_samenvatting": "Too many 'was/is' verbs; not enough 'I give/I promise/I declare' verbs.",
+    "werkwoord_audit_samenvatting": "The sermon is buried in past-tense assertives. It needs a radical shift to present-tense commissives.",
     "performatieve_intensivering": {
       "nodig": true,
       "specifieke_suggesties": [
         {
           "huidige_formulering": "When I see the Savior here... it says to me yes, God cares.",
-          "voorgestelde_revisie": "Because Jesus weeps for Jerusalem, I declare to you today: God cares for YOU in your specific sorrow.",
-          "verschil": "Shifts from a personal observation to a ministerial declaration."
+          "voorgestelde_revisie": "Because the Savior weeps for Jerusalem, I declare to you today: He weeps for you, and He claims you as His own.",
+          "verschil": "Moves from an observation to a declaration."
         }
       ]
     },
     "toezegging_versterking": {
       "nodig": true,
-      "probleem": "The 'hope' is left as a concept.",
-      "suggestie": "Directly apply the 'tears of Jesus' as a seal of God's presence for the hearer.",
+      "probleem": "The 'care' of God is a general fact, not a specific promise to the sinner.",
+      "suggestie": "Incorporate a direct promise of presence and forgiveness.",
       "voorbeeldzinnen": [
-        "I promise you on behalf of Christ: your tears are held by Him."
+        "Christ promises you that your lost opportunities do not have the final word."
       ]
     },
     "adressering_verbetering": {
       "nodig": true,
-      "probleem": "Too much 'he' and 'they'.",
-      "suggestie": "Use 'You' more frequently in the context of grace, not just warning.",
+      "probleem": "Too much 'He' (Jesus) and 'They' (Jerusalem), not enough 'You'.",
+      "suggestie": "Use the 'You' not just for moral warning, but for the delivery of grace.",
       "voorbeeldzinnen": [
-        "He weeps for you."
+        "He is weeping for you, here in this pew."
       ]
     },
     "indicatief_imperatief_herstel": {
       "nodig": true,
-      "probleem": "The imperatives are 'carpe diem' moralism.",
-      "suggestie": "Base the call to action on the gift of God's presence.",
-      "overall_beoordeling": "ADEQUATE",
-      "slotopmerking": "The sermon is rhetorically gifted but homiletically 'stuck' in the third person. Moving from talking about Jesus to speaking for Him will transform this from a lecture into an event."
-    }
+      "probleem": "The imperatives are 'heavy' because they aren't fueled by the indicative of the Gospel.",
+      "suggestie": "Ground the 'Use your time' in the 'You are eternally held'."
+    },
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "The sermon has beautiful rhetorical flourishes and deep empathy, but it remains a 'talk about' God. By shifting from describing Jesus' tears to pronouncing God's mercy, the sermon could become a true sacramental event."
   },
   "comparatieve_analyse": {
-    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his doubts about capital punishment); SAT reveals the lack of 'Creative Word' (Declarative).",
-    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (pathos/logos); performatively, it is weak (illocutionary force).",
-    "unieke_inzichten_SAT": "SAT exposes that the preacher's 'I don't know' statements (Assertive) undermine his authority to perform a Commissive act."
+    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his own doubts about capital punishment); SAT focuses on the lack of a 'Declarative' act from God.",
+    "verschil_met_retoriek": "Rhetorically, the sermon is excellent (pathos/logos); homiletically (SAT), it is weak because it fails to 'do' what it 'says'.",
+    "unieke_inzichten_SAT": "SAT reveals that the preacher is acting as a historian rather than a herald."
   },
   "appendices": {
     "volledige_werkwoord_lijst": {
@@ -285,42 +286,57 @@
         "is",
         "was",
         "saw",
+        "read",
         "know",
-        "represents",
+        "entered",
+        "meant",
+        "happened",
+        "tore",
         "indicates",
-        "suggests",
-        "meant"
+        "is",
+        "said"
       ],
       "directief": [
         "make",
         "use",
         "hear",
         "look",
-        "behold"
+        "bow",
+        "lift"
       ],
       "expressief": [
         "wish",
         "hope",
         "beg",
         "praise",
-        "glad"
+        "beseech"
       ],
       "commissief": [
         "lies",
-        "give"
+        "gives"
       ],
-      "declaratief": [
-        "stop"
-      ]
+      "declaratief": []
     },
     "kernzinnen_analyse": [
       {
-        "zin": "Jesus wept.",
+        "zin": "The donkey in old Israel was an animal of great honor.",
         "categorie": "ASSERTIVE",
-        "illocutionaire_kracht": "Descriptive",
-        "effectiviteit": "High locutionary impact, low performative force."
+        "illocutionaire_kracht": "Informative",
+        "effectiviteit": "Low (Lecture)"
+      },
+      {
+        "zin": "If thou hadst known.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Warning/Lament",
+        "effectiviteit": "High (Pathos)"
+      },
+      {
+        "zin": "God cares.",
+        "categorie": "ASSERTIVE",
+        "illocutionaire_kracht": "Theological Statement",
+        "effectiviteit": "Moderate (Lacks performative 'I')"
       }
     ],
-    "notities": "The sermon is a classic example of 'talking about' God's empathy without 'performing' God's empathy."
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher's vast knowledge of history and social issues overwhelms the sacramental task of proclamation."
   }
 }

@@ -2,23 +2,24 @@
   "metadata": {
     "titel_preek": "Making A Great Promise Reasonable",
     "bijbeltekst": "Isaiah 41:10",
-    "analyse_datum": "2024-05-22",
+    "analyse_datum": "2023-10-27",
     "geschat_aantal_woorden": "1450"
   },
   "actantiele_analyse": {
     "primair_narratief_programma": {
-      "beschrijving": "God overcomes the human inability to believe in unconditional grace by demonstrating His infinite capacity and willingness to help.",
+      "beschrijving": "God overcomes the human inability to believe in unconditional love by demonstrating His infinite capacity and willingness to help.",
       "subject": {
         "identificatie": "God (The Eternal/The Lord)",
         "tekstueel_bewijs": [
-          "I will strengthen thee; yea, I will help thee",
+          "I will strengthen thee",
+          "I will help thee",
           "God can help us without lessening his own resources",
           "God gave his Son our souls to save"
         ],
-        "frequentie_score": "9"
+        "frequentie_score": 9
       },
       "object": {
-        "identificatie": "The restoration and upholding of the believer (Assurance/Salvation)",
+        "identificatie": "The Human Soul / The Hearer (Salvation and Sustenance)",
         "tekstueel_bewijs": [
           "uphold thee with the right hand of my righteousness",
           "supply our needs",
@@ -27,173 +28,173 @@
         "aard_van_object": "SOTERIOLOGICAL"
       },
       "zender": {
-        "identificatie": "God's own nature/Love",
+        "identificatie": "God's own Nature/Love",
         "tekstueel_bewijs": [
           "But because the Lord loved you",
-          "does this represent the mind of the Eternal?"
+          "the mind of the Eternal"
         ],
         "rol_interpretatie": "LOVING_FATHER"
       },
       "ontvanger": {
-        "identificatie": "The 'doubting souls' / The Hearer",
+        "identificatie": "The Hearer / Israel / Humanity",
         "tekstueel_bewijs": [
-          "help you, my brother and my sister",
-          "delivered him up for us all"
+          "designated them as his own special people",
+          "help you, my brother and my sister"
         ],
-        "positie_hoorder": "The hearer identifies as the Receiver who is initially skeptical but eventually comforted."
+        "positie_hoorder": "Receiver"
       },
       "helper": {
-        "identificatie": "Jesus Christ / Creation (as evidence)",
+        "identificatie": "Jesus Christ / The Holy Spirit (implied in 'holy blood')",
         "tekstueel_bewijs": [
           "I have Jesus Christ as proof that God is willing",
-          "The same God who directs the earth in its orbit"
+          "He that spared not his own Son"
         ],
-        "rol_van_god": "God is the Subject, but Christ functions as the ultimate Helper/Proof of the Subject's intent.",
-        "rol_van_geest": "Absent/Unclear"
+        "rol_van_god": "God is both Subject and Helper (via Christ)",
+        "rol_van_geest": "External help"
       },
       "tegenstander": {
-        "identificatie": "Human Logic / The 'Fair Exchange' Principle / Doubt",
+        "identificatie": "Human Logic / The 'Fair Exchange' Theory / Doubt",
         "tekstueel_bewijs": [
           "the principle of fair exchange",
           "our souls, which are doubting God's promise",
           "everything can be grasped by the mind"
         ],
         "ernst_tegenstander": "PSYCHOLOGICAL",
-        "toelichting_ernst": "The primary obstacle is not sin or the devil, but the human inability to process 'unreasonable' grace through logic."
+        "toelichting_ernst": "The primary obstacle is not sin as a cosmic power, but the human inability to intellectually process 'unmerited' grace."
       }
     },
     "secundair_narratief_programma": {
       "aanwezig": true,
-      "beschrijving": "The human attempt to find a logical reason for God's grace.",
-      "subject": "The Hearer/Preacher",
-      "object": "Reasonable explanation/Logic",
+      "beschrijving": "The human attempt to find a logical basis for faith.",
+      "subject": "The Hearer / The Preacher",
+      "object": "Reasonableness / Logical Explanation",
       "verhouding_tot_primair": "HIERARCHICAL",
-      "toelichting_verhouding": "The secondary program (human reasoning) fails and must be superseded by the primary program (God's action)."
+      "toelichting_verhouding": "The secondary program (human logic) fails, forcing a transition to the primary program (God's action)."
     },
     "actantieel_schema_visualisatie": {
-      "zender_naar_ontvanger": "God's Love → Upholding/Grace → The Doubting Hearer",
-      "helper_subject_tegenstander": "Jesus Christ → God ← Human Logic/Fair Exchange",
-      "subject_naar_object": "God → Strengthening the Weak"
+      "zender_naar_ontvanger": "Divine Love → Salvation/Help → The Believer",
+      "helper_subject_tegenstander": "Jesus Christ → God ← Human Logic/Doubt",
+      "subject_naar_object": "God → Sustaining the Weak"
     }
   },
   "grammaticale_analyse": {
     "subject_check": {
-      "god_als_subject_count": "42",
-      "mens_als_subject_count": "18",
+      "god_als_subject_count": 42,
+      "mens_als_subject_count": 18,
       "ratio": "2.33",
       "voorbeelden_god_subject": [
-        "I will strengthen thee",
-        "God can help us",
-        "He shall feed his flock"
+        "God will help and God will heal.",
+        "God owns the cattle on a thousand hills.",
+        "The Lord did not set his love upon you... because ye were more."
       ],
       "voorbeelden_mens_subject": [
-        "We grope toward some understanding",
-        "We sense that we are not worthy",
-        "we do not help because we might not have enough"
+        "We grope toward some understanding.",
+        "We sense that we are not worthy.",
+        "We get confused."
       ],
-      "rutledge_score": "9"
+      "rutledge_score": 9
     },
     "modale_analyse": {
       "devoir_faire": {
-        "prominentie": "2",
+        "prominentie": 2,
         "voorbeelden": [
-          "the Lord ought to bless us (framed as a question of merit)"
+          "heaven knows it must be accepted on faith"
         ]
       },
       "vouloir_faire": {
-        "prominentie": "8",
+        "prominentie": 8,
         "voorbeelden": [
-          "I know God is willing",
-          "God's love for us seems too good to be true"
+          "I know God is willing.",
+          "God's willingness to help me."
         ]
       },
       "savoir_faire": {
-        "prominentie": "6",
+        "prominentie": 6,
         "voorbeelden": [
-          "We grope toward some understanding",
-          "Hast thou not known? Hast thou not heard?"
+          "We grope toward some understanding.",
+          "show why it is reasonable to believe."
         ]
       },
       "pouvoir_faire": {
-        "prominentie": "10",
+        "prominentie": 10,
         "voorbeelden": [
-          "God is able",
-          "God can help us and not run short",
-          "God's capacity"
+          "God is able.",
+          "God can help us without lessening his own resources.",
+          "God is well able to help."
         ]
       },
       "dominante_modaliteit": "POUVOIR",
-      "modale_interpretatie": "The sermon focuses on God's 'Ability' (Pouvoir) and 'Willingness' (Vouloir) to act, rather than the hearer's 'Obligation' (Devoir)."
+      "modale_interpretatie": "The sermon focuses on God's 'Ability' (Pouvoir) to fulfill His 'Will' (Vouloir), bypassing the human 'Must' (Devoir)."
     }
   },
   "semiotisch_vierkant_analyse": {
     "primaire_tegenstelling": {
       "s1": "Grace (Unconditional Love)",
-      "s2": "Fair Exchange (Quid Pro Quo)",
-      "niet_s1": "Unworthiness/Doubt",
-      "niet_s2": "The 'Unreasonable' Mystery"
+      "s2": "Fair Exchange (Merit/Quid Pro Quo)",
+      "niet_s1": "Unreasonableness/Mystery",
+      "niet_s2": "Unworthiness/Slavery"
     },
-    "beweging_in_preek": "Moves from S2 (Logic) to ~S1 (Doubt) and finally to S1 (Grace) via the realization that S1 is ~S2 (Unreasonable).",
-    "theologische_resolutie": "Grace is resolved not by logic, but by the infinite capacity of the Giver.",
-    "ernst_van_s2": "S2 (Fair Exchange) is presented as a strong human instinct that makes Grace difficult to receive."
+    "beweging_in_preek": "Starts at S2 (Fair Exchange), moves to ~S2 (Unworthiness), acknowledges ~S1 (Mystery), and resolves in S1 (Grace).",
+    "theologische_resolutie": "Resolution is found in the character of God (His infinite resources) rather than human logic.",
+    "ernst_van_s2": "S2 is treated as a natural human instinct that must be 'staggered' by the Gospel."
   },
   "diagnostische_evaluatie": {
     "primaire_classificatie": "GRACE",
-    "classificatie_toelichting": "The sermon is profoundly theocentric. God is the subject of almost all transformative verbs. The human role is reduced to the 'Receiver' who must abandon logic to accept a gift.",
+    "classificatie_toelichting": "The sermon is profoundly theocentric. God is the primary actor (Subject) of almost all salvific verbs. The human role is reduced to the 'Receiver' who is 'staggered' by unmerited favor.",
     "indicatoren_moralisme": [
       {
-        "indicator": "Potential Exemplarism (MLK Jr.)",
-        "tekstueel_bewijs": "Did he overestimate our determination to reach fulfillment?",
+        "indicator": "Potential Exemplarism in MLK reference",
+        "tekstueel_bewijs": "Did Dr. King... overestimate our determination to reach fulfillment?",
         "ernst": "LOW"
       }
     ],
     "indicatoren_genade": [
       {
-        "indicator": "God as Subject",
-        "tekstueel_bewijs": "I will strengthen thee; yea, I will help thee",
+        "indicator": "God as sole Subject of salvation",
+        "tekstueel_bewijs": "God gave his Son our souls to save.",
         "sterkte": "VERY_STRONG"
       },
       {
-        "indicator": "Anti-Exemplarism",
-        "tekstueel_bewijs": "The Lord did not set his love upon you... because ye were more in number... But because the Lord loved you.",
+        "indicator": "Rejection of Merit",
+        "tekstueel_bewijs": "If we merited God's love, we could readily understand it.",
         "sterkte": "STRONG"
       }
     ],
     "exemplarisme_check": {
       "aanwezig": false,
-      "beschrijving": "Biblical figures (Moses, Israel) are used to show human unworthiness and God's sovereign choice rather than as models to imitate.",
+      "beschrijving": "Moses is used not as a model to follow, but as a witness to the mystery of God's choice.",
       "bijbelse_figuren_als_model": [
         "Moses",
-        "Israel"
+        "Paul"
       ],
-      "alternatieve_lezing": "The sermon already provides a theocentric reading: Israel was chosen despite their lack of merit."
+      "alternatieve_lezing": "The sermon already treats them theocentrically."
     },
     "identificatie_patroon": {
       "hoorder_identificeert_met": "RECEIVER_SAVED",
-      "effect_op_hoorder": "Relief and awe; shifting from self-reliance to God-reliance.",
-      "theologische_implicatie": "Monergistic assurance."
+      "effect_op_hoorder": "Relief and awe; shifting from anxiety about performance to security in God's power.",
+      "theologische_implicatie": "Monergistic undertones; God's power is the sufficient cause of the believer's standing."
     },
-    "narratieve_hierarchie": {
-      "coherentie_score": "9",
-      "coherentie_beschrijving": "The sermon stays strictly within the Fundamental Program (Soteriology).",
+    "narratieve_coherentie": {
+      "coherentie_score": 9,
+      "coherentie_beschrijving": "The transition from the 'fair exchange' logic to the 'infinite resource' logic of God is seamless.",
       "spanning_punten": [
-        "The tension between human 'fair exchange' logic and divine 'unconditional' love."
+        "The tension between 'reasonableness' and 'mystery' is left somewhat unresolved, which is theologically appropriate."
       ]
     }
   },
   "theologische_diepte_analyse": {
     "soteriologie": {
       "primaire_model": "SUBSTITUTION",
-      "tekstueel_bewijs": "He that spared not his own Son, but delivered him up for us all",
+      "tekstueel_bewijs": "He that spared not his own Son, but delivered him up for us all.",
       "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
     },
     "pneumatologie": {
       "rol_heilige_geest": "ABSENT",
-      "competentie_schenking": "The sermon focuses on God's external power (Pouvoir) rather than the Spirit's internal work."
+      "competentie_schenking": "The sermon focuses on the Father and Son; the Spirit's role in applying grace is implicit but not named."
     },
     "hamartologie": {
       "aard_van_zonde": "GUILT",
-      "ernst_diagnose": "Moderate; sin is seen as 'faults' and 'unworthiness' that make grace seem illogical."
+      "ernst_diagnose": "Moderate; sin is seen as 'unworthiness' and 'faults' rather than total depravity or cosmic death."
     },
     "eschatologie": {
       "hoop_structuur": "ALREADY_COMPLETED",
@@ -201,7 +202,7 @@
     }
   },
   "aanbevelingen": {
-    "actantiele_audit_samenvatting": "A masterclass in theocentric preaching where God is the sole Subject of the promise and the performance.",
+    "actantiele_audit_samenvatting": "The narrative engine is powered by God's 'Pouvoir' (Power). The human subject is correctly positioned as the beneficiary (Receiver).",
     "subject_herpositionering": {
       "nodig": false,
       "huidige_probleem": "None",
@@ -215,53 +216,55 @@
       "strategie": "N/A"
     },
     "modale_balans": {
-      "huidige_onbalans": "Heavy on Pouvoir (Ability)",
-      "voorgestelde_balans": "Maintain current balance as it serves the theme of assurance.",
-      "concrete_suggestie": "Could add a touch of 'Savoir' regarding how the believer lives in response."
+      "huidige_onbalans": "Heavy emphasis on Pouvoir (Ability).",
+      "voorgestelde_balans": "Slightly more Devoir (Response) could be added at the very end to show the 'Secondary Program' of ethics.",
+      "concrete_suggestie": "Briefly mention how being 'upholden' by God enables the hearer to uphold others."
     },
     "tegenstander_intensivering": {
       "nodig": true,
-      "huidige_status": "The opponent is mostly 'logic'.",
-      "voorgestelde_intensivering": "Briefly mention that the 'Opponent' is also the 'Accuser' (Satan) who uses logic to condemn.",
-      "theologische_rationale": "To show that God's 'Pouvoir' overcomes not just doubt, but actual spiritual opposition."
+      "huidige_status": "The opponent is mostly 'intellectual doubt'.",
+      "voorgestelde_intensivering": "Frame the 'fair exchange' not just as a logical error, but as a prideful refusal to be a beggar before God.",
+      "theologische_rationale": "Deepens the need for grace by showing that our logic is a form of self-righteousness."
     },
     "narratieve_hierarchie_herstel": {
       "nodig": false,
       "probleem": "None",
-      "voorgestelde_structuur": "N/A"
+      "voorgestelde_structuur": "Soteriology is clearly primary."
     },
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "This sermon perfectly exemplifies the 'Grammar of Grace' by keeping God as the active Subject and the human as the blessed Receiver."
+    "slotopmerking": "This is a masterclass in theocentric preaching. The preacher successfully resists the urge to give the audience 'three things to do,' focusing instead on the 'one thing God has done.'"
   },
   "comparatieve_analyse": {
-    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'boss' anecdote; Greimassian analysis shows the anecdote serves to define the 'Opponent' (Fair Exchange logic).",
-    "verschil_met_exegese": "Exegesis would focus on the context of Isaiah; this analysis focuses on the functional roles assigned to God and the congregation in the present moment.",
-    "unieke_inzichten_greimas": "Reveals that the sermon's power comes from a 'Subject-Switch' where the hearer's inability (lack of Pouvoir) is replaced by God's infinite capacity."
+    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the 'grass cutting' anecdote as a tool for engagement; Greimas shows it functions as a foil to the divine actantial structure.",
+    "verschil_met_exegese": "Exegesis would focus on the historical context of Isaiah 41; Greimas focuses on the functional roles of 'The Upholder' and 'The Upholden'.",
+    "unieke_inzichten_greimas": "Reveals that the sermon's power comes from the 'Subject-Switch' where human logic (Subject 1) is defeated by Divine Power (Subject 2)."
   },
   "appendices": {
     "volledige_subject_lijst": [
-      "God will strengthen",
-      "God will help",
-      "God will uphold",
-      "God loves",
-      "God gave His Son",
-      "God is able"
+      "God (strengthens, helps, upholds, loves, chooses, gives, heals)",
+      "We (understand, forget, grope, sense, doubt)",
+      "Jesus (says, proves)"
     ],
     "volledige_object_lijst": [
+      "The promise",
       "The hearer",
-      "Our souls",
-      "The bowed-down head"
+      "The soul",
+      "The universe"
     ],
     "werkwoord_frequentie": {
       "help": {
-        "count": "12",
+        "count": 12,
         "primair_subject": "God"
       },
-      "able": {
-        "count": "8",
+      "uphold": {
+        "count": 4,
         "primair_subject": "God"
+      },
+      "understand": {
+        "count": 5,
+        "primair_subject": "Man"
       }
     },
-    "notities": "The sermon uses a 'Via Negativa' approach to logic to clear the way for a 'Via Positiva' of Grace."
+    "notities": "The sermon uses the 'Fair Exchange' anecdote as a semiotic S2 (Contrary) to highlight the radical nature of S1 (Grace)."
   }
 }

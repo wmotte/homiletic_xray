@@ -12,7 +12,7 @@
         "prominentie_score": "10",
         "kernfrasen": [
           "living stones",
-          "built into a spiritual house",
+          "spiritual house",
           "cornerstone",
           "foundation of the foundation",
           "fitted together"
@@ -24,22 +24,23 @@
         "prominentie_score": "7",
         "kernfrasen": [
           "face-to-face relationship",
-          "rejected by his Father",
+          "rejected by humans",
           "precious to him",
-          "born of a woman"
+          "chosen people"
         ],
-        "conceptuele_metafoor": "FAITH IS INTERPERSONAL INTIMACY"
+        "conceptuele_metafoor": "FAITH IS INTERPERSONAL RELATIONSHIP"
       },
       {
         "domein_type": "ECONOMIC",
         "prominentie_score": "5",
         "kernfrasen": [
-          "God’s special possession",
+          "precious",
           "very expensive",
           "sell the house",
-          "product that you consume"
+          "expendable",
+          "God’s special possession"
         ],
-        "conceptuele_metafoor": "GRACE IS A PRECIOUS COMMODITY"
+        "conceptuele_metafoor": "SALVATION IS AN OBJECT OF SUPREME VALUE"
       }
     ],
     "metafoor_inventaris": [
@@ -49,14 +50,14 @@
           "naam": "Masonry/Construction",
           "concrete_elementen": [
             "stones",
-            "mortar",
-            "fitting",
-            "structure"
+            "mortar/fitting",
+            "structure",
+            "house"
           ],
           "belichaamde_basis": "container"
         },
         "doeldomein": {
-          "theologisch_concept": "Ecclesiology/Community",
+          "theologisch_concept": "Ecclesiology (The Church)",
           "doctrinale_traditie": "Reformed/Presbyterian"
         },
         "mapping_structuur": [
@@ -65,155 +66,162 @@
             "doel_element": "Individual believers"
           },
           {
-            "bron_element": "The act of fitting together",
-            "doel_element": "Church community/relationships"
+            "bron_element": "Fitting together",
+            "doel_element": "Community/Church membership"
+          },
+          {
+            "bron_element": "The House",
+            "doel_element": "The dwelling place of God's Spirit"
           }
         ],
         "entailments": {
           "cognitieve_implicaties": [
-            "An isolated stone has no structural purpose."
+            "An isolated stone has no structural purpose.",
+            "Stones must be shaped/chiseled to fit."
           ],
           "theologische_implicaties": [
-            "Sanctification is a corporate, not just individual, process."
+            "Sanctification happens through community friction.",
+            "The Church is the primary locus of God's presence."
           ],
           "ethische_implicaties": [
-            "Believers must submit to being 'shaped' and 'placed' by God."
+            "Believers must commit to local church membership.",
+            "Individualism is a structural failure."
           ],
           "onbedoelde_consequenties": [
-            "Loss of individual agency; being 'stuck' in a rigid structure."
+            "Loss of individual agency (stones are inanimate).",
+            "Rigidity in church structures."
           ]
         },
         "vitaliteit_status": "LIVING",
-        "vitaliteit_toelichting": "The preacher revitalizes the 'dead' biblical metaphor by emphasizing the physical pressure of stones being 'fitted together' and 'pressing' one another."
+        "vitaliteit_toelichting": "The preacher revitalizes the 'dead' metaphor of 'living stones' by emphasizing the physical pressure of being 'fitted together' (above, beside, below)."
       }
     ]
   },
   "diagnostische_evaluatie": {
     "coherentie_analyse": {
       "overall_coherentie": "HIGHLY_COHERENT",
-      "coherentie_verklaring": "The preacher uses the 'Cornerstone' as the anchor point that bridges the Architectural, Relational, and Economic domains.",
+      "coherentie_verklaring": "The preacher uses the 'Cornerstone' as the bridge between the Architectural and Relational domains. The stone is not just a block; it is 'precious' and 'rejected,' personifying the architectural element.",
       "incoherentie_punten": [],
       "succesvolle_blending": [
         {
-          "locatie": "Section 3B",
+          "locatie": "Point 3B: 'He has to be precious to you'",
           "gemengde_metaforen": [
-            "Cornerstone",
-            "Medicine"
+            "Architectural (Cornerstone)",
+            "Economic (Precious/Expensive)",
+            "Medical (Medicine/Cure)"
           ],
-          "blending_strategie": "Functional substitution: both represent the 'most precious' necessity for life/stability."
+          "blending_strategie": "The preacher uses a narrative parable (the expensive medicine) to explain the 'preciousness' of the 'stone,' shifting from structural utility to existential value."
         }
       ]
     },
     "sterktes": [
       {
         "sterkte_type": "REVITALIZATION",
-        "beschrijving": "Re-animates the 'Stone' metaphor by adding biological life ('Living Stone') and structural engineering concepts.",
-        "voorbeeld": "as you have people above you, beside you, below you, pressing you, supporting you"
+        "beschrijving": "Re-animates the 'temple' imagery by connecting it to the history of the shekinah glory.",
+        "voorbeeld": "At night it was like fire. In the daytime it looked like a cloud."
       }
     ],
     "risicos": [
       {
-        "risico_type": "COMMODIFICATION",
-        "beschrijving": "Using the 'expensive medicine' analogy might frame Christ as a product to be purchased by selling other assets.",
-        "voorbeeld": "so expensive that in order to buy it... you're going to have to sell the house",
-        "potentiele_impact": "Congregation may view grace as transactional rather than unconditional.",
-        "ernst": "MODERATE"
+        "risico_type": "THERAPEUTIC_REDUCTION",
+        "beschrijving": "Framing the 'brokenness' of the world primarily through the lens of 'not being able to bear the presence' might minimize the legal/moral aspect of sin.",
+        "voorbeeld": "When it broke the relationship with God, it actually also deeply broke us.",
+        "potentiele_impact": "Congregation views sin as a trauma to be healed rather than a rebellion to be repented of.",
+        "ernst": "LOW"
       }
     ],
     "text_world_analyse": {
-      "primaire_wereld": "The Temple/Tabernacle of the Old Testament.",
+      "primaire_wereld": "The Ancient Temple/Tabernacle (The Presence of God).",
       "sub_worlds": [
         "The Garden of Eden",
-        "A modern New York apartment",
-        "The abyss from Lord of the Rings"
+        "The modern New York apartment",
+        "The deathbed/medicine parable",
+        "The 'uttermost foundation' from Lord of the Rings"
       ],
       "world_building_effectiviteit": "VIVID",
       "deictic_shifts": [
         {
           "locatie": "Section 1",
-          "van_wereld": "Ancient Sinai",
-          "naar_wereld": "Modern NYC apartment",
-          "effectiviteit": "High; creates a contrast between ancient holiness and modern isolation."
+          "van_wereld": "Modern NYC",
+          "naar_wereld": "Sinai/Tabernacle",
+          "effectiviteit": "High; creates a sense of historical continuity."
         }
       ]
     },
     "schema_analyse": {
       "versterkte_schemas": [
         {
-          "schema_naam": "God as Holy/Transcendent",
-          "hoe_versterkt": "Emphasis on the 'Shekinah glory' and the danger of the presence of God."
+          "schema_naam": "Community-based Identity",
+          "hoe_versterkt": "Argues that individual change is impossible without being 'fitted' into the community."
         }
       ],
       "verstoorde_schemas": [
         {
-          "schema_naam": "Christianity as Self-Help",
-          "verstoring_strategie": "Contrasting 'turning over a new leaf' with being 'built into a house'.",
-          "vervangend_schema": "Christianity as Ontological Transformation/Reconstruction"
+          "schema_naam": "Consumer Christianity",
+          "verstoring_strategie": "Uses the 'Input/Output' biological metaphor to challenge passive attendance.",
+          "vervangend_schema": "Priesthood of all believers"
         }
       ],
-      "liturgische_schema_aansluiting": "Fits the post-Easter theme of new life and the mission of the church."
+      "liturgische_schema_aansluiting": "Strongly aligns with the 'Gathered People' theology of the liturgy."
     }
   },
   "aanbevelingen": {
-    "metafoor_audit_samenvatting": "The sermon is architecturally grounded, using the 'Stone' metaphor to drive both ecclesiology and Christology. It successfully moves from the abstract 'holiness' to the concrete 'community'.",
+    "metafoor_audit_samenvatting": "The sermon is a masterclass in CMT. It takes a potentially 'dead' biblical metaphor (Living Stones) and uses embodied cognition (pressure, fitting, foundation) to make it psychologically urgent. The dominant landscape is architectural, but it is warmed by relational and economic sub-metaphors.",
     "revitalisatie_suggesties": [
       {
         "doel_metafoor": "Priesthood",
-        "huidige_status": "Somewhat conventional/abstract.",
-        "suggestie": "Use more 'sensory' source elements of ancient priesthood (smell of incense, weight of robes).",
-        "strategie": "DEEPEN_SOURCE",
-        "voorbeeld": "The sweat and labor of the priest in the temple."
+        "huidige_status": "Abstract/Ecclesiastical",
+        "suggestie": "Deepen the 'Sacrifice' source domain by describing the physical cost of 'output' in a city like NYC.",
+        "strategie": "NARRATIVE_EMBODIMENT",
+        "voorbeeld": "The sacrifice of your time on a Tuesday night in the subway."
       }
     ],
     "coherentie_verbeteringen": [
       {
-        "incoherentie": "The shift from 'Stone' to 'Medicine'.",
-        "resolutie_strategie": "Connect the 'healing' property of the medicine to the 'stability' of the stone."
+        "incoherentie": "The transition from 'Stone' (inanimate) to 'Priest' (animate).",
+        "resolutie_strategie": "Emphasize that the 'Stone' is 'Living' because it shares the life of the 'Living Stone' (Jesus)."
       }
     ],
     "entailment_checks": [
       {
         "metafoor": "THE CHURCH IS A BUILDING",
         "problematisch_entailment": "Buildings are static and immobile.",
-        "aanbeveling": "Emphasize the 'Living' aspect of the stones to ensure the church is seen as an organic movement."
+        "aanbeveling": "Balance with the 'Holy Nation' or 'Journey' metaphor to show the church's mission in the world."
       }
     ],
     "alternatieve_domeinen": [
       {
-        "voorgesteld_domein": "BIOLOGICAL/ORGANIC",
-        "rationale": "To balance the 'hard' architectural imagery with 'soft' growth imagery.",
+        "voorgesteld_domein": "AGRARIAN (Grafting)",
+        "rationale": "To complement the 'Living Stone' idea with organic growth.",
         "doel_concept": "Sanctification"
       }
     ],
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A masterclass in taking a biblical metaphor and making it cognitively accessible to a modern urban audience."
+    "slotopmerking": "A brilliant use of conceptual mapping to move from abstract theology to concrete congregational participation."
   },
   "comparatieve_analyse": {
-    "verschil_met_esthetiek": "Focuses on the structural logic of the 'Stone' rather than just the beauty of the Temple imagery.",
-    "verschil_met_kolb": "Moves beyond 'learning styles' to how the mind maps 'foundation' to 'identity'.",
-    "unieke_inzichten_CMT": "Reveals how the 'Cornerstone' metaphor functions as a 'Primary Metaphor' for the hearer's entire worldview."
+    "verschil_met_esthetiek": "CMT focuses on how 'Stone' functions as a cognitive anchor for identity, not just a pretty image.",
+    "verschil_met_kolb": "Unlike Kolb's experiential cycle, CMT shows how the metaphor itself structures the experience of the 'fitted' life.",
+    "unieke_inzichten_CMT": "Reveals that the 'Cornerstone' is not just a title for Jesus, but a spatial orientation for the believer's entire life-world."
   },
   "appendices": {
     "volledige_metafoor_lijst": [
-      "Living stone",
+      "Living stones",
       "Spiritual house",
       "Cornerstone",
-      "Stumbling block",
-      "Priesthood",
-      "Spiritual sacrifices",
-      "Darkness into light",
       "Turning over a new leaf",
       "Stew in our own juices",
+      "Input and Output",
       "Foundation of the foundation",
       "Uttermost foundation of stone"
     ],
     "woord_frequentie_analyse": {
-      "stone": "15",
-      "presence": "12",
-      "priest": "10",
-      "foundation": "8",
-      "glory": "7"
+      "stone": "18",
+      "presence": "14",
+      "priest": "12",
+      "foundation": "9",
+      "fitted": "5"
     },
-    "notities": "The use of Tolkien's 'Balrog' scene serves as a powerful 'Schema Reinforcement' for the concept of 'Foundation'."
+    "notities": "The use of the Balrog/Gandalf illustration serves as a 'Schema Refresh' for the concept of 'Foundation'."
   }
 }

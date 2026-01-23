@@ -3,7 +3,7 @@
     "analysis_date": "2024-05-22",
     "sermon_title": "Our Vocation: Lay Ministry",
     "bible_text": "1 Peter 2:4-10",
-    "notes": "The sermon focuses on the 'Priesthood of all believers' and the transition of the church structure."
+    "notes": "A sermon focused on the 'Priesthood of all believers' and the transition of the church structure."
   },
   "ego_positions_scan": {
     "parent": {
@@ -11,30 +11,30 @@
         "score": 4,
         "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
         "presence_of_coercion": "Medium",
-        "analysis": "While the tone is intellectual, there is a strong undercurrent of 'must' regarding church participation. The preacher uses the authority of the text to label non-participation as 'deadly' and 'selfish'.",
+        "analysis": "The preacher uses 'must' and 'should' logic regarding church participation. There is a subtle shaming of those who 'consume' rather than 'participate,' labeling certain behaviors as 'deadly' or 'selfish.'",
         "quotes": [
           "If you’re too busy or too timid or maybe too selfish to do output as well as input, it’s bad for you.",
           "It’s as simple as that. If you relate to Jesus Christ as your cornerstone, you will then have all these things."
         ]
       },
       "healthy_care_NP": {
-        "score": 6,
+        "score": 7,
         "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
-        "presence": "Medium",
-        "analysis": "The Nurturing Parent appears in the promise of healing and the 'precious' nature of the believer to God, though it is often used as a hook for the subsequent demand for service.",
+        "presence": "High",
+        "analysis": "The Nurturing Parent is strong, offering comfort regarding past wounds and sins, though it often serves as a bridge to demand more activity.",
         "quotes": [
           "There’s not a sin in your past that can’t be cleansed. There’s not a wound that can’t be healed."
         ]
       }
     },
     "adult": {
-      "score": 7,
+      "score": 6,
       "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
-      "presence": "High",
-      "analysis": "The preacher uses a highly logical, 'unpacking' style. He provides historical context (Old Testament) and systematic definitions (Input/Output). He addresses the listener as a thinking subject, though the logic is directed toward a predetermined 'Parental' conclusion.",
+      "presence": "Medium",
+      "analysis": "The preacher uses logical frameworks ('three headings', 'input/output') to appeal to the Adult. However, the Adult is bypassed when the preacher dictates how the listener *must* experience a sermon (denying the validity of listening at home).",
       "quotes": [
-        "Let’s break that down. I want to unpack that. Let’s do it under these three headings...",
-        "The imagery of the living stones being built into a single unit implies..."
+        "Let’s break that down. I want to unpack that. Let’s do it under these three headings.",
+        "The imagery... implies the significance and purpose of individual Christians cannot be realized apart from community."
       ]
     },
     "child": {
@@ -42,57 +42,57 @@
         "score": 5,
         "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
         "presence_of_adaptation": "Medium",
-        "analysis": "The preacher invites the congregation into an Adapted Child role by suggesting that if they don't 'output' (serve), they are failing God's plan for the city. This triggers guilt/compliance.",
+        "analysis": "The sermon invites the 'Compliant Adapted Child' by suggesting that if the listener doesn't volunteer, they are blocking God's work in the city. This creates a guilt-based adaptation.",
         "quotes": [
-          "If you are only doing input... it means there are some things God wants this church to do in this city that it’s not being able to do."
+          "If you’re only coming here and taking and you’re not giving... there are some things God wants this church to do in this city that it’s not being able to do."
         ]
       },
       "free_child_FC": {
         "score": 3,
         "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
         "presence": "Low",
-        "analysis": "There is very little spontaneous joy or play. Even the mention of a 'cute little chorus' is framed within a structured teaching moment. The 'Free Child' is mostly suppressed by the 'Adult' teacher and 'Critical Parent' moralist.",
+        "analysis": "Spontaneity is low. The 'joy' described is a theological concept rather than an expressed emotion. The use of a 'cute' song at the end is a brief nod to FC but feels scripted.",
         "quotes": [
-          "Noel Paul Stookey... had a cute little call and response chorus..."
+          "Can you imagine the joy and the love of knowing the infinitely holy and happy God face-to-face?"
         ]
       }
     },
-    "dominant_ego_position": "Adult (Social) / Critical Parent (Psychological)"
+    "dominant_ego_position": "Nurturing Parent / Critical Parent (The 'Rescuing' Parent)"
   },
   "transaction_analysis": {
-    "primary_transaction_style": "Adult -> Adult (Social) with Parent -> Child (Ulterior)",
-    "analysis": "The preacher presents as an Adult teacher explaining a text, but the psychological weight is a Parent telling a Child that their current behavior (passive listening) is insufficient and 'deadly'.",
-    "ulterior_motives": "The social message is 'Let's understand theology.' The psychological message is 'You are being selfish by just sitting there; you must volunteer.'",
-    "communicative_purity_score": 5,
+    "primary_transaction_style": "Parent -> Child (Complementary)",
+    "analysis": "The preacher assumes a position of 'The One Who Knows' (Parent) addressing 'The Ones Who Need Fixing/Activation' (Child). It is stable because the congregation is invited to accept the diagnosis of their own 'selfishness' or 'brokenness'.",
+    "ulterior_motives": "Socially, it is an Adult-Adult teaching on 1 Peter. Psychologically, it is a Parent-Child demand for labor/volunteering to sustain the church's organizational transition.",
+    "communicative_purity_score": 4,
     "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
-    "risk_explanation": "The 'double bottom' lies in the definition of 'Living Stone.' It is presented as a beautiful identity (Grace) but quickly switched to a functional requirement (Works/Service)."
+    "risk_explanation": "The 'double bottom' lies in the transition from 'God loves you' (NP) to 'The church needs your labor because we are restructuring' (CP). The spiritual truth is used to solve an organizational staffing problem."
   },
   "games_analysis": {
     "detected_games": [
       {
         "name": "ITHY (I'm Only Trying To Help You)",
-        "probability": "Medium",
+        "probability": "High",
         "formula_g_analysis": {
-          "con": "I will show you how to have the power to change anything in your life.",
-          "gimmick": "The listener's desire for personal transformation and healing.",
-          "switch": "To get this power, you must be 'fitted' into the church and 'output' service.",
-          "payoff": "The listener feels guilty for their passivity; the preacher maintains the 'Rescuer' role for the church's mission."
+          "con": "I can show you how to have the power to change anything about yourself.",
+          "gimmick": "The listener's desire for healing and 'radical' transformation.",
+          "switch": "You can't actually have this power unless you volunteer and join our specific community structure.",
+          "payoff": "The listener feels guilty for being 'passive,' and the preacher maintains the role of the indispensable guide."
         },
         "evidence_quotes": [
-          "If you’re too busy or too timid or maybe too selfish to do output as well as input, it’s bad for you."
+          "The first thing it means is if the glory of God is in you, that means you can change anything about yourself... but we’re not going there... It’s as you come into the community of the church that you access the glory."
         ]
       },
       {
         "name": "Bait & Switch",
-        "probability": "High",
+        "probability": "Medium",
         "formula_g_analysis": {
-          "con": "You are a 'royal priesthood' and 'precious' to God.",
-          "gimmick": "Need for belonging and significance.",
-          "switch": "If you don't volunteer, the church fails its mission in the city.",
-          "payoff": "The listener moves from 'precious stone' to 'guilty bystander'."
+          "con": "The 'Priesthood of all Believers' means you are 'greater than John the Baptist'.",
+          "gimmick": "The listener's need for significance/status.",
+          "switch": "Because you are so great, you are now obligated to give money and time to the 'multiple churches' transition.",
+          "payoff": "The preacher secures commitment; the listener feels 'needed' but also 'burdened'."
         },
         "evidence_quotes": [
-          "You are living stones... Now what does that mean?... if you’re only coming here and taking and you’re not giving... it’s bad for the church."
+          "The least in the kingdom of God is greater than he... You’re all priests... and guess what? We’re not [the church God wants]... you’re not here by accident... you should be part of the priesthood."
         ]
       }
     ],
@@ -100,25 +100,24 @@
   },
   "drama_triangle_analysis": {
     "preacher_roles": {
-      "rescuer": "High. The preacher offers the 'medicine' of the gospel to 'cure' the brokenness of the listener.",
-      "persecutor": "Medium. Shifts to Persecutor when labeling those who don't volunteer as 'selfish' or 'timid'.",
-      "victim": "Low. Briefly hints at the church being 'not the church God wants us to be' because of the listeners."
+      "rescuer": "High. Offers the 'medicine' for the 'dying' family and the 'power' to break bad habits.",
+      "persecutor": "Low-Medium. Labels the 'passive' listener as 'selfish' or 'deadly' to the church's health.",
+      "victim": "Low. Hints at the church being 'not the church God wants us to be' yet because of the listeners' lack of output."
     },
-    "congregation_position": "Pushed into the Victim role (broken, needing change) then moved to the Persecutor role (if they don't help, they are 'killing' the church's potential).",
-    "escape_possibilities": "The sermon offers a partial escape through the 'Adult' processing of the cornerstone concept, but ultimately ties autonomy back to institutional compliance."
+    "congregation_position": "Pushed into the Victim role (broken, unable to change alone) or the Persecutor role (if they stay home and listen to tapes, they are 'selfish').",
+    "escape_possibilities": "Minimal. The sermon suggests that autonomy ('in the privacy of your home') is a theological error. True health is only found within the preacher's prescribed community structure."
   },
   "conclusion_and_recommendation": {
     "psychological_health_score": 5,
-    "summary": "The sermon is a classic example of 'Intellectualized Coercion.' While it uses high-level Adult language and provides genuine theological insight, it employs the Drama Triangle to motivate the congregation. It starts by elevating the listener (Royal Priesthood) but quickly uses that elevation as a platform for a Critical Parent demand for service. The psychological impact is a 'guilt-wrapped-in-grace' dynamic where the listener's value is subtly tied to their 'output.'",
+    "summary": "The sermon is a classic example of using high-level theological concepts (The Temple, Priesthood) to drive organizational compliance. While it offers significant 'Nurturing Parent' strokes (grace, forgiveness), it quickly pivots to a 'Critical Parent' stance that creates a dependency on the local church institution for spiritual validity. The denial of the 'Adult' capacity of the listener to grow outside the 'gathered people' is a significant psychological boundary crossing.",
     "strengths": [
-      "Strong Adult-to-Adult engagement in the first half.",
-      "Clear, logical structure that respects the listener's intellect.",
-      "Effective use of Nurturing Parent to provide initial safety."
+      "Strong use of Nurturing Parent to provide emotional safety initially.",
+      "Clear Adult frameworks for complex theological history."
     ],
     "areas_for_improvement": [
-      "The shift from 'You are precious' to 'You are selfish if you don't volunteer' is a sharp psychological switch.",
-      "The use of 'deadly' and 'bad for you' creates a fear-based Adapted Child response."
+      "Over-reliance on guilt/shame ('selfish', 'deadly') to motivate volunteering.",
+      "Theological 'gaslighting' regarding the validity of individual spiritual practices."
     ],
-    "advice_for_game_free_communication": "Avoid using the 'priesthood' identity as a leverage tool for institutional volunteering. Allow the 'Free Child' to respond to the 'preciousness' of the cornerstone without immediately attaching a 'Critical Parent' requirement for 'output.' Present the need for volunteers as an Adult-to-Adult request for help rather than a theological 'must' for spiritual health."
+    "advice_for_game_free_communication": "Invite participation from an Adult-Adult position by presenting the church's needs as a transparent 'request for partnership' rather than a 'spiritual requirement for healing.' Allow the listener the autonomy to decide where and how they 'access the glory' without labeling their choices as 'selfish'."
   }
 }

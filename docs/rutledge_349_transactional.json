@@ -11,20 +11,20 @@
         "score": 7,
         "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
         "presence_of_coercion": "Low",
-        "analysis": "The preacher uses Paul's voice to channel CP energy ('You foolish man!', 'faith is futile'), but softens it by identifying with the listener's struggle to understand.",
+        "analysis": "The preacher largely avoids shaming the audience. While he quotes Paul's 'You foolish man!', he frames it as Paul's annoyance rather than his own. He uses the 'must' of dogma as a protective boundary for faith rather than a whip for behavior.",
         "quotes": [
-          "If Christ has not been raised, your faith is futile and you are still in your sins.",
-          "Paul's answer is, basically, 'That's a stupid question.'"
+          "Paul writes quite sharply to the Corinthian church",
+          "If Christ has not been raised, your faith is futile and you are still in your sins."
         ]
       },
       "healthy_care_NP": {
         "score": 8,
         "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
         "presence": "High",
-        "analysis": "The NP is strong in the latter half, focusing on the restoration of loved ones and the comforting reality of physical touch.",
+        "analysis": "The Nurturing Parent is strong, offering comfort through the promise of restoration and the validation of human grief (the 'warm hand'). It promotes hope without creating a state of helpless dependency.",
         "quotes": [
-          "the big husky fireman cradling the tiny dead toddler",
-          "our loved ones restored to us"
+          "Can you imagine anything more wonderful than this?",
+          "our loved ones restored to us, all the injustices and wrongs of human history made right"
         ]
       }
     },
@@ -32,10 +32,10 @@
       "score": 8,
       "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
       "presence": "High",
-      "analysis": "The preacher engages in high-level Adult data processing, comparing Hellenistic thought with Christian dogma and acknowledging the limitations of metaphors.",
+      "analysis": "The preacher operates heavily from the Adult position. He analyzes the text historically, acknowledges the 'ineffable nature' of the event, admits where analogies fail, and uses contemporary data (Archbishop, news photos) to process the reality of the human condition.",
       "quotes": [
         "The analogy doesn't really work, however, because flowers come up every spring...",
-        "Most of us who are believers think that these discrepancies simply reflect the ineffable nature..."
+        "Most of us who are believers think that these discrepancies simply reflect the ineffable nature of the Resurrection."
       ]
     },
     "child": {
@@ -43,71 +43,67 @@
         "score": 9,
         "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
         "presence_of_adaptation": "Low",
-        "analysis": "The preacher avoids the 'pleasing' AC role and instead challenges the congregation's preference for 'spiritual' ideas over 'bodily' ones.",
-        "quotes": [
-          "We don't seem to want to believe in resurrected bodies. We want to be 'spiritual.'"
-        ]
+        "analysis": "The preacher does not sound like he is performing for a demanding God or a demanding congregation. He is not seeking approval through legalism.",
+        "quotes": []
       },
       "free_child_FC": {
         "score": 7,
         "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
         "presence": "Medium",
-        "analysis": "The FC appears through the description of the 'primitive' Guatemalan art and the 'Cossack dancer' imagery, showing a capacity for wonder.",
+        "analysis": "The Free Child appears in the vivid descriptions of the 'Cossack dancer' and the 'electric shock' hair on the Easter card. There is a sense of genuine wonder and 'rapture' toward the end.",
         "quotes": [
-          "her legs and arms splayed out as if she were leaping like a Cossack dancer",
-          "Can you imagine anything more wonderful than this?"
+          "Another was shown with her legs and arms splayed out as if she were leaping like a Cossack dancer.",
+          "Behold! I tell you a mystery."
         ]
       }
     },
-    "dominant_ego_position": "Adult-Nurturing Parent"
+    "dominant_ego_position": "Adult with a strong Nurturing Parent wing."
   },
   "transaction_analysis": {
     "primary_transaction_style": "Adult -> Adult",
-    "analysis": "The preacher treats the congregation as intellectual peers capable of following a theological argument about the distinction between 'soul' and 'body.'",
-    "ulterior_motives": "There is a slight psychological push (P->C) using the authority of St. Paul to shame 'generic religious beliefs.'",
-    "communicative_purity_score": 8,
+    "analysis": "The preacher treats the congregation as fellow 'believers' and 'interpreters.' He invites them to think through the logical consequences of Paul's arguments. Even when using Parent-style dogma, it is framed as an Adult exploration of 'what we say when we recite the Creed.'",
+    "ulterior_motives": "Minimal. The preacher is transparent about his difficulty with the text and his desire to move the audience from a 'generic religious belief' to a specific Christian hope.",
+    "communicative_purity_score": 9,
     "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
-    "risk_explanation": "The risk lies in the 'Bait & Switch' of using the Adult's logic to lead the listener into a Child-like state of 'mystery' where logic is then discarded."
+    "risk_explanation": "The only slight 'double bottom' is the use of emotional imagery (the Oklahoma City bombing) to bypass Adult logic and trigger a Child-need for safety/comfort, though this is used for illustration rather than coercion."
   },
   "games_analysis": {
     "detected_games": [
       {
-        "name": "Bait & Switch",
+        "name": "None",
         "probability": "Low",
         "formula_g_analysis": {
-          "con": "Promise of a logical explanation for the resurrection.",
-          "gimmick": "The listener's desire for intellectual consistency.",
-          "switch": "Admitting the logic fails ('The analogy doesn't really work').",
-          "payoff": "Surrender to 'Mystery' and divine authority."
+          "con": "N/A",
+          "gimmick": "N/A",
+          "switch": "N/A",
+          "payoff": "N/A"
         },
-        "evidence_quotes": [
-          "The preacher is sympathetic to Paul's predicament here... The analogy doesn't really work, however."
-        ]
+        "evidence_quotes": []
       }
     ],
-    "absence_of_games_analysis": "The sermon is remarkably free of 'NIGYSOB' or 'Ain't It Awful.' It maintains a high level of transparency regarding the difficulty of the subject matter."
+    "absence_of_games_analysis": "The sermon avoids games by maintaining an Adult-Adult stance. It does not use 'ITHY' (I'm only trying to help you) because it doesn't present the preacher as the source of the solution, but rather points to the 'mystery' of God. It avoids 'NIGYSOB' by not hunting for the congregation's specific sins, but rather addressing the universal 'man of dust' condition."
   },
   "drama_triangle_analysis": {
     "preacher_roles": {
-      "rescuer": "Low; offers the Gospel not as a personal fix but as a cosmic reality.",
-      "persecutor": "Very low; only appears when quoting Paul's frustration with the Corinthians.",
-      "victim": "Low; acknowledges the difficulty of the Easter sermon but doesn't seek pity."
+      "rescuer": "Low; he points to Christ as the deliverer rather than his own 'help'.",
+      "persecutor": "Low; he quotes Paul's sharpness but softens it with empathy for the 'predicament'.",
+      "victim": "Low; he briefly mentions the 'difficulty' of the Easter sermon but doesn't dwell on his own struggle for sympathy."
     },
-    "congregation_position": "The congregation is invited to be 'Witnesses' rather than Victims.",
-    "escape_possibilities": "The sermon promotes autonomy by asking the listener to 'grasp by faith' rather than demanding blind obedience."
+    "congregation_position": "The congregation is treated as 'Brethren' (Adults) rather than Victims needing a human Rescuer.",
+    "escape_possibilities": "The sermon offers autonomy by inviting the listener to 'grasp by faith'—an active Adult/Free Child choice rather than a passive Adapted Child submission."
   },
   "conclusion_and_recommendation": {
-    "psychological_health_score": 9,
-    "summary": "This sermon is psychologically robust, primarily operating from an Adult ego state that respects the listener's intelligence. It avoids common manipulative 'guilt-trips' and instead uses the Nurturing Parent to provide genuine comfort through sensory-rich imagery (hands, faces, smiles). By admitting where theological analogies fail, the preacher models honesty and invites the listener into a mature, non-defensive faith.",
+    "psychological_health_score": 8.5,
+    "summary": "This sermon is psychologically robust and remarkably free of manipulative 'games.' By operating primarily from the Adult ego state, the preacher respects the listener's intelligence and agency. He successfully navigates the tension between the Critical Parent (the demands of the Creed) and the Nurturing Parent (the comfort of the Resurrection) without falling into the Drama Triangle. The use of vivid, Free Child imagery (the Guatemalan art) provides an authentic emotional connection that avoids the 'smothering' quality of overly sentimental preaching. The focus on 'bodies' and 'faces' grounds the spiritual message in reality, preventing the 'Ain't It Awful' passivity often found in sermons about the 'evil world.'",
     "strengths": [
-      "High Adult presence and intellectual honesty.",
-      "Avoidance of 'Ain't It Awful' collective complaining.",
-      "Use of Free Child imagery to convey joy."
+      "Strong Adult-Adult engagement with difficult theological concepts.",
+      "Avoidance of shaming/coercive language.",
+      "Authentic use of Free Child wonder and creativity."
     ],
     "areas_for_improvement": [
-      "The shift from logical analysis to 'Mystery' could be more gradual to avoid a minor 'Bait & Switch' feel.",
-      "Ensure the 'Critical Parent' quotes from Paul are clearly contextualized as Paul's frustration, not the preacher's."
+      "The use of highly tragic imagery (Oklahoma City bombing) can occasionally overwhelm the Adult ego state with Child-level fear.",
+      "The transition from 'stupid question' (Paul) to 'sympathetic preacher' could be even more explicit in protecting the listener's Adult."
     ],
-    "advice_for_game_free_communication": "Continue to name the limitations of your own arguments; it builds Adult-to-Adult trust and prevents the 'I'm Only Trying To Help You' game."
+    "advice_for_game_free_communication": "Continue to acknowledge the 'predicament' of the text; this transparency prevents the 'I Know Best' Parent trap. Maintain the balance of validating human grief (NP) while inviting intellectual reflection (A)."
   }
 }

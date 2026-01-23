@@ -8,103 +8,103 @@
   "drievoudige_structuur_analyse": {
     "locutie": {
       "beschrijving": "A narrative and socio-political re-reading of the Noah story, focusing on God's repentance, the critique of 'God-imperialism', and the rainbow as a sign of peace against nuclear/ecological destruction.",
-      "exegetische_kwaliteit": "Strongly contextual and midrashic; uses historical-critical insights (Jahwist) and Jewish tradition (Talmud) to challenge traditional dogmatics.",
+      "exegetische_kwaliteit": "High. Uses historical-critical insights (Jahwist, 10th century BC) and Jewish tradition (Talmud/Midrash) to challenge classical dogmatic categories.",
       "omvang_procent": "75%"
     },
     "illocutie": {
-      "beschrijving": "Primarily asserting a new image of God (vulnerable, repenting) and directing the hearer toward political resistance, with a concentrated declarative section at the end.",
+      "beschrijving": "Primarily asserting a new theological perspective and directing the hearer toward political resistance, culminating in a liturgical declaration of forgiveness.",
       "primaire_kracht": "ASSERTING",
       "helderheid_score": 7,
       "voorbeelden": [
-        "Gott bereut, was er getan hat.",
-        "Ich will diese Theologie den Gottesimperialismus nennen.",
-        "Gott hat euch längst eure Sünden vergeben."
+        "Ich möchte die biblische Geschichte erzählen (Expressive/Directive)",
+        "Gott bereut (Assertive)",
+        "Gott hat euch längst eure Sünden vergeben (Declarative)"
       ]
     },
     "perlocutie": {
-      "beoogd_effect": "Political mobilization, liberation from fatalism, and comfort through a 'motherly' image of God.",
+      "beoogd_effect": "Political awakening, liberation from fatalism, and comfort through the assurance of God's 'motherly' care.",
       "pneumatologisch_bewustzijn": "Explicitly mentioned at the end as 'der lange Atem'.",
       "perlocutionaire_werkwoorden": [
         "umkehren",
         "widerstehen",
-        "hoffen",
-        "aufrichten"
+        "aufrichten",
+        "hoffen"
       ]
     }
   },
   "werkwoord_analyse": {
     "assertieven": {
-      "frequentie": "High",
+      "frequentie": 142,
       "procent": "70%",
       "voorbeelden": [
-        "Noah war ein nicht unvermögender Mann.",
-        "Gott ist nicht unabhängig von uns.",
-        "Die Erde gehört Gott."
+        "Gott ist nicht unser Besitzer.",
+        "Die Erde gehört Gott.",
+        "Sünde ist eine transsubjektive Macht."
       ],
       "dominante_werkwoorden": [
         "ist",
-        "war",
-        "denkt",
-        "heißt"
+        "sagt",
+        "meint",
+        "denkt"
       ]
     },
     "directieven": {
-      "frequentie": "Medium",
+      "frequentie": 28,
       "procent": "15%",
       "voorbeelden": [
-        "Macht doch endlich Frieden.",
-        "Lasst euch versöhnen mit Gott.",
-        "Denkt an diesen Krieg."
+        "Macht doch endlich Frieden!",
+        "Denkt an diesen Krieg.",
+        "Lasst euch versöhnen!"
       ],
       "dominante_werkwoorden": [
         "macht",
-        "lasst",
         "denkt",
-        "sollt"
+        "lasst",
+        "erinnert"
       ],
       "fundament_check": true
     },
     "expressieven": {
-      "frequentie": "Medium",
+      "frequentie": 15,
       "procent": "8%",
       "voorbeelden": [
-        "Ich möchte die Geschichte erzählen.",
-        "Ich vermute, es gibt eine männliche Theologie.",
-        "Mir macht das Angst."
+        "Ich möchte innehalten.",
+        "Ich vermute...",
+        "Das macht mir am meisten Angst."
       ],
       "dominante_werkwoorden": [
         "möchte",
-        "vermute",
-        "hoffe"
+        "hoffe",
+        "fühle"
       ]
     },
     "commissieven": {
-      "frequentie": "Low",
+      "frequentie": 8,
       "procent": "4%",
       "voorbeelden": [
         "Gott verspricht, nicht mehr zu schlagen.",
-        "Gott bietet uns seinen Bund an."
+        "Gott bindet sich an das Bestehen der Erde."
       ],
       "dominante_werkwoorden": [
         "verspricht",
-        "bietet an",
-        "bindet sich"
+        "bindet",
+        "gelobt"
       ],
-      "kwaliteit": "Mostly descriptive of God's past promises rather than a direct 'I promise you' in the moment."
+      "kwaliteit": "Strongly present in the text's theology, but often described in the 3rd person (constative) rather than performed in the 2nd person."
     },
     "declaratieven": {
-      "frequentie": "Low",
+      "frequentie": 6,
       "procent": "3%",
       "voorbeelden": [
-        "Gott... hat euch längst eure Sünden vergeben.",
+        "Gott hat euch längst eure Sünden vergeben.",
         "Du hast den Glauben."
       ],
       "dominante_werkwoorden": [
         "vergeben",
-        "ist gegeben",
+        "ist",
         "hast"
       ],
-      "autoriteit": "High in the liturgical appendix, low in the main body."
+      "autoriteit": "High authority in the liturgical closing; lower in the main body."
     }
   },
   "constatief_performatief_diagnose": {
@@ -115,25 +115,25 @@
       "aanwezig": true,
       "ernst": "MODERATE",
       "indicatoren": [
-        "Extensive historical and political analysis",
-        "Talking 'about' the concept of repentance",
-        "Lengthy quotes from journalists and poets"
+        "Extensive socio-historical analysis",
+        "Talking about the concept of 'Gottesimperialismus'",
+        "Describing God's repentance in the 3rd person"
       ],
-      "effect_op_hoorder": "Intellectual stimulation and political reflection, but delayed existential encounter."
+      "effect_op_hoorder": "The hearer is well-informed and intellectually stimulated, but remains an observer of God's history rather than a participant until the very end."
     },
     "performatief_deficit_analyse": {
       "aanwezig": true,
       "ernst": "LOW",
       "missende_elementen": [
-        "Direct address of the promise in the present tense within the body",
-        "Immediate sacramental 'I' of the preacher as God's mouthpiece"
+        "Direct address of the promise (Toezegging) in the main body",
+        "Present-tense sacramental mediation"
       ],
-      "effect_op_hoorder": "The hearer remains an observer of a 'better theology' until the very end."
+      "effect_op_hoorder": "A delay in the 'event' character until the liturgical conclusion."
     },
     "toezegging_check": {
       "toezegging_aanwezig": true,
-      "aantal_toezeggen": "3",
-      "kwaliteit_toezeggen": "Strongly personal and direct in the final section.",
+      "aantal_toezeggen": 4,
+      "kwaliteit_toezeggen": "The absolution is highly performative and direct.",
       "voorbeelden": [
         "Gott... hat euch längst eure Sünden vergeben."
       ],
@@ -143,31 +143,32 @@
   "adressering_analyse": {
     "persoonsvorm_distributie": {
       "eerste_persoon": {
-        "frequentie": "High",
-        "gebruik": "Preacher's own doubts, thoughts, and political stance."
+        "frequentie": 45,
+        "gebruik": "Homiletical 'I' (sharing doubts) and 'We' (political solidarity)."
       },
       "tweede_persoon": {
-        "frequentie": "Low/Medium",
-        "gebruik": "Mostly in the final absolution and occasional rhetorical questions."
+        "frequentie": 12,
+        "gebruik": "Direct address in the final blessing and occasional rhetorical questions.",
+        "performatieve_context": "Used for absolution."
       },
       "derde_persoon": {
-        "frequentie": "Very High",
-        "gebruik": "Talking about God, Noah, the State, and the Earth.",
+        "frequentie": 180,
+        "gebruik": "Dominant mode: talking about God, Noah, the state, and the earth.",
         "distantie_effect": "Creates a lecture-like atmosphere."
       }
     },
     "tijdsdimensie": {
       "verleden_tijd": {
         "frequentie": "40%",
-        "gebruik": "Biblical narrative and 20th-century history."
+        "gebruik": "Biblical narrative and German history."
       },
       "tijdloos_present": {
-        "frequentie": "40%",
-        "gebruik": "Theological definitions and political analysis."
+        "frequentie": "45%",
+        "gebruik": "Theological and political principles."
       },
       "actueel_present": {
-        "frequentie": "20%",
-        "gebruik": "The liturgical 'Now' of forgiveness."
+        "frequentie": "15%",
+        "gebruik": "The immediate liturgical act of forgiveness."
       }
     },
     "adressering_effectiviteit": 6
@@ -176,70 +177,70 @@
     "patroon_identificatie": "SACRAMENTAL",
     "foutief_patroon": {
       "aanwezig": false,
-      "beschrijving": "Avoids moralistic 'You must' without grace.",
+      "beschrijving": "n/a",
       "voorbeelden": [],
-      "probleem": "N/A"
+      "probleem": "n/a"
     },
     "sacramenteel_patroon": {
       "aanwezig": true,
-      "beschrijving": "The sermon moves from a critique of false images of God (Assertive) to a declaration of forgiveness (Declarative) and a call to peace (Directive).",
+      "beschrijving": "The sermon follows a clear movement from Analysis (Assertive) to the Promise of Forgiveness (Declarative) to the call for action (Directive).",
       "voorbeelden": [
-        "Gott hat vergeben -> Du bist fähig zur Liebe -> Macht Frieden."
+        "Analysis of sin -> Absolution -> 'Du bist fähig zur Liebe'."
       ],
-      "kwaliteit": "The transition is sharp but effective."
+      "kwaliteit": "The pattern is sound, but the 'Assertive' phase is disproportionately long."
     },
     "indicatief_imperatief_verhouding": {
       "indicatief_aanwezig": true,
       "imperatief_gefundeerd": true,
       "voorbeelden_goede_verhouding": [
-        "Weil Gott umkehrt... darum sollen wir glauben, dass jeder Mensch umkehrfähig ist."
+        "Gott hat vergeben (Indicative) -> Du bist fähig zur Liebe (Imperative/Potentiality)."
       ],
       "voorbeelden_slechte_verhouding": []
     }
   },
   "diagnostische_evaluatie": {
     "primaire_diagnose": "SACRAMENTAL_CREATIVE",
-    "diagnose_toelichting": "Despite the long constative sections, the sermon culminates in a powerful liturgical act that redefines the reality of the hearer.",
+    "diagnose_toelichting": "Despite the constative surplus in the body, the liturgical frame transforms the whole into a sacramental event of liberation.",
     "sterke_punten": [
       {
-        "aspect": "Theological Re-framing",
-        "categorie": "Assertive",
-        "tekstueel_bewijs": "Gott übersteigt Gott.",
-        "effect": "Breaks dead dogmatics."
+        "aspect": "Declarative Power",
+        "categorie": "Absolution",
+        "tekstueel_bewijs": "Gott... hat euch längst eure Sünden vergeben.",
+        "effect": "Releases the hearer from the 'theology of death'."
       }
     ],
     "zwakke_punten": [
       {
         "aspect": "Constative Surplus",
-        "categorie": "Locution",
-        "tekstueel_bewijs": "The long quote about Mirage and Leopard tanks.",
-        "probleem": "Information overload distracts from the kerygmatic event.",
+        "categorie": "Assertives",
+        "tekstueel_bewijs": "Detailed descriptions of Mirage jets and Leopard tanks.",
+        "probleem": "Risk of becoming a political lecture.",
         "ernst": "MODERATE"
       }
     ],
     "gebeuren_score": 8,
-    "gebeuren_toelichting": "The final section transforms the previous 'talk' into a 'happening' of grace.",
+    "gebeuren_toelichting": "The transition from the 'I' of the preacher to the 'You' of the hearer in the absolution creates a genuine encounter.",
     "sacramentele_kracht": 9,
-    "sacramentele_toelichting": "The absolution is one of the strongest performative moments in modern homiletics."
+    "sacramentele_toelichting": "The use of the 'Word of Forgiveness' as a reality-changing force is exemplary."
   },
   "theologische_diepte_analyse": {
     "openbaringsleer": {
-      "god_als_spreker": "Yes, especially through the 'Mother' metaphor and the final address.",
-      "prediker_als_mandataris": "The preacher speaks with authority in the absolution.",
+      "god_als_spreker": "Yes, especially through the 'motherly' voice and the rainbow promise.",
+      "prediker_als_mandataris": "Clearly seen in the absolution section.",
       "tekstueel_bewijs": [
-        "Gott... hat euch längst eure Sünden vergeben."
+        "Gott bietet uns wieder seinen Bund an."
       ]
     },
     "pneumatologie": {
-      "geest_rol_erkend": "Yes, as the 'long breath' of resistance.",
-      "perlocutie_theologie": "The Spirit is the one who 'flows into empty hearts'.",
+      "geest_rol_erkend": "Yes, the Spirit is the 'long breath' of resistance.",
+      "perlocutie_theologie": "The effect (hope/love) is attributed to the Spirit.",
       "tekstueel_bewijs": [
         "Der lange Atem, das ist der Heilige Geist."
       ]
     },
     "sacramentstheologie": {
-      "preek_als_genademiddel": "The sermon acts as a means of grace by 'unlocking' the prison of sin.",
-      "epifanisch_taalgebruik": "The 'tenderly turning earth' is an epiphanic image.",
+      "preek_als_genademiddel": "The sermon acts as a 'means of grace' by breaking the power of fatalism.",
+      "epifanisch_taalgebruik": "The image of the 'tenderly turning earth' is epiphanic.",
       "tekstueel_bewijs": [
         "Die Erde dreht sich zärtlich."
       ]
@@ -251,81 +252,80 @@
       "nodig": true,
       "specifieke_suggesties": [
         {
-          "huidige_formulering": "Gott ist der Reue fähig.",
-          "voorgestelde_revisie": "Gott bereut heute vor euch seinen Zorn.",
-          "verschil": "Moves from a fact about God to an event between God and the hearer."
+          "huidige_formulering": "Gott verspricht, nicht mehr zu schlagen.",
+          "voorgestelde_revisie": "Gott verspricht dir heute: Ich werde dich nicht vernichten.",
+          "verschil": "Moves from information to encounter."
         }
       ]
     },
     "toezegging_versterking": {
       "nodig": false,
-      "probleem": "The final section is already excellent.",
-      "suggestie": "Integrate these moments earlier.",
+      "probleem": "None",
+      "suggestie": "Maintain the strength of the liturgical closing.",
       "voorbeeldzinnen": [
-        "Dieser Regenbogen steht heute über deinem Leben."
+        "Dir ist vergeben."
       ]
     },
     "adressering_verbetering": {
       "nodig": true,
-      "probleem": "Too much 'we' (inclusive) and 'they' (political enemies), not enough 'you' (the hearer).",
-      "suggestie": "Address the hearer's specific fear of the 'atomic cloud' directly.",
+      "probleem": "Too much 'we' and 'they' (political groups).",
+      "suggestie": "Address the 'You' of the individual hearer earlier.",
       "voorbeeldzinnen": [
-        "Du musst dich nicht mehr fürchten."
+        "Hörst du, wie die Erde sich für dich dreht?"
       ]
     },
     "indicatief_imperatief_herstel": {
       "nodig": false,
-      "probleem": "Well balanced.",
-      "suggestie": "Keep the foundation of the 'Promise' strong."
+      "probleem": "n/a",
+      "suggestie": "The balance is already a strength of this text."
     },
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A masterpiece of political-sacramental preaching that succeeds because it dares to perform the forgiveness it discusses."
+    "slotopmerking": "A masterpiece of political homiletics that succeeds because it does not stop at analysis but dares to perform the Word of Grace."
   },
   "comparatieve_analyse": {
-    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' regarding her fears; SAT focuses on the 'Declarative' power of the absolution to change the hearer's status before God.",
-    "verschil_met_retoriek": "Rhetoric would praise the metaphors; SAT focuses on the fact that the preacher actually *does* something (forgives) rather than just *persuading*.",
-    "unieke_inzichten_SAT": "SAT reveals that the 'Sündenbekenntnis' section is the actual 'engine' of the sermon's performativity."
+    "verschil_met_schulz_von_thun": "SvT would focus on Sölle's 'self-revelation' as a doubter; SAT focuses on the 'Declarative' power of the absolution to change the hearer's status.",
+    "verschil_met_retoriek": "It is not just persuasive; it claims to actually mediate the 'long breath' of the Spirit.",
+    "unieke_inzichten_SAT": "SAT reveals that the political analysis serves as the 'Locution' for the 'Illocution' of liberation."
   },
   "appendices": {
     "volledige_werkwoord_lijst": {
       "assertief": [
         "ist",
         "war",
-        "sieht",
-        "denkt",
-        "nennt",
+        "heißt",
+        "gehört",
         "bedeutet"
       ],
       "directief": [
         "macht",
-        "lasst",
         "denkt",
-        "erhebt"
+        "lasst",
+        "richtet auf"
       ],
       "expressief": [
         "möchte",
-        "vermute",
-        "habe Angst"
+        "hoffe",
+        "fürchte"
       ],
       "commissief": [
         "verspricht",
-        "bietet an",
-        "bindet sich"
+        "bindet",
+        "gelobt"
       ],
       "declaratief": [
-        "vergibt",
-        "hat vergeben",
-        "ist gegeben"
+        "vergebe",
+        "erkläre",
+        "spricht frei"
       ]
     },
     "kernzinnen_analyse": [
       {
-        "zin": "Gott... hat euch längst eure Sünden vergeben.",
+        "zin": "Gott hat euch längst eure Sünden vergeben.",
         "categorie": "DECLARATIVE",
         "illocutionaire_kracht": "Maximum",
-        "effectiviteit": "Creates the 'Event'."
+        "effectiviteit": "High"
       }
     ],
-    "notities": "The sermon is a classic example of 'Kerygmatic' preaching where the liturgy completes the homily."
+    "notities": "The sermon is a prime example of how a high 'constative' content can be 'redeemed' by a strong performative finish."
   }
 }

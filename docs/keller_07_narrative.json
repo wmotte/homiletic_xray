@@ -7,20 +7,20 @@
   },
   "actantiele_analyse": {
     "primair_narratief_programma": {
-      "beschrijving": "God restores His presence to humanity through the work of Christ, transforming individuals into a collective temple (the Church) where they function as priests.",
+      "beschrijving": "God restores His presence to humanity through the work of Christ (the Cornerstone), transforming believers into a collective temple (Living Stones) to manifest His glory.",
       "subject": {
         "identificatie": "God / Jesus Christ",
         "tekstueel_bewijs": [
-          "God decided not to leave us in this. He planned to rescue a race of people.",
-          "God has forgiven our sins.",
-          "God is present because of the work of Jesus Christ."
+          "God decided not to leave us in this. He planned to rescue a race of people",
+          "God did not leave us to stew in our own juices. Instead, he had a plan",
+          "Jesus Christ... atoned for our sins once for all"
         ],
         "frequentie_score": "8"
       },
       "object": {
-        "identificatie": "The Presence of God (Restoration of face-to-face relationship)",
+        "identificatie": "The Presence of God / Restoration of the Face-to-Face relationship",
         "tekstueel_bewijs": [
-          "The entire storyline of the Bible in terms of one theme: the presence of God.",
+          "The Bible says God created us for his presence.",
           "Seeing him and knowing him face-to-face."
         ],
         "aard_van_object": "SOTERIOLOGICAL"
@@ -28,68 +28,65 @@
       "zender": {
         "identificatie": "God the Father",
         "tekstueel_bewijs": [
-          "Chosen by God and precious to him.",
-          "He planned to rescue a race of people."
+          "chosen by God and precious to him"
         ],
         "rol_interpretatie": "LOVING_FATHER"
       },
       "ontvanger": {
         "identificatie": "The Human Race / The Church",
         "tekstueel_bewijs": [
-          "Once you had not received mercy, but now you have received mercy.",
-          "God did not leave us to stew in our own juices."
+          "He planned to rescue a race of people",
+          "now you are the people of God"
         ],
-        "positie_hoorder": "The hearer identifies as the Receiver of mercy who is then transformed into a Subject of the secondary program."
+        "positie_hoorder": "Receiver (The hearer is the 'Living Stone' being built by God)"
       },
       "helper": {
-        "identificatie": "Jesus Christ (The Cornerstone) and the Holy Spirit",
+        "identificatie": "The Holy Spirit / The Community of Believers",
         "tekstueel_bewijs": [
-          "Through Jesus Christ.",
-          "The Holy Spirit comes into you.",
-          "As you come to him... you also, like living stones, are being built."
+          "the Holy Spirit, comes into you",
+          "as you are fitted together with the other people around you"
         ],
-        "rol_van_god": "God is both the Subject (Initiator) and the Helper (Mediator in Christ).",
-        "rol_van_geest": "Indwelling power that enables the transformation of the 'stones'."
+        "rol_van_god": "Subject (God is the builder)",
+        "rol_van_geest": "Indwelling power"
       },
       "tegenstander": {
-        "identificatie": "Sin / Human Autonomy / The 'Brokenness' of the Fall",
+        "identificatie": "Sin / The Fall / Human Autonomy",
         "tekstueel_bewijs": [
-          "We wanted to be our own masters.",
-          "It broke the relationship.",
-          "We can’t bear the presence of God."
+          "we wanted to be our own masters",
+          "it broke the relationship"
         ],
         "ernst_tegenstander": "COSMIC",
-        "toelichting_ernst": "The opponent is not just bad habits but an ontological inability to survive God's presence due to sin."
+        "toelichting_ernst": "Sin is described as an ontological break that makes the presence of God unbearable and destructive to the human condition."
       }
     },
     "secundair_narratief_programma": {
       "aanwezig": true,
-      "beschrijving": "The believer (Subject) offers spiritual sacrifices (Object) to God, serving the city and the church.",
-      "subject": "The Believer (The Priesthood)",
-      "object": "Spiritual Sacrifices / Ministry / Deeds of Love",
+      "beschrijving": "The believer (Subject) offers spiritual sacrifices (Object) to the world/God as a response to their new identity.",
+      "subject": "The Believer (as Priest)",
+      "object": "Spiritual Sacrifices (Service, Evangelism, Deeds)",
       "verhouding_tot_primair": "SEQUENTIAL",
-      "toelichting_verhouding": "The secondary program (Ethics/Ministry) is explicitly fueled by the primary program (Soteriology/Cornerstone)."
+      "toelichting_verhouding": "The sermon explicitly states that 'output' (secondary) is only possible because of 'input' (primary/soteriological)."
     },
     "actantieel_schema_visualisatie": {
-      "zender_naar_ontvanger": "God → Presence/Mercy → Humanity",
-      "helper_subject_tegenstander": "Christ/Spirit → God/Believer ← Sin/Autonomy",
-      "subject_naar_object": "Believer → Spiritual Sacrifices"
+      "zender_naar_ontvanger": "God → Restoration of Presence → Mankind",
+      "helper_subject_tegenstander": "Holy Spirit → God (in Christ) ← Sin/Death",
+      "subject_naar_object": "God → Building a Spiritual House"
     }
   },
   "grammaticale_analyse": {
     "subject_check": {
       "god_als_subject_count": "42",
-      "mens_als_subject_count": "38",
-      "ratio": "1.1:1",
+      "mens_als_subject_count": "28",
+      "ratio": "1.5:1",
       "voorbeelden_god_subject": [
-        "God created us for his presence.",
         "God decided not to leave us.",
-        "The glory of God has broken out into our lives."
+        "God inhabits us.",
+        "He has forgiven our sins."
       ],
       "voorbeelden_mens_subject": [
-        "We turned away from God.",
-        "You are being built into a spiritual house.",
-        "You should be part of the priesthood."
+        "We wanted to be our own masters.",
+        "You also... are being built.",
+        "You have to relate to the cornerstone."
       ],
       "rutledge_score": "8"
     },
@@ -97,15 +94,13 @@
       "devoir_faire": {
         "prominentie": "4",
         "voorbeelden": [
-          "You should be part of the priesthood.",
-          "We have to consider this."
+          "What we are called to do."
         ]
       },
       "vouloir_faire": {
-        "prominentie": "7",
+        "prominentie": "6",
         "voorbeelden": [
-          "Don’t you want to be part of that?",
-          "He has to be precious to you."
+          "Don’t you want to be part of that?"
         ]
       },
       "savoir_faire": {
@@ -117,147 +112,153 @@
       "pouvoir_faire": {
         "prominentie": "9",
         "voorbeelden": [
-          "How we can be enabled and empowered.",
-          "There’s absolutely no end to the kind of power for change.",
-          "Empowered to do ministry."
+          "How we can be enabled and empowered to do it.",
+          "the power for change that you have within you."
         ]
       },
       "dominante_modaliteit": "POUVOIR",
-      "modale_interpretatie": "The sermon focuses heavily on the 'ability' (Pouvoir) granted by the Spirit rather than the 'obligation' (Devoir) of the law."
+      "modale_interpretatie": "The sermon focuses on the 'ability' (Pouvoir) granted by God rather than the 'obligation' (Devoir) of the law."
     }
   },
   "semiotisch_vierkant_analyse": {
     "primaire_tegenstelling": {
-      "s1": "Presence (Life/Glory)",
-      "s2": "Exclusion (Death/Darkness)",
-      "niet_s1": "Brokenness (Suffering/Injustice)",
-      "niet_s2": "Mercy (The 'Not a People' becoming 'People')"
+      "s1": "Presence/Glory",
+      "s2": "Judgment/Destruction",
+      "niet_s1": "Absence/Brokenness",
+      "niet_s2": "Mercy/Mediation"
     },
-    "beweging_in_preek": "From S1 (Eden) to S2 (Fall/Exclusion), then to ~S2 (Mercy/Tabernacle), and finally back to S1 (Christ/Temple).",
-    "theologische_resolutie": "The tension between God's holiness and human sin is resolved by Christ becoming the 'rejected stone' so that humans can be 'precious stones'.",
-    "ernst_van_s2": "High; the sermon emphasizes that the presence of God would 'destroy' us without the mediation of Christ."
+    "beweging_in_preek": "From S1 (Eden) to ~S1 (Fall), then acknowledging S2 (God's presence kills), moving to ~S2 (Christ as veil/cornerstone), returning to S1 (Temple/Glory).",
+    "theologische_resolutie": "Christ acts as the 'Cornerstone' that allows the Holy to inhabit the Unholy without destruction.",
+    "ernst_van_s2": "High; the sermon emphasizes that God's presence 'will destroy you' without Christ."
   },
   "diagnostische_evaluatie": {
     "primaire_classificatie": "GRACE",
-    "classificatie_toelichting": "While the sermon issues a strong call to action (ministry), it grounds this 'output' entirely in the 'input' of God's prior action in Christ.",
+    "classificatie_toelichting": "The sermon maintains God as the primary actor in the 'Building' process and defines human action as a secondary 'output' necessitated by a prior 'input'.",
     "indicatoren_moralisme": [
       {
-        "indicator": "Potential for 'Input/Output' to sound like a transaction.",
-        "tekstueel_bewijs": "If you are only doing input... it's bad for you.",
+        "indicator": "Focus on human effort in community",
+        "tekstueel_bewijs": "If you’re only coming here and taking and you’re not giving... it’s bad for you.",
         "ernst": "LOW"
       }
     ],
     "indicatoren_genade": [
       {
-        "indicator": "God as the primary actor in transformation.",
+        "indicator": "God as the initiator of the plan",
         "tekstueel_bewijs": "God did not leave us to stew in our own juices.",
         "sterkte": "STRONG"
       },
       {
-        "indicator": "Christ as the source of competence (Pouvoir).",
-        "tekstueel_bewijs": "As you come to him... you also... are being built.",
+        "indicator": "Identity based on being loved, not doing",
+        "tekstueel_bewijs": "The fact that you are loved in Jesus Christ becomes the foundation of your life.",
         "sterkte": "VERY_STRONG"
       }
     ],
     "exemplarisme_check": {
       "aanwezig": false,
-      "beschrijving": "Biblical figures (Moses, Abraham, Jacob) are used to show the progression of redemptive history, not as moral templates to copy.",
+      "beschrijving": "Biblical figures like Moses and Abraham are used to show the progression of God's presence, not as moral templates to copy.",
       "bijbelse_figuren_als_model": [
         "Moses",
         "Abraham",
         "Jacob"
       ],
-      "alternatieve_lezing": "The sermon already uses a theocentric reading: God's presence was episodic for them but permanent for us."
+      "alternatieve_lezing": "Theocentric: God revealed Himself to them episodically, but reveals Himself to us permanently."
     },
     "identificatie_patroon": {
       "hoorder_identificeert_met": "RECEIVER_SAVED",
-      "effect_op_hoorder": "Gratitude leading to spontaneous service (Vouloir/Pouvoir).",
-      "theologische_implicatie": "Justification precedes Sanctification."
+      "effect_op_hoorder": "Relief and empowerment; the hearer is a 'stone' being placed by a Master Builder.",
+      "theologische_implicatie": "Monergistic sanctification (God builds the house)."
     },
-    "narratieve_hierarchie_herstel": {
-      "nodig": false,
-      "probleem": "None",
-      "voorgestelde_structuur": "Soteriology (The Stone) → Identity (Living Stones) → Ethics (Priesthood)."
+    "narratieve_coherentie": {
+      "coherentie_score": "9",
+      "coherentie_beschrijving": "Strong integration of the 'Temple' metaphor across biblical history and personal application.",
+      "spanning_punten": [
+        "The tension between 'being built' (passive) and 'offering sacrifices' (active)."
+      ]
     }
   },
   "theologische_diepte_analyse": {
     "soteriologie": {
       "primaire_model": "SUBSTITUTION",
-      "tekstueel_bewijs": "He was rejected... because you were precious to him.",
+      "tekstueel_bewijs": "He was despised and rejected... because you were precious to him.",
       "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
     },
     "pneumatologie": {
       "rol_heilige_geest": "INDWELLING_POWER",
-      "competentie_schenking": "The Spirit provides the 'Pouvoir' (power) to change and serve."
+      "competentie_schenking": "Endowment (The Spirit provides the 'Pouvoir-faire')."
     },
     "hamartologie": {
-      "aard_van_zonde": "ONTOLOGICAL_DAMAGE",
-      "ernst_diagnose": "Severe; sin makes the presence of God unbearable/destructive."
+      "aard_van_zonde": "COSMIC_POWER",
+      "ernst_diagnose": "Severe; sin makes God's presence lethal."
     },
     "eschatologie": {
       "hoop_structuur": "ALREADY_AND_NOT_YET",
-      "actant_van_voltooiing": "God (The whole world becomes a temple)."
+      "actant_van_voltooiing": "God"
     }
   },
   "aanbevelingen": {
-    "actantiele_audit_samenvatting": "The sermon successfully maintains God as the Subject of the Primary Program, positioning the hearer as a Receiver who is transformed into a secondary Subject.",
+    "actantiele_audit_samenvatting": "The sermon successfully positions God as the Subject of the primary narrative (Salvation/Building) and the believer as the Subject of the secondary narrative (Service/Sacrifice).",
     "subject_herpositionering": {
       "nodig": false,
-      "huidige_probleem": "N/A",
+      "huidige_probleem": "None",
       "voorgestelde_herpositionering": "N/A",
       "voorbeeld_revisie": "N/A"
     },
     "identificatie_herstel": {
       "nodig": false,
-      "problematische_identificatie": "N/A",
-      "voorgestelde_identificatie": "RECEIVER",
-      "strategie": "Maintain the 'Input before Output' metaphor."
+      "problematische_identificatie": "None",
+      "voorgestelde_identificatie": "N/A",
+      "strategie": "N/A"
     },
     "modale_balans": {
-      "huidige_onbalans": "Slightly high on Vouloir (motivation) in the second half.",
-      "voorgestelde_balans": "Ensure the 'Pouvoir' (power) is linked to the Spirit's work even in the specific tasks of ministry.",
-      "concrete_suggestie": "Explicitly state that the Spirit gives the specific 'Savoir-faire' (wisdom) for the 'hands only you can hold'."
+      "huidige_onbalans": "Slightly heavy on Pouvoir (Power).",
+      "voorgestelde_balans": "Maintain current balance; it effectively counters moralism.",
+      "concrete_suggestie": "Continue emphasizing that 'being built' is a passive verb."
     },
     "tegenstander_intensivering": {
-      "nodig": true,
-      "huidige_status": "The 'Opponent' in the secondary program (why we don't serve) is attributed to 'timidity' or 'selfishness'.",
-      "voorgestelde_intensivering": "Frame the resistance to ministry as a 'stumbling' over the Stone—a lingering desire for autonomy.",
-      "theologische_rationale": "Connects the ethics section back to the 'rejected stone' motif."
+      "nodig": false,
+      "huidige_status": "Strongly defined as the 'unbearable presence' due to sin.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "N/A"
+    },
+    "narratieve_hierarchie_herstel": {
+      "nodig": false,
+      "probleem": "None",
+      "voorgestelde_structuur": "Soteriology (Input) → Ethics (Output)."
     },
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A masterclass in grounding ecclesiology and lay-ministry in a Christocentric, redemptive-historical framework. It avoids moralism by making the 'vocation' a participation in what God is already doing."
+    "slotopmerking": "The sermon is a masterclass in avoiding moralism by grounding every 'call to action' in a 'call to receive' the work of the Cornerstone."
   },
   "comparatieve_analyse": {
-    "verschil_met_retorische_analyse": "A rhetorical analysis would focus on the 'Input/Output' metaphor; Greimas shows that this metaphor actually functions as a modal shift from Devoir to Pouvoir.",
-    "verschil_met_exegese": "Exegesis explains the 'priesthood'; Greimas explains how the 'priesthood' is a functional actant dependent on the 'Cornerstone' actant.",
-    "unieke_inzichten_greimas": "Reveals that the sermon's power comes from the 'Subject-Switch': Christ takes the role of the 'Rejected Stone' (Opponent's target) so the hearer can take the role of 'Living Stone' (Subject's helper)."
+    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'Input/Output' metaphor, Greimas reveals that the 'Subject' of the building is God, preventing the metaphor from becoming a works-based demand.",
+    "verschil_met_exegese": "Exegesis explains the 'Living Stone' text; semiotics shows how the sermon's structure mirrors the Gospel's deep grammar.",
+    "unieke_inzichten_greimas": "Greimas highlights that the 'Opponent' is not just 'not serving,' but the 'lethality of the unmediated presence of God,' which necessitates a Divine Subject."
   },
   "appendices": {
     "volledige_subject_lijst": [
-      "God (created, planned, rescued, called, dwells)",
-      "Jesus (died, was rejected, became flesh, mediates)",
-      "We/You (turned away, come to him, are built, offer sacrifices)"
+      "God planned",
+      "Jesus atoned",
+      "Spirit empowers",
+      "You are being built"
     ],
     "volledige_object_lijst": [
       "The Presence",
-      "Mercy",
-      "Spiritual Sacrifices",
-      "A New World"
+      "The Temple",
+      "Spiritual Sacrifices"
     ],
     "werkwoord_frequentie": {
-      "build/built": {
-        "count": 6,
+      "build": {
+        "count": "12",
         "primair_subject": "God"
       },
       "reject": {
-        "count": 5,
+        "count": "8",
         "primair_subject": "Man"
       },
       "empower": {
-        "count": 4,
+        "count": "6",
         "primair_subject": "God"
       }
     },
-    "notities": "The sermon uses 'Input/Output' to prevent the secondary program from becoming a new law."
+    "notities": "The sermon uses the 'Cornerstone' as the pivot point for all modal competencies."
   }
 }

@@ -3,7 +3,7 @@
     "analysis_date": "2024-05-22",
     "sermon_title": "The Crossing",
     "bible_text": "John 6:16-25",
-    "notes": "Analysis of a sermon focusing on Jesus walking on water, emphasizing divine sovereignty and the 'ultimate Jonah' motif."
+    "notes": "A classic expository sermon focusing on Christology and the nature of divine power versus human control."
   },
   "ego_positions_scan": {
     "parent": {
@@ -11,9 +11,10 @@
         "score": 7,
         "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
         "presence_of_coercion": "Medium",
-        "analysis": "The preacher uses CP to deconstruct the listener's autonomy, claiming all are 'fighting God' and 'hostile.' However, this is framed as a theological diagnosis rather than a personal attack.",
+        "analysis": "The preacher uses CP to deconstruct human 'self-deception' and 'hostility toward God.' While it isn't moralistic 'shaming,' it uses the authority of the 'Parent' to tell the listener they don't know their own heart.",
         "quotes": [
-          "You’re all fighting God. You’re all resisting him.",
+          "You’re all fighting God.",
+          "We’re all resisting him. We’re all hostile to him.",
           "You must deal with me on your own terms."
         ]
       },
@@ -21,10 +22,10 @@
         "score": 8,
         "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
         "presence": "High",
-        "analysis": "The Nurturing Parent is strong, offering comfort through the 'Wonderful Counselor' motif. It avoids dependency by pointing to an external savior rather than the preacher's own care.",
+        "analysis": "The NP is strong but directed toward the character of Jesus as a 'Wonderful Counselor.' It promotes autonomy by suggesting that the listener can 'handle' storms through this relationship.",
         "quotes": [
           "He comes to them and speaks gently to them.",
-          "He comes next to them in the storm and gets them to land."
+          "If someone like this with this kind of power loves me like this, I can handle the storms."
         ]
       }
     },
@@ -32,10 +33,11 @@
       "score": 9,
       "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
       "presence": "High",
-      "analysis": "The sermon is highly intellectual and analytical. It uses Greek word studies, psychological data, and logical structures to engage the listener's thinking faculty.",
+      "analysis": "The sermon is highly analytical, using Greek word studies, historical context, and psychological data to build a case. It addresses the listener as a thinking subject capable of logical deduction.",
       "quotes": [
-        "This is one of those passages in which very careful attention to the original Greek text helps a lot.",
-        "I recently read an interesting psychological study..."
+        "In Greek there are a number of different words...",
+        "I recently read an interesting psychological study that said...",
+        "Let’s think about what that means practically."
       ]
     },
     "child": {
@@ -43,84 +45,72 @@
         "score": 6,
         "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
         "presence_of_adaptation": "Medium",
-        "analysis": "The preacher uses the 'storm' metaphor to induce a sense of vulnerability (Victim position), which can push the listener into an Adapted Child state of needing rescue.",
+        "analysis": "The preacher speaks with a calm authority that avoids 'pleasing' the audience, but the theology demands a 'submission' (taking hands off life) that targets the AC's fear of loss of control.",
         "quotes": [
-          "You will be out of your depth.",
-          "There will be no refuge unless it comes from outside of you."
+          "That night she took her hands off her life."
         ]
       },
       "free_child_FC": {
-        "score": 4,
+        "score": 5,
         "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
-        "presence": "Low",
-        "analysis": "The tone is largely serious and academic. While it mentions 'joy' and 'singing,' the delivery remains in the Adult/Parent sphere.",
+        "presence": "Medium",
+        "analysis": "The FC is present in the imaginative retelling of the storm and the use of the hymn, but it is largely subordinated to the Adult's teaching structure.",
         "quotes": [
-          "You’ll be able to look over the edge of the boat and you’ll be able to sing..."
+          "I’ve always thought Jesus would be slogging a little bit through the water...",
+          "I smile at the storm."
         ]
       }
     },
-    "dominant_ego_position": "Adult with strong Critical Parent (Theological) and Nurturing Parent (Pastoral) shifts."
+    "dominant_ego_position": "Adult (supported by Nurturing Parent and Critical Parent)"
   },
   "transaction_analysis": {
-    "primary_transaction_style": "Adult -> Adult (Social) / Parent -> Child (Psychological)",
-    "analysis": "Socially, the preacher treats the audience as students (A-A). Psychologically, he uses the 'I-Am' and 'Storm' concepts to place the listener in a position of helplessness (Child) needing a divine Parent.",
-    "ulterior_motives": "The 'Social' message is a Bible study; the 'Psychological' message is 'You are in danger and cannot save yourself.'",
+    "primary_transaction_style": "Adult -> Adult (Social) with Parent -> Child (Psychological)",
+    "analysis": "The preacher maintains an intellectual, teaching tone (Adult-Adult), but the underlying message is a call for the listener to stop 'controlling' (Parent) and become a dependent 'Child' of God.",
+    "ulterior_motives": "The social transaction is an explanation of a text; the psychological transaction is a demand for total surrender of the listener's autonomy to the 'Uncontrollable Force.'",
     "communicative_purity_score": 7,
     "purity_explanation": "10 = Completely transparent. 0 = Highly manipulative.",
-    "risk_explanation": "The risk lies in the 'deconstruction' phase where the preacher tells the listener what they are feeling (hostility to God), which may not be their conscious reality."
+    "risk_explanation": "The 'double bottom' lies in the deconstruction of 'good lives.' By labeling 'trying to be good' as 'hostility toward God,' the preacher creates a psychological trap where the listener's virtues are reframed as vices."
   },
   "games_analysis": {
     "detected_games": [
       {
-        "name": "ITHY (I'm Only Trying To Help You)",
+        "name": "Redemption / Bait & Switch",
         "probability": "Medium",
         "formula_g_analysis": {
-          "con": "The promise of understanding Jesus' power.",
-          "gimmick": "The listener's fear of life's 'storms' (bereavement, illness).",
-          "switch": "The preacher reveals that even your 'good life' is actually a 'fight against God.'",
-          "payoff": "The listener feels a sense of guilt/need, and the preacher provides the 'only' solution."
+          "con": "Promise of understanding a 'famous passage' about comfort in storms.",
+          "gimmick": "The listener's desire for safety and control in a chaotic world.",
+          "switch": "The shift from 'Jesus helps you' to 'You are actually hostile to God and must surrender all conditions.'",
+          "payoff": "The listener feels their previous 'goodness' was a sham, leading to a feeling of 'blessed' helplessness."
         },
         "evidence_quotes": [
-          "You’re all fighting God... and we hide how hostile we are toward God under all sorts of self-deception."
-        ]
-      },
-      {
-        "name": "Redemption / Bait & Switch",
-        "probability": "High",
-        "formula_g_analysis": {
-          "con": "A 'famous' and 'wonderful' story of walking on water.",
-          "gimmick": "The desire for a 'king' or 'prosperity' (simple solutions).",
-          "switch": "Jesus is an 'uncontrollable force' who won't be used; you are the 'Jonah' who caused the storm.",
-          "payoff": "Submission to the 'unconditioned cause' as the only way to 'smile at the storm.'"
-        },
-        "evidence_quotes": [
-          "Jesus says, 'You can't use me like that.'",
-          "The brokenness of creation is something we’ve brought about."
+          "You’re trying to control God, trying to be your own savior and lord. You’re fighting God.",
+          "You must drop your conditions when you come to Jesus Christ."
         ]
       }
     ],
-    "absence_of_games_analysis": "N/A"
+    "absence_of_games_analysis": "The sermon avoids 'NIGYSOB' by including the preacher in the diagnosis ('None of us knows it... I hardly know it'), which creates a shared Adult reality rather than a Persecutor/Victim dynamic."
   },
   "drama_triangle_analysis": {
     "preacher_roles": {
-      "rescuer": "High. The preacher presents the 'Costly Salvation' as the only rescue for the sinking listener.",
-      "persecutor": "Low-Medium. Manifests during the deconstruction of the listener's 'self-deception' and 'hostility.'",
-      "victim": "Low. Only present in the illustration of the missionary girl who was 'bitter and angry.'"
+      "rescuer": "High. The preacher offers the 'costly salvation' and 'wonderful counsel' as the only way out of the 'sea journey.'",
+      "persecutor": "Low. While he deconstructs the listener's motives, he does so with an 'Adult' analytical tone rather than 'Parental' wrath.",
+      "victim": "Low. The preacher does not position himself as misunderstood or suffering."
     },
-    "congregation_position": "Pushed into the Victim role (helpless in the sea journey) to facilitate the need for the Rescuer (Jesus).",
-    "escape_possibilities": "The sermon offers an escape through 'taking hands off one's life,' which moves the listener toward a new Adult-like autonomy within a religious framework."
+    "congregation_position": "Victim (of the 'storms of life' and their own 'sinful hostility').",
+    "escape_possibilities": "The sermon offers an escape through 'Autonomy-within-Dependency'—accepting the 'I Am' as the ultimate reality to find peace."
   },
   "conclusion_and_recommendation": {
-    "psychological_health_score": 6,
-    "summary": "The sermon is intellectually rigorous (Adult) but relies on a classic TA 'Game' structure. It first destabilizes the listener's sense of Adult competence by framing life as an uncontrollable sea and the listener as secretly hostile to God (Persecutor/Critical Parent move). Once the listener is in the 'Victim' position of the Drama Triangle, the preacher introduces the Rescuer. While theologically traditional, it risks creating a dependency on the 'Rescuer' by emphasizing human helplessness.",
+    "psychological_health_score": 7,
+    "summary": "The sermon is psychologically robust, primarily utilizing the Adult ego state to process theological data. It avoids crude manipulation by identifying the preacher's own struggle with the text. However, it employs a sophisticated 'con' by refitting the listener's sense of agency as 'hostility,' which can create a cycle of guilt for those who value self-reliance. The impact is a sense of 'secure dependency' rather than 'independent autonomy.'",
     "strengths": [
-      "High Adult engagement through historical and linguistic context.",
-      "Avoids the 'Smothering Parent' by emphasizing that God is uncontrollable."
+      "High Adult presence encourages critical thinking.",
+      "Avoids the 'ITHY' game by pointing to a transcendent solution rather than the preacher's own expertise.",
+      "Emotional honesty regarding the inevitability of suffering (bereavement, illness)."
     ],
     "areas_for_improvement": [
-      "Over-reliance on universalizing 'hostility' which can feel like a 'NIGYSOB' trap.",
-      "The 'sea journey' metaphor is used to induce anxiety (Child fear)."
+      "The 'Critical Parent' deconstruction of 'trying to live a good life' can be psychologically crushing to those with low self-esteem.",
+      "The 'Free Child' is somewhat stifled by the heavy analytical structure."
     ],
-    "advice_for_game_free_communication": "Try to invite the listener's Adult to observe their own life experiences rather than telling them they are 'self-deceived.' Use more 'Free Child' elements (authentic wonder) rather than just 'Critical Parent' deconstruction."
+    "advice_for_game_free_communication": "To increase transparency, explicitly acknowledge the tension between 'human agency' and 'divine control' as a paradox to be lived in, rather than labeling all human agency as 'hostility' toward the divine."
   }
 }

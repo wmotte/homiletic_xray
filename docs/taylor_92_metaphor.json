@@ -1,62 +1,62 @@
 {
   "metadata": {
     "titel_preek": "The Power Of Blackness",
-    "bijbeltekst": "Luke 9:1, Isaiah 40:29-31, Matthew 7:11",
+    "bijbeltekst": "Luke 9:1, Isaiah 40:29-31, Genesis 33:28",
     "analyse_datum": "2024-05-22",
     "geschat_aantal_woorden": "1850"
   },
   "primaire_analyse": {
     "dominante_domeinen": [
       {
-        "domein_type": "MILITARY",
-        "prominentie_score": "8",
+        "domein_type": "JOURNEY",
+        "prominentie_score": "9",
         "kernfrasen": [
+          "all roads lead to Rome",
+          "all roads seem to lead to Washington",
           "standard bearer",
-          "pass on the standard",
-          "host of the Lord",
-          "ranks among Progressive Baptists",
+          "where we are going and why",
           "march under the same banner"
         ],
-        "conceptuele_metafoor": "CHURCH ORGANIZATION IS AN ARMY"
+        "conceptuele_metafoor": "FAITH AND SOCIAL PROGRESS ARE A COLLECTIVE JOURNEY"
       },
       {
-        "domein_type": "JOURNEY",
+        "domein_type": "MEDICAL",
         "prominentie_score": "7",
         "kernfrasen": [
-          "where we are going",
-          "direction in which we are to move",
-          "roads lead to Rome",
-          "face forward"
+          "infected with the foibles",
+          "healing of the nation",
+          "ailing world",
+          "bitter midwifery of rejection"
         ],
-        "conceptuele_metafoor": "FAITH/PROGRESS IS A JOURNEY"
+        "conceptuele_metafoor": "SOCIAL INJUSTICE IS SICKNESS"
       },
       {
-        "domein_type": "RELATIONAL_FAMILIAL",
+        "domein_type": "MILITARY",
         "prominentie_score": "6",
         "kernfrasen": [
-          "house of his fathers",
-          "own children",
-          "with my own people",
-          "world Baptist family"
+          "standard bearer",
+          "gallant heart",
+          "pass on the standard",
+          "ranks among Progressive Baptists"
         ],
-        "conceptuele_metafoor": "RACE/DENOMINATION IS A FAMILY"
+        "conceptuele_metafoor": "ECCLESIAL LEADERSHIP IS MILITARY COMMAND"
       }
     ],
     "metafoor_inventaris": [
       {
         "metafoor_expressie": "The bitter midwifery of rejection and scorn.",
         "brondomein": {
-          "naam": "Childbirth",
+          "naam": "CHILDBIRTH",
           "concrete_elementen": [
             "midwife",
+            "labor",
             "birth",
-            "pain",
-            "labor"
+            "pain"
           ],
           "belichaamde_basis": "force/emergence"
         },
         "doeldomein": {
-          "theologisch_concept": "Apocalyptic Vision/Hope",
+          "theologisch_concept": "Apocalyptic Hope/New Creation",
           "doctrinale_traditie": "Black Liberation Theology"
         },
         "mapping_structuur": [
@@ -66,7 +66,7 @@
           },
           {
             "bron_element": "Birth",
-            "doel_element": "New societal aspirations"
+            "doel_element": "New Societal Structures"
           }
         ],
         "entailments": {
@@ -74,74 +74,76 @@
             "Suffering is not terminal but productive of something new."
           ],
           "theologische_implicaties": [
-            "God uses the 'limp' of history to bring forth revelation."
+            "God uses the 'negatives' of history to bring about the Kingdom."
           ],
           "ethische_implicaties": [
-            "Endurance in the face of oppression is a form of spiritual labor."
+            "Endurance in the face of scorn is necessary for social birth."
           ],
           "onbedoelde_consequenties": [
-            "Could romanticize suffering as a necessary precursor to progress."
+            "May inadvertently romanticize or validate the necessity of oppression."
           ]
         },
         "vitaliteit_status": "LIVING",
-        "vitaliteit_toelichting": "A highly creative and evocative image that re-activates the source domain of labor pains to describe systemic oppression."
+        "vitaliteit_toelichting": "Re-activates the visceral pain and necessity of assistance in a birth process to describe political struggle."
       }
     ]
   },
   "diagnostische_evaluatie": {
     "coherentie_analyse": {
       "overall_coherentie": "MOSTLY_COHERENT",
-      "coherentie_verklaring": "The preacher successfully weaves together the imagery of a military march (denominational progress) with the biological/familial reality of race. The tension between integration and separation is resolved through the metaphor of 'Retreat for Empowerment.'",
+      "coherentie_verklaring": "The preacher weaves together the 'Journey' of the Civil Rights movement with the 'Military' imagery of a Baptist convention. The coherence is maintained by the overarching theme of 'Movement' (both physical and social).",
       "incoherentie_punten": [
         {
-          "locatie": "Section on Vietnam vs. Church Leadership",
-          "metafoor_a": "WAR IS EVIL (Vietnam)",
-          "metafoor_b": "CHURCH IS AN ARMY (Standard bearer)",
-          "conflict_beschrijving": "The preacher condemns military carnage while using military rank and 'standards' to describe the church.",
-          "entailment_conflict": "If military structures are 'ugly tools of sin,' why is the church modeled as a 'host'?",
-          "ernst": "MODERATE"
+          "locatie": "Conclusion",
+          "metafoor_a": "Colony of death",
+          "metafoor_b": "Cup of cold water",
+          "conflict_beschrijving": "The scale shifts from a macro-political 'colony' to a micro-individual 'cup of water'.",
+          "entailment_conflict": "The urgency of fleeing/transforming a 'colony of death' conflicts with the quietist, maintenance-oriented 'cup of water'.",
+          "ernst": "LOW"
         }
       ],
       "succesvolle_blending": [
         {
-          "locatie": "Conclusion",
+          "locatie": "Discussion of Blackness",
           "gemengde_metaforen": [
-            "Medical (ailing world) and Military (standard of leadership)"
+            "Limping",
+            "Gifts",
+            "Power"
           ],
-          "blending_strategie": "The church is an army whose mission is healing rather than destruction."
+          "blending_strategie": "The 'Jacob' narrative (Genesis 33) is used to blend the physical 'limp' (historical trauma) with 'power' (divine blessing)."
         }
       ]
     },
     "sterktes": [
       {
         "sterkte_type": "REVITALIZATION",
-        "beschrijving": "Re-activates the 'Power' metaphor by grounding it in the physical 'limp' of history.",
+        "beschrijving": "Revitalizes the 'Power' metaphor by grounding it in the physical 'limp' of Jacob and the historical 'limp' of the Black experience.",
         "voorbeeld": "There are gifts and powers in the very limp which is our history here."
       }
     ],
     "risicos": [
       {
         "risico_type": "LITERALIZATION",
-        "beschrijving": "The 'Separation' metaphor (Jesus calling disciples apart) could be used to justify permanent segregation rather than temporary retreat.",
-        "voorbeeld": "Jesus must have seen that every group must at some time or the other get with itself.",
-        "potentiele_impact": "May inadvertently support isolationist tendencies.",
-        "ernst": "MODERATE"
+        "beschrijving": "The use of 'Military' language for church leadership can reinforce hierarchical and rigid structures.",
+        "voorbeeld": "standard of this host of the Lord... ranks among Progressive Baptists",
+        "potentiele_impact": "Congregation may view church work as a top-down command structure rather than a communal body.",
+        "ernst": "LOW"
       }
     ],
     "text_world_analyse": {
       "primaire_wereld": "Washington D.C. as the 'Nerve Center' of the world, a modern Rome.",
       "sub_worlds": [
-        "The 1963 March on Washington (Historical memory)",
-        "The 'Colony of Death' (The sin-sick world)",
-        "The 'Tent Door' of the Progressive Baptists"
+        "Resurrection City (The Shrine of Shame)",
+        "The 'Apartness' of the Disciples (Luke 9)",
+        "The 'Strange Land' of Black Amalgamation"
       ],
       "world_building_effectiviteit": "VIVID",
       "deictic_shifts": [
         {
-          "locatie": "Transition to Wordsworth quote",
+          "locatie": "Paragraph 4",
           "van_wereld": "1968 Washington",
-          "naar_wereld": "19th Century England/Milton's era",
-          "effectiviteit": "High; creates a sense of timeless national crisis."
+          "naar_wereld": "1963 March on Washington",
+          "effectiviteit": "Highly effective in creating a sense of historical continuity and 'unfulfilled' time."
         }
       ]
     },
@@ -149,79 +151,77 @@
       "versterkte_schemas": [
         {
           "schema_naam": "God as the God of History",
-          "hoe_versterkt": "By framing political events in Vietnam and D.C. as subjects of divine judgment."
+          "hoe_versterkt": "By linking the 'Pax Romana' to the 'Pax Americana' and placing God as the judge of both."
         }
       ],
       "verstoorde_schemas": [
         {
-          "schema_naam": "Blackness as Deficit",
-          "verstoring_strategie": "Re-mapping Blackness from a 'condition to be cured' to a 'gift to be offered.'",
-          "vervangend_schema": "Blackness as a Redemptive Power/Credential"
+          "schema_naam": "Integration as the only path",
+          "verstoring_strategie": "Using the 'Jesus called them apart' metaphor to validate temporary separatism.",
+          "vervangend_schema": "Separation as Redemptive Retreat"
         }
       ],
-      "liturgische_schema_aansluiting": "Fits the 'Convention Address' schema, balancing administrative reporting with prophetic oratory."
+      "liturgische_schema_aansluiting": "Fits the 'Convention' schema of passing leadership while maintaining mission."
     }
   },
   "aanbevelingen": {
-    "metafoor_audit_samenvatting": "The sermon is dominated by the 'POWER' and 'JOURNEY' domains. It effectively shifts the target of 'Power' from secular/political force to spiritual/experiential enablement. The military metaphors provide a sense of order and continuity during a time of leadership transition (post-MLK).",
+    "metafoor_audit_samenvatting": "The sermon is a masterclass in 'Spatial' and 'Journey' metaphors. It successfully maps the Black experience onto the biblical narrative of exile and empowerment. The dominant landscape is one of movement—roads, standards, and marching—which serves the purpose of a convention address perfectly.",
     "revitalisatie_suggesties": [
       {
-        "doel_metafoor": "The Church as a 'Host' (Army)",
-        "huidige_status": "Bordering on a dead metaphor in Baptist circles.",
-        "suggestie": "Deepen the source domain by describing the specific duties of a 'standard bearer' in the heat of battle to emphasize the risk MLK took.",
+        "doel_metafoor": "The 'Cup of cold water'",
+        "huidige_status": "Conventional/Dead",
+        "suggestie": "Link the 'water' to the specific 'thirst' of the 'disinherited' mentioned earlier.",
         "strategie": "DEEPEN_SOURCE",
-        "voorbeeld": "The standard bearer does not carry a sword, but the heavy weight of the identity of the whole people, making him the primary target."
+        "voorbeeld": "The cup of water for the parched throats of Resurrection City."
       }
     ],
     "coherentie_verbeteringen": [
       {
-        "incoherentie": "The clash between 'Military' church structure and 'Anti-war' politics.",
-        "resolutie_strategie": "Explicitly contrast the 'weapons of our warfare' (spiritual) with the 'carnage' of Vietnam to clarify the metaphor."
+        "incoherentie": "The shift from 'Military Host' to 'Family/Children'.",
+        "resolutie_strategie": "Use the 'Soldier returning home' motif to bridge the military and familial domains."
       }
     ],
     "entailment_checks": [
       {
-        "metafoor": "Blackness as a 'Limp'",
-        "problematisch_entailment": "Suggests that the history is inherently broken or 'less than' a straight walk.",
-        "aanbeveling": "Balance with the 'Mounting on wings' metaphor to show the limp is transformed into flight."
+        "metafoor": "AMERICA IS A BRASH YOUNG REPUBLIC",
+        "problematisch_entailment": "Implies that injustice is merely 'youthful folly' rather than systemic sin.",
+        "aanbeveling": "Balance with the 'Summary Judgment' metaphor to ensure moral weight."
       }
     ],
     "alternatieve_domeinen": [
       {
         "voorgesteld_domein": "ARCHITECTURAL",
-        "rationale": "To provide a more stable image for the 'unfulfilled dream' and 'broken promises' of the nation.",
-        "doel_concept": "Justice"
+        "rationale": "To provide a sense of 'building' the unfulfilled dream rather than just 'marching' toward it.",
+        "doel_concept": "The Beloved Community"
       }
     ],
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A masterclass in using CMT to reframe racial identity as a theological asset rather than a social liability."
+    "slotopmerking": "The sermon brilliantly uses CMT to transform the 'limp' of history into a 'power' of the spirit."
   },
   "comparatieve_analyse": {
-    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'rhythmic beat' of the prose, CMT reveals that this rhythm is mapped to the 'heartbeat' of a suffering people, creating a cognitive link between biology and theology.",
-    "verschil_met_kolb": "Unlike Kolb's focus on the 'experience' of the hearer, CMT shows how the preacher's metaphors actually provide the mental scaffolding for that experience to occur.",
-    "unieke_inzichten_CMT": "CMT identifies the 'Midwifery' metaphor as the cognitive pivot of the sermon, transforming the 'Source' of pain into the 'Target' of hope."
+    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'rhythmic beat' of the prose; CMT reveals that this rhythm is a mapping of 'trouble and hope' onto the domain of music.",
+    "verschil_met_kolb": "Kolb would focus on the 'experience' of the listener; CMT focuses on the 'cognitive structures' (like the Path schema) that allow that experience to happen.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher's defense of 'Black Power' is not a political shift but a cognitive re-mapping of the 'Apartness' source domain from 'Exclusion' to 'Empowerment'."
   },
   "appendices": {
     "volledige_metafoor_lijst": [
-      "Nerve center of political arrangements",
-      "Roads lead to Rome",
-      "Infected with foibles",
-      "Standard bearer",
-      "House of his fathers",
-      "Tent door",
-      "Shrine of the nation's shame",
-      "Winds of change",
-      "Colony of death",
-      "Crown seal of Jesus Christ",
-      "Midwifery of rejection"
+      "nerve center",
+      "all roads lead to Rome",
+      "infected with foibles",
+      "standard bearer",
+      "shrine of the nation's shame",
+      "amalgam of destructive results",
+      "winds of change",
+      "colony of death",
+      "crown seal of Jesus"
     ],
     "woord_frequentie_analyse": {
       "power": "12",
-      "black": "15",
       "nation": "10",
-      "king": "8",
+      "black": "9",
+      "king": "6",
       "baptists": "14"
     },
-    "notities": "The sermon was delivered in the wake of MLK's assassination, explaining the heavy reliance on 'Standard bearer' and 'Leadership' metaphors."
+    "notities": "The sermon was delivered at a pivotal moment (1968) where the 'Integration' schema was being disrupted by 'Black Power' movements."
   }
 }

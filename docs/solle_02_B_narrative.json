@@ -1,193 +1,190 @@
 {
   "metadata": {
     "titel_preek": "Wem gehört eigentlich Weihnachten?",
-    "bijbeltekst": "Lukas 2 (impliciet: Herodes, herders, kribbe)",
+    "bijbeltekst": "Lukas 2 (impliciet)",
     "analyse_datum": "2024-05-22",
     "geschat_aantal_woorden": "1100"
   },
   "actantiele_analyse": {
     "primair_narratief_programma": {
-      "beschrijving": "De bevrijding van de onderdrukten door de komst van de Bevrijder (Christus), die zich identificeert met de lijdenden in Vietnam en de gemarginaliseerden in de samenleving.",
+      "beschrijving": "De transformatie van een valse, esthetische of burgerlijke kerstvreugde naar een actieve solidariteit met de onderdrukten (bevrijding).",
       "subject": {
-        "identificatie": "God / De Bevrijder (geïncarneerd in de lijdende mens)",
+        "identificatie": "De hoorder / 'Wij' (de geprivilegieerde westerse mens)",
         "tekstueel_bewijs": [
-          "Gott Mensch wurde, um uns zu befreien",
-          "Für wen ist der Befreier geboren?",
-          "Gott der Bibel ist der Gott der Armen"
+          "Wie sollen wir da Weihnachten feiern?",
+          "Lasst uns von diesem tapferen asiatischen Volk... lernen",
+          "Dann werden wir mit den Engeln singen lernen."
         ],
-        "frequentie_score": 4
+        "frequentie_score": 8
       },
       "object": {
-        "identificatie": "Bevrijding (politiek, sociaal en existentieel)",
+        "identificatie": "De 'echte' Kerstvreugde / Bevrijding",
         "tekstueel_bewijs": [
-          "Das Fest der Befreiung",
-          "einen besseren Grund der Freude",
-          "die Würde der Menschheit"
+          "einen besseren Grund der Freude benennen",
+          "das Fest der Befreiung"
         ],
-        "aard_van_object": "SOTERIOLOGICAL"
+        "aard_van_object": "ETHICAL"
       },
       "zender": {
-        "identificatie": "De Bijbel / Het Evangelie",
+        "identificatie": "De lijdende ander (Vietnam) / De Bijbelse traditie van bevrijding",
         "tekstueel_bewijs": [
-          "zu der uns doch die Bibel ermutigt",
-          "Ihnen... wird das Evangelium gesagt"
+          "Der Gott der Bibel ist der Gott der Armen",
+          "Ho Chi Minh sagt..."
         ],
         "rol_interpretatie": "LAWGIVER"
       },
       "ontvanger": {
-        "identificatie": "De armen, herders, Vietnamese rijstboeren, machtelozen",
+        "identificatie": "De onderdrukten (primair), de hoorder (secundair, mits solidair)",
         "tekstueel_bewijs": [
-          "Ihnen, die stumm gemacht worden sind",
-          "denen Weihnachten versprochen ist"
+          "Ihnen... wird das Evangelium gesagt",
+          "Wem gehört Weihnachten? ... Es waren die deklassierten Fürsten"
         ],
-        "positie_hoorder": "De hoorder wordt gedwongen te kiezen tussen Opponent (profiteur) of mede-ontvanger (door solidariteit)."
+        "positie_hoorder": "Does hearer identify with Subject or Receiver?"
       },
       "helper": {
-        "identificatie": "Solidariteit / Bachs muziek (mits 'productief' gehoord) / Liederen als medicijn",
+        "identificatie": "Bach (indien productief gehoord), de liederen van de Vietcong, de Bijbelse tekst",
         "tekstueel_bewijs": [
           "Die Lieder sind Medikamente",
           "Bach produktiv hören"
         ],
-        "rol_van_god": "God is het Subject dat bevrijdt, maar wordt in de preek vooral zichtbaar in de gedaante van de Helper (het lijdende kind).",
-        "rol_van_geest": "De 'Geist der Befreiung' die aanzet tot actie."
+        "rol_van_god": "God is the source of the mandate (Sender), but the human must execute the solidarity.",
+        "rol_van_geest": "External help or indwelling power?"
       },
       "tegenstander": {
-        "identificatie": "Het militair-industrieel complex / Kapitalisme / Onverschilligheid",
+        "identificatie": "Het militair-industrieel complex / De burgerlijke onverschilligheid",
         "tekstueel_bewijs": [
-          "König Herodes, der Vertreter der Staatsmacht",
-          "Profite der Chemical Dow",
+          "Chemical Dow, die Napalm herstellt",
+          "unsere Rasse hat es vorgezogen, die Profite... zu erhöhen",
           "verlogenen Herrschaftskultur"
         ],
-        "ernst_tegenstander": "COSMIC",
-        "toelichting_ernst": "De tegenstander is een systemische macht (Herodes/Napalm) die de schepping ('mondlandschap') vernietigt."
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "De tegenstander is structureel onrecht en politieke apathie, niet een metafysische macht."
       }
     },
     "secundair_narratief_programma": {
       "aanwezig": true,
-      "beschrijving": "De hoorder moet leren de eigen cultuur en religie te de-privatiseren en solidair te worden met de onderdrukten.",
-      "subject": "De hoorder ('Wir')",
-      "object": "Solidariteit / 'Bach en Vietnam samendenken'",
-      "verhouding_tot_primair": "SEQUENTIAL",
-      "toelichting_verhouding": "De bevrijding door God (Programma 1) stelt de hoorder voor de eis van solidariteit (Programma 2). Zonder Programma 2 verliest de hoorder zijn deel aan Programma 1."
+      "beschrijving": "God die mens wordt om te bevrijden.",
+      "subject": "Gott",
+      "object": "De mensheid / De armen",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "Het goddelijke handelen wordt gepresenteerd als een historisch precedent dat nu door de mens moet worden geactualiseerd via politieke stellingname."
     },
     "actantieel_schema_visualisatie": {
-      "zender_naar_ontvanger": "Evangelie → Bevrijding → De Armen",
-      "helper_subject_tegenstander": "Solidariteit → De Bevrijder ← Herodes/Kapitaal",
-      "subject_naar_object": "God → Bevrijding van de mensheid"
+      "zender_naar_ontvanger": "Lijdende Vietnamezen → Bevrijding → De Armen/Hoorder",
+      "helper_subject_tegenstander": "Bach/Liederen → Wij (Hoorders) ← Kapitalisme/Oorlog",
+      "subject_naar_object": "Wij → Solidariteit/Echte Vreugde"
     }
   },
   "grammaticale_analyse": {
     "subject_check": {
-      "god_als_subject_count": 8,
-      "mens_als_subject_count": 25,
-      "ratio": "0.32",
+      "god_als_subject_count": 4,
+      "mens_als_subject_count": 28,
+      "ratio": "0.14",
       "voorbeelden_god_subject": [
-        "Gott Mensch wurde",
-        "Gott der Bibel ist der Gott der Armen",
-        "die Engel machen sich auf den Weg"
+        "Gott wurde Mensch",
+        "der Gott der Bibel ist der Gott der Armen"
       ],
       "voorbeelden_mens_subject": [
-        "Wir können Weihnachten nicht mehr feiern",
-        "Unsere Rasse hat es vorgezogen",
-        "Wir müssen auf Bach verzichten"
+        "Wir können Weihnachten nicht mehr... feiern",
+        "Wir finanzieren das Leid mit",
+        "Lasst uns lernen"
       ],
-      "rutledge_score": 4
+      "rutledge_score": 2
     },
     "modale_analyse": {
       "devoir_faire": {
         "prominentie": 9,
         "voorbeelden": [
-          "Wir müssen auf Bach verzichten",
-          "müsste auch inhaltlich anders akzentuieren"
+          "Wie sollen wir da Weihnachten feiern?",
+          "Wir müssen auf Bach verzichten"
         ]
       },
       "vouloir_faire": {
-        "prominentie": 5,
+        "prominentie": 4,
         "voorbeelden": [
-          "Wir wollen mit unsern Liedern die Detonationen... übertönen"
+          "Vielleicht können wir heute Abend drei Modelle... unterscheiden"
         ]
       },
       "savoir_faire": {
         "prominentie": 7,
         "voorbeelden": [
-          "Vielleicht können wir heute Abend drei Modelle... unterscheiden",
+          "Wer nicht sehen kann... dem ist nicht zu helfen",
           "Wir wissen die Antwort"
         ]
       },
       "pouvoir_faire": {
         "prominentie": 3,
         "voorbeelden": [
-          "Wie sollen wir da Weihnachten feiern?",
           "Können wir denn jauchzen?"
         ]
       },
       "dominante_modaliteit": "DEVOIR",
-      "modale_interpretatie": "De preek legt een zware morele verplichting (Devoir) op aan de hoorder om de 'valse' vreugde in te ruilen voor politieke solidariteit."
+      "modale_interpretatie": "De preek rust zwaar op de morele verplichting (moeten) en de cognitieve erkenning (weten) van politiek onrecht."
     }
   },
   "semiotisch_vierkant_analyse": {
     "primaire_tegenstelling": {
-      "s1": "Bevrijding (Solidariteit)",
-      "s2": "Onderdrukking (Napalm/Herodes)",
-      "niet_s1": "Valse Vreugde (Bürgerliche Weihnachten)",
-      "niet_s2": "Privé-vroomheid (Bach zonder Vietnam)"
+      "s1": "Bevrijding/Solidariteit",
+      "s2": "Onderdrukking/Oorlog",
+      "niet_s1": "Burgerlijke Kerst (Kitsch)",
+      "niet_s2": "Esthetisch genot (Bach zonder Vietnam)"
     },
-    "beweging_in_preek": "Van niet-s1 (valse vreugde) via s2 (confrontatie met lijden) naar s1 (ware bevrijding).",
-    "theologische_resolutie": "De spanning wordt opgelost door de identificatie van Christus met de Vietnamese familie.",
-    "ernst_van_s2": "Zeer hoog; S2 wordt getoond in rauwe, fysieke details."
+    "beweging_in_preek": "Van niet-s2 (Bach) via niet-s1 (Burgerlijkheid) naar een confrontatie met s2 (Vietnam) om s1 (Bevrijding) te eisen.",
+    "theologische_resolutie": "De spanning wordt opgelost door de hoorder voor de keuze te stellen: solidariteit of uitsluiting.",
+    "ernst_van_s2": "Zeer hoog; s2 is de brute realiteit van napalm en dode kinderen."
   },
   "diagnostische_evaluatie": {
-    "primaire_classificatie": "MIXED",
-    "classificatie_toelichting": "Hoewel de preek theocentrisch begint (God die bevrijdt), verschuift de focus snel naar de menselijke verantwoordelijkheid en de morele voorwaarde van solidariteit.",
+    "primaire_classificatie": "MORALISM",
+    "classificatie_toelichting": "Hoewel de preek spreekt over 'bevrijding', is de mens het actieve subject dat de kerstvreugde moet 'verdienen' of 'realiseren' door de juiste politieke keuze. God is de legitimatie van het ethische programma, niet de handelende persoon in het heden.",
     "indicatoren_moralisme": [
       {
         "indicator": "Conditionele genade",
-        "tekstueel_bewijs": "Haben wir keinen Teil an Weihnachten? Nein, wenn wir gegen sie arbeiten.",
-        "ernst": "SEVERE"
+        "tekstueel_bewijs": "Haben wir keinen Teil an Weihnachten? Nein, wenn wir gegen sie arbeiten... Ja, wenn wir mit ihnen sind.",
+        "ernst": "CRITICAL"
       }
     ],
     "indicatoren_genade": [
       {
-        "indicator": "God kiest de zijde van de zwakken",
-        "tekstueel_bewijs": "Gott der Bibel ist der Gott der Armen",
-        "sterkte": "STRONG"
+        "indicator": "Soteriologische basis",
+        "tekstueel_bewijs": "Gott wurde Mensch, um uns zu befreien",
+        "sterkte": "WEAK"
       }
     ],
     "exemplarisme_check": {
       "aanwezig": true,
-      "beschrijving": "Het Vietnamese volk en Ho Chi Minh worden gepresenteerd als morele en spirituele voorbeelden van waardigheid en hoop.",
+      "beschrijving": "De lijdende Vietnamezen en Ho Chi Minh worden de typologische invulling van de Heilige Familie.",
       "bijbelse_figuren_als_model": [
-        "Maria en Jozef (als Vietnamese vluchtelingen)",
-        "Herders (als proletariërs)"
+        "Maria en Jozef (als Vietnamezen)",
+        "Herodes (als staatsmacht)"
       ],
-      "alternatieve_lezing": "Christus als de enige die de macht van Herodes en de dood werkelijk breekt, ongeacht onze morele prestatie."
+      "alternatieve_lezing": "God die in Christus de schuld van zowel de onderdrukker als de onderdrukte draagt."
     },
     "identificatie_patroon": {
-      "hoorder_identificeert_met": "OPPONENT",
-      "effect_op_hoorder": "Schuldgevoel en morele crisis.",
-      "theologische_implicatie": "De hoorder staat buiten de heilsorde tenzij hij politiek tot inkeer komt."
+      "hoorder_identificeert_met": "SUBJECT_HERO",
+      "effect_op_hoorder": "Schuldgevoel en morele mobilisatie.",
+      "theologische_implicatie": "De hoorder is verantwoordelijk voor het 'slagen' van Kerstmis."
     },
     "narratieve_coherentie": {
       "coherentie_score": 7,
-      "coherentie_beschrijving": "Sterke integratie van politiek en theologie, maar de soteriologie wordt bijna volledig opgeslokt door de ethiek.",
+      "coherentie_beschrijving": "Sterke politieke coherentie, maar de theologische integratie van Bach's esthetiek en de politieke strijd blijft een ultimatum.",
       "spanning_punten": [
-        "De spanning tussen Bachs esthetiek en de rauwe politiek van Vietnam."
+        "De breuk tussen 'Bach genieten' en 'Vietnam financieren'."
       ]
     }
   },
   "theologische_diepte_analyse": {
     "soteriologie": {
-      "primaire_model": "CHRISTUS_VICTOR",
-      "tekstueel_bewijs": "Bevrijding van onderdrukte volkeren en machtelozen.",
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "Lernen von diesem tapferen asiatischen Volk",
       "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
     },
     "pneumatologie": {
       "rol_heilige_geest": "EXTERNAL_HELPER",
-      "competentie_schenking": "De Geest wordt gezien als een 'gezindheid' (Geist der Befreiung) die aanzet tot actie."
+      "competentie_schenking": "De 'Geest van bevrijding' fungeert als een ideologische motivatie."
     },
     "hamartologie": {
-      "aard_van_zonde": "COSMIC_POWER",
-      "ernst_diagnose": "Zonde is structureel onrecht en medeplichtigheid aan moord."
+      "aard_van_zonde": "SOCIAL",
+      "ernst_diagnose": "Zonde is medeplichtigheid aan structureel onrecht en kapitalistische exploitatie."
     },
     "eschatologie": {
       "hoop_structuur": "NOT_YET",
@@ -195,55 +192,57 @@
     }
   },
   "aanbevelingen": {
-    "actantiele_audit_samenvatting": "De preek is een krachtig politiek manifest waarbij God de legitimatie is voor sociale bevrijding. De hoorder is echter primair een moreel subject dat moet handelen.",
+    "actantiele_audit_samenvatting": "De preek is een krachtig politiek manifest waarbij de hoorder het subject is van de actie (bevrijden/solidair zijn) en God de afzender van de morele wet.",
     "subject_herpositionering": {
       "nodig": true,
-      "huidige_probleem": "De hoorder is het subject van 'vieren' en 'solidair zijn', waardoor Kerst een menselijke prestatie wordt.",
-      "voorgestelde_herpositionering": "Maak God het subject dat de hoorder bevrijdt van zijn medeplichtigheid.",
-      "voorbeeld_revisie": "Niet: 'Wij moeten Bach en Vietnam samendenken', maar: 'Gods komst in Vietnam bevrijdt ons van onze blinde cultuurgenot'."
+      "huidige_probleem": "De hoorder moet zichzelf redden door solidariteit.",
+      "voorgestelde_herpositionering": "God als subject van de bevrijding, ook voor de falende hoorder.",
+      "voorbeeld_revisie": "Niet: 'Wij moeten bevrijden', maar: 'Christus bevrijdt ons van onze blindheid en medeplichtigheid'."
     },
     "identificatie_herstel": {
       "nodig": true,
-      "problematische_identificatie": "De hoorder als de 'rijke onderdrukker'.",
-      "voorgestelde_identificatie": "De hoorder als de 'verlorene' die ook bevrijding nodig heeft van zijn eigen hardheid.",
-      "strategie": "Benadruk dat de Bevrijder ook voor de 'profiteur' komt om hem te veranderen."
+      "problematische_identificatie": "Hoorder als morele rechter of schuldig subject.",
+      "voorgestelde_identificatie": "RECEIVER_SAVED",
+      "strategie": "De hoorder positioneren als iemand die zelf bevrijding nodig heeft van de 'verlogenen Herrschaftskultur'."
     },
     "modale_balans": {
-      "huidige_onbalans": "Te veel Devoir (moeten).",
-      "voorgestelde_balans": "Meer Pouvoir (door de Geest geschonken kracht).",
-      "concrete_suggestie": "Spreek over hoe de komst van het Kind ons de *kracht* geeft om de ogen te openen."
+      "huidige_onbalans": "DEVOIR (Moeten)",
+      "voorgestelde_balans": "POUVOIR (Kunnen door genade)",
+      "concrete_suggestie": "Focus op hoe de mens *in staat wordt gesteld* tot liefde, in plaats van de eis tot liefde."
     },
     "tegenstander_intensivering": {
       "nodig": false,
-      "huidige_status": "De tegenstander is zeer krachtig en concreet aanwezig.",
-      "voorgestelde_intensivering": "N.v.t.",
-      "theologische_rationale": "De preek blinkt uit in het serieus nemen van het kwaad."
+      "huidige_status": "De tegenstander (oorlog/kapitalisme) is reeds zeer krachtig neergezet.",
+      "voorgestelde_intensivering": "N/A",
+      "theologische_rationale": "De preek blinkt uit in de ernst van het kwaad."
     },
     "narratieve_hierarchie_herstel": {
       "nodig": true,
-      "probleem": "De ethiek (Programma 2) overschaduwt de soteriologie (Programma 1).",
-      "voorgestelde_structuur": "Eerst de onvoorwaardelijke bevrijding door God, dan de daaruit voortvloeiende solidariteit."
+      "probleem": "Ethiek (Programma 2) vervangt de Soteriologie (Programma 1).",
+      "voorgestelde_structuur": "God bevrijdt ons (1), daarom kunnen wij de naaste zien (2)."
     },
-    "overall_beoordeling": "ADEQUATE",
-    "slotopmerking": "Een profetische preek die de actantiele rol van de 'Opponent' scherp neerzet, maar de hoorder dreigt te verpletteren onder de wet van solidariteit."
+    "overall_beoordeling": "NEEDS_IMPROVEMENT",
+    "slotopmerking": "Retorisch briljant en profetisch urgent, maar theologisch glijdt het af naar een 'wet van solidariteit' waarbij de hoorder zijn eigen kerst moet verdienen."
   },
   "comparatieve_analyse": {
-    "verschil_met_retorische_analyse": "Retorisch is dit briljant door de contrasten; actantieel is het riskant omdat de hoorder buiten de genade wordt geplaatst bij moreel falen.",
-    "verschil_met_exegese": "De exegese is contextueel-politiek (Lukas 2 gelezen door de lens van Vietnam).",
-    "unieke_inzichten_greimas": "Greimas legt bloot dat 'vreugde' hier een object is dat verdiend moet worden door solidariteit, in plaats van een geschenk."
+    "verschil_met_retorische_analyse": "Retorisch is dit een meesterwerk van pathos; actantieel is het een verschuiving van God naar menselijke actie.",
+    "verschil_met_exegese": "De exegese is typologisch (Vietnam = Bethlehem) in plaats van tekst-immanent.",
+    "unieke_inzichten_greimas": "Greimas legt bloot dat 'Bevrijding' hier een menselijk Object is dat door menselijke Subjecten veroverd moet worden, ondanks de religieuze terminologie."
   },
   "appendices": {
     "volledige_subject_lijst": [
-      "Wir (vieren, horen, financieren, werken tegen)",
-      "Gott (werd mens, befreit)",
-      "Herodes (beseitigt)",
-      "Bach (spreekt uit)"
+      "Wir (feiern)",
+      "Unsere Rasse (vorgezogen)",
+      "Gott (wurde Mensch)",
+      "Ich (glaube)",
+      "Die Hirten (sind)"
     ],
     "volledige_object_lijst": [
-      "Bevrijding",
-      "Kerstmis",
-      "Profijt",
-      "Solidariteit"
+      "Frieden",
+      "Profite",
+      "Befreiung",
+      "Bach",
+      "Weihnachten"
     ],
     "werkwoord_frequentie": {
       "feiern": {
@@ -252,9 +251,9 @@
       },
       "befreien": {
         "count": 5,
-        "primair_subject": "God/Man"
+        "primair_subject": "Man/God"
       }
     },
-    "notities": "Preek van Dorothee Sölle (1972). Typisch voorbeeld van politieke theologie waar de actantiële rol van God en mens vervloeien."
+    "notities": "Preek van Dorothee Sölle (1972). Klassiek voorbeeld van politieke theologie waar de actant 'God' functioneert als 'Spreker' of 'Waarde-gever' maar zelden als 'Handelend Subject' in de actuele tijd."
   }
 }

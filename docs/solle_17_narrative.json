@@ -1,24 +1,24 @@
 {
   "metadata": {
     "titel_preek": "Der Glaube arbeitet an der Angst",
-    "bijbeltekst": "Markus 4,35-41 (Stilling of the Storm)",
+    "bijbeltekst": "Markus 4:35-41 (Stillegging van de storm)",
     "analyse_datum": "2024-05-22",
-    "geschat_aantal_woorden": "1150"
+    "geschat_aantal_woorden": "1250"
   },
   "actantiele_analyse": {
     "primair_narratief_programma": {
-      "beschrijving": "The transformation of human fear into productive energy (faith) through psychological processing and social engagement.",
+      "beschrijving": "De mens bevindt zich in een 'kenterend schip' van maatschappelijke en psychologische angst en moet deze angst 'bewerken' of 'omvormen' tot een instrument voor vrede en gerechtigheid door middel van geloof.",
       "subject": {
-        "identificatie": "The Human Being / The Hearer ('Wir')",
+        "identificatie": "De Mens / De Hoorder ('Wir')",
         "tekstueel_bewijs": [
           "Wir können unsere Angst umgestalten",
-          "Wir können die Energie unserer Ängste... gebrauchen zu andern Dingen",
-          "Glaube... bearbeitet sie [die Angst]"
+          "Wir können die Energie unserer Ängste... verändern und gebrauchen",
+          "Glauben lernen, heißt heute... frömmer werden... kritischer werden"
         ],
-        "frequentie_score": 9
+        "frequentie_score": "9"
       },
       "object": {
-        "identificatie": "Transformation of Fear into Peace/Justice (The 'Plowshare')",
+        "identificatie": "Angstbewältiging / Transformatie van angst naar actie",
         "tekstueel_bewijs": [
           "aus dem Gefängnis einen Versammlungsraum machen",
           "ein produktives Instrument, ein Instrument des Friedens und der Gerechtigkeit machen"
@@ -26,153 +26,157 @@
         "aard_van_object": "THERAPEUTIC/ETHICAL"
       },
       "zender": {
-        "identificatie": "Jesus as Brother/Friend (Source of the 'Vision')",
+        "identificatie": "De Maatschappelijke Noodzaak / Jezus als Voorbeeld",
         "tekstueel_bewijs": [
-          "Jesus ist nicht unser Herr, sondern unser Bruder und unser Freund"
+          "Das Einfache ist, was schwer zu machen ist",
+          "Jesus ist... unser Bruder und unser Freund"
         ],
         "rol_interpretatie": "THERAPIST/COACH"
       },
       "ontvanger": {
-        "identificatie": "The Oppressed / The World / The Hearer",
+        "identificatie": "De Wereld / De Mensheid",
         "tekstueel_bewijs": [
-          "sich gründlicher auf die Unterdrückten und die Ausgebeuteten in der ganzen Welt einzulassen"
+          "den Frieden bauen",
+          "sich gründlicher auf die Unterdrückten... einzulassen"
         ],
-        "positie_hoorder": "Subject (The one who must work on fear)"
+        "positie_hoorder": "SUBJECT_HERO"
       },
       "helper": {
-        "identificatie": "Groups / Psychoanalytic Theory / The 'Stream of Love'",
+        "identificatie": "Geloof (als techniek), Psychotherapie, Groepsdynamiek",
         "tekstueel_bewijs": [
-          "Die wirkliche Verwandlung der Ängste... geschieht in Gruppen",
-          "mit Hilfe der psychoanalytischen Theorie eine Erklärung für Angst bekommen"
+          "Die wirkliche Verwandlung... geschieht in Gruppen",
+          "Technik der Gruppendynamik... ist eine Schmiedetechnik"
         ],
-        "rol_van_god": "God is an 'Environment' (Stream of Love) rather than an active Subject.",
-        "rol_van_geest": "Absent; replaced by 'Group Dynamics'."
+        "rol_van_god": "God is een passieve bron van nabijheid ('Gott sagt uns, du bist nicht allein'), maar geen handelend subject.",
+        "rol_van_geest": "Afwezig; vervangen door menselijke 'energie' en 'techniek'."
       },
       "tegenstander": {
-        "identificatie": "Repression / Capitalism / Social Isolation",
+        "identificatie": "Maatschappelijke structuren (Fascisme, Kapitalisme) en psychologische mechanismen (Verdrongen angst)",
         "tekstueel_bewijs": [
+          "Profitinteresse und Aggression",
           "Vermeidungsstrategie",
-          "Welt, die aus Profitinteresse und Aggression aufgebaut ist"
+          "unterdrückte Angst"
         ],
         "ernst_tegenstander": "SOCIAL/PSYCHOLOGICAL",
-        "toelichting_ernst": "Sin is defined as social separation and psychological repression, not as a cosmic power or enmity with God."
+        "toelichting_ernst": "De tegenstander is geen metafysische macht (zonde/dood), maar een verkeerde psychologische houding of een onrechtvaardig sociaal systeem dat door menselijke inspanning moet worden omgebouwd."
       }
     },
     "secundair_narratief_programma": {
-      "aanwezig": true,
-      "beschrijving": "The 'Soteriological' background: God assuring the human that they are not alone.",
-      "subject": "God",
-      "object": "Assurance/Connection",
+      "aanwezig": "true",
+      "beschrijving": "Het leven van Jezus als model voor het omgaan met angst.",
+      "subject": "Jezus",
+      "object": "Het niet-vermijden van angst (huilen, zweten)",
       "verhouding_tot_primair": "CONFUSED",
-      "toelichting_verhouding": "The primary program (human processing) consumes the secondary program. God's action is reduced to a psychological 'state' that enables the human subject to work."
+      "toelichting_verhouding": "Jezus wordt gepresenteerd als de 'eerste' die het programma succesvol doorliep, waardoor hij een voorbeeld (exemplarisme) wordt voor het primaire programma van de hoorder."
     },
     "actantieel_schema_visualisatie": {
-      "zender_naar_ontvanger": "Jesus (Vision) → Transformation → The Oppressed",
-      "helper_subject_tegenstander": "Group Dynamics → The Hearer ← Repression/Capitalism",
-      "subject_naar_object": "The Hearer → Working on Fear"
+      "zender_naar_ontvanger": "Sociale Noodzaak → Vrede/Gerechtigheid → De Wereld",
+      "helper_subject_tegenstander": "Geloofstechniek/Groepen → De Hoorder ← Kapitalisme/Verdringing",
+      "subject_naar_object": "De Hoorder → Angst-transformatie"
     }
   },
   "grammaticale_analyse": {
     "subject_check": {
-      "god_als_subject_count": 8,
-      "mens_als_subject_count": 42,
-      "ratio": "0.19",
+      "god_als_subject_count": "4",
+      "mens_als_subject_count": "42",
+      "ratio": "0.09",
       "voorbeelden_god_subject": [
         "Gott sagt uns, du bist nicht allein",
-        "Gott... will uns an diesen Stromkreis der Liebe anschließen"
+        "Gott ist bei uns",
+        "er will uns an diesen Stromkreis der Liebe anschließen"
       ],
       "voorbeelden_mens_subject": [
         "Wir können unsere Angst umgestalten",
         "Wir können frei werden",
-        "Wir können sie [die Angst] bearbeiten",
-        "Wir müssen natürlich wissen, wozu man den Pflug... braucht"
+        "Wir müssen wissen, wozu man den Pflug braucht",
+        "Wir bearbeiten de Angst"
       ],
-      "rutledge_score": 2
+      "rutledge_score": "2"
     },
     "modale_analyse": {
       "devoir_faire": {
-        "prominentie": 7,
+        "prominentie": "7",
         "voorbeelden": [
-          "wir sollten uns abgewöhnen",
-          "man muss natürlich wissen"
+          "man muss natürlich wissen",
+          "wir sollten uns abgewöhnen"
         ]
       },
       "vouloir_faire": {
-        "prominentie": 5,
+        "prominentie": "5",
         "voorbeelden": [
-          "wir wollen nicht getrennt... werden"
+          "sie wirbt darum zu glauben"
         ]
       },
       "savoir_faire": {
-        "prominentie": 9,
+        "prominentie": "8",
         "voorbeelden": [
-          "mit Hilfe der psychoanalytischen Theorie eine Erklärung bekommen",
           "Technik der Gruppendynamik",
-          "Schmiedetechnik"
+          "Schmiedetechnik",
+          "Angst umbauen lernen"
         ]
       },
       "pouvoir_faire": {
-        "prominentie": 8,
+        "prominentie": "9",
         "voorbeelden": [
-          "Wir können unsere Angst umgestalten",
-          "Wir können frei werden"
+          "Wir können frei werden",
+          "Wir können sie bearbeiten"
         ]
       },
-      "dominante_modaliteit": "SAVOIR/POUVOIR",
-      "modale_interpretatie": "The sermon is a 'manual' for psychological transformation. It assumes that if the hearer understands the mechanics of fear (Savoir), they have the inherent power (Pouvoir) to retool it."
+      "dominante_modaliteit": "POUVOIR",
+      "modale_interpretatie": "De nadruk ligt op de menselijke potentie (Pouvoir) ondersteund door kennis (Savoir). Het geloof wordt gefunctionaliseerd als een vermogen van de mens om zijn eigen psychische toestand te managen."
     }
   },
   "semiotisch_vierkant_analyse": {
     "primaire_tegenstelling": {
-      "s1": "Faith (Productive Work on Fear)",
-      "s2": "Fear (Destructive Weapon)",
-      "niet_s1": "Repression (Avoiding the work)",
-      "niet_s2": "Naivety (Ignoring the danger)"
+      "s1": "Geloof (Productieve Angstbewerking)",
+      "s2": "Angst (Verlamming/Destructie)",
+      "niet_s1": "Vermeiding/Verdringing (Schijngeloof)",
+      "niet_s2": "Naiviteit/Gevoelloosheid"
     },
-    "beweging_in_preek": "From S2 (Fear) to ~S1 (Repression) to S1 (Faith as 'Work').",
-    "theologische_resolutie": "Faith is redefined as the 'processing' (Bearbeitung) of fear into social action.",
-    "ernst_van_s2": "Moderate; fear is seen as energy to be redirected rather than a symptom of death."
+    "beweging_in_preek": "Van S2 (Angst) via niet-S1 (Verdringing) naar S1 (Bewerking van angst).",
+    "theologische_resolutie": "De spanning wordt opgelost door 'werk': geloof is arbeid ('Glaube arbeitet'). Er is geen externe verlossing, maar een interne alchemie.",
+    "ernst_van_s2": "S2 wordt psychologisch serieus genomen, maar de eschatologische ernst (oordeel) ontbreekt."
   },
   "diagnostische_evaluatie": {
     "primaire_classificatie": "MORALISM",
-    "classificatie_toelichting": "While using the term 'faith', the sermon describes a human psychological process. God is the 'stream' (infrastructure), but the Human is the 'worker' (Subject).",
+    "classificatie_toelichting": "Hoewel de taal 'vroom' lijkt, is de structuur puur antropocentrisch. De mens is het subject dat de angst bewerkt; God is slechts een statische achtergrond of een 'stroomcircuit' waar de mens zich op moet aansluiten.",
     "indicatoren_moralisme": [
       {
-        "indicator": "Faith as Human Performance",
-        "tekstueel_bewijs": "Der Glaube arbeitet an der Angst... Er bearbeitet sie.",
+        "indicator": "Instrumentalisering van God",
+        "tekstueel_bewijs": "Gott... will uns an diesen Stromkreis der Liebe anschließen (Mens moet de aansluiting realiseren)",
         "ernst": "SEVERE"
       },
       {
-        "indicator": "Instrumentalization of Grace",
-        "tekstueel_bewijs": "die Energie unserer Ängste... gebrauchen zu andern Dingen",
-        "ernst": "MODERATE"
+        "indicator": "Pelagianisme (Savoir-faire)",
+        "tekstueel_bewijs": "Die wirkliche Verwandlung... geschieht in Gruppen... Schmiedetechnik",
+        "ernst": "CRITICAL"
       }
     ],
     "indicatoren_genade": [
       {
-        "indicator": "Unconditional Presence",
-        "tekstueel_bewijs": "du bist nie allein, du bist auch im Sterben nicht allein",
-        "sterkte": "MODERATE"
+        "indicator": "Goddelijke presentie",
+        "tekstueel_bewijs": "Gott ist bei uns",
+        "sterkte": "WEAK"
       }
     ],
     "exemplarisme_check": {
-      "aanwezig": true,
-      "beschrijving": "Jesus is presented as the model for how to handle fear (not being naive, but processing it).",
+      "aanwezig": "true",
+      "beschrijving": "Jezus wordt neergezet als de 'ideale mens' die niet verdrong, maar angst toeliet. Hij is de 'broeder' die voordoet hoe het moet.",
       "bijbelse_figuren_als_model": [
-        "Jesus (as the one who sweats blood but 'works' through it)"
+        "Jesus (als angst-ervarend mens)"
       ],
-      "alternatieve_lezing": "Jesus as the one who conquers the chaos-waters because humans are paralyzed by fear."
+      "alternatieve_lezing": "Christus is de Heer die de storm (de machten van angst en dood) bestraft en overwint waar de mens machteloos is."
     },
     "identificatie_patroon": {
       "hoorder_identificeert_met": "SUBJECT_HERO",
-      "effect_op_hoorder": "Pressure to 'process' fear correctly; faith becomes a task.",
-      "theologische_implicatie": "Synergism where the human provides the 'work' and God provides the 'electricity'."
+      "effect_op_hoorder": "Druk om 'actief' te geloven en angst te 'bewerken'; risico op uitputting.",
+      "theologische_implicatie": "Synergisme: redding is een gezamenlijk project van menselijke techniek en goddelijke energie."
     },
     "narratieve_coherentie": {
-      "coherentie_score": 8,
-      "coherentie_beschrijving": "Highly coherent as a psychological-political manifesto, but theologically disconnected from the biblical text's christology.",
+      "coherentie_score": "7",
+      "coherentie_beschrijving": "De preek is coherent als een humanistisch-therapeutisch manifest, maar incoherent als christelijke verkondiging omdat de tekst (wonderverhaal) wordt genegeerd ten gunste van psychologie.",
       "spanning_punten": [
-        "Jesus as 'Brother' vs. the Jesus who commands the wind and sea in the text."
+        "Jezus als 'Heer' (tekst) versus Jezus als 'Broeder' (preek)"
       ]
     }
   },
@@ -180,84 +184,87 @@
     "soteriologie": {
       "primaire_model": "MORAL_INFLUENCE",
       "tekstueel_bewijs": "Jesus soll uns dahin bringen, dass auch wir eines Tages sagen können...",
-      "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
+      "menselijke_rol_in_redding": "PRIMARY_ACTOR"
     },
     "pneumatologie": {
       "rol_heilige_geest": "ABSENT",
-      "competentie_schenking": "Replaced by 'Group Dynamics' and 'Psychoanalysis'."
+      "competentie_schenking": "Vervangen door groepsdynamiek en psychologische inzichten."
     },
     "hamartologie": {
       "aard_van_zonde": "SOCIAL_MISTAKE",
-      "ernst_diagnose": "Sin is social inequality and psychological repression."
+      "ernst_diagnose": "Zonde is 'verkeerde maatschappelijke structuur' of 'onderdrukking', niet een breuk met God die verzoening behoeft."
     },
     "eschatologie": {
       "hoop_structuur": "NOT_YET",
-      "actant_van_voltooiing": "Man (through social transformation)"
+      "actant_van_voltooiing": "Man"
     }
   },
   "aanbevelingen": {
-    "actantiele_audit_samenvatting": "The sermon shifts the Subject from God/Christ to the human 'worker of faith'.",
+    "actantiele_audit_samenvatting": "De preek verplaatst de handelende kracht volledig naar de mens. God is een object van troost in plaats van het Subject van verlossing.",
     "subject_herpositionering": {
-      "nodig": true,
-      "huidige_probleem": "The human is the one 'working' on fear.",
-      "voorgestelde_herpositionering": "Christ as the Subject who stills the storm that we cannot process.",
-      "voorbeeld_revisie": "Instead of 'Faith works on fear', use 'Christ's word silences the storm of our fear'."
+      "nodig": "true",
+      "huidige_probleem": "De hoorder moet de angst 'bewerken'.",
+      "voorgestelde_herpositionering": "Christus moet de storm in de hoorder bestraffen.",
+      "voorbeeld_revisie": "Niet wij bewerken de angst, maar Christus spreekt zijn 'Zwijg, wees stil' uit over de chaos van ons leven."
     },
     "identificatie_herstel": {
-      "nodig": true,
-      "problematische_identificatie": "Hearer as the 'Psychological Smith' (Schmied).",
+      "nodig": "true",
+      "problematische_identificatie": "Hoorder als 'smid' van zijn eigen ziel.",
       "voorgestelde_identificatie": "RECEIVER_SAVED",
-      "strategie": "Emphasize the disciples' total helplessness in the boat."
+      "strategie": "De hoorder identificeren met de bange discipelen die gered worden ondanks hun kleingeloof."
     },
     "modale_balans": {
-      "huidige_onbalans": "Savoir (Knowledge of psychology) and Pouvoir (Ability to change).",
-      "voorgestelde_balans": "Pouvoir (God's power) given to the powerless.",
-      "concrete_suggestie": "Focus on the 'Gabe' (Gift) of faith rather than the 'Arbeit' (Work) of faith."
+      "huidige_onbalans": "Te veel Pouvoir (kunnen) en Savoir (techniek).",
+      "voorgestelde_balans": "Focus op Devoir (onmacht van de wet) en Pouvoir als geschenk (genade).",
+      "concrete_suggestie": "Benadruk dat wij de angst juist *niet* kunnen ombouwen zonder de herscheppende daad van God."
     },
     "tegenstander_intensivering": {
-      "nodig": true,
-      "huidige_status": "Fear as a manageable energy.",
-      "voorgestelde_intensivering": "Fear as a manifestation of the 'Chaos' that only God can rebuke.",
-      "theologische_rationale": "If fear is just energy, we don't need a Savior, just a therapist."
+      "nodig": "true",
+      "huidige_status": "Angst als psychologisch probleem.",
+      "voorgestelde_intensivering": "Angst als symptoom van de 'machten' (zonde, dood) die de schepping gijzelen.",
+      "theologische_rationale": "Alleen een zware tegenstander maakt een goddelijk Subject noodzakelijk."
     },
     "narratieve_hierarchie_herstel": {
-      "nodig": true,
-      "probleem": "Ethics (social work) is fused with Soteriology (faith).",
-      "voorgestelde_structuur": "1. Christ stills the storm (Soteriology). 2. Therefore, we can walk on land in peace (Ethics)."
+      "nodig": "true",
+      "probleem": "Ethiek (angst ombouwen) vervangt soteriologie (gered worden).",
+      "voorgestelde_structuur": "1. Christus overwint de angst (Soteriologie). 2. Vanuit die bevrijding kijken we de wereld anders aan (Ethiek)."
     },
     "overall_beoordeling": "NEEDS_IMPROVEMENT",
-    "slotopmerking": "The sermon is rhetorically strong and socially relevant, but structurally anthropocentric. It turns the Gospel into a psychological technique."
+    "slotopmerking": "De preek is retorisch sterk en maatschappelijk betrokken, maar de actantiële structuur is die van een zelfhulpgids. Herstel de actieve rol van God om van morele therapie naar evangelie te gaan."
   },
   "comparatieve_analyse": {
-    "verschil_met_retorische_analyse": "Rhetorically, the sermon is persuasive and empathetic; actantially, it is a law-driven mandate.",
-    "verschil_met_exegese": "Exegesis would focus on Jesus' authority over creation; this sermon focuses on human authority over the psyche.",
-    "unieke_inzichten_greimas": "Greimas reveals that 'Faith' here functions as a verb of human labor rather than a noun of divine gift."
+    "verschil_met_retorische_analyse": "Retorisch is de preek empathisch; semiotisch is hij dwingend (de mens MOET en KAN).",
+    "verschil_met_exegese": "De exegese negeert het 'wonder' (de macht van Jezus) volledig ten gunste van een psychologische allegorie.",
+    "unieke_inzichten_greimas": "Greimas legt bloot dat 'Geloof' hier geen relatie is, maar een menselijk 'werktuig' (Helper)."
   },
   "appendices": {
     "volledige_subject_lijst": [
-      "Wir (umgestalten)",
-      "Glaube (bearbeiten)",
-      "Psychotherapeuten (sagen)",
-      "Jesus (fragen/schlafen)",
-      "Gott (sagen)"
+      "Wir (weten)",
+      "Wir (hebben angst)",
+      "Wir (kunnen omgestalten)",
+      "Geloof (bewerkt)",
+      "Gott (zegt/is bij ons)"
     ],
     "volledige_object_lijst": [
-      "Angst",
-      "Energie",
-      "Pflug",
-      "Frieden",
-      "Gerechtigkeit"
+      "Angstbewältigung",
+      "Vrede",
+      "Gerechtigheid",
+      "Geborgenheid"
     ],
     "werkwoord_frequentie": {
-      "bearbeiten/arbeiten": {
-        "count": 5,
-        "primair_subject": "Man/Faith"
-      },
       "können": {
-        "count": 12,
+        "count": "12",
         "primair_subject": "Man"
+      },
+      "arbeiten/bearbeiten": {
+        "count": "5",
+        "primair_subject": "Man/Geloof"
+      },
+      "sein": {
+        "count": "8",
+        "primair_subject": "God"
       }
     },
-    "notities": "The sermon is a classic example of 'Liberal Moralism' where the vocabulary is religious but the actantial engine is secular-humanistic."
+    "notities": "De preek vertoont sterke invloeden van de bevrijdingstheologie en dieptepsychologie (Drewermann-stijl), waarbij de verticale dimensie van genade horizontaal wordt vertaald in psychopolitieke actie."
   }
 }

@@ -3,138 +3,142 @@
     "titel_preek": "The Crossing",
     "bijbeltekst": "John 6:16-25",
     "analyse_datum": "2024-05-22",
-    "geschat_aantal_woorden": "2450"
+    "geschat_aantal_woorden": "2800"
   },
   "drievoudige_structuur_analyse": {
     "locutie": {
-      "beschrijving": "Exegesis of Jesus walking on water, contrasting it with Moses and Jonah, and explaining the 'I Am' (Ego Eimi) statement.",
-      "exegetische_kwaliteit": "High. Deep engagement with Greek terminology (strolling vs. treading) and intertextual links to the Old Testament.",
+      "beschrijving": "The preacher explains the miracle of Jesus walking on water, contrasting it with Moses and Jonah, and interpreting it as a sign of Jesus' divinity (I AM) and his mission to reconcile humanity to God through the cross.",
+      "exegetische_kwaliteit": "High. Deep focus on Greek terminology (ego eimi, amble/stroll) and intertextual connections (Psalm 77, Job, Jonah).",
       "omvang_procent": "75%"
     },
     "illocutie": {
-      "beschrijving": "Primarily asserting theological truths and explaining the nature of Christ, with a late shift toward promising comfort.",
+      "beschrijving": "Primarily asserting theological truths and explaining biblical symbolism, with a shift toward promising and comforting in the final third.",
       "primaire_kracht": "ASSERTING",
-      "helderheid_score": "8",
+      "helderheid_score": 8,
       "voorbeelden": [
         "Jesus is saying, 'I’m not just Moses.'",
-        "I think we’re going to learn at least three things.",
-        "He came to bring us eternal life."
+        "He’s the ultimate Jonah.",
+        "He bowed his head into the storm of divine justice."
       ]
     },
     "perlocutie": {
-      "beoogd_effect": "The hearer should trust Jesus in their personal 'storms' and relinquish control over their lives.",
-      "pneumatologisch_bewustzijn": "Low. The Holy Spirit is not explicitly mentioned as the agent of change.",
+      "beoogd_effect": "The hearer should feel comforted in their personal 'storms' and surrender control of their lives to the 'uncontrollable' Christ.",
+      "pneumatologisch_bewustzijn": "Implicitly low; the sermon focuses on the Christological event rather than the Spirit's current work in the listener.",
       "perlocutionaire_werkwoorden": [
         "trust",
         "surrender",
-        "understand",
-        "rejoice"
+        "smile",
+        "recognize",
+        "reconcile"
       ]
     }
   },
   "werkwoord_analyse": {
     "assertieven": {
-      "frequentie": "142",
-      "procent": "80%",
+      "frequentie": 142,
+      "procent": "70%",
       "voorbeelden": [
-        "Jesus is the God of Moses.",
+        "Jesus did not come primarily to deal with Israel’s economic problems.",
         "The Sea of Galilee was actually below sea level.",
-        "He is the unconditioned cause."
+        "John deliberately uses a Greek word that’s a little surprising."
       ],
       "dominante_werkwoorden": [
         "is",
-        "means",
         "says",
-        "shows"
+        "means",
+        "shows",
+        "was"
       ]
     },
     "directieven": {
-      "frequentie": "12",
-      "procent": "7%",
+      "frequentie": 18,
+      "procent": "8%",
       "voorbeelden": [
         "Let’s think about what that means practically.",
-        "Go to the Red Sea.",
-        "Drop your conditions when you come to Jesus."
+        "You must deal with me on your own terms.",
+        "Take off your sandals."
       ],
       "dominante_werkwoorden": [
-        "let's",
-        "go",
-        "drop",
-        "think"
+        "think",
+        "must",
+        "look",
+        "remember"
       ],
-      "fundament_check": "true"
+      "fundament_check": true
     },
     "expressieven": {
-      "frequentie": "8",
+      "frequentie": 12,
       "procent": "5%",
       "voorbeelden": [
         "I’m glad he said it that way.",
-        "I don’t want to hear any criticism of the translators."
+        "I’ve always thought Jesus would be slogging."
       ],
       "dominante_werkwoorden": [
+        "thought",
         "glad",
-        "want",
-        "think"
+        "like"
       ]
     },
     "commissieven": {
-      "frequentie": "10",
-      "procent": "6%",
+      "frequentie": 15,
+      "procent": "10%",
       "voorbeelden": [
-        "He’ll never abandon you in the storm.",
-        "He will perform."
+        "He’ll never leave me at last in trouble to sink.",
+        "He will perform.",
+        "He’s going to end all storms."
       ],
       "dominante_werkwoorden": [
         "will",
         "promises",
-        "never"
+        "guarantees"
       ],
-      "kwaliteit": "Strong but late. The promises are grounded in the 'finished work' but appear mostly in the conclusion."
+      "kwaliteit": "Strong toward the end, but often framed as 'what Jesus does' (3rd person) rather than 'what Jesus does for you now' (2nd person)."
     },
     "declaratieven": {
-      "frequentie": "4",
+      "frequentie": 4,
       "procent": "2%",
       "voorbeelden": [
-        "I am the infinitely exalted... one.",
-        "Don't be afraid."
+        "I am.",
+        "Don’t be afraid."
       ],
       "dominante_werkwoorden": [
         "am",
         "be"
       ],
-      "autoriteit": "The preacher quotes Jesus' declarations but rarely speaks as a mandatory of God in the first person (e.g., 'I declare to you')."
+      "autoriteit": "The preacher quotes Jesus' declarations but rarely issues a declarative in his own ministerial office (e.g., 'I declare you reconciled')."
     }
   },
   "constatief_performatief_diagnose": {
     "primaire_classificatie": "CONSTATIVE_SURPLUS",
-    "constatief_percentage": "85%",
-    "performatief_percentage": "15%",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
     "constatief_surplus_analyse": {
-      "aanwezig": "true",
+      "aanwezig": true,
       "ernst": "MODERATE",
       "indicatoren": [
-        "Extensive explanation of Greek grammar.",
-        "Historical context of the Sea of Galilee.",
-        "Deconstruction of the prosperity gospel as a concept."
+        "Extensive explanation of Greek words",
+        "Historical context of the Sea of Galilee",
+        "Analyzing the psychology of the crowd"
       ],
-      "effect_op_hoorder": "Intellectual clarity and theological conviction, but potentially remaining a spectator to the text."
+      "effect_op_hoorder": "The hearer becomes an informed observer of a past event rather than a participant in a current one."
     },
     "performatief_deficit_analyse": {
-      "aanwezig": "true",
+      "aanwezig": true,
       "ernst": "MODERATE",
       "missende_elementen": [
         "Direct absolution",
-        "Immediate address of the hearer's current sin",
-        "Present-tense sacramental 'I' speaking for God"
+        "Direct address of the promise in the 2nd person",
+        "Sacramental 'Now'"
       ],
-      "effect_op_hoorder": "The hearer learns *about* Jesus' power but may not experience the *event* of being addressed by Him until the very end."
+      "effect_op_hoorder": "Intellectual agreement without necessarily experiencing the 'event' of the Word."
     },
     "toezegging_check": {
-      "toezegging_aanwezig": "true",
-      "aantal_toezeggen": "3",
-      "kwaliteit_toezeggen": "High theological grounding, but framed as a logical conclusion of the sermon's points.",
+      "toezegging_aanwezig": true,
+      "aantal_toezeggen": 5,
+      "kwaliteit_toezeggen": "Theological and grounded in the cross, but often descriptive.",
       "voorbeelden": [
-        "Do you think he’s going to abandon you in the storm you’re in right now? Never."
+        "He’s going to be able to save us from storms.",
+        "He will perform."
       ],
       "moment_in_preek": "End"
     }
@@ -142,54 +146,55 @@
   "adressering_analyse": {
     "persoonsvorm_distributie": {
       "eerste_persoon": {
-        "frequentie": "45",
-        "gebruik": "Mostly used for the preacher's own thoughts ('I think', 'I'd like to talk about')."
+        "frequentie": 22,
+        "gebruik": "Personal anecdotes (Kathy, Gerstner) and 'We' inclusive of the congregation."
       },
       "tweede_persoon": {
-        "frequentie": "38",
-        "gebruik": "Direct address used to challenge the hearer's motivations and offer comfort."
+        "frequentie": 45,
+        "gebruik": "Directly challenging the listener's motives and applying the comfort of the storm.",
+        "performatieve_context": "Used mostly in the application of the 'uncontrollable force' and the final comfort."
       },
       "derde_persoon": {
-        "frequentie": "120",
-        "gebruik": "Dominant mode: talking about Jesus, the disciples, and the crowd.",
-        "distantie_effect": "Creates a lecture-like atmosphere where the biblical characters are objects of study."
+        "frequentie": 110,
+        "gebruik": "Describing Jesus, the disciples, and the crowd.",
+        "distantie_effect": "Creates a lecture-like atmosphere for the first 60% of the sermon."
       }
     },
     "tijdsdimensie": {
       "verleden_tijd": {
-        "frequentie": "40%",
-        "gebruik": "Narrating the biblical event."
+        "frequentie": "50%",
+        "gebruik": "Exegesis of John 6 and Old Testament parallels."
       },
       "tijdloos_present": {
-        "frequentie": "45%",
+        "frequentie": "30%",
         "gebruik": "Theological truths about God's nature."
       },
       "actueel_present": {
-        "frequentie": "15%",
-        "gebruik": "Addressing the hearer's current life situation."
+        "frequentie": "20%",
+        "gebruik": "The 'Now' of the listener's current storms."
       }
     },
-    "adressering_effectiviteit": "7"
+    "adressering_effectiviteit": 7
   },
   "sacramenteel_patroon_analyse": {
     "patroon_identificatie": "MIXED",
     "foutief_patroon": {
-      "aanwezig": "false",
-      "beschrijving": "N/A",
+      "aanwezig": false,
+      "beschrijving": "The sermon avoids pure moralism.",
       "voorbeelden": [],
-      "probleem": "The sermon avoids moralism; the directives are well-founded."
+      "probleem": "N/A"
     },
     "sacramenteel_patroon": {
-      "aanwezig": "true",
-      "beschrijving": "The sermon moves from the Assertive (Jesus is God) to the Commissive (He will not abandon you).",
+      "aanwezig": true,
+      "beschrijving": "Moves from Assertive (Jesus' power) to Commissive (He will save you) to Directive (Smile at the storm).",
       "voorbeelden": [
-        "He was thrown into the ultimate storm... so we could have peace."
+        "He bowed his head into the storm... so you could have peace."
       ],
-      "kwaliteit": "The move to the 'Toezegging' (Promise) is effective but delayed by long constative sections."
+      "kwaliteit": "The transition to the 'Toezegging' (Promise) is clear but delayed by heavy constative content."
     },
     "indicatief_imperatief_verhouding": {
-      "indicatief_aanwezig": "true",
-      "imperatief_gefundeerd": "true",
+      "indicatief_aanwezig": true,
+      "imperatief_gefundeerd": true,
       "voorbeelden_goede_verhouding": [
         "If he did that for you... that’s how you’ll be able to handle storms."
       ],
@@ -198,35 +203,36 @@
   },
   "diagnostische_evaluatie": {
     "primaire_diagnose": "COMFORTING_EVANGELICAL",
-    "diagnose_toelichting": "The sermon is a masterclass in evangelical teaching that culminates in a powerful promise of grace, though it spends the majority of its time in the 'constative' mode of explanation.",
+    "diagnose_toelichting": "The sermon is a masterclass in evangelical 'talking about' the gospel. It is highly informative and eventually moves to comfort, but it remains largely in the realm of explanation rather than sacramental event.",
     "sterke_punten": [
       {
-        "aspect": "Theological Depth",
+        "aspect": "Christological Focus",
         "categorie": "Locution",
-        "tekstueel_bewijs": "Analysis of 'Ego Eimi' and the Jonah typology.",
-        "effect": "Builds a solid foundation for faith."
+        "tekstueel_bewijs": "Jesus isn’t just the ultimate Moses; he’s the God of Moses.",
+        "effect": "Establishes the high stakes of the encounter."
       }
     ],
     "zwakke_punten": [
       {
         "aspect": "Constative Surplus",
         "categorie": "Illocution",
-        "tekstueel_bewijs": "The first 15 minutes are almost entirely 'talking about' the text.",
-        "probleem": "Delayed encounter.",
+        "tekstueel_bewijs": "John deliberately uses a Greek word that’s a little surprising...",
+        "probleem": "Over-reliance on lexical explanation can distance the hearer from the immediate presence of Christ.",
         "ernst": "MODERATE"
       }
     ],
-    "gebeuren_score": "7",
-    "gebeuren_toelichting": "The sermon becomes an event in the final third when the 'I Am' of Jesus is applied directly to the hearer's storms.",
-    "sacramentele_kracht": "6",
-    "sacramentele_toelichting": "The preacher acts more as a witness/teacher than a sacramental mandatory who 'delivers' the presence of God through the word."
+    "gebeuren_score": 6,
+    "gebeuren_toelichting": "It becomes an 'event' in the final minutes when the preacher moves from the 1st century to the hearer's current bereavement/illness.",
+    "sacramentele_kracht": 5,
+    "sacramentele_toelichting": "The preacher acts more as a witness/teacher than a mandatory of God's present-tense action."
   },
   "theologische_diepte_analyse": {
     "openbaringsleer": {
-      "god_als_spreker": "Implicitly, through the explanation of the Word.",
-      "prediker_als_mandataris": "Moderate; the preacher acts as an expert guide to the text.",
+      "god_als_spreker": "God is the subject of the text, but the preacher rarely speaks 'for' God in the first person.",
+      "prediker_als_mandataris": "The preacher acts as an expert interpreter.",
       "tekstueel_bewijs": [
-        "We’re looking at these accounts..."
+        "We’re looking at these accounts...",
+        "I think we’re going to learn..."
       ]
     },
     "pneumatologie": {
@@ -235,102 +241,106 @@
       "tekstueel_bewijs": []
     },
     "sacramentstheologie": {
-      "preek_als_genademiddel": "Yes, in the final application.",
-      "epifanisch_taalgebruik": "Moderate.",
+      "preek_als_genademiddel": "The sermon is treated as a vehicle for truth that leads to grace, rather than being the grace itself.",
+      "epifanisch_taalgebruik": "Moderate toward the end.",
       "tekstueel_bewijs": [
-        "He bowed his head into the storm... so we could have peace."
+        "He comes next to them in the storm and gets them to land."
       ]
     }
   },
   "aanbevelingen": {
-    "werkwoord_audit_samenvatting": "The sermon is heavy on 'is', 'means', and 'shows'. It needs more 'gives', 'promises', and 'declares'.",
+    "werkwoord_audit_samenvatting": "Shift from 'John says' and 'Jesus was' to 'Christ says to you' and 'Christ is'.",
     "performatieve_intensivering": {
-      "nodig": "true",
+      "nodig": true,
       "specifieke_suggesties": [
         {
-          "huidige_formulering": "Jesus is saying, 'I’m not just Moses.'",
-          "voorgestelde_revisie": "Hear Jesus say to you today: 'I am not just your leader; I am your God.'",
-          "verschil": "Shifts from description to address."
+          "huidige_formulering": "Jesus Christ says, 'I have come into this world... to deal with the problem.'",
+          "voorgestelde_revisie": "Tonight, Jesus stands in your storm and declares: 'I have come for you, to break the power of your sin.'",
+          "verschil": "Moves from a report of Jesus' intent to a present-tense declaration."
         }
       ]
     },
     "toezegging_versterking": {
-      "nodig": "true",
-      "probleem": "The promise is framed as a logical deduction.",
-      "suggestie": "Use more commissive verbs early on.",
+      "nodig": true,
+      "probleem": "The promise is often buried in the third person.",
+      "suggestie": "Use more 'I' (as God's messenger) and 'You' (the hearer).",
       "voorbeeldzinnen": [
-        "In this word, Christ promises to step into your boat."
+        "Because He was thrown into the storm for you, I promise you: He will not let you sink."
       ]
     },
     "adressering_verbetering": {
-      "nodig": "true",
-      "probleem": "High use of 'they' (disciples) and 'we' (general).",
-      "suggestie": "Use 'you' to bring the storm into the room.",
+      "nodig": true,
+      "probleem": "Too much 'We' and 'They'.",
+      "suggestie": "Increase direct 'You' address in the middle of the exegesis.",
       "voorbeeldzinnen": [
-        "You are in that boat tonight."
+        "You are in that boat. You are the one straining at the oars."
       ]
     },
     "indicatief_imperatief_herstel": {
-      "nodig": "false",
-      "probleem": "The balance is actually quite good.",
-      "suggestie": "Maintain the current grounding."
+      "nodig": false,
+      "probleem": "The balance is actually quite good; the indicatives are strong.",
+      "suggestie": "Ensure the indicatives are performative (Declarative) rather than just informative (Assertive)."
     },
     "overall_beoordeling": "GOOD",
-    "slotopmerking": "A brilliant theological exposition that could become a truly sacramental event by reducing the 'talking about' and increasing the 'proclaiming to'."
+    "slotopmerking": "A brilliant intellectual and theological exposition that would gain immense sacramental power by reducing the 'talking about' and increasing the 'proclaiming to'."
   },
   "comparatieve_analyse": {
-    "verschil_met_schulz_von_thun": "SAT identifies the 'I Am' as a reality-changing declaration, not just a 'self-revelation' of the speaker's feelings.",
-    "verschil_met_retoriek": "The power here is not in the preacher's storytelling but in the illocutionary force of the divine promise.",
-    "unieke_inzichten_SAT": "SAT reveals that the sermon's 'event-character' is hindered by the high percentage of assertive verbs."
+    "verschil_met_schulz_von_thun": "SAT reveals that the sermon isn't just 'information' about a storm, but an attempt to 'perform' the peace of Christ.",
+    "verschil_met_retoriek": "The analysis shows the sermon relies on the 'force' of the cross (Commissive) rather than just the 'pathos' of the preacher.",
+    "unieke_inzichten_SAT": "SAT identifies that the 'I AM' of the text is the ultimate performative utterance that the preacher must re-actualize."
   },
   "appendices": {
     "volledige_werkwoord_lijst": {
       "assertief": [
         "is",
+        "says",
         "means",
         "shows",
         "was",
-        "tells",
-        "explains",
-        "indicates"
+        "recounts",
+        "symbolize",
+        "explains"
       ],
       "directief": [
-        "let's",
-        "go",
         "look",
-        "drop",
-        "think"
+        "think",
+        "remember",
+        "must",
+        "take",
+        "let"
       ],
       "expressief": [
         "glad",
-        "hope",
-        "want"
+        "thought",
+        "like",
+        "worried"
       ],
       "commissief": [
         "will",
         "promises",
-        "guarantees"
+        "guarantees",
+        "performs"
       ],
       "declaratief": [
         "am",
-        "forgive",
-        "bless"
+        "be",
+        "forgive"
       ]
     },
     "kernzinnen_analyse": [
       {
-        "zin": "Jesus is the God of Moses.",
-        "categorie": "ASSERTIVE",
-        "illocutionaire_kracht": "Informative",
-        "effectiviteit": "High for understanding."
+        "zin": "Jesus is the uncontrollable force.",
+        "categorie": "Assertive",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "Good for teaching, but remains an object of study."
       },
       {
-        "zin": "He’ll never abandon you.",
-        "categorie": "COMMISSIVE",
-        "illocutionaire_kracht": "Promising",
-        "effectiviteit": "Very high for comfort."
+        "zin": "Don't be afraid.",
+        "categorie": "Declarative",
+        "illocutionaire_kracht": "Supreme",
+        "effectiviteit": "The turning point of the sermon's power."
       }
     ],
-    "notities": "The sermon is a classic example of 'Redemptive-Historical' preaching which is high on locution but often struggles to move into the declarative 'now'."
+    "notities": "The sermon is highly effective as a teaching tool but borders on a lecture until the final application."
   }
 }

@@ -3,126 +3,108 @@
     "analysis_date": "2024-05-22",
     "sermon_title": "The Savior's Parting Gift",
     "bible_text": "Luke 19:42–43",
-    "notes": "A Palm Sunday sermon blending social commentary (civil rights/capital punishment) with existential urgency."
+    "notes": "Palm Sunday sermon focusing on the missed opportunity of Jerusalem and the empathetic nature of God."
   },
   "ego_positions_scan": {
     "parent": {
       "freedom_from_critical_parent_CP": {
-        "score": 4,
+        "score": 7,
         "score_explanation": "10 = Completely free from coercive judgments. 0 = Very dominant Critical Parent.",
-        "presence_of_coercion": "Medium",
-        "analysis": "The preacher employs a 'Prophetic Critical Parent' voice. While not legalistic in a petty sense, he uses the 'must' of existential doom and historical judgment to create pressure.",
+        "presence_of_coercion": "Low",
+        "analysis": "The preacher uses the 'If thou hadst known' text to warn, but it is framed more as a tragic reality than a shaming tool. There is a 'must' regarding spiritual awareness, but it is presented as a lament rather than a legalistic demand.",
         "quotes": [
-          "I wish that word could ring and echo and resonate in your minds today... 'If thou hadst known.'",
-          "I hear in that word 'but now' all of the dread of approaching doom."
+          "If thou hadst known, ...but now...",
+          "I wish that word could ring and echo and resonate in your minds today."
         ]
       },
       "healthy_care_NP": {
-        "score": 7,
+        "score": 9,
         "score_explanation": "10 = Healthy, non-smothering care. 0 = Absent or smothering.",
         "presence": "High",
-        "analysis": "The Nurturing Parent is strong, particularly in the conclusion. He offers a 'God who cares' to soothe the anxiety raised by the Critical Parent earlier.",
+        "analysis": "The Nurturing Parent is dominant in the conclusion. The preacher emphasizes a God who 'cares' and 'weeps,' providing emotional validation for the listener's suffering without infantilizing them.",
         "quotes": [
-          "He knows our cares.",
-          "In our faults and our failures, God cares."
+          "When we sit at the bedside of those we love... does God care?",
+          "He knows our cares."
         ]
       }
     },
     "adult": {
-      "score": 6,
+      "score": 8,
       "score_explanation": "10 = Strong Adult presence (Reason, Here-and-Now). 0 = Absent.",
-      "presence": "Medium",
-      "analysis": "The Adult is present in the historical analysis of Jerusalem and the sociological data regarding capital punishment. However, the Adult is often bypassed for emotional/existential appeals.",
+      "presence": "High",
+      "analysis": "The preacher engages the Adult by providing historical context (Josephus, the donkey vs. horse), analyzing social data (capital punishment statistics), and acknowledging intellectual uncertainty.",
       "quotes": [
-        "45 percent were black people charged with the murder of whites... Only 5 percent were on death row charged with the murder of blacks.",
-        "The donkey in old Israel was an animal of great honor."
+        "This is a subject upon which honorable and thoughtful people might honorably and seriously differ.",
+        "I'd be willing to stop this sermon right now, if anybody is ready to stand up with some proof."
       ]
     },
     "child": {
       "freedom_from_adapted_child_AC": {
-        "score": 3,
+        "score": 8,
         "score_explanation": "10 = Free from fear/compliance. 0 = Strong Adapted Child (fear culture).",
-        "presence_of_adaptation": "High",
-        "analysis": "The preacher actively invites the congregation into the 'Adapted Child' role through a prayer of total helplessness and a sermon focused on the 'terror of judgment.'",
+        "presence_of_adaptation": "Low",
+        "analysis": "The preacher avoids demanding submission. While he mentions 'weak and needy creatures' in prayer, the sermon body encourages awareness rather than blind obedience.",
         "quotes": [
-          "We throw ourselves, our Father, upon thy mercy.",
-          "We are weak and needy creatures."
+          "We'll not settle that."
         ]
       },
       "free_child_FC": {
-        "score": 5,
+        "score": 6,
         "score_explanation": "10 = Authentic, playful, joyful. 0 = Absent.",
         "presence": "Medium",
-        "analysis": "There is a flash of Free Child in the 'streaker' joke and the 'half-jokingly' debating with Dr. King, but it is quickly suppressed by the gravity of the 'doom' theme.",
+        "analysis": "There is a sense of authentic emotion and intellectual playfulness (e.g., the 'first streaker' comment), though the overall tone is somber.",
         "quotes": [
-          "You will come across the first streaker in history.",
-          "Dr. Martin King and I used to half jokingly debate that matter."
+          "You will come across the first streaker in history."
         ]
       }
     },
-    "dominant_ego_position": "Critical Parent (transitioning to Nurturing Parent)"
+    "dominant_ego_position": "Adult (processing history and social justice) transitioning to Nurturing Parent (comforting the suffering)."
   },
   "transaction_analysis": {
-    "primary_transaction_style": "Parent -> Child (Complementary)",
-    "analysis": "The preacher establishes a hierarchy where he (as the voice of the Prophet/Parent) warns the 'weak and needy' congregation (Child) of impending loss. The transaction is stable because the congregation is invited to agree with their own helplessness.",
-    "ulterior_motives": "Socially, the preacher is teaching history (A->A). Psychologically, he is inducing existential anxiety to ensure the 'payoff' of divine comfort (P->C).",
-    "communicative_purity_score": 5,
-    "purity_explanation": "10 = Completely transparent. 0 = Highly manipulative.",
-    "risk_explanation": "The 'double bottom' lies in the 'If thou hadst known' refrain. It sounds like a lament (Social), but functions as a threat of 'too late' (Psychological)."
+    "primary_transaction_style": "Adult -> Adult",
+    "analysis": "The preacher treats the congregation as thinking citizens capable of handling complex social issues and historical nuances. Even the emotional appeal is framed as a logical inquiry ('Does God care?').",
+    "ulterior_motives": "The social justice section (capital punishment) acts as a subtle 'Parent' correction to societal racism, but it is delivered through 'Adult' data.",
+    "communicative_purity_score": 9,
+    "purity_explanation": "10 = Completely transparent/Pure. 0 = Highly manipulative/Ulterior.",
+    "risk_explanation": "The only risk is the 'Bait and Switch' of using a Palm Sunday text to discuss modern racial statistics, but the preacher is transparent about this transition."
   },
   "games_analysis": {
     "detected_games": [
       {
-        "name": "Bait & Switch (Redemption)",
-        "probability": "High",
+        "name": "None",
+        "probability": "Low",
         "formula_g_analysis": {
-          "con": "The promise of understanding Palm Sunday's 'gift'.",
-          "gimmick": "The listener's fear of aging, failure, and 'lost opportunity'.",
-          "switch": "Moving from the 'joy' of palms to the 'terror' of the Arc of Titus and 'Ichabod'.",
-          "payoff": "The listener feels small and fearful, making the final 'God cares' emotional relief more potent."
+          "con": "N/A",
+          "gimmick": "N/A",
+          "switch": "N/A",
+          "payoff": "N/A"
         },
-        "evidence_quotes": [
-          "If thou hadst known... but now they are hid from thine eyes.",
-          "I'm glad he cried... in his tears lies our hope."
-        ]
-      },
-      {
-        "name": "Ain't It Awful",
-        "probability": "Medium",
-        "formula_g_analysis": {
-          "con": "Discussing the state of the world/city.",
-          "gimmick": "Shared resentment toward 'sophisticated' culture or corrupt government.",
-          "switch": "Shifting from Jerusalem's corruption to 'New York' and 'American culture'.",
-          "payoff": "A collective sense of spiritual superiority over the 'callous city' while remaining passive."
-        },
-        "evidence_quotes": [
-          "I do not know now whether I'm speaking about old Jerusalem or new New York.",
-          "Our whole American culture... is dedicated to the improvement of every form of life... except our spirits."
-        ]
+        "evidence_quotes": []
       }
     ],
-    "absence_of_games_analysis": "Not applicable; the sermon relies heavily on the tension-release cycle characteristic of the Bait & Switch game."
+    "absence_of_games_analysis": "The preacher avoids 'ITHY' (I'm Only Trying to Help You) by not offering easy, patronizing fixes. He avoids 'NIGYSOB' by refusing to use the 'missed opportunity' text to beat the congregation; instead, he includes himself in the human condition."
   },
   "drama_triangle_analysis": {
     "preacher_roles": {
-      "rescuer": "High: Offers the 'tears of Jesus' as the only solution to the doom he just described.",
-      "persecutor": "Medium: Uses the 'awful word' of judgment to highlight the congregation's 'willfulness and wickedness'.",
-      "victim": "Low: Briefly appears in the prayer ('We are weak and needy')."
+      "rescuer": "Low; he points to God as the one who cares rather than positioning himself as the solver of problems.",
+      "persecutor": "Very Low; he critiques the 'system' and 'government' rather than the individuals in the pews.",
+      "victim": "Low; he identifies with human weakness but does not use it to manipulate sympathy."
     },
-    "congregation_position": "Victim: Cast as 'weak and needy creatures' facing 'approaching doom' and 'perilous trials'.",
-    "escape_possibilities": "Minimal. The sermon encourages dependency on the 'Rescuer' (God/Preacher) rather than Adult autonomy or agency."
+    "congregation_position": "The congregation is invited to be 'Observers/Thinkers' (Adult) and then 'Beloved' (Child receiving NP care).",
+    "escape_possibilities": "The sermon promotes autonomy by asking the listener to 'use the time' and 'make the most' of their current life stage."
   },
   "conclusion_and_recommendation": {
-    "psychological_health_score": 4,
-    "summary": "The sermon is rhetorically brilliant but psychologically regressive. It utilizes a 'Break-and-Restore' dynamic: it first breaks the listener's Adult ego by emphasizing helplessness and the 'terror of judgment' (Critical Parent), then restores the listener through an emotional 'God cares' (Nurturing Parent). This creates a dependency loop where the listener feels they cannot survive without the divine/pastoral Rescuer. While the social Adult commentary on capital punishment is sharp, it is ultimately swallowed by the overarching Parent-Child dynamic.",
+    "psychological_health_score": 9,
+    "summary": "This sermon is remarkably healthy from a TA perspective. It avoids the common 'Critical Parent' traps of religious discourse. The preacher maintains an Adult-to-Adult connection by presenting historical facts and social data, then moves into a Nurturing Parent role that validates human suffering without creating dependency. The use of 'we' instead of 'you' prevents a Persecutor/Victim dynamic.",
     "strengths": [
-      "Strong Adult engagement with social justice and historical context.",
-      "Powerful Nurturing Parent conclusion that provides genuine emotional catharsis."
+      "High Adult engagement through historical and social analysis.",
+      "Avoidance of shaming despite a 'judgment' oriented text.",
+      "Authentic emotional vulnerability regarding God's empathy."
     ],
     "areas_for_improvement": [
-      "High level of 'Adapted Child' induction in the opening prayer.",
-      "Use of existential 'doom' as a primary motivational tool."
+      "The prayer at the beginning leans heavily into the 'Victim' role ('weak and needy creatures'), which could be balanced with more 'Free Child' gratitude.",
+      "The transition from capital punishment back to the biblical text is slightly abrupt."
     ],
-    "advice_for_game_free_communication": "Try to address the congregation as 'Adults' capable of making choices today, rather than 'Victims' of a 'too late' destiny. Reduce the 'weak and needy' rhetoric to allow for more 'Free Child' spontaneity and 'Adult' agency."
+    "advice_for_game_free_communication": "Continue to use 'Adult' data to ground theological claims. Maintain the transparency shown when admitting 'I do not know'—this is the ultimate antidote to the 'God-Player' game."
   }
 }

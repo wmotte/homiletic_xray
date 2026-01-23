@@ -1,272 +1,264 @@
 {
   "metadata": {
     "titel_preek": "The Power Of Blackness",
-    "bijbeltekst": "Luke 9:1, Isaiah 40:29-31, John 1:12",
+    "bijbeltekst": "Luke 9:1, Isaiah 40:29-31, Matthew 7:11",
     "analyse_datum": "2024-05-22",
-    "geschat_aantal_woorden": "1850"
+    "geschat_aantal_woorden": "2100"
   },
   "actantiele_analyse": {
     "primair_narratief_programma": {
-      "beschrijving": "The empowerment of the Black Christian community to find its identity in 'apartness' and return to the world as a redemptive force.",
+      "beschrijving": "The empowerment of the Black church (Progressive Baptists) through their unique historical suffering to act as a redemptive force in a fractured America.",
       "subject": {
-        "identificatie": "Progressive Baptists / Black Christians",
+        "identificatie": "Progressive Baptists / The Black Church",
         "tekstueel_bewijs": [
-          "Progressive Baptists, we must ask ourselves where we are going",
-          "we must return to the nation bearing in Christ's name the gifts of our blackness",
-          "We must lift the hope of life"
+          "Progressive Baptists, we must ask ourselves where we are going and why.",
+          "we must return to the nation bearing in Christ's name the gifts of our blackness.",
+          "We must lift the hope of life in the colony of death."
         ],
         "frequentie_score": "8"
       },
       "object": {
-        "identificatie": "Power/Identity/Reconciliation",
+        "identificatie": "Reconciliation and National Healing",
         "tekstueel_bewijs": [
-          "He gave them power and authority",
-          "find our true selves",
-          "initiate the work of reconciliation"
+          "initiate the work of reconciliation which at last will make of our Baptist witness in this land one grand, united fellowship... to the healing of the nation."
         ],
-        "aard_van_object": "SOTERIOLOGICAL/ETHICAL"
+        "aard_van_object": "ETHICAL"
       },
       "zender": {
-        "identificatie": "God/Jesus Christ",
+        "identificatie": "The God of History / Jesus Christ",
         "tekstueel_bewijs": [
-          "I believe that God has called us out for a purpose",
-          "We bear the crown seal of Jesus Christ"
+          "I believe that God has called us out for a purpose.",
+          "We bear the crown seal of Jesus Christ. We are sent by One..."
         ],
-        "rol_interpretatie": "LOVING_FATHER/SENDER"
+        "rol_interpretatie": "LAWGIVER"
       },
       "ontvanger": {
-        "identificatie": "The Nation/The World/The Disinherited",
+        "identificatie": "The United States / The Disinherited",
         "tekstueel_bewijs": [
-          "to the healing of the nation",
-          "We must bear tidings of redemption to earth's darkest places"
+          "to the healing of the nation.",
+          "bear tidings of redemption to earth's darkest places."
         ],
-        "positie_hoorder": "The hearer identifies as the Subject (the one sent)."
+        "positie_hoorder": "Subject"
       },
       "helper": {
-        "identificatie": "The Holy Spirit/Martin Luther King Jr./The Black Experience",
+        "identificatie": "The 'Gifts of Blackness' / The Holy Spirit (as empowerment)",
         "tekstueel_bewijs": [
-          "He gave them power",
-          "Progressive Baptists gave him a black Baptist residence",
-          "gifts and powers in the very limp which is our history"
+          "He gave them power and authority.",
+          "There is a power growing out of our experience of blackness in this land."
         ],
-        "rol_van_god": "God is primarily the Sender and the source of the Helper (Power).",
-        "rol_van_geest": "External help that becomes an indwelling 'stirring' inside."
+        "rol_van_god": "Helper",
+        "rol_van_geest": "External help"
       },
       "tegenstander": {
-        "identificatie": "White Supremacy/National Shame/War/Internal Division",
+        "identificatie": "National Hard-heartedness / Racism / War",
         "tekstueel_bewijs": [
-          "callous disregard of the cries of hunger",
-          "ugly tools of an evil national policy",
-          "division of Baptists into so many factions"
+          "America... so unmoved, so insolent, so hard-hearted!",
+          "the ugly tools of an evil national policy."
         ],
-        "ernst_tegenstander": "COSMIC",
-        "toelichting_ernst": "The opponent is not just social policy but 'servants of sin and wrong' and 'powers of wickedness'."
+        "ernst_tegenstander": "SOCIAL",
+        "toelichting_ernst": "The opponent is primarily systemic injustice and political 'madness' rather than ontological sin or cosmic evil."
       }
     },
     "secundair_narratief_programma": {
       "aanwezig": "true",
       "beschrijving": "The institutional maintenance and growth of the Progressive National Baptist Convention.",
-      "subject": "The Convention Leadership/Members",
-      "object": "Property, Foreign Missions, Organizational Unity",
-      "verhouding_tot_primair": "SEQUENTIAL",
-      "toelichting_verhouding": "The institutional success is seen as the vehicle through which the primary mission of 'Power' is exercised."
+      "subject": "Convention Leaders (Booth, Upshaw, etc.)",
+      "object": "Organizational stability and property acquisition",
+      "verhouding_tot_primair": "CONFUSED",
+      "toelichting_verhouding": "The sermon oscillates between high-stakes prophetic social justice and mundane reports on committee meetings and property buying."
     },
     "actantieel_schema_visualisatie": {
-      "zender_naar_ontvanger": "God → Power/Healing → The Nation",
-      "helper_subject_tegenstander": "The Spirit/MLK → Black Christians ← Racism/War",
-      "subject_naar_object": "Progressive Baptists → Reconciliation"
+      "zender_naar_ontvanger": "God → Reconciliation → The Nation",
+      "helper_subject_tegenstander": "Black Experience → Progressive Baptists ← Systemic Racism",
+      "subject_naar_object": "Progressive Baptists → Healing the Nation"
     }
   },
   "grammaticale_analyse": {
     "subject_check": {
-      "god_als_subject_count": "24",
+      "god_als_subject_count": "14",
       "mens_als_subject_count": "42",
-      "ratio": "0.57",
+      "ratio": "0.33",
       "voorbeelden_god_subject": [
-        "God has called us out",
-        "He gave them power",
-        "God loves this world",
-        "God of history will act"
+        "God has called us out for a purpose.",
+        "He gave them power and authority.",
+        "God loves this world."
       ],
       "voorbeelden_mens_subject": [
-        "We must face forward",
-        "We must ask ourselves",
-        "We must tell men and women",
-        "We must lift the hope"
+        "We must face forward.",
+        "We must ask ourselves where we are going.",
+        "We must return to the nation."
       ],
-      "rutledge_score": "6"
+      "rutledge_score": "4"
     },
     "modale_analyse": {
       "devoir_faire": {
         "prominentie": "9",
         "voorbeelden": [
-          "we must face forward",
-          "we must ask ourselves",
-          "we must return to the nation"
+          "we must face forward.",
+          "The cry of the poor must not be stifled.",
+          "We must tell all who sent us."
         ]
       },
       "vouloir_faire": {
-        "prominentie": "5",
+        "prominentie": "6",
         "voorbeelden": [
-          "we long for your leadership",
-          "desire to secure property"
+          "We long for your leadership.",
+          "I shall not dwell upon our desire to secure property."
         ]
       },
       "savoir_faire": {
-        "prominentie": "4",
+        "prominentie": "5",
         "voorbeelden": [
-          "listen carefully to hear what is being said",
-          "find our true selves"
+          "We who minister to people must listen carefully to hear what is being said."
         ]
       },
       "pouvoir_faire": {
-        "prominentie": "8",
+        "prominentie": "7",
         "voorbeelden": [
-          "He gave them power and authority",
-          "He giveth power to the faint",
-          "empowered his disciples"
+          "He gave them power and authority.",
+          "He giveth power to the faint."
         ]
       },
       "dominante_modaliteit": "DEVOIR",
-      "modale_interpretatie": "The sermon is heavily imperative (Must), but it grounds the 'Must' in a divinely granted 'Can' (Power). It avoids pure moralism by emphasizing that the Subject is first empowered by God before being commanded."
+      "modale_interpretatie": "The sermon is heavily deontological (obligation-based). While it mentions 'Pouvoir' (Power), it frames this power as a resource the Subject must now use to fulfill the 'Devoir' (Must)."
     }
   },
   "semiotisch_vierkant_analyse": {
     "primaire_tegenstelling": {
-      "s1": "Empowered Identity (Blackness in Christ)",
-      "s2": "National Shame/Death (Vietnam/Hunger)",
-      "niet_s1": "Disinherited/Powerless (The Limp)",
-      "niet_s2": "False Integration/Assimilation"
+      "s1": "Reconciliation/Power",
+      "s2": "Judgment/Madness",
+      "niet_s1": "Division/Separatism",
+      "niet_s2": "Callous Disregard"
     },
-    "beweging_in_preek": "Moves from the 'Limp' (Not-S1) through the 'Apartness' (Negating False Integration) to 'Empowerment' (S1) in order to confront 'Death' (S2).",
-    "theologische_resolutie": "The tension is resolved through the 'Credentials of Identification'—Christ's suffering and resurrection validate the Black experience as a source of power.",
-    "ernst_van_s2": "High. The 'colony of death' and 'national madness' are treated as existential threats."
+    "beweging_in_preek": "From the 'shame' of division (~S1) and national 'madness' (S2) toward a redemptive 'apartness' that leads back to reconciliation (S1).",
+    "theologische_resolutie": "The tension is resolved through the 'empowerment' of the Black church to save the nation from its own judgment.",
+    "ernst_van_s2": "High. Judgment is presented as a historical inevitability for a nation that ignores the poor."
   },
   "diagnostische_evaluatie": {
-    "primaire_classificatie": "GRACE",
-    "classificatie_toelichting": "While the sermon has many 'Musts', the deep structure is theocentric. God is the source of the 'Power' (Pouvoir) that makes the mission possible. The Black experience is not a work of man but a crucible where God acts.",
+    "primaire_classificatie": "MIXED",
+    "classificatie_toelichting": "While the sermon uses Christological language at the end, the primary engine is anthropocentric: the church is the Subject who must act to save the nation. God is the Sender and the Enabler (Helper), but the 'Performance' belongs to the Progressive Baptists.",
     "indicatoren_moralisme": [
       {
-        "indicator": "Institutional Exemplarism",
-        "tekstueel_bewijs": "Progressive Baptists may take justifiable pride...",
-        "ernst": "LOW"
+        "indicator": "Deontological Overload",
+        "tekstueel_bewijs": "We must... we must... we must...",
+        "ernst": "SEVERE"
+      },
+      {
+        "indicator": "Instrumentalization of God",
+        "tekstueel_bewijs": "He gave them power... [so that they can act].",
+        "ernst": "MODERATE"
       }
     ],
     "indicatoren_genade": [
       {
-        "indicator": "Subject-Switch to Christ",
-        "tekstueel_bewijs": "We are sent by One who confronted evil... the powers of wickedness were powerless before him.",
-        "sterkte": "VERY_STRONG"
+        "indicator": "Christological Foundation",
+        "tekstueel_bewijs": "We are sent by a God who came where we are in Jesus of Nazareth in order that we might get where he is.",
+        "sterkte": "STRONG"
       }
     ],
     "exemplarisme_check": {
       "aanwezig": "true",
-      "beschrijving": "Martin Luther King Jr. is used as a 'Standard Bearer', but his power is explicitly linked to 'spiritual genius' granted by God.",
+      "beschrijving": "Martin Luther King Jr. and Robert Kennedy are used as the primary moral and spiritual standards for the Subject to emulate.",
       "bijbelse_figuren_als_model": [
-        "Moses",
-        "Jacob/Israel",
-        "The Disciples"
+        "Martin King (Authentic spiritual genius)",
+        "Moses (Lifting the serpent)"
       ],
-      "alternatieve_lezing": "The sermon already leans theocentric by focusing on God giving the name 'Israel' and God giving the power to the disciples."
+      "alternatieve_lezing": "Focus on God as the one who raised up King and who alone sustains the movement, rather than the movement 'longing' for King's return."
     },
     "identificatie_patroon": {
       "hoorder_identificeert_met": "SUBJECT_HERO",
-      "effect_op_hoorder": "Mobilization and dignity; shifting from victim to agent.",
-      "theologische_implicatie": "Synergism where God's empowerment precedes human action."
+      "effect_op_hoorder": "Increases sense of responsibility and communal pride, but risks exhaustion under the weight of 'must'.",
+      "theologische_implicatie": "The church becomes the co-redeemer of the nation."
     },
-    "narratieve_hierarchie": {
-      "coherentie_score": "9",
-      "coherentie_beschrijving": "Excellent integration of the 'Soteriology of Power' with the 'Ethics of Reconciliation'.",
+    "narratieve_coherentie": {
+      "coherentie_score": "6",
+      "coherentie_beschrijving": "The sermon struggles to integrate the 'Fundamental Program' (God's salvation in Christ) with the 'Secondary Program' (Institutional Baptist business).",
       "spanning_punten": [
-        "The tension between 'separatism' for identity and 'integration' for the nation."
+        "The transition from the 'anguished cry of the disinherited' to 'our Christian Education Congress goes forward under the leadership of Dr. William Upshaw'."
       ]
     }
   },
   "theologische_diepte_analyse": {
     "soteriologie": {
-      "primaire_model": "CHRISTUS_VICTOR",
-      "tekstueel_bewijs": "One who confronted evil... powers of wickedness were powerless before him.",
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "We must return to the nation bearing in Christ's name the gifts of our blackness.",
       "menselijke_rol_in_redding": "ACTIVE_PARTICIPANT"
     },
     "pneumatologie": {
-      "rol_heilige_geest": "INDWELLING_POWER",
-      "competentie_schenking": "Endowment of 'Pouvoir-faire' (Power to do)."
+      "rol_heilige_geest": "EXTERNAL_HELPER",
+      "competentie_schenking": "Endowment of 'Power' to the human Subject."
     },
     "hamartologie": {
-      "aard_van_zonde": "COSMIC_POWER",
-      "ernst_diagnose": "Critical; sin is described as 'madness' and 'carnage'."
+      "aard_van_zonde": "GUILT",
+      "ernst_diagnose": "Social and national sin (Vietnam, poverty) is treated with extreme gravity."
     },
     "eschatologie": {
-      "hoop_structuur": "ALREADY_AND_NOT_YET",
-      "actant_van_voltooiing": "God"
+      "hoop_structuur": "NOT_YET",
+      "actant_van_voltooiing": "Man"
     }
   },
   "aanbevelingen": {
-    "actantiele_audit_samenvatting": "The narrative engine is driven by God as the Sender who empowers a specific Subject (Black Christians) to overcome a Cosmic Opponent (Sin/Injustice).",
+    "actantiele_audit_samenvatting": "The sermon positions the Progressive Baptists as the Subject of a national rescue mission, with God as the source of power (Helper) and mandate (Sender).",
     "subject_herpositionering": {
-      "nodig": "false",
-      "huidige_probleem": "None",
-      "voorgestelde_herpositionering": "N/A",
-      "voorbeeld_revisie": "N/A"
+      "nodig": "true",
+      "huidige_probleem": "The 'We' (Progressive Baptists) are doing all the heavy lifting in the active verbs.",
+      "voorgestelde_herpositionering": "Make God the Subject of the national healing.",
+      "voorbeeld_revisie": "Instead of 'We must initiate the work of reconciliation,' use 'God is initiating reconciliation through our brokenness.'"
     },
     "identificatie_herstel": {
       "nodig": "true",
-      "problematische_identificatie": "Hearer as 'Hero' might lead to pride.",
-      "voorgestelde_identificatie": "Hearer as 'Receiver' of the Power first.",
-      "strategie": "Emphasize the 'waiting upon the Lord' before the 'mounting up'."
+      "problematische_identificatie": "Hearer as the 'Hero' who must save America.",
+      "voorgestelde_identificatie": "Hearer as the 'Receiver' of God's power first.",
+      "strategie": "Emphasize the 'Wait upon the Lord' aspect of Isaiah 40 more than the 'Mounting up'."
     },
     "modale_balans": {
-      "huidige_onbalans": "High Devoir (Must).",
-      "voorgestelde_balans": "Increase Pouvoir (Can) by dwelling longer on the Resurrection.",
-      "concrete_suggestie": "Expand the section on 'rose from Joseph's tomb' to show how that specific power flows into the believer."
+      "huidige_onbalans": "Devoir (Must)",
+      "voorgestelde_balans": "Pouvoir (Can/Grace)",
+      "concrete_suggestie": "Expand on the 'credentials of identification' in Christ as the source of ability, not just a label for the mission."
     },
     "tegenstander_intensivering": {
       "nodig": "false",
-      "huidige_status": "Strongly defined.",
+      "huidige_status": "The social opponent is already very intense.",
       "voorgestelde_intensivering": "N/A",
-      "theologische_rationale": "N/A"
+      "theologische_rationale": "The sermon excels at naming social sin."
     },
     "narratieve_hierarchie_herstel": {
-      "nodig": "false",
-      "probleem": "None",
-      "voorgestelde_structuur": "N/A"
+      "nodig": "true",
+      "probleem": "The business of the convention (Program 2) is given equal narrative weight to the mission of God (Program 1).",
+      "voorgestelde_structuur": "Subordinate institutional reports to the theological narrative of empowerment."
     },
-    "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A masterful example of theocentric social gospel that avoids the trap of mere moralism by grounding human agency in divine empowerment."
+    "overall_beoordeling": "ADEQUATE",
+    "slotopmerking": "A powerful prophetic address that successfully identifies the 'Power of Blackness' as a theological category, but occasionally slips into institutional moralism."
   },
   "comparatieve_analyse": {
-    "verschil_met_retorische_analyse": "While rhetoric would focus on the 'I Have a Dream' allusions, Greimas reveals the Subject-Object shift from 'disinherited' to 'empowered'.",
-    "verschil_met_exegese": "Exegesis would focus on Luke 9; semiotics shows how Luke 9 functions as a 'Modal Competence' donor for the 1968 context.",
-    "unieke_inzichten_greimas": "Reveals that 'Blackness' is treated not as an attribute but as a 'Helper' actant in the narrative of national redemption."
+    "verschil_met_retorische_analyse": "Rhetorical analysis would praise the 'I Have a Dream' echoes; Greimas reveals that these echoes reinforce a human-centered Subject-Object axis.",
+    "verschil_met_exegese": "Exegesis would look at the context of Luke 9; Greimas looks at how 'Power' functions as a modal competence for the Subject.",
+    "unieke_inzichten_greimas": "Greimas exposes that despite the 'Jesus' language at the end, the 'engine' of the sermon is the Baptist Convention's agency."
   },
   "appendices": {
     "volledige_subject_lijst": [
-      "God (called)",
-      "Jesus (gave power)",
-      "We (must return)",
-      "America (does not remember)",
-      "The God of history (will act)"
+      "We (Progressive Baptists) - must face forward",
+      "We - must ask ourselves",
+      "We - must return",
+      "God - has called",
+      "Jesus - gave power"
     ],
     "volledige_object_lijst": [
-      "Power",
       "Reconciliation",
-      "The Standard",
-      "The Dream"
+      "Property",
+      "Healing of the nation",
+      "The standard of leadership"
     ],
     "werkwoord_frequentie": {
       "must": {
-        "count": "18",
+        "count": "12",
         "primair_subject": "Man"
       },
-      "gave": {
-        "count": "6",
-        "primair_subject": "God"
-      },
-      "sent": {
-        "count": "5",
+      "give/gave": {
+        "count": "4",
         "primair_subject": "God"
       }
     },
-    "notnotes": "The sermon successfully navigates the tension between human responsibility and divine initiative by using the 'Apartness' of Jesus as the narrative bridge."
+    "notities": "The sermon is a classic example of 'Social Gospel' actantial structure where the Church takes the place of the Spirit as the primary actor in history."
   }
 }

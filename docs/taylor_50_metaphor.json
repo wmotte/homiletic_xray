@@ -3,41 +3,41 @@
     "titel_preek": "The Savior's Parting Gift",
     "bijbeltekst": "Luke 19:42–43",
     "analyse_datum": "2024-05-22",
-    "geschat_aantal_woorden": "2150"
+    "geschat_aantal_woorden": "2100"
   },
   "primaire_analyse": {
     "dominante_domeinen": [
       {
         "domein_type": "JOURNEY",
-        "prominentie_score": "9",
+        "prominentie_score": "8",
         "kernfrasen": [
           "guide us along this uncertain and perilous journey",
           "walking today on the sunny side of the street",
-          "walking today upon a solid path",
-          "The road will get steep"
+          "the road will get steep",
+          "walking today upon a solid path"
         ],
         "conceptuele_metafoor": "LIFE IS A JOURNEY"
       },
       {
-        "domein_type": "METEOROLOGICAL",
-        "prominentie_score": "8",
+        "domein_type": "MEDICAL",
+        "prominentie_score": "6",
         "kernfrasen": [
-          "sun is shining in our backdoor",
-          "Dark clouds will come",
-          "angry winds will blow in your face",
-          "springtime of life when everything is green"
+          "testings of our souls by sickness",
+          "debilitating and deteriorating process of age",
+          "sit at the bedside of those we love"
         ],
-        "conceptuele_metafoor": "CIRCUMSTANCES ARE WEATHER CONDITIONS"
+        "conceptuele_metafoor": "SIN/SUFFERING IS SICKNESS"
       },
       {
-        "domein_type": "RELATIONAL_FAMILIAL",
+        "domein_type": "ARCHITECTURAL",
         "prominentie_score": "7",
         "kernfrasen": [
-          "we address thee as Father",
-          "makes him my brother",
-          "God cares about our dying"
+          "tobacco-brown walls",
+          "capital of religion",
+          "under the roof of father and mother",
+          "door of the temple"
         ],
-        "conceptuele_metafoor": "GOD IS A COMPASSIONATE KINSMAN"
+        "conceptuele_metafoor": "FAITH IS A CITY/STRUCTURE"
       }
     ],
     "metafoor_inventaris": [
@@ -46,98 +46,99 @@
         "brondomein": {
           "naam": "Ingestion/Liquid",
           "concrete_elementen": [
-            "cup",
             "bitter liquid",
-            "sediment/dregs"
-          ],
-          "belichaamde_basis": "container/balance"
-        },
-        "doeldomein": {
-          "theologisch_concept": "Suffering/Failure",
-          "doctrinale_traditie": "Ecumenical/Biblical Wisdom"
-        },
-        "mapping_structuur": [
-          {
-            "bron_element": "Bitter taste",
-            "doel_element": "Emotional pain"
-          },
-          {
-            "bron_element": "Dregs (bottom of cup)",
-            "doel_element": "Finality/extremity of failure"
-          }
-        ],
-        "entailments": {
-          "cognitieve_implicaties": [
-            "Failure is something that must be 'swallowed' or accepted involuntarily."
-          ],
-          "theologische_implicaties": [
-            "Human experience includes a 'cup' of destiny or providence."
-          ],
-          "ethische_implicaties": [
-            "Endurance is required even when the experience is repulsive."
-          ],
-          "onbedoelde_consequenties": [
-            "Suggests a passive role in one's own defeat."
-          ]
-        },
-        "vitaliteit_status": "CONVENTIONAL",
-        "vitaliteit_toelichting": "A common biblical and literary trope for suffering, though used here with rhetorical force."
-      },
-      {
-        "metafoor_expressie": "The Savior's tears... in his tears lies our hope.",
-        "brondomein": {
-          "naam": "Biological Fluid/Container",
-          "concrete_elementen": [
-            "tears",
-            "weeping",
-            "overflowing"
+            "dregs",
+            "drinking"
           ],
           "belichaamde_basis": "container"
         },
         "doeldomein": {
-          "theologisch_concept": "Divine Compassion/Atonement",
-          "doctrinale_traditie": "Incarnational Theology"
+          "theologisch_concept": "Failure/Judgment",
+          "doctrinale_traditie": "General Christian/Prophetic"
         },
         "mapping_structuur": [
           {
-            "bron_element": "Physical tears",
-            "doel_element": "Divine empathy/solidarity"
+            "bron_element": "Bitter dregs",
+            "doel_element": "The painful reality of failure"
           },
           {
-            "bron_element": "Crying as weakness",
-            "doel_element": "God's accessibility"
+            "bron_element": "Drinking",
+            "doel_element": "Experiencing or internalizing"
           }
         ],
         "entailments": {
           "cognitieve_implicaties": [
-            "God is not a distant 'unmoved mover' but is affected by human history."
+            "Failure is something that must be fully consumed/endured",
+            "It leaves a lasting bad taste"
           ],
           "theologische_implicaties": [
-            "The suffering of Christ is the primary locus of salvation."
+            "Human experience includes unavoidable suffering as a 'cup' to be drained"
           ],
           "ethische_implicaties": [
-            "Vulnerability is a 'noble' and 'divine' trait to be emulated."
+            "Resilience in the face of inevitable 'bitterness'"
           ],
           "onbedoelde_consequenties": [
-            "Potential for Patripassianism (the idea that the Father suffers exactly as the Son)."
+            "Suggests a passive reception of fate rather than agency"
           ]
         },
-        "vitaliteit_status": "LIVING",
-        "vitaliteit_toelichting": "The preacher revitalizes the image of the weeping Christ by contrasting it with the 'power' of storms and 'intelligence' of nature."
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "A common biblical and literary trope for suffering, though used here with rhetorical weight."
+      },
+      {
+        "metafoor_expressie": "under the political heel of Rome",
+        "brondomein": {
+          "naam": "Body/Anatomy",
+          "concrete_elementen": [
+            "heel",
+            "stepping",
+            "pressure"
+          ],
+          "belichaamde_basis": "force"
+        },
+        "doeldomein": {
+          "theologisch_concept": "Oppression",
+          "doctrinale_traditie": "Social Justice/Liberation"
+        },
+        "mapping_structuur": [
+          {
+            "bron_element": "Heel",
+            "doel_element": "Imperial power"
+          },
+          {
+            "bron_element": "Being under",
+            "doel_element": "Subjugation"
+          }
+        ],
+        "entailments": {
+          "cognitieve_implicaties": [
+            "The oppressed are small and vulnerable like dust under a foot"
+          ],
+          "theologische_implicaties": [
+            "God's kingdom stands in opposition to 'crushing' earthly powers"
+          ],
+          "ethische_implicaties": [
+            "Identification with the 'crushed' or 'stepped on'"
+          ],
+          "onbedoelde_consequenties": [
+            "Dehumanizes the oppressor as merely a 'heel'"
+          ]
+        },
+        "vitaliteit_status": "CONVENTIONAL",
+        "vitaliteit_toelichting": "Standard metaphor for political oppression."
       }
     ]
   },
   "diagnostische_evaluatie": {
     "coherentie_analyse": {
-      "overall_coherentie": "HIGHLY_COHERENT",
-      "coherentie_verklaring": "The preacher maintains a consistent tension between the 'Journey' (human effort/time) and 'Weather' (divine/external circumstances). The transition from the 'Dramatization' of the donkey to the 'Drama' of the tears provides a narrative arc that links historical event to emotional reality.",
+      "overall_coherentie": "MOSTLY_COHERENT",
+      "coherentie_verklaring": "The preacher weaves together the 'Journey' of life with the 'City' of Jerusalem. The movement from the physical road to Jerusalem to the metaphorical road of the listener's life is seamless.",
       "incoherentie_punten": [
         {
-          "locatie": "Introduction to Prayer",
-          "metafoor_a": "God as 'beyond all human understanding'",
-          "metafoor_b": "God as 'Father'",
-          "conflict_beschrijving": "The preacher acknowledges the linguistic gap between the Transcendent and the Familial.",
-          "entailment_conflict": "The 'Incomprehensible' cannot be mapped to 'Father' without loss of transcendence.",
+          "locatie": "Introduction/Prayer",
+          "metafoor_a": "God as Father",
+          "metafoor_b": "God as 'Thou who art beyond all understanding'",
+          "conflict_beschrijving": "The intimacy of 'Father' clashes with the apophatic 'beyond understanding'.",
+          "entailment_conflict": "A father is known and relatable; a 'beyond understanding' entity is distant and abstract.",
           "ernst": "LOW"
         }
       ],
@@ -145,143 +146,129 @@
         {
           "locatie": "Conclusion",
           "gemengde_metaforen": [
-            "God as Power (Storm/Ocean)",
-            "God as Intelligence (Nature)",
-            "God as Brother (Tears)"
+            "God as Powerful Creator",
+            "God as Weeping Brother"
           ],
-          "blending_strategie": "Contrastive blending: The preacher uses the 'Power' and 'Intelligence' schemas as a foil to highlight the 'Compassion' schema, making the latter more impactful."
+          "blending_strategie": "The preacher uses the 'Tears of Jesus' as the bridge to reconcile divine omnipotence with divine empathy."
         }
       ]
     },
     "sterktes": [
       {
         "sterkte_type": "REVITALIZATION",
-        "beschrijving": "Re-activates the source domain of the donkey/jackass to emphasize the 'drama' and 'risk' rather than just the tradition.",
-        "voorbeeld": "seeing the prophet from Nazareth on a jackass enter the city... ludicrous and ridiculous."
+        "beschrijving": "Re-activates the 'Donkey' entry by explaining the cultural source domain (Peace vs. War/Horse).",
+        "voorbeeld": "The donkey in old Israel was an animal of great honor... The horse was reserved for warfare."
       },
       {
         "sterkte_type": "EMOTIONAL_RESONANCE",
-        "beschrijving": "Uses embodied metaphors of physical sensation (bitter dregs, sunny side, dark clouds) to ground abstract theology.",
-        "voorbeeld": "nerves are on edge... sit at the bedside... watch them sink."
+        "beschrijving": "Uses the 'Tears' metaphor to bridge the gap between a distant God and human suffering.",
+        "voorbeeld": "They are lifted by the Savior's tears. And in his tears lies our hope."
       }
     ],
     "risicos": [
       {
-        "risico_type": "THERAPEUTIC_REDUCTION",
-        "beschrijving": "By focusing heavily on 'God cares' and 'tears,' the judicial or transformative aspects of the Gospel might be softened into mere empathy.",
-        "voorbeeld": "In his tears lies our hope.",
-        "potentiele_impact": "Congregation may view God as a co-sufferer but not necessarily a transformer of the situation.",
+        "risico_type": "LITERALIZATION",
+        "beschrijving": "The preacher risks literalizing the 'risk' Jesus took, potentially framing the Atonement as a failed political gamble rather than a divine plan.",
+        "voorbeeld": "He was taking what must have been an understood and calculated risk.",
+        "potentiele_impact": "Congregation may view Jesus as a tragic hero rather than a sovereign Savior.",
         "ernst": "MODERATE"
       }
     ],
     "text_world_analyse": {
       "primaire_wereld": "The road to Jerusalem on Palm Sunday, viewed from the Mount of Olives.",
       "sub_worlds": [
-        "The modern American street (sunny side/backdoor)",
-        "The death row cell (racial injustice)",
-        "The sickbed of a loved one",
-        "The Arc of Titus in Rome"
+        "Modern New York/American culture",
+        "The interior 'spirit' of the believer",
+        "The Roman Forum (Arc of Titus)"
       ],
       "world_building_effectiviteit": "VIVID",
       "deictic_shifts": [
         {
           "locatie": "Middle of sermon",
           "van_wereld": "Ancient Jerusalem",
-          "naar_wereld": "Modern New York/American Culture",
-          "effectiviteit": "High; creates a sense of 'prophetic simultaneity'."
+          "naar_wereld": "Modern New York legislature",
+          "effectiviteit": "Strong; connects ancient violence to modern capital punishment."
         }
       ]
     },
     "schema_analyse": {
       "versterkte_schemas": [
         {
-          "schema_naam": "TIME IS A LIMITED RESOURCE",
-          "hoe_versterkt": "Repeated warnings that 'it will not always be so' and the 'but now' of the text."
+          "schema_naam": "God as Empathic Sufferer",
+          "hoe_versterkt": "Repeated emphasis on Jesus weeping at the tomb and over the city."
         }
       ],
       "verstoorde_schemas": [
         {
-          "schema_naam": "GOD IS AN IMPERSONAL FORCE",
-          "verstoring_strategie": "Contrasting the 'roar of the storm' with the 'silent, inward weeping' of Jesus.",
-          "vervangend_schema": "GOD IS A VULNERABLE COMPANION"
+          "schema_naam": "God as Indifferent Power",
+          "verstoring_strategie": "Contrasting the 'roar of the storm' with the 'tears in his eyes'.",
+          "vervangend_schema": "God as Caring Brother"
         }
       ],
-      "liturgische_schema_aansluiting": "Perfectly aligns with the Palm Sunday transition from triumph to the shadow of the Cross."
+      "liturgische_schema_aansluiting": "Perfectly aligns with Palm Sunday liturgy (Hosanna/Crucify tension)."
     }
   },
   "aanbevelingen": {
-    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY and WEATHER domains, used to create a sense of urgency and fragility. It successfully moves from the JURIDICAL/POLITICAL (Rome, capital punishment) to the RELATIONAL (the weeping Savior). The landscape is one of 'perilous' movement where the only stability is the empathy of God.",
+    "metafoor_audit_samenvatting": "The sermon is dominated by the 'LIFE IS A JOURNEY' and 'GOD IS A SYMPATHETIC OBSERVER' domains. It effectively uses spatial metaphors (sunny side of the street, steep roads) to describe moral and emotional states. The theological weight is carried by the 'TEARS' metaphor, which functions as a container for divine grace.",
     "revitalisatie_suggesties": [
       {
-        "doel_metafoor": "The Church as an 'agency'",
-        "huidige_status": "Somewhat bureaucratic/dead.",
-        "suggestie": "Deepen the 'Body' or 'Hospital' metaphor to contrast with the 'Government' metaphor used earlier.",
+        "doel_metafoor": "Spirit/Soul",
+        "huidige_status": "Vague and abstract",
+        "suggestie": "Use more concrete 'Container' or 'Organism' metaphors for the spirit.",
         "strategie": "NARRATIVE_EMBODIMENT",
-        "voorbeeld": "The church not as a building of 'proper ceremony' but as a 'field hospital' for the 'weary souls'."
+        "voorbeeld": "The spirit as a 'starving guest' at the table of our busy lives."
       }
     ],
     "coherentie_verbeteringen": [
       {
-        "incoherentie": "The 'Drama' of the donkey vs. the 'Reality' of the tears.",
-        "resolutie_strategie": "Explicitly link the 'Drama' as the outward sign of the inward 'Tears'—the performance of divine grief."
+        "incoherentie": "Jesus as 'Dramatist' vs. Jesus as 'Savior'",
+        "resolutie_strategie": "Explicitly link the 'Drama' to the 'Sacrifice' to ensure the theatrical metaphor doesn't undermine the reality of the cross."
       }
     ],
     "entailment_checks": [
       {
-        "metafoor": "LIFE IS A JOURNEY (sunny side of the street)",
-        "problematisch_entailment": "Suggests that 'walking' is the only mode of life; ignores those who are 'stationary' or 'sinking'.",
-        "aanbeveling": "Incorporate the 'Container' metaphor (being held) for those who can no longer 'walk'."
+        "metafoor": "OPPORTUNITY IS A DAYLIGHT/SUN",
+        "problematisch_entailment": "Suggests that once the 'sun sets' (opportunity passes), there is no possibility of grace or 'night-time' redemption.",
+        "aanbeveling": "Balance with metaphors of 'God in the dark' or 'Mercy that is new every morning'."
       }
     ],
     "alternatieve_domeinen": [
       {
-        "voorgesteld_domein": "ARCHITECTURAL",
-        "rationale": "To contrast the 'tobacco-brown walls' of Jerusalem with the 'temple of the spirit'.",
-        "doel_concept": "The permanence of God's presence versus the fragility of human cities."
+        "voorgesteld_domein": "AGRARIAN",
+        "rationale": "To ground the 'opportunity' theme in the cycles of sowing and reaping, which allows for more nuance than the binary 'light/dark' of the sun metaphor.",
+        "doel_concept": "Spiritual Growth"
       }
     ],
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A masterclass in using CMT to bridge the gap between ancient text and modern existential anxiety. The use of 'tears' as a conceptual bridge for 'hope' is particularly effective."
+    "slotopmerking": "A masterclass in using embodied metaphors (tears, paths, heels) to make abstract theological concepts like 'Divine Care' and 'Judgment' viscerally felt."
   },
   "comparatieve_analyse": {
-    "verschil_met_esthetiek": "An aesthetic analysis would praise the 'bitter dregs' for its poetic quality; CMT reveals it as a mapping of the 'Involuntary Ingestion' schema to explain the necessity of enduring suffering.",
-    "verschil_met_kolb": "Kolb would focus on the 'Experience' of the crowd; CMT focuses on how the 'Crowd' functions as a source domain for 'Unpredictable Human Loyalty'.",
-    "unieke_inzichten_CMT": "CMT identifies that the preacher's power comes from the 'Verticality' shift: moving from God 'on high' (Power/Intelligence) to God 'beside us' (Brother/Tears)."
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'tobacco-brown walls' imagery, CMT shows how this imagery builds a 'Text World' that makes the judgment of Jerusalem cognitively 'real' for the hearer.",
+    "verschil_met_kolb": "Unlike Kolb's experiential learning cycles, CMT focuses on the underlying conceptual mappings (e.g., TIME IS SPACE) that allow the hearer to apply the 'Palm Sunday' story to their own 'Journey'.",
+    "unieke_inzichten_CMT": "CMT reveals that the preacher’s power comes from mapping the physical sensation of 'tears' onto the abstract concept of 'divine providence', making God's care 'graspable'."
   },
   "appendices": {
     "volledige_metafoor_lijst": [
-      "parting gift",
-      "bow our heads",
-      "lift up our hearts",
-      "throw ourselves upon thy mercy",
-      "restored to right relations",
       "uncertain and perilous journey",
-      "borne down with sorrow",
       "bitter dregs of defeat",
-      "under the political heel",
+      "political heel of Rome",
       "fan the flames of nationalism",
       "seething with resentment",
       "sunny side of the street",
-      "undertone of lost chance",
-      "smiling city",
+      "tobacco-brown walls",
+      "capital of religion",
       "fed their imaginations",
       "springtime of life",
-      "dark clouds will come",
-      "angry winds",
-      "chilling reminder",
-      "approaching doom",
-      "roar of the ocean",
-      "screaming storm",
-      "dark, muddy corner of the cosmos"
+      "dark clouds of Sinai",
+      "God as Brother"
     ],
     "woord_frequentie_analyse": {
-      "God": "18",
       "city": "14",
       "violence": "9",
-      "wept/tears": "8",
-      "known": "7",
-      "opportunity": "5"
+      "opportunity": "6",
+      "wept": "5",
+      "care": "8"
     },
-    "notities": "The preacher uses a 'Prophetic' register, frequently shifting between the 'Text World' of 33 AD and the 'Current World' of the 1970s (implied by the Martin Luther King Jr. and capital punishment references)."
+    "notities": "The preacher uses a high frequency of 'Verticality' metaphors (bow heads, lift hearts, high on Mount Zion) to establish the God-human relationship."
   }
 }

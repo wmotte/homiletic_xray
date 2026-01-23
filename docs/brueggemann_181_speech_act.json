@@ -2,83 +2,93 @@
   "metadata": {
     "titel_preek": "Lowell Zuck Memorial Sermon",
     "bijbeltekst": "Ephesians 4:22–5:2",
-    "analyse_datum": "2024-05-22",
+    "analyse_datum": "2023-10-27",
     "geschat_aantal_woorden": "1150"
   },
   "drievoudige_structuur_analyse": {
     "locutie": {
-      "beschrijving": "A biographical and theological reflection on the life of Lowell Zuck, framed by the Pauline metaphor of 'putting on the new self' and the German Evangelical tradition.",
-      "exegetische_kwaliteit": "Moderate. The text is used as a template for character traits rather than a theological exploration of the 'in Christ' reality.",
-      "omvang_procent": "85%"
+      "beschrijving": "A biographical and theological reflection on the life of Lowell Zuck, connecting his character to the Pauline 'new self' and the German Evangelical tradition.",
+      "exegetische_kwaliteit": "Moderate. The exegesis is illustrative; the text is used as a template for the deceased's character rather than being unfolded in its own historical-redemptive context.",
+      "omvang_procent": "90%"
     },
     "illocutie": {
       "beschrijving": "The primary force is commemorative and descriptive. The preacher is 'talking about' a life and a tradition.",
       "primaire_kracht": "ASSERTING",
-      "helderheid_score": 6,
+      "helderheid_score": "6",
       "voorbeelden": [
-        "Lowell was respected in the faculty.",
-        "He taught us that the tradition of Pietism... was an irenic community."
+        "It is impossible for me to think of Eden Seminary without...",
+        "He taught us that the tradition of Pietism...",
+        "Lowell knew that in his bones!"
       ]
     },
     "perlocutie": {
-      "beoogd_effect": "Nostalgia, appreciation for the deceased, and a sense of historical continuity.",
+      "beoogd_effect": "Nostalgia, appreciation for the deceased, and a general sense of comfort regarding his eternal state.",
       "pneumatologisch_bewustzijn": "Low. The Spirit is mentioned in the scripture reading, but not as the active agent of the sermon event.",
       "perlocutionaire_werkwoorden": [
         "remember",
         "celebrate",
         "appreciate",
-        "grieve"
+        "miss"
       ]
     }
   },
   "werkwoord_analyse": {
     "assertieven": {
-      "frequentie": "82",
-      "procent": "75%",
+      "frequentie": "84",
+      "procent": "85%",
       "voorbeelden": [
-        "It is impossible for me to think of Eden Seminary without thinking of Lowell Zuck.",
+        "Lowell was respected in the faculty.",
         "He was a very private person.",
-        "Lowell knew that in his bones."
+        "He taught us that the tradition..."
       ],
       "dominante_werkwoorden": [
         "was",
-        "became",
         "taught",
-        "knew",
-        "is"
+        "lived",
+        "brought",
+        "knew"
       ]
     },
     "directieven": {
       "frequentie": "4",
-      "procent": "3%",
+      "procent": "4%",
       "voorbeelden": [
-        "putting away falsehood, let all of us speak the truth",
-        "be kind to one another"
+        "Let all of us speak the truth (Scripture quote)",
+        "Be angry but do not sin (Scripture quote)"
       ],
       "dominante_werkwoorden": [
         "let",
         "be",
-        "put away"
+        "do not"
       ],
       "fundament_check": false
     },
     "expressieven": {
-      "frequentie": "12",
-      "procent": "10%",
+      "frequentie": "8",
+      "procent": "8%",
       "voorbeelden": [
         "I want to talk about and celebrate today.",
-        "I enjoyed his puckish good humor.",
-        "We grieve deeply at his death."
+        "While we grieve deeply at his death..."
       ],
       "dominante_werkwoorden": [
         "want",
-        "enjoy",
-        "grieve",
-        "celebrate"
+        "celebrate",
+        "grieve"
       ]
     },
     "commissieven": {
       "frequentie": "2",
+      "procent": "2%",
+      "voorbeelden": [
+        "We also have confidence that Lowell... continues to be attuned to the mercy of God."
+      ],
+      "dominante_werkwoorden": [
+        "have confidence"
+      ],
+      "kwaliteit": "Weak. The 'promise' is framed as a human confidence or hope rather than a divine binding word."
+    },
+    "declaratieven": {
+      "frequentie": "1",
       "procent": "1%",
       "voorbeelden": [
         "God welcomes all with abiding presence."
@@ -86,42 +96,37 @@
       "dominante_werkwoorden": [
         "welcomes"
       ],
-      "kwaliteit": "Weak. The promises are framed as general theological hopes rather than direct addresses to the hearer."
-    },
-    "declaratieven": {
-      "frequentie": "0",
-      "procent": "0%",
-      "voorbeelden": [],
-      "dominante_werkwoorden": [],
-      "autoriteit": "Absent. The preacher does not perform a reality-changing act (e.g., 'I declare you forgiven')."
+      "autoriteit": "Low. The preacher describes God's welcoming nature as a general truth (assertive) rather than performing the welcome in the moment."
     }
   },
   "constatief_performatief_diagnose": {
     "primaire_classificatie": "CONSTATIVE_SURPLUS",
-    "constatief_percentage": "90%",
-    "performatief_percentage": "10%",
+    "constatief_percentage": "92%",
+    "performatief_percentage": "8%",
     "constatief_surplus_analyse": {
       "aanwezig": true,
       "ernst": "SEVERE",
       "indicatoren": [
-        "Heavy use of 'He was' and 'He taught'.",
-        "The sermon functions as a lecture on history and biography."
+        "Heavy use of past tense ('He was', 'He taught')",
+        "Third-person focus on the deceased",
+        "Biographical narrative dominates the theological address"
       ],
-      "effect_op_hoorder": "The hearer remains an observer of a past life rather than a participant in a present grace."
+      "effect_op_hoorder": "The hearer becomes a spectator of a biography rather than a participant in a divine encounter."
     },
     "performatief_deficit_analyse": {
       "aanwezig": true,
-      "ernst": "CRITICAL",
+      "ernst": "SEVERE",
       "missende_elementen": [
-        "Direct address of the Gospel promise (Toezegging).",
-        "Absolution or authoritative blessing."
+        "Absolution",
+        "Direct promise to the grieving",
+        "Sacramental declaration of the Gospel"
       ],
-      "effect_op_hoorder": "Information about a good man, but no direct encounter with the living Christ."
+      "effect_op_hoorder": "Information about a good man is received, but the 'Word of God' as an active power is absent."
     },
     "toezegging_check": {
       "toezegging_aanwezig": false,
-      "aantal_toezeggen": 0,
-      "kwaliteit_toezeggen": "Non-existent as a direct address.",
+      "aantal_toezeggen": "0",
+      "kwaliteit_toezeggen": "N/A",
       "voorbeelden": [],
       "moment_in_preek": "N/A"
     }
@@ -129,197 +134,204 @@
   "adressering_analyse": {
     "persoonsvorm_distributie": {
       "eerste_persoon": {
-        "frequentie": "24",
-        "gebruik": "Predominantly the preacher's personal memories ('I figured out', 'I want to consider')."
+        "frequentie": "22",
+        "gebruik": "Personal reminiscence ('I figured out', 'I want to celebrate')."
       },
       "tweede_persoon": {
-        "frequentie": "2",
-        "gebruik": "Limited to the scripture reading ('You were taught').",
-        "performatieve_context": "None."
+        "frequentie": "4",
+        "gebruik": "Only within the Scripture reading ('You were taught').",
+        "performatieve_context": "None. The preacher does not address the congregation as 'you' to deliver a promise."
       },
       "derde_persoon": {
         "frequentie": "58",
-        "gebruik": "Describing Lowell Zuck and the German Evangelical tradition.",
-        "distantie_effect": "High. The sermon is about 'him' and 'them', not 'you'."
+        "gebruik": "Talking about Lowell, Paul, or 'the tradition'.",
+        "distantie_effect": "High. It creates a lecture-like atmosphere."
       }
     },
     "tijdsdimensie": {
       "verleden_tijd": {
         "frequentie": "70%",
-        "gebruik": "Biographical narrative."
+        "gebruik": "Historical and biographical narrative."
       },
       "tijdloos_present": {
-        "frequentie": "20%",
-        "gebruik": "General truths about the tradition."
+        "frequentie": "25%",
+        "gebruik": "General theological truths about the tradition."
       },
       "actueel_present": {
-        "frequentie": "10%",
-        "gebruik": "The act of singing the final hymn."
+        "frequentie": "5%",
+        "gebruik": "The immediate act of singing or celebrating."
       }
     },
-    "adressering_effectiviteit": 2
+    "adressering_effectiviteit": "3"
   },
   "sacramenteel_patroon_analyse": {
     "patroon_identificatie": "FAULTY",
     "foutief_patroon": {
       "aanwezig": true,
-      "beschrijving": "Assertive (Lowell's life) -> Directive (Implicit: be like Lowell).",
+      "beschrijving": "The sermon moves from Assertive (Lowell's life) to Assertive (The tradition) to Expressive (Let us sing).",
       "voorbeelden": [
-        "His very person is a reminder and a summons to us."
+        "Lowell was kind... He taught us pietism... Now thank we all our God."
       ],
-      "probleem": "The 'summons' is based on human example rather than divine promise."
+      "probleem": "It lacks the 'Toezegging' (Promise) that bridges the indicative of the past to the life of the hearer."
     },
     "sacramenteel_patroon": {
       "aanwezig": false,
-      "beschrijving": "Missing the Declarative/Commissive link.",
+      "beschrijving": "N/A",
       "voorbeelden": [],
-      "kwaliteit": "Poor"
+      "kwaliteit": "Non-existent"
     },
     "indicatief_imperatief_verhouding": {
       "indicatief_aanwezig": true,
       "imperatief_gefundeerd": false,
       "voorbeelden_goede_verhouding": [],
       "voorbeelden_slechte_verhouding": [
-        "Lowell embodied kindness... therefore be imitators (of Lowell/God)."
+        "The scripture quotes imperatives (Put away falsehood), but the sermon doesn't ground them in a present declarative of grace."
       ]
     }
   },
   "diagnostische_evaluatie": {
     "primaire_diagnose": "INFORMATIVE_TEACHING",
-    "diagnose_toelichting": "The sermon functions as a eulogy-lecture. It provides excellent historical and biographical data but fails to function as a sacramental event where God addresses the hearer.",
+    "diagnose_toelichting": "The sermon functions as a eulogy and a history lesson. It informs the congregation about a man and a tradition but fails to perform the Gospel as an event.",
     "sterke_punten": [
       {
-        "aspect": "Historical Locution",
-        "categorie": "Locutie",
-        "tekstueel_bewijs": "He taught us that the tradition of Pietism... was an irenic community.",
-        "effect": "Strong sense of identity and heritage."
+        "aspect": "Narrative Coherence",
+        "categorie": "Locution",
+        "tekstueel_bewijs": "The connection between Lowell's character and the 'Union Men' tradition.",
+        "effect": "Creates a clear intellectual legacy."
       }
     ],
     "zwakke_punten": [
       {
-        "aspect": "Lack of Performative Address",
-        "categorie": "Illocutie",
-        "tekstueel_bewijs": "Entirety of the text.",
-        "probleem": "The preacher never speaks 'for' God to the people.",
+        "aspect": "Lack of Address",
+        "categorie": "Illocution",
+        "tekstueel_bewijs": "The entire sermon lacks a direct 'You' to the congregation.",
+        "probleem": "The hearer is never addressed by God.",
         "ernst": "CRITICAL"
       }
     ],
-    "gebeuren_score": 3,
-    "gebeuren_toelichting": "It is a 'happening' of memory, but not a 'happening' of the Word of God breaking into the present.",
-    "sacramentele_kracht": 2,
-    "sacramentele_toelichting": "The sermon describes grace in the past tense but does not dispense it in the present."
+    "gebeuren_score": "2",
+    "gebeuren_toelichting": "It is a 'talk about' an event (Lowell's life) rather than being an event itself.",
+    "sacramentele_kracht": "1",
+    "sacramentele_toelichting": "There is no 'Proclamation' (Kerygma) that creates what it says."
   },
   "theologische_diepte_analyse": {
     "openbaringsleer": {
-      "god_als_spreker": "No. The preacher is the speaker talking about God.",
-      "prediker_als_mandataris": "No. The preacher acts as a historian/friend.",
+      "god_als_spreker": "No. God is the object of Lowell's 'attunement', not the subject of the speaking.",
+      "prediker_als_mandataris": "No. The preacher speaks as a colleague and admirer, not as an ambassador of Christ.",
       "tekstueel_bewijs": [
-        "It is... Lowell’s personal style and presence that I want to talk about."
+        "It is impossible for me to think...",
+        "I want to talk about..."
       ]
     },
     "pneumatologie": {
       "geest_rol_erkend": "Only in the quoted scripture.",
-      "perlocutie_theologie": "Absent.",
-      "tekstueel_bewijs": []
+      "perlocutie_theologie": "Implicitly left to the hymn singing at the end.",
+      "tekstueel_bewijs": [
+        "And do not grieve the Holy Spirit (Quote)"
+      ]
     },
     "sacramentstheologie": {
       "preek_als_genademiddel": "No. The sermon is a tribute.",
-      "epifanisch_taalgebruik": "No.",
-      "tekstueel_bewijs": []
+      "epifanisch_taalgebruik": "No. The language is descriptive and historical.",
+      "tekstueel_bewijs": [
+        "He taught us that the tradition..."
+      ]
     }
   },
   "aanbevelingen": {
-    "werkwoord_audit_samenvatting": "The sermon is paralyzed by the past-tense 'was'.",
+    "werkwoord_audit_samenvatting": "The sermon is paralyzed by the past tense 'was'. It needs a shift to the present tense 'is' and 'gives'.",
     "performatieve_intensivering": {
       "nodig": true,
       "specifieke_suggesties": [
         {
           "huidige_formulering": "Lowell who was attuned to the mystery of God continues to be attuned to the mercy of God.",
-          "voorgestelde_revisie": "Today, the same mercy that held Lowell holds you. God promises you that same eternal welcome.",
-          "verschil": "Shifts from a description of Lowell's state to a promise to the hearer."
+          "voorgestelde_revisie": "Today, the same mercy that held Lowell holds you. God welcomes you into that same irenic peace.",
+          "verschil": "Shifts from a description of Lowell's state to a promise for the hearer."
         }
       ]
     },
     "toezegging_versterking": {
       "nodig": true,
-      "probleem": "Grace is treated as a historical attribute of a person, not a gift for the audience.",
-      "suggestie": "Use the 'Union' tradition not as a history lesson, but as a present declaration of peace.",
+      "probleem": "The grace of God is treated as a historical attribute of a tradition rather than a gift offered now.",
+      "suggestie": "Use the 'Union Men' concept to declare peace over the congregation.",
       "voorbeeldzinnen": [
-        "In the name of Christ, I announce to you: you are members of one another."
+        "In the name of Christ, I declare to you: you are members of one another."
       ]
     },
     "adressering_verbetering": {
       "nodig": true,
-      "probleem": "Too much 'I' and 'He'.",
-      "suggestie": "Increase 'You' (plural) to involve the congregation in the 'New Self'.",
+      "probleem": "The congregation is treated as an audience of a biography.",
+      "suggestie": "Directly address the mourners.",
       "voorbeeldzinnen": [
-        "Christ clothes *you* today in this new self."
+        "You who grieve today, hear this promise..."
       ]
     },
     "indicatief_imperatief_herstel": {
       "nodig": true,
-      "probleem": "The imperative is based on Lowell's example.",
-      "suggestie": "Base the call to kindness on the fact that God *has* forgiven the hearer."
+      "probleem": "The imperatives are trapped in the Bible reading.",
+      "suggestie": "Bring the imperatives into the present based on the promise of the new self."
     },
     "overall_beoordeling": "NEEDS_IMPROVEMENT",
-    "slotopmerking": "The sermon is a beautiful tribute, but to become a 'homiletic event,' it must move from the third-person past to the second-person present."
+    "slotopmerking": "While a beautiful tribute to a colleague, this text functions as a lecture/eulogy. To become a sermon, it must move from 'talking about Lowell' to 'proclaiming Christ to the hearer'."
   },
   "comparatieve_analyse": {
-    "verschil_met_schulz_von_thun": "SvT would see this as a successful 'Self-Revelation' of the preacher's feelings. SAT reveals it fails as a 'Divine Act'.",
+    "verschil_met_schulz_von_thun": "SvT would see this as a successful 'Self-Revelation' of the preacher's respect for Lowell. SAT reveals it fails as a 'Declarative' act of God.",
     "verschil_met_retoriek": "Rhetorically, it is a good epideictic speech. Homiletically, it lacks illocutionary force.",
-    "unieke_inzichten_SAT": "SAT exposes that despite the 'holy' topic, the language remains purely constative (descriptive)."
+    "unieke_inzichten_SAT": "SAT exposes that despite the 'orthodox' content, the grammatical structure (3rd person, past tense) prevents the sermon from becoming a sacramental encounter."
   },
   "appendices": {
     "volledige_werkwoord_lijst": {
       "assertief": [
         "was",
-        "is",
         "taught",
+        "lived",
         "knew",
-        "became",
-        "served",
+        "respected",
+        "gravitated",
         "found",
         "figured",
         "brought",
         "wrote",
+        "reminded",
         "embodied",
         "mistook",
-        "lived"
+        "yields"
       ],
       "directief": [
+        "put away",
+        "be renewed",
+        "clothe",
         "speak",
-        "be",
-        "give up",
-        "let",
-        "put away"
+        "be angry",
+        "do not sin",
+        "labor",
+        "be kind"
       ],
       "expressief": [
+        "think",
         "enjoy",
         "want",
         "celebrate",
         "grieve",
-        "miss"
+        "miss",
+        "hope"
       ],
       "commissief": [
-        "welcomes",
-        "is ours"
+        "have confidence",
+        "is ours today"
       ],
-      "declaratief": []
+      "declaratief": [
+        "welcomes"
+      ]
     },
     "kernzinnen_analyse": [
       {
-        "zin": "He taught us that the tradition of Pietism... was an irenic community.",
+        "zin": "It is not hard to imagine that Paul has in mind Lowell when he wrote those words.",
         "categorie": "ASSERTIVE",
-        "illocutionaire_kracht": "Informative",
-        "effectiviteit": "Low (Lecture-like)"
-      },
-      {
-        "zin": "God welcomes all with abiding presence.",
-        "categorie": "ASSERTIVE/COMMISSIVE",
-        "illocutionaire_kracht": "General Truth",
-        "effectiviteit": "Moderate (Lacks direct address)"
+        "illocutionaire_kracht": "Weak assertion/opinion",
+        "effectiviteit": "Low; it subordinates the Word to the biography."
       }
     ],
-    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher talks *about* faith rather than *performing* the word of faith."
+    "notities": "The sermon is a classic example of 'Constative Surplus' where the preacher talks about faith rather than speaking from faith to faith."
   }
 }

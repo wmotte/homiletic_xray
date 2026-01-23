@@ -11,45 +11,45 @@
         "domein_type": "MEDICAL",
         "prominentie_score": "9",
         "kernfrasen": [
-          "The Bible can venture to give full weight to the gravity of sickness because it knows the remedy",
+          "The Bible can venture to give full weight to the gravity of sickness because it knows the remedy.",
           "humanity afflicted with the sickness unto death",
           "miracle of God’s in-breaking power"
         ],
-        "conceptuele_metafoor": "SIN IS A TERMINAL ILLNESS; SALVATION IS DIVINE RESUSCITATION"
-      },
-      {
-        "domein_type": "JOURNEY",
-        "prominentie_score": "7",
-        "kernfrasen": [
-          "I have been on a trip with this unique prophet",
-          "what a ride it has been",
-          "preparing, today, to enter Holy Week"
-        ],
-        "conceptuele_metafoor": "THEOLOGICAL REFLECTION IS A JOURNEY"
+        "conceptuele_metafoor": "SIN IS A TERMINAL SICKNESS; SALVATION IS DIVINE HEALING"
       },
       {
         "domein_type": "ECONOMIC",
-        "prominentie_score": "6",
+        "prominentie_score": "7",
         "kernfrasen": [
           "The wages of sin is death",
           "poor economy to have to deal with the b—s— of religion",
           "unable to collect some righteous peace of mind",
-          "because we earned his mercy"
+          "because we earned his mercy or because we deserve it"
         ],
-        "conceptuele_metafoor": "MORALITY IS A FINANCIAL BALANCE SHEET"
+        "conceptuele_metafoor": "MORALITY IS AN ECONOMIC BALANCE SHEET"
+      },
+      {
+        "domein_type": "JOURNEY",
+        "prominentie_score": "5",
+        "kernfrasen": [
+          "I have been on a trip with this unique prophet",
+          "what a ride it has been",
+          "mountaintop passages"
+        ],
+        "conceptuele_metafoor": "SCRIPTURAL INTERPRETATION IS A JOURNEY"
       }
     ],
     "metafoor_inventaris": [
       {
         "metafoor_expressie": "The wages of sin is death",
         "brondomein": {
-          "naam": "Labor/Finance",
+          "naam": "Labor/Commerce",
           "concrete_elementen": [
             "wages",
             "payment",
-            "employer"
+            "work"
           ],
-          "belichaamde_basis": "balance"
+          "belichaamde_basis": "Balance"
         },
         "doeldomein": {
           "theologisch_concept": "Judgment/Consequence",
@@ -57,207 +57,168 @@
         },
         "mapping_structuur": [
           {
-            "bron_element": "Work performed",
-            "doel_element": "Sinful life"
+            "bron_element": "Labor performed",
+            "doel_element": "Sinful living"
           },
           {
             "bron_element": "Payment received",
-            "doel_element": "Death"
+            "doel_element": "Spiritual/Physical death"
           }
         ],
         "entailments": {
           "cognitieve_implicaties": [
-            "Death is a fair and earned result of one's actions"
+            "Death is a fair and earned result of one's actions."
           ],
           "theologische_implicaties": [
-            "God's judgment is not arbitrary but a logical outcome of human agency"
+            "Justice requires a specific outcome for sin."
           ],
           "ethische_implicaties": [
-            "Individual responsibility for moral choices"
+            "Human effort cannot 'buy' a different outcome."
           ],
           "onbedoelde_consequenties": [
-            "God as a cold employer rather than a loving creator"
+            "God might be viewed as a cold paymaster rather than a loving creator."
           ]
         },
         "vitaliteit_status": "CONVENTIONAL",
-        "vitaliteit_toelichting": "A standard Pauline metaphor, though revitalized here by contrasting it with McInerney's 'poor economy' phrase."
-      },
-      {
-        "metafoor_expressie": "Ezekiel connected them dry bones",
-        "brondomein": {
-          "naam": "Anatomy/Construction",
-          "concrete_elementen": [
-            "bones",
-            "joints",
-            "rattling"
-          ],
-          "belichaamde_basis": "container/object"
-        },
-        "doeldomein": {
-          "theologisch_concept": "Restoration of the Covenant Community",
-          "doctrinale_traditie": "Prophetic/Eschatological"
-        },
-        "mapping_structuur": [
-          {
-            "bron_element": "Scattered bones",
-            "doel_element": "Exiled/Broken Israel"
-          },
-          {
-            "bron_element": "Breath/Spirit",
-            "doel_element": "Divine Life/Holy Spirit"
-          }
-        ],
-        "entailments": {
-          "cognitieve_implicaties": [
-            "Hope is possible even when structural integrity is lost"
-          ],
-          "theologische_implicaties": [
-            "Resurrection is a corporate as well as individual reality"
-          ],
-          "ethische_implicaties": [
-            "Reliance on divine power rather than human effort"
-          ],
-          "onbedoelde_consequenties": [
-            "Reduction of faith to biological reanimation"
-          ]
-        },
-        "vitaliteit_status": "LIVING",
-        "vitaliteit_toelichting": "The preacher uses the sensory details (rattling, dry) and the cultural history of spirituals to make the metaphor visceral."
+        "vitaliteit_toelichting": "A standard Pauline metaphor, though revitalized here by contrasting it with the 'poor economy' of the secular memoir."
       }
     ]
   },
   "diagnostische_evaluatie": {
     "coherentie_analyse": {
       "overall_coherentie": "MOSTLY_COHERENT",
-      "coherentie_verklaring": "The preacher successfully bridges the gap between the Economic domain (wages/earning) and the Medical/Biological domain (sickness/death) by using the concept of 'Grace' as the disruptor of both systems.",
+      "coherentie_verklaring": "The preacher successfully bridges the gap between the 'Dry Bones' (Biological/Medical) and the 'Wages of Sin' (Economic) by framing God's 'Holy Name' as the factor that overrides both biological decay and economic debt.",
       "incoherentie_punten": [
         {
           "locatie": "Conclusion",
-          "metafoor_a": "GOD AS SOVEREIGN (Acting for His Name)",
-          "metafoor_b": "GOD AS RESCUER (Snatching from jaws of death)",
-          "conflict_beschrijving": "The first emphasizes God's self-interest/glory, the second emphasizes God's rescue of the individual.",
-          "entailment_conflict": "Is the motivation for salvation God's reputation or the victim's plight?",
+          "metafoor_a": "Snatches us from the very jaws of death",
+          "metafoor_b": "Lazarus, come forth",
+          "conflict_beschrijving": "The first implies a predatory animal/trap (Military/Nature), the second a verbal command to a friend (Relational).",
+          "entailment_conflict": "Is death a monster to be fought or a sleep from which one is called?",
           "ernst": "LOW"
         }
       ],
       "succesvolle_blending": [
         {
-          "locatie": "Discussion of McInerney's mother",
+          "locatie": "Discussion of Ezekiel 36:22",
           "gemengde_metaforen": [
-            "Economic (Wages)",
-            "Medical (Cancer/Death)"
+            "Economic (merit/earning)",
+            "Relational (Holy Name/Nature)"
           ],
-          "blending_strategie": "The preacher uses the mother's literal sickness to validate the metaphorical 'sickness of sin', while using the son's economic language to show the futility of 'earning' peace."
+          "blending_strategie": "The preacher uses the 'Holy Name' as a container for God's character that negates the 'Economic' requirement of human merit."
         }
       ]
     },
     "sterktes": [
       {
         "sterkte_type": "REVITALIZATION",
-        "beschrijving": "Revitalizes the 'Dry Bones' metaphor by linking it to the visceral experience of the African American spiritual tradition and the literal death of a contemporary figure.",
+        "beschrijving": "Re-activates the 'Dry Bones' metaphor by connecting it to the sensory 'rattling' and the cultural history of spirituals.",
         "voorbeeld": "The foot bone connected to the leg bone, now hear the Word of the Lord!"
       }
     ],
     "risicos": [
       {
         "risico_type": "THERAPEUTIC_REDUCTION",
-        "beschrijving": "By framing sin as a 'sickness unto death' from which one needs a 'remedy', there is a risk of removing the moral agency of the sinner.",
-        "voorbeeld": "The Bible can venture to give full weight to the gravity of sickness because it knows the remedy.",
-        "potentiele_impact": "Congregants may view sin as a misfortune to be cured rather than a rebellion requiring repentance.",
+        "beschrijving": "By framing sin primarily as a 'sickness unto death,' there is a risk of removing the agency of the sinner.",
+        "voorbeeld": "The Bible can venture to give full weight to the gravity of sickness.",
+        "potentiele_impact": "Congregation may view sin as something that happens to them rather than something they do.",
         "ernst": "MODERATE"
       }
     ],
     "text_world_analyse": {
       "primaire_wereld": "The Valley of Dry Bones (Ezekiel's vision)",
       "sub_worlds": [
-        "The modern 'highbrow' intellectual world of the NY Review of Books",
-        "The deathbed of Jay McInerney’s mother",
+        "The deathbed of McInerney's mother",
+        "The 'highbrow' world of cultural critics",
         "The tomb of Lazarus"
       ],
       "world_building_effectiviteit": "VIVID",
       "deictic_shifts": [
         {
-          "locatie": "Introduction",
-          "van_wereld": "Modern Connecticut/Intellectual critique",
-          "naar_wereld": "The Valley of Dry Bones",
-          "effectiviteit": "Strong; creates a sense of 'unblinking scrutiny' against modern skepticism."
+          "locatie": "Transition from McInerney to Ezekiel",
+          "van_wereld": "Modern New York/Connecticut",
+          "naar_wereld": "Ancient Babylonian Exile",
+          "effectiviteit": "High; creates a bridge between modern despair and ancient hope."
         }
       ]
     },
     "schema_analyse": {
       "versterkte_schemas": [
         {
-          "schema_naam": "God as Sovereign Actor",
-          "hoe_versterkt": "Repeated emphasis that God acts 'for the sake of my holy name' regardless of human merit."
+          "schema_naam": "God as Sovereign Life-Giver",
+          "hoe_versterkt": "Emphasis on the Spirit/Breath as the only source of life."
         }
       ],
       "verstoorde_schemas": [
         {
-          "schema_naam": "Salvation as Meritocracy",
-          "verstoring_strategie": "Using the 'dry bones' (incapable of self-help) to show that life is purely a gift of the Spirit.",
-          "vervangend_schema": "Salvation as Divine Resuscitation"
+          "schema_naam": "God as a Transactional Partner",
+          "verstoring_strategie": "Challenging the idea that we 'collect' peace based on 'righteousness'.",
+          "vervangend_schema": "God as the One who acts 'for the sake of His name' (Grace-based)."
         }
       ],
-      "liturgische_schema_aansluiting": "Strongly aligns with the Lenten theme of mortality and the 'death' of the self before Easter."
+      "liturgische_schema_aansluiting": "Fits the Lenten theme of mortality and the 'central myth' of resurrection."
     }
   },
   "aanbevelingen": {
-    "metafoor_audit_samenvatting": "The sermon is dominated by the tension between the Economic domain (earning/wages) and the Biological/Medical domain (death/life). It uses the 'Dry Bones' as a master metaphor for total human inability, which effectively counters the 'highbrow' intellectualism mentioned at the start.",
+    "metafoor_audit_samenvatting": "The sermon is dominated by the tension between the Economic domain (merit/wages) and the Medical/Biological domain (death/breath). It effectively uses the 'Dryness' of the bones as a metaphor for spiritual exhaustion and cultural cynicism.",
     "revitalisatie_suggesties": [
       {
         "doel_metafoor": "SIN IS SICKNESS",
-        "huidige_status": "Risk of being a dead metaphor or too therapeutic.",
-        "suggestie": "Deepen the source domain by describing the 'stench' or 'decay' of the bones more vividly to emphasize the gravity of sin.",
+        "huidige_status": "Somewhat conventional/abstract.",
+        "suggestie": "Incorporate more embodied descriptions of the 'symptoms' of spiritual dryness.",
         "strategie": "DEEPEN_SOURCE",
-        "voorbeeld": "The dry, bleached, and marrowless state of our own spiritual exhaustion."
+        "voorbeeld": "Describe the 'thirst' or 'atrophy' of the soul in the valley."
       }
     ],
     "coherentie_verbeteringen": [
       {
-        "incoherentie": "The shift between 'God's holy name' (Theocentric) and 'snatching us from jaws' (Anthropocentric).",
-        "resolutie_strategie": "Explicitly state that God's glory *is* His mercy, merging the two motivations."
+        "incoherentie": "The shift from 'wages' (Economic) to 'breath' (Biological).",
+        "resolutie_strategie": "Explicitly state that the 'Spirit' is a gift that pays the 'debt' of death."
       }
     ],
     "entailment_checks": [
       {
-        "metafoor": "GOD IS A RESCUER",
-        "problematisch_entailment": "If God 'snatches' us, does he violate human will?",
-        "aanbeveling": "Balance with the 'Lazarus, come forth' command which requires a response/movement from the one called."
+        "metafoor": "GOD IS A PHYSICIAN",
+        "problematisch_entailment": "If God is a physician, is sin just a virus we caught by accident?",
+        "aanbeveling": "Balance with the 'Judgment' aspect to maintain moral responsibility."
       }
     ],
     "alternatieve_domeinen": [
       {
         "voorgesteld_domein": "ARCHITECTURAL",
-        "rationale": "To bridge the 'reconnecting' of bones with the building of a community/church.",
-        "doel_concept": "The Church as a Reconstructed Body"
+        "rationale": "To describe the 'tomb' or 'walls' closing in, providing a concrete sense of being trapped.",
+        "doel_concept": "The feeling of hopelessness"
       }
     ],
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A masterful use of CMT to deconstruct modern secularism and reconstruct a robust, Spirit-centered theology of grace."
+    "slotopmerking": "A masterful use of CMT to deconstruct secular 'righteousness' and reconstruct a theology of grace through vivid, embodied imagery."
   },
   "comparatieve_analyse": {
-    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'goose bumps' of the spirituals, CMT shows how those spirituals function as cognitive maps for survival and hope.",
-    "verschil_met_kolb": "Unlike Kolb's focus on the preacher's 'role', CMT focuses on the mental 'Text World' the hearer inhabits.",
-    "unieke_inzichten_CMT": "CMT reveals that the preacher is using the 'Dry Bones' not just as a story, but as a schema-disruption tool to break the 'God as a cop' or 'God as a business partner' mental models."
+    "verschil_met_esthetiek": "While an aesthetic analysis would praise the 'goosebumps' of the rattling bones, CMT reveals how that rattling functions as a cognitive shift from 'static death' to 'dynamic process'.",
+    "verschil_met_kolb": "Unlike Kolb's focus on the preacher's 'intent', CMT focuses on how the 'Economic' language of McInerney's memoir creates a specific mental constraint for the hearer.",
+    "unieke_inzichten_CMT": "CMT identifies that the 'Holy Name' is used as a Source Domain for 'Unconditional Nature', which allows the preacher to bypass the 'Economic' logic of the 'ex-Christian' critic."
   },
   "appendices": {
     "volledige_metafoor_lijst": [
-      "soak up the rituals",
-      "siren call of the NY Review",
+      "central myth",
+      "soak up rituals",
+      "siren call",
       "wages of sin",
-      "God is in the forgiving business",
-      "dry bones",
       "sickness unto death",
-      "snatches us from the jaws of death",
+      "dry bones",
+      "clean cut off",
+      "jaws of death",
+      "snatches us",
       "tomb closing in"
     ],
     "woord_frequentie_analyse": {
       "bones": "14",
+      "death": "12",
+      "life": "11",
       "myth": "8",
-      "life": "12",
-      "death": "9",
-      "spirit": "7"
+      "spirit": "7",
+      "righteousness": "6"
     },
-    "notities": "The sermon relies heavily on the 'Container' schema (in the valley, in the tomb, in the church) to create a sense of being trapped before the 'Spirit' (Force schema) breaks in."
+    "notities": "The sermon relies heavily on the 'Container' schema (in the valley, in the church, in the tomb) to create a sense of entrapment that only the 'Breath' (Force schema) can break."
   }
 }

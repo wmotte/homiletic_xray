@@ -2,7 +2,7 @@
   "metadata": {
     "titel_preek": "Money in Trust",
     "bijbeltekst": "Matthew 25:14-30; 1 Thessalonians 5:4-8",
-    "analyse_datum": "2024-05-22",
+    "analyse_datum": "2023-10-27",
     "geschat_aantal_woorden": "1650"
   },
   "primaire_analyse": {
@@ -15,13 +15,13 @@
           "stock portfolio",
           "investment banker",
           "keep it moving",
-          "hiring money managers"
+          "giving up some of our money"
         ],
-        "conceptuele_metafoor": "FAITHFULNESS IS FINANCIAL STEWARDSHIP"
+        "conceptuele_metafoor": "FAITHFULNESS IS RESPONSIBLE ASSET MANAGEMENT"
       },
       {
         "domein_type": "MILITARY",
-        "prominentie_score": "4",
+        "prominentie_score": "6",
         "kernfrasen": [
           "weapons of warfare",
           "battle to the death",
@@ -32,11 +32,11 @@
       },
       {
         "domein_type": "JOURNEY",
-        "prominentie_score": "3",
+        "prominentie_score": "4",
         "kernfrasen": [
           "long green season",
           "coming to its conclusion",
-          "shifts into high gear"
+          "end-time"
         ],
         "conceptuele_metafoor": "THE LITURGICAL YEAR IS A JOURNEY"
       }
@@ -55,7 +55,7 @@
           "belichaamde_basis": "balance/object transfer"
         },
         "doeldomein": {
-          "theologisch_concept": "Divine Grace/Responsibility",
+          "theologisch_concept": "Stewardship/Kingdom Responsibility",
           "doctrinale_traditie": "Episcopal/Mainline Protestant"
         },
         "mapping_structuur": [
@@ -65,166 +65,165 @@
           },
           {
             "bron_element": "Capital/Principal",
-            "doel_element": "God's Gifts/Grace"
+            "doel_element": "God's Grace/Resources"
           },
           {
             "bron_element": "Market Growth",
-            "doel_element": "Spiritual Fruitfulness"
+            "doel_element": "Kingdom Expansion"
           }
         ],
         "entailments": {
           "cognitieve_implicaties": [
-            "Faith requires active management, not just preservation."
+            "Faith requires active risk-taking rather than passive preservation."
           ],
           "theologische_implicaties": [
-            "God expects a 'return' on the grace bestowed upon the individual."
+            "Grace is not a static possession but a dynamic resource for the world."
           ],
           "ethische_implicaties": [
-            "Stagnation is a moral failure; risk-taking for the Kingdom is a duty."
+            "Hoarding wealth or spiritual gifts is a form of 'wickedness'."
           ],
           "onbedoelde_consequenties": [
-            "God as a demanding capitalist; salvation tied to productivity/performance."
+            "God might be viewed as a demanding CEO interested only in 'ROI' (Return on Investment)."
           ]
         },
         "vitaliteit_status": "LIVING",
-        "vitaliteit_toelichting": "The preacher explicitly revitalizes the 'dead' metaphor of 'talents' (natural abilities) by returning to the concrete source of 'money' (talents as currency)."
+        "vitaliteit_toelichting": "The preacher explicitly rejects the 'dead' metaphor of 'talents' as natural abilities and revitalizes the text by mapping it to contemporary banking."
       }
     ]
   },
   "diagnostische_evaluatie": {
     "coherentie_analyse": {
       "overall_coherentie": "MOSTLY_COHERENT",
-      "coherentie_verklaring": "The sermon is tightly bound to the Economic domain. However, there is a slight tension between the 'God as demanding Landowner' (Economic) and 'God as Party Host' (Relational/Festal).",
+      "coherentie_verklaring": "The sermon maintains a strong focus on the Economic domain to explain stewardship, though it shifts abruptly to Military metaphors when discussing the nature of parables.",
       "incoherentie_punten": [
         {
-          "locatie": "Conclusion",
-          "metafoor_a": "GOD IS A DEMANDING LANDOWNER",
-          "metafoor_b": "GOD IS A GENEROUS PARTY HOST",
-          "conflict_beschrijving": "The master is described as 'hard' and 'reaping where he didn't sow,' yet the goal is a 'celebration' and 'joy.'",
-          "entailment_conflict": "A boss firing a worker for low ROI vs. a father inviting a child to a feast.",
-          "ernst": "MODERATE"
+          "locatie": "Introduction of Parable definition",
+          "metafoor_a": "Parables as Weapons of Warfare",
+          "metafoor_b": "Parables as Business Case Studies",
+          "conflict_beschrijving": "The preacher defines parables as 'weapons' but then treats the specific parable as a lesson in 'good business practice.'",
+          "entailment_conflict": "Weapons destroy/defend; business practices build/grow.",
+          "ernst": "LOW"
         }
       ],
       "succesvolle_blending": [
         {
-          "locatie": "Middle",
+          "locatie": "Conclusion",
           "gemengde_metaforen": [
-            "Business Practice",
-            "Spiritual Vigilance"
+            "Economic (Giving)",
+            "Relational (Joy/Party)"
           ],
-          "blending_strategie": "The preacher uses the 'End of the World' urgency to justify the high-stakes nature of the 'Financial Trust.'"
+          "blending_strategie": "The 'profit' of the investment is redefined as the 'joy' of the banquet, merging transaction with celebration."
         }
       ]
     },
     "sterktes": [
       {
         "sterkte_type": "REVITALIZATION",
-        "beschrijving": "Brilliantly deconstructs the dead metaphor of 'talents' to restore the original economic shock of the parable.",
-        "voorbeeld": "This parable has nothing whatever to do with talents... It is unfortunate that the English word 'talent' meaning natural ability is the same as the word for the gold coin."
+        "beschrijving": "Effectively deconstructs the dead metaphor of 'talents' (skills) to restore the original economic weight of the text.",
+        "voorbeeld": "It is unfortunate that the English word 'talent'... is the same as the word for the gold coin."
       }
     ],
     "risicos": [
       {
         "risico_type": "COMMODIFICATION",
-        "beschrijving": "By using the 'investment banker' metaphor, the sermon risks framing the spiritual life as a high-pressure performance review.",
-        "voorbeeld": "Wouldn’t you fire him on the spot... That’s the appropriate reaction to the parable.",
-        "potentiele_impact": "Congregants may feel their worth is based on their 'output' for God.",
+        "beschrijving": "By using the 'investment banker' metaphor, God's judgment is mapped to a performance review.",
+        "voorbeeld": "Wouldn’t you fire him on the spot... That’s the appropriate reaction.",
+        "potentiele_impact": "Congregants may feel their standing with God is based solely on productivity.",
         "ernst": "MODERATE"
       }
     ],
     "text_world_analyse": {
-      "primaire_wereld": "A high-stakes financial meeting between a master and his money managers.",
+      "primaire_wereld": "A modern financial trust or brokerage house.",
       "sub_worlds": [
-        "A modern Upper East Side apartment building with grocery deliverymen.",
-        "The Mount of Olives during Jesus' final days.",
-        "A Greek Orthodox church with a Pantocrator mosaic."
+        "The Upper East Side delivery scene",
+        "The Mount of Olives (Biblical past)",
+        "The Great Banquet (Eschatological future)"
       ],
       "world_building_effectiviteit": "VIVID",
       "deictic_shifts": [
         {
-          "locatie": "Introduction",
-          "van_wereld": "Personal anecdote (friend's father)",
-          "naar_wereld": "Liturgical season (End-time urgency)",
-          "effectiviteit": "Strong emotional hook into theological theme."
+          "locatie": "Story of the delivery men",
+          "van_wereld": "Theological abstraction",
+          "naar_wereld": "Manhattan street level",
+          "effectiviteit": "High; it grounds the 'money' metaphor in concrete social ethics."
         }
       ]
     },
     "schema_analyse": {
       "versterkte_schemas": [
         {
-          "schema_naam": "God as Judge",
-          "hoe_versterkt": "Reinforces the 'Pantocrator' image over the 'sentimental' version of Jesus."
+          "schema_naam": "God as Landowner/Master",
+          "hoe_versterkt": "Reinforces the hierarchy of ownership—God owns the 'capital,' we manage it."
         }
       ],
       "verstoorde_schemas": [
         {
           "schema_naam": "Jesus as Sweet Storyteller",
-          "verstoring_strategie": "Uses the 'Parables as Weapons' metaphor to disrupt the 'sentimental' schema.",
-          "vervangend_schema": "Jesus as the Arbitrator of the Cosmos."
+          "verstoring_strategie": "Contrasting 'sentimental American versions' with the 'Pantocrator' and 'weapons of warfare.'",
+          "vervangend_schema": "Jesus as the 'Arbitrator of the Cosmos'."
         }
       ],
-      "liturgische_schema_aansluiting": "Perfectly aligned with the 'End of the Church Year' and the transition to Advent."
+      "liturgische_schema_aansluiting": "Strongly aligned with the 'End of the Church Year' and the 'Long Green Season' (Epiphany/Pentecost) transition."
     }
   },
   "aanbevelingen": {
-    "metafoor_audit_samenvatting": "The sermon is dominated by a robust Economic domain that successfully strips away the 'quaintness' of traditional stewardship language. It effectively uses the 'Money in Trust' metaphor to bridge the gap between ancient text and modern Wall Street sensibilities. However, the transition from 'God as demanding investor' to 'God as party host' requires more cognitive scaffolding to prevent the hearer from viewing God solely as a cosmic CEO.",
+    "metafoor_audit_samenvatting": "The sermon is dominated by the Economic domain, which is used with surgical precision to strip away sentimentalism. It successfully moves from 'Transaction' to 'Generosity,' though it flirts with a meritocratic view of salvation.",
     "revitalisatie_suggesties": [
       {
-        "doel_metafoor": "The Kingdom of God",
-        "huidige_status": "Abstract 'end-of-the-world' imagery.",
-        "suggestie": "Deepen the 'Party' source domain to contrast with the 'Investment' domain.",
-        "strategie": "NARRATIVE_EMBODIMENT",
-        "voorbeeld": "Describe the specific 'scents and sounds' of the banquet to make the 'joy' as concrete as the 'money.'"
+        "doel_metafoor": "The Third Servant's Fear",
+        "huidige_status": "Described as 'craven' or 'lazy' (conventional moralizing).",
+        "suggestie": "Deepen the source domain of 'Risk'—describe the physical anxiety of a market crash to explain why the servant buried the money.",
+        "strategie": "DEEPEN_SOURCE",
+        "voorbeeld": "The servant wasn't just lazy; he was paralyzed by the volatility of the world."
       }
     ],
     "coherentie_verbeteringen": [
       {
-        "incoherentie": "The 'Hard Master' vs. 'Loving God' tension.",
-        "resolutie_strategie": "Explain that the Master's 'hardness' is actually his 'seriousness' about the servant's potential."
+        "incoherentie": "God as 'Hard Man' vs. God who 'Loves a Party'.",
+        "resolutie_strategie": "Explicitly bridge the two by explaining that the 'profit' God seeks is the expansion of the guest list for the party."
       }
     ],
     "entailment_checks": [
       {
-        "metafoor": "Investment Banker",
-        "problematisch_entailment": "If you don't produce, you are 'fired' (damned).",
-        "aanbeveling": "Clarify that the 'money' (grace) is the source of the ability to produce, not a test of inherent worth."
+        "metafoor": "God as Investment Banker",
+        "problematisch_entailment": "If you don't produce, you are 'fired' (lost salvation).",
+        "aanbeveling": "Clarify that the 'money' is grace itself, which by nature must be shared to be possessed."
       }
     ],
     "alternatieve_domeinen": [
       {
         "voorgesteld_domein": "AGRARIAN",
-        "rationale": "To balance the 'transactional' feel of money with the 'organic' growth of the Kingdom.",
+        "rationale": "To soften the 'hard' economic edges, use the 'seed' metaphor (growth is organic, not just mechanical/financial).",
         "doel_concept": "Spiritual Growth"
       }
     ],
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A masterclass in CMT application. By reclaiming the 'Money' source domain, the preacher forces the congregation to confront the concrete demands of the Gospel."
+    "slotopmerking": "A masterclass in CMT application, particularly in how it identifies and replaces a 'dead' linguistic metaphor with a 'living' conceptual one."
   },
   "comparatieve_analyse": {
-    "verschil_met_esthetiek": "Focuses on the cognitive mapping of 'money' rather than the beauty of the prose.",
-    "verschil_met_kolb": "Analyzes the conceptual architecture rather than the learning styles (Experience/Reflection).",
-    "unieke_inzichten_CMT": "Reveals how the 'Talent' metaphor has died and become a 'dead metaphor' that actually obscures the biblical intent."
+    "verschil_met_esthetiek": "Instead of praising the 'vividness' of the Manhattan story, CMT reveals it as a necessary mapping to move the 'Money' metaphor from theory to ethics.",
+    "verschil_met_kolb": "While Kolb would focus on the 'Concrete Experience' of the delivery man, CMT focuses on the underlying 'Economic Transaction' schema being challenged.",
+    "unieke_inzichten_CMT": "CMT identifies that the preacher is using the 'Container' schema (burying money in the ground) as a metaphor for spiritual stagnation."
   },
   "appendices": {
     "volledige_metafoor_lijst": [
+      "Money in trust",
       "Long green season",
       "High gear",
-      "Surprise like a thief",
       "Children of light",
       "Breastplate of faith",
-      "Helmet of hope",
       "Weapons of warfare",
-      "Money in trust",
+      "Stock portfolio",
       "Keep it moving",
-      "God loves a party"
+      "Tight little circle"
     ],
     "woord_frequentie_analyse": {
       "money": "18",
-      "joy": "9",
-      "servant": "11",
-      "talents": "12",
-      "trust": "5"
+      "servant": "12",
+      "joy": "8",
+      "talents": "7",
+      "risk": "3"
     },
-    "notities": "The sermon effectively uses 'Schema Disruption' by attacking the 'Time, Talents, and Treasure' slogan."
+    "notities": "The sermon effectively uses the 'Economic' domain to bridge the gap between 1st-century parables and 20th-century suburban New York."
   }
 }

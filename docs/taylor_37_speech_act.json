@@ -7,97 +7,97 @@
   },
   "drievoudige_structuur_analyse": {
     "locutie": {
-      "beschrijving": "The preacher explains the nature of God's promises, contrasting human 'quid pro quo' with divine grace. He uses analogies (grass cutting, parental love, nature) to argue for the 'reasonableness' of God's capacity to help.",
-      "exegetische_kwaliteit": "Moderate. The sermon focuses more on the logic of the promise than the historical-critical context of Isaiah, though it correctly identifies the 'chosenness' theme in Deuteronomy.",
+      "beschrijving": "The preacher explains the nature of God's promises, contrasting human 'quid pro quo' logic with divine grace. He uses illustrations (grass cutting, Martin Luther King Jr., the bridesmaids) to argue that God's help is reasonable because His resources are infinite.",
+      "exegetische_kwaliteit": "Moderate. The sermon focuses on the character of God rather than a verse-by-verse exegesis of Isaiah 41, though it correctly identifies the 'chosenness' theme in Deuteronomy.",
       "omvang_procent": "75%"
     },
     "illocutie": {
-      "beschrijving": "The primary force is an attempt to persuade the hearer of the truth of a promise. It oscillates between explaining the promise (Assertive) and occasionally quoting the promise (Commissive).",
+      "beschrijving": "The preacher primarily attempts to convince the hearer of the 'reasonableness' of God's promise. While the text contains the promise, the act of the sermon is an argument for the promise's validity.",
       "primaire_kracht": "ASSERTING",
       "helderheid_score": 6,
       "voorbeelden": [
-        "I am trying to show why it is reasonable to believe...",
+        "I suggest that the jury of history is still out on our case.",
         "God can help us without lessening his own resources.",
-        "The Lord can help because his supplies never run out."
+        "I know God is willing."
       ]
     },
     "perlocutie": {
-      "beoogd_effect": "The hearer should feel intellectually satisfied and emotionally comforted by the reliability of God.",
-      "pneumatologisch_bewustzijn": "Low. The sermon relies heavily on logical argumentation and human analogies rather than the invocation of the Spirit's work.",
+      "beoogd_effect": "To remove intellectual barriers to faith; to make the hearer feel that trusting God is logical.",
+      "pneumatologisch_bewustzijn": "Low. The focus is on the preacher's 'proofs' and 'arguments' rather than the Spirit's current agency.",
       "perlocutionaire_werkwoorden": [
         "believe",
-        "understand",
         "accept",
-        "feel assured",
-        "stop worrying"
+        "understand",
+        "cease worrying"
       ]
     }
   },
   "werkwoord_analyse": {
     "assertieven": {
-      "frequentie": "82",
-      "procent": "70",
+      "frequentie": "142",
+      "procent": "70%",
       "voorbeelden": [
         "The years have not erased from memory a story...",
         "God's supplies are without limit.",
-        "The greatest things in life are not reasonable."
+        "The reservoirs of God never get low."
       ],
       "dominante_werkwoorden": [
         "is",
+        "was",
         "says",
         "tells",
-        "means",
-        "shows"
+        "represents"
       ]
     },
     "directieven": {
-      "frequentie": "8",
-      "procent": "7",
+      "frequentie": "12",
+      "procent": "6%",
       "voorbeelden": [
         "Don't worry about it.",
         "Listen as the Eternal talks...",
-        "Hear that once again."
+        "Go back a chapter and hear..."
       ],
       "dominante_werkwoorden": [
+        "worry",
         "listen",
         "hear",
-        "worry",
-        "imagine"
+        "tell"
       ],
       "fundament_check": false
     },
     "expressieven": {
-      "frequentie": "12",
-      "procent": "10",
+      "frequentie": "18",
+      "procent": "9%",
       "voorbeelden": [
-        "I know God is willing.",
-        "I have many proofs.",
-        "I feel constrained to raise a question."
+        "We grope toward some understanding.",
+        "I felt constrained to raise a question.",
+        "We sense that we are not worthy."
       ],
       "dominante_werkwoorden": [
-        "know",
+        "grope",
         "feel",
+        "sense",
         "wonder"
       ]
     },
     "commissieven": {
-      "frequentie": "10",
-      "procent": "8",
+      "frequentie": "22",
+      "procent": "11%",
       "voorbeelden": [
         "I will strengthen thee.",
         "I will help thee.",
-        "I will uphold thee."
+        "God will help and God will heal."
       ],
       "dominante_werkwoorden": [
-        "will help",
-        "will strengthen",
-        "will uphold"
+        "will",
+        "uphold",
+        "strengthen"
       ],
-      "kwaliteit": "High in the quoted text, but the preacher treats them as objects of study rather than acts of current binding."
+      "kwaliteit": "High in content (quoting Scripture), but often framed as 'God says he will' (Assertive) rather than 'God promises you now' (Commissive)."
     },
     "declaratieven": {
-      "frequentie": "5",
-      "procent": "5",
+      "frequentie": "8",
+      "procent": "4%",
       "voorbeelden": [
         "God is able to help you, my brother and my sister.",
         "God is well able to help."
@@ -105,91 +105,91 @@
       "dominante_werkwoorden": [
         "is able"
       ],
-      "autoriteit": "Moderate. The preacher uses 'God is able' as a declarative summary, but it often slides back into an assertive description of God's power."
+      "autoriteit": "Moderate. The preacher shifts to direct address at the end, but stays within the realm of 'ability' rather than 'enactment'."
     }
   },
   "constatief_performatief_diagnose": {
     "primaire_classificatie": "CONSTATIVE_SURPLUS",
-    "constatief_percentage": "85",
-    "performatief_percentage": "15",
+    "constatief_percentage": "80%",
+    "performatief_percentage": "20%",
     "constatief_surplus_analyse": {
       "aanwezig": true,
       "ernst": "SEVERE",
       "indicatoren": [
-        "Extensive storytelling (grass cutting) that takes up significant space.",
-        "Philosophical discussion on 'reasonableness' vs 'logic'.",
-        "Talking about the promise rather than speaking the promise."
+        "Extensive storytelling (grass cutting) that takes up significant space without performative weight.",
+        "The title itself: 'Making... Reasonable' is an intellectual/constative goal.",
+        "Frequent use of 'We can understand', 'We forget', 'We grope'."
       ],
-      "effect_op_hoorder": "The hearer becomes a spectator of a logical defense rather than a participant in a divine encounter."
+      "effect_op_hoorder": "The hearer becomes an observer of a logic puzzle rather than a participant in a divine encounter."
     },
     "performatief_deficit_analyse": {
       "aanwezig": true,
       "ernst": "MODERATE",
       "missende_elementen": [
         "Direct absolution",
-        "Present-tense sacramental address",
-        "Direct commissioning"
+        "Direct commissioning",
+        "Present-tense sacramental address"
       ],
-      "effect_op_hoorder": "The hearer is convinced that God *can* help, but may not experience God *actually* helping in the moment of the sermon."
+      "effect_op_hoorder": "The hearer is told that God is capable, but is not necessarily 'hit' by the act of God in the moment."
     },
     "toezegging_check": {
       "toezegging_aanwezig": true,
-      "aantal_toezeggen": "4",
-      "kwaliteit_toezeggen": "The promises are largely contained within the biblical quotes rather than the preacher's own illocutionary act.",
+      "aantal_toezeggen": "5",
+      "kwaliteit_toezeggen": "Strong when quoting Isaiah, but weakened by the apologetic framing.",
       "voorbeelden": [
         "I will strengthen thee; yea, I will help thee."
       ],
-      "moment_in_preek": "Beginning and End"
+      "moment_in_preek": "End"
     }
   },
   "adressering_analyse": {
     "persoonsvorm_distributie": {
       "eerste_persoon": {
-        "frequentie": "24",
-        "gebruik": "Used for personal anecdotes and establishing the preacher's logical journey ('I try to show')."
+        "frequentie": "45",
+        "gebruik": "Used for storytelling ('my father used to tell') and homiletical moves ('Let me try to weaken my case')."
       },
       "tweede_persoon": {
         "frequentie": "15",
-        "gebruik": "Used toward the end to apply the logic ('God is able to help you').",
-        "performatieve_context": "Used mostly in the final 'God is able' sequence."
+        "gebruik": "Direct address appears late ('God is able to help you, my brother').",
+        "performatieve_context": "Used mostly in the final exhortation."
       },
       "derde_persoon": {
-        "frequentie": "60",
-        "gebruik": "Dominant. Talking about 'the businessman', 'the bridesmaids', 'God', 'the people'.",
-        "distantie_effect": "High. It creates a lecture-like atmosphere where God is an object of discussion."
+        "frequentie": "120",
+        "gebruik": "Dominant mode. Talking about God, the businessman, Moses, and Dr. King.",
+        "distantie_effect": "Creates a lecture-like atmosphere where God is an object of study."
       }
     },
     "tijdsdimensie": {
       "verleden_tijd": {
         "frequentie": "40%",
-        "gebruik": "Anecdotes and biblical history (Moses, Dr. King)."
+        "gebruik": "Anecdotes and biblical history."
       },
       "tijdloos_present": {
         "frequentie": "45%",
-        "gebruik": "General truths about God's nature and human logic."
+        "gebruik": "General principles about God's resources."
       },
       "actueel_present": {
         "frequentie": "15%",
-        "gebruik": "The final appeal to the hearer's current need."
+        "gebruik": "The concluding appeal."
       }
     },
-    "adressering_effectiviteit": 5
+    "adressering_effectiviteit": "5"
   },
   "sacramenteel_patroon_analyse": {
     "patroon_identificatie": "FAULTY",
     "foutief_patroon": {
       "aanwezig": true,
-      "beschrijving": "Assertive (Explanation of logic) -> Directive (Don't worry).",
+      "beschrijving": "Assertive (God is rich in resources) -> Directive (So don't worry).",
       "voorbeelden": [
-        "God's supplies never run out... Don't worry about it."
+        "God's supplies are without limit... Don't worry about it."
       ],
-      "probleem": "The imperative to 'not worry' is based on a logical description of God's resources rather than a performative delivery of those resources."
+      "probleem": "It bypasses the Declarative/Commissive 'event' where God actually gives the resources to the hearer."
     },
     "sacramenteel_patroon": {
       "aanwezig": false,
-      "beschrijving": "The sermon lacks a clear transition from explanation to a sacramental 'I now give you this grace'.",
+      "beschrijving": "The sermon lacks a clear transition from explanation to sacramental enactment.",
       "voorbeelden": [],
-      "kwaliteit": "Low"
+      "kwaliteit": "Weak"
     },
     "indicatief_imperatief_verhouding": {
       "indicatief_aanwezig": true,
@@ -198,50 +198,52 @@
         "God is able... [therefore] Fear thou not."
       ],
       "voorbeelden_slechte_verhouding": [
-        "The logic of the grass cutter is used to explain grace, which weakens the indicative's theological weight."
+        "The grass-cutting story has no theological indicative to support a spiritual imperative."
       ]
     }
   },
   "diagnostische_evaluatie": {
     "primaire_diagnose": "INFORMATIVE_TEACHING",
-    "diagnose_toelichting": "The sermon functions primarily as an apologetic for the 'reasonableness' of faith. It seeks to remove intellectual barriers rather than to mediate a divine presence.",
+    "diagnose_toelichting": "The sermon functions as an apologetic for the character of God. It seeks to prove that God's promises are 'reasonable' rather than letting the promise perform its work.",
     "sterke_punten": [
       {
         "aspect": "Illustrative clarity",
         "categorie": "Locution",
-        "tekstueel_bewijs": "The grass cutter story.",
-        "effect": "Engages the listener's attention effectively."
+        "tekstueel_bewijs": "The grass-cutting anecdote.",
+        "effect": "Engages the listener's attention."
       }
     ],
     "zwakke_punten": [
       {
-        "aspect": "Constative Surplus",
+        "aspect": "Constative Overload",
         "categorie": "Illocution",
-        "tekstueel_bewijs": "We grope toward some understanding as to why this almost unbelievable promise is reasonable.",
-        "probleem": "Subjectifies the preacher's struggle rather than objectifying God's promise.",
+        "tekstueel_bewijs": "The entire section on 'reasonableness' and logic.",
+        "probleem": "It treats the Gospel as a theorem to be proved.",
         "ernst": "High"
       }
     ],
     "gebeuren_score": 4,
-    "gebeuren_toelichting": "It is a 'talk about' God's promises rather than the 'event' of the promise being fulfilled in the hearing.",
+    "gebeuren_toelichting": "It is more of a 'talk about God' than an 'encounter with God'.",
     "sacramentele_kracht": 3,
-    "sacramentele_toelichting": "The preacher acts as a defense attorney for God's character rather than a mandatory of God's grace."
+    "sacramentele_toelichting": "The preacher acts as an advocate for God rather than a mandatory delivering God's present word."
   },
   "theologische_diepte_analyse": {
     "openbaringsleer": {
-      "god_als_spreker": "God is quoted, but the preacher's voice dominates the 'reasoning' process.",
-      "prediker_als_mandataris": "Low. The preacher acts more as a teacher/philosopher.",
+      "god_als_spreker": "God is quoted as a past speaker ('Fear thou not'), but the preacher does not speak *for* God in the present.",
+      "prediker_als_mandataris": "Low. The preacher is a teacher/reasoner.",
       "tekstueel_bewijs": [
         "Let me try to weaken my case before I advance it."
       ]
     },
     "pneumatologie": {
       "geest_rol_erkend": "No",
-      "perlocutie_theologie": "Implicitly assumed but not articulated.",
-      "tekstueel_bewijs": []
+      "perlocutie_theologie": "Implicitly relies on human logic to produce belief.",
+      "tekstueel_bewijs": [
+        "We grope toward some understanding as to why this... is reasonable."
+      ]
     },
     "sacramentstheologie": {
-      "preek_als_genademiddel": "The sermon is treated as a means of persuasion rather than a means of grace.",
+      "preek_als_genademiddel": "No, it is treated as a lecture on grace.",
       "epifanisch_taalgebruik": "Only in the final paragraph.",
       "tekstueel_bewijs": [
         "God is able to raise up a bowed-down head!"
@@ -249,80 +251,82 @@
     }
   },
   "aanbevelingen": {
-    "werkwoord_audit_samenvatting": "Too many 'is' and 'can' verbs (Assertive); too few 'I give' or 'He does' (Commissive/Declarative).",
+    "werkwoord_audit_samenvatting": "Too many 'is' and 'was' verbs; too few 'I [God] promise' or 'I [Preacher] declare' verbs.",
     "performatieve_intensivering": {
       "nodig": true,
       "specifieke_suggesties": [
         {
           "huidige_formulering": "God can help us without lessening his own resources.",
-          "voorgestelde_revisie": "God helps you now from his inexhaustible riches.",
-          "verschil": "Moves from potentiality (can) to actuality (does)."
+          "voorgestelde_revisie": "Because God's resources are infinite, He is helping you right now.",
+          "verschil": "Shifts from a general truth to a present-tense action."
         }
       ]
     },
     "toezegging_versterking": {
       "nodig": true,
-      "probleem": "The promise is kept at a distance as a 'topic'.",
-      "suggestie": "Directly address the congregation with the words of Isaiah as a present-tense gift.",
+      "probleem": "The promise is kept at arm's length as a 'topic'.",
+      "suggestie": "Move from 'God promises' to 'Hear God's promise to you'.",
       "voorbeeldzinnen": [
-        "Hear the Lord say to you today: I am your God, and I uphold you."
+        "In the name of Christ, I tell you: He upholds you today."
       ]
     },
     "adressering_verbetering": {
       "nodig": true,
-      "probleem": "Too much 'we' and 'they' in the first half.",
-      "suggestie": "Use 'you' earlier to implicate the hearer in the promise.",
+      "probleem": "Too much 'we' and 'they', not enough 'you'.",
+      "suggestie": "Use the second person singular to break the distance.",
       "voorbeeldzinnen": [
-        "You often feel you must earn your way, but God breaks that contract for you."
+        "You, who are weary, listen: God is your God."
       ]
     },
     "indicatief_imperatief_herstel": {
       "nodig": true,
-      "probleem": "The imperative 'don't worry' is based on the preacher's logic.",
-      "suggestie": "Base the imperative on the Declarative act of God's presence."
+      "probleem": "The indicative is often a human story rather than a divine act.",
+      "suggestie": "Ground the 'Fear not' in the finished work of Christ rather than the logic of infinite supply."
     },
     "overall_beoordeling": "ADEQUATE",
-    "slotopmerking": "The sermon is rhetorically strong and logically sound, but it risks leaving the hearer with a 'concept' of God rather than an 'encounter' with God. Shifting from 'explaining why God is able' to 'declaring what God is doing' would unlock its sacramental potential."
+    "slotopmerking": "The sermon is rhetorically gifted but homiletically 'stuck' in the constative. By shifting from proving God's ability to proclaiming God's action, it could become a true sacramental event."
   },
   "comparatieve_analyse": {
-    "verschil_met_schulz_von_thun": "SvT would focus on the preacher's 'self-revelation' (his doubts about logic); SAT focuses on the failure to use Declarative force to change the hearer's status.",
-    "verschil_met_retoriek": "Rhetorically, the grass-cutter story is a 'hook'; homiletically (SAT), it is a constative distraction that delays the performative event.",
-    "unieke_inzichten_SAT": "SAT reveals that the preacher is working too hard to 'prove' the promise, which actually undermines the authority of the Promise-Giver."
+    "verschil_met_schulz_von_thun": "SvT would focus on the 'Self-Revelation' of the preacher's father; SAT focuses on the failure of the preacher to use his mandate to 'Declare'.",
+    "verschil_met_retoriek": "Rhetoric would praise the Niagara Falls imagery; SAT notes that imagery is locutionary and lacks illocutionary 'bite'.",
+    "unieke_inzichten_SAT": "SAT reveals that 'making a promise reasonable' is an assertive act that actually delays the performative force of the promise itself."
   },
   "appendices": {
     "volledige_werkwoord_lijst": {
       "assertief": [
         "is",
-        "understand",
-        "forget",
-        "erased",
-        "describe",
-        "hired",
+        "was",
         "said",
         "found",
+        "hired",
         "paying",
         "losing",
+        "erased",
+        "describe",
         "stagger",
         "seems",
-        "cannot",
+        "represents",
         "grope",
-        "cry out",
-        "grasped",
-        "merited"
+        "is",
+        "measured",
+        "meted",
+        "weighed"
       ],
       "directief": [
-        "fear not",
+        "Fear not",
         "be not dismayed",
-        "don't worry",
-        "tell your children",
-        "listen",
-        "hear",
-        "imagine"
+        "Don't worry",
+        "tell",
+        "Listen",
+        "Go back",
+        "hear"
       ],
       "expressief": [
-        "know",
-        "feel",
+        "forget",
+        "confused",
         "wonder",
+        "felt",
+        "sense",
         "haunted",
         "nagged",
         "taunted"
@@ -331,27 +335,28 @@
         "will strengthen",
         "will help",
         "will uphold",
-        "will give"
+        "will give",
+        "will come"
       ],
       "declaratief": [
-        "is able",
-        "is willing"
+        "God is able",
+        "God is willing"
       ]
     },
     "kernzinnen_analyse": [
       {
-        "zin": "The great and rich promises of God stagger us.",
-        "categorie": "Assertive",
-        "illocutionaire_kracht": "Describing a reaction.",
-        "effectiviteit": "Weak; keeps the promise as an object of observation."
+        "zin": "We grope toward some understanding as to why this almost unbelievable promise is reasonable.",
+        "categorie": "ASSERTIVE/EXPRESSIVE",
+        "illocutionaire_kracht": "Weak",
+        "effectiviteit": "Low - centers human effort."
       },
       {
         "zin": "God is able to help you, my brother and my sister.",
-        "categorie": "Declarative",
-        "illocutionaire_kracht": "Direct address/Assertion of status.",
-        "effectiviteit": "Strong; this is the closest the sermon gets to an 'event'."
+        "categorie": "DECLARATIVE",
+        "illocutionaire_kracht": "Strong",
+        "effectiviteit": "High - direct address and present reality."
       }
     ],
-    "notities": "The sermon is a classic example of 'preaching about the Gospel' rather than 'preaching the Gospel'."
+    "notities": "The sermon suffers from an 'apologetic trap' where the preacher feels he must defend God's character before he can deliver God's word."
   }
 }

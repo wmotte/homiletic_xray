@@ -7,28 +7,26 @@
   },
   "actantiele_analyse": {
     "primair_narratief_programma": {
-      "beschrijving": "Jesus enters Jerusalem as a dramatic prophet to offer a final plea for peace, but the city fails to recognize the opportunity, leading to divine sorrow and inevitable judgment.",
+      "beschrijving": "Jesus enters Jerusalem as a dramatic prophet, offering peace and weeping over the city's lost opportunity and impending judgment due to spiritual neglect.",
       "subject": {
-        "identificatie": "Jesus (The Prophet/Savior)",
+        "identificatie": "Jesus (The Savior)",
         "tekstueel_bewijs": [
           "He sends his disciples",
-          "he was dramatizing his offering of himself",
-          "our Lord at least took the risk of provoking violence",
+          "He was dramatizing his offering of himself",
           "He beheld the city, and wept"
         ],
         "frequentie_score": "8"
       },
       "object": {
-        "identificatie": "The things which belong unto peace / Recognition of the Divine Visitation",
+        "identificatie": "The things which belong unto peace / Spiritual recognition",
         "tekstueel_bewijs": [
           "the things which belong unto thy peace",
-          "the master has need of it",
-          "one last desperate plea"
+          "an open, clear recognition that we are, in essence, of God"
         ],
         "aard_van_object": "SOTERIOLOGICAL"
       },
       "zender": {
-        "identificatie": "God / The Prophetic Tradition",
+        "identificatie": "God the Father / The Prophetic Tradition",
         "tekstueel_bewijs": [
           "teaching the word and will of God by the prophets",
           "the dealings and the doings of God"
@@ -36,44 +34,44 @@
         "rol_interpretatie": "LOVING_FATHER"
       },
       "ontvanger": {
-        "identificatie": "Jerusalem / The Hearer (New York/Modern Man)",
+        "identificatie": "The City of Jerusalem / The Hearer (New York)",
         "tekstueel_bewijs": [
           "If thou hadst known, even thou",
           "I do not know now whether I'm speaking about old Jerusalem or new New York"
         ],
-        "positie_hoorder": "The hearer is positioned as the Receiver who is currently failing to receive."
+        "positie_hoorder": "The hearer identifies with the Receiver (the one being wept over/warned)."
       },
       "helper": {
-        "identificatie": "The Disciples / The Donkey / The Prophetic Method (Drama)",
+        "identificatie": "The Disciples / The Prophetic Drama",
         "tekstueel_bewijs": [
           "He sends his disciples",
-          "The donkey in old Israel was an animal of great honor"
+          "The idea of drama in teaching... was an old and well-used method"
         ],
-        "rol_van_god": "God is the Subject (Jesus) and the Sender.",
-        "rol_van_geest": "Absent/Unclear"
+        "rol_van_god": "God is the Subject (Jesus) and the Sender (Father).",
+        "rol_van_geest": "Absent as a specific actant; replaced by 'spiritual life' as a quality."
       },
       "tegenstander": {
-        "identificatie": "Spiritual Blindness / Secularism / Violence / Time",
+        "identificatie": "Spiritual Blindness / Time (Transience) / Violence",
         "tekstueel_bewijs": [
           "now they are hid from thine eyes",
-          "some peculiar quirk, some deluding impulse",
-          "more interested in appearance than in reality"
+          "some peculiar quirk... that what is will last forever",
+          "violence is still violence"
         ],
         "ernst_tegenstander": "COSMIC",
-        "toelichting_ernst": "The opponent is not just bad habits but a 'deluding impulse' and 'approaching doom' that results in the departure of God (Ichabod)."
+        "toelichting_ernst": "The opponent is not just a mistake but a 'deluding impulse' and 'approaching doom' (Judgment)."
       }
     },
     "secundair_narratief_programma": {
-      "aanwezig": "true",
-      "beschrijving": "The hearer must recognize the 'day of visitation' and use their current opportunities (youth, strength, life) before they vanish.",
-      "subject": "The Hearer (Boy, girl, young man, middle-aged man)",
-      "object": "Spiritual preparedness / Right use of time",
+      "aanwezig": true,
+      "beschrijving": "The hearer must recognize the transience of life and 'use the time' before the opportunity for peace is hidden.",
+      "subject": "The Hearer",
+      "object": "Spiritual vigilance / Right action",
       "verhouding_tot_primair": "SEQUENTIAL",
-      "toelichting_verhouding": "The primary program (Jesus' weeping/offer) provides the context for the secondary program (the hearer's urgent need to respond)."
+      "toelichting_verhouding": "The primary program (Jesus weeping/offering) establishes the urgency for the secondary program (Hearer acting)."
     },
     "actantieel_schema_visualisatie": {
       "zender_naar_ontvanger": "God → Peace/Salvation → Jerusalem/Hearer",
-      "helper_subject_tegenstander": "Prophetic Drama → Jesus ← Blindness/Secularism",
+      "helper_subject_tegenstander": "Prophetic Drama → Jesus ← Spiritual Blindness/Judgment",
       "subject_naar_object": "Jesus → Offering of Himself"
     }
   },
@@ -83,117 +81,113 @@
       "mens_als_subject_count": "58",
       "ratio": "0.72",
       "voorbeelden_god_subject": [
-        "Jesus looked upon the city",
+        "Jesus looked upon that city",
         "God cares",
-        "He beheld the city, and wept",
-        "God takes no pleasure in our loss"
+        "He beheld the city, and wept"
       ],
       "voorbeelden_mens_subject": [
-        "If thou hadst known",
-        "we throw ourselves upon thy mercy",
-        "you will not always be loved",
-        "we have violated the nobility"
+        "We present ourselves",
+        "We throw ourselves... upon thy mercy",
+        "Make the most of it"
       ],
       "rutledge_score": "7"
     },
     "modale_analyse": {
       "devoir_faire": {
-        "prominentie": "4",
+        "prominentie": "6",
         "voorbeelden": [
-          "make the most of it",
-          "use the time"
+          "use the time",
+          "make the most of it"
         ]
       },
       "vouloir_faire": {
-        "prominentie": "6",
+        "prominentie": "8",
         "voorbeelden": [
           "What did he hope to accomplish?",
-          "what he wanted to do was so important"
+          "He wanted to do was so important"
         ]
       },
       "savoir_faire": {
         "prominentie": "9",
         "voorbeelden": [
           "If thou hadst known",
-          "If we knew what is happening... we would be different"
+          "If we knew what is happening... we would be different people"
         ]
       },
       "pouvoir_faire": {
-        "prominentie": "5",
+        "prominentie": "4",
         "voorbeelden": [
-          "we are weak and needy creatures",
-          "nothing we can do for them"
+          "nothing we can do for them",
+          "we are weak and needy creatures"
         ]
       },
       "dominante_modaliteit": "SAVOIR",
-      "modale_interpretatie": "The sermon hinges on 'Knowing' (Savoir). The tragedy is a lack of recognition of the 'day'. Grace is presented as God's emotional proximity (Caring) in the face of human inability."
+      "modale_interpretatie": "The sermon hinges on 'Knowing' (Savoir). The tragedy is a lack of knowledge/recognition, which leads to a loss of opportunity."
     }
   },
   "semiotisch_vierkant_analyse": {
     "primaire_tegenstelling": {
-      "s1": "Peace/Visitation",
-      "s2": "Judgment/Doom (Titus/Ichabod)",
-      "niet_s1": "Lost Opportunity/Blindness",
-      "niet_s2": "Temporary Prosperity/Callousness"
+      "s1": "Peace (Recognition of God)",
+      "s2": "Judgment (Titus/Doom)",
+      "niet_s1": "Spiritual Blindness (Hid from eyes)",
+      "niet_s2": "False Security (Sunny side of the street)"
     },
-    "beweging_in_preek": "The sermon moves from the 'Day of Visitation' (S1) to the 'Lost Opportunity' (~S1), into the 'Dread of Doom' (S2), and finally resolves in 'Divine Compassion' (The tears of Jesus as a bridge).",
-    "theologische_resolutie": "The tension is resolved not by human action, but by the character of God (He cares/weeps), which provides hope even in failure.",
-    "ernst_van_s2": "High. The reference to Titus and the 'Ichabod' cry takes judgment very seriously."
+    "beweging_in_preek": "From False Security (~S2) to Blindness (~S1), then revealing the threat of Judgment (S2), finally offering Peace (S1) through the tears of Jesus.",
+    "theologische_resolutie": "The tension is resolved in the 'tears of God' which bridge the gap between human failure and divine care.",
+    "ernst_van_s2": "High; the destruction of Jerusalem is used as a literal and spiritual warning."
   },
   "diagnostische_evaluatie": {
     "primaire_classificatie": "GRACE",
-    "classificatie_toelichting": "While there is a strong call to action (Secondary Program), the 'engine' of the sermon is theocentric. The hope is located in the 'Savior's tears' rather than the hearer's success. God is the primary actor in the drama of salvation.",
+    "classificatie_toelichting": "While there is a strong call to action, the 'engine' of the sermon is the character of God (He cares/weeps) rather than human performance. The hope is found in His tears, not our success.",
     "indicatoren_moralisme": [
       {
-        "indicator": "Urgency based on human transience",
-        "tekstueel_bewijs": "Middle-aged man and woman, you will not always be in the vigor of your powers; use them well.",
+        "indicator": "Exhortation to use time wisely",
+        "tekstueel_bewijs": "Middle-aged man and woman... use them well.",
         "ernst": "MODERATE"
       }
     ],
     "indicatoren_genade": [
       {
-        "indicator": "God as the Subject of Compassion",
+        "indicator": "God as the Subject of Care",
         "tekstueel_bewijs": "In his tears lies our hope.",
         "sterkte": "VERY_STRONG"
-      },
-      {
-        "indicator": "Heavy Opponent (Sin/Death)",
-        "tekstueel_bewijs": "God cares about our dying and our sorrowing... and our sins.",
-        "sterkte": "STRONG"
       }
     ],
     "exemplarisme_check": {
-      "aanwezig": "false",
-      "beschrijving": "Biblical figures (David, Isaiah) are cited as 'spiritual geniuses' of the city's history, but not as models for the hearer to imitate. Jesus is the only active model, and his action is unique (dramatizing the offering).",
-      "bijbelse_figuren_als_model": [],
-      "alternatieve_lezing": "Theocentric focus remains on God's visitation through these figures."
+      "aanwezig": true,
+      "beschrijving": "Jerusalem is used as a negative example of missed opportunity.",
+      "bijbelse_figuren_als_model": [
+        "Jerusalem (as a corporate actor)",
+        "Titus (as agent of judgment)"
+      ],
+      "alternatieve_lezing": "The sermon stays theocentric by focusing on Jesus' reaction to the city rather than just the city's failure."
     },
     "identificatie_patroon": {
       "hoorder_identificeert_met": "RECEIVER_SAVED",
-      "effect_op_hoorder": "Moves from existential anxiety (lost time) to comfort (God cares).",
-      "theologische_implicatie": "Soteriology is grounded in the Divine Pathos (God's suffering with/for the city)."
+      "effect_op_hoorder": "Moves from complacency to a sense of being 'known' and 'cared for' by a weeping God.",
+      "theologische_implicatie": "Soteriology is based on Divine Pathos (God's suffering/care)."
     },
-    "narratieve_hierarchie": {
+    "narratieve_coherentie": {
       "coherentie_score": "9",
-      "coherentie_beschrijving": "The ethical warnings are clearly subordinated to the revelation of God's character in Christ's tears.",
+      "coherentie_beschrijving": "The transition from the historical drama to the contemporary application is seamless.",
       "spanning_punten": [
-        "The transition from the social justice commentary (capital punishment) to the spiritual 'lost opportunity' is rhetorically abrupt but actantially linked by the theme of 'violence'."
+        "The digression on capital punishment creates a brief actantial shift where the State becomes the Subject of violence."
       ]
     }
   },
   "theologische_diepte_analyse": {
     "soteriologie": {
-      "primaire_model": "PARTICIPATION",
-      "tekstueel_bewijs": "In his tears lies our hope... he knows our cares.",
+      "primaire_model": "MORAL_INFLUENCE",
+      "tekstueel_bewijs": "They are lifted by the Savior's tears. And in his tears lies our hope.",
       "menselijke_rol_in_redding": "PASSIVE_RECEIVER"
     },
     "pneumatologie": {
       "rol_heilige_geest": "UNCLEAR",
-      "competentie_schenking": "The sermon focuses on the Son's presence rather than the Spirit's indwelling."
+      "competentie_schenking": "The sermon focuses more on the 'Spirit' as a human faculty than the Holy Spirit as an actant."
     },
     "hamartologie": {
-      "aard_van_zonde": "GUILT",
-      "ernst_diagnose": "Severe; described as 'willfulness and wickedness' and 'apostasy'."
+      "aard_van_zonde": "MORAL_MISTAKE",
+      "ernst_diagnose": "Severe; sin leads to 'Ichabod' (the departure of glory)."
     },
     "eschatologie": {
       "hoop_structuur": "ALREADY_AND_NOT_YET",
@@ -201,73 +195,69 @@
     }
   },
   "aanbevelingen": {
-    "actantiele_audit_samenvatting": "The sermon successfully maintains God/Jesus as the Subject of the primary salvific verbs. The hearer is the object of God's concern.",
+    "actantiele_audit_samenvatting": "The sermon is structurally sound, placing Jesus as the primary Subject of the 'Axis of Desire' (seeking peace for the city).",
     "subject_herpositionering": {
-      "nodig": "false",
+      "nodig": false,
       "huidige_probleem": "None",
       "voorgestelde_herpositionering": "N/A",
       "voorbeeld_revisie": "N/A"
     },
     "identificatie_herstel": {
-      "nodig": "true",
-      "problematische_identificatie": "The hearer might identify too much with the 'successful' citizen of Jerusalem before the 'but now'.",
-      "voorgestelde_identificatie": "The 'weary soul' at rest.",
-      "strategie": "Strengthen the link between the hearer's 'weakness' and Christ's 'tears' earlier in the sermon."
+      "nodig": true,
+      "problematische_identificatie": "The hearer might identify too much with the 'smart' citizen of New York.",
+      "voorgestelde_identificatie": "The 'weary soul' in need of rest.",
+      "strategie": "Deepen the connection between the hearer's 'weakness' and Christ's 'tears'."
     },
     "modale_balans": {
-      "huidige_onbalans": "Savoir (Knowing) is very high.",
+      "huidige_onbalans": "Heavy on Savoir (Knowing).",
       "voorgestelde_balans": "Increase Pouvoir (Power/Grace).",
-      "concrete_suggestie": "Explicitly state that Christ's tears not only 'care' but 'transform' (Pouvoir-faire)."
+      "concrete_suggestie": "Explicitly state that Christ's tears provide the 'power' to change, not just the 'reason' to change."
     },
     "tegenstander_intensivering": {
-      "nodig": "false",
-      "huidige_status": "The opponent (Judgment/Ichabod) is sufficiently terrifying.",
+      "nodig": false,
+      "huidige_status": "Strong (Judgment/Doom).",
       "voorgestelde_intensivering": "N/A",
       "theologische_rationale": "N/A"
     },
     "narratieve_hierarchie_herstel": {
-      "nodig": "false",
+      "nodig": false,
       "probleem": "None",
-      "voorgestelde_structuur": "Maintain the current flow from Warning to Divine Pathos."
+      "voorgestelde_structuur": "Soteriology (God cares) clearly grounds the Ethics (Use the time)."
     },
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "A powerful example of a theocentric sermon that uses existential urgency to drive the hearer toward the grace found in the Divine Pathos."
+    "slotopmerking": "A masterful blend of social commentary and deep theological pathos. The focus on the 'tears of God' successfully avoids moralism by making God's character the ultimate ground of hope."
   },
   "comparatieve_analyse": {
-    "verschil_met_retorische_analyse": "Retorically, the capital punishment section seems like a tangent; actantially, it establishes the 'Opponent' (Violence) that Jesus risks to bring 'Peace'.",
-    "verschil_met_exegese": "Exegesis would focus on the 'donkey' and 'Hosanna'; semiotics focuses on the 'If thou hadst known' as a modal lack of Savoir.",
-    "unieke_inzichten_greimas": "Reveals that the 'tears' are not just emotional but are the 'Helper' actant that enables the 'Receiver' to find hope when they have failed the 'Subject's' mandate."
+    "verschil_met_retorische_analyse": "Rhetorical analysis would focus on the 'streaker' anecdote; Greimas focuses on how that anecdote functions as a 'Helper' to the prophetic mandate.",
+    "verschil_met_exegese": "Exegesis explains the donkey; Greimas explains why the donkey (as an object of honor) matters to the Subject's (Jesus) strategy.",
+    "unieke_inzichten_greimas": "Reveals that the 'lost opportunity' is actually a modal failure of 'Savoir-faire' (Knowing the time)."
   },
   "appendices": {
     "volledige_subject_lijst": [
-      "Jesus entered",
-      "He sends",
-      "He dramatized",
-      "He wept",
-      "God cares",
-      "We call upon thee",
-      "We throw ourselves"
+      "Jesus (wept)",
+      "God (cares)",
+      "Titus (rode)",
+      "We (beseech)"
     ],
     "volledige_object_lijst": [
       "Peace",
-      "The city",
       "Mercy",
-      "The things of the spirit"
+      "Opportunity"
     ],
     "werkwoord_frequentie": {
       "wept": {
-        "count": "8",
+        "count": "6",
         "primair_subject": "God"
       },
       "care": {
         "count": "12",
         "primair_subject": "God"
       },
-      "known": {
-        "count": "10",
+      "know": {
+        "count": "8",
         "primair_subject": "Man"
       }
     },
-    "notities": "The sermon uses the 'Ichabod' narrative to raise the stakes of the Opponent to a cosmic level, preventing the 'God cares' conclusion from becoming 'cheap grace'."
+    "notities": "The sermon uses a 'Subject-switch' in the conclusion, moving from the hearer's failure to know, to God's success in caring."
   }
 }

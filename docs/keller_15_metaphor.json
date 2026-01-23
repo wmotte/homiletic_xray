@@ -9,13 +9,13 @@
     "dominante_domeinen": [
       {
         "domein_type": "JOURNEY",
-        "prominentie_score": "9",
+        "prominentie_score": "10",
         "kernfrasen": [
           "Life is not a land journey; it’s a sea journey",
-          "darkness is upon the face of the deep",
+          "darkness is on the face of the deep",
           "out of your depth"
         ],
-        "conceptuele_metafoor": "LIFE IS A SEA VOYAGE"
+        "conceptuele_metafoor": "LIFE IS A PERILOUS SEA VOYAGE"
       },
       {
         "domein_type": "MILITARY",
@@ -24,7 +24,7 @@
           "under the boot of Rome",
           "fighting God",
           "hostile to him",
-          "throwing it off"
+          "throwing off control"
         ],
         "conceptuele_metafoor": "SIN IS REBELLION/WARFARE AGAINST GOD"
       },
@@ -35,241 +35,188 @@
           "I’m going to pay for your sins",
           "using God",
           "God is a means to an end",
-          "I’ll serve you if"
+          "if I do this, then you’ll do this"
         ],
-        "conceptuele_metafoor": "RELATIONSHIP WITH GOD IS A TRANSACTIONAL CONTRACT"
+        "conceptuele_metafoor": "RELIGION IS A COMMERCIAL TRANSACTION"
       }
     ],
     "metafoor_inventaris": [
       {
-        "metafoor_expressie": "Jesus was casually strolling... through the most chaotic, destructive, and uncontrollable powers.",
+        "metafoor_expressie": "Life is a sea journey",
         "brondomein": {
-          "naam": "Strolling/Sightseeing",
+          "naam": "Nautical Navigation",
           "concrete_elementen": [
-            "leisurely pace",
-            "lack of exertion",
-            "observation",
-            "safety"
+            "boat",
+            "storm",
+            "depth",
+            "shore",
+            "rowing"
           ],
-          "belichaamde_basis": "balance/force"
+          "belichaamde_basis": "path/container"
         },
         "doeldomein": {
-          "theologisch_concept": "Divine Sovereignty/Christology",
-          "doctrinale_traditie": "Reformed/Orthodox"
+          "theologisch_concept": "Human Existence/Providence",
+          "doctrinale_traditie": "Reformed/Augustinian"
         },
         "mapping_structuur": [
           {
-            "bron_element": "Casual walking",
-            "doel_element": "Absolute authority over chaos"
+            "bron_element": "Storm",
+            "doel_element": "Suffering/Crisis"
           },
           {
-            "bron_element": "Storm/Hurricane",
-            "doel_element": "Cosmic evil and suffering"
+            "bron_element": "Sea",
+            "doel_element": "The World/Chaos"
+          },
+          {
+            "bron_element": "Shore",
+            "doel_element": "Salvation/Goal"
           }
         ],
         "entailments": {
           "cognitieve_implicaties": [
-            "The things that terrify me are trivial to Jesus."
+            "The hearer views life as inherently unstable and dangerous."
           ],
           "theologische_implicaties": [
-            "Christ is the Creator (God of Moses) rather than just a human agent."
+            "Human agency is insufficient for salvation; external rescue is required."
           ],
           "ethische_implicaties": [
-            "The believer can remain calm because their leader is unphased."
+            "Humility and dependence on God rather than self-reliance."
           ],
           "onbedoelde_consequenties": [
-            "Could imply God is indifferent or 'sightseeing' while people suffer."
+            "May lead to fatalism or a view of the world as purely evil/chaotic."
           ]
         },
         "vitaliteit_status": "LIVING",
-        "vitaliteit_toelichting": "The preacher revitalizes the 'walking on water' trope by using the Greek nuance of 'strolling' to contrast with the 'straining' of the disciples."
-      },
-      {
-        "metafoor_expressie": "He bowed his head into the storm of divine justice and wrath.",
-        "brondomein": {
-          "naam": "Meteorological Storm",
-          "concrete_elementen": [
-            "wind",
-            "pressure",
-            "impact",
-            "submersion"
-          ],
-          "belichaamde_basis": "force"
-        },
-        "doeldomein": {
-          "theologisch_concept": "Substitutionary Atonement",
-          "doctrinale_traditie": "Reformed"
-        },
-        "mapping_structuur": [
-          {
-            "bron_element": "The storm's center",
-            "doel_element": "God's judgment on sin"
-          },
-          {
-            "bron_element": "Drowning/Being thrown in",
-            "doel_element": "The death of Christ"
-          }
-        ],
-        "entailments": {
-          "cognitieve_implicaties": [
-            "Salvation was a physical and violent ordeal for the Savior."
-          ],
-          "theologische_implicaties": [
-            "Justice must be satisfied; it cannot simply be ignored."
-          ],
-          "ethische_implicaties": [
-            "Gratitude-based obedience rather than fear-based."
-          ],
-          "onbedoelde_consequenties": [
-            "Divine Child Abuse critique (God the Father as the source of the 'storm')."
-          ]
-        },
-        "vitaliteit_status": "LIVING",
-        "vitaliteit_toelichting": "Connects the narrative of Jonah to the Cross, making the abstract concept of 'wrath' a concrete weather event."
+        "vitaliteit_toelichting": "The preacher revitalizes the dead 'life is a journey' metaphor by specifying the 'sea' vs 'land' distinction, re-activating the sensory fear of drowning."
       }
     ]
   },
   "diagnostische_evaluatie": {
     "coherentie_analyse": {
       "overall_coherentie": "HIGHLY_COHERENT",
-      "coherentie_verklaring": "The sermon maintains a tight mapping between the physical setting of the text (the Sea of Galilee) and the conceptual reality of human life (the Sea of Life).",
-      "incoherentie_punten": [
-        {
-          "locatie": "Point 1 vs Point 2",
-          "metafoor_a": "Jesus as Uncontrollable Force",
-          "metafoor_b": "Jesus as Tender Counselor",
-          "conflict_beschrijving": "A force is impersonal; a counselor is personal.",
-          "entailment_conflict": "Forces are to be feared/obeyed; counselors are to be consulted/trusted.",
-          "ernst": "LOW"
-        }
-      ],
+      "coherentie_verklaring": "The sermon centers on the 'Storm' as the unifying source domain, linking physical weather, political oppression, and spiritual alienation.",
+      "incoherentie_punten": [],
       "succesvolle_blending": [
         {
-          "locatie": "Conclusion",
+          "locatie": "Section 3: Costly Salvation",
           "gemengde_metaforen": [
-            "Storm",
-            "Jonah",
-            "Justice"
+            "Nautical Storm",
+            "Legal/Penal Substitution"
           ],
-          "blending_strategie": "Narrative Typology: Jesus is the 'Ultimate Jonah' who absorbs the 'Ultimate Storm'."
+          "blending_strategie": "The 'Storm' becomes the 'Storm of Divine Justice' (wrath), allowing the physical narrative to carry the weight of the atonement doctrine."
         }
       ]
     },
     "sterktes": [
       {
         "sterkte_type": "REVITALIZATION",
-        "beschrijving": "Re-activates the 'walking' metaphor by emphasizing the 'strolling' aspect, disrupting the schema of a struggling Jesus.",
-        "voorbeeld": "It’s a word for sightseeing. It has to be deliberate."
-      },
-      {
-        "sterkte_type": "CLARITY",
-        "beschrijving": "Uses the 'Land Journey vs. Sea Journey' contrast to dismantle the listener's sense of self-sufficiency.",
-        "voorbeeld": "Most people think life is more like a land journey... The Bible says, 'No, life is a sea journey'."
+        "beschrijving": "Re-activates the 'I AM' statement by contrasting it with the 'Get back' schema of the Old Testament.",
+        "voorbeeld": "My I-Am-ness will kill you... but he says, 'Don’t be afraid.'"
       }
     ],
     "risicos": [
       {
         "risico_type": "LITERALIZATION",
-        "beschrijving": "By emphasizing the 'uncontrollable' nature of God, the preacher risks making God seem arbitrary or dangerous in a way that undermines the 'Counselor' image.",
-        "voorbeeld": "I am the uncontrollable force. I’m the untamed Lord.",
-        "potentiele_impact": "Congregants may feel a lack of agency or safety in their relationship with God.",
+        "beschrijving": "The 'Prosperity Gospel' is critiqued as a literalization of God as a vending machine or tool.",
+        "voorbeeld": "God is a means to an end.",
+        "potentiele_impact": "Congregants may realize they treat God as an object rather than a person.",
         "ernst": "MODERATE"
       }
     ],
     "text_world_analyse": {
-      "primaire_wereld": "A boat in a violent squall on the Sea of Galilee at night.",
+      "primaire_wereld": "The Sea of Galilee during a hurricane-force squall.",
       "sub_worlds": [
-        "The Exodus/Red Sea crossing",
+        "The wilderness with Moses",
+        "The burning bush",
         "The deck of Jonah's ship",
-        "A modern missionary training center",
-        "The 'inner world' of a person facing bereavement/illness"
+        "The modern life of a missionary trainee"
       ],
       "world_building_effectiviteit": "VIVID",
       "deictic_shifts": [
         {
-          "locatie": "Point 2",
-          "van_wereld": "1st Century Galilee",
-          "naar_wereld": "Modern psychological study on victim-blaming",
-          "effectiviteit": "High; it bridges the historical text to modern cognitive biases."
+          "locatie": "Transition to Point 2",
+          "van_wereld": "Ancient Galilee",
+          "naar_wereld": "Modern psychological study/Land journey",
+          "effectiviteit": "Strongly bridges the ancient text to the hearer's current self-perception."
         }
       ]
     },
     "schema_analyse": {
       "versterkte_schemas": [
         {
-          "schema_naam": "God as Transcendent/Holy",
-          "hoe_versterkt": "By linking 'I AM' to the 'Get back' warnings of the Old Testament."
+          "schema_naam": "God as Transcendent/Other",
+          "hoe_versterkt": "Emphasizing the 'uncontrollable force' and the 'I AM' name."
         }
       ],
       "verstoorde_schemas": [
         {
-          "schema_naam": "God as a Tool/Utility",
-          "verstoring_strategie": "Deconstructing the 'I'll serve you if' contract.",
-          "vervangend_schema": "God as Sovereign Lord/End-in-Himself"
+          "schema_naam": "God as a Tool/King-for-hire",
+          "verstoring_strategie": "Highlighting Jesus' refusal to be made king by force.",
+          "vervangend_schema": "God as the 'Untamed Lord' who sets the agenda."
         }
       ],
-      "liturgische_schema_aansluiting": "Fits a traditional service of Word and Sacrament where the 'Bread' and 'Storm' themes converge."
+      "liturgische_schema_aansluiting": "Fits a traditional 'Service of the Word' focusing on Exegesis and Application."
     }
   },
   "aanbevelingen": {
-    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY and FORCE domains. It successfully moves from the concrete (a storm at sea) to the abstract (the 'storm' of divine justice). The preacher avoids 'dead' metaphors by digging into Greek etymology and Old Testament typology, making the familiar story feel cognitively fresh.",
+    "metafoor_audit_samenvatting": "The sermon is dominated by the JOURNEY (Sea) and MILITARY (Resistance/Control) domains. It successfully moves from a concrete physical event to a deep psychological and theological reality. The preacher uses the 'Storm' as a master-metaphor for everything from cancer to the wrath of God.",
     "revitalisatie_suggesties": [
       {
-        "doel_metafoor": "Jesus as Bread",
-        "huidige_status": "Mentioned but not fully mapped in this specific text.",
-        "suggestie": "Link the 'breaking' of the bread to the 'breaking' of the body in the storm.",
+        "doel_metafoor": "JESUS IS THE BREAD",
+        "huidige_status": "Mentioned but overshadowed by the storm.",
+        "suggestie": "Connect the 'breaking' of bread more viscerally to the 'breaking' of the boat or the 'breaking' of the body in the storm.",
         "strategie": "DEEPEN_SOURCE",
-        "voorbeeld": "Just as the bread was torn to feed the 5,000, Jesus is torn by the storm to save the disciples."
+        "voorbeeld": "The bread was torn to feed the 5,000; his body was torn in the storm of the cross."
       }
     ],
     "coherentie_verbeteringen": [
       {
-        "incoherentie": "The shift from 'Uncontrollable Force' to 'Tender Counselor'.",
-        "resolutie_strategie": "Use the 'Container' metaphor: We are 'in' the boat with the Force that is for us."
+        "incoherentie": "The transition between 'Uncontrollable Force' and 'Wonderful Counselor'.",
+        "resolutie_strategie": "Use the 'Eye of the Storm' metaphor to show how the center of the force is the place of peace."
       }
     ],
     "entailment_checks": [
       {
         "metafoor": "LIFE IS A SEA JOURNEY",
-        "problematisch_entailment": "Implies total lack of control/agency for the human.",
-        "aanbeveling": "Balance with the 'rowing' (human effort) which Jesus acknowledges before intervening."
+        "problematisch_entailment": "Suggests humans have no control over their destination.",
+        "aanbeveling": "Clarify the role of 'rowing' (human effort) as necessary but insufficient."
       }
     ],
     "alternatieve_domeinen": [
       {
         "voorgesteld_domein": "ARCHITECTURAL",
-        "rationale": "To provide a sense of 'foundation' after the instability of the sea metaphors.",
-        "doel_concept": "The security of the believer."
+        "rationale": "To provide a sense of 'foundation' against the 'fluidity' of the sea.",
+        "doel_concept": "The Church as the 'Boat' that is a 'Building on the Water'."
       }
     ],
     "overall_beoordeling": "EXCELLENT",
-    "slotopmerking": "This sermon is a masterclass in using CMT to bridge biblical narrative with systematic theology. The 'Jonah' blend is particularly powerful."
+    "slotopmerking": "A masterclass in using CMT to bridge biblical narrative with systematic theology (Christology and Atonement)."
   },
   "comparatieve_analyse": {
-    "verschil_met_esthetiek": "Instead of just admiring the 'beauty' of Jesus walking on water, CMT reveals how this image restructures the hearer's understanding of power and safety.",
-    "verschil_met_kolb": "Moves beyond 'feeling' or 'doing' to the fundamental cognitive 'mapping' of how one perceives the 'storms' of life.",
-    "unieke_inzichten_CMT": "Identifies that the 'I'll serve you if' mentality is a failed ECONOMIC mapping that Jesus disrupts with a FORCE mapping."
+    "verschil_met_esthetiek": "Instead of just admiring the 'walking on water' imagery, CMT reveals how this image restructures the hearer's view of 'control'.",
+    "verschil_met_kolb": "Focuses on the cognitive mapping of 'Storm' to 'Sin' rather than just the experiential learning cycle.",
+    "unieke_inzichten_CMT": "Reveals that the 'Prosperity Gospel' is actually a category error in metaphorical mapping (treating a Covenant as a Commercial Contract)."
   },
   "appendices": {
     "volledige_metafoor_lijst": [
-      "Under the boot of Rome",
-      "Bread of heaven",
-      "Fighting God",
-      "Straining at the oars",
-      "Casually strolling",
-      "Life is a sea journey",
-      "Out of your depth",
-      "Turned to gold",
-      "Bowed his head into the storm"
+      "under the boot of Rome",
+      "bread of heaven",
+      "fighting God",
+      "deconstructing religion",
+      "slogging through water",
+      "casually strolling through the hurricane",
+      "untamed Lord",
+      "hands off her life",
+      "out of your depth",
+      "thrown into the storm"
     ],
     "woord_frequentie_analyse": {
       "storm": "18",
-      "Jesus": "24",
-      "God": "22",
-      "Moses": "9",
-      "life": "12",
-      "power": "7"
+      "water": "12",
+      "control": "9",
+      "afraid": "7",
+      "king": "6"
     },
-    "notities": "The preacher uses 'Theology of the Cross' to resolve the tension between God's power and human suffering."
+    "notities": "The use of the 'Jonah' typology is a brilliant example of 'Metaphorical Intertextuality'."
   }
 }
